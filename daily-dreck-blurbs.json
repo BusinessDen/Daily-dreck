@@ -1,22 +1,22 @@
 {
   "generated_date": "2026-03-04",
-  "lead_headline": "Metro restaurant scene hits pause: zero openings or closures logged in seven days, the first flatline week since tracking began.",
+  "lead_headline": "Metro restaurant scene hits pause: zero openings, zero closures across the board for first time in weeks.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero openings, zero closures</strong> in the past seven days \u2014 a rare complete standstill after February's flurry. Last week saw six events including Yogurtland Arvada, Riot House downtown, and Reunion Bread in Platt Park. The lull likely reflects typical post-winter recalibration before spring leasing kicks in.",
+      "blurb": "<strong>Zero openings, zero closures</strong> over the past seven days \u2014 a rare flat week for Denver's 5,880-venue dining landscape. Last week saw six status changes including Riot House at Union Station and Reunion Bread in Platt Park, but the market has gone quiet. Whether it's post-winter recalibration or pre-spring lull, the numbers tell a story of collective breath-holding.",
       "meta": "Updated today \u00b7 5:00 AM",
       "ticker": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+0",
         "class1": "",
         "label2": "closed",
-        "value2": "0",
+        "value2": "\u22120",
         "class2": "",
         "period": "7-day"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>Zero new filings</strong> this week and none yet in March. February's quiet carried forward \u2014 no high-value distress, no auction notices. Total tracked portfolio holds at 1,539 properties.",
+      "blurb": "<strong>Zero new filings</strong> this week and through March so far \u2014 continuing February's momentum when six venues including Yogurtland Arvada and Cookie Dough Bliss surfaced on our radar. The 1,539-property database holds steady with no distress signals emerging from the residential side either. Quiet books across the board.",
       "meta": "Updated today \u00b7 5:00 AM",
       "ticker": {
         "label1": "new filings",
@@ -29,7 +29,7 @@
       }
     },
     "retail": {
-      "blurb": "Retail lease tracking in development. Storefront vacancy and big-box turnover data coming soon.",
+      "blurb": "Retail leasing and vacancy tracker in development \u2014 testing data feeds from CoStar and Placer.ai integrations.",
       "meta": "Expected Q2 2026",
       "ticker": {
         "label1": "",
@@ -42,7 +42,7 @@
       }
     },
     "revenue": {
-      "blurb": "Sales tax revenue by district planned for future rollout. Tracking municipal economic indicators.",
+      "blurb": "Sales tax revenue analysis tool planned \u2014 coordinating municipal data partnerships with Denver, Aurora, Lakewood.",
       "meta": "Expected Q3 2026",
       "ticker": {
         "label1": "",
@@ -55,7 +55,7 @@
       }
     },
     "reputation": {
-      "blurb": "Health inspection scores and permit violations analysis on the roadmap for later this year.",
+      "blurb": "Review sentiment tracker planned \u2014 aggregating Google, Yelp, and inspection data for business health scoring.",
       "meta": "Expected Q4 2026",
       "ticker": {
         "label1": "",
