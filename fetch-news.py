@@ -16,7 +16,6 @@ from urllib.error import URLError
 # RSS feeds to monitor
 FEEDS = [
     # ── TIER 1: Core Colorado business (no keyword filter) ──
-    {"name": "BusinessDen", "short": "BusinessDen", "url": "https://businessden.com/feed/", "filter_keywords": None},
     {"name": "Denver Post", "short": "Denver Post", "url": "https://www.denverpost.com/business/feed/", "filter_keywords": None},
     {"name": "BizWest", "short": "BizWest", "url": "https://bizwest.com/feed/", "filter_keywords": None},
     {"name": "CO Real Estate Journal", "short": "CREJ", "url": "https://crej.com/feed/", "filter_keywords": None},
@@ -148,10 +147,14 @@ def normalize_title(title):
 def deduplicate(articles):
     """Remove duplicate articles (same story from multiple sources).
     Keeps the version from the most authoritative source."""
-    # Priority: local sources first
+    # Priority: local business-first sources ranked highest
     source_priority = {
-        "BusinessDen": 1, "Denver Post": 2, "Colorado Sun": 3, "BizWest": 4,
-        "CPR": 5, "9News": 6, "WaPo": 7,
+        "Denver Post": 1, "BizWest": 2, "Colorado Sun": 3,
+        "CREJ": 4, "Bisnow": 5, "Mile High CRE": 6, "Daily Camera": 7,
+        "Denverite": 8, "CPR": 9, "9News": 10, "Denver7": 11, "Fox31": 12,
+        "Westword": 13, "CO Politics": 14, "Sentinel": 15,
+        "Eater Denver": 16, "Denver Infill": 17,
+        "MJBizDaily": 18, "MJ Moment": 19, "WaPo": 20,
     }
 
     seen = {}
@@ -223,28 +226,28 @@ def main():
     # Classify breaking
     all_articles = classify_breaking(all_articles)
 
-    # Select: all breaking + most recent 15
-    breaking = [a for a in all_articles if a["breaking"]]
-    non_breaking = [a for a in all_articles if not a["breaking"]]
-    selected = breaking + non_breaking[:MAX_HEADLINES - len(breaking)]
+    # Select top headlines — strictly newest first, breaking is just a badge
+    selected = all_articles[:MAX_HEADLINES]
 
     # Add formatted time
     for article in selected:
         article["time_ago"] = format_time_ago(article["age_hours"])
+
+    breaking_count = sum(1 for a in selected if a["breaking"])
 
     # Write output
     output = {
         "fetched_date": datetime.now().strftime("%Y-%m-%d"),
         "fetched_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "article_count": len(selected),
-        "breaking_count": len(breaking),
+        "breaking_count": breaking_count,
         "articles": selected,
     }
 
     with open("daily-dreck-news.json", "w") as f:
         json.dump(output, f, indent=2)
 
-    print(f"\nSelected {len(selected)} headlines ({len(breaking)} breaking)")
+    print(f"\nSelected {len(selected)} headlines ({breaking_count} breaking)")
     for a in selected[:5]:
         prefix = "[BREAKING] " if a["breaking"] else ""
         print(f"  {prefix}{a['source']}: {a['title'][:70]}...")
