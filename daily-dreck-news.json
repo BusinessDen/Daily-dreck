@@ -1,51 +1,60 @@
 {
   "fetched_date": "2026-03-04",
-  "fetched_at": "2026-03-04 18:11:39",
+  "fetched_at": "2026-03-04 18:29:58",
   "article_count": 20,
   "breaking_count": 20,
   "articles": [
+    {
+      "title": "Elon Musk takes stand in Twitter shareholder trial accusing him of deflating stock before purchase",
+      "link": "https://www.dailycamera.com/2026/03/04/musk-twitter-shareholders/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-04T18:08:46+00:00",
+      "age_hours": 0.3488817558333333,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
     {
       "title": "Everything you need to know about Apple\u2019s \u2018big week\u2019 of product launches",
       "link": "https://www.dailycamera.com/2026/03/04/apple-product-launches/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T17:58:37+00:00",
-      "age_hours": 0.21303479,
+      "age_hours": 0.5180484294444444,
       "breaking": true,
-      "time_ago": "12 min ago"
+      "time_ago": "31 min ago"
     },
     {
       "title": "Ruby Hill Rail Yard closes early after unusually warm winter",
       "link": "https://kdvr.com/news/local/ruby-hill-rail-yard-closes-early-after-unusually-warm-winter/",
       "source": "Fox31",
       "pub_date": "2026-03-04T17:50:47+00:00",
-      "age_hours": 0.3439619097222222,
+      "age_hours": 0.6491125433333333,
       "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "38 min ago"
     },
     {
       "title": "Departure of Colorado\u2019s largest public company Palantir could mean economic pain, new report says",
       "link": "https://www.denver7.com/money/business-news/departure-of-colorados-largest-public-company-palantir-could-mean-economic-pain-new-report-says",
       "source": "Denver7",
       "pub_date": "2026-03-04T17:39:22+00:00",
-      "age_hours": 0.5341114577777778,
+      "age_hours": 0.8392579080555556,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "50 min ago"
     },
     {
       "title": "Fire forces temporary closure of Los Dos Potrillos restaurant",
       "link": "https://www.9news.com/article/news/local/los-dos-potrillos-fire-restaurant/73-6bd83fa4-7ba2-4769-906b-a6bb1c5f1051",
       "source": "9News",
       "pub_date": "2026-03-04T17:32:51+00:00",
-      "age_hours": 0.6426312636111111,
+      "age_hours": 0.9476838847222223,
       "breaking": true,
-      "time_ago": "38 min ago"
+      "time_ago": "56 min ago"
     },
     {
       "title": "9Things to do in Colorado this weekend: March 6-8",
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-events-guide-colorado-denver/73-f8c67493-c2ff-4b72-ae89-e8e878e98714",
       "source": "9News",
       "pub_date": "2026-03-04T16:37:23+00:00",
-      "age_hours": 1.5670757269444446,
+      "age_hours": 1.8721283480555555,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.denverpost.com/2026/03/04/colorado-property-taxes-bills/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T16:11:05+00:00",
-      "age_hours": 2.0042941952777777,
+      "age_hours": 2.3095355141666665,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://www.denverpost.com/2026/03/04/supply-chain-iran-war/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T15:45:10+00:00",
-      "age_hours": 2.436238651111111,
+      "age_hours": 2.7414799675,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/denver-restaurant-week-returns/73-8c4c2813-f003-4243-a565-d4dfeb9b0a2d",
       "source": "9News",
       "pub_date": "2026-03-04T15:31:09+00:00",
-      "age_hours": 2.670964637222222,
+      "age_hours": 2.9760172725,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.9news.com/article/money/business/chicken-salad-chick-new-restaurant/73-1be490b7-1adb-4af3-98c9-22a77681e4eb",
       "source": "9News",
       "pub_date": "2026-03-04T15:03:27+00:00",
-      "age_hours": 3.1326313075,
+      "age_hours": 3.437683943888889,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.dailycamera.com/2026/03/04/how-to-save-money-14-easy-tips/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T15:00:36+00:00",
-      "age_hours": 3.179979246944445,
+      "age_hours": 3.4849928799999996,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/03/04/corden-pharma-leases-5505-central-spec-building-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-03-04T14:53:23+00:00",
-      "age_hours": 3.2993654180555554,
+      "age_hours": 3.604645551388889,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.dailycamera.com/2026/03/04/colorado-workers-among-thousands-laid-off-by-jack-dorseys-block/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T14:31:16+00:00",
-      "age_hours": 3.668868138888889,
+      "age_hours": 3.973881771388889,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/03/04/crossroads-safehouse-to-open-the-hive-center/",
       "source": "BizWest",
       "pub_date": "2026-03-04T13:51:07+00:00",
-      "age_hours": 4.337143205555555,
+      "age_hours": 4.642423336111111,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-sunshine-wednesday-before-friday-snow/",
       "source": "Fox31",
       "pub_date": "2026-03-04T13:07:32+00:00",
-      "age_hours": 5.064795265277778,
+      "age_hours": 5.369945895833333,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.denverpost.com/2026/03/04/asher-luzzatto-downtown-denver-apartments/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:22+00:00",
-      "age_hours": 5.182905322222222,
+      "age_hours": 5.488146638611111,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://www.denverpost.com/2026/03/04/denver-housing-market-accelerates/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:18+00:00",
-      "age_hours": 5.184016436944444,
+      "age_hours": 5.489257753055556,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.denverpost.com/2026/03/04/poulette-bakeshop-parker-new-location-opening/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:07+00:00",
-      "age_hours": 5.187071995833334,
+      "age_hours": 5.4923133122222225,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.denverpost.com/2026/03/04/curtis-fentress-sells-broadway-buildings/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:07+00:00",
-      "age_hours": 5.1870719988888885,
+      "age_hours": 5.492313315277778,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://www.denverpost.com/2026/03/04/colorado-gold-mining-losses/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:03+00:00",
-      "age_hours": 5.188183112777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "US stocks rebound after strong economic updates and an easing of oil prices",
-      "link": "https://www.dailycamera.com/2026/03/04/markets-us-iran-war/",
-      "source": "Daily Camera",
-      "pub_date": "2026-03-04T12:51:14+00:00",
-      "age_hours": 5.336090363888888,
+      "age_hours": 5.493424428888889,
       "breaking": true,
       "time_ago": "5 hrs ago"
     }
