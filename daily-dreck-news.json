@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-03-04",
-  "fetched_at": "2026-03-04 13:21:52",
+  "fetched_at": "2026-03-04 14:38:30",
   "article_count": 20,
-  "breaking_count": 17,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Colorado workers among thousands laid off by Jack Dorsey\u2019s Block",
+      "link": "https://www.dailycamera.com/2026/03/04/colorado-workers-among-thousands-laid-off-by-jack-dorseys-block/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-04T14:31:16+00:00",
+      "age_hours": 0.11591757583333333,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
+    {
+      "title": "Crossroads Safehouse to open The HIVE center",
+      "link": "https://bizwest.com/2026/03/04/crossroads-safehouse-to-open-the-hive-center/",
+      "source": "BizWest",
+      "pub_date": "2026-03-04T13:51:07+00:00",
+      "age_hours": 0.7842075372222221,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
     {
       "title": "Denver weather: More sunshine Wednesday before Friday snow",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-sunshine-wednesday-before-friday-snow/",
       "source": "Fox31",
       "pub_date": "2026-03-04T13:07:32+00:00",
-      "age_hours": 0.2344580536111111,
+      "age_hours": 1.5118763191666666,
       "breaking": true,
-      "time_ago": "14 min ago"
-    },
-    {
-      "title": "PERRY: Aurora support of state civil rights bills isn\u2019t \u2018theater,\u2019 it\u2019s real life",
-      "link": "https://sentinelcolorado.com/opinion/perry-aurora-support-of-state-civil-rights-bills-isnt-theater-its-real-life/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-04T13:06:24+00:00",
-      "age_hours": 0.2537596697222222,
-      "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Chicken salad chain opens new restaurant in Denver area",
       "link": "https://www.9news.com/article/money/business/chicken-salad-chick-new-restaurant/73-1be490b7-1adb-4af3-98c9-22a77681e4eb",
       "source": "9News",
       "pub_date": "2026-03-04T13:04:28+00:00",
-      "age_hours": 0.2853462913888889,
+      "age_hours": 1.5627577725,
       "breaking": true,
-      "time_ago": "17 min ago"
-    },
-    {
-      "title": "Aurora focusing on long-coming plan to solve $2 billion capital needs puzzle",
-      "link": "https://sentinelcolorado.com/0trending/aurora-focusing-on-long-coming-plan-to-solve-2-billion-capital-needs-puzzle/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-04T13:02:28+00:00",
-      "age_hours": 0.3193152427777778,
-      "breaking": true,
-      "time_ago": "19 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Luzzatto clears hurdle for $300M downtown Denver office-to-residential conversion project",
       "link": "https://www.denverpost.com/2026/03/04/asher-luzzatto-downtown-denver-apartments/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:22+00:00",
-      "age_hours": 0.35237288833333336,
+      "age_hours": 1.6300072213888888,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Metro Denver\u2019s housing market revs up as affordability improves",
       "link": "https://www.denverpost.com/2026/03/04/denver-housing-market-accelerates/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:18+00:00",
-      "age_hours": 0.35348401083333336,
+      "age_hours": 1.6311183413888888,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Poulette, one of Colorado\u2019s best bakeries, will soon open in a new space",
       "link": "https://www.denverpost.com/2026/03/04/poulette-bakeshop-parker-new-location-opening/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:07+00:00",
-      "age_hours": 0.35653957138888887,
+      "age_hours": 1.6341739011111112,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Fentress sells Broadway buildings to Magnetic Capital for $13M",
       "link": "https://www.denverpost.com/2026/03/04/curtis-fentress-sells-broadway-buildings/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:07+00:00",
-      "age_hours": 0.3565395747222222,
+      "age_hours": 1.6341739044444443,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado mining stocks fall hard after investors sell gold",
       "link": "https://www.denverpost.com/2026/03/04/colorado-gold-mining-losses/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:03+00:00",
-      "age_hours": 0.35765068916666665,
+      "age_hours": 1.635285018611111,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
-      "title": "WATCH LIVE: Pentagon briefing on Iran conflict developments",
-      "link": "https://www.9news.com/article/news/nation-world/us-iran-conflict-more-strikes-across-the-region/507-e60207b1-be11-406d-b714-8916bd327c17",
-      "source": "9News",
-      "pub_date": "2026-03-04T12:54:22+00:00",
-      "age_hours": 0.4536796347222222,
-      "breaking": true,
-      "time_ago": "27 min ago"
-    },
-    {
-      "title": "Markets in Europe gain while Asian shares swoon as the war with Iran widens and oil surges higher",
+      "title": "Wall Street is mixed and oil prices stabilize with war in Iran entering a fifth day",
       "link": "https://www.dailycamera.com/2026/03/04/markets-us-iran-war/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T12:51:14+00:00",
-      "age_hours": 0.5057914291666666,
+      "age_hours": 1.7831398058333332,
       "breaking": true,
-      "time_ago": "30 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Growing need at MSU Denver food pantry sparks MBA-led sustainability plan",
       "link": "https://www.denver7.com/news/front-range/denver/growing-need-at-msu-denver-food-pantry-sparks-mba-led-sustainability-plan",
       "source": "Denver7",
       "pub_date": "2026-03-04T12:48:34+00:00",
-      "age_hours": 0.5504326180555555,
+      "age_hours": 1.8278734191666668,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Brown Palace Hotel and Spa in Denver listed for sale",
       "link": "https://www.9news.com/article/money/markets/real-estate/brown-palace-hotel-listed-for-sale/73-2dca378f-61d9-4912-afbb-427ee30a7f31",
       "source": "9News",
       "pub_date": "2026-03-04T12:36:03+00:00",
-      "age_hours": 0.7589574172222222,
+      "age_hours": 2.036368889722222,
       "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Rising costs putting pressure on Denver restaurants, report finds",
       "link": "https://www.9news.com/article/life/rising-costs-denver-restaurants-struggling-report/73-7d9a1b48-1e0d-4b39-b5cb-d6bdf4a60d3d",
       "source": "9News",
       "pub_date": "2026-03-04T11:56:34+00:00",
-      "age_hours": 1.4170129827777778,
+      "age_hours": 2.6944244522222225,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Here's how much snow Denver could see this week",
       "link": "https://www.9news.com/article/weather/weather-impact/snow-denver-forecast/73-6d6a15ce-42ae-4520-aa53-ee3a6b02fbcb",
       "source": "9News",
       "pub_date": "2026-03-04T11:43:06+00:00",
-      "age_hours": 1.6414574333333334,
+      "age_hours": 2.9188689025,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado entrepreneurs build a holding company for employee-owned outdoor recreation businesses",
       "link": "https://coloradosun.com/2026/03/04/outdoor-rec-collective-employee-owned/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-04T11:00:00+00:00",
-      "age_hours": 2.3597075475,
+      "age_hours": 3.637078776666667,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado\u2019s public lands are not for sale | OPINION",
       "link": "https://www.coloradopolitics.com/2026/03/04/colorados-public-lands-are-not-for-sale-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-03-04T07:45:00+00:00",
-      "age_hours": 5.610397660277777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.8878447933333335,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Edgewise boosts R&D spending in Q4 with drug milestones in sight",
       "link": "https://www.dailycamera.com/2026/03/03/edgewise-boosts-rd-spending-in-q4-with-drug-milestones-in-sight/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T06:31:43+00:00",
-      "age_hours": 6.8310692161111115,
+      "age_hours": 8.108417587222222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Broadband firm Vero dials up $500M from investors",
       "link": "https://www.dailycamera.com/2026/03/03/broadband-firm-vero-dials-up-500m-from-investors/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T06:31:31+00:00",
-      "age_hours": 6.834402553333334,
+      "age_hours": 8.111750925555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Gogo predicts 2026 sales as high as $945M",
       "link": "https://www.dailycamera.com/2026/03/03/gogo-predicts-2026-sales-as-high-as-945m/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T06:31:00+00:00",
-      "age_hours": 6.843013667222222,
+      "age_hours": 8.120362042222222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Biodesix expects 2026 sales to crack $100M",
+      "link": "https://www.dailycamera.com/2026/03/03/biodesix-expects-2026-sales-to-crack-100m/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-04T06:30:50+00:00",
+      "age_hours": 8.123139825,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     }
   ]
 }
