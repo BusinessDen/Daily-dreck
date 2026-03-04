@@ -1,24 +1,51 @@
 {
   "fetched_date": "2026-03-04",
-  "fetched_at": "2026-03-04 08:58:58",
-  "article_count": 10,
-  "breaking_count": 0,
+  "fetched_at": "2026-03-04 09:09:41",
+  "article_count": 15,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Denver mayor's office offers $250 incentive to teens for landing summer jobs",
+      "link": "https://www.9news.com/article/news/local/denver-mayors-office-250-bonuses-teens-summer-jobs/73-5efe064c-f23d-42dd-9ba1-df00255e9627",
+      "source": "9News",
+      "pub_date": "2026-03-04T04:50:34+00:00",
+      "age_hours": 4.315855288611111,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Dow drops 400 after trimming an early plunge of 1,200 as oil prices climb even higher",
+      "link": "https://www.9news.com/article/news/nation-world/wall-street-stock-market-volatility-dow-jones-sp500-global-markets-iran-conflict-inflation/507-19fe6821-3db2-49fb-9dc4-89715d83bab0",
+      "source": "9News",
+      "pub_date": "2026-03-03T22:12:22+00:00",
+      "age_hours": 10.952522024722223,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
+    },
     {
       "title": "Weld County\u2019s GDP growth ranks No. 7 in Colorado",
       "link": "https://bizwest.com/2026/03/03/weld-countys-gdp-growth-ranks-no-7-in-colorado/",
       "source": "BizWest",
       "pub_date": "2026-03-03T22:07:21+00:00",
-      "age_hours": 10.857819875277778,
+      "age_hours": 11.036072573611111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
+    },
+    {
+      "title": "$10 stadium hot dog in Colorado lives on as effort to prevent high \u201ccaptive audience\u201d pricing meets demise",
+      "link": "https://coloradosun.com/2026/03/03/captive-audience-pricing-colorado-bill-fails/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-03-03T21:58:17+00:00",
+      "age_hours": 11.187146135277779,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Eagles\u2019 owner, still nesting at Ranch, holds out hope for Greeley",
       "link": "https://bizwest.com/2026/03/03/eagles-owner-still-nesting-at-ranch-holds-out-hope-for-greeley/",
       "source": "BizWest",
       "pub_date": "2026-03-03T21:34:57+00:00",
-      "age_hours": 11.397819886944445,
+      "age_hours": 11.576072579722222,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -27,7 +54,7 @@
       "link": "https://bizwest.com/2026/03/03/gloo-raises-2026-sales-outlook-on-heels-of-layoffs/",
       "source": "BizWest",
       "pub_date": "2026-03-03T21:19:24+00:00",
-      "age_hours": 11.656986559444444,
+      "age_hours": 11.835239249999999,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -36,16 +63,43 @@
       "link": "https://bizwest.com/2026/03/03/gaias-2025-sales-neared-100m/",
       "source": "BizWest",
       "pub_date": "2026-03-03T21:07:47+00:00",
-      "age_hours": 11.850597674722222,
+      "age_hours": 12.028850363888889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
+    },
+    {
+      "title": "Justice Department lawyer says concert ticket industry is broken because of Ticketmaster",
+      "link": "https://www.denverpost.com/2026/03/03/justice-department-ticketmaster-lawsuit/",
+      "source": "Denver Post",
+      "pub_date": "2026-03-03T19:18:49+00:00",
+      "age_hours": 13.844883618333334,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
+    },
+    {
+      "title": "Contract Grant Writer",
+      "link": "https://coloradosun.com/2026/03/03/contract-grant-writer/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-03-03T17:22:09+00:00",
+      "age_hours": 15.789368372222222,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Edmunds Top Rated vehicle awards for 2026",
+      "link": "https://www.denverpost.com/2026/03/03/edmunds-top-rated-vehicle-awards-2026/",
+      "source": "Denver Post",
+      "pub_date": "2026-03-03T15:00:20+00:00",
+      "age_hours": 18.1529391775,
+      "breaking": false,
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Centerra South rebrands as Avenue South; work underway",
       "link": "https://bizwest.com/2026/03/03/centerra-south-rebrands-as-avenue-south-work-underway/",
       "source": "BizWest",
       "pub_date": "2026-03-03T14:33:16+00:00",
-      "age_hours": 18.425875456666667,
+      "age_hours": 18.604128144444445,
       "breaking": false,
       "time_ago": "18 hrs ago"
     },
@@ -54,45 +108,36 @@
       "link": "https://bizwest.com/2026/03/03/guest-named-bank-of-colorados-windsor-market-president/",
       "source": "BizWest",
       "pub_date": "2026-03-03T14:04:40+00:00",
-      "age_hours": 18.902542127222222,
+      "age_hours": 19.08079481388889,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
-      "title": "Loveland council to mull tourism district, Bass Pro mega-sign",
-      "link": "https://bizwest.com/2026/03/02/loveland-council-to-mull-tourism-district-bass-pro-mega-sign/",
-      "source": "BizWest",
-      "pub_date": "2026-03-02T21:36:01+00:00",
-      "age_hours": 35.38004213111111,
+      "title": "Rising gas prices in Colorado could climb faster if war drags on",
+      "link": "https://www.denverpost.com/2026/03/03/colorado-gas-prices-iran-war/",
+      "source": "Denver Post",
+      "pub_date": "2026-03-03T13:00:58+00:00",
+      "age_hours": 20.142383624999997,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "20 hrs ago"
     },
     {
-      "title": "Frederick mulling millions to lure Lowe\u2019s",
-      "link": "https://bizwest.com/2026/03/02/frederick-mulling-millions-to-lure-lowes/",
-      "source": "BizWest",
-      "pub_date": "2026-03-02T21:23:31+00:00",
-      "age_hours": 35.58837546805556,
+      "title": "Coworking space with golf simulators adding a second location in Denver",
+      "link": "https://www.denverpost.com/2026/03/03/clubhouse-work-golf-coworking-denver-location/",
+      "source": "Denver Post",
+      "pub_date": "2026-03-03T13:00:46+00:00",
+      "age_hours": 20.14571696111111,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "20 hrs ago"
     },
     {
-      "title": "JumpCloud hires info-security chief",
-      "link": "https://bizwest.com/2026/03/02/jumpcloud-hires-info-security-chief/",
-      "source": "BizWest",
-      "pub_date": "2026-03-02T21:04:19+00:00",
-      "age_hours": 35.908375471666666,
+      "title": "Fentress sells Broadway buildings to Magnetic for $13M",
+      "link": "https://businessden.com/2026/03/03/fentress-sells-broadway-buildings-to-magnetic-for-13m/",
+      "source": "BusinessDen",
+      "pub_date": "2026-03-03T11:47:01+00:00",
+      "age_hours": 21.37486998111111,
       "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Tayer: Boulder County Commission expansion: Call the question!",
-      "link": "https://bizwest.com/2026/03/02/tayer-boulder-county-commission-expansion-call-the-question/",
-      "source": "BizWest",
-      "pub_date": "2026-03-02T14:19:49+00:00",
-      "age_hours": 42.65004214222222,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "21 hrs ago"
     }
   ]
 }
