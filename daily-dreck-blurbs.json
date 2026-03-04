@@ -1,49 +1,89 @@
 {
   "generated_date": "2026-03-04",
-  "lead_headline": "South Broadway Takes Another Hit as Filings Climb",
+  "lead_headline": "Foreclosure filings more than doubled week-over-week to 49 cases worth $22M, led by an $8.1M Arapahoe County property, while restaurant openings cooled sharply from 28 to 18.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 openings, 2 closures</strong> detected today. Weekly tally stands at 13 openings against 5 closures — net positive, but two South Broadway losses overnight signal continued pressure on the corridor. Last week was 9 and 3, so the pace is accelerating both ways.",
-      "meta": "Updated today · 5:15 AM",
+      "blurb": "<strong>18 openings and 16 closures</strong> over the past seven days \u2014 a marked slowdown from the prior week's 28 openings (and 47 closures). The churn is stabilizing, but net activity remains muted. Notable moves: Reunion Bread launched in Platt Park, Takiza Taco shuttered in Union Station, and a Quiznos in Thornton flickered on Google's radar twice in 24 hours. Post-holiday doldrums or genuine market correction?",
+      "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
-        "label1": "opened", "value1": "+3", "class1": "up",
-        "label2": "closed", "value2": "−2", "class2": "down",
+        "label1": "opened",
+        "value1": "0",
+        "class1": "",
+        "label2": "closed",
+        "value2": "0",
+        "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
-        "label1": "opened", "value1": "+13", "class1": "up",
-        "label2": "closed", "value2": "−5", "class2": "down",
+        "label1": "opened",
+        "value1": "+18",
+        "class1": "up",
+        "label2": "closed",
+        "value2": "\u221216",
+        "class2": "down",
         "period": "7-day"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>23 new filings</strong> this week, up sharply from 17 last week — a 35% jump. Three properties exceed $2M, all Cherry Creek and Wash Park. The high-end segment is showing fresh stress not seen since Q3 2025.",
-      "meta": "Updated today · 5:15 AM",
+      "blurb": "<strong>49 new filings</strong> this week \u2014 more than double last week's 20 \u2014 totaling <strong>$22.2M</strong> in distressed debt. The headline: a single $8.1M property in Arapahoe County. Weld and Larimer lead volume at 285 and 259 active cases respectively, while Denver remains quiet at 29. With 50 auctions scheduled in the next week, the spring distress cycle is accelerating ahead of forecast.",
+      "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
-        "label1": "new filings", "value1": "4", "class1": "",
-        "label2": "auctions", "value2": "2", "class2": "",
+        "label1": "new filings",
+        "value1": "49",
+        "class1": "",
+        "label2": "upcoming auctions",
+        "value2": "50",
+        "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
-        "label1": "filings", "value1": "23", "class1": "",
-        "label2": "sold", "value2": "8", "class2": "",
+        "label1": "filings",
+        "value1": "49",
+        "class1": "",
+        "label2": "sold",
+        "value2": "11",
+        "class2": "",
         "period": "7-day"
       }
     },
     "retail": {
-      "blurb": "Data pipeline under construction. First metrics expected Q2 2026.",
+      "blurb": "Retail lease and vacancy tracking in development. Prototype testing underway with Denver metro brokers.",
       "meta": "Expected Q2 2026",
-      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+      "ticker": {
+        "label1": "",
+        "value1": "",
+        "class1": "",
+        "label2": "",
+        "value2": "",
+        "class2": "",
+        "period": ""
+      }
     },
     "revenue": {
-      "blurb": "Dashboard consolidation in progress. Launch expected Q3 2026.",
+      "blurb": "Sales tax and business revenue intelligence module planned for late 2026 launch.",
       "meta": "Expected Q3 2026",
-      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+      "ticker": {
+        "label1": "",
+        "value1": "",
+        "class1": "",
+        "label2": "",
+        "value2": "",
+        "class2": "",
+        "period": ""
+      }
     },
     "reputation": {
-      "blurb": "Web citation tracking on the roadmap. Expected Q4 2026.",
+      "blurb": "Sentiment analysis and review aggregation tool in roadmap stage. Data partnerships under discussion.",
       "meta": "Expected Q4 2026",
-      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+      "ticker": {
+        "label1": "",
+        "value1": "",
+        "class1": "",
+        "label2": "",
+        "value2": "",
+        "class2": "",
+        "period": ""
+      }
     }
   }
 }
