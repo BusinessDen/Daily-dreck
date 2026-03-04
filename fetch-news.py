@@ -15,15 +15,18 @@ from urllib.error import URLError
 
 # RSS feeds to monitor
 FEEDS = [
-    {"name": "Denver Post", "short": "Denver Post", "url": "https://www.denverpost.com/feed/", "filter_keywords": ["business", "real estate", "restaurant", "retail", "development", "economy", "housing", "commercial", "office", "downtown", "denver"]},
-    {"name": "Westword", "short": "Westword", "url": "https://www.westword.com/denver/Rss.xml", "filter_keywords": ["business", "restaurant", "food", "development", "real estate", "retail", "economy"]},
-    {"name": "BizWest", "short": "BizWest", "url": "https://bizwest.com/feed/", "filter_keywords": None},  # All BizWest articles are relevant
-    {"name": "Denver Business Journal", "short": "DBJ", "url": "https://feeds.bizjournals.com/bizj_denver", "filter_keywords": None},
-    # National papers — filter for Denver/Colorado mentions
-    {"name": "New York Times", "short": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "filter_keywords": ["denver", "colorado", "boulder", "aurora", "front range"]},
-    {"name": "Wall Street Journal", "short": "WSJ", "url": "https://feeds.a]wsj.com/rss/RSSMarketsMain.xml", "filter_keywords": ["denver", "colorado"]},
-    {"name": "Washington Post", "short": "WaPo", "url": "https://feeds.washingtonpost.com/rss/business", "filter_keywords": ["denver", "colorado"]},
-    {"name": "Reuters", "short": "Reuters", "url": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best", "filter_keywords": ["denver", "colorado", "housing", "real estate"]},
+    # Local Denver/Colorado — no keyword filter needed, all articles relevant
+    {"name": "BusinessDen", "short": "BusinessDen", "url": "https://businessden.com/feed/", "filter_keywords": None},
+    {"name": "Denver Post", "short": "Denver Post", "url": "https://www.denverpost.com/business/feed/", "filter_keywords": None},
+    {"name": "Colorado Sun", "short": "Colorado Sun", "url": "https://coloradosun.com/feed/", "filter_keywords": ["business", "real estate", "restaurant", "retail", "development", "economy", "housing", "commercial", "office", "denver", "foreclosure", "construction"]},
+    {"name": "BizWest", "short": "BizWest", "url": "https://bizwest.com/feed/", "filter_keywords": None},
+    {"name": "CPR News", "short": "CPR", "url": "https://www.cpr.org/feed/", "filter_keywords": ["business", "economy", "housing", "real estate", "denver", "restaurant", "development", "commercial", "retail"]},
+    {"name": "9News", "short": "9News", "url": "https://www.9news.com/feeds/syndication/rss/news", "filter_keywords": ["business", "real estate", "restaurant", "development", "economy", "housing", "commercial", "retail", "denver"]},
+    # National — filter for Denver/Colorado mentions only
+    {"name": "Washington Post", "short": "WaPo", "url": "https://feeds.washingtonpost.com/rss/business", "filter_keywords": ["denver", "colorado", "boulder", "aurora, co", "front range"]},
+    # Cannabis industry — filter for Colorado mentions
+    {"name": "MJBizDaily", "short": "MJBizDaily", "url": "https://mjbizdaily.com/feed/", "filter_keywords": ["denver", "colorado", "boulder", "front range", "colorado springs"]},
+    {"name": "Marijuana Moment", "short": "MJ Moment", "url": "https://www.marijuanamoment.net/feed/", "filter_keywords": ["denver", "colorado", "boulder", "front range", "colorado springs"]},
 ]
 
 # How far back to look for articles
@@ -127,8 +130,8 @@ def deduplicate(articles):
     Keeps the version from the most authoritative source."""
     # Priority: local sources first
     source_priority = {
-        "Denver Post": 1, "Westword": 2, "BizWest": 3, "DBJ": 4,
-        "NYT": 5, "WSJ": 6, "WaPo": 7, "Reuters": 8,
+        "BusinessDen": 1, "Denver Post": 2, "Colorado Sun": 3, "BizWest": 4,
+        "CPR": 5, "9News": 6, "WaPo": 7,
     }
 
     seen = {}

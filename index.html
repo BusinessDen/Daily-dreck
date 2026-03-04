@@ -209,23 +209,32 @@
   .tool-card.coming-soon:hover .tool-card-photo img { filter: brightness(0.45) saturate(0.5); }
   .tool-card.coming-soon h2 { color: var(--cream-dim); }
 
-  /* Ticker */
-  .ticker-pair { display: flex; gap: 12px; justify-content: center; }
-  .ticker-pair .t-mini { text-align: center; }
+  /* Ticker - consistent alignment */
+  .ticker-pair { display: flex; gap: 0; justify-content: center; width: 100%; }
+  .ticker-pair .t-mini { flex: 1; text-align: center; min-width: 0; }
+  .ticker-pair .t-mini + .t-mini { border-left: 1px solid rgba(255,255,255,0.04); }
   .t-label {
     font-size: 8px; letter-spacing: 1.5px; text-transform: uppercase;
-    color: var(--text-dim); margin-bottom: 4px; font-weight: 500;
+    color: var(--text-dim); margin-bottom: 2px; font-weight: 500;
   }
   .t-value {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 26px; font-weight: 700; color: var(--cream); line-height: 1;
+    font-size: 24px; font-weight: 700; color: var(--cream); line-height: 1;
   }
   .t-value.up { color: var(--green); }
   .t-value.down { color: var(--red); }
-  .ticker-pair .t-mini .t-value { font-size: 22px; }
-  .t-sub { font-size: 8px; color: var(--text-dim); margin-top: 2px; letter-spacing: 0.5px; }
+  .t-sub { font-size: 7px; color: var(--text-dim); margin-top: 2px; letter-spacing: 0.5px; }
   .t-pending { color: var(--text-dim); font-size: 14px; font-family: 'Cormorant Garamond', serif; font-style: italic; }
   .t-unavailable { color: var(--text-dim); font-size: 10px; font-style: italic; }
+
+  /* Pulse row: stacked daily/weekly */
+  .pulse-row { width: 100%; }
+  .pulse-row .pulse-half { padding: 6px 0; }
+  .pulse-row .pulse-half + .pulse-half { border-top: 1px solid rgba(255,255,255,0.05); }
+  .pulse-row .pulse-period {
+    font-size: 7px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: var(--text-dim); font-weight: 600; margin-bottom: 3px;
+  }
 
   /* News panel */
   .panel-right {
@@ -555,31 +564,34 @@
         }
       }
 
-      // Pulse tickers
+      // Pulse tickers — consistent layout
       function renderOneTicker(t) {
         if (!t || !t.value1) return '';
-        var s = '';
         if (t.value2) {
-          s = '<div class="ticker-pair">' +
+          return '<div class="ticker-pair">' +
             '<div class="t-mini"><div class="t-value ' + (t.class1||'') + '">' + t.value1 + '</div><div class="t-sub">' + (t.label1||'') + '</div></div>' +
             '<div class="t-mini"><div class="t-value ' + (t.class2||'') + '">' + t.value2 + '</div><div class="t-sub">' + (t.label2||'') + '</div></div>' +
           '</div>';
-        } else {
-          s = '<div class="t-value ' + (t.class1||'') + '">' + t.value1 + '</div>' +
-            '<div class="t-sub">' + (t.label1||'') + '</div>';
         }
-        if (t.period) s += '<div class="t-label" style="margin-top:4px;">' + t.period + '</div>';
-        return s;
+        return '<div class="ticker-pair">' +
+          '<div class="t-mini"><div class="t-value ' + (t.class1||'') + '">' + t.value1 + '</div><div class="t-sub">' + (t.label1||'') + '</div></div>' +
+        '</div>';
       }
 
       function renderPulse(el, tickerDaily, tickerWeekly) {
         if (!el) return;
         var daily = renderOneTicker(tickerDaily);
         var weekly = renderOneTicker(tickerWeekly);
-        if (daily && weekly) {
-          el.innerHTML = '<div style="margin-bottom:8px;padding-bottom:8px;border-bottom:1px solid rgba(255,255,255,0.05);">' + daily + '</div>' + weekly;
-        } else if (daily || weekly) {
-          el.innerHTML = daily || weekly;
+        if (daily || weekly) {
+          var html = '<div class="pulse-row">';
+          if (daily) {
+            html += '<div class="pulse-half"><div class="pulse-period">' + ((tickerDaily && tickerDaily.period) || 'today') + '</div>' + daily + '</div>';
+          }
+          if (weekly) {
+            html += '<div class="pulse-half"><div class="pulse-period">' + ((tickerWeekly && tickerWeekly.period) || '7-day') + '</div>' + weekly + '</div>';
+          }
+          html += '</div>';
+          el.innerHTML = html;
         } else {
           el.innerHTML = '<div class="t-unavailable">\u2014</div>';
         }
