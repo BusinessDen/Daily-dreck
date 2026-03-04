@@ -1,96 +1,132 @@
 {
   "fetched_date": "2026-03-04",
-  "fetched_at": "2026-03-04 13:01:23",
+  "fetched_at": "2026-03-04 13:21:52",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 17,
   "articles": [
+    {
+      "title": "Denver weather: More sunshine Wednesday before Friday snow",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-sunshine-wednesday-before-friday-snow/",
+      "source": "Fox31",
+      "pub_date": "2026-03-04T13:07:32+00:00",
+      "age_hours": 0.2344580536111111,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "PERRY: Aurora support of state civil rights bills isn\u2019t \u2018theater,\u2019 it\u2019s real life",
+      "link": "https://sentinelcolorado.com/opinion/perry-aurora-support-of-state-civil-rights-bills-isnt-theater-its-real-life/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-04T13:06:24+00:00",
+      "age_hours": 0.2537596697222222,
+      "breaking": true,
+      "time_ago": "15 min ago"
+    },
+    {
+      "title": "Chicken salad chain opens new restaurant in Denver area",
+      "link": "https://www.9news.com/article/money/business/chicken-salad-chick-new-restaurant/73-1be490b7-1adb-4af3-98c9-22a77681e4eb",
+      "source": "9News",
+      "pub_date": "2026-03-04T13:04:28+00:00",
+      "age_hours": 0.2853462913888889,
+      "breaking": true,
+      "time_ago": "17 min ago"
+    },
+    {
+      "title": "Aurora focusing on long-coming plan to solve $2 billion capital needs puzzle",
+      "link": "https://sentinelcolorado.com/0trending/aurora-focusing-on-long-coming-plan-to-solve-2-billion-capital-needs-puzzle/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-04T13:02:28+00:00",
+      "age_hours": 0.3193152427777778,
+      "breaking": true,
+      "time_ago": "19 min ago"
+    },
     {
       "title": "Luzzatto clears hurdle for $300M downtown Denver office-to-residential conversion project",
       "link": "https://www.denverpost.com/2026/03/04/asher-luzzatto-downtown-denver-apartments/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:22+00:00",
-      "age_hours": 0.011592887222222223,
+      "age_hours": 0.35237288833333336,
       "breaking": true,
-      "time_ago": "0 min ago"
+      "time_ago": "21 min ago"
     },
     {
       "title": "Metro Denver\u2019s housing market revs up as affordability improves",
       "link": "https://www.denverpost.com/2026/03/04/denver-housing-market-accelerates/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:18+00:00",
-      "age_hours": 0.012704011111111111,
+      "age_hours": 0.35348401083333336,
       "breaking": true,
-      "time_ago": "0 min ago"
+      "time_ago": "21 min ago"
     },
     {
       "title": "Poulette, one of Colorado\u2019s best bakeries, will soon open in a new space",
       "link": "https://www.denverpost.com/2026/03/04/poulette-bakeshop-parker-new-location-opening/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:07+00:00",
-      "age_hours": 0.015759571944444446,
+      "age_hours": 0.35653957138888887,
       "breaking": true,
-      "time_ago": "0 min ago"
+      "time_ago": "21 min ago"
     },
     {
       "title": "Fentress sells Broadway buildings to Magnetic Capital for $13M",
       "link": "https://www.denverpost.com/2026/03/04/curtis-fentress-sells-broadway-buildings/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:07+00:00",
-      "age_hours": 0.01575957611111111,
+      "age_hours": 0.3565395747222222,
       "breaking": true,
-      "time_ago": "0 min ago"
+      "time_ago": "21 min ago"
     },
     {
       "title": "Colorado mining stocks fall hard after investors sell gold",
       "link": "https://www.denverpost.com/2026/03/04/colorado-gold-mining-losses/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T13:00:03+00:00",
-      "age_hours": 0.01687069138888889,
+      "age_hours": 0.35765068916666665,
       "breaking": true,
-      "time_ago": "1 min ago"
+      "time_ago": "21 min ago"
     },
     {
       "title": "WATCH LIVE: Pentagon briefing on Iran conflict developments",
       "link": "https://www.9news.com/article/news/nation-world/us-iran-conflict-more-strikes-across-the-region/507-e60207b1-be11-406d-b714-8916bd327c17",
       "source": "9News",
       "pub_date": "2026-03-04T12:54:22+00:00",
-      "age_hours": 0.11305855527777778,
+      "age_hours": 0.4536796347222222,
       "breaking": true,
-      "time_ago": "6 min ago"
+      "time_ago": "27 min ago"
     },
     {
       "title": "Markets in Europe gain while Asian shares swoon as the war with Iran widens and oil surges higher",
       "link": "https://www.dailycamera.com/2026/03/04/markets-us-iran-war/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T12:51:14+00:00",
-      "age_hours": 0.16512497194444442,
+      "age_hours": 0.5057914291666666,
       "breaking": true,
-      "time_ago": "9 min ago"
+      "time_ago": "30 min ago"
     },
     {
       "title": "Growing need at MSU Denver food pantry sparks MBA-led sustainability plan",
       "link": "https://www.denver7.com/news/front-range/denver/growing-need-at-msu-denver-food-pantry-sparks-mba-led-sustainability-plan",
       "source": "Denver7",
       "pub_date": "2026-03-04T12:48:34+00:00",
-      "age_hours": 0.20987333472222222,
+      "age_hours": 0.5504326180555555,
       "breaking": true,
-      "time_ago": "12 min ago"
+      "time_ago": "33 min ago"
     },
     {
       "title": "Brown Palace Hotel and Spa in Denver listed for sale",
       "link": "https://www.9news.com/article/money/markets/real-estate/brown-palace-hotel-listed-for-sale/73-2dca378f-61d9-4912-afbb-427ee30a7f31",
       "source": "9News",
       "pub_date": "2026-03-04T12:36:03+00:00",
-      "age_hours": 0.41833634555555554,
+      "age_hours": 0.7589574172222222,
       "breaking": true,
-      "time_ago": "25 min ago"
+      "time_ago": "45 min ago"
     },
     {
       "title": "Rising costs putting pressure on Denver restaurants, report finds",
       "link": "https://www.9news.com/article/life/rising-costs-denver-restaurants-struggling-report/73-7d9a1b48-1e0d-4b39-b5cb-d6bdf4a60d3d",
       "source": "9News",
       "pub_date": "2026-03-04T11:56:34+00:00",
-      "age_hours": 1.0763919175,
+      "age_hours": 1.4170129827777778,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -99,7 +135,7 @@
       "link": "https://www.9news.com/article/weather/weather-impact/snow-denver-forecast/73-6d6a15ce-42ae-4520-aa53-ee3a6b02fbcb",
       "source": "9News",
       "pub_date": "2026-03-04T11:43:06+00:00",
-      "age_hours": 1.3008363716666667,
+      "age_hours": 1.6414574333333334,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -108,7 +144,7 @@
       "link": "https://coloradosun.com/2026/03/04/outdoor-rec-collective-employee-owned/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-04T11:00:00+00:00",
-      "age_hours": 2.0190388813888887,
+      "age_hours": 2.3597075475,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -117,7 +153,7 @@
       "link": "https://www.coloradopolitics.com/2026/03/04/colorados-public-lands-are-not-for-sale-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-03-04T07:45:00+00:00",
-      "age_hours": 5.269698871944444,
+      "age_hours": 5.610397660277777,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -126,7 +162,7 @@
       "link": "https://www.dailycamera.com/2026/03/03/edgewise-boosts-rd-spending-in-q4-with-drug-milestones-in-sight/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T06:31:43+00:00",
-      "age_hours": 6.490402759166667,
+      "age_hours": 6.8310692161111115,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -135,7 +171,7 @@
       "link": "https://www.dailycamera.com/2026/03/03/broadband-firm-vero-dials-up-500m-from-investors/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T06:31:31+00:00",
-      "age_hours": 6.493736097499999,
+      "age_hours": 6.834402553333334,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -144,45 +180,9 @@
       "link": "https://www.dailycamera.com/2026/03/03/gogo-predicts-2026-sales-as-high-as-945m/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T06:31:00+00:00",
-      "age_hours": 6.502347212777778,
+      "age_hours": 6.843013667222222,
       "breaking": false,
       "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Biodesix expects 2026 sales to crack $100M",
-      "link": "https://www.dailycamera.com/2026/03/03/biodesix-expects-2026-sales-to-crack-100m/",
-      "source": "Daily Camera",
-      "pub_date": "2026-03-04T06:30:50+00:00",
-      "age_hours": 6.505124994722222,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Transformative Biotech appoints industry veteran to leadership role",
-      "link": "https://www.dailycamera.com/2026/03/03/transformative-biotech-appoints-industry-veteran-to-leadership-role/",
-      "source": "Daily Camera",
-      "pub_date": "2026-03-04T06:30:25+00:00",
-      "age_hours": 6.512069442777777,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports scoreboard, 3.3.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-3-3-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-04T06:25:55+00:00",
-      "age_hours": 6.587771199444445,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver mayor's office offers $250 incentive to teens for landing summer jobs",
-      "link": "https://www.9news.com/article/news/local/denver-mayors-office-250-bonuses-teens-summer-jobs/73-5efe064c-f23d-42dd-9ba1-df00255e9627",
-      "source": "9News",
-      "pub_date": "2026-03-04T04:50:34+00:00",
-      "age_hours": 8.176391958333333,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
     }
   ]
 }
