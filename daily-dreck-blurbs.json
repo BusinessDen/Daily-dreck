@@ -1,17 +1,17 @@
 {
   "generated_date": "2026-03-04",
-  "lead_headline": "Foreclosure filings more than doubled week-over-week to 49, led by an $8.1M Arapahoe County commercial property, while restaurant activity cooled sharply from last week's churn.",
+  "lead_headline": "Foreclosure filings surge 145% week-over-week to 49 new cases, led by an $8.1M Arapahoe County filing \u2014 while restaurant activity cools to zero openings today after 18 debuts last week.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>18 openings, 16 closures</strong> in the past seven days \u2014 a marked slowdown from the prior week's 28-47 split. Activity flatlined today with zero movement. Notable: Reunion Bread opened in Platt Park, Takiza Taco shuttered in Union Station, and a Quiznos in Thornton appears caught in listing limbo. The 30-day tally now stands at 36 opens against 61 closures, suggesting continued consolidation.",
+      "blurb": "<strong>Zero openings, zero closures today</strong> \u2014 a rare standstill after last week's <strong>18 openings and 16 closures</strong>. That's a sharp reversal from the prior seven days (28 opens, 47 shutters), suggesting the market caught its breath. Recent activity scattered across neighborhoods: Reunion Bread launched in Platt Park, Takiza Taco closed in Union Station, and a Quiznos in Thornton flickered on-and-off in our tracking. The 30-day tally sits at 36 openings against 61 closures \u2014 net negative continues.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+0",
-        "class1": "up",
+        "class1": "",
         "label2": "closed",
         "value2": "\u22120",
-        "class2": "down",
+        "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
@@ -25,7 +25,7 @@
       }
     },
     "foreclosure": {
-      "blurb": "<strong>49 new filings</strong> published this week, up 145% from last week's 20, totaling $22.2M in defaulted debt. The headline: a <strong>$8.1M filing</strong> at 7380 S. Clinton in Arapahoe County, the only case above $2M. With 50 auctions scheduled in the next seven days and 1,539 active cases statewide, the foreclosure pipeline is thickening heading into spring. Weld and El Paso counties lead volume at 285 and 250 cases respectively.",
+      "blurb": "<strong>49 new filings this week</strong> \u2014 a 145% jump from last week's 20 \u2014 pushing total active cases to <strong>1,539</strong>. The week's filings total <strong>$22.2M</strong>, headlined by an <strong>$8.1M Arapahoe County property</strong> on S. Clinton Street. Weld and Larimer counties lead volume (285 and 259 active cases), while <strong>50 auctions loom in the next seven days</strong>. The spike suggests distress is accelerating after a quieter February stretch.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -47,7 +47,7 @@
       }
     },
     "retail": {
-      "blurb": "Retail lease tracking in development. Will monitor new tenants, vacancies, and lease rates across metro corridors.",
+      "blurb": "Retail lease and occupancy tracking in development \u2014 data pipeline under construction.",
       "meta": "Expected Q2 2026",
       "ticker": {
         "label1": "",
@@ -60,7 +60,7 @@
       }
     },
     "revenue": {
-      "blurb": "Revenue data tool planned to track public company filings and private business performance indicators.",
+      "blurb": "Sales tax and revenue analysis tool planned for metro business intelligence.",
       "meta": "Expected Q3 2026",
       "ticker": {
         "label1": "",
@@ -73,7 +73,7 @@
       }
     },
     "reputation": {
-      "blurb": "Reputation monitoring tool in planning stages to aggregate review trends and sentiment analysis.",
+      "blurb": "Review sentiment and reputation monitoring system on the roadmap.",
       "meta": "Expected Q4 2026",
       "ticker": {
         "label1": "",
