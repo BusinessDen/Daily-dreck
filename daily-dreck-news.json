@@ -1,33 +1,159 @@
 {
   "fetched_date": "2026-03-04",
-  "fetched_at": "2026-03-04 09:09:41",
-  "article_count": 15,
-  "breaking_count": 1,
+  "fetched_at": "2026-03-04 09:29:20",
+  "article_count": 20,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Colorado\u2019s public lands are not for sale | OPINION",
+      "link": "https://www.coloradopolitics.com/2026/03/04/colorados-public-lands-are-not-for-sale-opinion/",
+      "source": "CO Politics",
+      "pub_date": "2026-03-04T07:45:00+00:00",
+      "age_hours": 1.7348989819444445,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Edgewise boosts R&D spending in Q4 with drug milestones in sight",
+      "link": "https://www.dailycamera.com/2026/03/03/edgewise-boosts-rd-spending-in-q4-with-drug-milestones-in-sight/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-04T06:31:43+00:00",
+      "age_hours": 2.9556495825,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Broadband firm Vero dials up $500M from investors",
+      "link": "https://www.dailycamera.com/2026/03/03/broadband-firm-vero-dials-up-500m-from-investors/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-04T06:31:31+00:00",
+      "age_hours": 2.9589829247222226,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Gogo predicts 2026 sales as high as $945M",
+      "link": "https://www.dailycamera.com/2026/03/03/gogo-predicts-2026-sales-as-high-as-945m/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-04T06:31:00+00:00",
+      "age_hours": 2.9675940391666664,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Biodesix expects 2026 sales to crack $100M",
+      "link": "https://www.dailycamera.com/2026/03/03/biodesix-expects-2026-sales-to-crack-100m/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-04T06:30:50+00:00",
+      "age_hours": 2.9703718197222226,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Transformative Biotech appoints industry veteran to leadership role",
+      "link": "https://www.dailycamera.com/2026/03/03/transformative-biotech-appoints-industry-veteran-to-leadership-role/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-04T06:30:25+00:00",
+      "age_hours": 2.9773162669444444,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Aurora prep sports scoreboard, 3.3.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-3-3-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-04T06:25:55+00:00",
+      "age_hours": 3.0529761247222225,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Denver mayor's office offers $250 incentive to teens for landing summer jobs",
       "link": "https://www.9news.com/article/news/local/denver-mayors-office-250-bonuses-teens-summer-jobs/73-5efe064c-f23d-42dd-9ba1-df00255e9627",
       "source": "9News",
       "pub_date": "2026-03-04T04:50:34+00:00",
-      "age_hours": 4.315855288611111,
+      "age_hours": 4.6415783,
       "breaking": true,
       "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Blucifer\u2019s First Rodeo music festival to debut in July, spotlighting Denver\u2019s music scene",
+      "link": "https://kdvr.com/news/local/blucifers-first-rodeo-music-festival-to-debut-in-july-spotlighting-denvers-music-scene/",
+      "source": "Fox31",
+      "pub_date": "2026-03-04T04:12:09+00:00",
+      "age_hours": 5.282117492777778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Denver mayor\u2019s \u2018Trumpian\u2019 comment sparks pushback from councilmembers, safety advocates",
+      "link": "https://kdvr.com/news/local/denver-mayors-trumpian-comment-sparks-pushback-from-councilmembers-safety-advocates/",
+      "source": "Fox31",
+      "pub_date": "2026-03-04T04:06:55+00:00",
+      "age_hours": 5.369339707777778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Where to find the cheapest gas as prices rise in Denver amid demand, war in Middle East",
+      "link": "https://kdvr.com/news/local/where-to-find-the-cheapest-gas-as-prices-rise-in-denver-amid-demand-war-in-middle-east/",
+      "source": "Fox31",
+      "pub_date": "2026-03-04T01:22:40+00:00",
+      "age_hours": 8.106839728611112,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "COOMBS: GEO Group has been harming Aurora for decades. Your state rep helped run it",
+      "link": "https://sentinelcolorado.com/opinion/coombs-geo-group-has-been-harming-aurora-for-decades-your-state-rep-helped-run-it/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-04T00:45:10+00:00",
+      "age_hours": 8.732142802777778,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Colorado\u2019s Championship BBQ Restaurant Opening at McGregor Square",
+      "link": "https://milehighcre.com/colorados-championship-bbq-restaurant-opening-at-mcgregor-square/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-03-03T22:47:51+00:00",
+      "age_hours": 10.686004420277778,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
+    },
+    {
+      "title": "Spring squirrel birthing season has begun, says local pest control service",
+      "link": "https://kdvr.com/news/local/spring-squirrel-birthing-season-has-begun-says-local-pest-control-service/",
+      "source": "Fox31",
+      "pub_date": "2026-03-03T22:27:07+00:00",
+      "age_hours": 11.032673085277777,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
+    },
+    {
+      "title": "Broncos could pursue Super Bowl MVP in free agency",
+      "link": "https://kdvr.com/sports/denver-broncos/broncos-could-pursue-super-bowl-mvp-in-free-agency/",
+      "source": "Fox31",
+      "pub_date": "2026-03-03T22:16:21+00:00",
+      "age_hours": 11.21211751111111,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Dow drops 400 after trimming an early plunge of 1,200 as oil prices climb even higher",
       "link": "https://www.9news.com/article/news/nation-world/wall-street-stock-market-volatility-dow-jones-sp500-global-markets-iran-conflict-inflation/507-19fe6821-3db2-49fb-9dc4-89715d83bab0",
       "source": "9News",
       "pub_date": "2026-03-03T22:12:22+00:00",
-      "age_hours": 10.952522024722223,
+      "age_hours": 11.278245036666668,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Weld County\u2019s GDP growth ranks No. 7 in Colorado",
       "link": "https://bizwest.com/2026/03/03/weld-countys-gdp-growth-ranks-no-7-in-colorado/",
       "source": "BizWest",
       "pub_date": "2026-03-03T22:07:21+00:00",
-      "age_hours": 11.036072573611111,
+      "age_hours": 11.360491006388889,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -36,7 +162,16 @@
       "link": "https://coloradosun.com/2026/03/03/captive-audience-pricing-colorado-bill-fails/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-03T21:58:17+00:00",
-      "age_hours": 11.187146135277779,
+      "age_hours": 11.51289103888889,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
+    },
+    {
+      "title": "Denver Public Schools Patrol Officer Academy recruits wrap up final days",
+      "link": "https://kdvr.com/news/local/denver-public-schools-patrol-officer-academy-recruits-wrap-up-final-days/",
+      "source": "Fox31",
+      "pub_date": "2026-03-03T21:55:13+00:00",
+      "age_hours": 11.564339779166668,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -45,99 +180,9 @@
       "link": "https://bizwest.com/2026/03/03/eagles-owner-still-nesting-at-ranch-holds-out-hope-for-greeley/",
       "source": "BizWest",
       "pub_date": "2026-03-03T21:34:57+00:00",
-      "age_hours": 11.576072579722222,
+      "age_hours": 11.900491018055556,
       "breaking": false,
       "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Gloo raises 2026 sales outlook on heels of layoffs",
-      "link": "https://bizwest.com/2026/03/03/gloo-raises-2026-sales-outlook-on-heels-of-layoffs/",
-      "source": "BizWest",
-      "pub_date": "2026-03-03T21:19:24+00:00",
-      "age_hours": 11.835239249999999,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Gaia\u2019s 2025 sales neared $100M",
-      "link": "https://bizwest.com/2026/03/03/gaias-2025-sales-neared-100m/",
-      "source": "BizWest",
-      "pub_date": "2026-03-03T21:07:47+00:00",
-      "age_hours": 12.028850363888889,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Justice Department lawyer says concert ticket industry is broken because of Ticketmaster",
-      "link": "https://www.denverpost.com/2026/03/03/justice-department-ticketmaster-lawsuit/",
-      "source": "Denver Post",
-      "pub_date": "2026-03-03T19:18:49+00:00",
-      "age_hours": 13.844883618333334,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Contract Grant Writer",
-      "link": "https://coloradosun.com/2026/03/03/contract-grant-writer/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-03-03T17:22:09+00:00",
-      "age_hours": 15.789368372222222,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Edmunds Top Rated vehicle awards for 2026",
-      "link": "https://www.denverpost.com/2026/03/03/edmunds-top-rated-vehicle-awards-2026/",
-      "source": "Denver Post",
-      "pub_date": "2026-03-03T15:00:20+00:00",
-      "age_hours": 18.1529391775,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Centerra South rebrands as Avenue South; work underway",
-      "link": "https://bizwest.com/2026/03/03/centerra-south-rebrands-as-avenue-south-work-underway/",
-      "source": "BizWest",
-      "pub_date": "2026-03-03T14:33:16+00:00",
-      "age_hours": 18.604128144444445,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Guest named Bank of Colorado\u2019s Windsor market president",
-      "link": "https://bizwest.com/2026/03/03/guest-named-bank-of-colorados-windsor-market-president/",
-      "source": "BizWest",
-      "pub_date": "2026-03-03T14:04:40+00:00",
-      "age_hours": 19.08079481388889,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Rising gas prices in Colorado could climb faster if war drags on",
-      "link": "https://www.denverpost.com/2026/03/03/colorado-gas-prices-iran-war/",
-      "source": "Denver Post",
-      "pub_date": "2026-03-03T13:00:58+00:00",
-      "age_hours": 20.142383624999997,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Coworking space with golf simulators adding a second location in Denver",
-      "link": "https://www.denverpost.com/2026/03/03/clubhouse-work-golf-coworking-denver-location/",
-      "source": "Denver Post",
-      "pub_date": "2026-03-03T13:00:46+00:00",
-      "age_hours": 20.14571696111111,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Fentress sells Broadway buildings to Magnetic for $13M",
-      "link": "https://businessden.com/2026/03/03/fentress-sells-broadway-buildings-to-magnetic-for-13m/",
-      "source": "BusinessDen",
-      "pub_date": "2026-03-03T11:47:01+00:00",
-      "age_hours": 21.37486998111111,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
     }
   ]
 }
