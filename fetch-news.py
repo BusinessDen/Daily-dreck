@@ -15,24 +15,42 @@ from urllib.error import URLError
 
 # RSS feeds to monitor
 FEEDS = [
-    # Local Denver/Colorado — no keyword filter needed, all articles relevant
+    # ── TIER 1: Core Colorado business (no keyword filter) ──
     {"name": "BusinessDen", "short": "BusinessDen", "url": "https://businessden.com/feed/", "filter_keywords": None},
     {"name": "Denver Post", "short": "Denver Post", "url": "https://www.denverpost.com/business/feed/", "filter_keywords": None},
-    {"name": "Colorado Sun", "short": "Colorado Sun", "url": "https://coloradosun.com/feed/", "filter_keywords": ["business", "real estate", "restaurant", "retail", "development", "economy", "housing", "commercial", "office", "denver", "foreclosure", "construction"]},
     {"name": "BizWest", "short": "BizWest", "url": "https://bizwest.com/feed/", "filter_keywords": None},
+    {"name": "CO Real Estate Journal", "short": "CREJ", "url": "https://crej.com/feed/", "filter_keywords": None},
+    {"name": "Bisnow Denver", "short": "Bisnow", "url": "https://www.bisnow.com/rss/denver", "filter_keywords": None},
+    {"name": "Mile High CRE", "short": "Mile High CRE", "url": "https://milehighcre.com/feed/", "filter_keywords": None},
+    {"name": "Boulder Daily Camera", "short": "Daily Camera", "url": "https://www.dailycamera.com/business/feed/", "filter_keywords": None},
+
+    # ── TIER 2: Colorado general news (business keyword filter) ──
+    {"name": "Colorado Sun", "short": "Colorado Sun", "url": "https://coloradosun.com/feed/", "filter_keywords": ["business", "real estate", "restaurant", "retail", "development", "economy", "housing", "commercial", "office", "denver", "foreclosure", "construction", "startup", "investor", "cannabis"]},
+    {"name": "Denverite", "short": "Denverite", "url": "https://denverite.com/feed/", "filter_keywords": ["business", "restaurant", "real estate", "development", "economy", "housing", "commercial", "retail", "construction", "office", "startup", "investor"]},
     {"name": "CPR News", "short": "CPR", "url": "https://www.cpr.org/feed/", "filter_keywords": ["business", "economy", "housing", "real estate", "denver", "restaurant", "development", "commercial", "retail"]},
     {"name": "9News", "short": "9News", "url": "https://www.9news.com/feeds/syndication/rss/news", "filter_keywords": ["business", "real estate", "restaurant", "development", "economy", "housing", "commercial", "retail", "denver"]},
-    # National — filter for Denver/Colorado mentions only
-    {"name": "Washington Post", "short": "WaPo", "url": "https://feeds.washingtonpost.com/rss/business", "filter_keywords": ["denver", "colorado", "boulder", "aurora, co", "front range"]},
-    # Cannabis industry — filter for Colorado mentions
+    {"name": "Denver7", "short": "Denver7", "url": "https://www.denver7.com/money.rss", "filter_keywords": ["business", "colorado", "denver", "economy", "housing", "real estate", "restaurant", "retail", "development"]},
+    {"name": "Fox31 Denver", "short": "Fox31", "url": "https://kdvr.com/feed/", "filter_keywords": ["business", "economy", "restaurant", "real estate", "housing", "development", "retail", "commercial", "denver", "construction"]},
+    {"name": "Westword", "short": "Westword", "url": "https://www.westword.com/feed", "filter_keywords": ["business", "restaurant", "real estate", "development", "retail", "housing", "commercial", "economy", "foreclosure", "construction", "cannabis", "marijuana"]},
+    {"name": "Colorado Politics", "short": "CO Politics", "url": "https://www.coloradopolitics.com/rss/", "filter_keywords": ["business", "economy", "housing", "real estate", "development", "tax", "budget", "cannabis", "marijuana", "restaurant", "retail", "commercial", "construction"]},
+    {"name": "Sentinel Colorado", "short": "Sentinel", "url": "https://sentinelcolorado.com/feed/", "filter_keywords": ["business", "economy", "restaurant", "real estate", "housing", "development", "commercial", "retail", "construction", "aurora"]},
+
+    # ── TIER 3: Niche/blogs (food, development, culture with business angle) ──
+    {"name": "Eater Denver", "short": "Eater Denver", "url": "https://denver.eater.com/rss/index.xml", "filter_keywords": None},
+    {"name": "Denver Infill", "short": "Denver Infill", "url": "https://denverinfill.com/feed/", "filter_keywords": None},
+
+    # ── TIER 4: Cannabis industry (Colorado keyword filter) ──
     {"name": "MJBizDaily", "short": "MJBizDaily", "url": "https://mjbizdaily.com/feed/", "filter_keywords": ["denver", "colorado", "boulder", "front range", "colorado springs"]},
     {"name": "Marijuana Moment", "short": "MJ Moment", "url": "https://www.marijuanamoment.net/feed/", "filter_keywords": ["denver", "colorado", "boulder", "front range", "colorado springs"]},
+
+    # ── TIER 5: National (Colorado keyword filter) ──
+    {"name": "Washington Post", "short": "WaPo", "url": "https://feeds.washingtonpost.com/rss/business", "filter_keywords": ["denver", "colorado", "boulder", "aurora, co", "front range"]},
 ]
 
 # How far back to look for articles
-MAX_AGE_HOURS = 72
+MAX_AGE_HOURS = 168  # 7 days — catches weekly publications
 BREAKING_WINDOW_HOURS = 6
-MAX_HEADLINES = 15
+MAX_HEADLINES = 20
 
 
 def fetch_feed(feed_config):
@@ -77,7 +95,9 @@ def fetch_feed(feed_config):
                 if atom_link is not None:
                     link = atom_link.get("href", "")
             if pub_date is None:
-                atom_date = item.find("{http://www.w3.org/2005/Atom}published") or item.find("{http://www.w3.org/2005/Atom}updated")
+                atom_date = item.find("{http://www.w3.org/2005/Atom}published")
+                if atom_date is None:
+                    atom_date = item.find("{http://www.w3.org/2005/Atom}updated")
                 if atom_date is not None and atom_date.text:
                     try:
                         pub_date = datetime.fromisoformat(atom_date.text.replace("Z", "+00:00"))
