@@ -1,1 +1,103 @@
+name: The Daily Dreck
+on:
+  schedule:
+    # Run at 5:15 AM Mountain Time (after scrapers finish at 5:00 AM)
+    # 5:15am MST (Nov-Mar) = 12:15 UTC
+    # 5:15am MDT (Mar-Nov) = 11:15 UTC
+    - cron: '15 11 * * *'
+    - cron: '15 12 * * *'
+  workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check DST
+        id: dst_check
+        run: |
+          HOUR_MT=$(TZ=America/Denver date +%H)
+          if [ "$HOUR_MT" = "05" ]; then
+            echo "skip=false" >> $GITHUB_OUTPUT
+          else
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "Wrong hour for current DST - skipping"
+          fi
+
+      - name: Checkout repo
+        if: steps.dst_check.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest
+        if: steps.dst_check.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        run: git pull origin main
+
+      - name: Set up Python
+        if: steps.dst_check.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        if: steps.dst_check.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        run: pip install anthropic
+
+      - name: Generate editorial blurbs
+        if: steps.dst_check.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 generate-blurbs.py
+
+      - name: Fetch news feeds
+        if: steps.dst_check.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        run: python3 fetch-news.py
+
+      - name: Commit and push
+        if: steps.dst_check.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          git add daily-dreck-blurbs.json daily-dreck-news.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily Dreck update — $(TZ=America/Denver date +%Y-%m-%d)"
+            git push --force
+          fi
+
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest data
+        run: git pull origin main
+
+      - name: Delete previous artifact
+        uses: geekyeggo/delete-artifact@v5
+        with:
+          name: github-pages
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
