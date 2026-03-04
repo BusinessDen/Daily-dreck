@@ -90,13 +90,24 @@ jobs:
             git push
           fi
 
+      - name: Prepare deploy directory
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp daily-dreck-blurbs.json _site/ 2>/dev/null || true
+          cp daily-dreck-news.json _site/ 2>/dev/null || true
+          echo "Deploy directory contents:"
+          ls -la _site/
+          echo "Index.html size: $(wc -c < _site/index.html) bytes"
+          head -5 _site/index.html
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
