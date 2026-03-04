@@ -641,15 +641,21 @@
       if (leadEl && data.lead_headline) leadEl.textContent = data.lead_headline;
 
       // Tool blurbs + updated badges
+      // Only overwrite blurbs for live tools — coming-soon descriptions are static in HTML
       var tools = data.tools || {};
-      var keys = ['restaurant', 'foreclosure', 'retail', 'revenue', 'reputation'];
-      for (var i = 0; i < keys.length; i++) {
-        var key = keys[i];
+      var liveTools = ['restaurant', 'foreclosure'];
+      var allTools = ['restaurant', 'foreclosure', 'retail', 'revenue', 'reputation'];
+
+      for (var i = 0; i < allTools.length; i++) {
+        var key = allTools[i];
         var val = tools[key];
         if (!val) continue;
 
-        var blurbEl = document.getElementById('blurb-' + key);
-        if (blurbEl && val.blurb) blurbEl.innerHTML = val.blurb;
+        // Only overwrite blurb text for live tools
+        if (liveTools.indexOf(key) !== -1) {
+          var blurbEl = document.getElementById('blurb-' + key);
+          if (blurbEl && val.blurb) blurbEl.innerHTML = val.blurb;
+        }
 
         // Update badge (next to Live pill)
         var updatedEl = document.getElementById('updated-' + key);
@@ -661,7 +667,7 @@
           }
         }
 
-        // Legacy meta element (hidden but keep for compatibility)
+        // Legacy meta element
         var metaEl = document.getElementById('meta-' + key);
         if (metaEl && val.meta) {
           metaEl.textContent = val.meta;

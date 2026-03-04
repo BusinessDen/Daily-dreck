@@ -336,19 +336,13 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
       }
     },
     "retail": {
-      "blurb": "Brief status note (~20 words). This tool is in development.",
-      "meta": "Expected Q2 2026",
-      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+      "meta": "Expected Q2 2026"
     },
     "revenue": {
-      "blurb": "Brief status note (~20 words). This tool is planned.",
-      "meta": "Expected Q3 2026",
-      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+      "meta": "Expected Q3 2026"
     },
     "reputation": {
-      "blurb": "Brief status note (~20 words). This tool is planned.",
-      "meta": "Expected Q4 2026",
-      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+      "meta": "Expected Q4 2026"
     }
   }
 }
@@ -360,7 +354,7 @@ IMPORTANT:
 - Start each live tool blurb with the headline numbers in bold (wrap key figures in <strong> tags)
 - Then contextualize: compare to last week, note trends, flag neighborhoods or patterns
 - Never repeat yesterday's phrasing — find a fresh angle
-- Keep retail/revenue/reputation blurbs very short since they have no data yet"""
+- Keep retail/revenue/reputation entries as-is — do NOT generate blurbs for them, they are static in the HTML"""
 
     # Build the user prompt with data
     prompt_parts = [f"Today is {today_str}.\n"]
