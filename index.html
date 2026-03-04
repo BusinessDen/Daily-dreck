@@ -127,7 +127,7 @@
   /* Tools + Pulse sub-grid: aligned rows */
   .tools-pulse-grid {
     display: grid;
-    grid-template-columns: 1fr 130px;
+    grid-template-columns: 1fr 160px;
     gap: 0;
   }
 
@@ -473,7 +473,7 @@
         <div class="tp-tool">
           <a class="tool-card coming-soon" href="#">
             <div class="tool-card-photo">
-              <img src="https://images.unsplash.com/photo-1567449303078-57ad995bd329?w=400&h=400&fit=crop&crop=center" alt="Retail storefronts">
+              <img src="https://images.unsplash.com/photo-1528698827591-e19cef51a699?w=400&h=400&fit=crop&crop=center" alt="Retail storefronts">
             </div>
             <div class="tool-card-body">
               <div class="badge-row"><span class="badge badge-dev"><span class="dot"></span>In Dev</span></div>
@@ -590,39 +590,54 @@
         }
       }
 
-      // Pulse tickers — handle generic label/value/class format from Claude
-      function renderPulse(el, ticker) {
-        if (!el || !ticker || !ticker.value1) return;
-        var html = '';
-        if (ticker.value2) {
-          // Two-value ticker (e.g. restaurant: opened / closed)
-          html = '<div class="ticker-pair">' +
-            '<div class="t-mini"><div class="t-value ' + (ticker.class1||'') + '">' + ticker.value1 + '</div><div class="t-sub">' + (ticker.label1||'') + '</div></div>' +
-            '<div class="t-mini"><div class="t-value ' + (ticker.class2||'') + '">' + ticker.value2 + '</div><div class="t-sub">' + (ticker.label2||'') + '</div></div>' +
+      // Pulse tickers - render both daily and weekly
+      function renderOneTicker(t) {
+        if (!t || !t.value1) return '';
+        var s = '';
+        if (t.value2) {
+          s = '<div class="ticker-pair">' +
+            '<div class="t-mini"><div class="t-value ' + (t.class1||'') + '">' + t.value1 + '</div><div class="t-sub">' + (t.label1||'') + '</div></div>' +
+            '<div class="t-mini"><div class="t-value ' + (t.class2||'') + '">' + t.value2 + '</div><div class="t-sub">' + (t.label2||'') + '</div></div>' +
           '</div>';
-          if (ticker.period) html += '<div class="t-label" style="margin-top:6px;">' + ticker.period + '</div>';
         } else {
-          // Single-value ticker (e.g. foreclosure: filings count)
-          html = '<div class="t-value ' + (ticker.class1||'') + '">' + ticker.value1 + '</div>' +
-            '<div class="t-sub">' + (ticker.label1||'') + '</div>';
-          if (ticker.period) html += '<div class="t-label" style="margin-top:4px;">' + ticker.period + '</div>';
+          s = '<div class="t-value ' + (t.class1||'') + '">' + t.value1 + '</div>' +
+            '<div class="t-sub">' + (t.label1||'') + '</div>';
         }
-        el.innerHTML = html;
+        if (t.period) s += '<div class="t-label" style="margin-top:4px;">' + t.period + '</div>';
+        return s;
       }
 
-      var rt = tools.restaurant?.ticker;
-      var fc = tools.foreclosure?.ticker;
-      renderPulse(document.getElementById('pulse-restaurant'), rt);
-      renderPulse(document.getElementById('pulse-foreclosure'), fc);
+      function renderPulse(el, tickerDaily, tickerWeekly) {
+        if (!el) return;
+        var daily = renderOneTicker(tickerDaily);
+        var weekly = renderOneTicker(tickerWeekly);
+        if (daily && weekly) {
+          el.innerHTML = '<div style="margin-bottom:8px;padding-bottom:8px;border-bottom:1px solid rgba(255,255,255,0.05);">' + daily + '</div>' + weekly;
+        } else {
+          el.innerHTML = daily || weekly || '<div class="t-pending">\u2014</div>';
+        }
+      }
+
+      var rt_d = tools.restaurant?.ticker_daily;
+      var rt_w = tools.restaurant?.ticker_weekly;
+      if (!rt_d && !rt_w && tools.restaurant?.ticker) { rt_w = tools.restaurant.ticker; }
+      renderPulse(document.getElementById('pulse-restaurant'), rt_d, rt_w);
+
+      var fc_d = tools.foreclosure?.ticker_daily;
+      var fc_w = tools.foreclosure?.ticker_weekly;
+      if (!fc_d && !fc_w && tools.foreclosure?.ticker) { fc_w = tools.foreclosure.ticker; }
+      renderPulse(document.getElementById('pulse-foreclosure'), fc_d, fc_w);
 
       // Mobile ticker
       var mt = document.getElementById('ticker-mobile');
-      if (mt && (rt || fc)) {
+      if (mt) {
         mt.innerHTML =
-          '<div class="ticker-mobile-cell"><div class="t-label">Openings 7d</div><div class="t-value ' + (rt?.class1||'up') + '">' + (rt?.value1||'—') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Closures 7d</div><div class="t-value ' + (rt?.class2||'down') + '">' + (rt?.value2||'—') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Foreclosures</div><div class="t-value">' + (fc?.value1||'—') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Tools Live</div><div class="t-value">2</div></div>';
+          '<div class="ticker-mobile-cell"><div class="t-label">Opened today</div><div class="t-value up">' + (rt_d?.value1||'\u2014') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Closed today</div><div class="t-value down">' + (rt_d?.value2||'\u2014') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Opened 7d</div><div class="t-value up">' + (rt_w?.value1||'\u2014') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Closed 7d</div><div class="t-value down">' + (rt_w?.value2||'\u2014') + '</div></div>';
+      }
+
       }
     })
     .catch(err => {

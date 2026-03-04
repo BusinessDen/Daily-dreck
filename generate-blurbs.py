@@ -39,110 +39,180 @@ def fetch_json_url(url):
 
 
 def load_restaurant_data():
-    """Fetch restaurant-data.json from GitHub Pages and compute key metrics."""
+    """Fetch restaurant-data.json from GitHub Pages and compute key metrics.
+    Uses the 'changes' array as the source of truth for openings/closures."""
     data = fetch_json_url("https://businessden.github.io/Restaurant-tracker/restaurant-data.json")
     if not data:
         return None
 
     today = datetime.now().strftime("%Y-%m-%d")
+    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
     seven_days_ago = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+    fourteen_days_ago = (datetime.now() - timedelta(days=14)).strftime("%Y-%m-%d")
     thirty_days_ago = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
 
-    restaurants = data if isinstance(data, list) else data.get("restaurants", [])
+    restaurants = data.get("restaurants", [])
+    changes = data.get("changes", [])
 
-    # Count openings and closures in time windows
-    openings_7d = 0
-    closures_7d = 0
-    openings_30d = 0
-    closures_30d = 0
-    latest_events = []
+    # Count from changes array
+    def count_changes(start, end):
+        opens = 0
+        closes = 0
+        temp_closed = 0
+        events = []
+        for c in changes:
+            d = c.get("date", "")
+            ctype = c.get("type", "")
+            if d < start or d > end:
+                continue
+            if ctype in ("opened", "opened_unclear"):
+                opens += 1
+            elif ctype in ("closed", "closed_unclear"):
+                closes += 1
+            elif ctype == "temporarily_closed":
+                temp_closed += 1
+            events.append(c)
+        return opens, closes, temp_closed, events
 
-    for r in restaurants:
-        detected = r.get("first_seen") or r.get("detected_date") or ""
-        status = r.get("status", "").lower()
+    opens_today, closes_today, temp_today, events_today = count_changes(today, today)
+    # If today has no data yet (scraper hasn't run), use yesterday
+    if opens_today == 0 and closes_today == 0:
+        opens_today, closes_today, temp_today, events_today = count_changes(yesterday, yesterday)
 
-        if detected >= seven_days_ago:
-            if "open" in status or "new" in status:
-                openings_7d += 1
-            elif "close" in status or "permanently" in status:
-                closures_7d += 1
+    opens_7d, closes_7d, temp_7d, events_7d = count_changes(seven_days_ago, today)
+    opens_prev_7d, closes_prev_7d, _, _ = count_changes(fourteen_days_ago, seven_days_ago)
+    opens_30d, closes_30d, temp_30d, events_30d = count_changes(thirty_days_ago, today)
 
-        if detected >= thirty_days_ago:
-            if "open" in status or "new" in status:
-                openings_30d += 1
-            elif "close" in status or "permanently" in status:
-                closures_30d += 1
+    # Extract recent events with editorial detail
+    latest_events = sorted(events_7d, key=lambda x: x.get("date", ""), reverse=True)[:10]
+    formatted_events = []
+    for e in latest_events:
+        formatted_events.append({
+            "name": e.get("name", "Unknown"),
+            "type": e.get("type", ""),
+            "date": e.get("date", ""),
+            "neighborhood": e.get("neighborhood", ""),
+            "cuisine": e.get("cuisine", ""),
+            "address": e.get("address", ""),
+        })
 
-        # Collect most recent events for editorial color
-        if detected >= seven_days_ago:
-            latest_events.append({
-                "name": r.get("name", "Unknown"),
-                "status": status,
-                "date": detected,
-                "address": r.get("address", ""),
-                "neighborhood": r.get("neighborhood", ""),
-            })
-
-    # Sort latest events by date descending
-    latest_events.sort(key=lambda x: x["date"], reverse=True)
+    last_scrape = data.get("metadata", {}).get("last_scrape", "unknown")
 
     return {
-        "openings_7d": openings_7d,
-        "closures_7d": closures_7d,
-        "openings_30d": openings_30d,
-        "closures_30d": closures_30d,
+        "openings_today": opens_today,
+        "closures_today": closes_today,
+        "temp_closed_today": temp_today,
+        "openings_7d": opens_7d,
+        "closures_7d": closes_7d,
+        "openings_prev_7d": opens_prev_7d,
+        "closures_prev_7d": closes_prev_7d,
+        "openings_30d": opens_30d,
+        "closures_30d": closes_30d,
         "total_tracked": len(restaurants),
-        "latest_events": latest_events[:10],  # Top 10 most recent
+        "latest_events": formatted_events,
+        "last_scrape": last_scrape,
     }
 
 
 def load_foreclosure_data():
-    """Fetch foreclosure-data.json from GitHub Pages and compute key metrics."""
+    """Fetch foreclosure-data.json from GitHub Pages and compute key metrics.
+    Data is a flat array of records. Key date fields:
+    - first_publication_date: when the NED notice was first published (best proxy for "filing date")
+    - ned_recorded_date: when NED was recorded at county
+    - scheduled_sale_date: upcoming auction date
+    Financial fields: original_loan_amount, total_due, winning_bid
+    Status: "sold", "continued"
+    """
     data = fetch_json_url("https://businessden.github.io/Colorado-foreclosure/foreclosure-data.json")
     if not data:
         return None
 
+    records = data if isinstance(data, list) else data.get("records", data.get("foreclosures", []))
+
     today = datetime.now().strftime("%Y-%m-%d")
     seven_days_ago = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+    fourteen_days_ago = (datetime.now() - timedelta(days=14)).strftime("%Y-%m-%d")
     thirty_days_ago = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+    seven_days_ahead = (datetime.now() + timedelta(days=7)).strftime("%Y-%m-%d")
 
-    filings = data if isinstance(data, list) else data.get("filings", data.get("foreclosures", []))
+    def get_amount(rec):
+        """Get the best available dollar amount."""
+        for field in ["total_due", "winning_bid", "original_loan_amount"]:
+            val = rec.get(field)
+            if val and isinstance(val, (int, float)) and val > 0:
+                return val
+        return 0
 
-    new_this_week = 0
-    new_this_month = 0
-    high_value_count = 0
-    total_value = 0
-    recent_filings = []
+    def get_filing_date(rec):
+        """Best available date representing when this case entered the system."""
+        return rec.get("first_publication_date") or rec.get("ned_recorded_date") or ""
 
-    for f_item in filings:
-        filed = f_item.get("filed_date") or f_item.get("sale_date") or f_item.get("first_seen") or ""
-        amount = f_item.get("amount") or f_item.get("original_amount") or 0
-        if isinstance(amount, str):
-            amount = float(amount.replace(",", "").replace("$", "")) if amount.strip() else 0
+    # Count filings by first_publication_date
+    def filed_in_window(rec, start, end):
+        d = get_filing_date(rec)
+        return d and start <= d <= end
 
-        if filed >= seven_days_ago:
-            new_this_week += 1
-            if amount >= 2000000:
-                high_value_count += 1
-            total_value += amount
-            recent_filings.append({
-                "address": f_item.get("address", "Unknown"),
-                "amount": amount,
-                "date": filed,
-            })
+    filings_7d = sum(1 for r in records if filed_in_window(r, seven_days_ago, today))
+    filings_prev_7d = sum(1 for r in records if filed_in_window(r, fourteen_days_ago, seven_days_ago))
+    filings_30d = sum(1 for r in records if filed_in_window(r, thirty_days_ago, today))
 
-        if filed >= thirty_days_ago:
-            new_this_month += 1
+    # Upcoming sales (auctions in next 7 days)
+    upcoming_sales = sum(
+        1 for r in records
+        if r.get("scheduled_sale_date") and today <= r["scheduled_sale_date"] <= seven_days_ahead
+    )
 
-    recent_filings.sort(key=lambda x: x["date"], reverse=True)
+    # High-value properties (all time, recent filings)
+    high_value = []
+    total_value_7d = 0
+    for r in records:
+        if filed_in_window(r, seven_days_ago, today):
+            amt = get_amount(r)
+            total_value_7d += amt
+            if amt >= 2_000_000:
+                high_value.append({
+                    "address": r.get("property_address", "Unknown"),
+                    "amount": amt,
+                    "county": r.get("county", ""),
+                })
+
+    # Status breakdown
+    sold = sum(1 for r in records if r.get("status") == "sold")
+    continued = sum(1 for r in records if r.get("status") == "continued")
+
+    # County breakdown (all records)
+    county_counts = {}
+    for r in records:
+        c = r.get("county", "unknown")
+        county_counts[c] = county_counts.get(c, 0) + 1
+
+    # Recent notable filings for editorial color (highest value this week)
+    recent = sorted(
+        [r for r in records if filed_in_window(r, seven_days_ago, today)],
+        key=lambda x: get_amount(x),
+        reverse=True
+    )[:5]
+    recent_filings = [{
+        "address": r.get("property_address", "Unknown"),
+        "amount": get_amount(r),
+        "county": r.get("county", ""),
+        "status": r.get("status", ""),
+        "date": get_filing_date(r),
+    } for r in recent]
 
     return {
-        "filings_7d": new_this_week,
-        "filings_30d": new_this_month,
-        "high_value_count": high_value_count,
-        "total_value_7d": total_value,
-        "total_tracked": len(filings),
-        "recent_filings": recent_filings[:8],
+        "filings_7d": filings_7d,
+        "filings_prev_7d": filings_prev_7d,
+        "filings_30d": filings_30d,
+        "high_value_count": len(high_value),
+        "high_value_examples": high_value[:3],
+        "total_value_7d": total_value_7d,
+        "total_tracked": len(records),
+        "upcoming_sales_7d": upcoming_sales,
+        "sold_count": sold,
+        "continued_count": continued,
+        "county_counts": county_counts,
+        "recent_filings": recent_filings,
     }
 
 
@@ -239,8 +309,13 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
   "tools": {
     "restaurant": {
       "blurb": "~50 word editorial blurb. Start with the key numbers, then provide context — week-over-week trend, notable neighborhoods, what it means.",
-      "meta": "Updated today · 5:00 AM",
-      "ticker": {
+      "meta": "Updated today · 5:15 AM",
+      "ticker_daily": {
+        "label1": "opened", "value1": "+N", "class1": "up",
+        "label2": "closed", "value2": "−N", "class2": "down",
+        "period": "today"
+      },
+      "ticker_weekly": {
         "label1": "opened", "value1": "+N", "class1": "up",
         "label2": "closed", "value2": "−N", "class2": "down",
         "period": "7-day"
@@ -248,11 +323,16 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
     },
     "foreclosure": {
       "blurb": "~50 word editorial blurb about foreclosure data.",
-      "meta": "Updated today · 5:00 AM",
-      "ticker": {
+      "meta": "Updated today · 5:15 AM",
+      "ticker_daily": {
         "label1": "new filings", "value1": "N", "class1": "",
-        "label2": "", "value2": "", "class2": "",
-        "period": "this week"
+        "label2": "upcoming auctions", "value2": "N", "class2": "",
+        "period": "today"
+      },
+      "ticker_weekly": {
+        "label1": "filings", "value1": "N", "class1": "",
+        "label2": "sold", "value2": "N", "class2": "",
+        "period": "7-day"
       }
     },
     "retail": {
@@ -287,24 +367,28 @@ IMPORTANT:
 
     if restaurant_data:
         prompt_parts.append(f"""RESTAURANT DATA:
-- 7-day openings: {restaurant_data['openings_7d']}
-- 7-day closures: {restaurant_data['closures_7d']}
-- 30-day openings: {restaurant_data['openings_30d']}
-- 30-day closures: {restaurant_data['closures_30d']}
+- Today: {restaurant_data['openings_today']} openings, {restaurant_data['closures_today']} closures
+- Past 7 days: {restaurant_data['openings_7d']} openings, {restaurant_data['closures_7d']} closures
+- Previous 7 days (for comparison): {restaurant_data['openings_prev_7d']} openings, {restaurant_data['closures_prev_7d']} closures
+- Past 30 days: {restaurant_data['openings_30d']} openings, {restaurant_data['closures_30d']} closures
 - Total tracked: {restaurant_data['total_tracked']}
-- Recent events: {json.dumps(restaurant_data['latest_events'][:6], indent=2)}
+- Last scrape: {restaurant_data['last_scrape']}
+- Recent events (this week): {json.dumps(restaurant_data['latest_events'][:8], indent=2)}
 """)
     else:
         prompt_parts.append("RESTAURANT DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
 
     if foreclosure_data:
         prompt_parts.append(f"""FORECLOSURE DATA:
-- Filings this week: {foreclosure_data['filings_7d']}
-- Filings this month: {foreclosure_data['filings_30d']}
+- New filings this week (by publication date): {foreclosure_data['filings_7d']}
+- Previous week (for comparison): {foreclosure_data['filings_prev_7d']}
+- Past 30 days: {foreclosure_data['filings_30d']}
 - High-value filings (>$2M) this week: {foreclosure_data['high_value_count']}
 - Total value of this week's filings: ${foreclosure_data['total_value_7d']:,.0f}
-- Total tracked: {foreclosure_data['total_tracked']}
-- Recent filings: {json.dumps(foreclosure_data['recent_filings'][:5], indent=2)}
+- Upcoming auctions next 7 days: {foreclosure_data['upcoming_sales_7d']}
+- Total active cases: {foreclosure_data['total_tracked']} ({foreclosure_data['sold_count']} sold, {foreclosure_data['continued_count']} continued)
+- Counties: {json.dumps(foreclosure_data['county_counts'])}
+- Highest-value recent filings: {json.dumps(foreclosure_data['recent_filings'][:5], indent=2)}
 """)
     else:
         prompt_parts.append("FORECLOSURE DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")

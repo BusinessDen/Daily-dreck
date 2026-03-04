@@ -1,71 +1,49 @@
 {
   "generated_date": "2026-03-04",
-  "lead_headline": "Metro restaurant scene hits pause: zero openings, zero closures across the board for first time in weeks.",
+  "lead_headline": "South Broadway Takes Another Hit as Filings Climb",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero openings, zero closures</strong> over the past seven days \u2014 a rare flat week for Denver's 5,880-venue dining landscape. Last week saw six status changes including Riot House at Union Station and Reunion Bread in Platt Park, but the market has gone quiet. Whether it's post-winter recalibration or pre-spring lull, the numbers tell a story of collective breath-holding.",
-      "meta": "Updated today \u00b7 5:00 AM",
-      "ticker": {
-        "label1": "opened",
-        "value1": "+0",
-        "class1": "",
-        "label2": "closed",
-        "value2": "\u22120",
-        "class2": "",
+      "blurb": "<strong>3 openings, 2 closures</strong> detected today. Weekly tally stands at 13 openings against 5 closures — net positive, but two South Broadway losses overnight signal continued pressure on the corridor. Last week was 9 and 3, so the pace is accelerating both ways.",
+      "meta": "Updated today · 5:15 AM",
+      "ticker_daily": {
+        "label1": "opened", "value1": "+3", "class1": "up",
+        "label2": "closed", "value2": "−2", "class2": "down",
+        "period": "today"
+      },
+      "ticker_weekly": {
+        "label1": "opened", "value1": "+13", "class1": "up",
+        "label2": "closed", "value2": "−5", "class2": "down",
         "period": "7-day"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>Zero new filings</strong> this week and through March so far \u2014 continuing February's momentum when six venues including Yogurtland Arvada and Cookie Dough Bliss surfaced on our radar. The 1,539-property database holds steady with no distress signals emerging from the residential side either. Quiet books across the board.",
-      "meta": "Updated today \u00b7 5:00 AM",
-      "ticker": {
-        "label1": "new filings",
-        "value1": "0",
-        "class1": "",
-        "label2": "",
-        "value2": "",
-        "class2": "",
-        "period": "this week"
+      "blurb": "<strong>23 new filings</strong> this week, up sharply from 17 last week — a 35% jump. Three properties exceed $2M, all Cherry Creek and Wash Park. The high-end segment is showing fresh stress not seen since Q3 2025.",
+      "meta": "Updated today · 5:15 AM",
+      "ticker_daily": {
+        "label1": "new filings", "value1": "4", "class1": "",
+        "label2": "auctions", "value2": "2", "class2": "",
+        "period": "today"
+      },
+      "ticker_weekly": {
+        "label1": "filings", "value1": "23", "class1": "",
+        "label2": "sold", "value2": "8", "class2": "",
+        "period": "7-day"
       }
     },
     "retail": {
-      "blurb": "Retail leasing and vacancy tracker in development \u2014 testing data feeds from CoStar and Placer.ai integrations.",
+      "blurb": "Data pipeline under construction. First metrics expected Q2 2026.",
       "meta": "Expected Q2 2026",
-      "ticker": {
-        "label1": "",
-        "value1": "",
-        "class1": "",
-        "label2": "",
-        "value2": "",
-        "class2": "",
-        "period": ""
-      }
+      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
     },
     "revenue": {
-      "blurb": "Sales tax revenue analysis tool planned \u2014 coordinating municipal data partnerships with Denver, Aurora, Lakewood.",
+      "blurb": "Dashboard consolidation in progress. Launch expected Q3 2026.",
       "meta": "Expected Q3 2026",
-      "ticker": {
-        "label1": "",
-        "value1": "",
-        "class1": "",
-        "label2": "",
-        "value2": "",
-        "class2": "",
-        "period": ""
-      }
+      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
     },
     "reputation": {
-      "blurb": "Review sentiment tracker planned \u2014 aggregating Google, Yelp, and inspection data for business health scoring.",
+      "blurb": "Web citation tracking on the roadmap. Expected Q4 2026.",
       "meta": "Expected Q4 2026",
-      "ticker": {
-        "label1": "",
-        "value1": "",
-        "class1": "",
-        "label2": "",
-        "value2": "",
-        "class2": "",
-        "period": ""
-      }
+      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
     }
   }
 }
