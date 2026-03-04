@@ -55,9 +55,7 @@
     background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   }
 
-  /* ============================================
-     PAGE
-     ============================================ */
+  /* Page */
   .page {
     position: relative; z-index: 2;
     max-width: 1280px;
@@ -65,9 +63,7 @@
     padding: 32px 28px 100px;
   }
 
-  /* ============================================
-     MASTHEAD
-     ============================================ */
+  /* Masthead */
   .masthead {
     text-align: center;
     padding: 28px 0 24px;
@@ -100,18 +96,13 @@
     animation: fadeUp 0.7s cubic-bezier(0.16,1,0.3,1) 0.15s both;
   }
 
-  /* ============================================
-     TOP-LEVEL 2-PANEL LAYOUT
-     Left panel: tools + pulse (grid-aligned)
-     Right panel: independent news feed
-     ============================================ */
+  /* 2-Panel Layout */
   .top-layout {
     display: flex;
     gap: 0;
     animation: fadeUp 0.6s cubic-bezier(0.16,1,0.3,1) 0.2s both;
   }
 
-  /* ---- LEFT PANEL: Tools + Pulse ---- */
   .panel-left {
     flex: 1;
     min-width: 0;
@@ -124,7 +115,7 @@
     border-bottom: 1px solid var(--border); margin-bottom: 0;
   }
 
-  /* Tools + Pulse sub-grid: aligned rows */
+  /* Tools + Pulse sub-grid */
   .tools-pulse-grid {
     display: grid;
     grid-template-columns: 1fr 160px;
@@ -146,10 +137,9 @@
     align-items: center; justify-content: center;
     text-align: center;
   }
-  /* Last row: no bottom border */
   .tp-tool.last, .tp-pulse.last { border-bottom: none; }
 
-  /* ---- TOOL CARD ---- */
+  /* Tool Card */
   .tool-card {
     display: flex; align-items: stretch;
     background: var(--surface); border: 1px solid var(--border);
@@ -219,7 +209,7 @@
   .tool-card.coming-soon:hover .tool-card-photo img { filter: brightness(0.45) saturate(0.5); }
   .tool-card.coming-soon h2 { color: var(--cream-dim); }
 
-  /* ---- TICKER ---- */
+  /* Ticker */
   .ticker-pair { display: flex; gap: 12px; justify-content: center; }
   .ticker-pair .t-mini { text-align: center; }
   .t-label {
@@ -235,8 +225,9 @@
   .ticker-pair .t-mini .t-value { font-size: 22px; }
   .t-sub { font-size: 8px; color: var(--text-dim); margin-top: 2px; letter-spacing: 0.5px; }
   .t-pending { color: var(--text-dim); font-size: 14px; font-family: 'Cormorant Garamond', serif; font-style: italic; }
+  .t-unavailable { color: var(--text-dim); font-size: 10px; font-style: italic; }
 
-  /* ---- RIGHT PANEL: NEWS (independent) ---- */
+  /* News panel */
   .panel-right {
     width: 290px;
     flex-shrink: 0;
@@ -244,9 +235,7 @@
     border-left: 1px solid var(--border);
   }
 
-  .news-list {
-    display: flex; flex-direction: column; gap: 0;
-  }
+  .news-list { display: flex; flex-direction: column; gap: 0; }
   .news-item {
     padding: 10px 0;
     text-decoration: none; color: inherit; display: block;
@@ -280,9 +269,7 @@
     font-size: 8px; color: var(--text-dim); margin-top: 3px; letter-spacing: 0.3px;
   }
 
-  /* ============================================
-     FOOTER
-     ============================================ */
+  /* Footer */
   .page-footer { margin-top: 48px; animation: fadeUp 0.6s cubic-bezier(0.16,1,0.3,1) 0.5s both; }
   .footer-sep { display: flex; align-items: center; gap: 16px; margin-bottom: 18px; }
   .footer-sep .line { flex: 1; height: 1px; background: var(--border); }
@@ -297,19 +284,13 @@
     to { opacity: 1; transform: translateY(0); }
   }
 
-  /* ============================================
-     MOBILE NEWS (hidden on desktop)
-     ============================================ */
+  /* Mobile news (hidden on desktop) */
   .news-mobile { display: none; }
 
-  /* ============================================
-     MOBILE TICKER (hidden on desktop)
-     ============================================ */
+  /* Mobile ticker (hidden on desktop) */
   .ticker-mobile { display: none; }
 
-  /* ============================================
-     RESPONSIVE
-     ============================================ */
+  /* Responsive */
   @media (max-width: 1060px) {
     .panel-right { width: 250px; padding-left: 20px; }
     .tool-card-photo { width: 120px; min-height: 120px; }
@@ -319,7 +300,6 @@
   }
 
   @media (max-width: 900px) {
-    /* Drop news panel, show mobile version below */
     .panel-right { display: none; }
     .panel-left { padding-right: 0; }
     .news-mobile { display: block; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--border); }
@@ -330,7 +310,6 @@
     .masthead-title { font-size: 44px; }
     .masthead-tagline { font-size: 15px; }
 
-    /* Hide pulse column, show mobile ticker */
     .tp-header-pulse, .tp-pulse { display: none; }
     .tools-pulse-grid { grid-template-columns: 1fr; }
     .tp-tool { padding-right: 0; }
@@ -394,25 +373,8 @@
 
   <div class="date-bar" id="date-display"></div>
 
-  <!-- MOBILE TICKER (hidden on desktop) -->
-  <div class="ticker-mobile">
-    <div class="ticker-mobile-cell">
-      <div class="t-label">Openings 7d</div>
-      <div class="t-value up">+13</div>
-    </div>
-    <div class="ticker-mobile-cell">
-      <div class="t-label">Closures 7d</div>
-      <div class="t-value down">−5</div>
-    </div>
-    <div class="ticker-mobile-cell">
-      <div class="t-label">Foreclosures</div>
-      <div class="t-value">23</div>
-    </div>
-    <div class="ticker-mobile-cell">
-      <div class="t-label">Tools Live</div>
-      <div class="t-value">2</div>
-    </div>
-  </div>
+  <!-- MOBILE TICKER (hidden on desktop, populated entirely by JS) -->
+  <div class="ticker-mobile" id="ticker-mobile"></div>
 
   <!-- TOP-LEVEL LAYOUT -->
   <div class="top-layout">
@@ -434,18 +396,14 @@
             <div class="tool-card-body">
               <div class="badge-row"><span class="badge badge-live"><span class="dot"></span>Live</span></div>
               <h2>Restaurant Tracker</h2>
-              <p class="blurb" id="blurb-restaurant"><strong>13 openings, 5 closures</strong> in the past seven days. Four closures hit overnight, two on South Broadway. Net positive week, but the corridor losses bear watching.</p>
-              <div class="meta" id="meta-restaurant">Updated today · 5:00 AM</div>
+              <p class="blurb" id="blurb-restaurant"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-restaurant"></div>
               <div class="cta">Open →</div>
             </div>
           </a>
         </div>
         <div class="tp-pulse" id="pulse-restaurant">
-          <div class="ticker-pair">
-            <div class="t-mini"><div class="t-value up">+13</div><div class="t-sub">opened</div></div>
-            <div class="t-mini"><div class="t-value down">−5</div><div class="t-sub">closed</div></div>
-          </div>
-          <div class="t-label" style="margin-top:6px;">7-day</div>
+          <div class="t-unavailable">—</div>
         </div>
 
         <!-- Row 2: Foreclosure Tracker -->
@@ -457,16 +415,14 @@
             <div class="tool-card-body">
               <div class="badge-row"><span class="badge badge-live"><span class="dot"></span>Live</span></div>
               <h2>Foreclosure Tracker</h2>
-              <p class="blurb" id="blurb-foreclosure"><strong>23 new filings</strong> this week, up from 17 last week. Three properties exceed $2M — all in Cherry Creek and Wash Park. The high-end segment is showing fresh stress.</p>
-              <div class="meta" id="meta-foreclosure">Updated today · 5:00 AM</div>
+              <p class="blurb" id="blurb-foreclosure"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-foreclosure"></div>
               <div class="cta">Open →</div>
             </div>
           </a>
         </div>
         <div class="tp-pulse" id="pulse-foreclosure">
-          <div class="t-value">23</div>
-          <div class="t-sub">new filings</div>
-          <div class="t-label" style="margin-top:4px;">this week</div>
+          <div class="t-unavailable">—</div>
         </div>
 
         <!-- Row 3: Retail Tracker -->
@@ -478,8 +434,8 @@
             <div class="tool-card-body">
               <div class="badge-row"><span class="badge badge-dev"><span class="dot"></span>In Dev</span></div>
               <h2>Retail Tracker</h2>
-              <p class="blurb">Lease filings, vacancy rates, and tenant movements across Denver metro retail corridors. Data pipeline under construction.</p>
-              <div class="meta">Expected Q2 2026</div>
+              <p class="blurb" id="blurb-retail"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-retail"></div>
               <div class="cta">Coming Soon</div>
             </div>
           </a>
@@ -498,8 +454,8 @@
             <div class="tool-card-body">
               <div class="badge-row"><span class="badge badge-planned"><span class="dot"></span>Planned</span></div>
               <h2>Revenue Tracker</h2>
-              <p class="blurb">Subscription revenue, advertiser spend, and growth metrics consolidated into a single internal dashboard.</p>
-              <div class="meta">Expected Q3 2026</div>
+              <p class="blurb" id="blurb-revenue"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-revenue"></div>
               <div class="cta">Coming Soon</div>
             </div>
           </a>
@@ -518,8 +474,8 @@
             <div class="tool-card-body">
               <div class="badge-row"><span class="badge badge-planned"><span class="dot"></span>Planned</span></div>
               <h2>Reputation Tracker</h2>
-              <p class="blurb">Every citation, backlink, and mention of BusinessDen reporting across the web — tracked and surfaced daily.</p>
-              <div class="meta">Expected Q4 2026</div>
+              <p class="blurb" id="blurb-reputation"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-reputation"></div>
               <div class="cta">Coming Soon</div>
             </div>
           </a>
@@ -532,7 +488,7 @@
       </div>
     </div>
 
-    <!-- ======== RIGHT PANEL: NEWS (fully independent) ======== -->
+    <!-- ======== RIGHT PANEL: NEWS ======== -->
     <div class="panel-right">
       <div class="col-header" style="margin-bottom: 10px;">Denver Business Wire</div>
       <div class="news-list" id="news-desktop">
@@ -571,26 +527,35 @@
 
   // === LOAD EDITORIAL BLURBS ===
   fetch('daily-dreck-blurbs.json?v=' + Date.now())
-    .then(r => r.json())
-    .then(data => {
+    .then(function(r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function(data) {
       // Lead headline
-      document.getElementById('lead-hed').textContent = data.lead_headline || '';
+      var leadEl = document.getElementById('lead-hed');
+      if (leadEl && data.lead_headline) leadEl.textContent = data.lead_headline;
 
-      // Tool blurbs — inject HTML to allow <strong> tags from Claude
-      const tools = data.tools || {};
-      for (const [key, val] of Object.entries(tools)) {
-        const blurbEl = document.getElementById('blurb-' + key);
+      // Tool blurbs
+      var tools = data.tools || {};
+      var keys = ['restaurant', 'foreclosure', 'retail', 'revenue', 'reputation'];
+      for (var i = 0; i < keys.length; i++) {
+        var key = keys[i];
+        var val = tools[key];
+        if (!val) continue;
+
+        var blurbEl = document.getElementById('blurb-' + key);
         if (blurbEl && val.blurb) blurbEl.innerHTML = val.blurb;
 
-        const metaEl = document.getElementById('meta-' + key);
+        var metaEl = document.getElementById('meta-' + key);
         if (metaEl && val.meta) {
           metaEl.textContent = val.meta;
         } else if (metaEl && data.generated_date) {
-          metaEl.textContent = 'Updated ' + data.generated_date + ' · 5:15 AM MST';
+          metaEl.textContent = 'Updated ' + data.generated_date + ' \u00b7 5:15 AM MST';
         }
       }
 
-      // Pulse tickers - render both daily and weekly
+      // Pulse tickers
       function renderOneTicker(t) {
         if (!t || !t.value1) return '';
         var s = '';
@@ -613,40 +578,45 @@
         var weekly = renderOneTicker(tickerWeekly);
         if (daily && weekly) {
           el.innerHTML = '<div style="margin-bottom:8px;padding-bottom:8px;border-bottom:1px solid rgba(255,255,255,0.05);">' + daily + '</div>' + weekly;
+        } else if (daily || weekly) {
+          el.innerHTML = daily || weekly;
         } else {
-          el.innerHTML = daily || weekly || '<div class="t-pending">\u2014</div>';
+          el.innerHTML = '<div class="t-unavailable">\u2014</div>';
         }
       }
 
-      var rt_d = tools.restaurant?.ticker_daily;
-      var rt_w = tools.restaurant?.ticker_weekly;
-      if (!rt_d && !rt_w && tools.restaurant?.ticker) { rt_w = tools.restaurant.ticker; }
+      // Restaurant pulse
+      var rt_d = tools.restaurant ? tools.restaurant.ticker_daily : null;
+      var rt_w = tools.restaurant ? tools.restaurant.ticker_weekly : null;
+      if (!rt_d && !rt_w && tools.restaurant && tools.restaurant.ticker) { rt_w = tools.restaurant.ticker; }
       renderPulse(document.getElementById('pulse-restaurant'), rt_d, rt_w);
 
-      var fc_d = tools.foreclosure?.ticker_daily;
-      var fc_w = tools.foreclosure?.ticker_weekly;
-      if (!fc_d && !fc_w && tools.foreclosure?.ticker) { fc_w = tools.foreclosure.ticker; }
+      // Foreclosure pulse
+      var fc_d = tools.foreclosure ? tools.foreclosure.ticker_daily : null;
+      var fc_w = tools.foreclosure ? tools.foreclosure.ticker_weekly : null;
+      if (!fc_d && !fc_w && tools.foreclosure && tools.foreclosure.ticker) { fc_w = tools.foreclosure.ticker; }
       renderPulse(document.getElementById('pulse-foreclosure'), fc_d, fc_w);
 
       // Mobile ticker
       var mt = document.getElementById('ticker-mobile');
       if (mt) {
+        var rd = rt_d || {};
+        var rw = rt_w || {};
         mt.innerHTML =
-          '<div class="ticker-mobile-cell"><div class="t-label">Opened today</div><div class="t-value up">' + (rt_d?.value1||'\u2014') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Closed today</div><div class="t-value down">' + (rt_d?.value2||'\u2014') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Opened 7d</div><div class="t-value up">' + (rt_w?.value1||'\u2014') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Closed 7d</div><div class="t-value down">' + (rt_w?.value2||'\u2014') + '</div></div>';
-      }
-
+          '<div class="ticker-mobile-cell"><div class="t-label">Opened today</div><div class="t-value up">' + (rd.value1 || '\u2014') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Closed today</div><div class="t-value down">' + (rd.value2 || '\u2014') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Opened 7d</div><div class="t-value up">' + (rw.value1 || '\u2014') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Closed 7d</div><div class="t-value down">' + (rw.value2 || '\u2014') + '</div></div>';
       }
     })
-    .catch(err => {
+    .catch(function(err) {
       console.warn('Could not load blurbs:', err);
-      document.getElementById('lead-hed').textContent = 'The Daily Dreck';
+      // All blurbs already show "Summary information unavailable" as default
     });
 
   // === LOAD NEWS ===
   function renderNews(articles, container) {
+    if (!container) return;
     if (!articles || !articles.length) {
       container.innerHTML = '<div style="font-size:11px;color:var(--text-dim);font-style:italic;padding:20px 0;">No headlines available</div>';
       return;
@@ -664,16 +634,21 @@
   }
 
   fetch('daily-dreck-news.json?v=' + Date.now())
-    .then(r => r.json())
-    .then(data => {
+    .then(function(r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function(data) {
       renderNews(data.articles, document.getElementById('news-desktop'));
       renderNews(data.articles, document.getElementById('news-mobile-list'));
     })
-    .catch(err => {
+    .catch(function(err) {
       console.warn('Could not load news:', err);
       var msg = '<div style="font-size:11px;color:var(--text-dim);font-style:italic;padding:20px 0;">News feed unavailable</div>';
-      document.getElementById('news-desktop').innerHTML = msg;
-      document.getElementById('news-mobile-list').innerHTML = msg;
+      var d = document.getElementById('news-desktop');
+      var m = document.getElementById('news-mobile-list');
+      if (d) d.innerHTML = msg;
+      if (m) m.innerHTML = msg;
     });
 })();
 </script>
