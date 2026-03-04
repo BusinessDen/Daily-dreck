@@ -1,0 +1,20 @@
+{
+  "fetched_date": "2026-03-04",
+  "fetched_at": "2026-03-04 05:15:00",
+  "article_count": 12,
+  "breaking_count": 1,
+  "articles": [
+    {"title": "Major downtown office tower sells at steep discount amid vacancy surge", "link": "#", "source": "Denver Post", "pub_date": "2026-03-04T10:30:00+00:00", "age_hours": 0.7, "breaking": true, "time_ago": "42 min ago"},
+    {"title": "Denver among top metros for warehouse construction as logistics boom continues", "link": "#", "source": "WSJ", "pub_date": "2026-03-04T09:00:00+00:00", "age_hours": 2, "breaking": false, "time_ago": "2 hrs ago"},
+    {"title": "Another Colfax landmark shutters as redevelopment plans stall indefinitely", "link": "#", "source": "Westword", "pub_date": "2026-03-04T08:00:00+00:00", "age_hours": 3, "breaking": false, "time_ago": "3 hrs ago"},
+    {"title": "Northern Colorado tech corridor sees record startup funding in Q1", "link": "#", "source": "BizWest", "pub_date": "2026-03-04T06:00:00+00:00", "age_hours": 5, "breaking": false, "time_ago": "5 hrs ago"},
+    {"title": "Colorado's housing crunch forces employers to rethink remote work policies", "link": "#", "source": "NYT", "pub_date": "2026-03-04T05:00:00+00:00", "age_hours": 6, "breaking": false, "time_ago": "6 hrs ago"},
+    {"title": "City council approves new zoning rules for RiNo mixed-use projects", "link": "#", "source": "Denver Post", "pub_date": "2026-03-04T03:00:00+00:00", "age_hours": 8, "breaking": false, "time_ago": "8 hrs ago"},
+    {"title": "National home prices rise 4.2% YoY; Denver market outpaces average", "link": "#", "source": "Reuters", "pub_date": "2026-03-04T02:00:00+00:00", "age_hours": 9, "breaking": false, "time_ago": "9 hrs ago"},
+    {"title": "South Broadway restaurant row sees three new openings in one week", "link": "#", "source": "Westword", "pub_date": "2026-03-03T22:00:00+00:00", "age_hours": 11, "breaking": false, "time_ago": "11 hrs ago"},
+    {"title": "Boulder biotech firm lands $80M Series C, plans Denver expansion", "link": "#", "source": "BizWest", "pub_date": "2026-03-03T19:00:00+00:00", "age_hours": 14, "breaking": false, "time_ago": "14 hrs ago"},
+    {"title": "DIA concession overhaul moves forward with new vendor selections", "link": "#", "source": "Denver Post", "pub_date": "2026-03-03T15:00:00+00:00", "age_hours": 18, "breaking": false, "time_ago": "18 hrs ago"},
+    {"title": "Ski industry consolidation reshapes Colorado mountain town economies", "link": "#", "source": "WSJ", "pub_date": "2026-03-03T08:00:00+00:00", "age_hours": 25, "breaking": false, "time_ago": "1 day ago"},
+    {"title": "Five Points development sparks displacement concerns among longtime residents", "link": "#", "source": "Westword", "pub_date": "2026-03-03T06:00:00+00:00", "age_hours": 27, "breaking": false, "time_ago": "1 day ago"}
+  ]
+}

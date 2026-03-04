@@ -1,0 +1,233 @@
+#!/usr/bin/env python3
+"""
+fetch-news.py — RSS feed aggregator for The Daily Dreck news sidebar.
+Fetches Denver business news from local and national sources,
+deduplicates by title similarity, and outputs the 15 most recent + breaking.
+"""
+
+import json
+import re
+import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
+from urllib.request import urlopen, Request
+from urllib.error import URLError
+
+# RSS feeds to monitor
+FEEDS = [
+    {"name": "Denver Post", "short": "Denver Post", "url": "https://www.denverpost.com/feed/", "filter_keywords": ["business", "real estate", "restaurant", "retail", "development", "economy", "housing", "commercial", "office", "downtown", "denver"]},
+    {"name": "Westword", "short": "Westword", "url": "https://www.westword.com/denver/Rss.xml", "filter_keywords": ["business", "restaurant", "food", "development", "real estate", "retail", "economy"]},
+    {"name": "BizWest", "short": "BizWest", "url": "https://bizwest.com/feed/", "filter_keywords": None},  # All BizWest articles are relevant
+    {"name": "Denver Business Journal", "short": "DBJ", "url": "https://feeds.bizjournals.com/bizj_denver", "filter_keywords": None},
+    # National papers — filter for Denver/Colorado mentions
+    {"name": "New York Times", "short": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "filter_keywords": ["denver", "colorado", "boulder", "aurora", "front range"]},
+    {"name": "Wall Street Journal", "short": "WSJ", "url": "https://feeds.a]wsj.com/rss/RSSMarketsMain.xml", "filter_keywords": ["denver", "colorado"]},
+    {"name": "Washington Post", "short": "WaPo", "url": "https://feeds.washingtonpost.com/rss/business", "filter_keywords": ["denver", "colorado"]},
+    {"name": "Reuters", "short": "Reuters", "url": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best", "filter_keywords": ["denver", "colorado", "housing", "real estate"]},
+]
+
+# How far back to look for articles
+MAX_AGE_HOURS = 72
+BREAKING_WINDOW_HOURS = 6
+MAX_HEADLINES = 15
+
+
+def fetch_feed(feed_config):
+    """Fetch and parse a single RSS feed. Returns list of article dicts."""
+    articles = []
+    try:
+        req = Request(feed_config["url"], headers={"User-Agent": "DailyDreck/1.0 (BusinessDen internal)"})
+        with urlopen(req, timeout=15) as resp:
+            raw = resp.read()
+        
+        root = ET.fromstring(raw)
+        
+        # Handle both RSS 2.0 and Atom formats
+        items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
+        
+        for item in items:
+            title = ""
+            link = ""
+            pub_date = None
+            description = ""
+
+            # RSS 2.0
+            if item.find("title") is not None:
+                title = item.find("title").text or ""
+            if item.find("link") is not None:
+                link = item.find("link").text or ""
+            if item.find("pubDate") is not None:
+                try:
+                    pub_date = parsedate_to_datetime(item.find("pubDate").text)
+                except (ValueError, TypeError):
+                    pub_date = None
+            if item.find("description") is not None:
+                description = item.find("description").text or ""
+
+            # Atom
+            if not title:
+                atom_title = item.find("{http://www.w3.org/2005/Atom}title")
+                if atom_title is not None:
+                    title = atom_title.text or ""
+            if not link:
+                atom_link = item.find("{http://www.w3.org/2005/Atom}link")
+                if atom_link is not None:
+                    link = atom_link.get("href", "")
+            if pub_date is None:
+                atom_date = item.find("{http://www.w3.org/2005/Atom}published") or item.find("{http://www.w3.org/2005/Atom}updated")
+                if atom_date is not None and atom_date.text:
+                    try:
+                        pub_date = datetime.fromisoformat(atom_date.text.replace("Z", "+00:00"))
+                    except (ValueError, TypeError):
+                        pub_date = None
+
+            if not title or not pub_date:
+                continue
+
+            # Filter by age
+            if pub_date.tzinfo is None:
+                pub_date = pub_date.replace(tzinfo=timezone.utc)
+            age = datetime.now(timezone.utc) - pub_date
+            if age > timedelta(hours=MAX_AGE_HOURS):
+                continue
+
+            # Filter by keywords if required
+            keywords = feed_config.get("filter_keywords")
+            if keywords:
+                text_to_check = (title + " " + description).lower()
+                if not any(kw in text_to_check for kw in keywords):
+                    continue
+
+            articles.append({
+                "title": title.strip(),
+                "link": link.strip(),
+                "source": feed_config["short"],
+                "pub_date": pub_date.isoformat(),
+                "age_hours": age.total_seconds() / 3600,
+            })
+
+    except (URLError, ET.ParseError, Exception) as e:
+        print(f"Warning: Failed to fetch {feed_config['name']}: {e}")
+
+    return articles
+
+
+def normalize_title(title):
+    """Normalize a title for deduplication comparison."""
+    t = title.lower().strip()
+    t = re.sub(r'[^\w\s]', '', t)
+    t = re.sub(r'\s+', ' ', t)
+    # Remove common prefixes like "BREAKING:" or "UPDATE:"
+    t = re.sub(r'^(breaking|update|exclusive|opinion|analysis)\s*:?\s*', '', t)
+    return t
+
+
+def deduplicate(articles):
+    """Remove duplicate articles (same story from multiple sources).
+    Keeps the version from the most authoritative source."""
+    # Priority: local sources first
+    source_priority = {
+        "Denver Post": 1, "Westword": 2, "BizWest": 3, "DBJ": 4,
+        "NYT": 5, "WSJ": 6, "WaPo": 7, "Reuters": 8,
+    }
+
+    seen = {}
+    for article in articles:
+        norm = normalize_title(article["title"])
+        # Check for near-duplicates (titles sharing >60% of words)
+        is_dupe = False
+        for seen_norm in list(seen.keys()):
+            words_a = set(norm.split())
+            words_b = set(seen_norm.split())
+            if len(words_a) == 0 or len(words_b) == 0:
+                continue
+            overlap = len(words_a & words_b) / max(len(words_a), len(words_b))
+            if overlap > 0.6:
+                # Keep the one with higher source priority (lower number)
+                existing = seen[seen_norm]
+                new_pri = source_priority.get(article["source"], 99)
+                old_pri = source_priority.get(existing["source"], 99)
+                if new_pri < old_pri:
+                    del seen[seen_norm]
+                    seen[norm] = article
+                is_dupe = True
+                break
+        if not is_dupe:
+            seen[norm] = article
+
+    return list(seen.values())
+
+
+def classify_breaking(articles):
+    """Flag articles as breaking if published within the breaking window."""
+    for article in articles:
+        article["breaking"] = article["age_hours"] <= BREAKING_WINDOW_HOURS
+    return articles
+
+
+def format_time_ago(age_hours):
+    """Convert hours to human-readable time-ago string."""
+    if age_hours < 1:
+        minutes = int(age_hours * 60)
+        return f"{minutes} min ago"
+    elif age_hours < 24:
+        return f"{int(age_hours)} hrs ago"
+    else:
+        days = int(age_hours / 24)
+        return f"{days} day{'s' if days > 1 else ''} ago"
+
+
+def main():
+    print("=== The Daily Dreck — Fetching news feeds ===")
+    print(f"Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+
+    all_articles = []
+    for feed in FEEDS:
+        print(f"Fetching {feed['name']}...")
+        articles = fetch_feed(feed)
+        print(f"  Found {len(articles)} relevant articles")
+        all_articles.extend(articles)
+
+    print(f"\nTotal articles before dedup: {len(all_articles)}")
+
+    # Deduplicate
+    all_articles = deduplicate(all_articles)
+    print(f"After dedup: {len(all_articles)}")
+
+    # Sort by publication date (newest first)
+    all_articles.sort(key=lambda a: a["pub_date"], reverse=True)
+
+    # Classify breaking
+    all_articles = classify_breaking(all_articles)
+
+    # Select: all breaking + most recent 15
+    breaking = [a for a in all_articles if a["breaking"]]
+    non_breaking = [a for a in all_articles if not a["breaking"]]
+    selected = breaking + non_breaking[:MAX_HEADLINES - len(breaking)]
+
+    # Add formatted time
+    for article in selected:
+        article["time_ago"] = format_time_ago(article["age_hours"])
+
+    # Write output
+    output = {
+        "fetched_date": datetime.now().strftime("%Y-%m-%d"),
+        "fetched_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "article_count": len(selected),
+        "breaking_count": len(breaking),
+        "articles": selected,
+    }
+
+    with open("daily-dreck-news.json", "w") as f:
+        json.dump(output, f, indent=2)
+
+    print(f"\nSelected {len(selected)} headlines ({len(breaking)} breaking)")
+    for a in selected[:5]:
+        prefix = "[BREAKING] " if a["breaking"] else ""
+        print(f"  {prefix}{a['source']}: {a['title'][:70]}...")
+
+    print("\nWritten to daily-dreck-news.json")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Dreck — BusinessDen</title>
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Sora:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg: #0b0b10;
+    --bg-deep: #070710;
+    --surface: rgba(255,255,255,0.022);
+    --surface-hover: rgba(255,255,255,0.048);
+    --cream: #f0ebe0;
+    --cream-dim: #c8c2b4;
+    --gold: #d4aa4f;
+    --gold-dim: rgba(212,170,79,0.5);
+    --gold-glow: rgba(212,170,79,0.08);
+    --text: #8a8590;
+    --text-dim: #44424a;
+    --border: rgba(255,255,255,0.05);
+    --border-hover: rgba(212,170,79,0.25);
+    --green: #34d399;
+    --green-bg: rgba(52,211,153,0.08);
+    --yellow: #fbbf24;
+    --yellow-bg: rgba(251,191,36,0.08);
+    --blue: #60a5fa;
+    --blue-bg: rgba(96,165,250,0.08);
+    --red: #f87171;
+  }
+
+  body {
+    background: var(--bg);
+    font-family: 'Sora', sans-serif;
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Atmosphere */
+  .atmosphere { position: fixed; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none; z-index: 0; overflow: hidden; }
+  .atmo-orb { position: absolute; border-radius: 50%; filter: blur(140px); opacity: 0.045; }
+  .atmo-1 { width: 600px; height: 600px; top: -200px; right: -100px; background: var(--gold); }
+  .atmo-2 { width: 400px; height: 400px; bottom: -150px; left: -80px; background: #3a2a7a; }
+  .grain {
+    position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    pointer-events: none; z-index: 1; opacity: 0.02;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  /* ============================================
+     PAGE
+     ============================================ */
+  .page {
+    position: relative; z-index: 2;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 32px 28px 100px;
+  }
+
+  /* ============================================
+     MASTHEAD
+     ============================================ */
+  .masthead {
+    text-align: center;
+    padding: 28px 0 24px;
+    animation: fadeUp 0.8s cubic-bezier(0.16,1,0.3,1);
+  }
+  .bd-credit {
+    font-size: 10px; letter-spacing: 5px; text-transform: uppercase;
+    color: var(--text-dim); margin-bottom: 14px; font-weight: 500;
+  }
+  .masthead-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 68px; font-weight: 700; color: var(--cream);
+    line-height: 1; letter-spacing: -1.5px;
+  }
+  .masthead-tagline {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic; font-weight: 500; font-size: 18px;
+    color: var(--gold-dim); margin-top: 10px;
+  }
+  .diamond-sep {
+    display: flex; align-items: center; gap: 16px; margin: 24px 0;
+    animation: fadeUp 0.7s cubic-bezier(0.16,1,0.3,1) 0.1s both;
+  }
+  .diamond-sep .line { flex: 1; height: 1px; background: linear-gradient(90deg, transparent, var(--border), var(--gold-dim), var(--border), transparent); }
+  .diamond-sep .diamond { width: 6px; height: 6px; background: var(--gold); transform: rotate(45deg); opacity: 0.4; flex-shrink: 0; }
+  .date-bar {
+    text-align: center; font-size: 11px; letter-spacing: 3px;
+    text-transform: uppercase; color: var(--text-dim); font-weight: 500;
+    margin-bottom: 28px;
+    animation: fadeUp 0.7s cubic-bezier(0.16,1,0.3,1) 0.15s both;
+  }
+
+  /* ============================================
+     TOP-LEVEL 2-PANEL LAYOUT
+     Left panel: tools + pulse (grid-aligned)
+     Right panel: independent news feed
+     ============================================ */
+  .top-layout {
+    display: flex;
+    gap: 0;
+    animation: fadeUp 0.6s cubic-bezier(0.16,1,0.3,1) 0.2s both;
+  }
+
+  /* ---- LEFT PANEL: Tools + Pulse ---- */
+  .panel-left {
+    flex: 1;
+    min-width: 0;
+    padding-right: 24px;
+  }
+
+  .col-header {
+    font-size: 9px; letter-spacing: 3px; text-transform: uppercase;
+    color: var(--text-dim); font-weight: 600; padding-bottom: 12px;
+    border-bottom: 1px solid var(--border); margin-bottom: 0;
+  }
+
+  /* Tools + Pulse sub-grid: aligned rows */
+  .tools-pulse-grid {
+    display: grid;
+    grid-template-columns: 1fr 130px;
+    gap: 0;
+  }
+
+  .tp-header-tools { padding-right: 16px; }
+  .tp-header-pulse { padding-left: 16px; border-left: 1px solid var(--border); text-align: center; }
+
+  .tp-tool {
+    padding: 8px 16px 8px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .tp-pulse {
+    padding: 8px 0 8px 16px;
+    border-left: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    text-align: center;
+  }
+  /* Last row: no bottom border */
+  .tp-tool.last, .tp-pulse.last { border-bottom: none; }
+
+  /* ---- TOOL CARD ---- */
+  .tool-card {
+    display: flex; align-items: stretch;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; overflow: hidden;
+    transition: all 0.4s cubic-bezier(0.16,1,0.3,1);
+    cursor: pointer; text-decoration: none; color: inherit;
+  }
+  .tool-card:hover {
+    background: var(--surface-hover);
+    border-color: var(--border-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 12px 44px rgba(0,0,0,0.4), 0 0 60px var(--gold-glow);
+  }
+  .tool-card-photo {
+    flex-shrink: 0; width: 140px; min-height: 140px;
+    overflow: hidden; position: relative;
+  }
+  .tool-card-photo img {
+    width: 100%; height: 100%; object-fit: cover; display: block;
+    filter: brightness(0.5) saturate(0.7);
+    transition: all 0.5s cubic-bezier(0.16,1,0.3,1);
+  }
+  .tool-card:hover .tool-card-photo img {
+    filter: brightness(0.7) saturate(0.9); transform: scale(1.05);
+  }
+  .tool-card-body {
+    flex: 1; padding: 16px 20px;
+    display: flex; flex-direction: column; justify-content: center;
+  }
+  .badge-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .badge {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: 8px; letter-spacing: 1.5px; text-transform: uppercase;
+    font-weight: 600; padding: 3px 9px; border-radius: 16px;
+  }
+  .badge .dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
+  .badge-live { background: var(--green-bg); color: var(--green); }
+  .badge-live .dot { background: var(--green); box-shadow: 0 0 6px var(--green); animation: pulse 2s infinite; }
+  .badge-dev { background: var(--yellow-bg); color: var(--yellow); }
+  .badge-dev .dot { background: var(--yellow); }
+  .badge-planned { background: var(--blue-bg); color: var(--blue); }
+  .badge-planned .dot { background: var(--blue); }
+  @keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.4;} }
+
+  .tool-card h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 22px; font-weight: 700; color: var(--cream);
+    line-height: 1.15; margin-bottom: 6px; transition: color 0.3s;
+  }
+  .tool-card:hover h2 { color: #fff; }
+  .tool-card .blurb {
+    font-size: 12.5px; line-height: 1.65; font-weight: 300; color: var(--text);
+  }
+  .tool-card .blurb strong { color: var(--gold); font-weight: 500; }
+  .tool-card .meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px; color: var(--text-dim); margin-top: 8px; letter-spacing: 0.3px;
+  }
+  .tool-card .cta {
+    font-size: 10px; font-weight: 600; color: var(--gold);
+    letter-spacing: 1.5px; text-transform: uppercase; margin-top: 6px;
+    opacity: 0; transform: translateY(4px); transition: all 0.35s;
+  }
+  .tool-card:hover .cta { opacity: 1; transform: translateY(0); }
+
+  .tool-card.coming-soon .tool-card-photo img { filter: brightness(0.3) saturate(0.3); }
+  .tool-card.coming-soon:hover .tool-card-photo img { filter: brightness(0.45) saturate(0.5); }
+  .tool-card.coming-soon h2 { color: var(--cream-dim); }
+
+  /* ---- TICKER ---- */
+  .ticker-pair { display: flex; gap: 12px; justify-content: center; }
+  .ticker-pair .t-mini { text-align: center; }
+  .t-label {
+    font-size: 8px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: var(--text-dim); margin-bottom: 4px; font-weight: 500;
+  }
+  .t-value {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 26px; font-weight: 700; color: var(--cream); line-height: 1;
+  }
+  .t-value.up { color: var(--green); }
+  .t-value.down { color: var(--red); }
+  .ticker-pair .t-mini .t-value { font-size: 22px; }
+  .t-sub { font-size: 8px; color: var(--text-dim); margin-top: 2px; letter-spacing: 0.5px; }
+  .t-pending { color: var(--text-dim); font-size: 14px; font-family: 'Cormorant Garamond', serif; font-style: italic; }
+
+  /* ---- RIGHT PANEL: NEWS (independent) ---- */
+  .panel-right {
+    width: 290px;
+    flex-shrink: 0;
+    padding-left: 24px;
+    border-left: 1px solid var(--border);
+  }
+
+  .news-list {
+    display: flex; flex-direction: column; gap: 0;
+  }
+  .news-item {
+    padding: 10px 0;
+    text-decoration: none; color: inherit; display: block;
+    transition: all 0.2s;
+    border-bottom: 1px solid rgba(255,255,255,0.03);
+  }
+  .news-item:last-child { border-bottom: none; }
+  .news-item:hover {
+    background: rgba(255,255,255,0.015);
+    margin: 0 -6px; padding-left: 6px; padding-right: 6px;
+    border-radius: 4px;
+  }
+  .news-source {
+    font-size: 8px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: var(--text-dim); font-weight: 600; margin-bottom: 3px;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .news-source .breaking {
+    background: rgba(248,113,113,0.15); color: var(--red);
+    font-size: 7px; padding: 1px 5px; border-radius: 3px;
+    letter-spacing: 1px; font-weight: 700;
+  }
+  .news-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 14px; font-weight: 600; color: var(--cream-dim);
+    line-height: 1.35; transition: color 0.2s;
+  }
+  .news-item:hover .news-title { color: var(--cream); }
+  .news-time {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 8px; color: var(--text-dim); margin-top: 3px; letter-spacing: 0.3px;
+  }
+
+  /* ============================================
+     FOOTER
+     ============================================ */
+  .page-footer { margin-top: 48px; animation: fadeUp 0.6s cubic-bezier(0.16,1,0.3,1) 0.5s both; }
+  .footer-sep { display: flex; align-items: center; gap: 16px; margin-bottom: 18px; }
+  .footer-sep .line { flex: 1; height: 1px; background: var(--border); }
+  .footer-sep .diamond { width: 5px; height: 5px; background: var(--gold); transform: rotate(45deg); opacity: 0.3; }
+  .footer-text {
+    text-align: center; font-size: 10px; color: var(--text-dim);
+    letter-spacing: 2.5px; text-transform: uppercase; font-weight: 500; line-height: 2;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ============================================
+     MOBILE NEWS (hidden on desktop)
+     ============================================ */
+  .news-mobile { display: none; }
+
+  /* ============================================
+     MOBILE TICKER (hidden on desktop)
+     ============================================ */
+  .ticker-mobile { display: none; }
+
+  /* ============================================
+     RESPONSIVE
+     ============================================ */
+  @media (max-width: 1060px) {
+    .panel-right { width: 250px; padding-left: 20px; }
+    .tool-card-photo { width: 120px; min-height: 120px; }
+    .tool-card h2 { font-size: 20px; }
+    .tool-card .blurb { font-size: 12px; }
+    .news-title { font-size: 13px; }
+  }
+
+  @media (max-width: 900px) {
+    /* Drop news panel, show mobile version below */
+    .panel-right { display: none; }
+    .panel-left { padding-right: 0; }
+    .news-mobile { display: block; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--border); }
+  }
+
+  @media (max-width: 640px) {
+    .page { padding: 24px 14px 80px; }
+    .masthead-title { font-size: 44px; }
+    .masthead-tagline { font-size: 15px; }
+
+    /* Hide pulse column, show mobile ticker */
+    .tp-header-pulse, .tp-pulse { display: none; }
+    .tools-pulse-grid { grid-template-columns: 1fr; }
+    .tp-tool { padding-right: 0; }
+
+    .ticker-mobile {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 20px;
+    }
+    .ticker-mobile-cell {
+      padding: 12px 10px; text-align: center;
+      border-right: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+    }
+    .ticker-mobile-cell:nth-child(even) { border-right: none; }
+    .ticker-mobile-cell:nth-last-child(-n+2) { border-bottom: none; }
+    .ticker-mobile-cell .t-value { font-size: 22px; }
+    .ticker-mobile-cell .t-label { font-size: 7px; letter-spacing: 1.5px; }
+
+    .tool-card-photo { width: 90px !important; min-height: 90px !important; }
+    .tool-card h2 { font-size: 18px !important; }
+    .tool-card .blurb { font-size: 11.5px !important; }
+    .tool-card-body { padding: 12px 14px; }
+    .tool-card .cta { opacity: 1; transform: none; }
+  }
+
+  @media (max-width: 420px) {
+    .masthead-title { font-size: 36px; }
+    .tool-card { flex-direction: column; }
+    .tool-card-photo { width: 100% !important; min-height: 120px !important; height: 120px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="atmosphere">
+  <div class="atmo-orb atmo-1"></div>
+  <div class="atmo-orb atmo-2"></div>
+</div>
+<div class="grain"></div>
+
+<div class="page">
+
+  <!-- MASTHEAD -->
+  <div class="masthead">
+    <div class="bd-credit">A BusinessDen Production</div>
+    <div class="masthead-title">The Daily Dreck</div>
+    <div class="masthead-tagline">The scoop dies without the dreck.</div>
+  </div>
+  <div class="diamond-sep">
+    <div class="line"></div><div class="diamond"></div><div class="line"></div>
+  </div>
+
+  <div style="text-align:center;margin-bottom:8px;animation:fadeUp 0.7s cubic-bezier(0.16,1,0.3,1) 0.12s both;">
+    <h2 id="lead-hed" style="font-family:'Cormorant Garamond',serif;font-size:28px;font-weight:700;color:var(--cream);line-height:1.25;font-style:italic;"></h2>
+  </div>
+
+  <div class="date-bar" id="date-display"></div>
+
+  <!-- MOBILE TICKER (hidden on desktop) -->
+  <div class="ticker-mobile">
+    <div class="ticker-mobile-cell">
+      <div class="t-label">Openings 7d</div>
+      <div class="t-value up">+13</div>
+    </div>
+    <div class="ticker-mobile-cell">
+      <div class="t-label">Closures 7d</div>
+      <div class="t-value down">−5</div>
+    </div>
+    <div class="ticker-mobile-cell">
+      <div class="t-label">Foreclosures</div>
+      <div class="t-value">23</div>
+    </div>
+    <div class="ticker-mobile-cell">
+      <div class="t-label">Tools Live</div>
+      <div class="t-value">2</div>
+    </div>
+  </div>
+
+  <!-- TOP-LEVEL LAYOUT -->
+  <div class="top-layout">
+
+    <!-- ======== LEFT PANEL: TOOLS + PULSE ======== -->
+    <div class="panel-left">
+      <div class="tools-pulse-grid">
+
+        <!-- Headers -->
+        <div class="col-header tp-header-tools">Tools</div>
+        <div class="col-header tp-header-pulse">Pulse</div>
+
+        <!-- Row 1: Restaurant Tracker -->
+        <div class="tp-tool">
+          <a class="tool-card" href="#">
+            <div class="tool-card-photo">
+              <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=400&fit=crop&crop=center" alt="Denver restaurant">
+            </div>
+            <div class="tool-card-body">
+              <div class="badge-row"><span class="badge badge-live"><span class="dot"></span>Live</span></div>
+              <h2>Restaurant Tracker</h2>
+              <p class="blurb" id="blurb-restaurant"><strong>13 openings, 5 closures</strong> in the past seven days. Four closures hit overnight, two on South Broadway. Net positive week, but the corridor losses bear watching.</p>
+              <div class="meta" id="meta-restaurant">Updated today · 5:00 AM</div>
+              <div class="cta">Open →</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse" id="pulse-restaurant">
+          <div class="ticker-pair">
+            <div class="t-mini"><div class="t-value up">+13</div><div class="t-sub">opened</div></div>
+            <div class="t-mini"><div class="t-value down">−5</div><div class="t-sub">closed</div></div>
+          </div>
+          <div class="t-label" style="margin-top:6px;">7-day</div>
+        </div>
+
+        <!-- Row 2: Foreclosure Tracker -->
+        <div class="tp-tool">
+          <a class="tool-card" href="#">
+            <div class="tool-card-photo">
+              <img src="https://images.unsplash.com/photo-1494526585095-c41746248156?w=400&h=400&fit=crop&crop=center" alt="Denver property">
+            </div>
+            <div class="tool-card-body">
+              <div class="badge-row"><span class="badge badge-live"><span class="dot"></span>Live</span></div>
+              <h2>Foreclosure Tracker</h2>
+              <p class="blurb" id="blurb-foreclosure"><strong>23 new filings</strong> this week, up from 17 last week. Three properties exceed $2M — all in Cherry Creek and Wash Park. The high-end segment is showing fresh stress.</p>
+              <div class="meta" id="meta-foreclosure">Updated today · 5:00 AM</div>
+              <div class="cta">Open →</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse" id="pulse-foreclosure">
+          <div class="t-value">23</div>
+          <div class="t-sub">new filings</div>
+          <div class="t-label" style="margin-top:4px;">this week</div>
+        </div>
+
+        <!-- Row 3: Retail Tracker -->
+        <div class="tp-tool">
+          <a class="tool-card coming-soon" href="#">
+            <div class="tool-card-photo">
+              <img src="https://images.unsplash.com/photo-1567449303078-57ad995bd329?w=400&h=400&fit=crop&crop=center" alt="Retail storefronts">
+            </div>
+            <div class="tool-card-body">
+              <div class="badge-row"><span class="badge badge-dev"><span class="dot"></span>In Dev</span></div>
+              <h2>Retail Tracker</h2>
+              <p class="blurb">Lease filings, vacancy rates, and tenant movements across Denver metro retail corridors. Data pipeline under construction.</p>
+              <div class="meta">Expected Q2 2026</div>
+              <div class="cta">Coming Soon</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse">
+          <div class="t-pending">—</div>
+          <div class="t-sub">pending</div>
+        </div>
+
+        <!-- Row 4: Revenue Tracker -->
+        <div class="tp-tool">
+          <a class="tool-card coming-soon" href="#">
+            <div class="tool-card-photo">
+              <img src="https://images.unsplash.com/photo-1486325212027-8081e485255e?w=400&h=400&fit=crop&crop=center" alt="Denver skyline">
+            </div>
+            <div class="tool-card-body">
+              <div class="badge-row"><span class="badge badge-planned"><span class="dot"></span>Planned</span></div>
+              <h2>Revenue Tracker</h2>
+              <p class="blurb">Subscription revenue, advertiser spend, and growth metrics consolidated into a single internal dashboard.</p>
+              <div class="meta">Expected Q3 2026</div>
+              <div class="cta">Coming Soon</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse">
+          <div class="t-pending">—</div>
+          <div class="t-sub">pending</div>
+        </div>
+
+        <!-- Row 5: Reputation Tracker -->
+        <div class="tp-tool last">
+          <a class="tool-card coming-soon" href="#">
+            <div class="tool-card-photo">
+              <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400&h=400&fit=crop&crop=center" alt="Reputation management">
+            </div>
+            <div class="tool-card-body">
+              <div class="badge-row"><span class="badge badge-planned"><span class="dot"></span>Planned</span></div>
+              <h2>Reputation Tracker</h2>
+              <p class="blurb">Every citation, backlink, and mention of BusinessDen reporting across the web — tracked and surfaced daily.</p>
+              <div class="meta">Expected Q4 2026</div>
+              <div class="cta">Coming Soon</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse last">
+          <div class="t-pending">—</div>
+          <div class="t-sub">pending</div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ======== RIGHT PANEL: NEWS (fully independent) ======== -->
+    <div class="panel-right">
+      <div class="col-header" style="margin-bottom: 10px;">Denver Business Wire</div>
+      <div class="news-list" id="news-desktop">
+        <div style="font-size:11px;color:var(--text-dim);font-style:italic;padding:20px 0;">Loading headlines...</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- MOBILE NEWS (shown below 900px) -->
+  <div class="news-mobile">
+    <div class="col-header" style="margin-bottom:10px;">Denver Business Wire</div>
+    <div class="news-list" id="news-mobile-list">
+      <div style="font-size:11px;color:var(--text-dim);font-style:italic;padding:20px 0;">Loading headlines...</div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="page-footer">
+    <div class="footer-sep">
+      <div class="line"></div><div class="diamond"></div><div class="line"></div>
+    </div>
+    <div class="footer-text">
+      The Daily Dreck · Internal Use Only<br>
+      BusinessDen © 2026
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  // Date
+  document.getElementById('date-display').textContent =
+    new Date().toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+
+  // === LOAD EDITORIAL BLURBS ===
+  fetch('daily-dreck-blurbs.json?v=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      // Lead headline
+      document.getElementById('lead-hed').textContent = data.lead_headline || '';
+
+      // Tool blurbs — inject HTML to allow <strong> tags from Claude
+      const tools = data.tools || {};
+      for (const [key, val] of Object.entries(tools)) {
+        const blurbEl = document.getElementById('blurb-' + key);
+        if (blurbEl && val.blurb) blurbEl.innerHTML = val.blurb;
+
+        const metaEl = document.getElementById('meta-' + key);
+        if (metaEl && val.meta) {
+          metaEl.textContent = val.meta;
+        } else if (metaEl && data.generated_date) {
+          metaEl.textContent = 'Updated ' + data.generated_date + ' · 5:15 AM MST';
+        }
+      }
+
+      // Pulse tickers — handle generic label/value/class format from Claude
+      function renderPulse(el, ticker) {
+        if (!el || !ticker || !ticker.value1) return;
+        var html = '';
+        if (ticker.value2) {
+          // Two-value ticker (e.g. restaurant: opened / closed)
+          html = '<div class="ticker-pair">' +
+            '<div class="t-mini"><div class="t-value ' + (ticker.class1||'') + '">' + ticker.value1 + '</div><div class="t-sub">' + (ticker.label1||'') + '</div></div>' +
+            '<div class="t-mini"><div class="t-value ' + (ticker.class2||'') + '">' + ticker.value2 + '</div><div class="t-sub">' + (ticker.label2||'') + '</div></div>' +
+          '</div>';
+          if (ticker.period) html += '<div class="t-label" style="margin-top:6px;">' + ticker.period + '</div>';
+        } else {
+          // Single-value ticker (e.g. foreclosure: filings count)
+          html = '<div class="t-value ' + (ticker.class1||'') + '">' + ticker.value1 + '</div>' +
+            '<div class="t-sub">' + (ticker.label1||'') + '</div>';
+          if (ticker.period) html += '<div class="t-label" style="margin-top:4px;">' + ticker.period + '</div>';
+        }
+        el.innerHTML = html;
+      }
+
+      var rt = tools.restaurant?.ticker;
+      var fc = tools.foreclosure?.ticker;
+      renderPulse(document.getElementById('pulse-restaurant'), rt);
+      renderPulse(document.getElementById('pulse-foreclosure'), fc);
+
+      // Mobile ticker
+      var mt = document.getElementById('ticker-mobile');
+      if (mt && (rt || fc)) {
+        mt.innerHTML =
+          '<div class="ticker-mobile-cell"><div class="t-label">Openings 7d</div><div class="t-value ' + (rt?.class1||'up') + '">' + (rt?.value1||'—') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Closures 7d</div><div class="t-value ' + (rt?.class2||'down') + '">' + (rt?.value2||'—') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Foreclosures</div><div class="t-value">' + (fc?.value1||'—') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Tools Live</div><div class="t-value">2</div></div>';
+      }
+    })
+    .catch(err => {
+      console.warn('Could not load blurbs:', err);
+      document.getElementById('lead-hed').textContent = 'The Daily Dreck';
+    });
+
+  // === LOAD NEWS ===
+  function renderNews(articles, container) {
+    if (!articles || !articles.length) {
+      container.innerHTML = '<div style="font-size:11px;color:var(--text-dim);font-style:italic;padding:20px 0;">No headlines available</div>';
+      return;
+    }
+    container.innerHTML = articles.map(function(a) {
+      return '<a class="news-item" href="' + (a.link||'#') + '" target="_blank" rel="noopener">' +
+        '<div class="news-source">' +
+          (a.breaking ? '<span class="breaking">Breaking</span>' : '') +
+          (a.source||'') +
+        '</div>' +
+        '<div class="news-title">' + (a.title||'') + '</div>' +
+        '<div class="news-time">' + (a.time_ago||'') + '</div>' +
+      '</a>';
+    }).join('');
+  }
+
+  fetch('daily-dreck-news.json?v=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      renderNews(data.articles, document.getElementById('news-desktop'));
+      renderNews(data.articles, document.getElementById('news-mobile-list'));
+    })
+    .catch(err => {
+      console.warn('Could not load news:', err);
+      var msg = '<div style="font-size:11px;color:var(--text-dim);font-style:italic;padding:20px 0;">News feed unavailable</div>';
+      document.getElementById('news-desktop').innerHTML = msg;
+      document.getElementById('news-mobile-list').innerHTML = msg;
+    });
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "generated_date": "2026-03-04",
+  "lead_headline": "South Broadway Takes Another Hit as Filings Climb",
+  "tools": {
+    "restaurant": {
+      "blurb": "<strong>13 openings, 5 closures</strong> in the past seven days — net positive, but two South Broadway losses overnight signal continued pressure on the corridor. Last week logged 9 and 3, so the pace is accelerating in both directions. Thirty-day trend holds net positive at +22.",
+      "meta": "Updated today · 5:15 AM",
+      "ticker": {
+        "label1": "opened", "value1": "+13", "class1": "up",
+        "label2": "closed", "value2": "−5", "class2": "down",
+        "period": "7-day"
+      }
+    },
+    "foreclosure": {
+      "blurb": "<strong>23 new filings</strong> this week, up sharply from 17 last week — a 35% jump. Three properties exceed $2M, all Cherry Creek and Wash Park. The high-end segment is showing fresh stress not seen since Q3 2025. Monthly total now at 71.",
+      "meta": "Updated today · 5:15 AM",
+      "ticker": {
+        "label1": "new filings", "value1": "23", "class1": "",
+        "label2": "", "value2": "", "class2": "",
+        "period": "this week"
+      }
+    },
+    "retail": {
+      "blurb": "Data pipeline under construction. First metrics expected Q2 2026.",
+      "meta": "Expected Q2 2026",
+      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+    },
+    "revenue": {
+      "blurb": "Dashboard consolidation in progress. Launch expected Q3 2026.",
+      "meta": "Expected Q3 2026",
+      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+    },
+    "reputation": {
+      "blurb": "Web citation tracking on the roadmap. Expected Q4 2026.",
+      "meta": "Expected Q4 2026",
+      "ticker": {"label1": "", "value1": "", "class1": "", "label2": "", "value2": "", "class2": "", "period": ""}
+    }
+  }
+}
