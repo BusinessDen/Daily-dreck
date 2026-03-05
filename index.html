@@ -548,24 +548,24 @@
 
         <!-- Row 5: Reputation -->
         <div class="tp-tool last">
-          <a class="tool-card coming-soon" href="#">
+          <a class="tool-card" href="https://businessden.github.io/reputation/" target="_blank">
             <div class="tool-card-photo">
               <img src="https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&h=400&fit=crop&crop=center" alt="Newspapers and media">
             </div>
             <div class="tool-card-body">
               <div class="badge-row">
-                <span class="badge badge-planned"><span class="dot"></span>Planned</span>
-                <span class="badge-updated">Expected Q4 2026</span>
+                <span class="badge badge-live"><span class="dot"></span>Live</span>
+                <span class="badge-updated" id="updated-reputation"></span>
               </div>
               <h2>Reputation</h2>
-              <p class="blurb" id="blurb-reputation">Tracks every reference, citation, and hyperlink to BusinessDen appearing in other media — surfaced and tallied daily.</p>
-              <div class="cta">Coming Soon</div>
+              <p class="blurb" id="blurb-reputation"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-reputation"></div>
+              <div class="cta">Open →</div>
             </div>
           </a>
         </div>
-        <div class="tp-pulse last">
-          <div class="t-pending">—</div>
-          <div class="t-sub">pending</div>
+        <div class="tp-pulse last" id="pulse-reputation">
+          <div class="t-unavailable">—</div>
         </div>
 
       </div>
@@ -643,7 +643,7 @@
       // Tool blurbs + updated badges
       // Only overwrite blurbs for live tools — coming-soon descriptions are static in HTML
       var tools = data.tools || {};
-      var liveTools = ['restaurant', 'foreclosure'];
+      var liveTools = ['restaurant', 'foreclosure', 'reputation'];
       var allTools = ['restaurant', 'foreclosure', 'retail', 'revenue', 'reputation'];
 
       for (var i = 0; i < allTools.length; i++) {
@@ -718,6 +718,12 @@
       var fc_w = tools.foreclosure ? tools.foreclosure.ticker_weekly : null;
       if (!fc_d && !fc_w && tools.foreclosure && tools.foreclosure.ticker) { fc_w = tools.foreclosure.ticker; }
       renderPulse(document.getElementById('pulse-foreclosure'), fc_d, fc_w);
+
+      // Reputation pulse
+      var rp_d = tools.reputation ? tools.reputation.ticker_daily : null;
+      var rp_w = tools.reputation ? tools.reputation.ticker_weekly : null;
+      if (!rp_d && !rp_w && tools.reputation && tools.reputation.ticker) { rp_w = tools.reputation.ticker; }
+      renderPulse(document.getElementById('pulse-reputation'), rp_d, rp_w);
 
       // Mobile ticker
       var mt = document.getElementById('ticker-mobile');

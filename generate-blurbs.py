@@ -19,7 +19,7 @@ import urllib.error
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MODEL = "claude-sonnet-4-5-20250929"
-MAX_TOKENS = 1500
+MAX_TOKENS = 2000
 
 # ============================================
 # DATA LOADERS
@@ -216,6 +216,67 @@ def load_foreclosure_data():
     }
 
 
+def load_reputation_data():
+    """Fetch mentions-data.json from the Reputation dashboard and compute key metrics."""
+    data = fetch_json_url("https://businessden.github.io/reputation/mentions-data.json")
+    if not data:
+        return None
+
+    mentions = data.get("mentions", [])
+    if not mentions:
+        return None
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    seven_days_ago = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+    fourteen_days_ago = (datetime.now() - timedelta(days=14)).strftime("%Y-%m-%d")
+    thirty_days_ago = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+
+    def mention_date(m):
+        d = m.get("published") or m.get("first_seen") or ""
+        return d[:10]
+
+    today_mentions = [m for m in mentions if mention_date(m) == today]
+    yesterday_mentions = [m for m in mentions if mention_date(m) == yesterday]
+    week_mentions = [m for m in mentions if seven_days_ago <= mention_date(m) <= today]
+    prev_week_mentions = [m for m in mentions if fourteen_days_ago <= mention_date(m) < seven_days_ago]
+    month_mentions = [m for m in mentions if thirty_days_ago <= mention_date(m) <= today]
+
+    daily_count = len(today_mentions) if today_mentions else len(yesterday_mentions)
+    daily_label = "today" if today_mentions else "yesterday"
+
+    week_sources = set(m.get("source_domain", m.get("source", "")) for m in week_mentions)
+    all_sources = set(m.get("source_domain", m.get("source", "")) for m in mentions)
+
+    source_counts = {}
+    for m in week_mentions:
+        s = m.get("source", "Unknown")
+        source_counts[s] = source_counts.get(s, 0) + 1
+    top_sources = sorted(source_counts.items(), key=lambda x: x[1], reverse=True)[:5]
+
+    via_counts = {}
+    for m in week_mentions:
+        v = m.get("found_via", "unknown")
+        via_counts[v] = via_counts.get(v, 0) + 1
+
+    recent = sorted(week_mentions, key=lambda m: m.get("published", m.get("first_seen", "")), reverse=True)[:8]
+    formatted_recent = [{"title": m.get("title", "")[:80], "source": m.get("source", ""), "published": mention_date(m)} for m in recent]
+
+    return {
+        "mentions_today": daily_count,
+        "mentions_today_label": daily_label,
+        "mentions_7d": len(week_mentions),
+        "mentions_prev_7d": len(prev_week_mentions),
+        "mentions_30d": len(month_mentions),
+        "total_mentions": len(mentions),
+        "unique_sources_7d": len(week_sources),
+        "unique_sources_total": len(all_sources),
+        "top_sources_7d": top_sources,
+        "via_breakdown_7d": via_counts,
+        "recent_mentions": formatted_recent,
+    }
+
+
 # ============================================
 # LOAD PREVIOUS BLURBS (to avoid repetition)
 # ============================================
@@ -290,6 +351,7 @@ def main():
     # Load data
     restaurant_data = load_restaurant_data()
     foreclosure_data = load_foreclosure_data()
+    reputation_data = load_reputation_data()
     previous_blurbs = load_previous_blurbs()
 
     # Build the system prompt
@@ -342,7 +404,17 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
       "meta": "Expected Q3 2026"
     },
     "reputation": {
-      "meta": "Expected Q4 2026"
+      "blurb": "~50 word editorial blurb about BusinessDen mentions/citations in other media this week.",
+      "meta": "Updated today · 5:15 AM",
+      "ticker_daily": {
+        "label1": "mentions", "value1": "N", "class1": "",
+        "period": "today"
+      },
+      "ticker_weekly": {
+        "label1": "mentions", "value1": "N", "class1": "",
+        "label2": "sources", "value2": "N", "class2": "",
+        "period": "7-day"
+      }
     }
   }
 }
@@ -354,7 +426,8 @@ IMPORTANT:
 - Start each live tool blurb with the headline numbers in bold (wrap key figures in <strong> tags)
 - Then contextualize: compare to last week, note trends, flag neighborhoods or patterns
 - Never repeat yesterday's phrasing — find a fresh angle
-- Keep retail/revenue/reputation entries as-is — do NOT generate blurbs for them, they are static in the HTML"""
+- Keep retail/revenue entries as-is — do NOT generate blurbs for them, they are static in the HTML
+- For reputation: note top citing sources, week-over-week trend, and any notable pickups"""
 
     # Build the user prompt with data
     prompt_parts = [f"Today is {today_str}.\n"]
@@ -387,10 +460,25 @@ IMPORTANT:
     else:
         prompt_parts.append("FORECLOSURE DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
 
+    if reputation_data:
+        prompt_parts.append(f"""REPUTATION DATA (BusinessDen mentions in other media):
+- Mentions {reputation_data['mentions_today_label']}: {reputation_data['mentions_today']}
+- Past 7 days: {reputation_data['mentions_7d']} mentions across {reputation_data['unique_sources_7d']} unique sources
+- Previous 7 days (for comparison): {reputation_data['mentions_prev_7d']} mentions
+- Past 30 days: {reputation_data['mentions_30d']} mentions
+- All-time total: {reputation_data['total_mentions']} mentions from {reputation_data['unique_sources_total']} sources
+- Top citing sources this week: {json.dumps(reputation_data['top_sources_7d'])}
+- Discovery channels: {json.dumps(reputation_data['via_breakdown_7d'])}
+- Recent notable mentions: {json.dumps(reputation_data['recent_mentions'][:6], indent=2)}
+""")
+    else:
+        prompt_parts.append("REPUTATION DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
+
     if previous_blurbs and previous_blurbs.get("generated_date") != today_iso:
         prompt_parts.append(f"""YESTERDAY'S BLURBS (do NOT repeat these — find fresh phrasing):
 - Restaurant: {previous_blurbs.get('tools', {}).get('restaurant', {}).get('blurb', 'N/A')}
 - Foreclosure: {previous_blurbs.get('tools', {}).get('foreclosure', {}).get('blurb', 'N/A')}
+- Reputation: {previous_blurbs.get('tools', {}).get('reputation', {}).get('blurb', 'N/A')}
 - Lead headline: {previous_blurbs.get('lead_headline', 'N/A')}
 """)
 
@@ -401,6 +489,7 @@ IMPORTANT:
     print(f"Generating blurbs for {today_str}...")
     print(f"Restaurant data: {'available' if restaurant_data else 'unavailable'}")
     print(f"Foreclosure data: {'available' if foreclosure_data else 'unavailable'}")
+    print(f"Reputation data: {'available' if reputation_data else 'unavailable'}")
 
     response_text = call_claude(prompt, system_prompt)
 
