@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-03-04",
-  "fetched_at": "2026-03-04 23:54:00",
+  "fetched_date": "2026-03-05",
+  "fetched_at": "2026-03-05 02:21:28",
   "article_count": 20,
-  "breaking_count": 20,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "US issues first commercial construction permit for a nuclear reactor in years to a Wyoming project",
+      "link": "https://www.dailycamera.com/2026/03/04/wyoming-nuclear-project/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-05T00:38:51+00:00",
+      "age_hours": 1.7056112047222223,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver weather: Pinpoint Weather Alert Day issued for Friday",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-pinpoint-weather-alert-day-issued-for-friday/",
+      "source": "Fox31",
+      "pub_date": "2026-03-05T00:26:16+00:00",
+      "age_hours": 1.915819636111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Fire forces temporary closure of Los Dos Potrillos restaurant",
       "link": "https://www.9news.com/article/news/local/los-dos-potrillos-fire-restaurant/73-6bd83fa4-7ba2-4769-906b-a6bb1c5f1051",
       "source": "9News",
       "pub_date": "2026-03-04T23:32:38+00:00",
-      "age_hours": 0.35185822499999997,
+      "age_hours": 2.809466658888889,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Ramos Law buys southeast Denver office for $3M",
       "link": "https://www.denverpost.com/2026/03/04/ramos-law-buys-southeast-denver-office/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T23:31:04+00:00",
-      "age_hours": 0.3773573502777778,
+      "age_hours": 2.8341824533333333,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Nuggets sign former CSU Ram to two-way contract",
       "link": "https://kdvr.com/sports/denver-nuggets/nuggets-sign-former-csu-ram-to-two-way-contract/",
       "source": "Fox31",
       "pub_date": "2026-03-04T22:35:54+00:00",
-      "age_hours": 1.2976760194444446,
+      "age_hours": 3.7552641130555555,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Modular builder Fading West demands millions from developer of Granby project",
       "link": "https://www.denverpost.com/2026/03/04/fading-west-modular-homes-summit-housing-group/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T22:31:58+00:00",
-      "age_hours": 1.3623573591666667,
+      "age_hours": 3.8191824616666663,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Meta CEO Mark Zuckerberg says at consumer protection trial that he resisted censoring platforms",
       "link": "https://www.dailycamera.com/2026/03/04/meta-new-mexico-lawsuit-censoring/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T21:52:25+00:00",
-      "age_hours": 2.0219413038888887,
+      "age_hours": 4.479500099722222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Greeley weighs Cascadia options after 1A\u2019s passage",
       "link": "https://bizwest.com/2026/03/04/greeley-weighs-cascadia-options-after-1as-passage/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:47:39+00:00",
-      "age_hours": 2.1009995030555557,
+      "age_hours": 4.557912066666667,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Upgrade Labs to open Boulder wellness center",
       "link": "https://bizwest.com/2026/03/04/upgrade-labs-to-open-boulder-wellness-center/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:41:46+00:00",
-      "age_hours": 2.1990550672222224,
+      "age_hours": 4.655967628611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Texas Roadhouse buys site in 2534 development",
       "link": "https://bizwest.com/2026/03/04/texas-roadhouse-buys-site-in-2534-development/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:39:29+00:00",
-      "age_hours": 2.237110626666667,
+      "age_hours": 4.694023187777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Denver opens Summit League Tournament vs. North Dakota Friday",
-      "link": "https://kdvr.com/sports/denver-opens-summit-league-tournament-vs-north-dakota-friday/",
-      "source": "Fox31",
-      "pub_date": "2026-03-04T21:34:04+00:00",
-      "age_hours": 2.328231610277778,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Enliven Therapeutics has cash runway into 2029",
       "link": "https://bizwest.com/2026/03/04/enliven-therapeutics-has-cash-runway-into-2029/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:32:35+00:00",
-      "age_hours": 2.352110629722222,
+      "age_hours": 4.809023190555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Cybersecurity firm Circadence secures $16.4M investment",
       "link": "https://bizwest.com/2026/03/04/cybersecurity-firm-circadence-secures-16-4m-investment/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:28:26+00:00",
-      "age_hours": 2.4212772991666665,
+      "age_hours": 4.878189859722222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Google settles with Epic Games with offer to lower its app store commissions",
       "link": "https://www.dailycamera.com/2026/03/04/google-play-store-truce/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T21:22:27+00:00",
-      "age_hours": 2.5213857550000003,
+      "age_hours": 4.978944547499999,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Women in Construction: Gains and Ongoing Challenges",
       "link": "https://milehighcre.com/women-in-construction-gains-and-ongoing-challenges/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-04T21:15:26+00:00",
-      "age_hours": 2.638312166388889,
+      "age_hours": 5.0953013616666665,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "White House formally nominates Warsh to be Federal Reserve chair",
       "link": "https://www.denverpost.com/2026/03/04/fed-chair-nomination/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T20:37:29+00:00",
-      "age_hours": 3.2704129191666667,
+      "age_hours": 5.727238021111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "National Developer Announces Plans for 172-Unit Community in Littleton",
       "link": "https://milehighcre.com/national-developer-announces-plans-for-172-unit-community-in-littleton/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-04T19:53:42+00:00",
-      "age_hours": 4.000534397222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.45752359,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Grand Opening: Ascent at Hover Crossing, Longmont",
       "link": "https://milehighcre.com/grand-opening-ascent-at-hover-crossing-longmont/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-04T19:11:14+00:00",
-      "age_hours": 4.708312178888889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.165301371388889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Lawsuit alleges Google\u2019s Gemini guided man to consider \u2018mass casualty\u2019 event before suicide",
       "link": "https://www.dailycamera.com/2026/03/04/google-ai-death-lawsuit/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T18:59:26+00:00",
-      "age_hours": 4.904996872222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.362555664166666,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Here's how much snow Denver could see this week",
       "link": "https://www.9news.com/article/weather/weather-impact/snow-denver-forecast/73-6d6a15ce-42ae-4520-aa53-ee3a6b02fbcb",
       "source": "9News",
       "pub_date": "2026-03-04T18:57:08+00:00",
-      "age_hours": 4.9435249444444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.401133370833334,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Elon Musk takes stand in Twitter shareholder trial accusing him of deflating stock before purchase",
       "link": "https://www.dailycamera.com/2026/03/04/musk-twitter-shareholders/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T18:08:46+00:00",
-      "age_hours": 5.749441319444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Apple\u2019s \u2018big week\u2019 launches a pair of $599 devices aimed at budget buyers",
-      "link": "https://www.dailycamera.com/2026/03/04/apple-product-launches/",
-      "source": "Daily Camera",
-      "pub_date": "2026-03-04T17:58:37+00:00",
-      "age_hours": 5.918607988611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.207000111111112,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     }
   ]
 }
