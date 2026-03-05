@@ -55,36 +55,59 @@ def load_restaurant_data():
     changes = data.get("changes", [])
 
     # Count from changes array
+    # "opened"/"closed"/"reopened" = verified; "_unclear" suffix = unverified leads
     def count_changes(start, end):
-        opens = 0
-        closes = 0
+        opens_verified = 0
+        closes_verified = 0
+        opens_unverified = 0
+        closes_unverified = 0
         temp_closed = 0
-        events = []
+        reopened = 0
+        verified_events = []
+        all_events = []
         for c in changes:
             d = c.get("date", "")
             ctype = c.get("type", "")
             if d < start or d > end:
                 continue
-            if ctype in ("opened", "opened_unclear"):
-                opens += 1
-            elif ctype in ("closed", "closed_unclear"):
-                closes += 1
+            if ctype == "opened":
+                opens_verified += 1
+                verified_events.append(c)
+            elif ctype == "opened_unclear":
+                opens_unverified += 1
+            elif ctype == "closed":
+                closes_verified += 1
+                verified_events.append(c)
+            elif ctype == "closed_unclear":
+                closes_unverified += 1
             elif ctype == "temporarily_closed":
                 temp_closed += 1
-            events.append(c)
-        return opens, closes, temp_closed, events
+            elif ctype == "reopened":
+                reopened += 1
+                verified_events.append(c)
+            all_events.append(c)
+        return {
+            "opens_verified": opens_verified,
+            "closes_verified": closes_verified,
+            "opens_unverified": opens_unverified,
+            "closes_unverified": closes_unverified,
+            "temp_closed": temp_closed,
+            "reopened": reopened,
+            "verified_events": verified_events,
+            "all_events": all_events,
+        }
 
-    opens_today, closes_today, temp_today, events_today = count_changes(today, today)
+    today_data = count_changes(today, today)
     # If today has no data yet (scraper hasn't run), use yesterday
-    if opens_today == 0 and closes_today == 0:
-        opens_today, closes_today, temp_today, events_today = count_changes(yesterday, yesterday)
+    if today_data["opens_verified"] == 0 and today_data["closes_verified"] == 0 and today_data["opens_unverified"] == 0 and today_data["closes_unverified"] == 0:
+        today_data = count_changes(yesterday, yesterday)
 
-    opens_7d, closes_7d, temp_7d, events_7d = count_changes(seven_days_ago, today)
-    opens_prev_7d, closes_prev_7d, _, _ = count_changes(fourteen_days_ago, seven_days_ago)
-    opens_30d, closes_30d, temp_30d, events_30d = count_changes(thirty_days_ago, today)
+    week_data = count_changes(seven_days_ago, today)
+    prev_week_data = count_changes(fourteen_days_ago, seven_days_ago)
+    month_data = count_changes(thirty_days_ago, today)
 
-    # Extract recent events with editorial detail
-    latest_events = sorted(events_7d, key=lambda x: x.get("date", ""), reverse=True)[:10]
+    # Extract recent VERIFIED events with editorial detail
+    latest_events = sorted(week_data["verified_events"], key=lambda x: x.get("date", ""), reverse=True)[:10]
     formatted_events = []
     for e in latest_events:
         formatted_events.append({
@@ -99,15 +122,19 @@ def load_restaurant_data():
     last_scrape = data.get("metadata", {}).get("last_scrape", "unknown")
 
     return {
-        "openings_today": opens_today,
-        "closures_today": closes_today,
-        "temp_closed_today": temp_today,
-        "openings_7d": opens_7d,
-        "closures_7d": closes_7d,
-        "openings_prev_7d": opens_prev_7d,
-        "closures_prev_7d": closes_prev_7d,
-        "openings_30d": opens_30d,
-        "closures_30d": closes_30d,
+        "openings_verified_today": today_data["opens_verified"],
+        "closures_verified_today": today_data["closes_verified"],
+        "openings_unverified_today": today_data["opens_unverified"],
+        "closures_unverified_today": today_data["closes_unverified"],
+        "openings_verified_7d": week_data["opens_verified"],
+        "closures_verified_7d": week_data["closes_verified"],
+        "openings_unverified_7d": week_data["opens_unverified"],
+        "closures_unverified_7d": week_data["closes_unverified"],
+        "reopened_7d": week_data["reopened"],
+        "openings_verified_prev_7d": prev_week_data["opens_verified"],
+        "closures_verified_prev_7d": prev_week_data["closes_verified"],
+        "openings_verified_30d": month_data["opens_verified"],
+        "closures_verified_30d": month_data["closes_verified"],
         "total_tracked": len(restaurants),
         "latest_events": formatted_events,
         "last_scrape": last_scrape,
@@ -433,14 +460,19 @@ IMPORTANT:
     prompt_parts = [f"Today is {today_str}.\n"]
 
     if restaurant_data:
-        prompt_parts.append(f"""RESTAURANT DATA:
-- Today: {restaurant_data['openings_today']} openings, {restaurant_data['closures_today']} closures
-- Past 7 days: {restaurant_data['openings_7d']} openings, {restaurant_data['closures_7d']} closures
-- Previous 7 days (for comparison): {restaurant_data['openings_prev_7d']} openings, {restaurant_data['closures_prev_7d']} closures
-- Past 30 days: {restaurant_data['openings_30d']} openings, {restaurant_data['closures_30d']} closures
+        prompt_parts.append(f"""RESTAURANT DATA (verified changes only — these are confirmed openings/closures):
+- Today (verified): {restaurant_data['openings_verified_today']} openings, {restaurant_data['closures_verified_today']} closures
+- Today (unverified leads, do NOT include in blurb): {restaurant_data['openings_unverified_today']} openings, {restaurant_data['closures_unverified_today']} closures
+- Past 7 days (verified): {restaurant_data['openings_verified_7d']} openings, {restaurant_data['closures_verified_7d']} closures
+- Past 7 days (unverified leads, do NOT include in blurb): {restaurant_data['openings_unverified_7d']} openings, {restaurant_data['closures_unverified_7d']} closures
+- Reopened this week: {restaurant_data['reopened_7d']}
+- Previous 7 days (verified, for comparison): {restaurant_data['openings_verified_prev_7d']} openings, {restaurant_data['closures_verified_prev_7d']} closures
+- Past 30 days (verified): {restaurant_data['openings_verified_30d']} openings, {restaurant_data['closures_verified_30d']} closures
 - Total tracked: {restaurant_data['total_tracked']}
 - Last scrape: {restaurant_data['last_scrape']}
-- Recent events (this week): {json.dumps(restaurant_data['latest_events'][:8], indent=2)}
+- Recent verified events (this week): {json.dumps(restaurant_data['latest_events'][:8], indent=2)}
+
+IMPORTANT: Only reference VERIFIED numbers in the blurb and ticker. Do NOT include unverified leads in any counts or narrative.
 """)
     else:
         prompt_parts.append("RESTAURANT DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
