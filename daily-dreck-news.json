@@ -1,6 +1,6 @@
 {
   "fetched_date": "2026-03-05",
-  "fetched_at": "2026-03-05 11:35:41",
+  "fetched_at": "2026-03-05 11:48:47",
   "article_count": 20,
   "breaking_count": 2,
   "articles": [
@@ -9,25 +9,25 @@
       "link": "https://www.9news.com/article/weather/weather-impact/snow-denver-forecast/73-6d6a15ce-42ae-4520-aa53-ee3a6b02fbcb",
       "source": "9News",
       "pub_date": "2026-03-05T11:25:19+00:00",
-      "age_hours": 0.16765527638888889,
+      "age_hours": 0.3861341569444445,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "23 min ago"
     },
     {
       "title": "Why Colorado should stop charging swipe fees on sales taxes | OPINION",
       "link": "https://www.coloradopolitics.com/2026/03/05/why-colorado-should-stop-charging-swipe-fees-on-sales-taxes-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-03-05T07:45:00+00:00",
-      "age_hours": 3.840197843611111,
+      "age_hours": 4.058518878611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 3.4.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-3-4-26/",
       "source": "Sentinel",
       "pub_date": "2026-03-05T05:32:04+00:00",
-      "age_hours": 6.055771215,
+      "age_hours": 6.274097068333334,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -36,7 +36,7 @@
       "link": "https://kdvr.com/news/local/transportation-leaders-gather-in-denver-to-discuss-opportunity-infrastructure-and-growth/",
       "source": "Fox31",
       "pub_date": "2026-03-05T03:58:56+00:00",
-      "age_hours": 7.607702703611111,
+      "age_hours": 7.826020095833333,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -45,7 +45,7 @@
       "link": "https://kdvr.com/news/local/denver-woman-stuck-in-tel-aviv-amid-escalating-war-in-middle-east/",
       "source": "Fox31",
       "pub_date": "2026-03-05T02:55:59+00:00",
-      "age_hours": 8.656869346666667,
+      "age_hours": 8.875186738611111,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -54,16 +54,16 @@
       "link": "https://www.dailycamera.com/2026/03/04/wyoming-nuclear-project/",
       "source": "Daily Camera",
       "pub_date": "2026-03-05T00:38:51+00:00",
-      "age_hours": 10.941959065,
+      "age_hours": 11.16042448111111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver weather: Pinpoint Weather Alert Day issued for Friday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-pinpoint-weather-alert-day-issued-for-friday/",
       "source": "Fox31",
       "pub_date": "2026-03-05T00:26:16+00:00",
-      "age_hours": 11.152147135277778,
+      "age_hours": 11.370464526666666,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://www.9news.com/article/news/local/los-dos-potrillos-fire-restaurant/73-6bd83fa4-7ba2-4769-906b-a6bb1c5f1051",
       "source": "9News",
       "pub_date": "2026-03-04T23:32:38+00:00",
-      "age_hours": 12.045710930555556,
+      "age_hours": 12.264189809166668,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://www.denverpost.com/2026/03/04/ramos-law-buys-southeast-denver-office/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T23:31:04+00:00",
-      "age_hours": 12.070899949444446,
+      "age_hours": 12.289709614722224,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -90,16 +90,16 @@
       "link": "https://kdvr.com/sports/denver-nuggets/nuggets-sign-former-csu-ram-to-two-way-contract/",
       "source": "Fox31",
       "pub_date": "2026-03-04T22:35:54+00:00",
-      "age_hours": 12.991591610833334,
+      "age_hours": 13.209909004166667,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Modular builder Fading West demands millions from developer of Granby project",
       "link": "https://www.denverpost.com/2026/03/04/fading-west-modular-homes-summit-housing-group/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T22:31:58+00:00",
-      "age_hours": 13.055899960833333,
+      "age_hours": 13.274709624166666,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://www.dailycamera.com/2026/03/04/meta-new-mexico-lawsuit-censoring/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T21:52:25+00:00",
-      "age_hours": 13.71584795638889,
+      "age_hours": 13.934313372777778,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -117,34 +117,34 @@
       "link": "https://bizwest.com/2026/03/04/greeley-weighs-cascadia-options-after-1as-passage/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:47:39+00:00",
-      "age_hours": 13.794588599722223,
+      "age_hours": 14.013354906388887,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Upgrade Labs to open Boulder wellness center",
       "link": "https://bizwest.com/2026/03/04/upgrade-labs-to-open-boulder-wellness-center/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:41:46+00:00",
-      "age_hours": 13.892644169722221,
+      "age_hours": 14.11141047,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Texas Roadhouse buys site in 2534 development",
       "link": "https://bizwest.com/2026/03/04/texas-roadhouse-buys-site-in-2534-development/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:39:29+00:00",
-      "age_hours": 13.930699731666666,
+      "age_hours": 14.149466029166668,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Enliven Therapeutics has cash runway into 2029",
       "link": "https://bizwest.com/2026/03/04/enliven-therapeutics-has-cash-runway-into-2029/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:32:35+00:00",
-      "age_hours": 14.04569973638889,
+      "age_hours": 14.2644660325,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/03/04/cybersecurity-firm-circadence-secures-16-4m-investment/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:28:26+00:00",
-      "age_hours": 14.114866407777779,
+      "age_hours": 14.333632701944445,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.dailycamera.com/2026/03/04/google-play-store-truce/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T21:22:27+00:00",
-      "age_hours": 14.21529240361111,
+      "age_hours": 14.433757819722222,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://milehighcre.com/women-in-construction-gains-and-ongoing-challenges/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-04T21:15:26+00:00",
-      "age_hours": 14.332216154722222,
+      "age_hours": 14.550690018888888,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -180,9 +180,9 @@
       "link": "https://www.denverpost.com/2026/03/04/fed-chair-nomination/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T20:37:29+00:00",
-      "age_hours": 14.963955521666668,
+      "age_hours": 15.182765183888888,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     }
   ]
 }
