@@ -1,38 +1,38 @@
 {
-  "generated_date": "2026-03-04",
-  "lead_headline": "Foreclosure filings more than doubled week-over-week to 49, led by an $8.1M Arapahoe County case, while restaurant churn cooled sharply from last week's closure wave.",
+  "generated_date": "2026-03-05",
+  "lead_headline": "Restaurant sector posts second straight net-positive week with 23 openings vs. 33 closures\u2014down from 55 closures last week\u2014while foreclosure filings surge 145% to 49 cases totaling $22.2M.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>18 openings, 16 closures</strong> in the past seven days \u2014 a dramatic reversal from the prior week's brutal 28-to-47 bloodbath. Net positive for the first time in weeks. Platt Park scored Reunion Bread, a new bakery on Pearl, while Union Station lost Takiza Taco & Tequila Bar. Quiznos in Thornton flickered on our radar twice with conflicting signals.",
-      "meta": "Updated 2026-02-27 \u00b7 Last scrape",
+      "blurb": "<strong>23 openings, 33 closures</strong> over the past seven days\u2014still net negative, but a marked improvement from last week's 32-to-55 bloodletting. The closure rate dropped 40% week-over-week. Notable debuts: Mendocino Farms landed at Union Station, Wapos Cantina opened in Englewood's Rosedale, and The Agora brought a new bar-and-grill to Sunnyside. Over 30 days, the sector remains down 29 net locations.",
+      "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
-        "class1": "",
+        "value1": "+1",
+        "class1": "up",
         "label2": "closed",
-        "value2": "0",
-        "class2": "",
+        "value2": "\u22120",
+        "class2": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+18",
+        "value1": "+23",
         "class1": "up",
         "label2": "closed",
-        "value2": "\u221216",
+        "value2": "\u221233",
         "class2": "down",
         "period": "7-day"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>49 new filings</strong> hit this week, more than double last week's 20, totaling <strong>$22.2M</strong>. The headline: a sprawling <strong>$8.1M case</strong> at 7380 S. Clinton in Arapahoe County. Weld and Larimer counties continue leading volume with 285 and 259 active cases respectively. <strong>50 auctions</strong> scheduled in the next week.",
+      "blurb": "<strong>49 new filings</strong> dropped this week\u2014up 145% from last week's 20\u2014with total exposure of <strong>$22.2M</strong>. Leading the pack: an <strong>$8.1M</strong> filing at 7380 S. Clinton in Arapahoe County. Weld County holds the highest active caseload at 305, followed by Larimer's 262. <strong>45 auctions</strong> teed up for the next seven days. Filing velocity is accelerating after last week's lull.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "49",
+        "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "50",
+        "value2": "45",
         "class2": "",
         "period": "today"
       },
@@ -41,48 +41,34 @@
         "value1": "49",
         "class1": "",
         "label2": "sold",
-        "value2": "11",
+        "value2": "17",
         "class2": "",
         "period": "7-day"
       }
     },
     "retail": {
-      "blurb": "Retail lease tracking in development. Storefront vacancy and tenant turnover data coming soon.",
-      "meta": "Expected Q2 2026",
-      "ticker": {
-        "label1": "",
-        "value1": "",
-        "class1": "",
-        "label2": "",
-        "value2": "",
-        "class2": "",
-        "period": ""
-      }
+      "meta": "Expected Q2 2026"
     },
     "revenue": {
-      "blurb": "Sales tax revenue tracker planned for metro-area municipalities and business districts.",
-      "meta": "Expected Q3 2026",
-      "ticker": {
-        "label1": "",
-        "value1": "",
-        "class1": "",
-        "label2": "",
-        "value2": "",
-        "class2": "",
-        "period": ""
-      }
+      "meta": "Expected Q3 2026"
     },
     "reputation": {
-      "blurb": "Review sentiment analysis and online reputation monitoring tool in the planning phase.",
-      "meta": "Expected Q4 2026",
-      "ticker": {
-        "label1": "",
-        "value1": "",
+      "blurb": "<strong>18 mentions</strong> across eight sources this week\u2014up from zero last week, marking the tool's inaugural tracking period. <strong>The Denver Post</strong> led citations with seven pickups, followed by Hoodline (3) and Instagram (3). Notable hits: Denverite covered the Brown Palace sale opportunity, while Reddit's r/Denver and 9News also referenced BusinessDen reporting. Google News RSS drove 17 of 18 discoveries.",
+      "meta": "Updated today \u00b7 5:15 AM",
+      "ticker_daily": {
+        "label1": "mentions",
+        "value1": "2",
         "class1": "",
-        "label2": "",
-        "value2": "",
+        "period": "today"
+      },
+      "ticker_weekly": {
+        "label1": "mentions",
+        "value1": "18",
+        "class1": "",
+        "label2": "sources",
+        "value2": "8",
         "class2": "",
-        "period": ""
+        "period": "7-day"
       }
     }
   }
