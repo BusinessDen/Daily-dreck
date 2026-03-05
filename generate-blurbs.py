@@ -259,7 +259,7 @@ def load_reputation_data():
         v = m.get("found_via", "unknown")
         via_counts[v] = via_counts.get(v, 0) + 1
 
-    recent = sorted(week_mentions, key=lambda m: m.get("published", m.get("first_seen", "")), reverse=True)[:8]
+    recent = sorted(week_mentions, key=lambda m: (m.get("published") or m.get("first_seen") or ""), reverse=True)[:8]
     formatted_recent = [{"title": m.get("title", "")[:80], "source": m.get("source", ""), "published": mention_date(m)} for m in recent]
 
     return {
