@@ -1,69 +1,87 @@
 {
   "fetched_date": "2026-03-05",
-  "fetched_at": "2026-03-05 13:05:23",
+  "fetched_at": "2026-03-05 13:37:03",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Historic Denver hotel hits the real estate market",
+      "link": "https://kdvr.com/news/local/historic-denver-hotel-hits-the-real-estate-market/",
+      "source": "Fox31",
+      "pub_date": "2026-03-05T13:20:13+00:00",
+      "age_hours": 0.2767903947222222,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
     {
       "title": "Permitting, safety issues must change for Denver restaurants to survive, survey says",
       "link": "https://www.denverpost.com/2026/03/05/denver-restaurants-permits-revenue/",
       "source": "Denver Post",
       "pub_date": "2026-03-05T13:00:23+00:00",
-      "age_hours": 0.07765091444444444,
+      "age_hours": 0.6055635777777777,
       "breaking": true,
-      "time_ago": "4 min ago"
+      "time_ago": "36 min ago"
     },
     {
       "title": "Hotel, credit union next to Central Park homeless shelter find a buyer",
       "link": "https://www.denverpost.com/2026/03/05/central-park-denver-homeless-shelter-hotel-credit-union-sold/",
       "source": "Denver Post",
       "pub_date": "2026-03-05T13:00:18+00:00",
-      "age_hours": 0.0790398138888889,
+      "age_hours": 0.6069524769444444,
       "breaking": true,
-      "time_ago": "4 min ago"
+      "time_ago": "36 min ago"
     },
     {
       "title": "How a successful Colorado startup turned into a nearly $1 billion health care fraud scheme",
       "link": "https://www.denverpost.com/2026/03/05/zynex-health-care-fraud-indictments/",
       "source": "Denver Post",
       "pub_date": "2026-03-05T13:00:17+00:00",
-      "age_hours": 0.07931759555555555,
+      "age_hours": 0.6072302588888889,
       "breaking": true,
-      "time_ago": "4 min ago"
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "Denver7 Smart Shopper: Here\u2019s where to save on groceries for the week of March 4, 2026",
+      "link": "https://www.denver7.com/smartshopper/denver7-smart-shopper-heres-where-to-save-on-groceries-for-the-week-of-march-4-2026",
+      "source": "Denver7",
+      "pub_date": "2026-03-05T13:00:00+00:00",
+      "age_hours": 0.6136250655555555,
+      "breaking": true,
+      "time_ago": "36 min ago"
     },
     {
       "title": "Here's how much snow Denver could see this week",
       "link": "https://www.9news.com/article/weather/weather-impact/snow-denver-forecast/73-6d6a15ce-42ae-4520-aa53-ee3a6b02fbcb",
       "source": "9News",
       "pub_date": "2026-03-05T12:46:08+00:00",
-      "age_hours": 0.3167070186111111,
+      "age_hours": 0.844591995,
       "breaking": true,
-      "time_ago": "19 min ago"
+      "time_ago": "50 min ago"
     },
     {
       "title": "Denver weather: Mild Thursday before Pinpoint Weather Alert Day Friday with rain/snow",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-mild-thursday-before-pinpoint-weather-alert-day-friday-with-rain-snow/",
       "source": "Fox31",
       "pub_date": "2026-03-05T12:42:31+00:00",
-      "age_hours": 0.3774603502777778,
+      "age_hours": 0.9051237347222222,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "54 min ago"
     },
     {
       "title": "US futures slide, oil and gasoline prices climb on retaliatory strikes from Iran",
       "link": "https://www.dailycamera.com/2026/03/05/financial-markets-iran-war/",
       "source": "Daily Camera",
       "pub_date": "2026-03-05T12:27:20+00:00",
-      "age_hours": 0.6298425647222223,
+      "age_hours": 1.1577803369444446,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Why Colorado should stop charging swipe fees on sales taxes | OPINION",
       "link": "https://www.coloradopolitics.com/2026/03/05/why-colorado-should-stop-charging-swipe-fees-on-sales-taxes-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-03-05T07:45:00+00:00",
-      "age_hours": 5.336348756666666,
+      "age_hours": 5.864107442222222,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -72,16 +90,16 @@
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-3-4-26/",
       "source": "Sentinel",
       "pub_date": "2026-03-05T05:32:04+00:00",
-      "age_hours": 7.551938743888889,
+      "age_hours": 8.079696914166666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Lyons Classic Pinball provides hub for community, nostalgia",
       "link": "https://www.denver7.com/news/local-news/lyons-classic-pinball-provides-hub-for-community-nostalgia",
       "source": "Denver7",
       "pub_date": "2026-03-05T04:58:59+00:00",
-      "age_hours": 8.102854067777779,
+      "age_hours": 8.630569520833333,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://kdvr.com/news/local/transportation-leaders-gather-in-denver-to-discuss-opportunity-infrastructure-and-growth/",
       "source": "Fox31",
       "pub_date": "2026-03-05T03:58:56+00:00",
-      "age_hours": 9.103849268055557,
+      "age_hours": 9.631512642499999,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -99,7 +117,7 @@
       "link": "https://kdvr.com/news/local/denver-woman-stuck-in-tel-aviv-amid-escalating-war-in-middle-east/",
       "source": "Fox31",
       "pub_date": "2026-03-05T02:55:59+00:00",
-      "age_hours": 10.153015915000001,
+      "age_hours": 10.680679294444445,
       "breaking": false,
       "time_ago": "10 hrs ago"
     },
@@ -108,16 +126,7 @@
       "link": "https://www.dailycamera.com/2026/03/04/wyoming-nuclear-project/",
       "source": "Daily Camera",
       "pub_date": "2026-03-05T00:38:51+00:00",
-      "age_hours": 12.437898137222223,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Denver weather: Pinpoint Weather Alert Day issued for Friday",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-pinpoint-weather-alert-day-issued-for-friday/",
-      "source": "Fox31",
-      "pub_date": "2026-03-05T00:26:16+00:00",
-      "age_hours": 12.648293751666667,
+      "age_hours": 12.965835909444444,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -126,43 +135,43 @@
       "link": "https://www.9news.com/article/news/local/los-dos-potrillos-fire-restaurant/73-6bd83fa4-7ba2-4769-906b-a6bb1c5f1051",
       "source": "9News",
       "pub_date": "2026-03-04T23:32:38+00:00",
-      "age_hours": 13.541707143888889,
+      "age_hours": 14.06959209888889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Ramos Law buys southeast Denver office for $3M",
       "link": "https://www.denverpost.com/2026/03/04/ramos-law-buys-southeast-denver-office/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T23:31:04+00:00",
-      "age_hours": 13.566262042777778,
+      "age_hours": 14.09417470611111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Nuggets sign former CSU Ram to two-way contract",
       "link": "https://kdvr.com/sports/denver-nuggets/nuggets-sign-former-csu-ram-to-two-way-contract/",
       "source": "Fox31",
       "pub_date": "2026-03-04T22:35:54+00:00",
-      "age_hours": 14.48773818111111,
+      "age_hours": 15.015401551111111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Modular builder Fading West demands millions from developer of Granby project",
       "link": "https://www.denverpost.com/2026/03/04/fading-west-modular-homes-summit-housing-group/",
       "source": "Denver Post",
       "pub_date": "2026-03-04T22:31:58+00:00",
-      "age_hours": 14.551262045833333,
+      "age_hours": 15.079174709166667,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
-      "title": "Meta CEO Mark Zuckerberg says at consumer protection trial that he resisted censoring platforms",
+      "title": "New Mexico jurors watch Zuckerberg deposition in Meta child safety bellwether trial",
       "link": "https://www.dailycamera.com/2026/03/04/meta-new-mexico-lawsuit-censoring/",
       "source": "Daily Camera",
       "pub_date": "2026-03-04T21:52:25+00:00",
-      "age_hours": 15.211787028611111,
+      "age_hours": 15.73972480111111,
       "breaking": false,
       "time_ago": "15 hrs ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/03/04/greeley-weighs-cascadia-options-after-1as-passage/",
       "source": "BizWest",
       "pub_date": "2026-03-04T21:47:39+00:00",
-      "age_hours": 15.289939976388888,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Upgrade Labs to open Boulder wellness center",
-      "link": "https://bizwest.com/2026/03/04/upgrade-labs-to-open-boulder-wellness-center/",
-      "source": "BizWest",
-      "pub_date": "2026-03-04T21:41:46+00:00",
-      "age_hours": 15.387995540833334,
+      "age_hours": 15.817812446666666,
       "breaking": false,
       "time_ago": "15 hrs ago"
     }
