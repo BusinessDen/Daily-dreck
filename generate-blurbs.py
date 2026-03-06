@@ -531,12 +531,11 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
       "blurb": "~50 word editorial blurb. PRIORITY: Focus on new unverified leads — name the restaurants, neighborhoods, and what was detected. Only fall back to verified stats if there are zero new leads today.",
       "meta": "Updated today · 5:15 AM",
       "ticker_daily": {
-        "label1": "new leads", "value1": "N", "class1": "",
+        "label1": "new today", "value1": "N (total leads detected today — openings + closures + temp closures)", "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
-        "label1": "leads", "value1": "N", "class1": "",
-        "label2": "confirmed", "value2": "N", "class2": "",
+        "label1": "this week", "value1": "N (total leads detected past 7 days)", "class1": "",
         "period": "7-day"
       }
     },

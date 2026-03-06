@@ -272,25 +272,25 @@
   .ticker-pair .t-mini { flex: 1; text-align: center; min-width: 0; }
   .ticker-pair .t-mini + .t-mini { border-left: 1px solid rgba(255,255,255,0.04); }
   .t-label {
-    font-size: 8px; letter-spacing: 1.5px; text-transform: uppercase;
+    font-size: 9px; letter-spacing: 1.5px; text-transform: uppercase;
     color: var(--text-dim); margin-bottom: 2px; font-weight: 500;
   }
   .t-value {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 24px; font-weight: 700; color: var(--cream); line-height: 1;
+    font-size: 26px; font-weight: 700; color: var(--cream); line-height: 1;
   }
   .t-value.up { color: var(--green); }
   .t-value.down { color: var(--red); }
-  .t-sub { font-size: 7px; color: var(--text-dim); margin-top: 2px; letter-spacing: 0.5px; }
+  .t-sub { font-size: 9px; color: var(--text-dim); margin-top: 2px; letter-spacing: 0.5px; }
   .t-pending { color: var(--text-faint); font-size: 14px; font-family: 'Cormorant Garamond', serif; font-style: italic; }
-  .t-unavailable { color: var(--text-faint); font-size: 10px; font-style: italic; }
+  .t-unavailable { color: var(--text-faint); font-size: 11px; font-style: italic; }
 
   /* Pulse row: stacked daily/weekly */
   .pulse-row { width: 100%; }
   .pulse-row .pulse-half { padding: 6px 0; }
   .pulse-row .pulse-half + .pulse-half { border-top: 1px solid rgba(255,255,255,0.05); }
   .pulse-row .pulse-period {
-    font-size: 7px; letter-spacing: 1.5px; text-transform: uppercase;
+    font-size: 9px; letter-spacing: 1.5px; text-transform: uppercase;
     color: var(--text-dim); font-weight: 600; margin-bottom: 3px;
   }
 
@@ -587,17 +587,19 @@
     </div>
   </div>
 
-  <!-- FULLSCREEN CHART OVERLAY -->
-  <div id="chart-overlay" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;z-index:100;background:rgba(7,7,16,0.95);backdrop-filter:blur(12px);overflow:auto;">
-    <div style="max-width:1400px;margin:0 auto;padding:40px 32px;">
-      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;">
-        <div>
-          <h2 style="font-family:'Cormorant Garamond',serif;font-size:28px;font-weight:700;color:var(--cream);">Subscriptions — Net Growth (90 Days)</h2>
-          <a href="https://businessden.github.io/subscriber/" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:none;letter-spacing:1px;">Open Full Dashboard →</a>
+  <!-- CHART POPUP OVERLAY -->
+  <div id="chart-overlay" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;z-index:100;background:rgba(7,7,16,0.6);overflow:auto;">
+    <div style="display:flex;align-items:center;justify-content:center;min-height:100vh;padding:24px;">
+      <div style="width:100%;max-width:1400px;background:#12121a;border:1px solid rgba(212,170,79,0.15);border-radius:12px;box-shadow:0 24px 80px rgba(0,0,0,0.6);padding:28px 32px;">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;">
+          <div>
+            <h2 style="font-family:'Cormorant Garamond',serif;font-size:26px;font-weight:700;color:var(--cream);">Subscriptions — Net Growth (90 Days)</h2>
+            <a href="https://businessden.github.io/subscriber/" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:none;letter-spacing:1px;">Open Full Dashboard →</a>
+          </div>
+          <button id="chart-overlay-close" style="background:none;border:1px solid var(--border);color:var(--cream-dim);font-size:13px;padding:6px 14px;border-radius:6px;cursor:pointer;font-family:'Sora',sans-serif;">✕ Close</button>
         </div>
-        <button id="chart-overlay-close" style="background:none;border:1px solid var(--border);color:var(--cream-dim);font-size:14px;padding:8px 16px;border-radius:6px;cursor:pointer;font-family:'Sora',sans-serif;">✕ Close</button>
+        <div id="subs-fullscreen-chart" style="width:100%;min-height:300px;"></div>
       </div>
-      <div id="subs-fullscreen-chart" style="width:100%;min-height:320px;"></div>
     </div>
   </div>
 
@@ -719,11 +721,25 @@
         }
       }
 
-      // Restaurant pulse
-      var rt_d = tools.restaurant ? tools.restaurant.ticker_daily : null;
-      var rt_w = tools.restaurant ? tools.restaurant.ticker_weekly : null;
-      if (!rt_d && !rt_w && tools.restaurant && tools.restaurant.ticker) { rt_w = tools.restaurant.ticker; }
-      renderPulse(document.getElementById('pulse-restaurant'), rt_d, rt_w);
+      // Restaurant pulse — custom "Hot Leads" layout
+      var rtEl = document.getElementById('pulse-restaurant');
+      if (rtEl && tools.restaurant) {
+        var rt = tools.restaurant;
+        var todayLeads = rt.ticker_daily ? rt.ticker_daily.value1 : '\u2014';
+        var weekLeads = rt.ticker_weekly ? rt.ticker_weekly.value1 : '\u2014';
+        rtEl.innerHTML =
+          '<div style="width:100%;">' +
+            '<div class="pulse-period" style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;text-align:center;">Hot Leads</div>' +
+            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:6px 0;text-align:center;">' +
+              '<div class="t-value" style="font-size:24px;">' + todayLeads + '</div>' +
+              '<div class="t-sub" style="font-size:9px;">new today</div>' +
+            '</div>' +
+            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:6px 0;text-align:center;">' +
+              '<div class="t-value" style="font-size:24px;">' + weekLeads + '</div>' +
+              '<div class="t-sub" style="font-size:9px;">this week</div>' +
+            '</div>' +
+          '</div>';
+      }
 
       // Foreclosure pulse
       var fc_d = tools.foreclosure ? tools.foreclosure.ticker_daily : null;
@@ -773,13 +789,13 @@
       // Mobile ticker
       var mt = document.getElementById('ticker-mobile');
       if (mt) {
-        var rd = rt_d || {};
-        var rw = rt_w || {};
+        var rtToday = (tools.restaurant && tools.restaurant.ticker_daily) ? tools.restaurant.ticker_daily.value1 : '\u2014';
+        var rtWeek = (tools.restaurant && tools.restaurant.ticker_weekly) ? tools.restaurant.ticker_weekly.value1 : '\u2014';
         mt.innerHTML =
-          '<div class="ticker-mobile-cell"><div class="t-label">Opened today</div><div class="t-value up">' + (rd.value1 || '\u2014') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Closed today</div><div class="t-value down">' + (rd.value2 || '\u2014') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Opened 7d</div><div class="t-value up">' + (rw.value1 || '\u2014') + '</div></div>' +
-          '<div class="ticker-mobile-cell"><div class="t-label">Closed 7d</div><div class="t-value down">' + (rw.value2 || '\u2014') + '</div></div>';
+          '<div class="ticker-mobile-cell"><div class="t-label">Leads today</div><div class="t-value">' + rtToday + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Leads 7d</div><div class="t-value">' + rtWeek + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Foreclosures</div><div class="t-value">' + ((tools.foreclosure && tools.foreclosure.ticker_weekly) ? tools.foreclosure.ticker_weekly.value1 : '\u2014') + '</div></div>' +
+          '<div class="ticker-mobile-cell"><div class="t-label">Mentions 7d</div><div class="t-value">' + ((tools.reputation && tools.reputation.ticker_weekly) ? tools.reputation.ticker_weekly.value1 : '\u2014') + '</div></div>';
       }
     })
     .catch(function(err) {
