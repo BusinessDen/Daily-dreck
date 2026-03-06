@@ -1,75 +1,76 @@
 {
-  "generated_date": "2026-03-05",
-  "lead_headline": "Restaurant sector posts second straight net-positive week with 23 openings vs. 33 closures\u2014down from 55 closures last week\u2014while foreclosure filings surge 145% to 49 cases totaling $22.2M.",
+  "generated_date": "2026-03-06",
+  "lead_headline": "Three new restaurant leads surfaced overnight\u2014Wapos Cantina in Rosedale, Mendocino Farms at Union Station, and a West Colfax food truck closure\u2014while foreclosure filings jumped 67% to 82 cases worth $33.3M.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>23 openings, 33 closures</strong> over the past seven days\u2014still net negative, but a marked improvement from last week's 32-to-55 bloodletting. The closure rate dropped 40% week-over-week. Notable debuts: Mendocino Farms landed at Union Station, Wapos Cantina opened in Englewood's Rosedale, and The Agora brought a new bar-and-grill to Sunnyside. Over 30 days, the sector remains down 29 net locations.",
+      "blurb": "<strong>3 new leads detected</strong> overnight, bringing the active pipeline to <strong>19 leads</strong> (7 openings, 12 closures). Fresh intel: <strong>Wapos Cantina</strong> opened in Rosedale's former El Tepehuan spot, <strong>Mendocino Farms</strong> debuted its third Denver location at Union Station, and <strong>Powered By Besitos Food Truck</strong> closed on West Colfax. Also flagged: <strong>303 Ramen</strong> in Regis suffered an attic fire March 3, and <strong>New Dragon</strong> in Berkeley appears shuttered after 13 years. Capitol Hill's <strong>Colfax and Cream</strong> folded after just two months.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
-        "class1": "up",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "\u22120",
-        "class2": "down",
-        "period": "today"
+        "value2": "\u22121",
+        "period": "new leads today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+23",
-        "class1": "up",
+        "value1": "+7",
         "label2": "closed",
-        "value2": "\u221233",
-        "class2": "down",
-        "period": "7-day"
+        "value2": "\u221212",
+        "period": "all active leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>49 new filings</strong> dropped this week\u2014up 145% from last week's 20\u2014with total exposure of <strong>$22.2M</strong>. Leading the pack: an <strong>$8.1M</strong> filing at 7380 S. Clinton in Arapahoe County. Weld County holds the highest active caseload at 305, followed by Larimer's 262. <strong>45 auctions</strong> teed up for the next seven days. Filing velocity is accelerating after last week's lull.",
+      "blurb": "<strong>82 new filings</strong> hit the docket this week\u2014up <strong>67%</strong> from last week's 49 and 19% above the prior week's 69\u2014totaling <strong>$33.3M</strong> in exposure. Top filing: another <strong>$8.1M</strong> case at 7380 S. Clinton in Arapahoe County. Weld County leads active cases with 315, trailed by Arapahoe's 290. <strong>44 auctions</strong> scheduled for the next seven days. Filings have now climbed two consecutive weeks after a mid-February dip.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "0",
-        "class1": "",
+        "value1": "82",
+        "class1": "up",
         "label2": "upcoming auctions",
-        "value2": "45",
+        "value2": "44",
         "class2": "",
-        "period": "today"
+        "period": "this week"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "49",
+        "value1": "201",
         "class1": "",
         "label2": "sold",
-        "value2": "17",
+        "value2": "22",
         "class2": "",
-        "period": "7-day"
+        "period": "30-day"
       }
     },
     "retail": {
       "meta": "Expected Q2 2026"
     },
-    "revenue": {
-      "meta": "Expected Q3 2026"
-    },
     "reputation": {
-      "blurb": "<strong>18 mentions</strong> across eight sources this week\u2014up from zero last week, marking the tool's inaugural tracking period. <strong>The Denver Post</strong> led citations with seven pickups, followed by Hoodline (3) and Instagram (3). Notable hits: Denverite covered the Brown Palace sale opportunity, while Reddit's r/Denver and 9News also referenced BusinessDen reporting. Google News RSS drove 17 of 18 discoveries.",
+      "blurb": "<strong>9 mentions</strong> yesterday brought the seven-day total to <strong>29 citations</strong> across 10 sources\u2014still riding last week's inaugural tracking surge (zero the prior period). <strong>The Denver Post</strong> remains the top citing outlet with 11 pickups this week, followed by Hoodline (4) and Instagram (4). Notable Wednesday hits: Post coverage of Northfield duplexes and a remodel firm's legal drama. Google News RSS accounted for 28 of 29 discoveries; one came via Reddit.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "2",
+        "value1": "9",
         "class1": "",
-        "period": "today"
+        "period": "yesterday"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "18",
-        "class1": "",
+        "value1": "29",
+        "class1": "up",
         "label2": "sources",
-        "value2": "8",
+        "value2": "10",
         "class2": "",
         "period": "7-day"
       }
+    },
+    "subscriptions": {
+      "blurb": "<strong>Net \u22124 yesterday</strong> (3 new, 7 canceled) erased this week's modest gains, leaving March at <strong>net zero</strong> through six days\u2014flat at 0.0/day. The 90-day cumulative sits at <strong>+75 net</strong>. Recent two-week pattern shows volatility: Feb 24's \u22129 day was offset by gains Feb 23 (+5) and Feb 27 (+3), but this week opened soft with back-to-back negative days (\u22121, \u22124). Longer-term YTD pace of +1.1/day remains intact despite the churn.",
+      "meta": "Updated today \u00b7 5:15 AM",
+      "net_mtd": "0",
+      "net_ytd": "70",
+      "net_mtd_per_day": "0.0",
+      "net_ytd_per_day": "1.1"
     }
   }
 }
