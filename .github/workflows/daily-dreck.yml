@@ -1,9 +1,8 @@
 name: The Daily Dreck
 on:
   schedule:
+    # Every hour — blurbs generate at 5 AM MT, news refreshes every hour
     - cron: '0 * * * *'
-    - cron: '15 11 * * *'
-    - cron: '15 12 * * *'
   workflow_dispatch:
     inputs:
       run_blurbs:
@@ -29,12 +28,11 @@ jobs:
         id: mode
         run: |
           HOUR_MT=$(TZ=America/Denver date +%H)
-          MIN_MT=$(TZ=America/Denver date +%M)
-          echo "Mountain Time: ${HOUR_MT}:${MIN_MT}"
+          echo "Mountain Time hour: ${HOUR_MT}"
 
           echo "run_news=true" >> $GITHUB_OUTPUT
 
-          if [ "$HOUR_MT" = "05" ] && [ "$MIN_MT" -ge "10" ] && [ "$MIN_MT" -le "20" ]; then
+          if [ "$HOUR_MT" = "05" ]; then
             echo "run_blurbs=true" >> $GITHUB_OUTPUT
             echo "Mode: FULL (blurbs + news)"
           elif [ "${{ github.event.inputs.run_blurbs }}" = "true" ]; then
