@@ -1,51 +1,60 @@
 {
   "fetched_date": "2026-03-06",
-  "fetched_at": "2026-03-06 14:07:20",
+  "fetched_at": "2026-03-06 14:15:00",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Fort Collins couple to open Longmont ice-cream shop",
+      "link": "https://bizwest.com/2026/03/06/fort-collins-couple-to-open-longmont-ice-cream-shop/",
+      "source": "BizWest",
+      "pub_date": "2026-03-06T14:11:09+00:00",
+      "age_hours": 0.059077672222222224,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
     {
       "title": "SENTINEL MUSE: \u20189 to 5\u2019 offers a high note for musical fans looking for quitting time",
       "link": "https://sentinelcolorado.com/a-town-magazine/sentinel-muse-9-to-5-offers-a-high-note-for-musical-fans-looking-for-quitting-time/",
       "source": "Sentinel",
       "pub_date": "2026-03-06T13:31:44+00:00",
-      "age_hours": 0.5895494597222223,
+      "age_hours": 0.7170313244444444,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "43 min ago"
     },
     {
       "title": "Denver weather: Pinpoint Weather Alert Day Friday with snow all day",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-pinpoint-weather-alert-day-friday-with-snow-all-day/",
       "source": "Fox31",
       "pub_date": "2026-03-06T13:22:35+00:00",
-      "age_hours": 0.7415648208333333,
+      "age_hours": 0.8693669902777778,
       "breaking": true,
-      "time_ago": "44 min ago"
+      "time_ago": "52 min ago"
     },
     {
       "title": "Denver Restaurant Week starts with record participating locations",
       "link": "https://www.denver7.com/lifestyle/food/denver-restaurant-week-starts-with-record-participating-locations",
       "source": "Denver7",
       "pub_date": "2026-03-06T13:19:29+00:00",
-      "age_hours": 0.7930385577777778,
+      "age_hours": 0.9208703683333334,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "55 min ago"
     },
     {
       "title": "Nuggets face Knicks in anticipated rematch airing on 9NEWS Friday",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-knicks-9news-tv-start-time-friday/73-80c9f01a-1602-464b-9317-e1d48d52317c",
       "source": "9News",
       "pub_date": "2026-03-06T13:09:48+00:00",
-      "age_hours": 0.9543108405555555,
+      "age_hours": 1.0821531641666666,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "US employers cut a surprising 92,000 jobs last month as unemployment rate rises to 4.4%",
       "link": "https://www.denverpost.com/2026/03/06/job-market/",
       "source": "Denver Post",
       "pub_date": "2026-03-06T13:03:07+00:00",
-      "age_hours": 1.064194544722222,
+      "age_hours": 1.1929121322222223,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.denverpost.com/2026/03/06/denver-independent-bookstores/",
       "source": "Denver Post",
       "pub_date": "2026-03-06T13:00:23+00:00",
-      "age_hours": 1.1097501094444444,
+      "age_hours": 1.2384676997222221,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://www.denverpost.com/2026/03/06/wash-park-ice-cream-shop-closes-after-a-year/",
       "source": "Denver Post",
       "pub_date": "2026-03-06T13:00:09+00:00",
-      "age_hours": 1.1136390027777778,
+      "age_hours": 1.2423565933333334,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.9news.com/article/weather/weather-impact/weather-impact-alert-denver-snow-forecast/73-a47bd0e6-8b94-42a5-a625-5d6aadd767f4",
       "source": "9News",
       "pub_date": "2026-03-06T12:46:05+00:00",
-      "age_hours": 1.349588625,
+      "age_hours": 1.4774309527777778,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.dailycamera.com/2026/03/06/wall-street-oil-prices/",
       "source": "Daily Camera",
       "pub_date": "2026-03-06T12:24:45+00:00",
-      "age_hours": 1.7049608544444443,
+      "age_hours": 1.8328595808333332,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/lebron-james-breaks-the-nba-career-field-goals-record-in-the-lakers-120-113-loss-to-the-nuggets/616-61f99551-4393-4b67-9b7c-c5b20f47d256",
       "source": "9News",
       "pub_date": "2026-03-06T11:06:00+00:00",
-      "age_hours": 3.017644197777778,
+      "age_hours": 3.1454865280555557,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://coloradosun.com/2026/03/06/outdoor-recreation-economy-tops-trillion/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-06T11:00:00+00:00",
-      "age_hours": 3.1174994963888887,
+      "age_hours": 3.2453767133333336,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://coloradosun.com/2026/03/06/is-footage-from-denver-traffic-cameras-publicly-available/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-06T10:45:00+00:00",
-      "age_hours": 3.367499532777778,
+      "age_hours": 3.495378283888889,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://coloradosun.com/2026/03/06/office-of-just-transition-grant-north-fork-valley/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-06T10:45:00+00:00",
-      "age_hours": 3.3674995422222223,
+      "age_hours": 3.495378293888889,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://coloradosun.com/2026/03/06/parks-and-wildlife-commission-accepts-petition-to-ban-colorado-fur-sales-in-embarrassing-out-of-control-meeting/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-06T10:15:00+00:00",
-      "age_hours": 3.8674995466666666,
+      "age_hours": 3.9953782988888893,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/03/06/medicaid-cuts-for-critical-care-hurts-providers-reduces-access-to-the-best-care-for-patients-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-03-06T07:30:00+00:00",
-      "age_hours": 6.6183018463888885,
+      "age_hours": 6.745911140277778,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://www.9news.com/article/news/crime/city-park-shooting-denver/73-810070a6-2797-496b-b007-a3dc77834ff8",
       "source": "9News",
       "pub_date": "2026-03-06T05:41:31+00:00",
-      "age_hours": 8.425699757777778,
+      "age_hours": 8.553542088611112,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.denver7.com/news/local-news/a-little-butter-and-a-lot-of-passion-black-box-bakery-is-perfecting-the-recipe-for-a-successful-small-business",
       "source": "Denver7",
       "pub_date": "2026-03-06T05:29:50+00:00",
-      "age_hours": 8.620538563611111,
+      "age_hours": 8.748370376944445,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.9news.com/article/traffic/first-speed-enforcement-cameras-roads/73-70300e17-2b34-4bd3-8eb4-3ce1491ebead",
       "source": "9News",
       "pub_date": "2026-03-06T04:56:52+00:00",
-      "age_hours": 9.169866436944444,
+      "age_hours": 9.297708769444444,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -171,18 +180,9 @@
       "link": "https://kdvr.com/news/local/lawsuit-challenges-denvers-flavored-tobacco-ban-as-vape-shop-owners-claim-major-losses/",
       "source": "Fox31",
       "pub_date": "2026-03-06T04:03:02+00:00",
-      "age_hours": 10.067398184444444,
+      "age_hours": 10.195200359166668,
       "breaking": false,
       "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Denver vape shop owners say flavor ban has knocked out 70% of sales",
-      "link": "https://www.9news.com/article/news/local/denver-vape-shop-owners-flavor-ban/73-6bcb5004-539c-4374-aa49-87dbe9e9a2e2",
-      "source": "9News",
-      "pub_date": "2026-03-06T02:32:38+00:00",
-      "age_hours": 11.573755342777778,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
     }
   ]
 }
