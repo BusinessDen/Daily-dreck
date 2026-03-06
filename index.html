@@ -37,35 +37,35 @@
 
     /* Density scale */
     --card-photo: 140px;
-    --card-pad: 16px 20px;
-    --card-title: 22px;
-    --card-blurb: 13px;
+    --card-pad: 18px 22px;
+    --card-title: 24px;
+    --card-blurb: 15px;
     --card-radius: 10px;
     --pulse-w: 160px;
-    --news-title: 14px;
-    --row-pad: 8px;
+    --news-title: 15px;
+    --row-pad: 10px;
   }
 
   /* Density modes */
   body.compact {
-    --card-photo: 100px;
-    --card-pad: 10px 14px;
-    --card-title: 18px;
-    --card-blurb: 11.5px;
+    --card-photo: 110px;
+    --card-pad: 12px 16px;
+    --card-title: 20px;
+    --card-blurb: 13px;
     --card-radius: 8px;
     --pulse-w: 140px;
-    --news-title: 12.5px;
-    --row-pad: 4px;
+    --news-title: 13.5px;
+    --row-pad: 6px;
   }
   body.large {
     --card-photo: 170px;
-    --card-pad: 20px 24px;
-    --card-title: 26px;
-    --card-blurb: 14px;
+    --card-pad: 22px 28px;
+    --card-title: 28px;
+    --card-blurb: 16.5px;
     --card-radius: 12px;
-    --pulse-w: 180px;
-    --news-title: 15.5px;
-    --row-pad: 12px;
+    --pulse-w: 190px;
+    --news-title: 17px;
+    --row-pad: 14px;
   }
 
   body {
@@ -224,8 +224,8 @@
   .badge-row { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
   .badge {
     display: inline-flex; align-items: center; gap: 5px;
-    font-size: 8px; letter-spacing: 1.5px; text-transform: uppercase;
-    font-weight: 600; padding: 3px 9px; border-radius: 16px;
+    font-size: 9px; letter-spacing: 1.5px; text-transform: uppercase;
+    font-weight: 600; padding: 4px 10px; border-radius: 16px;
   }
   .badge .dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
   .badge-live { background: var(--green-bg); color: var(--green); }
@@ -236,7 +236,7 @@
   .badge-planned .dot { background: var(--blue); }
   .badge-updated {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 8px; letter-spacing: 0.3px; color: var(--text-dim);
+    font-size: 9px; letter-spacing: 0.3px; color: var(--text-dim);
     text-transform: none; font-weight: 400;
   }
   @keyframes blink { 0%,100%{opacity:1;} 50%{opacity:0.4;} }
@@ -248,7 +248,7 @@
   }
   .tool-card:hover h2 { color: #fff; }
   .tool-card .blurb {
-    font-size: var(--card-blurb); line-height: 1.65; font-weight: 300; color: var(--text);
+    font-size: var(--card-blurb); line-height: 1.75; font-weight: 300; color: var(--text);
   }
   .tool-card .blurb strong { color: var(--gold); font-weight: 500; }
   .tool-card .meta {
@@ -316,19 +316,19 @@
     border-radius: 4px;
   }
   .news-source {
-    font-size: 8px; letter-spacing: 1.5px; text-transform: uppercase;
+    font-size: 9px; letter-spacing: 1.5px; text-transform: uppercase;
     color: var(--text-dim); font-weight: 600; margin-bottom: 3px;
     display: flex; align-items: center; gap: 6px;
   }
   .news-source .breaking {
     background: rgba(248,113,113,0.15); color: var(--red);
-    font-size: 7px; padding: 1px 5px; border-radius: 3px;
+    font-size: 8px; padding: 2px 6px; border-radius: 3px;
     letter-spacing: 1px; font-weight: 700;
   }
   .news-title {
     font-family: 'Cormorant Garamond', serif;
     font-size: var(--news-title); font-weight: 600; color: var(--cream-dim);
-    line-height: 1.35; transition: color 0.2s;
+    line-height: 1.4; transition: color 0.2s;
   }
   .news-item:hover .news-title { color: var(--cream); }
   .news-time {
@@ -526,7 +526,7 @@
 
         <!-- Row 4: Subscriptions -->
         <div class="tp-tool">
-          <a class="tool-card" href="https://businessden.github.io/subscriber/" target="_blank" id="subs-card-link">
+          <div class="tool-card" id="subs-card" style="cursor:pointer;">
             <div class="tool-card-body" style="padding-top:0;padding-bottom:12px;">
               <div class="badge-row" style="padding-top:16px;">
                 <span class="badge badge-live"><span class="dot"></span>Live</span>
@@ -536,9 +536,9 @@
               <div id="subs-net-chart" style="width:100%;min-height:140px;margin:4px 0 8px;"></div>
               <p class="blurb" id="blurb-subscriptions"><span class="t-unavailable">Summary information unavailable</span></p>
               <div class="meta" id="meta-subscriptions"></div>
-              <div class="cta">Open →</div>
+              <div class="cta">Expand Chart →</div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="tp-pulse" id="pulse-subscriptions">
           <div class="t-unavailable">—</div>
@@ -584,6 +584,20 @@
     <div class="col-header" style="margin-bottom:10px;"><a href="news.html" style="color:inherit;text-decoration:none;">Denver Business Wire <span style="color:var(--gold);font-size:7px;">→ ALL</span></a></div>
     <div class="news-list" id="news-mobile-list">
       <div style="font-size:11px;color:var(--text-dim);font-style:italic;padding:20px 0;">Loading headlines...</div>
+    </div>
+  </div>
+
+  <!-- FULLSCREEN CHART OVERLAY -->
+  <div id="chart-overlay" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;z-index:100;background:rgba(7,7,16,0.95);backdrop-filter:blur(12px);overflow:auto;">
+    <div style="max-width:1400px;margin:0 auto;padding:40px 32px;">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;">
+        <div>
+          <h2 style="font-family:'Cormorant Garamond',serif;font-size:28px;font-weight:700;color:var(--cream);">Subscriptions — Net Growth (90 Days)</h2>
+          <a href="https://businessden.github.io/subscriber/" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:none;letter-spacing:1px;">Open Full Dashboard →</a>
+        </div>
+        <button id="chart-overlay-close" style="background:none;border:1px solid var(--border);color:var(--cream-dim);font-size:14px;padding:8px 16px;border-radius:6px;cursor:pointer;font-family:'Sora',sans-serif;">✕ Close</button>
+      </div>
+      <div id="subs-fullscreen-chart" style="width:100%;min-height:320px;"></div>
     </div>
   </div>
 
@@ -723,11 +737,38 @@
       if (!rp_d && !rp_w && tools.reputation && tools.reputation.ticker) { rp_w = tools.reputation.ticker; }
       renderPulse(document.getElementById('pulse-reputation'), rp_d, rp_w);
 
-      // Subscriptions pulse
-      var sb_d = tools.subscriptions ? tools.subscriptions.ticker_daily : null;
-      var sb_w = tools.subscriptions ? tools.subscriptions.ticker_weekly : null;
-      if (!sb_d && !sb_w && tools.subscriptions && tools.subscriptions.ticker) { sb_w = tools.subscriptions.ticker; }
-      renderPulse(document.getElementById('pulse-subscriptions'), sb_d, sb_w);
+      // Subscriptions pulse — custom 2x2 grid: 1d, 7d, MTD, YTD
+      var sbEl = document.getElementById('pulse-subscriptions');
+      if (sbEl && tools.subscriptions) {
+        var sb = tools.subscriptions;
+        var vals = [
+          { label: '1-day', key: 'net_1d' },
+          { label: '7-day', key: 'net_7d' },
+          { label: 'MTD', key: 'net_mtd' },
+          { label: 'YTD', key: 'net_ytd' }
+        ];
+        var html = '<div style="display:grid;grid-template-columns:1fr 1fr;gap:0;width:100%;">';
+        vals.forEach(function(v, i) {
+          var val = sb[v.key];
+          if (val === undefined || val === null) val = '\u2014';
+          var cls = '';
+          var display = val;
+          if (typeof val === 'number' || (typeof val === 'string' && val.match(/^[+-]?\d/))) {
+            var num = parseInt(val);
+            if (num > 0) { cls = 'up'; display = '+' + num; }
+            else if (num < 0) { cls = 'down'; display = String(num); }
+            else { display = '0'; }
+          }
+          var border = '';
+          if (i % 2 === 0) border += 'border-right:1px solid rgba(255,255,255,0.04);';
+          if (i < 2) border += 'border-bottom:1px solid rgba(255,255,255,0.04);';
+          html += '<div style="padding:4px 2px;text-align:center;' + border + '">' +
+            '<div class="t-value ' + cls + '" style="font-size:20px;">' + display + '</div>' +
+            '<div class="t-sub" style="font-size:6px;letter-spacing:1px;">' + v.label + '</div></div>';
+        });
+        html += '</div>';
+        sbEl.innerHTML = html;
+      }
 
       // Mobile ticker
       var mt = document.getElementById('ticker-mobile');
@@ -913,11 +954,127 @@
       '</div>';
 
       chartEl.innerHTML = svg + legend;
+
+      // Store data for fullscreen rendering
+      window._subsChartData = { days: days, barMax: barMax, cumBot: cumBot, cumRange: cumRange };
+
     }).catch(function(err) {
       console.warn('Could not load subscriber data:', err);
-      chartEl.innerHTML = '<div style="font-size:10px;color:var(--text-dim);font-style:italic;">Chart unavailable</div>';
+      chartEl.innerHTML = '<div style="font-size:12px;color:var(--text-dim);font-style:italic;">Chart unavailable</div>';
     });
   })();
+
+  // === FULLSCREEN CHART POPUP ===
+  function renderFullscreenChart() {
+    var fsEl = document.getElementById('subs-fullscreen-chart');
+    if (!fsEl || !window._subsChartData) return;
+    var d = window._subsChartData;
+    var days = d.days, barMax = d.barMax, cumBot = d.cumBot, cumRange = d.cumRange;
+    var n = days.length;
+
+    var W = 1400, H = 320, PL = 52, PR = 48, PT = 12, PB = 30;
+    var IW = W - PL - PR, IH = H - PT - PB;
+    var halfH = IH / 2;
+    var bw = IW / n;
+    var barW = Math.max(2, bw * 0.7);
+
+    function xC(i) { return PL + i * bw + bw / 2; }
+    var y0 = PT + halfH;
+    function yCum(v) { return PT + IH - ((v - cumBot) / cumRange) * IH; }
+
+    var newColor = '#5cbfb0', cancelColor = '#e05c5c';
+    var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" style="height:' + H + 'px;width:100%">';
+
+    [0.5, 1].forEach(function(t) {
+      var v = Math.round(t * barMax);
+      var yUp = y0 - t * halfH;
+      svg += '<line x1="' + PL + '" y1="' + yUp + '" x2="' + (W - PR) + '" y2="' + yUp + '" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>';
+      svg += '<text x="' + (PL - 4) + '" y="' + (yUp + 4) + '" fill="#9890a0" font-size="11" text-anchor="end" font-family="JetBrains Mono">+' + v + '</text>';
+      var yDn = y0 + t * halfH;
+      svg += '<line x1="' + PL + '" y1="' + yDn + '" x2="' + (W - PR) + '" y2="' + yDn + '" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>';
+      svg += '<text x="' + (PL - 4) + '" y="' + (yDn + 4) + '" fill="#9890a0" font-size="11" text-anchor="end" font-family="JetBrains Mono">-' + v + '</text>';
+    });
+    svg += '<line x1="' + PL + '" y1="' + y0 + '" x2="' + (W - PR) + '" y2="' + y0 + '" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>';
+
+    days.forEach(function(dd, i) {
+      var x = xC(i) - barW / 2;
+      if (dd.newCount > 0) {
+        var bh = (dd.newCount / barMax) * halfH;
+        svg += '<rect x="' + x + '" y="' + (y0 - bh) + '" width="' + barW + '" height="' + bh + '" fill="' + newColor + '" opacity="0.8"/>';
+      }
+      if (dd.canceledCount > 0) {
+        var bh2 = (dd.canceledCount / barMax) * halfH;
+        svg += '<rect x="' + x + '" y="' + y0 + '" width="' + barW + '" height="' + bh2 + '" fill="' + cancelColor + '" opacity="0.6"/>';
+      }
+    });
+
+    var linePos = '#1a8a7a', lineNeg = '#a03030';
+    for (var i = 1; i < n; i++) {
+      svg += '<line x1="' + xC(i - 1) + '" y1="' + yCum(days[i - 1].cumNet) + '" x2="' + xC(i) + '" y2="' + yCum(days[i].cumNet) + '" stroke="#0d0d14" stroke-width="5" stroke-linecap="round"/>';
+    }
+    for (var i2 = 1; i2 < n; i2++) {
+      var midCum = (days[i2 - 1].cumNet + days[i2].cumNet) / 2;
+      var segColor = midCum >= 0 ? linePos : lineNeg;
+      svg += '<line x1="' + xC(i2 - 1) + '" y1="' + yCum(days[i2 - 1].cumNet) + '" x2="' + xC(i2) + '" y2="' + yCum(days[i2].cumNet) + '" stroke="' + segColor + '" stroke-width="3" stroke-linecap="round"/>';
+    }
+
+    var lastCum = days[n - 1].cumNet;
+    var lastLbl = lastCum >= 0 ? '+' + lastCum : String(lastCum);
+    var lastColor = lastCum >= 0 ? '#1a8a7a' : '#a03030';
+    var lblY2 = yCum(lastCum);
+    var lblAbove = lblY2 > PT + IH * 0.3;
+    var lblTextY = lblAbove ? lblY2 - 10 : lblY2 + 16;
+    svg += '<text x="' + (xC(n - 1) - 2) + '" y="' + lblTextY + '" fill="' + lastColor + '" font-size="13" font-family="JetBrains Mono" font-weight="700" text-anchor="end">' + lastLbl + '</text>';
+
+    var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    function fmtD(dateStr) { var p = dateStr.split('-'); return MONTHS[parseInt(p[1]) - 1] + ' ' + parseInt(p[2]); }
+    var labelCount = Math.min(10, n);
+    for (var li = 0; li < labelCount; li++) {
+      var idx = Math.round(li * (n - 1) / (labelCount - 1));
+      if (idx >= 0 && idx < n)
+        svg += '<text x="' + xC(idx) + '" y="' + (H - 4) + '" fill="#9890a0" font-size="10" text-anchor="middle" font-family="JetBrains Mono">' + fmtD(days[idx].date) + '</text>';
+    }
+
+    svg += '</svg>';
+    var legend = '<div style="display:flex;gap:16px;justify-content:center;padding:12px 0 0;font-size:11px;color:#c8c0cc;font-family:JetBrains Mono,monospace;">' +
+      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:12px;height:12px;background:' + newColor + ';opacity:0.8;border-radius:2px;"></div>New Subscription</div>' +
+      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:12px;height:12px;background:' + cancelColor + ';opacity:0.6;border-radius:2px;"></div>Cancellation</div>' +
+      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:20px;height:3px;background:linear-gradient(90deg,#1a8a7a,#a03030);border-radius:1px;"></div>Cumulative Net Change</div>' +
+    '</div>';
+    fsEl.innerHTML = svg + legend;
+  }
+
+  // Click handler for subscriptions card -> fullscreen
+  var subsCard = document.getElementById('subs-card');
+  var overlay = document.getElementById('chart-overlay');
+  var closeBtn = document.getElementById('chart-overlay-close');
+
+  if (subsCard && overlay) {
+    subsCard.addEventListener('click', function(e) {
+      e.preventDefault();
+      renderFullscreenChart();
+      overlay.style.display = 'block';
+      document.body.style.overflow = 'hidden';
+    });
+  }
+  if (closeBtn && overlay) {
+    closeBtn.addEventListener('click', function() {
+      overlay.style.display = 'none';
+      document.body.style.overflow = '';
+    });
+    overlay.addEventListener('click', function(e) {
+      if (e.target === overlay) {
+        overlay.style.display = 'none';
+        document.body.style.overflow = '';
+      }
+    });
+  }
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && overlay && overlay.style.display === 'block') {
+      overlay.style.display = 'none';
+      document.body.style.overflow = '';
+    }
+  });
 })();
 </script>
 

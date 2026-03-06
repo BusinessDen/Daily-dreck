@@ -119,6 +119,20 @@ def load_restaurant_data():
             "address": e.get("address", ""),
         })
 
+    # Extract recent UNVERIFIED leads (the focus of the blurb)
+    unverified_events = [e for e in week_data["all_events"] if e.get("type", "").endswith("_unclear")]
+    latest_leads = sorted(unverified_events, key=lambda x: x.get("date", ""), reverse=True)[:10]
+    formatted_leads = []
+    for e in latest_leads:
+        formatted_leads.append({
+            "name": e.get("name", "Unknown"),
+            "type": e.get("type", ""),
+            "date": e.get("date", ""),
+            "neighborhood": e.get("neighborhood", ""),
+            "cuisine": e.get("cuisine", ""),
+            "address": e.get("address", ""),
+        })
+
     last_scrape = data.get("metadata", {}).get("last_scrape", "unknown")
 
     return {
@@ -130,13 +144,17 @@ def load_restaurant_data():
         "closures_verified_7d": week_data["closes_verified"],
         "openings_unverified_7d": week_data["opens_unverified"],
         "closures_unverified_7d": week_data["closes_unverified"],
+        "leads_today": today_data["opens_unverified"] + today_data["closes_unverified"],
+        "leads_7d": week_data["opens_unverified"] + week_data["closes_unverified"],
+        "confirmed_7d": week_data["opens_verified"] + week_data["closes_verified"],
         "reopened_7d": week_data["reopened"],
         "openings_verified_prev_7d": prev_week_data["opens_verified"],
         "closures_verified_prev_7d": prev_week_data["closes_verified"],
         "openings_verified_30d": month_data["opens_verified"],
         "closures_verified_30d": month_data["closes_verified"],
         "total_tracked": len(restaurants),
-        "latest_events": formatted_events,
+        "latest_verified": formatted_events,
+        "latest_leads": formatted_leads,
         "last_scrape": last_scrape,
     }
 
@@ -379,6 +397,10 @@ def load_subscriber_data():
         d = sn.get("date", "")
         cum_net_90 += daily_new.get(d, 0) - daily_canceled.get(d, 0)
 
+    # YTD net
+    year_start = today[:4] + "-01-01"
+    new_ytd, canceled_ytd, net_ytd = net_for_range(year_start, today)
+
     # Current active count from latest snapshot
     latest_snap = snapshots[-1] if snapshots else {}
     active_total = latest_snap.get("active", latest_snap.get("total", 0))
@@ -406,6 +428,7 @@ def load_subscriber_data():
         "new_mtd": new_mtd,
         "canceled_mtd": canceled_mtd,
         "net_90d": cum_net_90,
+        "net_ytd": net_ytd,
         "active_total": active_total,
         "recent_trend": recent_trend,
     }
@@ -505,16 +528,15 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
   "lead_headline": "A single punchy sentence summarizing the day's most interesting data point across all tools",
   "tools": {
     "restaurant": {
-      "blurb": "~50 word editorial blurb. Start with the key numbers, then provide context — week-over-week trend, notable neighborhoods, what it means.",
+      "blurb": "~50 word editorial blurb. PRIORITY: Focus on new unverified leads — name the restaurants, neighborhoods, and what was detected. Only fall back to verified stats if there are zero new leads today.",
       "meta": "Updated today · 5:15 AM",
       "ticker_daily": {
-        "label1": "opened", "value1": "+N", "class1": "up",
-        "label2": "closed", "value2": "−N", "class2": "down",
+        "label1": "new leads", "value1": "N", "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
-        "label1": "opened", "value1": "+N", "class1": "up",
-        "label2": "closed", "value2": "−N", "class2": "down",
+        "label1": "leads", "value1": "N", "class1": "",
+        "label2": "confirmed", "value2": "N", "class2": "",
         "period": "7-day"
       }
     },
@@ -551,15 +573,10 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
     "subscriptions": {
       "blurb": "~50 word editorial blurb about subscriber net growth. Start with today's net change, then MTD, then 90-day net. Describe the recent 1-2 week trend vs the longer-term pattern.",
       "meta": "Updated today · 5:15 AM",
-      "ticker_daily": {
-        "label1": "net today", "value1": "+N or -N", "class1": "up or down",
-        "period": "today"
-      },
-      "ticker_weekly": {
-        "label1": "net 7d", "value1": "+N or -N", "class1": "up or down",
-        "label2": "active", "value2": "N", "class2": "",
-        "period": "7-day"
-      }
+      "net_1d": "N (integer, today's net new subscribers — positive or negative)",
+      "net_7d": "N (integer, past 7 days net)",
+      "net_mtd": "N (integer, month-to-date net)",
+      "net_ytd": "N (integer, year-to-date net)"
     }
   }
 }
@@ -579,19 +596,25 @@ IMPORTANT:
     prompt_parts = [f"Today is {today_str}.\n"]
 
     if restaurant_data:
-        prompt_parts.append(f"""RESTAURANT DATA (verified changes only — these are confirmed openings/closures):
+        prompt_parts.append(f"""RESTAURANT DATA:
+
+NEW LEADS (unverified — the PRIMARY focus of the blurb):
+- Leads detected today: {restaurant_data['leads_today']}
+- Leads detected past 7 days: {restaurant_data['leads_7d']}
+- Recent lead details: {json.dumps(restaurant_data['latest_leads'][:6], indent=2)}
+
+VERIFIED/CONFIRMED (secondary — only discuss if zero leads today):
 - Today (verified): {restaurant_data['openings_verified_today']} openings, {restaurant_data['closures_verified_today']} closures
-- Today (unverified leads, do NOT include in blurb): {restaurant_data['openings_unverified_today']} openings, {restaurant_data['closures_unverified_today']} closures
 - Past 7 days (verified): {restaurant_data['openings_verified_7d']} openings, {restaurant_data['closures_verified_7d']} closures
-- Past 7 days (unverified leads, do NOT include in blurb): {restaurant_data['openings_unverified_7d']} openings, {restaurant_data['closures_unverified_7d']} closures
-- Reopened this week: {restaurant_data['reopened_7d']}
-- Previous 7 days (verified, for comparison): {restaurant_data['openings_verified_prev_7d']} openings, {restaurant_data['closures_verified_prev_7d']} closures
-- Past 30 days (verified): {restaurant_data['openings_verified_30d']} openings, {restaurant_data['closures_verified_30d']} closures
+- Confirmed this week: {restaurant_data['confirmed_7d']} total
+- Recent verified events: {json.dumps(restaurant_data['latest_verified'][:4], indent=2)}
 - Total tracked: {restaurant_data['total_tracked']}
 - Last scrape: {restaurant_data['last_scrape']}
-- Recent verified events (this week): {json.dumps(restaurant_data['latest_events'][:8], indent=2)}
 
-IMPORTANT: Only reference VERIFIED numbers in the blurb and ticker. Do NOT include unverified leads in any counts or narrative.
+BLURB RULES:
+- If there are new leads today, the blurb MUST focus on them — name the restaurants and neighborhoods
+- Only fall back to verified stats if there are ZERO new leads
+- For the ticker: "new leads" = today's unverified count; "leads" = 7-day unverified; "confirmed" = 7-day verified
 """)
     else:
         prompt_parts.append("RESTAURANT DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
@@ -632,6 +655,7 @@ IMPORTANT: Only reference VERIFIED numbers in the blurb and ticker. Do NOT inclu
 - Previous 7 days (for comparison): {subscriber_data['net_prev_7d']:+d} ({subscriber_data['new_prev_7d']} new, {subscriber_data['canceled_prev_7d']} canceled)
 - Month-to-date net: {subscriber_data['net_mtd']:+d} ({subscriber_data['new_mtd']} new, {subscriber_data['canceled_mtd']} canceled)
 - 90-day cumulative net: {subscriber_data['net_90d']:+d}
+- Year-to-date net: {subscriber_data['net_ytd']:+d}
 - Current active subscribers: {subscriber_data['active_total']}
 - Daily trend (last 14 days): {json.dumps(subscriber_data['recent_trend'])}
 
