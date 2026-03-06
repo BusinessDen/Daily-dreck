@@ -721,22 +721,40 @@
         }
       }
 
-      // Restaurant pulse — custom "Hot Leads" layout
+      // Restaurant pulse — custom "Hot Leads" layout from claude-reviews
       var rtEl = document.getElementById('pulse-restaurant');
       if (rtEl && tools.restaurant) {
         var rt = tools.restaurant;
-        var todayLeads = rt.ticker_daily ? rt.ticker_daily.value1 : '\u2014';
-        var weekLeads = rt.ticker_weekly ? rt.ticker_weekly.value1 : '\u2014';
+        var todayVal = rt.ticker_daily || {};
+        var totalVal = rt.ticker_weekly || {};
         rtEl.innerHTML =
           '<div style="width:100%;">' +
-            '<div class="pulse-period" style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;text-align:center;">Hot Leads</div>' +
-            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:6px 0;text-align:center;">' +
-              '<div class="t-value" style="font-size:24px;">' + todayLeads + '</div>' +
-              '<div class="t-sub" style="font-size:9px;">new today</div>' +
+            '<div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;text-align:center;">Hot Leads</div>' +
+            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:8px 0;">' +
+              '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:4px;">new today</div>' +
+              '<div style="display:flex;justify-content:center;gap:0;">' +
+                '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
+                  '<div class="t-value up" style="font-size:24px;">' + (todayVal.value1 || '0') + '</div>' +
+                  '<div class="t-sub" style="font-size:9px;">opened</div>' +
+                '</div>' +
+                '<div style="flex:1;text-align:center;">' +
+                  '<div class="t-value down" style="font-size:24px;">' + (todayVal.value2 || '0') + '</div>' +
+                  '<div class="t-sub" style="font-size:9px;">closed</div>' +
+                '</div>' +
+              '</div>' +
             '</div>' +
-            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:6px 0;text-align:center;">' +
-              '<div class="t-value" style="font-size:24px;">' + weekLeads + '</div>' +
-              '<div class="t-sub" style="font-size:9px;">this week</div>' +
+            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:8px 0;">' +
+              '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:4px;">total active</div>' +
+              '<div style="display:flex;justify-content:center;gap:0;">' +
+                '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
+                  '<div class="t-value up" style="font-size:24px;">' + (totalVal.value1 || '0') + '</div>' +
+                  '<div class="t-sub" style="font-size:9px;">opened</div>' +
+                '</div>' +
+                '<div style="flex:1;text-align:center;">' +
+                  '<div class="t-value down" style="font-size:24px;">' + (totalVal.value2 || '0') + '</div>' +
+                  '<div class="t-sub" style="font-size:9px;">closed</div>' +
+                '</div>' +
+              '</div>' +
             '</div>' +
           '</div>';
       }
@@ -753,37 +771,63 @@
       if (!rp_d && !rp_w && tools.reputation && tools.reputation.ticker) { rp_w = tools.reputation.ticker; }
       renderPulse(document.getElementById('pulse-reputation'), rp_d, rp_w);
 
-      // Subscriptions pulse — custom 2x2 grid: 1d, 7d, MTD, YTD
+      // Subscriptions pulse — Row 1: MTD/YTD net total, Row 2: MTD/YTD net per day
       var sbEl = document.getElementById('pulse-subscriptions');
       if (sbEl && tools.subscriptions) {
         var sb = tools.subscriptions;
-        var vals = [
-          { label: '1-day', key: 'net_1d' },
-          { label: '7-day', key: 'net_7d' },
-          { label: 'MTD', key: 'net_mtd' },
-          { label: 'YTD', key: 'net_ytd' }
-        ];
-        var html = '<div style="display:grid;grid-template-columns:1fr 1fr;gap:0;width:100%;">';
-        vals.forEach(function(v, i) {
-          var val = sb[v.key];
-          if (val === undefined || val === null) val = '\u2014';
-          var cls = '';
-          var display = val;
-          if (typeof val === 'number' || (typeof val === 'string' && val.match(/^[+-]?\d/))) {
-            var num = parseInt(val);
-            if (num > 0) { cls = 'up'; display = '+' + num; }
-            else if (num < 0) { cls = 'down'; display = String(num); }
-            else { display = '0'; }
-          }
-          var border = '';
-          if (i % 2 === 0) border += 'border-right:1px solid rgba(255,255,255,0.04);';
-          if (i < 2) border += 'border-bottom:1px solid rgba(255,255,255,0.04);';
-          html += '<div style="padding:4px 2px;text-align:center;' + border + '">' +
-            '<div class="t-value ' + cls + '" style="font-size:20px;">' + display + '</div>' +
-            '<div class="t-sub" style="font-size:6px;letter-spacing:1px;">' + v.label + '</div></div>';
-        });
-        html += '</div>';
-        sbEl.innerHTML = html;
+
+        function fmtNet(v) {
+          if (v === undefined || v === null) return { display: '\u2014', cls: '' };
+          var num = typeof v === 'number' ? v : parseInt(v);
+          if (isNaN(num)) return { display: '\u2014', cls: '' };
+          if (num > 0) return { display: '+' + num, cls: 'up' };
+          if (num < 0) return { display: String(num), cls: 'down' };
+          return { display: '0', cls: '' };
+        }
+
+        function fmtPerDay(v) {
+          if (v === undefined || v === null) return { display: '\u2014', cls: '' };
+          var num = typeof v === 'number' ? v : parseFloat(v);
+          if (isNaN(num)) return { display: '\u2014', cls: '' };
+          var rounded = Math.round(num * 10) / 10;
+          var sign = rounded > 0 ? '+' : '';
+          if (rounded > 0) return { display: sign + rounded.toFixed(1), cls: 'up' };
+          if (rounded < 0) return { display: rounded.toFixed(1), cls: 'down' };
+          return { display: '0.0', cls: '' };
+        }
+
+        var mtdNet = fmtNet(sb.net_mtd);
+        var ytdNet = fmtNet(sb.net_ytd);
+        var mtdPd = fmtPerDay(sb.net_mtd_per_day);
+        var ytdPd = fmtPerDay(sb.net_ytd_per_day);
+
+        sbEl.innerHTML =
+          '<div style="width:100%;">' +
+            '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:4px;">net new</div>' +
+            '<div style="display:flex;gap:0;">' +
+              '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);padding:4px 0;">' +
+                '<div class="t-value ' + mtdNet.cls + '" style="font-size:22px;">' + mtdNet.display + '</div>' +
+                '<div class="t-sub" style="font-size:9px;">MTD</div>' +
+              '</div>' +
+              '<div style="flex:1;text-align:center;padding:4px 0;">' +
+                '<div class="t-value ' + ytdNet.cls + '" style="font-size:22px;">' + ytdNet.display + '</div>' +
+                '<div class="t-sub" style="font-size:9px;">YTD</div>' +
+              '</div>' +
+            '</div>' +
+            '<div style="border-top:1px solid rgba(255,255,255,0.05);margin-top:4px;padding-top:4px;">' +
+              '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:4px;">per day</div>' +
+              '<div style="display:flex;gap:0;">' +
+                '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);padding:4px 0;">' +
+                  '<div class="t-value ' + mtdPd.cls + '" style="font-size:22px;">' + mtdPd.display + '</div>' +
+                  '<div class="t-sub" style="font-size:9px;">MTD</div>' +
+                '</div>' +
+                '<div style="flex:1;text-align:center;padding:4px 0;">' +
+                  '<div class="t-value ' + ytdPd.cls + '" style="font-size:22px;">' + ytdPd.display + '</div>' +
+                  '<div class="t-sub" style="font-size:9px;">YTD</div>' +
+                '</div>' +
+              '</div>' +
+            '</div>' +
+          '</div>';
       }
 
       // Mobile ticker
