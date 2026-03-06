@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-03-06",
-  "fetched_at": "2026-03-06 22:31:27",
+  "fetched_at": "2026-03-06 23:29:35",
   "article_count": 20,
-  "breaking_count": 20,
+  "breaking_count": 16,
   "articles": [
+    {
+      "title": "More than 1,200 flight delays at Denver airport as snow impacts Colorado's Front Range",
+      "link": "https://www.9news.com/article/weather/weather-impact/flight-delays-canceled-denver-airport-snow/73-7eae5160-8dac-4767-89d9-1d66bd2e0c41",
+      "source": "9News",
+      "pub_date": "2026-03-06T23:03:05+00:00",
+      "age_hours": 0.4371221038888889,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
+    {
+      "title": "Retail Recon: We shopped 5 grocery stores to test prices online vs in store",
+      "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/grocery-stores-prices-online-vs-store/73-8fc36e32-bd69-47ca-a0fb-751373008d50",
+      "source": "9News",
+      "pub_date": "2026-03-06T22:54:52+00:00",
+      "age_hours": 0.5740665561111111,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
     {
       "title": "Federal judge dismisses developer\u2019s challenge to Denver affordable housing ordinances",
       "link": "https://www.coloradopolitics.com/2026/03/06/federal-judge-dismisses-developers-challenge-to-denver-affordable-housing-ordinances/",
       "source": "CO Politics",
       "pub_date": "2026-03-06T22:10:18+00:00",
-      "age_hours": 0.3484958763888889,
+      "age_hours": 1.3173512044444444,
       "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aurora buys Weld County farm, water rights",
       "link": "https://bizwest.com/2026/03/06/aurora-buys-weld-county-farm-water-rights/",
       "source": "BizWest",
       "pub_date": "2026-03-06T21:38:47+00:00",
-      "age_hours": 0.8716272672222222,
-      "breaking": true,
-      "time_ago": "52 min ago"
-    },
-    {
-      "title": "More than 1,000 flight delays at Denver airport as snow impacts Colorado's Front Range",
-      "link": "https://www.9news.com/article/weather/weather-impact/flight-delays-canceled-denver-airport-snow/73-7eae5160-8dac-4767-89d9-1d66bd2e0c41",
-      "source": "9News",
-      "pub_date": "2026-03-06T21:01:39+00:00",
-      "age_hours": 1.4920273308333334,
+      "age_hours": 1.8415645444444444,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -36,153 +45,144 @@
       "link": "https://www.9news.com/article/weather/weather-impact/colorado-snow-totals-march-6/73-b1b9b1b6-ced2-4e68-ae90-1408a62090f5",
       "source": "9News",
       "pub_date": "2026-03-06T20:50:33+00:00",
-      "age_hours": 1.6770273383333334,
+      "age_hours": 2.6460110266666668,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Why did Sundance choose Boulder?",
       "link": "https://bizwest.com/2026/03/06/why-did-sundance-choose-boulder/",
       "source": "BizWest",
       "pub_date": "2026-03-06T20:50:29+00:00",
-      "age_hours": 1.6766272758333334,
+      "age_hours": 2.6465645558333337,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "\u2018Sex and the City\u2019 star Kristin Davis to give CU commencement",
       "link": "https://bizwest.com/2026/03/06/sex-and-the-city-star-kristin-davis-to-give-cu-commencement/",
       "source": "BizWest",
       "pub_date": "2026-03-06T20:42:16+00:00",
-      "age_hours": 1.8135717241666667,
+      "age_hours": 2.7835090072222224,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Victim of Denver homicide identified",
       "link": "https://www.9news.com/article/news/crime/police-investigate-homicide-denver/73-1de50840-1e9d-4307-861a-80d42482fb1d",
       "source": "9News",
       "pub_date": "2026-03-06T19:53:19+00:00",
-      "age_hours": 2.6309162416666667,
+      "age_hours": 3.5998999375,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Investigation into January fuel mixup complete, report out Friday from CO Department of Labor and Employment",
       "link": "https://www.denver7.com/money/consumer/investigation-into-january-fuel-mixup-complete-report-out-friday-from-co-department-of-labor-and-employment",
       "source": "Denver7",
       "pub_date": "2026-03-06T19:48:38+00:00",
-      "age_hours": 2.7090979677777773,
+      "age_hours": 3.6781120516666665,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado Lawmakers Approve Bill To Allow Medical Marijuana Use In Hospitals By Terminally Ill Patients",
       "link": "https://www.marijuanamoment.net/colorado-lawmakers-approve-bill-to-allow-medical-marijuana-use-in-hospitals-by-terminally-ill-patients/",
       "source": "MJ Moment",
       "pub_date": "2026-03-06T19:21:28+00:00",
-      "age_hours": 3.16412871,
+      "age_hours": 4.133094820555556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Buyers return in February as Denver home prices dip and inventory climbs",
       "link": "https://www.denverpost.com/2026/03/06/february-home-sales-surge-real-estate-voices/",
       "source": "Denver Post",
       "pub_date": "2026-03-06T19:01:12+00:00",
-      "age_hours": 3.4979619875,
+      "age_hours": 4.467924841388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Despite not-so-snowy winter, Waymo still steering toward 2026 Denver rollout",
       "link": "https://www.denver7.com/money/science-and-tech/despite-not-so-snowy-winter-waymo-still-steering-toward-2026-denver-rollout",
       "source": "Denver7",
       "pub_date": "2026-03-06T18:23:51+00:00",
-      "age_hours": 4.122153534444444,
+      "age_hours": 5.091167616944444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Weather Impact Alert: Snow returning to Denver, up to a foot of snow possible in Colorado mountains",
       "link": "https://www.9news.com/article/weather/weather-impact/snow-denver-forecast/73-6d6a15ce-42ae-4520-aa53-ee3a6b02fbcb",
       "source": "9News",
       "pub_date": "2026-03-06T18:19:58+00:00",
-      "age_hours": 4.186749598333334,
+      "age_hours": 5.155733295277778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Agency finds fuel contamination caused by 'human error'",
       "link": "https://kdvr.com/news/local/agency-finds-fuel-contamination-caused-by-human-error/",
       "source": "Fox31",
       "pub_date": "2026-03-06T18:01:17+00:00",
-      "age_hours": 4.498313947222222,
+      "age_hours": 5.4672960825,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Customs and Border Protection official says new process for tariff refunds could be ready in 45 days",
       "link": "https://www.dailycamera.com/2026/03/06/trump-tariff-refunds/",
       "source": "Daily Camera",
       "pub_date": "2026-03-06T17:57:31+00:00",
-      "age_hours": 4.560684091388889,
+      "age_hours": 5.529720616666666,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "United Airlines flight hits deicing truck at DIA",
       "link": "https://www.9news.com/article/travel/denver-international-airport/united-airlines-deicing-truck-plane-crash/73-3fec7df4-382f-4e5a-b84f-b3d8c6c7cfad",
       "source": "9News",
       "pub_date": "2026-03-06T17:38:23+00:00",
-      "age_hours": 4.879805171388889,
+      "age_hours": 5.8487888691666665,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "China\u2019s 10-passenger electric aircraft, the Matrix, hints at how big flying taxis can be",
       "link": "https://www.dailycamera.com/2026/03/06/china-electric-aircraft/",
       "source": "Daily Camera",
       "pub_date": "2026-03-06T17:26:59+00:00",
-      "age_hours": 5.0695729838888886,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.038609508888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Plane strikes deicing truck at DIA amid snowstorm",
       "link": "https://kdvr.com/news/local/plane-strikes-deicing-truck-at-dia-amid-snowstorm/",
       "source": "Fox31",
       "pub_date": "2026-03-06T17:18:44+00:00",
-      "age_hours": 5.207480594166666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.176462731944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Beyond Meat drops the \u2018Meat\u2019 from its name as it expands to plant-based drinks and snacks",
       "link": "https://www.dailycamera.com/2026/03/06/beyond-meat-name-change/",
       "source": "Daily Camera",
       "pub_date": "2026-03-06T17:08:37+00:00",
-      "age_hours": 5.375684098055555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.344720622777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "More than 1k flights delayed at Denver International Airport on Friday amid snowstorm",
       "link": "https://kdvr.com/news/local/ground-stop-at-denver-international-airport-due-to-snow-or-ice/",
       "source": "Fox31",
       "pub_date": "2026-03-06T17:07:30+00:00",
-      "age_hours": 5.394702841111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "4 more Colorado measles cases confirmed in school outbreak, exposure locations include DIA",
-      "link": "https://kdvr.com/news/local/4-more-colorado-measles-cases-confirmed-in-school-outbreak-exposure-locations-include-dia/",
-      "source": "Fox31",
-      "pub_date": "2026-03-06T16:48:34+00:00",
-      "age_hours": 5.710258381111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.363684976388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     }
   ]
 }
