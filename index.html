@@ -658,7 +658,7 @@
       // Only overwrite blurbs for live tools — coming-soon descriptions are static in HTML
       var tools = data.tools || {};
       var liveTools = ['restaurant', 'foreclosure', 'reputation', 'subscriptions'];
-      var allTools = ['restaurant', 'foreclosure', 'retail', 'revenue', 'reputation'];
+      var allTools = ['restaurant', 'foreclosure', 'retail', 'subscriptions', 'reputation'];
 
       for (var i = 0; i < allTools.length; i++) {
         var key = allTools[i];
@@ -744,7 +744,7 @@
               '</div>' +
             '</div>' +
             '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:8px 0;">' +
-              '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:4px;">total active</div>' +
+              '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:4px;">this week</div>' +
               '<div style="display:flex;justify-content:center;gap:0;">' +
                 '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
                   '<div class="t-value up" style="font-size:24px;">' + (totalVal.value1 || '0') + '</div>' +
