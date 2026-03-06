@@ -19,7 +19,7 @@ import urllib.error
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MODEL = "claude-sonnet-4-5-20250929"
-MAX_TOKENS = 2000
+MAX_TOKENS = 2500
 
 # ============================================
 # DATA LOADERS
@@ -304,6 +304,113 @@ def load_reputation_data():
     }
 
 
+def load_subscriber_data():
+    """Fetch subscribers.json and snapshots.json from the subscriber dashboard and compute key metrics."""
+    subs_data = fetch_json_url("https://businessden.github.io/subscriber/data/subscribers.json")
+    snap_data = fetch_json_url("https://businessden.github.io/subscriber/data/snapshots.json")
+    if not subs_data or not snap_data:
+        return None
+
+    all_subs = subs_data.get("subscribers", [])
+    snapshots = snap_data.get("snapshots", [])
+    if not all_subs or len(snapshots) < 2:
+        return None
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    seven_days_ago = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+    fourteen_days_ago = (datetime.now() - timedelta(days=14)).strftime("%Y-%m-%d")
+    thirty_days_ago = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+
+    def ts_to_date(ts):
+        if not ts:
+            return ""
+        return datetime.utcfromtimestamp(ts).strftime("%Y-%m-%d")
+
+    # Build daily new/canceled counts
+    daily_new = {}
+    daily_canceled = {}
+    for s in all_subs:
+        if s.get("started_at"):
+            d = ts_to_date(s["started_at"])
+            daily_new[d] = daily_new.get(d, 0) + 1
+        if s.get("status") == "canceled" and s.get("canceled_at"):
+            d = ts_to_date(s["canceled_at"])
+            daily_canceled[d] = daily_canceled.get(d, 0) + 1
+
+    # Compute net for specific days
+    def net_for_day(d):
+        return daily_new.get(d, 0) - daily_canceled.get(d, 0)
+
+    def net_for_range(start, end):
+        total_new = 0
+        total_canceled = 0
+        for d, count in daily_new.items():
+            if start <= d <= end:
+                total_new += count
+        for d, count in daily_canceled.items():
+            if start <= d <= end:
+                total_canceled += count
+        return total_new, total_canceled, total_new - total_canceled
+
+    # Today's net (fall back to yesterday)
+    today_new = daily_new.get(today, 0)
+    today_canceled = daily_canceled.get(today, 0)
+    today_net = today_new - today_canceled
+    net_day_label = "today"
+    if today_new == 0 and today_canceled == 0:
+        today_new = daily_new.get(yesterday, 0)
+        today_canceled = daily_canceled.get(yesterday, 0)
+        today_net = today_new - today_canceled
+        net_day_label = "yesterday"
+
+    # Period stats
+    new_7d, canceled_7d, net_7d = net_for_range(seven_days_ago, today)
+    new_prev_7d, canceled_prev_7d, net_prev_7d = net_for_range(fourteen_days_ago, seven_days_ago)
+
+    # MTD
+    month_start = today[:8] + "01"
+    new_mtd, canceled_mtd, net_mtd = net_for_range(month_start, today)
+
+    # 90-day net from snapshots
+    snaps_90 = snapshots[-90:] if len(snapshots) >= 90 else snapshots
+    cum_net_90 = 0
+    for sn in snaps_90:
+        d = sn.get("date", "")
+        cum_net_90 += daily_new.get(d, 0) - daily_canceled.get(d, 0)
+
+    # Current active count from latest snapshot
+    latest_snap = snapshots[-1] if snapshots else {}
+    active_total = latest_snap.get("active", latest_snap.get("total", 0))
+
+    # Recent daily trend (last 14 days)
+    recent_trend = []
+    for i in range(14, 0, -1):
+        d = (datetime.now() - timedelta(days=i)).strftime("%Y-%m-%d")
+        n_new = daily_new.get(d, 0)
+        n_can = daily_canceled.get(d, 0)
+        recent_trend.append({"date": d, "new": n_new, "canceled": n_can, "net": n_new - n_can})
+
+    return {
+        "today_new": today_new,
+        "today_canceled": today_canceled,
+        "today_net": today_net,
+        "net_day_label": net_day_label,
+        "new_7d": new_7d,
+        "canceled_7d": canceled_7d,
+        "net_7d": net_7d,
+        "new_prev_7d": new_prev_7d,
+        "canceled_prev_7d": canceled_prev_7d,
+        "net_prev_7d": net_prev_7d,
+        "net_mtd": net_mtd,
+        "new_mtd": new_mtd,
+        "canceled_mtd": canceled_mtd,
+        "net_90d": cum_net_90,
+        "active_total": active_total,
+        "recent_trend": recent_trend,
+    }
+
+
 # ============================================
 # LOAD PREVIOUS BLURBS (to avoid repetition)
 # ============================================
@@ -379,6 +486,7 @@ def main():
     restaurant_data = load_restaurant_data()
     foreclosure_data = load_foreclosure_data()
     reputation_data = load_reputation_data()
+    subscriber_data = load_subscriber_data()
     previous_blurbs = load_previous_blurbs()
 
     # Build the system prompt
@@ -427,9 +535,6 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
     "retail": {
       "meta": "Expected Q2 2026"
     },
-    "revenue": {
-      "meta": "Expected Q3 2026"
-    },
     "reputation": {
       "blurb": "~50 word editorial blurb about BusinessDen mentions/citations in other media this week.",
       "meta": "Updated today · 5:15 AM",
@@ -440,6 +545,19 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
       "ticker_weekly": {
         "label1": "mentions", "value1": "N", "class1": "",
         "label2": "sources", "value2": "N", "class2": "",
+        "period": "7-day"
+      }
+    },
+    "subscriptions": {
+      "blurb": "~50 word editorial blurb about subscriber net growth. Start with today's net change, then MTD, then 90-day net. Describe the recent 1-2 week trend vs the longer-term pattern.",
+      "meta": "Updated today · 5:15 AM",
+      "ticker_daily": {
+        "label1": "net today", "value1": "+N or -N", "class1": "up or down",
+        "period": "today"
+      },
+      "ticker_weekly": {
+        "label1": "net 7d", "value1": "+N or -N", "class1": "up or down",
+        "label2": "active", "value2": "N", "class2": "",
         "period": "7-day"
       }
     }
@@ -453,8 +571,9 @@ IMPORTANT:
 - Start each live tool blurb with the headline numbers in bold (wrap key figures in <strong> tags)
 - Then contextualize: compare to last week, note trends, flag neighborhoods or patterns
 - Never repeat yesterday's phrasing — find a fresh angle
-- Keep retail/revenue entries as-is — do NOT generate blurbs for them, they are static in the HTML
-- For reputation: note top citing sources, week-over-week trend, and any notable pickups"""
+- Keep retail entries as-is — do NOT generate blurbs for them, they are static in the HTML
+- For reputation: note top citing sources, week-over-week trend, and any notable pickups
+- For subscriptions: START with today's net change (e.g. "Net +3 yesterday"), then state impact on MTD number, then 90-day net. Then describe the recent 1-2 week trend vs the longer-term pattern. Keep it factual and concise."""
 
     # Build the user prompt with data
     prompt_parts = [f"Today is {today_str}.\n"]
@@ -506,11 +625,27 @@ IMPORTANT: Only reference VERIFIED numbers in the blurb and ticker. Do NOT inclu
     else:
         prompt_parts.append("REPUTATION DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
 
+    if subscriber_data:
+        prompt_parts.append(f"""SUBSCRIBER DATA (BusinessDen paying subscribers):
+- Net change {subscriber_data['net_day_label']}: {subscriber_data['today_net']:+d} ({subscriber_data['today_new']} new, {subscriber_data['today_canceled']} canceled)
+- Net change past 7 days: {subscriber_data['net_7d']:+d} ({subscriber_data['new_7d']} new, {subscriber_data['canceled_7d']} canceled)
+- Previous 7 days (for comparison): {subscriber_data['net_prev_7d']:+d} ({subscriber_data['new_prev_7d']} new, {subscriber_data['canceled_prev_7d']} canceled)
+- Month-to-date net: {subscriber_data['net_mtd']:+d} ({subscriber_data['new_mtd']} new, {subscriber_data['canceled_mtd']} canceled)
+- 90-day cumulative net: {subscriber_data['net_90d']:+d}
+- Current active subscribers: {subscriber_data['active_total']}
+- Daily trend (last 14 days): {json.dumps(subscriber_data['recent_trend'])}
+
+IMPORTANT for subscriptions blurb: Start with {subscriber_data['net_day_label']}'s net ({subscriber_data['today_net']:+d}), then state MTD net ({subscriber_data['net_mtd']:+d}), then 90-day net ({subscriber_data['net_90d']:+d}). Then describe how the last 1-2 weeks compare with the longer-term trend.
+""")
+    else:
+        prompt_parts.append("SUBSCRIBER DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
+
     if previous_blurbs and previous_blurbs.get("generated_date") != today_iso:
         prompt_parts.append(f"""YESTERDAY'S BLURBS (do NOT repeat these — find fresh phrasing):
 - Restaurant: {previous_blurbs.get('tools', {}).get('restaurant', {}).get('blurb', 'N/A')}
 - Foreclosure: {previous_blurbs.get('tools', {}).get('foreclosure', {}).get('blurb', 'N/A')}
 - Reputation: {previous_blurbs.get('tools', {}).get('reputation', {}).get('blurb', 'N/A')}
+- Subscriptions: {previous_blurbs.get('tools', {}).get('subscriptions', {}).get('blurb', 'N/A')}
 - Lead headline: {previous_blurbs.get('lead_headline', 'N/A')}
 """)
 
@@ -522,6 +657,7 @@ IMPORTANT: Only reference VERIFIED numbers in the blurb and ticker. Do NOT inclu
     print(f"Restaurant data: {'available' if restaurant_data else 'unavailable'}")
     print(f"Foreclosure data: {'available' if foreclosure_data else 'unavailable'}")
     print(f"Reputation data: {'available' if reputation_data else 'unavailable'}")
+    print(f"Subscriber data: {'available' if subscriber_data else 'unavailable'}")
 
     response_text = call_claude(prompt, system_prompt)
 

@@ -524,8 +524,28 @@
           <div class="t-unavailable">—</div>
         </div>
 
-        <!-- Row 4: Retail Openings & Closures -->
+        <!-- Row 4: Subscriptions -->
         <div class="tp-tool">
+          <a class="tool-card" href="https://businessden.github.io/subscriber/" target="_blank" id="subs-card-link">
+            <div class="tool-card-body" style="padding-top:0;padding-bottom:12px;">
+              <div class="badge-row" style="padding-top:16px;">
+                <span class="badge badge-live"><span class="dot"></span>Live</span>
+                <span class="badge-updated" id="updated-subscriptions"></span>
+              </div>
+              <h2>Subscriptions</h2>
+              <div id="subs-net-chart" style="width:100%;min-height:140px;margin:4px 0 8px;"></div>
+              <p class="blurb" id="blurb-subscriptions"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-subscriptions"></div>
+              <div class="cta">Open →</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse" id="pulse-subscriptions">
+          <div class="t-unavailable">—</div>
+        </div>
+
+        <!-- Row 5: Retail Openings & Closures -->
+        <div class="tp-tool last">
           <a class="tool-card coming-soon" href="#">
             <div class="tool-card-photo">
               <img src="https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=400&fit=crop&crop=center" alt="Denver retail district">
@@ -537,28 +557,6 @@
               </div>
               <h2>Retail Openings &amp; Closures</h2>
               <p class="blurb" id="blurb-retail">Lease filings, vacancy rates, and tenant movements across Denver metro retail corridors. Data pipeline under construction.</p>
-              <div class="cta">Coming Soon</div>
-            </div>
-          </a>
-        </div>
-        <div class="tp-pulse">
-          <div class="t-pending">—</div>
-          <div class="t-sub">pending</div>
-        </div>
-
-        <!-- Row 5: Subscriptions -->
-        <div class="tp-tool last">
-          <a class="tool-card coming-soon" href="#">
-            <div class="tool-card-photo">
-              <img src="https://images.unsplash.com/photo-1546156929-a4c0ac411f47?w=400&h=400&fit=crop&crop=center" alt="Denver skyline">
-            </div>
-            <div class="tool-card-body">
-              <div class="badge-row">
-                <span class="badge badge-planned"><span class="dot"></span>Planned</span>
-                <span class="badge-updated">Expected Q3 2026</span>
-              </div>
-              <h2>Subscriptions</h2>
-              <p class="blurb" id="blurb-revenue">An overview of BusinessDen subscriptions — new sign-ups, renewals, churn, and geographic distribution of the subscriber base.</p>
               <div class="cta">Coming Soon</div>
             </div>
           </a>
@@ -643,7 +641,7 @@
       // Tool blurbs + updated badges
       // Only overwrite blurbs for live tools — coming-soon descriptions are static in HTML
       var tools = data.tools || {};
-      var liveTools = ['restaurant', 'foreclosure', 'reputation'];
+      var liveTools = ['restaurant', 'foreclosure', 'reputation', 'subscriptions'];
       var allTools = ['restaurant', 'foreclosure', 'retail', 'revenue', 'reputation'];
 
       for (var i = 0; i < allTools.length; i++) {
@@ -725,6 +723,12 @@
       if (!rp_d && !rp_w && tools.reputation && tools.reputation.ticker) { rp_w = tools.reputation.ticker; }
       renderPulse(document.getElementById('pulse-reputation'), rp_d, rp_w);
 
+      // Subscriptions pulse
+      var sb_d = tools.subscriptions ? tools.subscriptions.ticker_daily : null;
+      var sb_w = tools.subscriptions ? tools.subscriptions.ticker_weekly : null;
+      if (!sb_d && !sb_w && tools.subscriptions && tools.subscriptions.ticker) { sb_w = tools.subscriptions.ticker; }
+      renderPulse(document.getElementById('pulse-subscriptions'), sb_d, sb_w);
+
       // Mobile ticker
       var mt = document.getElementById('ticker-mobile');
       if (mt) {
@@ -777,6 +781,143 @@
       if (d) d.innerHTML = msg;
       if (m) m.innerHTML = msg;
     });
+
+  // === LOAD SUBSCRIBER NET GROWTH CHART ===
+  (function() {
+    var SUBS_BASE = 'https://businessden.github.io/subscriber/data/';
+    var chartEl = document.getElementById('subs-net-chart');
+    if (!chartEl) return;
+
+    Promise.all([
+      fetch(SUBS_BASE + 'subscribers.json').then(function(r) { return r.ok ? r.json() : null; }),
+      fetch(SUBS_BASE + 'snapshots.json').then(function(r) { return r.ok ? r.json() : null; })
+    ]).then(function(results) {
+      var subsData = results[0];
+      var snapData = results[1];
+      if (!subsData || !snapData) { chartEl.innerHTML = '<div style="font-size:10px;color:var(--text-dim);font-style:italic;">Subscriber data unavailable</div>'; return; }
+
+      var allSubs = subsData.subscribers || [];
+      var snaps = (snapData.snapshots || []).slice(-90);
+      if (snaps.length < 2) { chartEl.innerHTML = '<div style="font-size:10px;color:var(--text-dim);font-style:italic;">Not enough data yet</div>'; return; }
+
+      // Build daily new/canceled counts
+      function ds(d) { return d.toISOString().slice(0, 10); }
+      var dailyNew = {}, dailyCanceled = {};
+      allSubs.forEach(function(s) {
+        if (s.started_at) {
+          var d = ds(new Date(s.started_at * 1000));
+          dailyNew[d] = (dailyNew[d] || 0) + 1;
+        }
+        if (s.status === 'canceled' && s.canceled_at) {
+          var d2 = ds(new Date(s.canceled_at * 1000));
+          dailyCanceled[d2] = (dailyCanceled[d2] || 0) + 1;
+        }
+      });
+
+      var days = snaps.map(function(sn) {
+        var d = sn.date;
+        var nw = dailyNew[d] || 0;
+        var cn = dailyCanceled[d] || 0;
+        return { date: d, newCount: nw, canceledCount: cn, net: nw - cn };
+      });
+
+      var cumNet = 0;
+      days.forEach(function(d) { cumNet += d.net; d.cumNet = cumNet; });
+
+      // Chart dimensions — fills card width
+      var W = 800, H = 140, PL = 40, PR = 36, PT = 6, PB = 22;
+      var IW = W - PL - PR, IH = H - PT - PB;
+      var halfH = IH / 2;
+      var n = days.length;
+      var bw = IW / n;
+      var barW = Math.max(1, bw * 0.7);
+
+      var maxUp = Math.max.apply(null, days.map(function(d) { return d.newCount; }).concat([1]));
+      var maxDown = Math.max.apply(null, days.map(function(d) { return d.canceledCount; }).concat([1]));
+      var barMax = Math.max(maxUp, maxDown);
+
+      var cumVals = days.map(function(d) { return d.cumNet; });
+      var cumMax = Math.max.apply(null, cumVals.concat([0]));
+      var cumMin = Math.min.apply(null, cumVals.concat([0]));
+      var cumPad = Math.max((cumMax - cumMin) * 0.1, 1);
+      var cumTop = cumMax + cumPad, cumBot = cumMin - cumPad;
+      var cumRange = cumTop - cumBot;
+
+      function xC(i) { return PL + i * bw + bw / 2; }
+      var y0 = PT + halfH;
+      function yCum(v) { return PT + IH - ((v - cumBot) / cumRange) * IH; }
+
+      var newColor = '#5cbfb0', cancelColor = '#e05c5c';
+      var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" style="height:' + H + 'px;width:100%">';
+
+      // Grid
+      [0.5, 1].forEach(function(t) {
+        var v = Math.round(t * barMax);
+        var yUp = y0 - t * halfH;
+        svg += '<line x1="' + PL + '" y1="' + yUp + '" x2="' + (W - PR) + '" y2="' + yUp + '" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>';
+        svg += '<text x="' + (PL - 3) + '" y="' + (yUp + 3) + '" fill="#706878" font-size="8" text-anchor="end" font-family="JetBrains Mono">+' + v + '</text>';
+        var yDn = y0 + t * halfH;
+        svg += '<line x1="' + PL + '" y1="' + yDn + '" x2="' + (W - PR) + '" y2="' + yDn + '" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>';
+        svg += '<text x="' + (PL - 3) + '" y="' + (yDn + 3) + '" fill="#706878" font-size="8" text-anchor="end" font-family="JetBrains Mono">-' + v + '</text>';
+      });
+      svg += '<line x1="' + PL + '" y1="' + y0 + '" x2="' + (W - PR) + '" y2="' + y0 + '" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>';
+
+      // Bars
+      days.forEach(function(d, i) {
+        var x = xC(i) - barW / 2;
+        if (d.newCount > 0) {
+          var bh = (d.newCount / barMax) * halfH;
+          svg += '<rect x="' + x + '" y="' + (y0 - bh) + '" width="' + barW + '" height="' + bh + '" fill="' + newColor + '" opacity="0.8"/>';
+        }
+        if (d.canceledCount > 0) {
+          var bh2 = (d.canceledCount / barMax) * halfH;
+          svg += '<rect x="' + x + '" y="' + y0 + '" width="' + barW + '" height="' + bh2 + '" fill="' + cancelColor + '" opacity="0.6"/>';
+        }
+      });
+
+      // Cumulative net line — shadow then color
+      var linePos = '#1a8a7a', lineNeg = '#a03030';
+      for (var i = 1; i < n; i++) {
+        svg += '<line x1="' + xC(i - 1) + '" y1="' + yCum(days[i - 1].cumNet) + '" x2="' + xC(i) + '" y2="' + yCum(days[i].cumNet) + '" stroke="#0d0d14" stroke-width="4" stroke-linecap="round"/>';
+      }
+      for (var i2 = 1; i2 < n; i2++) {
+        var midCum = (days[i2 - 1].cumNet + days[i2].cumNet) / 2;
+        var segColor = midCum >= 0 ? linePos : lineNeg;
+        svg += '<line x1="' + xC(i2 - 1) + '" y1="' + yCum(days[i2 - 1].cumNet) + '" x2="' + xC(i2) + '" y2="' + yCum(days[i2].cumNet) + '" stroke="' + segColor + '" stroke-width="2" stroke-linecap="round"/>';
+      }
+
+      // End label
+      var lastCum = days[n - 1].cumNet;
+      var lastLbl = lastCum >= 0 ? '+' + lastCum : String(lastCum);
+      var lastColor = lastCum >= 0 ? '#1a8a7a' : '#a03030';
+      var lblY2 = yCum(lastCum);
+      var lblAbove = lblY2 > PT + IH * 0.3;
+      var lblTextY = lblAbove ? lblY2 - 8 : lblY2 + 12;
+      svg += '<text x="' + (xC(n - 1) - 2) + '" y="' + lblTextY + '" fill="' + lastColor + '" font-size="9" font-family="JetBrains Mono" font-weight="700" text-anchor="end">' + lastLbl + '</text>';
+
+      // Date labels
+      var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      function fmtD(dateStr) { var p = dateStr.split('-'); return MONTHS[parseInt(p[1]) - 1] + ' ' + parseInt(p[2]); }
+      [0, Math.floor(n / 2), n - 1].forEach(function(idx) {
+        if (idx >= 0 && idx < n)
+          svg += '<text x="' + xC(idx) + '" y="' + (H - 2) + '" fill="#706878" font-size="8" text-anchor="middle" font-family="JetBrains Mono">' + fmtD(days[idx].date) + '</text>';
+      });
+
+      svg += '</svg>';
+
+      // Legend
+      var legend = '<div style="display:flex;gap:12px;justify-content:center;padding:4px 0 0;font-size:8px;color:#9890a0;font-family:JetBrains Mono,monospace;">' +
+        '<div style="display:flex;align-items:center;gap:4px;"><div style="width:8px;height:8px;background:' + newColor + ';opacity:0.8;"></div>New</div>' +
+        '<div style="display:flex;align-items:center;gap:4px;"><div style="width:8px;height:8px;background:' + cancelColor + ';opacity:0.6;"></div>Canceled</div>' +
+        '<div style="display:flex;align-items:center;gap:4px;"><div style="width:12px;height:2px;background:linear-gradient(90deg,#1a8a7a,#a03030);border-radius:1px;"></div>Net 90d</div>' +
+      '</div>';
+
+      chartEl.innerHTML = svg + legend;
+    }).catch(function(err) {
+      console.warn('Could not load subscriber data:', err);
+      chartEl.innerHTML = '<div style="font-size:10px;color:var(--text-dim);font-style:italic;">Chart unavailable</div>';
+    });
+  })();
 })();
 </script>
 
