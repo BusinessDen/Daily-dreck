@@ -1,75 +1,75 @@
 {
-  "generated_date": "2026-03-06",
-  "lead_headline": "Three new restaurant leads surfaced overnight\u2014Wapos Cantina in Rosedale, Mendocino Farms at Union Station, and a West Colfax food truck closure\u2014while foreclosure filings jumped 67% to 82 cases worth $33.3M.",
+  "generated_date": "2026-03-07",
+  "lead_headline": "Restaurant tracker flags 2 new leads today\u2014All Is Well debuts at boutique City Park hotel, Sawa shifts to catering-only\u2014while foreclosures retreat 33% week-over-week to 33 filings.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 new leads detected</strong> overnight, bringing the active pipeline to <strong>19 leads</strong> (7 openings, 12 closures). Fresh intel: <strong>Wapos Cantina</strong> opened in Rosedale's former El Tepehuan spot, <strong>Mendocino Farms</strong> debuted its third Denver location at Union Station, and <strong>Powered By Besitos Food Truck</strong> closed on West Colfax. Also flagged: <strong>303 Ramen</strong> in Regis suffered an attic fire March 3, and <strong>New Dragon</strong> in Berkeley appears shuttered after 13 years. Capitol Hill's <strong>Colfax and Cream</strong> folded after just two months.",
+      "blurb": "<strong>2 fresh leads today</strong> push the active pipeline to <strong>23 leads</strong> (9 openings, 14 closures). New intel: <strong>All Is Well</strong> restaurant launches at the renovated All Inn Hotel on East Colfax in City Park, part of a $22M boutique conversion. <strong>Sawa Mediterranean</strong> near University closed its restaurant and pivoted to catering-only after two years. Week's prior leads include <strong>G-Que BBQ</strong> opening at McGregor Square and <strong>Reunion Bread</strong> relocating from RiNo to Platt Park.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+1",
         "label2": "closed",
         "value2": "\u22121",
-        "period": "new leads today"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+7",
+        "value1": "9",
         "label2": "closed",
-        "value2": "\u221212",
-        "period": "all active leads"
+        "value2": "14",
+        "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>82 new filings</strong> hit the docket this week\u2014up <strong>67%</strong> from last week's 49 and 19% above the prior week's 69\u2014totaling <strong>$33.3M</strong> in exposure. Top filing: another <strong>$8.1M</strong> case at 7380 S. Clinton in Arapahoe County. Weld County leads active cases with 315, trailed by Arapahoe's 290. <strong>44 auctions</strong> scheduled for the next seven days. Filings have now climbed two consecutive weeks after a mid-February dip.",
+      "blurb": "<strong>33 new filings</strong> this week\u2014down <strong>33%</strong> from last week's 49 and snapping a two-week climb. Total exposure: <strong>$11.1M</strong>, zero filings above $2M. Top case: <strong>$628K</strong> at 5118 Lumos Lane in Douglas County. <strong>43 auctions</strong> scheduled next seven days. Weld County still leads active cases (315), followed by Arapahoe (290) and El Paso (250). Pullback suggests brief reprieve after February's volatility.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "82",
-        "class1": "up",
+        "value1": "33",
+        "class1": "down",
         "label2": "upcoming auctions",
-        "value2": "44",
+        "value2": "43",
         "class2": "",
-        "period": "this week"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "201",
-        "class1": "",
+        "value1": "33",
+        "class1": "down",
         "label2": "sold",
         "value2": "22",
         "class2": "",
-        "period": "30-day"
+        "period": "7-day"
       }
     },
     "retail": {
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>9 mentions</strong> yesterday brought the seven-day total to <strong>29 citations</strong> across 10 sources\u2014still riding last week's inaugural tracking surge (zero the prior period). <strong>The Denver Post</strong> remains the top citing outlet with 11 pickups this week, followed by Hoodline (4) and Instagram (4). Notable Wednesday hits: Post coverage of Northfield duplexes and a remodel firm's legal drama. Google News RSS accounted for 28 of 29 discoveries; one came via Reddit.",
+      "blurb": "<strong>7 mentions yesterday</strong> brought the seven-day total to <strong>37 citations</strong> across 11 sources\u2014the full weekly haul since tracking began (zero prior period). <strong>Denver Post</strong> dominated with 15 pickups, trailed by Hoodline (5) and social platforms. Friday highlights: Hoodline's Golden Triangle landlord story, Post's Wash Park ice cream closure. Google News RSS captured 36 of 37 discoveries. Steady drumbeat of secondary pickup continues.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "9",
+        "value1": "7",
         "class1": "",
-        "period": "yesterday"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "29",
+        "value1": "37",
         "class1": "up",
         "label2": "sources",
-        "value2": "10",
+        "value2": "11",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22124 yesterday</strong> (3 new, 7 canceled) erased this week's modest gains, leaving March at <strong>net zero</strong> through six days\u2014flat at 0.0/day. The 90-day cumulative sits at <strong>+75 net</strong>. Recent two-week pattern shows volatility: Feb 24's \u22129 day was offset by gains Feb 23 (+5) and Feb 27 (+3), but this week opened soft with back-to-back negative days (\u22121, \u22124). Longer-term YTD pace of +1.1/day remains intact despite the churn.",
+      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) lifted March to <strong>+2 MTD</strong> (+0.3/day) after midweek churn. The 90-day cumulative now stands at <strong>+78 net</strong>. Past two weeks show whipsaw pattern: Feb 24's \u22129 massacre was countered by Feb 23's +5 and Feb 27's +3, but this week wobbled (\u22121, \u22124) before Friday's rebound. Longer-term YTD pace of +1.1/day remains above MTD run rate despite volatility.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "0",
-      "net_ytd": "70",
-      "net_mtd_per_day": "0.0",
+      "net_mtd": "2",
+      "net_ytd": "72",
+      "net_mtd_per_day": "0.3",
       "net_ytd_per_day": "1.1"
     }
   }
