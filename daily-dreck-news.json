@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-03-07",
-  "fetched_at": "2026-03-07 02:05:57",
+  "fetched_at": "2026-03-07 04:22:38",
   "article_count": 20,
-  "breaking_count": 15,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "Denver weather: Pinpoint Weather Alert Day continues for snow, slick roads",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-pinpoint-weather-alert-day-continues-for-snow-slick-roads/",
+      "source": "Fox31",
+      "pub_date": "2026-03-07T03:06:57+00:00",
+      "age_hours": 1.2567612072222223,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "2 sentenced in 2024 shooting outside of the Denver Aquarium",
+      "link": "https://www.9news.com/article/news/crime/denver-aquarium-shooting-death-latest/73-c8e2c946-13bd-4232-a5ca-872a47758777",
+      "source": "9News",
+      "pub_date": "2026-03-07T02:33:37+00:00",
+      "age_hours": 1.8120846855555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Reading your Good News",
+      "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/reading-your-good-news/73-c379c367-bb58-4676-9b68-ab9801fb20bb",
+      "source": "9News",
+      "pub_date": "2026-03-07T02:08:28+00:00",
+      "age_hours": 2.2312513625,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Colorado snow totals: Here's how much snow has fallen",
       "link": "https://www.9news.com/article/weather/weather-impact/colorado-snow-totals-march-6/73-b1b9b1b6-ced2-4e68-ae90-1408a62090f5",
       "source": "9News",
       "pub_date": "2026-03-07T02:01:12+00:00",
-      "age_hours": 0.07442378916666666,
+      "age_hours": 2.3523624775000003,
       "breaking": true,
-      "time_ago": "4 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "A changed world; Next with Kyle Clark full show (3/6/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/a-changed-world-next-with-kyle-clark-full-show-3626/73-b577faec-48ea-4198-8037-a0a23a3f620c",
       "source": "9News",
       "pub_date": "2026-03-07T01:58:12+00:00",
-      "age_hours": 0.12442379972222223,
+      "age_hours": 2.402362481111111,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "What has changed in the 40 days since Denver's last snowfall",
       "link": "https://www.9news.com/article/weather/40-days-since-denvers-last-snowfall/73-89e38d4c-0c66-4ab9-89a4-22aa1f617002",
       "source": "9News",
       "pub_date": "2026-03-07T01:55:11+00:00",
-      "age_hours": 0.17470158277777778,
+      "age_hours": 2.4526402627777775,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Proposal would bring FRCC to downtown Longmont",
       "link": "https://bizwest.com/2026/03/06/proposal-would-bring-frcc-to-downtown-longmont/",
       "source": "BizWest",
       "pub_date": "2026-03-07T01:41:18+00:00",
-      "age_hours": 0.4054094486111111,
+      "age_hours": 2.683466547222222,
       "breaking": true,
-      "time_ago": "24 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "JBS meatpackers in Greeley move closer to strike",
       "link": "https://bizwest.com/2026/03/06/jbs-meatpackers-in-greeley-move-closer-to-strike/",
       "source": "BizWest",
       "pub_date": "2026-03-07T00:46:16+00:00",
-      "age_hours": 1.3226316822222222,
+      "age_hours": 3.6006887797222222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Snowstorm delays more than 1,200 flights at DIA, FAA issues ground delay",
       "link": "https://kdvr.com/news/local/snowstorm-delays-more-than-1200-flights-at-dia-faa-issues-ground-delay/",
       "source": "Fox31",
       "pub_date": "2026-03-07T00:01:36+00:00",
-      "age_hours": 2.0679923263888886,
+      "age_hours": 4.345927908055556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Brothers sentenced in deadly aquarium drive-by shooting",
       "link": "https://kdvr.com/news/local/brothers-sentenced-in-deadly-aquarium-drive-by-shooting/",
       "source": "Fox31",
       "pub_date": "2026-03-07T00:00:39+00:00",
-      "age_hours": 2.0838256644444444,
+      "age_hours": 4.361761195277778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Saks Global to shutter 15 more department stores in bankruptcy restructuring",
       "link": "https://www.dailycamera.com/2026/03/06/us-saks-store-closing/",
       "source": "Daily Camera",
       "pub_date": "2026-03-06T23:32:23+00:00",
-      "age_hours": 2.554538367222222,
+      "age_hours": 4.8325496872222224,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "More than 1,200 flight delays at Denver airport as snow impacts Colorado's Front Range",
       "link": "https://www.9news.com/article/weather/weather-impact/flight-delays-canceled-denver-airport-snow/73-7eae5160-8dac-4767-89d9-1d66bd2e0c41",
       "source": "9News",
       "pub_date": "2026-03-06T23:03:05+00:00",
-      "age_hours": 3.0430349580555554,
+      "age_hours": 5.320973633333333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Retail Recon: We shopped 5 grocery stores to test prices online vs in store",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/grocery-stores-prices-online-vs-store/73-8fc36e32-bd69-47ca-a0fb-751373008d50",
       "source": "9News",
       "pub_date": "2026-03-06T22:54:52+00:00",
-      "age_hours": 3.179979406388889,
+      "age_hours": 5.457918081388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Federal judge dismisses developer\u2019s challenge to Denver affordable housing ordinances",
       "link": "https://www.coloradopolitics.com/2026/03/06/federal-judge-dismisses-developers-challenge-to-denver-affordable-housing-ordinances/",
       "source": "CO Politics",
       "pub_date": "2026-03-06T22:10:18+00:00",
-      "age_hours": 3.923392753888889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.201282034444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Another TABOR fight: Democrats plan to redirect refunds to Colorado residents",
       "link": "https://www.coloradopolitics.com/2026/03/06/another-tabor-fight-democrats-plan-to-redirect-refunds-to-colorado-residents/",
       "source": "CO Politics",
       "pub_date": "2026-03-06T22:00:50+00:00",
-      "age_hours": 4.081170550555555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.359059824722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Aurora buys Weld County farm, water rights",
       "link": "https://bizwest.com/2026/03/06/aurora-buys-weld-county-farm-water-rights/",
       "source": "BizWest",
       "pub_date": "2026-03-06T21:38:47+00:00",
-      "age_hours": 4.44735391,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.725411006666667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Why did Sundance choose Boulder?",
       "link": "https://bizwest.com/2026/03/06/why-did-sundance-choose-boulder/",
       "source": "BizWest",
       "pub_date": "2026-03-06T20:50:29+00:00",
-      "age_hours": 5.252353912777777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.5304110105555555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "\u2018Sex and the City\u2019 star Kristin Davis to give CU commencement",
       "link": "https://bizwest.com/2026/03/06/sex-and-the-city-star-kristin-davis-to-give-cu-commencement/",
       "source": "BizWest",
       "pub_date": "2026-03-06T20:42:16+00:00",
-      "age_hours": 5.389298360000001,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.667355458333334,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Victim of Denver homicide identified",
       "link": "https://www.9news.com/article/news/crime/police-investigate-homicide-denver/73-1de50840-1e9d-4307-861a-80d42482fb1d",
       "source": "9News",
       "pub_date": "2026-03-06T19:53:19+00:00",
-      "age_hours": 6.205812779444445,
+      "age_hours": 8.483751446388888,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Investigation into January fuel mixup complete, report out Friday from CO Department of Labor and Employment",
       "link": "https://www.denver7.com/money/consumer/investigation-into-january-fuel-mixup-complete-report-out-friday-from-co-department-of-labor-and-employment",
       "source": "Denver7",
       "pub_date": "2026-03-06T19:48:38+00:00",
-      "age_hours": 6.283968768888889,
+      "age_hours": 8.561932163333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Colorado Lawmakers Approve Bill To Allow Medical Marijuana Use In Hospitals By Terminally Ill Patients",
-      "link": "https://www.marijuanamoment.net/colorado-lawmakers-approve-bill-to-allow-medical-marijuana-use-in-hospitals-by-terminally-ill-patients/",
-      "source": "MJ Moment",
-      "pub_date": "2026-03-06T19:21:28+00:00",
-      "age_hours": 6.7391255333333335,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Buyers return in February as Denver home prices dip and inventory climbs",
-      "link": "https://www.denverpost.com/2026/03/06/february-home-sales-surge-real-estate-voices/",
-      "source": "Denver Post",
-      "pub_date": "2026-03-06T19:01:12+00:00",
-      "age_hours": 7.07364868,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Despite not-so-snowy winter, Waymo still steering toward 2026 Denver rollout",
-      "link": "https://www.denver7.com/money/science-and-tech/despite-not-so-snowy-winter-waymo-still-steering-toward-2026-denver-rollout",
-      "source": "Denver7",
-      "pub_date": "2026-03-06T18:23:51+00:00",
-      "age_hours": 7.697024334722222,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
