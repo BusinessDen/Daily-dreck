@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-03-07",
-  "fetched_at": "2026-03-07 23:25:16",
+  "fetched_date": "2026-03-08",
+  "fetched_at": "2026-03-08 02:23:34",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Colorado snow totals: Here's how much snow has fallen",
+      "link": "https://www.9news.com/article/weather/weather-impact/colorado-snow-totals-march-6/73-b1b9b1b6-ced2-4e68-ae90-1408a62090f5",
+      "source": "9News",
+      "pub_date": "2026-03-08T01:39:43+00:00",
+      "age_hours": 0.726884475,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
+    {
+      "title": "Denver weather: Sunny and warmer on Sunday",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-warmer-on-sunday/",
+      "source": "Fox31",
+      "pub_date": "2026-03-08T01:04:00+00:00",
+      "age_hours": 1.322312778611111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver restaurant's stolen sign returned thanks to anonymous tipster",
       "link": "https://kdvr.com/news/denver-restaurants-stolen-sign-returned-thanks-to-anonymous-tipster/",
       "source": "Fox31",
       "pub_date": "2026-03-07T20:55:56+00:00",
-      "age_hours": 2.4844523330555557,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "The sun is out and the melt has begun around the Denver metro area",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-07T18:17:59+00:00",
-      "age_hours": 5.116787642777778,
+      "age_hours": 5.4567572052777775,
       "breaking": true,
       "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Denver weather: Let the melting commence",
-      "link": "https://kdvr.com/news/local/denver-weather-let-the-melting-commence/",
-      "source": "Fox31",
-      "pub_date": "2026-03-07T16:55:07+00:00",
-      "age_hours": 6.498063463888889,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
     },
     {
       "title": "Loveland Habitat opens homeownership application cycle",
       "link": "https://bizwest.com/2026/03/07/loveland-habitat-opens-homeownership-application-cycle/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:38:28+00:00",
-      "age_hours": 6.774817925277778,
+      "age_hours": 9.746010842777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Animal Friends Alliance launches $1.1M capital campaign",
       "link": "https://bizwest.com/2026/03/07/animal-friends-alliance-launches-1-1m-capital-campaign/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:25:03+00:00",
-      "age_hours": 6.998429045,
+      "age_hours": 9.969621962222224,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Human Bean fundraiser to benefit Greeley Creative District",
       "link": "https://bizwest.com/2026/03/07/human-bean-fundraiser-to-benefit-greeley-creative-district/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:13:46+00:00",
-      "age_hours": 7.186484604444444,
+      "age_hours": 10.157677521666667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Nonprofit Spotlight: Trash the Runway",
       "link": "https://bizwest.com/2026/03/07/nonprofit-spotlight-trash-the-runway/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:05:30+00:00",
-      "age_hours": 7.324262385277778,
+      "age_hours": 10.295455302499999,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Telluride Ski Resort sues town officials, alleging they \u2018harassed and pressured\u2019 ownership to sell",
       "link": "https://www.denverpost.com/2026/03/07/telluride-ski-resort-lawsuit-mountain-village/",
       "source": "Denver Post",
       "pub_date": "2026-03-07T13:00:09+00:00",
-      "age_hours": 10.413407329999998,
+      "age_hours": 13.384556751944444,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "$9M Country Club sale tops February home transactions",
       "link": "https://www.denverpost.com/2026/03/07/country-club-top-february-home-transactions/",
       "source": "Denver Post",
       "pub_date": "2026-03-07T13:00:03+00:00",
-      "age_hours": 10.415074007500001,
+      "age_hours": 13.386223429166668,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Colorado snow totals: Here's how much snow has fallen",
-      "link": "https://www.9news.com/article/weather/weather-impact/colorado-snow-totals-march-6/73-b1b9b1b6-ced2-4e68-ae90-1408a62090f5",
-      "source": "9News",
-      "pub_date": "2026-03-07T12:59:38+00:00",
-      "age_hours": 10.42262100361111,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Gas prices more than 40 cents higher per gallon than last week's national average",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/gas-prices-jump-per-gallon-week-us-israeli-strikes-iran-middle-east-conflict/507-7179d4ad-5c16-443d-94f2-b54849a95b42",
       "source": "9News",
       "pub_date": "2026-03-07T12:56:47+00:00",
-      "age_hours": 10.4701210075,
+      "age_hours": 13.442440094444445,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Democrats eye new taxes on alcohol, marijuana to fund Colorado mental health spending",
       "link": "https://www.coloradopolitics.com/2026/03/07/democrats-eye-new-taxes-on-alcohol-marijuana-to-fund-colorado-mental-health-spending/",
       "source": "CO Politics",
       "pub_date": "2026-03-07T12:00:00+00:00",
-      "age_hours": 11.416965338055554,
+      "age_hours": 14.389319579444445,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "As a Medical Cannabis Patient, I\u2019m Watching This Supreme Court Case Closely",
       "link": "https://www.westword.com/opinion/colorado-cannabis-patients-monitor-hemani-scotus-case-40853580/",
       "source": "Westword",
       "pub_date": "2026-03-07T07:52:00-07:00",
-      "age_hours": 8.55008961611111,
+      "age_hours": 11.522500872777778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Every Opening and Closing This Week: Eight New Additions",
       "link": "https://www.westword.com/food-drink/new-denver-restaurants-debuted-this-week-including-wapos-cantina-40853433/",
       "source": "Westword",
       "pub_date": "2026-03-07T07:04:00-07:00",
-      "age_hours": 9.350089626111112,
+      "age_hours": 12.322500884166667,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Photos: Annual Longmont Area Chamber of Commerce Business Excellence Awards",
       "link": "https://www.dailycamera.com/2026/03/06/photos-annual-longmont-chamber-of-commerce-business-excellence-awards/",
       "source": "Daily Camera",
       "pub_date": "2026-03-07T06:04:05+00:00",
-      "age_hours": 17.348290571666666,
+      "age_hours": 20.320622439999998,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Denver keeps cold weather shelter closed during snowstorm after previously fighting to open it",
       "link": "https://www.9news.com/article/weather/weather-colorado/denver-cold-weather-shelter-closed-snow/73-1f1af463-35b6-485c-ad7d-027ad9513b2e",
       "source": "9News",
       "pub_date": "2026-03-07T05:52:48+00:00",
-      "age_hours": 17.5365099025,
+      "age_hours": 20.508828990277777,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Colorado businesses honor CU quarterback Dominiq Ponder with heartfelt floral arrangements",
       "link": "https://www.9news.com/article/sports/ncaa/colorado-buffaloes/colorado-businesses-honor-cu-quarterback-dominiq-ponder-with-heartfelt-floral-arrangements/73-2cf3f2a4-1a24-4358-9131-98ecf4932f61",
       "source": "9News",
       "pub_date": "2026-03-07T05:27:15+00:00",
-      "age_hours": 17.962343239166668,
+      "age_hours": 20.93466232722222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "2 sentenced in 2024 shooting outside of the Denver Aquarium",
       "link": "https://www.9news.com/article/news/crime/denver-aquarium-shooting-death-latest/73-c8e2c946-13bd-4232-a5ca-872a47758777",
       "source": "9News",
       "pub_date": "2026-03-07T02:33:37+00:00",
-      "age_hours": 20.85623215,
+      "age_hours": 23.828551237777777,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Reading your Good News",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/reading-your-good-news/73-c379c367-bb58-4676-9b68-ab9801fb20bb",
       "source": "9News",
       "pub_date": "2026-03-07T02:08:28+00:00",
-      "age_hours": 21.275398823055557,
+      "age_hours": 24.247717910555554,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "A changed world; Next with Kyle Clark full show (3/6/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/a-changed-world-next-with-kyle-clark-full-show-3626/73-b577faec-48ea-4198-8037-a0a23a3f620c",
       "source": "9News",
       "pub_date": "2026-03-07T01:58:12+00:00",
-      "age_hours": 21.4465099375,
+      "age_hours": 24.418829025277777,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "What has changed in the 40 days since Denver's last snowfall",
+      "link": "https://www.9news.com/article/weather/40-days-since-denvers-last-snowfall/73-89e38d4c-0c66-4ab9-89a4-22aa1f617002",
+      "source": "9News",
+      "pub_date": "2026-03-07T01:55:11+00:00",
+      "age_hours": 24.46910680638889,
+      "breaking": false,
+      "time_ago": "1 day ago"
     }
   ]
 }
