@@ -1,87 +1,87 @@
 {
   "fetched_date": "2026-03-08",
-  "fetched_at": "2026-03-08 15:26:52",
+  "fetched_at": "2026-03-08 16:31:55",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver weather: Sunny and even warmer Sunday",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-even-warmer-sunday/",
+      "source": "Fox31",
+      "pub_date": "2026-03-08T15:52:10+00:00",
+      "age_hours": 0.6583023527777777,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
     {
       "title": "The Boulder Chamber View: Breaking through, building anew",
       "link": "https://www.dailycamera.com/2026/03/08/the-boulder-chamber-view-breaking-through-building-anew/",
       "source": "Daily Camera",
       "pub_date": "2026-03-08T12:32:10+00:00",
-      "age_hours": 2.9069361977777777,
+      "age_hours": 3.991160337777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Farbers sell LoHi apartment development site for $9.5M",
       "link": "https://www.denverpost.com/2026/03/08/farbers-sell-lohi-apartment-site/",
       "source": "Denver Post",
       "pub_date": "2026-03-08T12:00:52+00:00",
-      "age_hours": 3.4279026958333336,
+      "age_hours": 4.511458050833333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "The Bookies Bookstore offers tales of food and fantasy",
       "link": "https://coloradosun.com/2026/03/08/the-bookies-bookstore-march-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-08T09:05:00+00:00",
-      "age_hours": 6.359740306111111,
+      "age_hours": 7.443965898055556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 3.7.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-3-7-26/",
       "source": "Sentinel",
       "pub_date": "2026-03-08T07:12:55+00:00",
-      "age_hours": 8.228567829444444,
+      "age_hours": 9.312856047222223,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Aurora state House Rep. Mandy Lindsay to face challenger Sarah Woodson in primary",
       "link": "https://sentinelcolorado.com/0trending/aurora-state-house-rep-mandy-lindsay-to-face-challenger-sarah-woodson-in-primary/",
       "source": "Sentinel",
       "pub_date": "2026-03-08T06:15:19+00:00",
-      "age_hours": 9.188567840277779,
+      "age_hours": 10.27285606111111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Police make 3 arrests in Denver homicide",
       "link": "https://www.9news.com/article/news/crime/police-investigate-homicide-denver/73-1de50840-1e9d-4307-861a-80d42482fb1d",
       "source": "9News",
       "pub_date": "2026-03-08T06:07:38+00:00",
-      "age_hours": 9.315993924166667,
+      "age_hours": 10.400270883333334,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "MSU Denver MBA students develop plan to sustain campus food pantry amid rising demand",
       "link": "https://www.9news.com/article/news/education/msu-denver-mba-students-campus-food-pantry/73-7957562a-e376-4430-88d4-b69a6bd2d43b",
       "source": "9News",
       "pub_date": "2026-03-08T05:25:13+00:00",
-      "age_hours": 10.022938375277779,
+      "age_hours": 11.107215335000001,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado snow totals: Here's how much snow has fallen",
       "link": "https://www.9news.com/article/weather/weather-impact/colorado-snow-totals-march-6/73-b1b9b1b6-ced2-4e68-ae90-1408a62090f5",
       "source": "9News",
       "pub_date": "2026-03-08T01:39:43+00:00",
-      "age_hours": 13.781271726944444,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Denver weather: Sunny and warmer on Sunday",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-warmer-on-sunday/",
-      "source": "Fox31",
-      "pub_date": "2026-03-08T01:04:00+00:00",
-      "age_hours": 14.376812089722224,
+      "age_hours": 14.865548683888889,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -90,52 +90,52 @@
       "link": "https://kdvr.com/news/denver-restaurants-stolen-sign-returned-thanks-to-anonymous-tipster/",
       "source": "Fox31",
       "pub_date": "2026-03-07T20:55:56+00:00",
-      "age_hours": 18.511256514166668,
+      "age_hours": 19.59552456611111,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Loveland Habitat opens homeownership application cycle",
       "link": "https://bizwest.com/2026/03/07/loveland-habitat-opens-homeownership-application-cycle/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:38:28+00:00",
-      "age_hours": 22.80135100861111,
+      "age_hours": 23.88483539583333,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Animal Friends Alliance launches $1.1M capital campaign",
       "link": "https://bizwest.com/2026/03/07/animal-friends-alliance-launches-1-1m-capital-campaign/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:25:03+00:00",
-      "age_hours": 23.02496213027778,
+      "age_hours": 24.108446518333334,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Human Bean fundraiser to benefit Greeley Creative District",
       "link": "https://bizwest.com/2026/03/07/human-bean-fundraiser-to-benefit-greeley-creative-district/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:13:46+00:00",
-      "age_hours": 23.213017690555553,
+      "age_hours": 24.296502079722224,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Nonprofit Spotlight: Trash the Runway",
       "link": "https://bizwest.com/2026/03/07/nonprofit-spotlight-trash-the-runway/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:05:30+00:00",
-      "age_hours": 23.350795471944444,
+      "age_hours": 24.434279862777778,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Telluride Ski Resort sues town officials, alleging they \u2018harassed and pressured\u2019 ownership to sell",
       "link": "https://www.denverpost.com/2026/03/07/telluride-ski-resort-lawsuit-mountain-village/",
       "source": "Denver Post",
       "pub_date": "2026-03-07T13:00:09+00:00",
-      "age_hours": 26.439847150555554,
+      "age_hours": 27.52340250472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.denverpost.com/2026/03/07/country-club-top-february-home-transactions/",
       "source": "Denver Post",
       "pub_date": "2026-03-07T13:00:03+00:00",
-      "age_hours": 26.441513821666668,
+      "age_hours": 27.525069175555558,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/gas-prices-jump-per-gallon-week-us-israeli-strikes-iran-middle-east-conflict/507-7179d4ad-5c16-443d-94f2-b54849a95b42",
       "source": "9News",
       "pub_date": "2026-03-07T12:56:47+00:00",
-      "age_hours": 26.496827330833334,
+      "age_hours": 27.581104295,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/03/07/democrats-eye-new-taxes-on-alcohol-marijuana-to-fund-colorado-mental-health-spending/",
       "source": "CO Politics",
       "pub_date": "2026-03-07T12:00:00+00:00",
-      "age_hours": 27.443821763055553,
+      "age_hours": 28.528106018333336,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.westword.com/opinion/colorado-cannabis-patients-monitor-hemani-scotus-case-40853580/",
       "source": "Westword",
       "pub_date": "2026-03-07T07:52:00-07:00",
-      "age_hours": 24.576892065,
+      "age_hours": 25.66121375138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.westword.com/food-drink/new-denver-restaurants-debuted-this-week-including-wapos-cantina-40853433/",
       "source": "Westword",
       "pub_date": "2026-03-07T07:04:00-07:00",
-      "age_hours": 25.376892076388888,
+      "age_hours": 26.46121376111111,
       "breaking": false,
       "time_ago": "1 day ago"
     }
