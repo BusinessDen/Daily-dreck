@@ -1,132 +1,168 @@
 {
   "fetched_date": "2026-03-09",
-  "fetched_at": "2026-03-09 11:36:41",
+  "fetched_at": "2026-03-09 13:08:35",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Deadly crash closes I-25 southbound north of Denver",
+      "link": "https://kdvr.com/news/local/i-25-southbound-closed-north-of-denver-due-to-crash/",
+      "source": "Fox31",
+      "pub_date": "2026-03-09T13:01:42+00:00",
+      "age_hours": 0.11016471694444445,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
+    {
+      "title": "Justice Department and Live Nation reach settlement over illegal monopoly case, AP source says",
+      "link": "https://www.dailycamera.com/2026/03/09/justice-department-live-nation-monopoly-settlement/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-09T12:59:25+00:00",
+      "age_hours": 0.14770533555555554,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "Wall Street follows global markets lower as Iran war briefly pushes crude prices near $120 a barrel",
+      "link": "https://www.dailycamera.com/2026/03/09/wall-street-crude-prices/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-09T12:17:48+00:00",
+      "age_hours": 0.8413164552777778,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
+    {
+      "title": "Resistance grows as developer seeks \u2018flagpole\u2019 annexation to Douglas County city for 3,650-home project",
+      "link": "https://www.denverpost.com/2026/03/09/castle-pines-crowsnest-annexation-opposition-growth/",
+      "source": "Denver Post",
+      "pub_date": "2026-03-09T12:00:42+00:00",
+      "age_hours": 1.124988683888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "2 taken to hospital after overnight hit-and-run crash",
+      "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-overnight-hit-and-run-crash/",
+      "source": "Fox31",
+      "pub_date": "2026-03-09T11:51:57+00:00",
+      "age_hours": 1.2726647352777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado Symphony to perform \u2018Pirates of the Caribbean\u2019 in concert",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-symphony-pirates-of-the-caribbean-concert/73-3c405b49-73d4-4151-8c23-63c043ff5291",
+      "source": "9News",
+      "pub_date": "2026-03-09T11:49:15+00:00",
+      "age_hours": 1.3172801944444446,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver weather: Mild Monday with a light breeze",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-mild-monday-with-a-light-breeze/",
       "source": "Fox31",
       "pub_date": "2026-03-09T11:32:31+00:00",
-      "age_hours": 0.06468274111111111,
+      "age_hours": 1.5965536358333334,
       "breaking": true,
-      "time_ago": "3 min ago"
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Energy prices soar to levels not seen in years as Iran names new supreme leader and digs in",
+      "link": "https://www.dailycamera.com/2026/03/09/us-iran-war-oil-prices/",
+      "source": "Daily Camera",
+      "pub_date": "2026-03-09T11:27:57+00:00",
+      "age_hours": 1.6721497922222224,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Nuggets face Thunder in anticipated rematch airing on KTVD Monday",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-thunder-rematch-ktvd-tv-start-time/73-43ea1300-cd74-4eca-b538-73d7e6537c05",
       "source": "9News",
       "pub_date": "2026-03-09T10:24:42+00:00",
-      "age_hours": 1.1947004841666666,
+      "age_hours": 2.726446878611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Can you be fined for walking your dog off leash in Denver?",
       "link": "https://coloradosun.com/2026/03/09/can-you-be-fined-for-walking-your-dog-off-leash-in-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-09T09:45:00+00:00",
-      "age_hours": 1.8561862322222222,
+      "age_hours": 3.3880152444444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Aurora lawmakers slated to debate homeless camping ban changes Monday",
       "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-slated-to-debate-homeless-camping-ban-changes-monday/",
       "source": "Sentinel",
       "pub_date": "2026-03-09T04:47:40+00:00",
-      "age_hours": 6.812689676388889,
+      "age_hours": 8.344554896111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Restaurant owner rescues child during recent Evergreen shooting",
       "link": "https://kdvr.com/news/local/restaurant-owner-rescues-child-during-recent-evergreen-shooting/",
       "source": "Fox31",
       "pub_date": "2026-03-08T22:34:34+00:00",
-      "age_hours": 13.030516081666667,
+      "age_hours": 14.562386972777777,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Police investigating overnight shooting, 1 taken to hospital",
       "link": "https://kdvr.com/news/local/police-investigating-overnight-shooting-1-taken-to-hospital/",
       "source": "Fox31",
       "pub_date": "2026-03-08T22:02:29+00:00",
-      "age_hours": 13.565238313333333,
+      "age_hours": 15.09710920138889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Ford recalls 1.74 million of its cars over rearview display issues",
       "link": "https://www.denverpost.com/2026/03/08/ford-recalls-broncos-edges-escapes-cosairs-aviators-explorers/",
       "source": "Denver Post",
       "pub_date": "2026-03-08T17:19:53+00:00",
-      "age_hours": 18.273874443333334,
+      "age_hours": 19.805266473055553,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Cheyenne\u2019s data-center boom",
       "link": "https://bizwest.com/2026/03/08/cheyennes-data-center-boom/",
       "source": "BizWest",
       "pub_date": "2026-03-08T17:10:06+00:00",
-      "age_hours": 18.436984004166664,
+      "age_hours": 19.968418143611114,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "The Boulder Chamber View: Breaking through, building anew",
       "link": "https://www.dailycamera.com/2026/03/08/the-boulder-chamber-view-breaking-through-building-anew/",
       "source": "Daily Camera",
       "pub_date": "2026-03-08T12:32:10+00:00",
-      "age_hours": 23.070006657777775,
+      "age_hours": 24.601872017222224,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Farbers sell LoHi apartment development site for $9.5M",
       "link": "https://www.denverpost.com/2026/03/08/farbers-sell-lohi-apartment-site/",
       "source": "Denver Post",
       "pub_date": "2026-03-08T12:00:52+00:00",
-      "age_hours": 23.59081889888889,
+      "age_hours": 25.122210921944443,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "The Bookies Bookstore offers tales of food and fantasy",
       "link": "https://coloradosun.com/2026/03/08/the-bookies-bookstore-march-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-08T09:05:00+00:00",
-      "age_hours": 26.52285294833333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Police make 3 arrests in Denver homicide",
-      "link": "https://www.9news.com/article/news/crime/police-investigate-homicide-denver/73-1de50840-1e9d-4307-861a-80d42482fb1d",
-      "source": "9News",
-      "pub_date": "2026-03-08T06:07:38+00:00",
-      "age_hours": 29.479145021944444,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "MSU Denver MBA students develop plan to sustain campus food pantry amid rising demand",
-      "link": "https://www.9news.com/article/news/education/msu-denver-mba-students-campus-food-pantry/73-7957562a-e376-4430-88d4-b69a6bd2d43b",
-      "source": "9News",
-      "pub_date": "2026-03-08T05:25:13+00:00",
-      "age_hours": 30.18608947027778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado snow totals: Here's how much snow has fallen",
-      "link": "https://www.9news.com/article/weather/weather-impact/colorado-snow-totals-march-6/73-b1b9b1b6-ced2-4e68-ae90-1408a62090f5",
-      "source": "9News",
-      "pub_date": "2026-03-08T01:39:43+00:00",
-      "age_hours": 33.94442281833333,
+      "age_hours": 28.054681976666668,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +171,7 @@
       "link": "https://kdvr.com/news/denver-restaurants-stolen-sign-returned-thanks-to-anonymous-tipster/",
       "source": "Fox31",
       "pub_date": "2026-03-07T20:55:56+00:00",
-      "age_hours": 38.674404987222225,
+      "age_hours": 40.206275875555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,43 +180,7 @@
       "link": "https://bizwest.com/2026/03/07/loveland-habitat-opens-homeownership-application-cycle/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:38:28+00:00",
-      "age_hours": 42.96420623666667,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Animal Friends Alliance launches $1.1M capital campaign",
-      "link": "https://bizwest.com/2026/03/07/animal-friends-alliance-launches-1-1m-capital-campaign/",
-      "source": "BizWest",
-      "pub_date": "2026-03-07T16:25:03+00:00",
-      "age_hours": 43.187817352500005,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Human Bean fundraiser to benefit Greeley Creative District",
-      "link": "https://bizwest.com/2026/03/07/human-bean-fundraiser-to-benefit-greeley-creative-district/",
-      "source": "BizWest",
-      "pub_date": "2026-03-07T16:13:46+00:00",
-      "age_hours": 43.375872924444444,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Nonprofit Spotlight: Trash the Runway",
-      "link": "https://bizwest.com/2026/03/07/nonprofit-spotlight-trash-the-runway/",
-      "source": "BizWest",
-      "pub_date": "2026-03-07T16:05:30+00:00",
-      "age_hours": 43.51365071027778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Telluride Ski Resort sues town officials, alleging they \u2018harassed and pressured\u2019 ownership to sell",
-      "link": "https://www.denverpost.com/2026/03/07/telluride-ski-resort-lawsuit-mountain-village/",
-      "source": "Denver Post",
-      "pub_date": "2026-03-07T13:00:09+00:00",
-      "age_hours": 46.602763348055554,
+      "age_hours": 44.49564037444444,
       "breaking": false,
       "time_ago": "1 day ago"
     }
