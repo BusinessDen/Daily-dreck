@@ -1,24 +1,33 @@
 {
   "fetched_date": "2026-03-09",
-  "fetched_at": "2026-03-09 18:56:45",
+  "fetched_at": "2026-03-09 19:42:46",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Effort to eliminate criminal penalties for prostitution in Colorado will be abandoned",
+      "link": "https://coloradosun.com/2026/03/09/colorado-prostitution-bill-abandoned/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-03-09T19:14:25+00:00",
+      "age_hours": 0.46733215499999997,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
     {
       "title": "Business Buzz: The real cost of Denver Restaurant Week and Colorado's housing recalibration",
       "link": "https://www.9news.com/article/money/business-brief/real-cost-denver-restaurant-week-colorados-housing-recalibration/73-b70b8128-f369-44f5-abc2-617169b49a65",
       "source": "9News",
       "pub_date": "2026-03-09T18:51:30+00:00",
-      "age_hours": 0.08336891555555556,
+      "age_hours": 0.8494418986111111,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "50 min ago"
     },
     {
       "title": "Keystone Condo Project Now Complete",
       "link": "https://milehighcre.com/keystone-condo-project-now-complete/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-09T17:52:09+00:00",
-      "age_hours": 1.0723632975,
+      "age_hours": 1.8383585108333333,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -27,7 +36,7 @@
       "link": "https://kdvr.com/news/local/nearly-century-old-tudor-house-in-denver-is-now-for-sale-for-4-8m/",
       "source": "Fox31",
       "pub_date": "2026-03-09T16:56:12+00:00",
-      "age_hours": 2.005285491388889,
+      "age_hours": 2.7713450355555556,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -36,7 +45,7 @@
       "link": "https://milehighcre.com/3850-blake-street-topping-out-marks-major-milestone-in-rino/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-09T16:54:54+00:00",
-      "age_hours": 2.026529974166667,
+      "age_hours": 2.7925251863888887,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://milehighcre.com/galloway-adds-new-mobility-practice/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-09T16:42:33+00:00",
-      "age_hours": 2.2323633113888888,
+      "age_hours": 2.9983585233333336,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -54,25 +63,25 @@
       "link": "https://milehighcre.com/604000-sf-of-denver-office-space-in-the-pipeline-in-2026/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-09T16:27:57+00:00",
-      "age_hours": 2.475696648888889,
+      "age_hours": 3.2416918597222226,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Was the March storm Denver's last snow of the season?",
       "link": "https://kdvr.com/weather/wx-news/was-the-march-storm-denvers-last-snow-of-the-season/",
       "source": "Fox31",
       "pub_date": "2026-03-09T16:13:00+00:00",
-      "age_hours": 2.7252854872222225,
+      "age_hours": 3.4913450302777775,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Broncos bring back 9 players: Here's who the team signed ahead of free agency",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-bring-back-players/73-8ea30612-b901-4841-be63-e7229e368f88",
       "source": "9News",
       "pub_date": "2026-03-09T13:54:48+00:00",
-      "age_hours": 5.028369014166667,
+      "age_hours": 5.794441982222223,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -81,25 +90,25 @@
       "link": "https://kdvr.com/sports/broncos-agree-to-a-3-year-18m-contract-with-inside-linebacker-justin-strnad-ap-source-says/",
       "source": "Fox31",
       "pub_date": "2026-03-09T13:25:07+00:00",
-      "age_hours": 5.523341090833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.2894006524999995,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Deadly crash closes I-25 southbound north of Denver for hours",
       "link": "https://kdvr.com/news/local/i-25-southbound-closed-north-of-denver-due-to-crash/",
       "source": "Fox31",
       "pub_date": "2026-03-09T13:01:42+00:00",
-      "age_hours": 5.913618801111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.679678341388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "2 taken to hospital after overnight crash",
       "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-overnight-hit-and-run-crash/",
       "source": "Fox31",
       "pub_date": "2026-03-09T11:51:57+00:00",
-      "age_hours": 7.0761188355555555,
+      "age_hours": 7.842178393055556,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-symphony-pirates-of-the-caribbean-concert/73-3c405b49-73d4-4151-8c23-63c043ff5291",
       "source": "9News",
       "pub_date": "2026-03-09T11:49:15+00:00",
-      "age_hours": 7.120869032777778,
+      "age_hours": 7.886942005277778,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -117,25 +126,25 @@
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-mild-monday-with-a-light-breeze/",
       "source": "Fox31",
       "pub_date": "2026-03-09T11:32:31+00:00",
-      "age_hours": 7.400007741666667,
+      "age_hours": 8.166067301111111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Downtown Tasting-Menu Spot Shutters Four Months After Reopening",
       "link": "https://www.westword.com/food-drink/market-street-tasting-menu-restaurant-the-guest-closes-abruptly-40854879/",
       "source": "Westword",
       "pub_date": "2026-03-09T11:00:56-06:00",
-      "age_hours": 1.9265901233333333,
+      "age_hours": 2.692714844722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Can you be fined for walking your dog off leash in Denver?",
       "link": "https://coloradosun.com/2026/03/09/can-you-be-fined-for-walking-your-dog-off-leash-in-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-09T09:45:00+00:00",
-      "age_hours": 9.191654484166667,
+      "age_hours": 9.95761157777778,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://www.westword.com/news/colorado-push-cannabis-friendly-events-clears-first-vote-40853281/",
       "source": "Westword",
       "pub_date": "2026-03-09T09:44:49-06:00",
-      "age_hours": 3.195201253888889,
+      "age_hours": 3.9613259694444443,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -153,34 +162,25 @@
       "link": "https://kdvr.com/news/local/restaurant-owner-rescues-child-during-recent-evergreen-shooting/",
       "source": "Fox31",
       "pub_date": "2026-03-08T22:34:34+00:00",
-      "age_hours": 20.36584108138889,
+      "age_hours": 21.1319006425,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Police investigating overnight shooting, 1 taken to hospital",
       "link": "https://kdvr.com/news/local/police-investigating-overnight-shooting-1-taken-to-hospital/",
       "source": "Fox31",
       "pub_date": "2026-03-08T22:02:29+00:00",
-      "age_hours": 20.900563309722223,
+      "age_hours": 21.666622871111112,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Cheyenne\u2019s data-center boom",
       "link": "https://bizwest.com/2026/03/08/cheyennes-data-center-boom/",
       "source": "BizWest",
       "pub_date": "2026-03-08T17:10:06+00:00",
-      "age_hours": 25.772733995277775,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver restaurant's stolen sign returned thanks to anonymous tipster",
-      "link": "https://kdvr.com/news/denver-restaurants-stolen-sign-returned-thanks-to-anonymous-tipster/",
-      "source": "Fox31",
-      "pub_date": "2026-03-07T20:55:56+00:00",
-      "age_hours": 46.00972998694445,
+      "age_hours": 26.53875874388889,
       "breaking": false,
       "time_ago": "1 day ago"
     }
