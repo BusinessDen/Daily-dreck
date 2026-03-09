@@ -1,27 +1,27 @@
 {
-  "generated_date": "2026-03-08",
-  "lead_headline": "Restaurant intel surges with 4 new leads Sunday\u2014C Burger smashburgers debut at McGregor Square, 303 Ramen sidelined by attic fire\u2014while foreclosures cool to 33 filings, down a third week-over-week.",
+  "generated_date": "2026-03-09",
+  "lead_headline": "Weekend restaurant sweep nets 7 new leads\u2014C Burger, China BBQ, Dunkin' openings offset 303 Ramen fire closure\u2014as foreclosure filings slide 33% to 33 cases.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>4 new leads today</strong> expand the active roster to <strong>25 leads</strong> (11 openings, 14 closures). Fresh detections: <strong>C Burger</strong> (regenerative smashburgers from Half Eaten Cookie) launched at Union Station's McGregor Square this week. <strong>Wapos Cantina</strong> opened in Rosedale, replacing El Tepehuan with Boulder-chain tacos. <strong>Mendocino Farms</strong> debuted its third Denver sandwich shop at Union Station. Casualties: <strong>303 Ramen</strong> in Regis sustained attic fire damage March 3, <strong>Powered By Besitos</strong> food truck shuttered permanently on West Colfax.",
+      "blurb": "<strong>7 new leads since Friday</strong> push the active tracker to <strong>28 total</strong> (14 openings, 14 closures). Weekend openings: <strong>China BBQ</strong> launched in Chaffee Park, <strong>The Barn South Broadway</strong> debuted in Rosedale, <strong>Dunkin'</strong> popped up in Regis at the old Church's Chicken site. <strong>C Burger</strong> (regenerative beef smashburgers) hit McGregor Square Saturday. Closures: <strong>Sawa Mediterranean</strong> pivoted to catering-only near DU. <strong>303 Ramen</strong> remains sidelined post-fire, <strong>Colfax and Cream</strong> shuttered both Capitol Hill and Wash Park West locations after rapid 2025 expansion imploded.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+4",
         "label2": "closed",
-        "value2": "\u22122",
-        "period": "today"
+        "value2": "\u22123",
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "11",
+        "value1": "+14",
         "label2": "closed",
-        "value2": "14",
-        "period": "all leads"
+        "value2": "\u221214",
+        "period": "this week"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>33 new filings</strong> this week\u2014down <strong>33%</strong> from prior week's 49, marking second consecutive decline. Combined exposure: <strong>$11.1M</strong>, no filings above $2M. Highest case: <strong>$628K</strong> Douglas County property at 5118 Lumos Lane. <strong>43 auctions</strong> queued for next seven days. Weld County maintains lead with 315 active cases, Arapahoe at 290. Two-week cooldown suggests filing pace normalizing after February spike.",
+      "blurb": "<strong>33 new filings</strong> this week\u2014down <strong>33%</strong> from last week's 49, extending the retreat from February's spike. Total exposure: <strong>$11.1M</strong>, with top case at <strong>$628K</strong> (Douglas County's 5118 Lumos Lane). <strong>43 auctions</strong> teed up for next seven days. Weld County anchors the docket at 315 active cases, Arapahoe trails at 290. Three-week deceleration confirms filing pace normalizing after winter surge\u2014market cooling or just a breather before spring remains the question.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -46,30 +46,30 @@
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>3 mentions yesterday</strong> bring the rolling seven-day count to <strong>40 citations</strong> across 13 unique sources\u2014unchanged total from prior week but representing entire tracking history. <strong>Denver Post</strong> remains dominant with 16 pickups, followed by Hoodline (5) and social platforms (Facebook, Instagram, X with 11 combined). Saturday highlights: Post's $9M Country Club home sale, Palantir's Denver-to-Miami relocation coverage, Hoodline's Golden Triangle landlord incentive story. Google News RSS captured 39 of 40 discoveries.",
+      "blurb": "<strong>2 mentions today</strong> cap a <strong>45-citation week</strong> across 14 unique sources\u2014all of it representing the tracker's entire lifespan since launch. <strong>Denver Post</strong> dominates with 18 pickups, Facebook grabs 6, Hoodline adds 5. Monday highlights: Post's Denver coverage index page, Facebook share of Live Nation/Ticketmaster antitrust allegations. Google News RSS captured 44 of 45 total discoveries. Week's breakout: tracker went from zero to operational, establishing baseline but lacking historical comparison for trend analysis.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
+        "value1": "2",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "40",
-        "class1": "",
+        "value1": "45",
+        "class1": "up",
         "label2": "sources",
-        "value2": "13",
+        "value2": "14",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled) holds March at <strong>+2 MTD</strong> (+0.3/day), while 90-day cumulative reaches <strong>+74 net</strong>. Weekend pause follows Thursday's \u22124 bleed and Friday's +2 recovery. Past fortnight reveals choppy water: Feb 24's brutal \u22129 day preceded a +12 four-day rally (Feb 25-27, Mar 1-2), but this week stumbled with back-to-back negatives (\u22121, \u22124) before stabilizing. YTD pace of +1.1/day still outpaces March's anemic run rate despite two-week volatility.",
+      "blurb": "<strong>Net +3 since Friday</strong> (4 new, 1 canceled) lifts March to <strong>+3 MTD</strong> (+0.4/day), with <strong>90-day cumulative at +71</strong>. Weekend steadied the ship after last week's Thursday \u22124 wobble. Past two weeks paint volatility: Feb 24's catastrophic \u22129 preceded a robust +12 five-day run, but early March stumbled with back-to-back negatives before Friday-Sunday's +3 recovery. YTD pace of +1.1/day still outperforms March's tepid 0.4 rate\u2014question is whether weekend momentum signals stabilization or just noise.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "2",
-      "net_ytd": "72",
-      "net_mtd_per_day": "0.3",
+      "net_mtd": "3",
+      "net_ytd": "73",
+      "net_mtd_per_day": "0.4",
       "net_ytd_per_day": "1.1"
     }
   }
