@@ -1,123 +1,114 @@
 {
   "fetched_date": "2026-03-09",
-  "fetched_at": "2026-03-09 04:53:24",
+  "fetched_at": "2026-03-09 05:59:27",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 2,
   "articles": [
     {
       "title": "Aurora lawmakers slated to debate homeless camping ban changes Monday",
       "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-slated-to-debate-homeless-camping-ban-changes-monday/",
       "source": "Sentinel",
       "pub_date": "2026-03-09T04:47:40+00:00",
-      "age_hours": 0.09146537083333332,
+      "age_hours": 1.1921214141666665,
       "breaking": true,
-      "time_ago": "5 min ago"
-    },
-    {
-      "title": "FACT CHECK: Economic reality belies Trump\u2019s claims of a \u2018roaring economy\u2019",
-      "link": "https://sentinelcolorado.com/nation-world/nation/fact-check-economic-reality-belies-trumps-claims-of-a-roaring-economy/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-09T02:20:40+00:00",
-      "age_hours": 2.541465428611111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver weather: Sunny and warmer start to the workweek",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-warmer-start-to-the-workweek-3/",
       "source": "Fox31",
       "pub_date": "2026-03-09T00:21:33+00:00",
-      "age_hours": 4.526265818888889,
+      "age_hours": 5.627073217777778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Restaurant owner rescues child during recent Evergreen shooting",
       "link": "https://kdvr.com/news/local/restaurant-owner-rescues-child-during-recent-evergreen-shooting/",
       "source": "Fox31",
       "pub_date": "2026-03-08T22:34:34+00:00",
-      "age_hours": 6.309321355277778,
+      "age_hours": 7.4101287566666665,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Police investigating overnight shooting, 1 taken to hospital",
       "link": "https://kdvr.com/news/local/police-investigating-overnight-shooting-1-taken-to-hospital/",
       "source": "Fox31",
       "pub_date": "2026-03-08T22:02:29+00:00",
-      "age_hours": 6.844043593055556,
+      "age_hours": 7.944850991666667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Ford recalls 1.74 million of its cars over rearview display issues",
       "link": "https://www.denverpost.com/2026/03/08/ford-recalls-broncos-edges-escapes-cosairs-aviators-explorers/",
       "source": "Denver Post",
       "pub_date": "2026-03-08T17:19:53+00:00",
-      "age_hours": 11.552780662222222,
+      "age_hours": 12.653992876111111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Cheyenne\u2019s data-center boom",
       "link": "https://bizwest.com/2026/03/08/cheyennes-data-center-boom/",
       "source": "BizWest",
       "pub_date": "2026-03-08T17:10:06+00:00",
-      "age_hours": 11.71588549,
+      "age_hours": 12.81711415388889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "The Boulder Chamber View: Breaking through, building anew",
       "link": "https://www.dailycamera.com/2026/03/08/the-boulder-chamber-view-breaking-through-building-anew/",
       "source": "Daily Camera",
       "pub_date": "2026-03-08T12:32:10+00:00",
-      "age_hours": 16.34893133111111,
+      "age_hours": 17.44977200472222,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Farbers sell LoHi apartment development site for $9.5M",
       "link": "https://www.denverpost.com/2026/03/08/farbers-sell-lohi-apartment-site/",
       "source": "Denver Post",
       "pub_date": "2026-03-08T12:00:52+00:00",
-      "age_hours": 16.869725115555553,
+      "age_hours": 17.97093733388889,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "The Bookies Bookstore offers tales of food and fantasy",
       "link": "https://coloradosun.com/2026/03/08/the-bookies-bookstore-march-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-08T09:05:00+00:00",
-      "age_hours": 19.80173791388889,
+      "age_hours": 20.902590553055557,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Police make 3 arrests in Denver homicide",
       "link": "https://www.9news.com/article/news/crime/police-investigate-homicide-denver/73-1de50840-1e9d-4307-861a-80d42482fb1d",
       "source": "9News",
       "pub_date": "2026-03-08T06:07:38+00:00",
-      "age_hours": 22.757995158611113,
+      "age_hours": 23.858793976666668,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "MSU Denver MBA students develop plan to sustain campus food pantry amid rising demand",
       "link": "https://www.9news.com/article/news/education/msu-denver-mba-students-campus-food-pantry/73-7957562a-e376-4430-88d4-b69a6bd2d43b",
       "source": "9News",
       "pub_date": "2026-03-08T05:25:13+00:00",
-      "age_hours": 23.464939610000002,
+      "age_hours": 24.565738427777777,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado snow totals: Here's how much snow has fallen",
       "link": "https://www.9news.com/article/weather/weather-impact/colorado-snow-totals-march-6/73-b1b9b1b6-ced2-4e68-ae90-1408a62090f5",
       "source": "9News",
       "pub_date": "2026-03-08T01:39:43+00:00",
-      "age_hours": 27.223272958888888,
+      "age_hours": 28.324071777500002,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +117,7 @@
       "link": "https://kdvr.com/news/denver-restaurants-stolen-sign-returned-thanks-to-anonymous-tipster/",
       "source": "Fox31",
       "pub_date": "2026-03-07T20:55:56+00:00",
-      "age_hours": 31.95321027138889,
+      "age_hours": 33.054017684444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +126,7 @@
       "link": "https://bizwest.com/2026/03/07/loveland-habitat-opens-homeownership-application-cycle/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:38:28+00:00",
-      "age_hours": 36.24310772,
+      "age_hours": 37.34433638861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +135,7 @@
       "link": "https://bizwest.com/2026/03/07/animal-friends-alliance-launches-1-1m-capital-campaign/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:25:03+00:00",
-      "age_hours": 36.46671883416667,
+      "age_hours": 37.56794750583333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +144,7 @@
       "link": "https://bizwest.com/2026/03/07/human-bean-fundraiser-to-benefit-greeley-creative-district/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:13:46+00:00",
-      "age_hours": 36.65477439222222,
+      "age_hours": 37.75600306638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +153,7 @@
       "link": "https://bizwest.com/2026/03/07/nonprofit-spotlight-trash-the-runway/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:05:30+00:00",
-      "age_hours": 36.7925521725,
+      "age_hours": 37.89378084916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +162,7 @@
       "link": "https://www.denverpost.com/2026/03/07/telluride-ski-resort-lawsuit-mountain-village/",
       "source": "Denver Post",
       "pub_date": "2026-03-07T13:00:09+00:00",
-      "age_hours": 39.88166956444445,
+      "age_hours": 40.98288178611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +171,16 @@
       "link": "https://www.denverpost.com/2026/03/07/country-club-top-february-home-transactions/",
       "source": "Denver Post",
       "pub_date": "2026-03-07T13:00:03+00:00",
-      "age_hours": 39.88333623388889,
+      "age_hours": 40.984548458333336,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Democrats eye new taxes on alcohol, marijuana to fund Colorado mental health spending",
+      "link": "https://www.coloradopolitics.com/2026/03/07/democrats-eye-new-taxes-on-alcohol-marijuana-to-fund-colorado-mental-health-spending/",
+      "source": "CO Politics",
+      "pub_date": "2026-03-07T12:00:00+00:00",
+      "age_hours": 41.98647974861111,
       "breaking": false,
       "time_ago": "1 day ago"
     }
