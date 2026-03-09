@@ -121,6 +121,13 @@ def load_restaurant_data():
 
     # Fetch Claude-reviewed leads from claude-reviews.json
     reviews_data = fetch_json_url("https://businessden.github.io/Restaurant-tracker/claude-reviews.json")
+    # On Monday, "today" means Friday through today (weekend recap)
+    is_monday = datetime.now().strftime("%A") == "Monday"
+    if is_monday:
+        recent_cutoff = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")  # Friday
+    else:
+        recent_cutoff = yesterday
+
     leads = []
     leads_today = 0
     leads_today_openings = 0
@@ -138,7 +145,7 @@ def load_restaurant_data():
                 leads_openings += 1
             elif is_closure:
                 leads_closures += 1
-            if lead.get("change_date", "") == today or lead.get("change_date", "") == yesterday:
+            if lead.get("change_date", "") >= recent_cutoff:
                 leads_today += 1
                 if is_opening:
                     leads_today_openings += 1
@@ -387,16 +394,22 @@ def load_subscriber_data():
                 total_canceled += count
         return total_new, total_canceled, total_new - total_canceled
 
-    # Today's net (fall back to yesterday)
-    today_new = daily_new.get(today, 0)
-    today_canceled = daily_canceled.get(today, 0)
-    today_net = today_new - today_canceled
-    net_day_label = "today"
-    if today_new == 0 and today_canceled == 0:
-        today_new = daily_new.get(yesterday, 0)
-        today_canceled = daily_canceled.get(yesterday, 0)
+    # Today's net (fall back to yesterday, or weekend on Monday)
+    is_monday_sub = datetime.now().strftime("%A") == "Monday"
+    if is_monday_sub:
+        friday = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")
+        today_new, today_canceled, today_net = net_for_range(friday, today)
+        net_day_label = "since Friday"
+    else:
+        today_new = daily_new.get(today, 0)
+        today_canceled = daily_canceled.get(today, 0)
         today_net = today_new - today_canceled
-        net_day_label = "yesterday"
+        net_day_label = "today"
+        if today_new == 0 and today_canceled == 0:
+            today_new = daily_new.get(yesterday, 0)
+            today_canceled = daily_canceled.get(yesterday, 0)
+            today_net = today_new - today_canceled
+            net_day_label = "yesterday"
 
     # Period stats
     new_7d, canceled_7d, net_7d = net_for_range(seven_days_ago, today)
@@ -616,14 +629,27 @@ IMPORTANT:
 - For subscriptions: START with today's net change (e.g. "Net +3 yesterday"), then state impact on MTD number, then 90-day net. Then describe the recent 1-2 week trend vs the longer-term pattern. Keep it factual and concise."""
 
     # Build the user prompt with data
+    day_of_week = datetime.now().strftime("%A")
+    is_monday = day_of_week == "Monday"
+
     prompt_parts = [f"Today is {today_str}.\n"]
+
+    if is_monday:
+        prompt_parts.append("""** MONDAY BRIEFING **
+This is the Monday edition. The last summaries were generated Friday morning.
+Your blurbs should cover everything that happened since Friday — the full weekend window (Friday, Saturday, Sunday).
+Frame the narrative as a weekend recap: "Over the weekend..." or "Since Friday..." — help the team catch up on what they missed.
+All data below includes the weekend period.
+""")
+
+    daily_period_label = "since Friday" if is_monday else "today"
 
     if restaurant_data:
         prompt_parts.append(f"""RESTAURANT DATA:
 
 CLAUDE-VERIFIED LEADS (the PRIMARY focus of the blurb — these are from the Leads tab):
 - Total active leads: {restaurant_data['leads_total']} ({restaurant_data['leads_openings']} openings, {restaurant_data['leads_closures']} closures/temp closures)
-- New leads today: {restaurant_data['leads_today']}
+- New leads {daily_period_label}: {restaurant_data['leads_today']}
 - Lead details: {json.dumps(restaurant_data['leads_detail'], indent=2)}
 
 CONFIRMED CHANGES (secondary context):
@@ -636,7 +662,8 @@ BLURB RULES:
 - Mention both openings and closures separately if both exist
 - Use the lead summaries to add color (e.g. "former location of X" or "chain expanding from Boulder")
 - Only fall back to confirmed stats if there are ZERO leads
-- For the ticker: value1 in ticker_daily = leads_today; value1 in ticker_weekly = leads_total
+- For the ticker: ticker_daily period = "{daily_period_label}", value1 = opening leads {daily_period_label}, value2 = closure leads {daily_period_label}
+- For the ticker: ticker_weekly period = "this week", value1 = total opening leads, value2 = total closure leads
 """)
     else:
         prompt_parts.append("RESTAURANT DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
