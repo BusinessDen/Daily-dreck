@@ -1,96 +1,105 @@
 {
   "fetched_date": "2026-03-09",
-  "fetched_at": "2026-03-09 09:54:48",
+  "fetched_at": "2026-03-09 10:49:49",
   "article_count": 20,
   "breaking_count": 2,
   "articles": [
+    {
+      "title": "Nuggets face Thunder in anticipated rematch airing on KTVD Monday",
+      "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-thunder-rematch-ktvd-tv-start-time/73-43ea1300-cd74-4eca-b538-73d7e6537c05",
+      "source": "9News",
+      "pub_date": "2026-03-09T10:24:42+00:00",
+      "age_hours": 0.4138638991666667,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
     {
       "title": "Can you be fined for walking your dog off leash in Denver?",
       "link": "https://coloradosun.com/2026/03/09/can-you-be-fined-for-walking-your-dog-off-leash-in-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-09T09:45:00+00:00",
-      "age_hours": 0.1585382511111111,
+      "age_hours": 1.0753994369444444,
       "breaking": true,
-      "time_ago": "9 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aurora lawmakers slated to debate homeless camping ban changes Monday",
       "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-slated-to-debate-homeless-camping-ban-changes-monday/",
       "source": "Sentinel",
       "pub_date": "2026-03-09T04:47:40+00:00",
-      "age_hours": 5.1149413699999995,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.031833173611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver weather: Sunny and warmer start to the workweek",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-warmer-start-to-the-workweek-3/",
       "source": "Fox31",
       "pub_date": "2026-03-09T00:21:33+00:00",
-      "age_hours": 9.549844361111111,
+      "age_hours": 10.466760370833333,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Restaurant owner rescues child during recent Evergreen shooting",
       "link": "https://kdvr.com/news/local/restaurant-owner-rescues-child-during-recent-evergreen-shooting/",
       "source": "Fox31",
       "pub_date": "2026-03-08T22:34:34+00:00",
-      "age_hours": 11.332899899166668,
+      "age_hours": 12.249815909166665,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Police investigating overnight shooting, 1 taken to hospital",
       "link": "https://kdvr.com/news/local/police-investigating-overnight-shooting-1-taken-to-hospital/",
       "source": "Fox31",
       "pub_date": "2026-03-08T22:02:29+00:00",
-      "age_hours": 11.867622135,
+      "age_hours": 12.784538144722221,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Ford recalls 1.74 million of its cars over rearview display issues",
       "link": "https://www.denverpost.com/2026/03/08/ford-recalls-broncos-edges-escapes-cosairs-aviators-explorers/",
       "source": "Denver Post",
       "pub_date": "2026-03-08T17:19:53+00:00",
-      "age_hours": 16.576514029444446,
+      "age_hours": 17.493536870277776,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Cheyenne\u2019s data-center boom",
       "link": "https://bizwest.com/2026/03/08/cheyennes-data-center-boom/",
       "source": "BizWest",
       "pub_date": "2026-03-08T17:10:06+00:00",
-      "age_hours": 16.739666822777778,
+      "age_hours": 17.656617108611112,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "The Boulder Chamber View: Breaking through, building anew",
       "link": "https://www.dailycamera.com/2026/03/08/the-boulder-chamber-view-breaking-through-building-anew/",
       "source": "Daily Camera",
       "pub_date": "2026-03-08T12:32:10+00:00",
-      "age_hours": 21.372335449722225,
+      "age_hours": 22.289245203888886,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Farbers sell LoHi apartment development site for $9.5M",
       "link": "https://www.denverpost.com/2026/03/08/farbers-sell-lohi-apartment-site/",
       "source": "Denver Post",
       "pub_date": "2026-03-08T12:00:52+00:00",
-      "age_hours": 21.89345848361111,
+      "age_hours": 22.810481329444443,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "The Bookies Bookstore offers tales of food and fantasy",
       "link": "https://coloradosun.com/2026/03/08/the-bookies-bookstore-march-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-08T09:05:00+00:00",
-      "age_hours": 24.8252065225,
+      "age_hours": 25.74206614388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://www.9news.com/article/news/crime/police-investigate-homicide-denver/73-1de50840-1e9d-4307-861a-80d42482fb1d",
       "source": "9News",
       "pub_date": "2026-03-08T06:07:38+00:00",
-      "age_hours": 27.781435449166665,
+      "age_hours": 28.698308439166667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.9news.com/article/news/education/msu-denver-mba-students-campus-food-pantry/73-7957562a-e376-4430-88d4-b69a6bd2d43b",
       "source": "9News",
       "pub_date": "2026-03-08T05:25:13+00:00",
-      "age_hours": 28.488379900555557,
+      "age_hours": 29.40525288777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://www.9news.com/article/weather/weather-impact/colorado-snow-totals-march-6/73-b1b9b1b6-ced2-4e68-ae90-1408a62090f5",
       "source": "9News",
       "pub_date": "2026-03-08T01:39:43+00:00",
-      "age_hours": 32.24671324944445,
+      "age_hours": 33.16358623611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://kdvr.com/news/denver-restaurants-stolen-sign-returned-thanks-to-anonymous-tipster/",
       "source": "Fox31",
       "pub_date": "2026-03-07T20:55:56+00:00",
-      "age_hours": 36.97678881416667,
+      "age_hours": 37.89370482361112,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/03/07/loveland-habitat-opens-homeownership-application-cycle/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:38:28+00:00",
-      "age_hours": 41.266889058333334,
+      "age_hours": 42.1838393375,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/03/07/animal-friends-alliance-launches-1-1m-capital-campaign/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:25:03+00:00",
-      "age_hours": 41.490500176944444,
+      "age_hours": 42.40745045222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/03/07/human-bean-fundraiser-to-benefit-greeley-creative-district/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:13:46+00:00",
-      "age_hours": 41.67855573888889,
+      "age_hours": 42.59550601055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/03/07/nonprofit-spotlight-trash-the-runway/",
       "source": "BizWest",
       "pub_date": "2026-03-07T16:05:30+00:00",
-      "age_hours": 41.81633352361111,
+      "age_hours": 42.73328379111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://www.denverpost.com/2026/03/07/telluride-ski-resort-lawsuit-mountain-village/",
       "source": "Denver Post",
       "pub_date": "2026-03-07T13:00:09+00:00",
-      "age_hours": 44.905402933055555,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "$9M Country Club sale tops February home transactions",
-      "link": "https://www.denverpost.com/2026/03/07/country-club-top-february-home-transactions/",
-      "source": "Denver Post",
-      "pub_date": "2026-03-07T13:00:03+00:00",
-      "age_hours": 44.907069603055554,
+      "age_hours": 45.822425779722224,
       "breaking": false,
       "time_ago": "1 day ago"
     }
