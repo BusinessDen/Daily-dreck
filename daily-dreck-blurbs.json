@@ -1,63 +1,63 @@
 {
-  "generated_date": "2026-03-09",
-  "lead_headline": "Weekend restaurant sweep nets 7 new leads\u2014C Burger, China BBQ, Dunkin' openings offset 303 Ramen fire closure\u2014as foreclosure filings slide 33% to 33 cases.",
+  "generated_date": "2026-03-10",
+  "lead_headline": "Restaurant tracker explodes to 33 active leads as Aspen Baking's sudden collapse reverberates, foreclosure filings slip 33%, and subscriber net swings negative after Sunday's +6 surge.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>7 new leads since Friday</strong> push the active tracker to <strong>28 total</strong> (14 openings, 14 closures). Weekend openings: <strong>China BBQ</strong> launched in Chaffee Park, <strong>The Barn South Broadway</strong> debuted in Rosedale, <strong>Dunkin'</strong> popped up in Regis at the old Church's Chicken site. <strong>C Burger</strong> (regenerative beef smashburgers) hit McGregor Square Saturday. Closures: <strong>Sawa Mediterranean</strong> pivoted to catering-only near DU. <strong>303 Ramen</strong> remains sidelined post-fire, <strong>Colfax and Cream</strong> shuttered both Capitol Hill and Wash Park West locations after rapid 2025 expansion imploded.",
+      "blurb": "<strong>8 fresh leads today</strong> elevate the active roster to <strong>33 total</strong> (15 openings, 18 closures). Monday's bombshell: <strong>Aspen Baking Company</strong> shuttered March 6 after 30+ years, leaving restaurant clients scrambling mid-acquisition. Openings: <strong>Rosie's Ice Cream</strong> relocates from Berkeley to Wash Park West's S Pearl corridor, while <strong>Wapos Cantina</strong> (Boulder chain) debuts in Rosedale's former El Tepehuan space and <strong>Mendocino Farms</strong> plants its third Denver flag at Union Station. Closures deepen: <strong>303 Ramen</strong> fire-sidelined in Regis, <strong>New Dragon</strong> (13-year Berkeley fixture) dark since late February, both <strong>Dairy Queen</strong> locations confirmed gone (Regis and Fort Logan). Safeway's November 2025 Aurora closure finally surfaced\u2014regional consolidation's long tail catching up.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+4",
+        "value1": "+3",
         "label2": "closed",
-        "value2": "\u22123",
-        "period": "since Friday"
+        "value2": "\u22125",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+14",
+        "value1": "15",
         "label2": "closed",
-        "value2": "\u221214",
-        "period": "this week"
+        "value2": "18",
+        "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>33 new filings</strong> this week\u2014down <strong>33%</strong> from last week's 49, extending the retreat from February's spike. Total exposure: <strong>$11.1M</strong>, with top case at <strong>$628K</strong> (Douglas County's 5118 Lumos Lane). <strong>43 auctions</strong> teed up for next seven days. Weld County anchors the docket at 315 active cases, Arapahoe trails at 290. Three-week deceleration confirms filing pace normalizing after winter surge\u2014market cooling or just a breather before spring remains the question.",
+      "blurb": "<strong>33 new filings this week</strong>\u2014matching last week's filing count but down <strong>33% from two weeks prior's 49</strong>, cementing the post-winter cooldown. Aggregate exposure: <strong>$11.1M</strong>, led by Douglas County's <strong>$628K</strong> Lumos Lane case. <strong>44 auctions</strong> queued for the next seven days. Weld County still commands at 335 active cases, Arapahoe follows at 290. Three consecutive weeks of deceleration confirm the filing frenzy has broken\u2014whether it's sustainable restraint or the calm before spring's traditionally hotter auction season remains the only question mark.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "33",
         "class1": "down",
         "label2": "upcoming auctions",
-        "value2": "43",
-        "class2": "",
-        "period": "today"
-      },
-      "ticker_weekly": {
-        "label1": "filings",
-        "value1": "33",
-        "class1": "down",
-        "label2": "sold",
-        "value2": "22",
+        "value2": "44",
         "class2": "",
         "period": "7-day"
+      },
+      "ticker_weekly": {
+        "label1": "total value",
+        "value1": "$11.1M",
+        "class1": "",
+        "label2": "active cases",
+        "value2": "1,642",
+        "class2": "",
+        "period": "current"
       }
     },
     "retail": {
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>2 mentions today</strong> cap a <strong>45-citation week</strong> across 14 unique sources\u2014all of it representing the tracker's entire lifespan since launch. <strong>Denver Post</strong> dominates with 18 pickups, Facebook grabs 6, Hoodline adds 5. Monday highlights: Post's Denver coverage index page, Facebook share of Live Nation/Ticketmaster antitrust allegations. Google News RSS captured 44 of 45 total discoveries. Week's breakout: tracker went from zero to operational, establishing baseline but lacking historical comparison for trend analysis.",
+      "blurb": "<strong>1 mention today</strong> holds the <strong>7-day tally at 49</strong> across 14 unique sources\u2014the tracker's entire operational history since last week's launch. <strong>Denver Post</strong> still owns the leaderboard with 19 citations, Instagram and Hoodline each contribute 6, Facebook matches at 6. Today's lone pickup: Instagram post on Denver Tech Center office building developments. Google News RSS continues as the dominant discovery channel (48 of 49 captures). No week-over-week comparison possible yet\u2014tracker launched into immediate activity, establishing baseline velocity but awaiting next Monday's data to measure true momentum shift.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "2",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "45",
-        "class1": "up",
+        "value1": "49",
+        "class1": "",
         "label2": "sources",
         "value2": "14",
         "class2": "",
@@ -65,11 +65,11 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +3 since Friday</strong> (4 new, 1 canceled) lifts March to <strong>+3 MTD</strong> (+0.4/day), with <strong>90-day cumulative at +71</strong>. Weekend steadied the ship after last week's Thursday \u22124 wobble. Past two weeks paint volatility: Feb 24's catastrophic \u22129 preceded a robust +12 five-day run, but early March stumbled with back-to-back negatives before Friday-Sunday's +3 recovery. YTD pace of +1.1/day still outperforms March's tepid 0.4 rate\u2014question is whether weekend momentum signals stabilization or just noise.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) snaps Sunday's +6 momentum but leaves <strong>March MTD at +7</strong> (+0.8/day), with <strong>90-day cumulative at +72</strong>. Past fortnight reveals whipsaw volatility: Feb 24's catastrophic \u22129 preceded a robust seven-day +8 climb, then early March wobbled with \u22125 across two days before last weekend's +8 three-day rally. Yesterday's single cancellation reads as noise, not trend reversal. YTD pace of +1.1/day still outpaces March's 0.8 rate\u2014the question is whether Monday's stumble signals renewed churn or just routine turbulence after Sunday's outsized +6 intake.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "3",
-      "net_ytd": "73",
-      "net_mtd_per_day": "0.4",
+      "net_mtd": "7",
+      "net_ytd": "77",
+      "net_mtd_per_day": "0.8",
       "net_ytd_per_day": "1.1"
     }
   }
