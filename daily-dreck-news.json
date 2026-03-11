@@ -1,69 +1,96 @@
 {
   "fetched_date": "2026-03-11",
-  "fetched_at": "2026-03-11 19:43:29",
+  "fetched_at": "2026-03-11 20:36:42",
   "article_count": 20,
   "breaking_count": 16,
   "articles": [
+    {
+      "title": "33 Buc-ee's locations given 'F' ratings by Better Business Bureau, citing 88 outstanding complaints",
+      "link": "https://www.9news.com/article/news/nation-world/bucees-better-business-bureau-ratings-f/507-4ae4453b-cc93-45af-9087-e5daa965212c",
+      "source": "9News",
+      "pub_date": "2026-03-11T20:24:13+00:00",
+      "age_hours": 0.2034957888888889,
+      "breaking": true,
+      "time_ago": "12 min ago"
+    },
+    {
+      "title": "Century Living Acquires Site for Luxury Apartments in Denver\u2019s LoHi",
+      "link": "https://milehighcre.com/century-living-acquires-site-for-luxury-apartments-in-denvers-lohi/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-03-11T20:11:12+00:00",
+      "age_hours": 0.4203142041666667,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
     {
       "title": "California aerospace firm plants flag in Louisville\u2019s Colorado Tech Center",
       "link": "https://bizwest.com/2026/03/11/california-aerospace-firm-plants-flag-in-louisvilles-colorado-tech-center/",
       "source": "BizWest",
       "pub_date": "2026-03-11T19:27:28+00:00",
-      "age_hours": 0.2613227825,
+      "age_hours": 1.148618638888889,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "3 Retailers Open at The Juniper on Parker\u2019s Mainstreet",
       "link": "https://milehighcre.com/3-retailers-open-at-the-juniper-on-parkers-mainstreet/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-11T19:07:27+00:00",
-      "age_hours": 0.5953047236111111,
+      "age_hours": 1.4828142130555555,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado Gov. Polis joins coalition of governors urging Congress to reject Trump tariffs",
+      "link": "https://www.coloradopolitics.com/2026/03/11/colorado-gov-polis-joins-coalition-of-governors-urging-congress-to-reject-trump-tariffs/",
+      "source": "CO Politics",
+      "pub_date": "2026-03-11T18:33:52+00:00",
+      "age_hours": 2.0432367908333333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Longmont OKs plan for downtown FRCC campus, transit hub",
       "link": "https://bizwest.com/2026/03/11/longmont-oks-plan-for-downtown-frcc-campus-transit-hub/",
       "source": "BizWest",
       "pub_date": "2026-03-11T18:30:04+00:00",
-      "age_hours": 1.2179894597222223,
+      "age_hours": 2.1052853205555557,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Atlas Energy to move into Forge campus",
       "link": "https://bizwest.com/2026/03/11/atlas-energy-to-move-into-forge-campus/",
       "source": "BizWest",
       "pub_date": "2026-03-11T18:26:15+00:00",
-      "age_hours": 1.2816005752777777,
+      "age_hours": 2.1688964369444443,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver Marriott Tech Center Named\u00a0Official Hotel Partner of Denver Summit FC",
       "link": "https://milehighcre.com/denver-marriott-tech-center-named-official-hotel-partner-of-denver-summit-fc/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-11T18:14:41+00:00",
-      "age_hours": 1.4747491758333333,
+      "age_hours": 2.3622586611111114,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "When should you turn on the sprinklers? Here's what the experts say",
       "link": "https://www.9news.com/article/weather/weather-colorado/denver-water-sprinklers-when-to-turn-on/73-ad688673-692a-43dd-8658-d269c93c8f61",
       "source": "9News",
       "pub_date": "2026-03-11T17:46:25+00:00",
-      "age_hours": 1.9460375866666666,
+      "age_hours": 2.8334958044444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver airport announces summer outdoor concert lineup",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-summer-outdoor-concerts/73-bb61e4be-ffc1-4285-a11e-beacb37b2a6a",
       "source": "9News",
       "pub_date": "2026-03-11T17:41:05+00:00",
-      "age_hours": 2.034926483611111,
+      "age_hours": 2.9223846975,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -72,117 +99,90 @@
       "link": "https://www.9news.com/article/news/local/outreach/leader-of-the-year/9news-leader-of-the-year-2026/73-039e7ea9-8116-437b-ab91-b79959432ec7",
       "source": "9News",
       "pub_date": "2026-03-11T17:07:58+00:00",
-      "age_hours": 2.5868709369444445,
+      "age_hours": 3.4743291477777776,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado could have historic March heat wave: Here's what we're tracking",
       "link": "https://www.9news.com/article/weather/weather-impact/heat-wave-colorado-temperature-forecast/73-484048ff-9584-4cd8-bf5d-7cd4b38ae17d",
       "source": "9News",
       "pub_date": "2026-03-11T16:34:32+00:00",
-      "age_hours": 3.144093170833333,
+      "age_hours": 4.031551378611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "ICE agents accused of leaving ace of spades cards in Eagle County are no longer in the field, top official says in court",
       "link": "https://coloradosun.com/2026/03/11/ice-ace-of-spades-cards-eagle-county/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-11T16:26:22+00:00",
-      "age_hours": 3.280128069722222,
+      "age_hours": 4.16757962,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "PMI U.S. to Host Job Fair for Positions at Aurora Manufacturing Facility",
       "link": "https://milehighcre.com/pmi-u-s-to-host-job-fair-for-positions-at-aurora-manufacturing-facility/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-11T16:13:51+00:00",
-      "age_hours": 3.488638068611111,
+      "age_hours": 4.376147553055556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "These are the highest-rated Irish bars in Denver: Google reviews",
       "link": "https://kdvr.com/denver-guide/these-are-the-highest-rated-irish-bars-in-denver-google-reviews/",
       "source": "Fox31",
       "pub_date": "2026-03-11T15:23:05+00:00",
-      "age_hours": 4.335191334722222,
+      "age_hours": 5.222593777499999,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver braces for high fire danger amid strong winds, warm temperatures",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-11T15:14:48+00:00",
-      "age_hours": 4.472982072222222,
+      "age_hours": 5.360440276666667,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Boulder restaurant and bar closes this weekend after 51 years",
       "link": "https://www.9news.com/article/money/business/dark-horse-restaurant-boulder-closes/73-77506872-af71-4bf7-bc0d-df0c527377a4",
       "source": "9News",
       "pub_date": "2026-03-11T14:25:45+00:00",
-      "age_hours": 5.290482084166666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.177940285277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver St. Patrick's Day Parade: What to know for Saturday",
       "link": "https://www.9news.com/article/life/style/colorado-guide/denver-st-patricks-day-parade/73-dc55ecac-bef0-4228-aef1-b8f5cbe9f252",
       "source": "9News",
       "pub_date": "2026-03-11T13:59:44+00:00",
-      "age_hours": 5.724093201111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.6115514025,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver weather: High wind, fire danger spark Pinpoint Weather Alert Day Thursday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-cooler-wednesday-with-a-breeze/",
       "source": "Fox31",
       "pub_date": "2026-03-11T13:19:13+00:00",
-      "age_hours": 6.399635733888889,
+      "age_hours": 7.287038181388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado lawmakers consider bill to cap Uber, Lyft fees at 20% of fares",
       "link": "https://www.denver7.com/news/state-news/colorado-lawmakers-consider-bill-to-cap-uber-lyft-fees-at-20-of-fares",
       "source": "Denver7",
       "pub_date": "2026-03-11T11:46:53+00:00",
-      "age_hours": 7.9383667086111105,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Midwest ice cream chain opening new metro Denver location",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/handels-ice-cream-colorado-grand-opening/73-490a29eb-9188-489a-bc59-4586a7a1f27c",
-      "source": "9News",
-      "pub_date": "2026-03-11T11:33:00+00:00",
-      "age_hours": 8.169648770833334,
+      "age_hours": 8.825812671666666,
       "breaking": false,
       "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Have a tattoo? Chipotle\u2019s Friday the 13th promo could score you a free burrito",
-      "link": "https://www.9news.com/article/news/nation-world/chipotle-tattoo-burrito-promo/507-001abf4a-18cc-424d-873c-92956ce2c289",
-      "source": "9News",
-      "pub_date": "2026-03-11T11:28:41+00:00",
-      "age_hours": 8.241593226666668,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "A Simple Fix to Help Denver\u2019s Restaurants Stay Open",
-      "link": "https://www.westword.com/opinion/denver-restaurant-owner-supports-the-swipe-fee-relief-act-40855334/",
-      "source": "Westword",
-      "pub_date": "2026-03-11T10:26:57-06:00",
-      "age_hours": 3.270931148055556,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
     }
   ]
 }
