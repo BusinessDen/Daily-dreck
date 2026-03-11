@@ -1,78 +1,87 @@
 {
   "fetched_date": "2026-03-11",
-  "fetched_at": "2026-03-11 09:45:13",
+  "fetched_at": "2026-03-11 10:42:10",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Clearing and cooler Wednesday, ahead of high winds and fire concerns",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-11T09:44:36+00:00",
+      "age_hours": 0.9544622566666666,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
     {
       "title": "Iran targets commercial ships, Dubai airport and oil facilities as concerns grow over global energy",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/iran-concerns-grow-over-global-energy/507-d5de78f4-3907-4db5-bf26-30cf684b3675",
       "source": "9News",
       "pub_date": "2026-03-11T09:18:41+00:00",
-      "age_hours": 0.4375931725,
+      "age_hours": 1.3864067080555555,
       "breaking": true,
-      "time_ago": "26 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Swipe-fee ban a giveaway to big boxes, mega-chains | IN RESPONSE",
       "link": "https://www.coloradopolitics.com/2026/03/11/swipe-fee-ban-a-giveaway-to-big-boxes-mega-chains-in-response/",
       "source": "CO Politics",
       "pub_date": "2026-03-11T07:00:00+00:00",
-      "age_hours": 2.7496796230555556,
+      "age_hours": 3.698361297222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado's record-dry winter, forecasted heat wave brings worry for farmers, future water supply",
       "link": "https://www.9news.com/article/tech/science/environment/colorados-record-dry-winter-forecasted-heat-farmers-water-supply/73-d482c249-cd86-4b1e-8bc8-6b73df7c0e34",
       "source": "9News",
       "pub_date": "2026-03-11T04:46:30+00:00",
-      "age_hours": 4.973982078333333,
+      "age_hours": 5.9227956072222225,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver resident on edge after surveillance video shows man setting fire outside home",
       "link": "https://kdvr.com/news/local/denver-resident-on-edge-after-surveillance-video-shows-man-setting-fire-outside-home/",
       "source": "Fox31",
       "pub_date": "2026-03-11T03:37:10+00:00",
-      "age_hours": 6.129935047777778,
+      "age_hours": 7.0785977480555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Aurora lawmakers cast final vote to adopt tobacco, psychoactive substance retail license",
       "link": "https://www.9news.com/article/news/local/local-politics/aurora-to-adopt-tobacco-psychoactive-substance-retail-license/73-a6729f7c-2de2-4e1e-9e32-e11595463ec9",
       "source": "9News",
       "pub_date": "2026-03-11T03:33:54+00:00",
-      "age_hours": 6.183982095833334,
+      "age_hours": 7.132795621944444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver weather: Cooler Wednesday ahead of warm, breezy to end the week",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-cooler-wednesday-ahead-of-warm-breezy-to-end-the-week/",
       "source": "Fox31",
       "pub_date": "2026-03-11T01:01:53+00:00",
-      "age_hours": 8.717990654166666,
+      "age_hours": 9.666653341111111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Targeted for holding ICE accountable; Next with Kyle Clark full show (3/10/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/targeted-for-holding-ice-accountable-next-with-kyle-clark-full-show-31026/73-8fc7d18d-3266-4c09-b02a-8aa3d9dc71c1",
       "source": "9News",
       "pub_date": "2026-03-11T00:50:07+00:00",
-      "age_hours": 8.913704334166667,
+      "age_hours": 9.862517873333333,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Rare artifact on display in Denver for Women\u2019s History Month",
       "link": "https://www.9news.com/article/life/people/womens-history/rare-artifact-on-display-denver-womens-history-month/73-3f6e0b85-a983-4572-b03d-35952b6e6ca7",
       "source": "9News",
       "pub_date": "2026-03-10T23:44:51+00:00",
-      "age_hours": 10.001482134444444,
+      "age_hours": 10.950295675833333,
       "breaking": false,
       "time_ago": "10 hrs ago"
     },
@@ -81,16 +90,16 @@
       "link": "https://kdvr.com/news/local/construction-zone-on-i-25-in-mead-linked-to-hundreds-of-crashes/",
       "source": "Fox31",
       "pub_date": "2026-03-10T23:19:19+00:00",
-      "age_hours": 10.427435113333335,
+      "age_hours": 11.376097796944444,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Postponing sprinkler use urged, Denver cites low snowpack",
       "link": "https://kdvr.com/news/local/postponing-sprinkler-use-urged-denver-cites-low-snowpack/",
       "source": "Fox31",
       "pub_date": "2026-03-10T22:41:57+00:00",
-      "age_hours": 11.050212899444444,
+      "age_hours": 11.998875581388889,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -99,43 +108,43 @@
       "link": "https://kdvr.com/news/local/man-accused-of-stealing-persons-identity-for-job-in-weld-county/",
       "source": "Fox31",
       "pub_date": "2026-03-10T21:13:22+00:00",
-      "age_hours": 12.526601709722222,
+      "age_hours": 13.47526441,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Rob Andrews\u2019 lawyers question Aurora DUI case, suggest officer certification error",
       "link": "https://sentinelcolorado.com/metro/rob-andrews-lawyers-question-aurora-dui-case-suggest-officer-certification-error/",
       "source": "Sentinel",
       "pub_date": "2026-03-10T21:04:42+00:00",
-      "age_hours": 12.671383643333334,
+      "age_hours": 13.620080249166666,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "February home prices dipped across Northern Colorado, Boulder Valley",
       "link": "https://bizwest.com/2026/03/10/february-home-prices-dipped-across-northern-colorado-boulder-valley/",
       "source": "BizWest",
       "pub_date": "2026-03-10T21:04:10+00:00",
-      "age_hours": 12.679024381388889,
+      "age_hours": 13.62760271,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Week past: The week past in Aurora prep sports, 3.3-3.9.26",
       "link": "https://sentinelcolorado.com/sports/preps/week-past-the-week-past-in-aurora-prep-sports-3-3-3-9-26/",
       "source": "Sentinel",
       "pub_date": "2026-03-10T20:45:54+00:00",
-      "age_hours": 12.98471699111111,
+      "age_hours": 13.933413595,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Riders spotted doing stunts on 16th Street",
       "link": "https://kdvr.com/news/local/riders-spotted-doing-stunts-on-16th-street/",
       "source": "Fox31",
       "pub_date": "2026-03-10T20:43:28+00:00",
-      "age_hours": 13.02493503388889,
+      "age_hours": 13.97359773611111,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -144,45 +153,36 @@
       "link": "https://bizwest.com/2026/03/10/colorado-bankruptcies-spike-25-in-february/",
       "source": "BizWest",
       "pub_date": "2026-03-10T20:31:59+00:00",
-      "age_hours": 13.215413282777778,
+      "age_hours": 14.16399161,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "U.S. energy secretary warns Colorado\u2019s energy policies could drive up prices, deter businesses",
       "link": "https://www.coloradopolitics.com/2026/03/10/u-s-energy-secretary-warns-colorados-energy-policies-could-drive-up-prices-deter-businesses/",
       "source": "CO Politics",
       "pub_date": "2026-03-10T20:31:34+00:00",
-      "age_hours": 13.223568544444445,
+      "age_hours": 14.172250217777778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Electra secures $30M loan to help build clean-iron plant",
       "link": "https://bizwest.com/2026/03/10/electra-secures-30m-loan-to-help-build-clean-iron-plant/",
       "source": "BizWest",
       "pub_date": "2026-03-10T20:26:17+00:00",
-      "age_hours": 13.310413286944444,
+      "age_hours": 14.258991614166666,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Calcote takes helm at Elevations Credit Union",
       "link": "https://bizwest.com/2026/03/10/calcote-takes-helm-at-elevations-credit-union/",
       "source": "BizWest",
       "pub_date": "2026-03-10T20:24:39+00:00",
-      "age_hours": 13.3376355125,
+      "age_hours": 14.286213839444445,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Vail Resorts skier visits tumble in \u2018most challenging winter\u2019",
-      "link": "https://bizwest.com/2026/03/10/vail-resorts-skier-visits-tumble-in-most-challenging-winter/",
-      "source": "BizWest",
-      "pub_date": "2026-03-10T20:22:31+00:00",
-      "age_hours": 13.373191071666668,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     }
   ]
 }
