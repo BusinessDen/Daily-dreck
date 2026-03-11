@@ -1,43 +1,43 @@
 {
-  "generated_date": "2026-03-10",
-  "lead_headline": "Restaurant tracker explodes to 33 active leads as Aspen Baking's sudden collapse reverberates, foreclosure filings slip 33%, and subscriber net swings negative after Sunday's +6 surge.",
+  "generated_date": "2026-03-11",
+  "lead_headline": "Restaurant pipeline swells to 35 active leads as 7 new detections land\u2014Fusion by Tinos Kitchen and Taqueria Los Gallitos hit Wynkoop and Globeville while foreclosure filings plunge 33% week-over-week",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>8 fresh leads today</strong> elevate the active roster to <strong>33 total</strong> (15 openings, 18 closures). Monday's bombshell: <strong>Aspen Baking Company</strong> shuttered March 6 after 30+ years, leaving restaurant clients scrambling mid-acquisition. Openings: <strong>Rosie's Ice Cream</strong> relocates from Berkeley to Wash Park West's S Pearl corridor, while <strong>Wapos Cantina</strong> (Boulder chain) debuts in Rosedale's former El Tepehuan space and <strong>Mendocino Farms</strong> plants its third Denver flag at Union Station. Closures deepen: <strong>303 Ramen</strong> fire-sidelined in Regis, <strong>New Dragon</strong> (13-year Berkeley fixture) dark since late February, both <strong>Dairy Queen</strong> locations confirmed gone (Regis and Fort Logan). Safeway's November 2025 Aurora closure finally surfaced\u2014regional consolidation's long tail catching up.",
+      "blurb": "<strong>7 new leads today</strong> push the active roster to <strong>35 total</strong> (17 openings, 18 closures/temp closures). Fresh openings: <strong>Fusion by Tinos Kitchen</strong> preps Wynkoop Street debut from Englewood's successful Tino's Kitchen operators, <strong>Taqueria Los Gallitos</strong> replaces defunct Taco John's in Globeville, <strong>C Burger</strong> (regenerative beef smashburger) launches at Union Station's McGregor Square. Closure trail: <strong>Colfax and Cream</strong> confirms shuttered at Capitol Hill Broadway location (December closure, detected today), joins Pearl Street sibling in the morgue. <strong>California Pizza Kitchen</strong> Cherry Creek resurfaces as summer 2025 casualty after 25-year run. Week's tally now stands at 2 confirmed openings versus 5 closures\u2014churn accelerating as Q1 ends.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+3",
         "label2": "closed",
-        "value2": "\u22125",
+        "value2": "\u22124",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "15",
+        "value1": "17",
         "label2": "closed",
         "value2": "18",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>33 new filings this week</strong>\u2014matching last week's filing count but down <strong>33% from two weeks prior's 49</strong>, cementing the post-winter cooldown. Aggregate exposure: <strong>$11.1M</strong>, led by Douglas County's <strong>$628K</strong> Lumos Lane case. <strong>44 auctions</strong> queued for the next seven days. Weld County still commands at 335 active cases, Arapahoe follows at 290. Three consecutive weeks of deceleration confirm the filing frenzy has broken\u2014whether it's sustainable restraint or the calm before spring's traditionally hotter auction season remains the only question mark.",
+      "blurb": "<strong>33 new filings this week</strong> marks a <strong>33% drop from last week's 49</strong>, extending the post-winter deceleration into its third consecutive week. Total exposure: <strong>$11.1M</strong>, with Douglas County's <strong>$628K Lumos Lane</strong> property topping the roster. <strong>63 auctions</strong> scheduled next seven days. Weld County still leads active cases at 345, El Paso follows at 375. Zero filings breached the $2M threshold this week\u2014first time since tracker launch. Three-week slide from 49\u219233 suggests spring's traditional auction heat may arrive late or muted this cycle.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "33",
         "class1": "down",
         "label2": "upcoming auctions",
-        "value2": "44",
+        "value2": "63",
         "class2": "",
         "period": "7-day"
       },
       "ticker_weekly": {
-        "label1": "total value",
-        "value1": "$11.1M",
+        "label1": "active cases",
+        "value1": "1,805",
         "class1": "",
-        "label2": "active cases",
-        "value2": "1,642",
+        "label2": "sold",
+        "value2": "22",
         "class2": "",
         "period": "current"
       }
@@ -46,31 +46,31 @@
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> holds the <strong>7-day tally at 49</strong> across 14 unique sources\u2014the tracker's entire operational history since last week's launch. <strong>Denver Post</strong> still owns the leaderboard with 19 citations, Instagram and Hoodline each contribute 6, Facebook matches at 6. Today's lone pickup: Instagram post on Denver Tech Center office building developments. Google News RSS continues as the dominant discovery channel (48 of 49 captures). No week-over-week comparison possible yet\u2014tracker launched into immediate activity, establishing baseline velocity but awaiting next Monday's data to measure true momentum shift.",
+      "blurb": "<strong>8 mentions yesterday</strong> lift the <strong>7-day total to 53</strong> across 15 unique sources\u2014a <strong>960% surge from prior week's 5</strong>, marking the tracker's first full apples-to-apples comparison since launch. <strong>Denver Post</strong> dominates with 22 citations, Instagram contributes 8, Facebook and Hoodline each add 4-5. Notable Tuesday pickups: hotel foreclosure coverage, My Brother's Bar owner's gift card platform launch, Littleton industrial sale above $20M. Google News RSS captures 52 of 53 total mentions\u2014social discovery remains marginal. Week-over-week explosion from 5\u219253 suggests either tracker maturation or genuine earned media acceleration; next seven days will clarify baseline velocity.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "8",
         "class1": "",
-        "period": "today"
+        "period": "yesterday"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "49",
-        "class1": "",
+        "value1": "53",
+        "class1": "up",
         "label2": "sources",
-        "value2": "14",
+        "value2": "15",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) snaps Sunday's +6 momentum but leaves <strong>March MTD at +7</strong> (+0.8/day), with <strong>90-day cumulative at +72</strong>. Past fortnight reveals whipsaw volatility: Feb 24's catastrophic \u22129 preceded a robust seven-day +8 climb, then early March wobbled with \u22125 across two days before last weekend's +8 three-day rally. Yesterday's single cancellation reads as noise, not trend reversal. YTD pace of +1.1/day still outpaces March's 0.8 rate\u2014the question is whether Monday's stumble signals renewed churn or just routine turbulence after Sunday's outsized +6 intake.",
+      "blurb": "<strong>Net +3 yesterday</strong> (5 new, 2 canceled) recovers Monday's \u22121 stumble and edges <strong>MTD to +11</strong> (+1.0/day), with <strong>90-day cumulative at +76</strong>. Past two weeks reveal sustained churn volatility: catastrophic \u22124 on March 5 followed by three-day +8 rally (March 6-9), then Monday's single-cancellation hiccup before Tuesday's modest rebound. The 7-day net of +6 trails prior week's +11, signaling deceleration despite Tuesday's positive tick. YTD pace holds at +1.2/day\u2014still outpacing March's 1.0 rate, but the weekly slowdown and persistent high-cancellation days (7 cancels March 5, 6 on March 4) suggest acquisition momentum cooling while churn stabilizes at elevated baseline.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "7",
-      "net_ytd": "77",
-      "net_mtd_per_day": "0.8",
-      "net_ytd_per_day": "1.1"
+      "net_mtd": "11",
+      "net_ytd": "81",
+      "net_mtd_per_day": "1.0",
+      "net_ytd_per_day": "1.2"
     }
   }
 }
