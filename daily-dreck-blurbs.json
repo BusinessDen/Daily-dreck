@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-03-11",
-  "lead_headline": "Restaurant pipeline swells to 35 active leads as 7 new detections land\u2014Fusion by Tinos Kitchen and Taqueria Los Gallitos hit Wynkoop and Globeville while foreclosure filings plunge 33% week-over-week",
+  "generated_date": "2026-03-12",
+  "lead_headline": "Vaultaire HiFi listening bar debuts beneath La For\u00eat today as restaurant tracker logs 7 fresh leads\u201440 total now active across openings (19) and closures (21)",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>7 new leads today</strong> push the active roster to <strong>35 total</strong> (17 openings, 18 closures/temp closures). Fresh openings: <strong>Fusion by Tinos Kitchen</strong> preps Wynkoop Street debut from Englewood's successful Tino's Kitchen operators, <strong>Taqueria Los Gallitos</strong> replaces defunct Taco John's in Globeville, <strong>C Burger</strong> (regenerative beef smashburger) launches at Union Station's McGregor Square. Closure trail: <strong>Colfax and Cream</strong> confirms shuttered at Capitol Hill Broadway location (December closure, detected today), joins Pearl Street sibling in the morgue. <strong>California Pizza Kitchen</strong> Cherry Creek resurfaces as summer 2025 casualty after 25-year run. Week's tally now stands at 2 confirmed openings versus 5 closures\u2014churn accelerating as Q1 ends.",
+      "blurb": "<strong>7 new leads today</strong> inflate the active roster to <strong>40 total</strong> (19 openings, 21 closures/temp closures). Today's marquee opening: <strong>Vaultaire</strong>, a subterranean HiFi listening bar, launches beneath La For\u00eat at 38 S Broadway\u2014analog sound system, vintage spirits, French small plates. Also fresh: <strong>GQue BBQ</strong> opens fifth year-round location at McGregor Square's Milepost Zero, <strong>Rosie's Ice Cream</strong> relocates from Berkeley to Washington Park's Pearl Street corridor. Closure ledger expands: <strong>Whisk and Willow Bakery</strong> (home-based cottage operation) shuts West Colfax doors after 1-2 year run, <strong>Colorado Wine Tours</strong> listing actually masks Wild Women Winery's 18-year closure (2007-2025ish). Two Dairy Queen Grill & Chill locations (Regis, Fort Logan) surface as February closures, plus duplicate <strong>Safeway</strong> and <strong>California Pizza Kitchen</strong> entries confirm prior detections. Week-to-date: 7 opening leads versus 14 closure leads\u2014attrition outpacing expansion 2:1.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -14,62 +14,62 @@
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "17",
+        "value1": "19",
         "label2": "closed",
-        "value2": "18",
+        "value2": "21",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>33 new filings this week</strong> marks a <strong>33% drop from last week's 49</strong>, extending the post-winter deceleration into its third consecutive week. Total exposure: <strong>$11.1M</strong>, with Douglas County's <strong>$628K Lumos Lane</strong> property topping the roster. <strong>63 auctions</strong> scheduled next seven days. Weld County still leads active cases at 345, El Paso follows at 375. Zero filings breached the $2M threshold this week\u2014first time since tracker launch. Three-week slide from 49\u219233 suggests spring's traditional auction heat may arrive late or muted this cycle.",
+      "blurb": "<strong>33 filings this week</strong> extends the deceleration pattern\u2014down 33% from last week's 49, marking the fourth consecutive week of declining volume since late-February peak. <strong>39 auctions</strong> scheduled next seven days, total exposure <strong>$11.1M</strong>. Douglas County's <strong>$628K Lumos Lane</strong> property tops the roster, but zero filings breached $2M for second straight week. Weld County leads active cases at 370, El Paso follows at 375. Week-over-week slide from 49\u219233 now tracks parallel to March 2025's seasonal pattern\u2014spring auction surge delayed or dampened. El Paso and Weld concentrations suggest exurban distress persists while Denver metro (55 cases) remains comparatively insulated.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "33",
         "class1": "down",
         "label2": "upcoming auctions",
-        "value2": "63",
+        "value2": "39",
         "class2": "",
-        "period": "7-day"
+        "period": "this week"
       },
       "ticker_weekly": {
-        "label1": "active cases",
-        "value1": "1,805",
+        "label1": "filings",
+        "value1": "161",
         "class1": "",
         "label2": "sold",
-        "value2": "22",
+        "value2": "20",
         "class2": "",
-        "period": "current"
+        "period": "30-day"
       }
     },
     "retail": {
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>8 mentions yesterday</strong> lift the <strong>7-day total to 53</strong> across 15 unique sources\u2014a <strong>960% surge from prior week's 5</strong>, marking the tracker's first full apples-to-apples comparison since launch. <strong>Denver Post</strong> dominates with 22 citations, Instagram contributes 8, Facebook and Hoodline each add 4-5. Notable Tuesday pickups: hotel foreclosure coverage, My Brother's Bar owner's gift card platform launch, Littleton industrial sale above $20M. Google News RSS captures 52 of 53 total mentions\u2014social discovery remains marginal. Week-over-week explosion from 5\u219253 suggests either tracker maturation or genuine earned media acceleration; next seven days will clarify baseline velocity.",
+      "blurb": "<strong>9 mentions yesterday</strong> hold the <strong>7-day total at 48</strong> across 14 sources\u2014still 140% above prior week's 20, but Wednesday's flat count versus Tuesday suggests the post-launch spike plateauing into steady state. <strong>Denver Post</strong> still commands 44% share (21 citations), Instagram and Facebook combine for 11 social pickups. Wednesday notables: sibling steel firm dispute coverage, tasting menu restaurant closure, RiNo coworking spot shuttering ahead of downtown debut. Google News RSS captures 47 of 48 detections\u2014Reddit contributes lone outlier. Two-week pattern emerging: explosive 5\u219253 Week 1 surge now settling into 48-mention Week 2 plateau. If Thursday-Sunday hold 45-50 range, tracker's baseline velocity locks at ~7 daily mentions\u2014legitimate earned media footprint, not launch artifact.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "8",
+        "value1": "9",
         "class1": "",
-        "period": "yesterday"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "53",
+        "value1": "48",
         "class1": "up",
         "label2": "sources",
-        "value2": "15",
+        "value2": "14",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +3 yesterday</strong> (5 new, 2 canceled) recovers Monday's \u22121 stumble and edges <strong>MTD to +11</strong> (+1.0/day), with <strong>90-day cumulative at +76</strong>. Past two weeks reveal sustained churn volatility: catastrophic \u22124 on March 5 followed by three-day +8 rally (March 6-9), then Monday's single-cancellation hiccup before Tuesday's modest rebound. The 7-day net of +6 trails prior week's +11, signaling deceleration despite Tuesday's positive tick. YTD pace holds at +1.2/day\u2014still outpacing March's 1.0 rate, but the weekly slowdown and persistent high-cancellation days (7 cancels March 5, 6 on March 4) suggest acquisition momentum cooling while churn stabilizes at elevated baseline.",
+      "blurb": "<strong>Net +1 yesterday</strong> (3 new, 2 canceled) crawls forward for second consecutive day, nudging <strong>MTD to +12</strong> (+1.1/day) with <strong>90-day cumulative at +77</strong>. Past two weeks expose bifurcated momentum: catastrophic \u22124 plunge March 5 followed by six-day +11 recovery (March 6-11), but daily gains shrinking\u20146-net spike March 9 has decelerated to +3, +1, +1 since. Seven-day total of +8 trails prior week's pace, and March's 1.1/day rate lags YTD's 1.2/day benchmark. Cancellation floor stabilized at 2/day (five of last seven days), but new subscriber acquisition cooling from mid-week 8-add surge to current 3/day trickle. Pattern suggests March opened strong (net +4 March 2) but momentum fading as month matures\u2014Q1 finish risks falling short of January-February velocity unless weekend delivers outsized adds.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "11",
-      "net_ytd": "81",
-      "net_mtd_per_day": "1.0",
+      "net_mtd": "12",
+      "net_ytd": "82",
+      "net_mtd_per_day": "1.1",
       "net_ytd_per_day": "1.2"
     }
   }
