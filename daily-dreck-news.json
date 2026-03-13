@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-03-12",
-  "fetched_at": "2026-03-12 23:30:24",
+  "fetched_date": "2026-03-13",
+  "fetched_at": "2026-03-13 02:13:01",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Commerce City hoax school shooting call took officers away from real emergencies happening in the city",
+      "link": "https://www.9news.com/article/news/crime/commerce-city-hoax-school-shooting-call-impact/73-03844bf3-faee-4552-9f37-ce22354abb4e",
+      "source": "9News",
+      "pub_date": "2026-03-13T01:26:56+00:00",
+      "age_hours": 0.7633763655555555,
+      "breaking": true,
+      "time_ago": "45 min ago"
+    },
+    {
+      "title": "Hot new conspiracy theory; Next with Kyle Clark full show (3/12/26)",
+      "link": "https://www.9news.com/video/next-with-kyle-clark/hot-new-conspiracy-theory-next-with-kyle-clark-full-show-31226/73-e11c3002-1054-4b48-ac8e-65d24f6a5780",
+      "source": "9News",
+      "pub_date": "2026-03-13T01:00:37+00:00",
+      "age_hours": 1.201987487222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "James Beard Award-winning chef spices up CU Denver dining experience",
+      "link": "https://www.9news.com/article/life/food/james-beard-award-winning-chef-cu-denver-dining/73-f7a60668-f1db-42d8-88bc-d3dd1d7b8be5",
+      "source": "9News",
+      "pub_date": "2026-03-13T00:45:33+00:00",
+      "age_hours": 1.453098606111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "'This Is Not Trash. This Is Treasure' | New leadership brings different approach to troubled Denver hotel shelter",
+      "link": "https://www.9news.com/article/news/local/new-leadership-troubled-denver-hotel-shelter/73-31741d41-41d0-4906-9a20-21fd760218d2",
+      "source": "9News",
+      "pub_date": "2026-03-13T00:41:58+00:00",
+      "age_hours": 1.5128208319444445,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Unique 'mountain wave' phenomena causes high winds on Front Range: What is it?",
+      "link": "https://kdvr.com/weather/wx-news/unique-mountain-wave-phenomena-causes-high-winds-on-front-range-what-is-it/",
+      "source": "Fox31",
+      "pub_date": "2026-03-13T00:15:23+00:00",
+      "age_hours": 1.9560611686111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Professional Women\u2019s Hockey League returns to Denver",
       "link": "https://kdvr.com/sports/professional-womens-hockey-league-returns-to-denver/",
       "source": "Fox31",
       "pub_date": "2026-03-12T22:28:00+00:00",
-      "age_hours": 1.035642616388889,
+      "age_hours": 3.7457834255555555,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "TSA officers face full missed paycheck as partial government shutdown nears 1 month",
       "link": "https://www.9news.com/article/travel/denver-international-airport/tsa-officers-face-full-missed-paycheck-partial-government-shutdown-nears-1-month/73-6cc6b715-095c-4810-9c99-173593a6c605",
       "source": "9News",
       "pub_date": "2026-03-12T22:13:26+00:00",
-      "age_hours": 1.2778522213888888,
+      "age_hours": 3.988376416388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver weather: High winds, fire danger continue on Friday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-high-winds-fire-danger-continue-on-friday/",
       "source": "Fox31",
       "pub_date": "2026-03-12T22:11:29+00:00",
-      "age_hours": 1.3109203644444445,
+      "age_hours": 4.021061160277777,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Howes Street site eyed for affordable housing",
       "link": "https://bizwest.com/2026/03/12/howes-street-site-eyed-for-affordable-housing/",
       "source": "BizWest",
       "pub_date": "2026-03-12T21:09:22+00:00",
-      "age_hours": 2.3440199633333334,
+      "age_hours": 5.055516980555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "VCA to close veterinary hospital in Loveland",
       "link": "https://bizwest.com/2026/03/12/vca-to-close-veterinary-hospital-in-loveland/",
       "source": "BizWest",
       "pub_date": "2026-03-12T21:06:36+00:00",
-      "age_hours": 2.3901310844444446,
+      "age_hours": 5.101628105833333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Senate passes bipartisan housing bill to improve access and affordability",
       "link": "https://sentinelcolorado.com/uncategorized/senate-passes-bipartisan-housing-bill-to-improve-access-and-affordability/",
       "source": "Sentinel",
       "pub_date": "2026-03-12T20:49:31+00:00",
-      "age_hours": 2.677423566388889,
+      "age_hours": 5.387593273333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver St. Patrick's Day Parade: What to know for Saturday",
       "link": "https://www.9news.com/article/life/style/colorado-guide/denver-st-patricks-day-parade/73-dc55ecac-bef0-4228-aef1-b8f5cbe9f252",
       "source": "9News",
       "pub_date": "2026-03-12T19:29:33+00:00",
-      "age_hours": 4.0092411375,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.719765318888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "9Things to do in Colorado this St. Patrick's Day weekend",
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-events-st-patricks-day-colorado/73-7e20847b-94db-47ea-aa8c-631dc739a891",
       "source": "9News",
       "pub_date": "2026-03-12T18:55:57+00:00",
-      "age_hours": 4.569241144444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.2797653250000005,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado committee recommends rejecting alcohol, marijuana tax hike to fund mental health care",
       "link": "https://www.coloradopolitics.com/2026/03/12/colorado-committee-recommends-rejecting-alcohol-marijuana-tax-hike-to-fund-mental-health-care/",
       "source": "CO Politics",
       "pub_date": "2026-03-12T18:55:17+00:00",
-      "age_hours": 4.581296085555556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.291443428055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Longmont\u2019s Scythe Robotics acquired by Autonomous Solutions Inc.",
       "link": "https://bizwest.com/2026/03/12/longmonts-scythe-robotics-acquired-by-autonomous-solutions-inc/",
       "source": "BizWest",
       "pub_date": "2026-03-12T18:52:34+00:00",
-      "age_hours": 4.624019977222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.335517002222222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Local gov leaders: Uncertain times call for nimble solutions",
       "link": "https://bizwest.com/2026/03/12/local-gov-leaders-uncertain-times-call-for-nimble-solutions/",
       "source": "BizWest",
       "pub_date": "2026-03-12T18:49:22+00:00",
-      "age_hours": 4.6773533136111105,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.388850342222222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "North Shore Manor property sold for $11.5M",
       "link": "https://bizwest.com/2026/03/12/north-shore-manor-property-sold-for-11-5m/",
       "source": "BizWest",
       "pub_date": "2026-03-12T18:43:03+00:00",
-      "age_hours": 4.782631094444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.494128126388889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Northglenn Urban Renewal Seeking Development Partner",
       "link": "https://milehighcre.com/northglenn-urban-renewal-seeking-development-partner/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-12T18:08:52+00:00",
-      "age_hours": 5.353730613888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Live updates: Wind damage, fire danger, power outages across Colorado",
-      "link": "https://kdvr.com/weather/live-weather-updates-high-winds-fire-danger-across-colorado/",
-      "source": "Fox31",
-      "pub_date": "2026-03-12T18:00:52+00:00",
-      "age_hours": 5.487864799444445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.064271818888889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "The Alpine Club in Telluride Appoints New GM",
       "link": "https://milehighcre.com/the-alpine-club-in-telluride-appoints-new-gm/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-12T17:24:52+00:00",
-      "age_hours": 6.087063955277778,
+      "age_hours": 8.797605161388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Average US long-term mortgage rate rises to 6.11%, back to where it was 5 weeks ago",
       "link": "https://www.9news.com/article/news/nation-world/average-us-long-term-mortgage-rate-rises-to-611-back-to-where-it-was-5-weeks-ago/507-d1a6059d-5b1c-4485-a2ce-5a6e4f6246ac",
       "source": "9News",
       "pub_date": "2026-03-12T17:03:21+00:00",
-      "age_hours": 6.445907819166666,
+      "age_hours": 9.156431999722223,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "I-25, I-70 among roads closed due to dust, multiple rolled semitrailers amid high winds",
-      "link": "https://kdvr.com/news/local/i-25-i-70-among-roads-closed-due-to-dust-rolled-semitrailers-amid-high-winds/",
-      "source": "Fox31",
-      "pub_date": "2026-03-12T16:51:40+00:00",
-      "age_hours": 6.641198149722222,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver Health program empowers girls to pursue male-dominated careers in orthopedics and surgery",
-      "link": "https://www.9news.com/article/news/health/denver-program-empowers-girls/73-2f7d470e-b672-4418-93d5-23301a7b9ace",
-      "source": "9News",
-      "pub_date": "2026-03-12T16:50:11+00:00",
-      "age_hours": 6.665352266666667,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Over 900 flights delayed at DIA on Thursday as high winds sweep through Colorado",
-      "link": "https://kdvr.com/news/local/nearly-400-flights-delayed-at-dia-as-high-winds-sweep-through-colorado/",
-      "source": "Fox31",
-      "pub_date": "2026-03-12T16:26:21+00:00",
-      "age_hours": 7.063142623888889,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Construction Update: Phase One Underway at Cherry Creek West",
-      "link": "https://milehighcre.com/construction-update-phase-one-underway-at-cherry-creek-west/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-03-12T15:14:07+00:00",
-      "age_hours": 8.266230625833334,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     }
   ]
 }
