@@ -1,78 +1,96 @@
 {
   "fetched_date": "2026-03-13",
-  "fetched_at": "2026-03-13 21:35:25",
+  "fetched_at": "2026-03-13 22:30:42",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Denver opening cold weather shelters on Sunday",
+      "link": "https://www.9news.com/article/news/local/denver-cold-weather-shelters/73-8e98af33-7a01-460d-a115-350f24a73616",
+      "source": "9News",
+      "pub_date": "2026-03-13T21:40:14+00:00",
+      "age_hours": 0.8359536719444445,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
+    {
+      "title": "Denver weather: Fire danger Saturday before light snow Sunday",
+      "link": "https://kdvr.com/news/local/denver-weather-fire-danger-saturday-before-light-snow-sunday/",
+      "source": "Fox31",
+      "pub_date": "2026-03-13T21:38:21+00:00",
+      "age_hours": 0.8676768733333333,
+      "breaking": true,
+      "time_ago": "52 min ago"
+    },
     {
       "title": "Nude Foods survives \u2018Shark Tank\u2019 \u2014 barely",
       "link": "https://bizwest.com/2026/03/13/nude-foods-survives-shark-tank-barely/",
       "source": "BizWest",
       "pub_date": "2026-03-13T20:39:20+00:00",
-      "age_hours": 0.9294592366666667,
+      "age_hours": 1.8503390133333333,
       "breaking": true,
-      "time_ago": "55 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Reserve deputy tabbed for Aurora Civil Service Commission; lawmakers mull other removal",
       "link": "https://sentinelcolorado.com/0trending/reserve-deputy-tabbed-for-aurora-civil-service-commission-lawmakers-mull-other-removal/",
       "source": "Sentinel",
       "pub_date": "2026-03-13T20:09:49+00:00",
-      "age_hours": 1.4225158627777779,
+      "age_hours": 2.343752408333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "The Budget Triangle: Fast, Cheap or Fancy \u2014 Pick two",
       "link": "https://bizwest.com/2026/03/13/the-budget-triangle-fast-cheap-or-fancy-pick-two/",
       "source": "BizWest",
       "pub_date": "2026-03-13T20:06:49+00:00",
-      "age_hours": 1.4714036916666666,
+      "age_hours": 2.392283469444444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Metro\u2019s oldest Irish bar, Sheabeen, in Aurora, gears up for St. Patrick\u2019s Day",
       "link": "https://sentinelcolorado.com/metro/metros-oldest-irish-bar-sheabeen-in-aurora-gears-up-for-st-patricks-day/",
       "source": "Sentinel",
       "pub_date": "2026-03-13T19:51:40+00:00",
-      "age_hours": 1.7250158858333333,
+      "age_hours": 2.6462524277777777,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Site picked for new Estes Park police station",
       "link": "https://bizwest.com/2026/03/13/site-picked-for-new-estes-park-police-station/",
       "source": "BizWest",
       "pub_date": "2026-03-13T19:46:07+00:00",
-      "age_hours": 1.8164036958333334,
+      "age_hours": 2.737283473611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado plans to slash interim committee work amid budget woes",
       "link": "https://www.coloradopolitics.com/2026/03/13/colorado-plans-to-slash-interim-committee-work-amid-budget-woes/",
       "source": "CO Politics",
       "pub_date": "2026-03-13T18:56:01+00:00",
-      "age_hours": 2.652460686388889,
+      "age_hours": 3.5736682388888887,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "State lawmakers rush to set rounding rules for when there are no pennies",
       "link": "https://sentinelcolorado.com/uncategorized/state-lawmakers-rush-to-set-rounding-rules-for-when-there-are-no-pennies/",
       "source": "Sentinel",
       "pub_date": "2026-03-13T17:47:30+00:00",
-      "age_hours": 3.7944603525000002,
+      "age_hours": 4.715696894166666,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Elijah Wood to DJ in Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/elijah-wood-wooden-wisdom-dj-set-denver/73-ebd7a717-bf48-4369-91e9-f9a0a015b60f",
       "source": "9News",
       "pub_date": "2026-03-13T15:33:27+00:00",
-      "age_hours": 6.028056273055556,
+      "age_hours": 6.949009291944445,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -81,43 +99,34 @@
       "link": "https://bizwest.com/2026/03/13/nar-economist-lawrence-yun-to-keynote-northern-colorado-real-estate-summit/",
       "source": "BizWest",
       "pub_date": "2026-03-13T13:23:37+00:00",
-      "age_hours": 8.191403699166667,
+      "age_hours": 9.112283476666667,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Laird completes acquisition of organic health-food company Navitas",
       "link": "https://bizwest.com/2026/03/13/laird-completes-acquisition-of-organic-health-food-company-navitas/",
       "source": "BizWest",
       "pub_date": "2026-03-13T12:59:58+00:00",
-      "age_hours": 8.585570369166666,
+      "age_hours": 9.506450146388888,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Summit FC surpasses 50,000 tickets sold for 'The Kickoff'",
       "link": "https://www.9news.com/article/sports/soccer/denver-summit-fc-kickoff-game/73-22d1ee57-afa2-463d-ba24-225428c0a6c8",
       "source": "9News",
       "pub_date": "2026-03-13T12:13:03+00:00",
-      "age_hours": 9.36805629638889,
+      "age_hours": 10.289009309444443,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "9Things to do in Colorado this St. Patrick's Day weekend",
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-events-st-patricks-day-colorado/73-7e20847b-94db-47ea-aa8c-631dc739a891",
       "source": "9News",
       "pub_date": "2026-03-13T11:46:16+00:00",
-      "age_hours": 9.814445189166666,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Denver weather: Fire risk Saturday, colder with some snow Sunday. Pinpoint Weather Alert Days issued",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-winds-slightly-slower-fire-danger-remains/",
-      "source": "Fox31",
-      "pub_date": "2026-03-13T11:28:13+00:00",
-      "age_hours": 10.115401758055555,
+      "age_hours": 10.735398201944445,
       "breaking": false,
       "time_ago": "10 hrs ago"
     },
@@ -126,43 +135,43 @@
       "link": "https://www.westword.com/news/first-black-owned-denver-dispensary-could-lose-home-40855296/",
       "source": "Westword",
       "pub_date": "2026-03-13T10:45:35-06:00",
-      "age_hours": 4.8260578730555554,
+      "age_hours": 5.747332772222222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado protects $10 million historic ranch near Eldora, plans for new state wildlife area",
       "link": "https://coloradosun.com/2026/03/13/colorado-open-space-preservation-tolland-ranch-eldora/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-13T10:08:00+00:00",
-      "age_hours": 11.45210628111111,
+      "age_hours": 12.37303509361111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Colorado effort to end credit card swipe fees on sales taxes is splitting businesses",
       "link": "https://coloradosun.com/2026/03/13/colorado-bill-swipe-fees-sales-tax-restaurants-businesses/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-13T10:00:00+00:00",
-      "age_hours": 11.585439627777777,
+      "age_hours": 12.506368439444444,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "As violent crimes spike on the Ute Mountain Ute Reservation, support from the federal government is lacking",
       "link": "https://coloradosun.com/2026/03/13/feds-arent-helping-ute-mountain-ute-tribe-fight-crime/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-13T09:17:00+00:00",
-      "age_hours": 12.302106321666665,
+      "age_hours": 13.223035129166666,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Thousands of dollars in tools stolen from construction site using a bike, child's wagon",
       "link": "https://kdvr.com/news/local/thousands-of-dollars-in-tools-stolen-from-construction-site-using-a-bike-childs-wagon/",
       "source": "Fox31",
       "pub_date": "2026-03-13T04:31:32+00:00",
-      "age_hours": 17.060124032222223,
+      "age_hours": 17.981288040833334,
       "breaking": false,
       "time_ago": "17 hrs ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://kdvr.com/weather/wx-news/unique-mountain-wave-phenomena-causes-high-winds-on-front-range-what-is-it/",
       "source": "Fox31",
       "pub_date": "2026-03-13T00:15:23+00:00",
-      "age_hours": 21.329290659444446,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Senate committee moves forward with Colorado ballot measure to redirect TABOR refunds to schools",
-      "link": "https://www.coloradopolitics.com/2026/03/12/senate-committee-moves-forward-with-colorado-ballot-measure-to-redirect-tabor-refunds-to-schools/",
-      "source": "CO Politics",
-      "pub_date": "2026-03-12T23:11:42+00:00",
-      "age_hours": 22.391071831666668,
+      "age_hours": 22.250454673333333,
       "breaking": false,
       "time_ago": "22 hrs ago"
     }
