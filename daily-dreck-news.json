@@ -1,123 +1,132 @@
 {
   "fetched_date": "2026-03-14",
-  "fetched_at": "2026-03-14 12:56:23",
+  "fetched_at": "2026-03-14 13:50:21",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
     {
       "title": "What\u2019s Working: Denver leads US for apartment concessions as landlords aim to fill oversupply",
       "link": "https://coloradosun.com/2026/03/14/denver-apartment-concessions-landlords-rentals/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-14T10:00:00+00:00",
-      "age_hours": 2.9353124872222223,
+      "age_hours": 3.8346877891666664,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Every Opening and Closing This Week: Colfax Doubles Down on Dim Sum and More",
+      "link": "https://www.westword.com/food-drink/colfax-dim-sim-spot-expands-and-more-new-denver-restaurants-40856391/",
+      "source": "Westword",
+      "pub_date": "2026-03-14T07:00:00-06:00",
+      "age_hours": 0.8351569027777779,
+      "breaking": true,
+      "time_ago": "50 min ago"
     },
     {
       "title": "Boulder community continues to speak out about NCAR closure",
       "link": "https://www.denver7.com/news/front-range/boulder/boulder-community-continues-to-speak-out-about-ncar-closure",
       "source": "Denver7",
       "pub_date": "2026-03-14T03:34:28+00:00",
-      "age_hours": 9.361149184444445,
+      "age_hours": 10.260603858055555,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver St. Patrick\u2019s Day Parade returns with Irish Fest celebration downtown",
       "link": "https://kdvr.com/news/local/denver-st-patricks-day-parade-returns-with-irish-fest-celebration-downtown/",
       "source": "Fox31",
       "pub_date": "2026-03-14T03:07:15+00:00",
-      "age_hours": 9.8147895525,
+      "age_hours": 10.714232004166666,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Stacking up Good News brick by brick",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/stacking-up-good-news-brick-by-brick/73-d48305e7-653f-417a-ada1-950fe9442c8d",
       "source": "9News",
       "pub_date": "2026-03-14T01:14:12+00:00",
-      "age_hours": 11.698766154722222,
+      "age_hours": 12.598156970555555,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "The race to the Summit is here",
       "link": "https://kdvr.com/sports/denver-summit-fc/the-race-to-the-summit-is-here/",
       "source": "Fox31",
       "pub_date": "2026-03-14T00:26:14+00:00",
-      "age_hours": 12.498400705555555,
+      "age_hours": 13.397843165277779,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Dolly Parton makes first appearance in months as she ushers in opening day at Dollywood",
       "link": "https://www.9news.com/article/news/nation-world/dolly-parton-appearance-dollywood-opening-day/507-f50a731d-fdf3-4a0c-b939-b0c5b79835d9",
       "source": "9News",
       "pub_date": "2026-03-14T00:06:05+00:00",
-      "age_hours": 12.834043953888887,
+      "age_hours": 13.733434769722221,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver artist hopes to blow minds with extra special 'laser cage' show this weekend",
       "link": "https://kdvr.com/news/local/denver-artist-hopes-to-blow-minds-with-extra-special-laser-cage-show-this-weekend/",
       "source": "Fox31",
       "pub_date": "2026-03-13T23:17:43+00:00",
-      "age_hours": 13.640345118888888,
+      "age_hours": 14.539787567777779,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver opening cold weather shelters on Sunday",
       "link": "https://www.9news.com/article/news/local/denver-cold-weather-shelters/73-8e98af33-7a01-460d-a115-350f24a73616",
       "source": "9News",
       "pub_date": "2026-03-13T21:40:14+00:00",
-      "age_hours": 15.264877303055556,
+      "age_hours": 16.164268116666666,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Denver weather: Fire danger Saturday before light snow Sunday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-fire-danger-saturday-before-light-snow-sunday/",
       "source": "Fox31",
       "pub_date": "2026-03-13T21:38:21+00:00",
-      "age_hours": 15.296456178333333,
+      "age_hours": 16.195898637777777,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Nude Foods survives \u2018Shark Tank\u2019 \u2014 barely",
       "link": "https://bizwest.com/2026/03/13/nude-foods-survives-shark-tank-barely/",
       "source": "BizWest",
       "pub_date": "2026-03-13T20:39:20+00:00",
-      "age_hours": 16.27937287027778,
+      "age_hours": 17.178627929444445,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Reserve deputy tabbed for Aurora Civil Service Commission; lawmakers mull other removal",
       "link": "https://sentinelcolorado.com/0trending/reserve-deputy-tabbed-for-aurora-civil-service-commission-lawmakers-mull-other-removal/",
       "source": "Sentinel",
       "pub_date": "2026-03-13T20:09:49+00:00",
-      "age_hours": 16.77235660722222,
+      "age_hours": 17.671811265833334,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "The Budget Triangle: Fast, Cheap or Fancy \u2014 Pick two",
       "link": "https://bizwest.com/2026/03/13/the-budget-triangle-fast-cheap-or-fancy-pick-two/",
       "source": "BizWest",
       "pub_date": "2026-03-13T20:06:49+00:00",
-      "age_hours": 16.821317324166667,
+      "age_hours": 17.720572385,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Metro\u2019s oldest Irish bar, Sheabeen, in Aurora, gears up for St. Patrick\u2019s Day",
       "link": "https://sentinelcolorado.com/metro/metros-oldest-irish-bar-sheabeen-in-aurora-gears-up-for-st-patricks-day/",
       "source": "Sentinel",
       "pub_date": "2026-03-13T19:51:40+00:00",
-      "age_hours": 17.074856626666666,
+      "age_hours": 17.97431128527778,
       "breaking": false,
       "time_ago": "17 hrs ago"
     },
@@ -126,63 +135,54 @@
       "link": "https://bizwest.com/2026/03/13/site-picked-for-new-estes-park-police-station/",
       "source": "BizWest",
       "pub_date": "2026-03-13T19:46:07+00:00",
-      "age_hours": 17.16631732861111,
+      "age_hours": 18.065572389444444,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Red flags raised for Colorado\u2019s economy in national ranking, but it remains in top 10",
       "link": "https://www.coloradopolitics.com/2026/03/13/red-flags-raised-for-colorados-economy-in-national-ranking-but-it-remains-in-top-10/",
       "source": "CO Politics",
       "pub_date": "2026-03-13T19:08:34+00:00",
-      "age_hours": 17.793140316944445,
+      "age_hours": 18.692603961944446,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Colorado plans to slash interim committee work amid budget woes",
       "link": "https://www.coloradopolitics.com/2026/03/13/colorado-plans-to-slash-interim-committee-work-amid-budget-woes/",
       "source": "CO Politics",
       "pub_date": "2026-03-13T18:56:01+00:00",
-      "age_hours": 18.00230700138889,
+      "age_hours": 18.901770655277776,
       "breaking": false,
       "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "State lawmakers rush to set rounding rules for when there are no pennies",
-      "link": "https://sentinelcolorado.com/uncategorized/state-lawmakers-rush-to-set-rounding-rules-for-when-there-are-no-pennies/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-13T17:47:30+00:00",
-      "age_hours": 19.1443010975,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
     },
     {
       "title": "NAR economist Lawrence Yun to keynote Northern Colorado Real Estate Summit",
       "link": "https://bizwest.com/2026/03/13/nar-economist-lawrence-yun-to-keynote-northern-colorado-real-estate-summit/",
       "source": "BizWest",
       "pub_date": "2026-03-13T13:23:37+00:00",
-      "age_hours": 23.54131733194444,
+      "age_hours": 24.4405723925,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Laird completes acquisition of organic health-food company Navitas",
       "link": "https://bizwest.com/2026/03/13/laird-completes-acquisition-of-organic-health-food-company-navitas/",
       "source": "BizWest",
       "pub_date": "2026-03-13T12:59:58+00:00",
-      "age_hours": 23.935484002222225,
+      "age_hours": 24.8347390625,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
-      "title": "Historic Black-Owned Dispensary Could Be Without a Home Soon",
-      "link": "https://www.westword.com/news/first-black-owned-denver-dispensary-could-lose-home-40855296/",
-      "source": "Westword",
-      "pub_date": "2026-03-13T10:45:35-06:00",
-      "age_hours": 20.175982315000002,
+      "title": "Colorado protects $10 million historic ranch near Eldora, plans for new state wildlife area",
+      "link": "https://coloradosun.com/2026/03/13/colorado-open-space-preservation-tolland-ranch-eldora/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-03-13T10:08:00+00:00",
+      "age_hours": 27.70135454611111,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     }
   ]
 }
