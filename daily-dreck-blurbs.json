@@ -1,27 +1,27 @@
 {
-  "generated_date": "2026-03-14",
-  "lead_headline": "Restaurant tracker quiets to 1 new lead (41 total active) while foreclosure filings slide to 30\u2014fourth straight week of decline from late-February peak",
+  "generated_date": "2026-03-15",
+  "lead_headline": "Subscriber net +2 today holds March's 1.4/day MTD pace as restaurant tracker adds 2 new leads (43 total active) and foreclosure filings extend four-week deceleration",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today</strong> holds the active roster steady at <strong>41 total</strong> (20 openings, 21 closures/temp closures). Sole Friday detection: <strong>Ogo Korean BBQ & Sushi Pronto</strong> launches counter-service concept at Union Station, helmed by chef Jackie Cho. Week's broader portfolio spans downtown density\u2014<strong>Mendocino Farms</strong> (Union Station sandwich shop), <strong>G-Que Barbeque</strong> and <strong>C Burger</strong> both at McGregor Square, <strong>Convivio Caf\u00e9</strong> (Guatemalan-inspired Alliance Center spot). Closure ledger weighted toward legacy exits: <strong>Aspen Baking Company</strong> abruptly shutters March 6 after 30+ years, leaving wholesale clients scrambling; <strong>303 Ramen</strong> suffers attic fire March 3; <strong>Colfax and Cream</strong> folds two locations after rapid expansion. Seven-day split: 20 opening leads versus 21 closures\u2014near-parity after prior week's 2:1 attrition skew.",
+      "blurb": "<strong>2 new leads today</strong> push the active roster to <strong>43 total</strong> (21 openings, 22 closures/temp closures). Saturday detections: <strong>Bad Rabbit Coffee</strong> opens RiNo brick-and-mortar in Cole after mobile caravan roots, third California Pizza Kitchen closure signal surfaces at Cherry Creek\u201425-year tenant finally confirmed shuttered summer 2025. Week's broader sweep spans downtown hospitality layer: <strong>Vaultaire</strong> launches today as subterranean HiFi listening bar beneath La For\u00eat on Broadway, <strong>Whisk and Willow Bakery</strong> cottage operation folds in West Colfax after 1-2 year run. Opening pipeline holds Union Station weight\u2014<strong>Fusion by Tinos Kitchen</strong> preps Wynkoop launch, <strong>Wapos Cantina Englewood</strong> fills former El Tepehuan slot in Rosedale. Closure ledger darkens: <strong>New Dragon</strong> Berkeley Chinese spot ends 13-year tenure, <strong>Sawa Mediterranean</strong> pivots University location to catering-only. Seven-day split now 21 openings versus 22 closures\u2014first net-negative week since late February.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "1",
+        "value1": "+1",
         "label2": "closed",
-        "value2": "0",
+        "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "20",
+        "value1": "+21",
         "label2": "closed",
-        "value2": "21",
+        "value2": "\u221222",
         "period": "this week"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>30 new filings this week</strong> extends the four-week deceleration pattern\u2014down 9% from last week's 33, now 39% below late-February's 49-filing peak. <strong>39 auctions</strong> queue for next seven days, total exposure <strong>$11.2M</strong>. Lone $2M+ property surfaces: Arapahoe County's <strong>South Columbine Circle</strong> at <strong>$2.24M</strong>, followed by Weld's Falcon Drive ($618K). Weld County leads active caseload at 391, El Paso follows at 375\u2014exurban concentration persists while Denver metro holds at 55. Four-week slide from 49\u219233\u219230 now mirrors March 2025's seasonal softening, suggesting spring auction surge stalling or displaced into April. Week-over-week filing decline minimal but directionally consistent\u2014velocity downshift holds.",
+      "blurb": "<strong>30 new filings this week</strong> flat-lines from last Saturday's 30-count\u2014four-week descent from 49-filing late-February peak now plateaued, breaking prior week's 9% decline momentum. <strong>39 auctions</strong> scheduled next seven days, aggregate exposure <strong>$11.2M</strong>. Sole $2M+ property: Arapahoe's <strong>South Columbine Circle at $2.24M</strong>, followed by Weld's Falcon Drive ($618K) and Arapahoe's Archer Avenue ($526K). Weld County sustains active caseload lead at 391, El Paso trails 375\u2014exurban concentration unchanged. Filing velocity now arrested after month-long slide (49\u219242\u219233\u219230\u219230), suggesting seasonal floor reached or March auction cycle exhausted. Stalled decline removes downward pressure but offers no recovery signal\u2014volume stuck at 38% below February peak, mirroring March 2025 spring softening pattern. Next week's data critical to assess whether 30-filing baseline holds or April surge ignites.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -30,46 +30,46 @@
         "label2": "upcoming auctions",
         "value2": "39",
         "class2": "",
-        "period": "this week"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "191",
+        "value1": "30",
         "class1": "",
         "label2": "sold",
         "value2": "28",
         "class2": "",
-        "period": "30-day"
+        "period": "7-day"
       }
     },
     "retail": {
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>4 mentions yesterday</strong> pull the <strong>7-day total to 42</strong> across 12 sources\u2014up 14% from prior week's 37, sustaining elevated baseline three weeks post-launch. <strong>Denver Post</strong> still dominates at 38% share (16 citations), Instagram and Facebook combine for 10 social pickups. Thursday notables: Speer ghost lot market listing via Hoodline, Bitcoin lawsuit coverage across Post, cryptocurrency investor feud echoing through social channels. Google News RSS captures 41 of 42 detections. Three-week trajectory now clear: explosive Week 1 launch spike (5\u219253) settled into 48-mention Week 2 plateau, now Week 3 tracking 42\u2014stabilization at ~6 daily mentions signals sustainable earned media velocity, not viral decay. Denver Post partnership driving consistent referral traffic.",
+      "blurb": "<strong>1 mention yesterday</strong> closes the <strong>7-day week at 45</strong> across 11 sources\u2014up 13% from prior week's 40, marking third consecutive week above 40-mention baseline. <strong>Denver Post</strong> claims 38% share (17 citations), Instagram contributes 7 pickups, social platforms combine for 15 total. Saturday lone detection: Colorado Sun's Littwin column on Post layoffs\u2014ironic meta-coverage of NewsGuild partner outlet. Week's notables include oldest-Colorado-hotel ownership change via Facebook, Mediterranean villa listing through Post real estate desk, Cherry Creek demolition Instagram coverage. Google News RSS captures 98% of flow (44 of 45). Four-week trajectory clarifies: launch-week explosion (53 mentions) settled to 48-mention Week 2, now 45 in Week 3 with 40-baseline Week 4\u2014system stabilizing at ~6.4 daily mentions, sustainable earned media velocity without viral decay. Post partnership anchors consistent referral traffic, social amplification layer adds discovery breadth.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "4",
+        "value1": "1",
         "class1": "",
-        "period": "yesterday"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "42",
+        "value1": "45",
         "class1": "up",
         "label2": "sources",
-        "value2": "12",
+        "value2": "11",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) marks third consecutive single-digit day, pushing <strong>MTD to +17</strong> (+1.3/day) with <strong>90-day cumulative at +80</strong>. Past fourteen days reveal momentum fade: explosive March 2 opener (+4 net) and March 9 surge (+6 net) now decelerated to +1 daily crawl across Thursday-Friday. Seven-day total of +15 (23 new, 8 canceled) outpaces prior week's anemic +2, but driven entirely by early-week 6-net spike March 9\u2014subsequent five days average +1.8/day. Cancellation floor stabilized at 1-2/day, but new subscriber acquisition cooled from mid-week 8-add peak to current 1/day trickle. March's 1.3/day rate edges above YTD's 1.2/day benchmark, but weekend must deliver to prevent late-month velocity collapse. Pattern suggests strong month-open followed by mid-month plateau\u2014Q1 finish trajectory uncertain.",
+      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) lifts <strong>MTD to +19</strong> (+1.4/day), <strong>90-day cumulative to +80</strong>. Past seven days deliver +17 net (25 new, 8 canceled)\u20148.5x improvement over prior week's anemic +2 (22 new, 20 canceled). March's momentum now anchored by two mid-month surges: March 9's +6 spike and March 12's +4 pop, offsetting March 5's \u22124 cancellation wave. Cancellation rate compressed to 1.1/day this week versus 2.9/day prior\u2014churn containment driving net recovery as much as new acquisition lift. Month's 1.4/day rate edges YTD's 1.2/day benchmark upward, but weekend zero-net Friday-Saturday (Mar 13-14) raises sustainability questions. Fourteen-day pattern: explosive early-month volatility (Mar 2-5 swung +4 to \u22124) now stabilizing into steadier +1 to +4 daily range. If March holds 1.4/day through month-end, delivers ~22-net finish\u2014modest but directionally positive after Q1's rocky start.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "17",
-      "net_ytd": "87",
-      "net_mtd_per_day": "1.3",
+      "net_mtd": "19",
+      "net_ytd": "89",
+      "net_mtd_per_day": "1.4",
       "net_ytd_per_day": "1.2"
     }
   }
