@@ -1,78 +1,87 @@
 {
   "fetched_date": "2026-03-15",
-  "fetched_at": "2026-03-15 05:07:13",
+  "fetched_at": "2026-03-15 07:00:30",
   "article_count": 20,
   "breaking_count": 3,
   "articles": [
+    {
+      "title": "2 injured in southeast Denver shooting",
+      "link": "https://www.9news.com/article/news/crime/2-shot-southeast-denver/73-5ccb1e06-ade9-4cc8-94c1-a6ea319701c6",
+      "source": "9News",
+      "pub_date": "2026-03-15T05:14:24+00:00",
+      "age_hours": 1.7639696719444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Police on the scene of serious motorcycle crash in Denver",
       "link": "https://kdvr.com/news/local/police-on-the-scene-of-serious-motorcycle-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-03-15T02:39:07+00:00",
-      "age_hours": 2.464444855,
+      "age_hours": 4.352199848333334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Grass fire near amusement park puts off heavy smoke over I-70 west of Denver",
       "link": "https://www.9news.com/article/news/local/grass-fire-puts-up-heavy-smoke-over-i-70-west-of-denver/73-ff2e191f-f133-4e4f-89f3-2bde057d49c9",
       "source": "9News",
       "pub_date": "2026-03-15T02:32:53+00:00",
-      "age_hours": 2.5680384472222224,
+      "age_hours": 4.455914131111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver weather: Pinpoint Weather Alert Day whipping winds, mountain snow",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-pinpoint-weather-alert-day-whipping-winds-mountain-snow/",
       "source": "Fox31",
       "pub_date": "2026-03-14T23:41:36+00:00",
-      "age_hours": 5.4230559475,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.310810940833334,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver celebrates St. Patrick's Day with parade",
       "link": "https://www.9news.com/article/life/style/colorado-guide/denver-st-patricks-day-parade/73-dc55ecac-bef0-4228-aef1-b8f5cbe9f252",
       "source": "9News",
       "pub_date": "2026-03-14T19:45:00+00:00",
-      "age_hours": 9.366094036666667,
+      "age_hours": 11.25396971611111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Trump administration order to restart California oil pipeline ignites legal and environmental fight",
       "link": "https://www.9news.com/article/news/nation-world/trump-administration-executive-order-energy-department-santa-ynez-pipeline-system-california/507-3fb84864-5930-40f6-a4a6-2facb5e56653",
       "source": "9News",
       "pub_date": "2026-03-14T13:54:28+00:00",
-      "age_hours": 15.208316288611112,
+      "age_hours": 17.096191967777777,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "What\u2019s Working: Denver leads US for apartment concessions as landlords aim to fill oversupply",
       "link": "https://coloradosun.com/2026/03/14/denver-apartment-concessions-landlords-rentals/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-14T10:00:00+00:00",
-      "age_hours": 19.116018225833333,
+      "age_hours": 21.003770194444446,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Every Opening and Closing This Week: Colfax Doubles Down on Dim Sum and More",
       "link": "https://www.westword.com/food-drink/colfax-dim-sim-spot-expands-and-more-new-denver-restaurants-40856391/",
       "source": "Westword",
       "pub_date": "2026-03-14T07:00:00-06:00",
-      "age_hours": 16.116465260555557,
+      "age_hours": 18.004237834444442,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Boulder community continues to speak out about NCAR closure",
       "link": "https://www.denver7.com/news/front-range/boulder/boulder-community-continues-to-speak-out-about-ncar-closure",
       "source": "Denver7",
       "pub_date": "2026-03-14T03:34:28+00:00",
-      "age_hours": 25.541749304444444,
+      "age_hours": 27.42966803527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://kdvr.com/news/local/denver-st-patricks-day-parade-returns-with-irish-fest-celebration-downtown/",
       "source": "Fox31",
       "pub_date": "2026-03-14T03:07:15+00:00",
-      "age_hours": 25.99555601861111,
+      "age_hours": 27.883311011666663,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/stacking-up-good-news-brick-by-brick/73-d48305e7-653f-417a-ada1-950fe9442c8d",
       "source": "9News",
       "pub_date": "2026-03-14T01:14:12+00:00",
-      "age_hours": 27.87942744138889,
+      "age_hours": 29.767303115555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://kdvr.com/news/local/denver-artist-hopes-to-blow-minds-with-extra-special-laser-cage-show-this-weekend/",
       "source": "Fox31",
       "pub_date": "2026-03-13T23:17:43+00:00",
-      "age_hours": 29.82111158361111,
+      "age_hours": 31.708866576111113,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/03/13/nude-foods-survives-shark-tank-barely/",
       "source": "BizWest",
       "pub_date": "2026-03-13T20:39:20+00:00",
-      "age_hours": 32.460022197499995,
+      "age_hours": 34.34772062583333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://sentinelcolorado.com/0trending/reserve-deputy-tabbed-for-aurora-civil-service-commission-lawmakers-mull-other-removal/",
       "source": "Sentinel",
       "pub_date": "2026-03-13T20:09:49+00:00",
-      "age_hours": 32.9531537825,
+      "age_hours": 34.84086837583334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://bizwest.com/2026/03/13/the-budget-triangle-fast-cheap-or-fancy-pick-two/",
       "source": "BizWest",
       "pub_date": "2026-03-13T20:06:49+00:00",
-      "age_hours": 33.00196665166666,
+      "age_hours": 34.889665090277774,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://sentinelcolorado.com/metro/metros-oldest-irish-bar-sheabeen-in-aurora-gears-up-for-st-patricks-day/",
       "source": "Sentinel",
       "pub_date": "2026-03-13T19:51:40+00:00",
-      "age_hours": 33.25565380055556,
+      "age_hours": 35.14336839388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/03/13/site-picked-for-new-estes-park-police-station/",
       "source": "BizWest",
       "pub_date": "2026-03-13T19:46:07+00:00",
-      "age_hours": 33.346966655833334,
+      "age_hours": 35.23466509777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/03/13/red-flags-raised-for-colorados-economy-in-national-ranking-but-it-remains-in-top-10/",
       "source": "CO Politics",
       "pub_date": "2026-03-13T19:08:34+00:00",
-      "age_hours": 33.97396008638889,
+      "age_hours": 35.8616763225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/03/13/colorado-plans-to-slash-interim-committee-work-amid-budget-woes/",
       "source": "CO Politics",
       "pub_date": "2026-03-13T18:56:01+00:00",
-      "age_hours": 34.18312677111111,
+      "age_hours": 36.070843008055554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/03/13/nar-economist-lawrence-yun-to-keynote-northern-colorado-real-estate-summit/",
       "source": "BizWest",
       "pub_date": "2026-03-13T13:23:37+00:00",
-      "age_hours": 39.72196665888889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Laird completes acquisition of organic health-food company Navitas",
-      "link": "https://bizwest.com/2026/03/13/laird-completes-acquisition-of-organic-health-food-company-navitas/",
-      "source": "BizWest",
-      "pub_date": "2026-03-13T12:59:58+00:00",
-      "age_hours": 40.11613332888889,
+      "age_hours": 41.609665103333334,
       "breaking": false,
       "time_ago": "1 day ago"
     }
