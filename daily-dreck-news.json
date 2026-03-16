@@ -1,24 +1,33 @@
 {
   "fetched_date": "2026-03-16",
-  "fetched_at": "2026-03-16 22:36:36",
+  "fetched_at": "2026-03-16 23:34:26",
   "article_count": 20,
   "breaking_count": 11,
   "articles": [
+    {
+      "title": "Weather whiplash: Historic March heat wave looms for Colorado",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-16T23:02:21+00:00",
+      "age_hours": 0.5289018463888888,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "Fire prevention company moves HQ to Denver, demonstrates CitroTech",
+      "link": "https://kdvr.com/news/local/fire-prevention-company-moves-hq-to-denver-demonstrates-citrotech/",
+      "source": "Fox31",
+      "pub_date": "2026-03-16T22:41:06+00:00",
+      "age_hours": 0.8840603094444445,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
     {
       "title": "Former Colorado funeral home owner sentenced to 18 years in prison after giving families fake ashes",
       "link": "https://coloradosun.com/2026/03/16/former-colorado-funeral-home-owner-sentenced-to-18-years-in-prison-after-giving-families-fake-ashes/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-16T22:10:03+00:00",
-      "age_hours": 0.4380555927777777,
-      "breaking": true,
-      "time_ago": "26 min ago"
-    },
-    {
-      "title": "Weather whiplash: Historic March heat wave looms for Colorado",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-16T21:12:08+00:00",
-      "age_hours": 1.4034746158333335,
+      "age_hours": 1.4003781591666666,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -27,133 +36,133 @@
       "link": "https://bizwest.com/2026/03/16/transwest-acquires-power-equipment-co-building-in-greeley/",
       "source": "BizWest",
       "pub_date": "2026-03-16T20:08:14+00:00",
-      "age_hours": 2.4678529675000003,
+      "age_hours": 3.429978475555555,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Longmont senior community rebrands after $39M+ sale",
       "link": "https://bizwest.com/2026/03/16/longmont-senior-community-rebrands-after-39m-sale/",
       "source": "BizWest",
       "pub_date": "2026-03-16T20:03:24+00:00",
-      "age_hours": 2.5484085344444445,
+      "age_hours": 3.5105340422222224,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Greenwood Village Storage Company to be Acquired for $10.5B",
       "link": "https://milehighcre.com/greenwood-village-storage-company-to-be-acquired-for-10-5b/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-16T18:38:26+00:00",
-      "age_hours": 3.964914683611111,
+      "age_hours": 4.927190964722222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver could break warmest temperature ever recorded in March",
       "link": "https://kdvr.com/weather/wx-news/denver-could-break-warmest-temperature-ever-recorded-in-march/",
       "source": "Fox31",
       "pub_date": "2026-03-16T18:23:17+00:00",
-      "age_hours": 4.217827634444444,
+      "age_hours": 5.181004778611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver delivers big crowd for pro women's hockey takeover tour",
       "link": "https://kdvr.com/news/denver-delivers-big-crowd-for-pro-womens-hockey-takeover-tour/",
       "source": "Fox31",
       "pub_date": "2026-03-16T17:57:45+00:00",
-      "age_hours": 4.643383200000001,
+      "age_hours": 5.606560346666666,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Ash & Agave to Open at\u00a0Cherry Creek Mall",
       "link": "https://milehighcre.com/ash-agave-to-open-at-cherry-creek-mall/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-16T17:44:47+00:00",
-      "age_hours": 4.859081358888889,
+      "age_hours": 5.821357639722223,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver company tells story of product in Oscars nominee gift bags four years running",
       "link": "https://www.denver7.com/money/consumer/denver-company-tells-story-of-product-in-oscars-nominee-gift-bags-four-years-running",
       "source": "Denver7",
       "pub_date": "2026-03-16T16:43:19+00:00",
-      "age_hours": 5.883904111388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.846961263888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Where to find the cheapest gas near Denver as prices near $4",
       "link": "https://kdvr.com/news/local/where-to-find-the-cheapest-gas-near-denver-as-prices-near-4/",
       "source": "Fox31",
       "pub_date": "2026-03-16T16:33:29+00:00",
-      "age_hours": 6.047827621111111,
+      "age_hours": 7.011004763888889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Avanti Residential Acquires Townhomes in Fort Collins for $40.9M",
       "link": "https://milehighcre.com/avanti-residential-acquires-townhomes-in-fort-collins-for-40-9m/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-16T16:23:09+00:00",
-      "age_hours": 6.219636918333333,
+      "age_hours": 7.181913199166666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "US gas prices are the highest they've been since 2023",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/gas-prices-continue-climbing-closer-to-4-per-gallon/507-5ef395dc-7f14-476e-a294-f7f7c1291f7a",
       "source": "9News",
       "pub_date": "2026-03-16T15:14:10+00:00",
-      "age_hours": 7.369585767777777,
+      "age_hours": 8.331957451111112,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "$200M Brighton Facility Will Make Modular Data Centers",
       "link": "https://www.bisnow.com/denver/news/data-center/200m-data-center-factory-coming-to-brighton-133672",
       "source": "Bisnow",
       "pub_date": "2026-03-16T15:12:51-04:00",
-      "age_hours": 3.391114928888889,
+      "age_hours": 4.353361010277777,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "How to check TSA wait times at Denver International Airport",
       "link": "https://kdvr.com/news/local/how-to-check-tsa-wait-times-at-denver-international-airport/",
       "source": "Fox31",
       "pub_date": "2026-03-16T15:06:04+00:00",
-      "age_hours": 7.504772050555555,
+      "age_hours": 8.467949176388888,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver Water crews to close Yale Avenue for a month",
       "link": "https://www.9news.com/article/traffic/denver-water-east-yale-ave-closure/73-80aecc2f-7bfe-4124-a93f-9a598467aed1",
       "source": "9News",
       "pub_date": "2026-03-16T14:07:38+00:00",
-      "age_hours": 8.478474674444445,
+      "age_hours": 9.440846357777778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Thousands of JBS employees strike in Greeley",
       "link": "https://bizwest.com/2026/03/16/thousands-of-jbs-employees-strike-in-greeley/",
       "source": "BizWest",
       "pub_date": "2026-03-16T13:42:41+00:00",
-      "age_hours": 8.8936863175,
+      "age_hours": 9.855811824166667,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Upscale Steakhouse Chain Debuts Second Colorado Location",
       "link": "https://www.westword.com/food-drink/lone-tree-location-of-popular-steakhouse-chain-is-now-open-40857945/",
       "source": "Westword",
       "pub_date": "2026-03-16T13:34:54-06:00",
-      "age_hours": 3.024331605,
+      "age_hours": 3.9876515783333333,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -162,25 +171,16 @@
       "link": "https://www.9news.com/article/weather/weather-impact/denver-record-breaking-heat-forecast/73-fcbdbcd3-20fa-47ec-84d8-9c4842b8fe50",
       "source": "9News",
       "pub_date": "2026-03-16T13:03:38+00:00",
-      "age_hours": 9.545141350277778,
+      "age_hours": 10.507513033333334,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver weather: More sunshine and melting Monday before a big warm up",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-sunshine-and-melting-monday-before-a-big-warm-up/",
       "source": "Fox31",
       "pub_date": "2026-03-16T12:00:39+00:00",
-      "age_hours": 10.595049870555556,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Retailers cutting back on discount codes \u2014 how shoppers can still save money",
-      "link": "https://www.denver7.com/dont-waste-your-money/retailers-cutting-back-on-discount-codes-how-shoppers-can-still-save-money",
-      "source": "Denver7",
-      "pub_date": "2026-03-16T11:06:03+00:00",
-      "age_hours": 11.505015231944444,
+      "age_hours": 11.558227018611111,
       "breaking": false,
       "time_ago": "11 hrs ago"
     }
