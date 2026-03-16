@@ -1,123 +1,150 @@
 {
   "fetched_date": "2026-03-16",
-  "fetched_at": "2026-03-16 13:18:01",
+  "fetched_at": "2026-03-16 15:02:39",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Denver Water crews to close East Yale Ave for a month",
+      "link": "https://www.9news.com/article/traffic/denver-water-east-yale-ave-closure/73-80aecc2f-7bfe-4124-a93f-9a598467aed1",
+      "source": "9News",
+      "pub_date": "2026-03-16T14:07:38+00:00",
+      "age_hours": 0.9123640430555555,
+      "breaking": true,
+      "time_ago": "54 min ago"
+    },
+    {
+      "title": "Thousands of JBS employees strike in Greeley",
+      "link": "https://bizwest.com/2026/03/16/thousands-of-jbs-employees-strike-in-greeley/",
+      "source": "BizWest",
+      "pub_date": "2026-03-16T13:42:41+00:00",
+      "age_hours": 1.3276377144444445,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver braces for historic March heat wave with record-breaking temperatures ahead",
       "link": "https://www.9news.com/article/weather/weather-impact/denver-record-breaking-heat-forecast/73-fcbdbcd3-20fa-47ec-84d8-9c4842b8fe50",
       "source": "9News",
       "pub_date": "2026-03-16T13:03:38+00:00",
-      "age_hours": 0.23513054916666665,
+      "age_hours": 1.9790307233333333,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Bad business? Aurora lawmakers look at limiting vape, pawn shops, check-cashers",
       "link": "https://sentinelcolorado.com/metro/bad-business-aurora-lawmakers-look-at-limiting-vape-pawn-shops-check-cashers/",
       "source": "Sentinel",
       "pub_date": "2026-03-16T12:47:39+00:00",
-      "age_hours": 0.5023940616666667,
+      "age_hours": 2.246050996388889,
       "breaking": true,
-      "time_ago": "30 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver weather: More sunshine and melting Monday before a big warm up",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-sunshine-and-melting-monday-before-a-big-warm-up/",
       "source": "Fox31",
       "pub_date": "2026-03-16T12:00:39+00:00",
-      "age_hours": 1.2852215594444445,
+      "age_hours": 3.0288907616666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Retailers cutting back on discount codes \u2014 how shoppers can still save money",
       "link": "https://www.denver7.com/dont-waste-your-money/retailers-cutting-back-on-discount-codes-how-shoppers-can-still-save-money",
       "source": "Denver7",
       "pub_date": "2026-03-16T11:06:03+00:00",
-      "age_hours": 2.1950331025,
+      "age_hours": 3.9388738325,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Weather whiplash: Denver faces record-breaking March heatwave this week.",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-16T11:05:20+00:00",
-      "age_hours": 2.206797240277778,
+      "age_hours": 3.9506974063888887,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado boy is the first U.S. pediatric patient to get new sleep apnea device",
       "link": "https://www.denver7.com/lifestyle/health/colorado-boy-is-the-first-u-s-pediatric-patient-to-get-new-sleep-apnea-device",
       "source": "Denver7",
       "pub_date": "2026-03-16T11:00:00+00:00",
-      "age_hours": 2.295866448611111,
+      "age_hours": 4.039707178333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "How to avoid 'March Madness' spending this month",
       "link": "https://www.denver7.com/money/how-to-avoid-march-madness-spending-this-month",
       "source": "Denver7",
       "pub_date": "2026-03-16T10:30:00+00:00",
-      "age_hours": 2.7958664527777777,
+      "age_hours": 4.5397071825,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Providing Medicaid to immigrants who are children or pregnant is costing Colorado 611% more than expected",
       "link": "https://coloradosun.com/2026/03/16/colorado-medicaid-immigrants-cost-overruns/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-16T10:18:00+00:00",
-      "age_hours": 2.9955354716666664,
+      "age_hours": 4.739463731944444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Four education bills we\u2019re keeping an eye on as Colorado legislature reaches halfway point",
       "link": "https://coloradosun.com/2026/03/16/colorado-education-bills-2026-legislative-session/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-16T10:00:00+00:00",
-      "age_hours": 3.295535492777778,
+      "age_hours": 5.039463751666666,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "IndyCar proposed to race near downtown Denver",
       "link": "https://www.9news.com/article/sports/motor/indycar-race-proposed-denver/73-b41667a2-6074-4404-a93d-a5ebde60ccb9",
       "source": "9News",
       "pub_date": "2026-03-16T09:42:27+00:00",
-      "age_hours": 3.588186148611111,
+      "age_hours": 5.332086314444444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Cannabis Calendar: March Madness and Mary JAne",
+      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
+      "source": "Westword",
+      "pub_date": "2026-03-16T09:02:00-06:00",
+      "age_hours": 0.006564006944444444,
+      "breaking": true,
+      "time_ago": "0 min ago"
+    },
+    {
+      "title": "Downtown Mexican Restaurant Reopens on 16th Street",
+      "link": "https://www.westword.com/food-drink/downtown-mexican-restaurant-reopens-on-16th-street-after-long-break-40855685/",
+      "source": "Westword",
+      "pub_date": "2026-03-16T08:50:26-06:00",
+      "age_hours": 0.19934179666666665,
+      "breaking": true,
+      "time_ago": "11 min ago"
     },
     {
       "title": "Heat, snow mix affecting Colorado businesses",
       "link": "https://kdvr.com/news/local/heat-snow-mix-affecting-colorado-businesses/",
       "source": "Fox31",
       "pub_date": "2026-03-16T02:13:30+00:00",
-      "age_hours": 11.071054907499999,
+      "age_hours": 12.814724109444445,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "61-year-old arrested in connection with double shooting",
       "link": "https://kdvr.com/news/local/61-year-old-arrested-in-connection-with-double-shooting/",
       "source": "Fox31",
       "pub_date": "2026-03-15T23:28:26+00:00",
-      "age_hours": 13.822165988055556,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Denver weather: Summer heat on the way",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-summer-heat-on-the-way/",
-      "source": "Fox31",
-      "pub_date": "2026-03-15T22:15:22+00:00",
-      "age_hours": 15.039943830277776,
+      "age_hours": 15.565835189166666,
       "breaking": false,
       "time_ago": "15 hrs ago"
     },
@@ -126,63 +153,36 @@
       "link": "https://kdvr.com/sports/denver-summit-fc/denver-summit-fc-drops-in-debut/",
       "source": "Fox31",
       "pub_date": "2026-03-15T18:13:38+00:00",
-      "age_hours": 19.068832694166666,
+      "age_hours": 20.81250189611111,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Pioneers advance to NCHC Championship",
       "link": "https://kdvr.com/sports/pioneers-advance-to-nchc-championship/",
       "source": "Fox31",
       "pub_date": "2026-03-15T16:51:14+00:00",
-      "age_hours": 20.442166031944442,
+      "age_hours": 22.185835233611108,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Documentary captures love, life, poetry in story about the late Andrea Gibson",
       "link": "https://bizwest.com/2026/03/15/documentary-captures-love-life-poetry-in-story-about-the-late-andrea-gibson/",
       "source": "BizWest",
       "pub_date": "2026-03-15T16:51:13+00:00",
-      "age_hours": 20.441478618888887,
+      "age_hours": 22.185415504999998,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "How much snow fell in Colorado over the weekend?",
       "link": "https://kdvr.com/weather/wx-news/how-much-snow-fell-in-the-denver-metro-area/",
       "source": "Fox31",
       "pub_date": "2026-03-15T16:43:11+00:00",
-      "age_hours": 20.57633266638889,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Littwin: Denver Post to City: Drop Dead",
-      "link": "https://coloradosun.com/2026/03/15/denver-post-rent-opinion-littwin/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-03-15T09:05:00+00:00",
-      "age_hours": 28.212204078333336,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Reader: We\u2019re Not Eating Out As Much Because of the Extra Fees",
-      "link": "https://www.westword.com/opinion/denver-diners-debate-credit-card-swipe-fees-added-charges-40856715/",
-      "source": "Westword",
-      "pub_date": "2026-03-15T08:53:00-06:00",
-      "age_hours": 22.412964380277774,
+      "age_hours": 22.320001866111113,
       "breaking": false,
       "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Police on the scene of serious motorcycle crash in Denver",
-      "link": "https://kdvr.com/news/local/police-on-the-scene-of-serious-motorcycle-crash-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-03-15T02:39:07+00:00",
-      "age_hours": 34.64411047972222,
-      "breaking": false,
-      "time_ago": "1 day ago"
     }
   ]
 }
