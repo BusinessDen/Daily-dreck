@@ -1,32 +1,32 @@
 {
-  "generated_date": "2026-03-16",
-  "lead_headline": "Five weekend restaurant leads surface\u2014new HiFi bar Vaultaire debuts beneath La For\u00eat, RiNo coffee roastery opens brick-and-mortar, while foreclosure filings slip 9% week-over-week to 30",
+  "generated_date": "2026-03-17",
+  "lead_headline": "Restaurant pipeline jumps to 47 active leads as Mendocino Farms opens second Denver location and Otra Vez Cantina resurfaces after pandemic closure",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 new leads over the weekend</strong> push active roster to <strong>45 total</strong> (22 openings, 23 closures). Opening highlights: <strong>Vaultaire</strong> launched Saturday as subterranean HiFi listening bar beneath La For\u00eat on Broadway, <strong>Bad Rabbit Coffee</strong> transitions mobile caravan to RiNo brick-and-mortar in Cole, <strong>Chaton Bakery</strong> preps Aurora debut near H Mart Parker Commons. Closure ledger adds <strong>The Barn South Broadway</strong> Englewood signal\u2014upscale American concept announced March 2025 now showing closure indicators before apparent launch. Weekend detections mirror ongoing Union Station hospitality build-out (Vaultaire, earlier C Burger/G-Que) against neighborhood attrition pattern. Active pipeline holds 22 opening leads versus 23 closures\u2014roster nearly balanced after prior week's first net-negative tilt since February.",
+      "blurb": "<strong>4 new leads today</strong> expand active roster to <strong>47 total</strong> (24 openings, 23 closures)\u2014Tuesday bump adds <strong>Mendocino Farms' Highlands debut</strong> (3453 W 32nd Ave, second Denver outpost from California chain), <strong>Otra Vez Cantina's pandemic comeback</strong> (CBD location reopened yesterday after multi-year hiatus), plus Aurora's <strong>Chaton Bakery</strong> website launch near H Mart and <strong>The Barn South Broadway</strong> closure confirmation in Englewood. Opening leads now edge closures 24-23 after Monday's brief balance\u2014Mendocino expansion mirrors earlier Union Station activity (C Burger, G-Que, Ogo Korean BBQ clustered launches). Week's pattern: downtown/near-downtown hospitality build continues while suburban closures accumulate (CPK Cherry Creek, multiple Dairy Queens, Safeway Aurora all confirmed shuttered). Pipeline tilts net-positive for first time since weekend.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "+2",
         "label2": "closed",
         "value2": "\u22122",
-        "period": "since Friday"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "22",
+        "value1": "+24",
         "label2": "closed",
-        "value2": "23",
+        "value2": "\u221223",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>30 new filings this week</strong> down 9% from prior week's 33\u2014five-week descent from February's 49-filing peak continues (49\u219242\u219233\u219230), erasing earlier plateau signal. <strong>39 auctions</strong> next seven days, aggregate <strong>$11.2M</strong> exposure. Single $2M+ property: Arapahoe's <strong>South Columbine Circle at $2.24M</strong>, followed by Weld's $618K Falcon Drive. Weld County maintains active lead at 391 cases, El Paso 375\u2014exurban concentration unchanged. Four-week downtrend now clearly extended, not arrested\u2014March filings running 39% below February peak. Trajectory suggests seasonal spring softening aligns with 2025 pattern, not distressed inventory surge. Weekly decline pace slowing (22% drop Week 1, 21% Week 2, 9% this week) implies descending approach toward March floor, likely 25-30 filing baseline before April cycle resets.",
+      "blurb": "<strong>30 filings this week</strong> hold prior week's floor after five-week descent (49\u219242\u219233\u219230)\u2014decline arrested at 30-filing threshold, suggesting March baseline discovered. <strong>39 auctions scheduled</strong> next seven days, <strong>$11.2M aggregate exposure</strong> unchanged from Sunday count. Arapahoe's <strong>$2.24M South Columbine Circle</strong> remains week's sole seven-figure property, Weld's $618K Falcon Drive ranks second. County distribution stable: Weld 395 active cases, El Paso 375, Arapahoe 360\u2014exurban concentration persists. Filing trajectory flattened: 9% weekly drop (versus 21-22% prior weeks) indicates deceleration into spring floor range. If 30-filing baseline sustains through March close, seasonal pattern aligns with 2025 comparables\u2014no distressed inventory surge materializing despite earlier February spike concerns.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "30",
-        "class1": "down",
+        "class1": "",
         "label2": "upcoming auctions",
         "value2": "39",
         "class2": "",
@@ -46,18 +46,18 @@
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>1 mention over the weekend</strong> closes seven-day period at <strong>44 citations</strong> across 11 sources\u2014flat versus prior week's 43, settling into 43-45 range after launch volatility. <strong>Denver Post</strong> holds 36% share (16 pickups), Instagram contributes 7, social platforms combine for 15. Weekend lone detection: educational upein.edu.pe republishing 2021 Herd hires-departures archive content. Week's notables: Colorado Sun Littwin column on Post layoffs, oldest-Colorado-hotel ownership via Facebook, Mediterranean villa Post real estate listing. Google News RSS captures 98% discovery flow (43 of 44). Four-week pattern now clear: launch explosion (53) descended to 48, stabilized at 44-43 baseline\u2014system equilibrium reached at ~6.3 daily mentions. Post partnership anchors referral consistency, social layer adds amplification breadth without viral dependency.",
+      "blurb": "<strong>3 mentions yesterday</strong> sustain seven-day total at <strong>39 citations</strong> across 11 sources\u2014down 22% from prior week's 50, breaking four-week 43-50 stability range. <strong>Denver Post</strong> share drops to 33% (13 of 39, versus 36% prior week), Instagram holds 8 pickups, social platforms contribute 9 combined. Notable detections: Traverse Fitness Instagram tease (South Broadway-to-Highlands expansion), Cherry Creek demolition update, upein.edu.pe archive republish. Week's decline driven by Post pickup compression (16\u219213) rather than source diversification\u201411 unique outlets unchanged week-over-week. Google News RSS captures 97% discovery (38 of 39). Pattern shift: launch-era 48-53 range descended to 43-45 plateau, now testing 39 floor\u2014suggests either seasonal March dip or recalibration after initial partnership honeymoon. Four-week moving average now 44 daily mentions, down from 47.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "3",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "44",
-        "class1": "",
+        "value1": "39",
+        "class1": "down",
         "label2": "sources",
         "value2": "11",
         "class2": "",
@@ -65,12 +65,12 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +3 since Friday</strong> (3 new, 0 canceled) lifts <strong>MTD to +19</strong> (+1.3/day), <strong>90-day cumulative to +83</strong>. Weekend delivered perfect retention\u2014zero churn Saturday-Sunday after Friday's +1. Seven-day window now +17 net (24 new, 7 canceled), 2.4x improvement over prior week's +7 (29 new, 22 canceled). Cancellation compression drives gains: 1.0/day churn this week versus 3.1/day prior\u2014retention tightening lifts net as much as acquisition. March's 1.3/day pace edges YTD's 1.2/day benchmark modestly upward. Two-week pattern: early-month volatility (Mar 2-5 swung +4 to \u22124) now stabilized into +1 to +6 daily range, with mid-month March 9 (+6) and March 12 (+4) peaks anchoring momentum. Trend sustainable if weekend zero-churn holds as baseline rather than anomaly.",
+      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) lifts <strong>MTD to +25</strong> (+1.6/day), <strong>90-day cumulative to +87</strong>. Monday extends weekend's zero-churn streak\u2014three consecutive days without cancellations after mid-week March 12 volatility. Seven-day window now <strong>+17 net</strong> (22 new, 5 canceled), 2.8x improvement over prior week's +6 (30 new, 24 canceled). Retention compression continues: 0.7/day churn this week versus 3.4/day prior\u2014cancellation discipline drives gains as much as acquisition pace. March's 1.6/day rate now exceeds YTD's 1.3/day benchmark by 23%. Two-week pattern: early-month Mar 3-5 turbulence (\u22124 low) resolved into stable +1 to +6 range, with March 9 (+6) and March 16 (+4) peaks anchoring momentum. Three-day zero-churn run (Mar 14-16) unprecedented in 14-day window\u2014sustainability test arrives if pattern holds through week's close.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": 19,
-      "net_ytd": 89,
-      "net_mtd_per_day": 1.3,
-      "net_ytd_per_day": 1.2
+      "net_mtd": "25",
+      "net_ytd": "95",
+      "net_mtd_per_day": "1.6",
+      "net_ytd_per_day": "1.3"
     }
   }
 }
