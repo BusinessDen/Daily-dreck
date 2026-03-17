@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-03-17",
-  "fetched_at": "2026-03-17 22:35:54",
+  "fetched_at": "2026-03-17 23:35:26",
   "article_count": 20,
-  "breaking_count": 15,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Accused serial killer convicted in 1996 Denver murder",
+      "link": "https://www.9news.com/article/news/crime/man-convicted-in-1996-denver-murder/73-4ecbbe63-2178-4899-b864-0625cc697aef",
+      "source": "9News",
+      "pub_date": "2026-03-17T23:18:15+00:00",
+      "age_hours": 0.28067229222222223,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
     {
       "title": "Denver weather: Warming up to record levels",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warming-up-to-record-levels/",
       "source": "Fox31",
       "pub_date": "2026-03-17T22:16:03+00:00",
-      "age_hours": 0.32607135944444443,
+      "age_hours": 1.3182399361111112,
       "breaking": true,
-      "time_ago": "19 min ago"
-    },
-    {
-      "title": "Accused serial killer convicted in 1996 Denver murder",
-      "link": "https://www.9news.com/article/news/crime/man-convicted-in-1996-denver-murder/73-4ecbbe63-2178-4899-b864-0625cc697aef",
-      "source": "9News",
-      "pub_date": "2026-03-17T22:14:58+00:00",
-      "age_hours": 0.34375051944444446,
-      "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Man killed in northeast Denver shooting",
       "link": "https://www.9news.com/article/news/crime/man-killed-northeast-denver-shooting/73-10567ccf-ef8a-4869-8534-c0ff24ad6294",
       "source": "9News",
       "pub_date": "2026-03-17T22:07:41+00:00",
-      "age_hours": 0.46513941999999997,
+      "age_hours": 1.4567834375,
       "breaking": true,
-      "time_ago": "27 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Wing Shack debuts in Denver metro, plans major expansion",
       "link": "https://bizwest.com/2026/03/17/wing-shack-debuts-in-denver-metro-plans-major-expansion/",
       "source": "BizWest",
       "pub_date": "2026-03-17T21:32:57+00:00",
-      "age_hours": 1.0429493366666667,
+      "age_hours": 2.0347011469444443,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Capitol Police chief asks for record-breaking budget, citing 58% increase in threats to Congress",
       "link": "https://www.coloradopolitics.com/2026/03/17/capitol-police-chief-asks-for-record-breaking-budget-citing-58-increase-in-threats-to-congress/",
       "source": "CO Politics",
       "pub_date": "2026-03-17T21:31:25+00:00",
-      "age_hours": 1.0704115375,
+      "age_hours": 2.062579234722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "PCL Tops Out $192M AI-Ready Data Center",
       "link": "https://milehighcre.com/pcl-tops-out-192-m-ai-ready-data-center/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-17T21:29:33+00:00",
-      "age_hours": 1.1004378902777778,
+      "age_hours": 2.091965996388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Fort Collins\u2019 Enclave Rigden Farm sells for nearly $41M",
       "link": "https://bizwest.com/2026/03/17/fort-collins-enclave-rigden-farm-sells-for-nearly-41m/",
       "source": "BizWest",
       "pub_date": "2026-03-17T21:20:33+00:00",
-      "age_hours": 1.249616013888889,
+      "age_hours": 2.2413678233333334,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Journalists to offer fact-vs.-fiction guide",
       "link": "https://bizwest.com/2026/03/17/journalists-to-offer-fact-vs-fiction-guide/",
       "source": "BizWest",
       "pub_date": "2026-03-17T21:13:39+00:00",
-      "age_hours": 1.3646160180555555,
+      "age_hours": 2.356367827777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "'The Lord of the Rings' star to host rave in Denver",
       "link": "https://kdvr.com/denver-guide/things-to-do/the-lord-of-the-rings-star-to-host-rave-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-03-17T20:26:36+00:00",
-      "age_hours": 2.150238035277778,
+      "age_hours": 3.1424065800000003,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Man found shot dies in hospital, Denver police investigating as homicide",
       "link": "https://kdvr.com/news/local/man-found-shot-dies-in-hospital-denver-police-investigating-as-homicide/",
       "source": "Fox31",
       "pub_date": "2026-03-17T19:45:06+00:00",
-      "age_hours": 2.84190471,
+      "age_hours": 3.8340732805555557,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Aurora Fox program offers acting training and \u2018She Kills Monsters\u2019 performance",
       "link": "https://sentinelcolorado.com/metro/education/aurora-fox-program-offers-acting-training-and-she-kills-monsters-performance/",
       "source": "Sentinel",
       "pub_date": "2026-03-17T19:42:44+00:00",
-      "age_hours": 2.8819086222222223,
+      "age_hours": 3.874015045277778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Fine dining dry-aged steak, seafood restaurant opens in Lone Tree",
       "link": "https://kdvr.com/denver-guide/food-drink/fine-dining-dry-aged-steak-seafood-restaurant-opens-in-lone-tree/",
       "source": "Fox31",
       "pub_date": "2026-03-17T19:26:33+00:00",
-      "age_hours": 3.1510713466666664,
+      "age_hours": 4.143239926388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Are fading Nuggets still a title contender?",
-      "link": "https://kdvr.com/sports/denver-nuggets/are-fading-nuggets-still-a-title-contender/",
-      "source": "Fox31",
-      "pub_date": "2026-03-17T18:59:10+00:00",
-      "age_hours": 3.607460286111111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Lil Wayne adds Denver show, extends anniversary tour after high demand",
       "link": "https://kdvr.com/news/local/lil-wayne-adds-denver-show-extends-anniversary-tour-after-high-demand/",
       "source": "Fox31",
       "pub_date": "2026-03-17T18:06:44+00:00",
-      "age_hours": 4.4813491672222225,
+      "age_hours": 5.473517738333333,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "A fleet of festive pubs on wheels brings a taste of Ireland to New England",
       "link": "https://sentinelcolorado.com/uncategorized/a-fleet-of-festive-pubs-on-wheels-brings-a-taste-of-ireland-to-new-england/",
       "source": "Sentinel",
       "pub_date": "2026-03-17T17:50:51+00:00",
-      "age_hours": 4.746630885,
+      "age_hours": 5.738737293611112,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver's Riot BBQ expands with new concept after opening less than a year ago",
       "link": "https://kdvr.com/denver-guide/food-drink/denvers-riot-bbq-expands-with-new-concept-after-opening-less-than-a-year-ago/",
       "source": "Fox31",
       "pub_date": "2026-03-17T16:23:12+00:00",
-      "age_hours": 6.206904714444445,
+      "age_hours": 7.1990732855555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Broncos get Jaylen Waddle and draft pick in major trade with Dolphins",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-dolphins-trade-jaylen-waddle/73-6f35b28f-39d5-44c5-becf-5fbf2ee8a19a",
       "source": "9News",
       "pub_date": "2026-03-17T15:48:25+00:00",
-      "age_hours": 6.786250593611111,
+      "age_hours": 7.777894600833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Resilient Buildings Start with Inclusive Teams",
       "link": "https://milehighcre.com/resilient-buildings-start-with-inclusive-teams/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-17T15:00:00+00:00",
-      "age_hours": 7.592937899444444,
+      "age_hours": 8.584466004444444,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado ski town businesses struggle as warm winter dries up sales",
       "link": "https://www.9news.com/article/life/style/colorado-guide/ski-town-businesses-warm-winter/73-7399ec5b-42b4-4926-919e-14f110209c5f",
       "source": "9News",
       "pub_date": "2026-03-17T14:51:36+00:00",
-      "age_hours": 7.733195045277778,
+      "age_hours": 8.724839051388889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado Legislative Committee Votes To Reject Bill To Put Marijuana And Alcohol Tax Hikes On November Ballot",
       "link": "https://www.marijuanamoment.net/colorado-legislative-committee-votes-to-reject-bill-to-put-marijuana-and-alcohol-tax-hikes-on-november-ballot/",
       "source": "MJ Moment",
       "pub_date": "2026-03-17T14:44:49+00:00",
-      "age_hours": 7.849058902777777,
+      "age_hours": 8.841224332222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "National average gas prices now nearly 90 cents higher than one month ago",
+      "link": "https://www.9news.com/article/news/nation-world/gas-price-average-increase-tuesday-march-17/507-2e235251-96be-42d3-8a5f-2b956266828f",
+      "source": "9News",
+      "pub_date": "2026-03-17T14:39:42+00:00",
+      "age_hours": 8.923172388055555,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     }
   ]
 }
