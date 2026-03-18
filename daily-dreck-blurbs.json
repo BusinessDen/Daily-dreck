@@ -1,43 +1,43 @@
 {
-  "generated_date": "2026-03-17",
-  "lead_headline": "Restaurant pipeline jumps to 47 active leads as Mendocino Farms opens second Denver location and Otra Vez Cantina resurfaces after pandemic closure",
+  "generated_date": "2026-03-18",
+  "lead_headline": "Restaurant closures accelerate with 5 new leads today\u2014Mopoke shutters at Milk Market while China Jade ends 15-year Westwood run",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>4 new leads today</strong> expand active roster to <strong>47 total</strong> (24 openings, 23 closures)\u2014Tuesday bump adds <strong>Mendocino Farms' Highlands debut</strong> (3453 W 32nd Ave, second Denver outpost from California chain), <strong>Otra Vez Cantina's pandemic comeback</strong> (CBD location reopened yesterday after multi-year hiatus), plus Aurora's <strong>Chaton Bakery</strong> website launch near H Mart and <strong>The Barn South Broadway</strong> closure confirmation in Englewood. Opening leads now edge closures 24-23 after Monday's brief balance\u2014Mendocino expansion mirrors earlier Union Station activity (C Burger, G-Que, Ogo Korean BBQ clustered launches). Week's pattern: downtown/near-downtown hospitality build continues while suburban closures accumulate (CPK Cherry Creek, multiple Dairy Queens, Safeway Aurora all confirmed shuttered). Pipeline tilts net-positive for first time since weekend.",
+      "blurb": "<strong>5 new leads today</strong> push active roster to <strong>50 total</strong> (24 openings, 26 closures)\u2014Wednesday closure wave includes <strong>Mopoke's exit from Denver Milk Market</strong> (Union Station poke concept replaced by East3 in Sage Hospitality reshuffle), <strong>China Jade Seafood's permanent closure</strong> (375 S Federal, 15+ year Westwood dim sum fixture), and <strong>Your Mom's House's tax seizure</strong> (Capitol Hill venue auctioned by city after 9-year run). Opening side holds steady at 24, but closure leads now outnumber openings for first time since March 15\u2014pattern reversal follows weekend's brief opening-lead advantage. Downtown turnover narrative continues: Mopoke joins C Burger, G-Que, Ogo Korean BBQ in Union Station churn zone.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "5",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+24",
+        "value1": "24",
         "label2": "closed",
-        "value2": "\u221223",
+        "value2": "26",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>30 filings this week</strong> hold prior week's floor after five-week descent (49\u219242\u219233\u219230)\u2014decline arrested at 30-filing threshold, suggesting March baseline discovered. <strong>39 auctions scheduled</strong> next seven days, <strong>$11.2M aggregate exposure</strong> unchanged from Sunday count. Arapahoe's <strong>$2.24M South Columbine Circle</strong> remains week's sole seven-figure property, Weld's $618K Falcon Drive ranks second. County distribution stable: Weld 395 active cases, El Paso 375, Arapahoe 360\u2014exurban concentration persists. Filing trajectory flattened: 9% weekly drop (versus 21-22% prior weeks) indicates deceleration into spring floor range. If 30-filing baseline sustains through March close, seasonal pattern aligns with 2025 comparables\u2014no distressed inventory surge materializing despite earlier February spike concerns.",
+      "blurb": "<strong>30 filings this week</strong> match prior week's floor, confirming March baseline after five-week descent\u2014decline arrested at 30-filing threshold for second consecutive week. <strong>101 auctions scheduled</strong> next seven days (up from 39 yesterday), <strong>$11.2M aggregate exposure</strong> unchanged. Arapahoe's <strong>$2.24M South Columbine Circle</strong> remains week's sole seven-figure property. County distribution stable: El Paso 475 active cases, Weld 407, Arapahoe 415\u2014exurban concentration persists. Filing trajectory flattened: 0% weekly change indicates March floor discovered at 30-filing rate, aligning with seasonal 2025 comparables.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "30",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "39",
+        "value2": "101",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
         "value1": "30",
-        "class1": "down",
+        "class1": "",
         "label2": "sold",
-        "value2": "28",
+        "value2": "26",
         "class2": "",
         "period": "7-day"
       }
@@ -46,18 +46,18 @@
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>3 mentions yesterday</strong> sustain seven-day total at <strong>39 citations</strong> across 11 sources\u2014down 22% from prior week's 50, breaking four-week 43-50 stability range. <strong>Denver Post</strong> share drops to 33% (13 of 39, versus 36% prior week), Instagram holds 8 pickups, social platforms contribute 9 combined. Notable detections: Traverse Fitness Instagram tease (South Broadway-to-Highlands expansion), Cherry Creek demolition update, upein.edu.pe archive republish. Week's decline driven by Post pickup compression (16\u219213) rather than source diversification\u201411 unique outlets unchanged week-over-week. Google News RSS captures 97% discovery (38 of 39). Pattern shift: launch-era 48-53 range descended to 43-45 plateau, now testing 39 floor\u2014suggests either seasonal March dip or recalibration after initial partnership honeymoon. Four-week moving average now 44 daily mentions, down from 47.",
+      "blurb": "<strong>10 mentions yesterday</strong> elevate seven-day total to <strong>42 citations</strong> across 11 sources\u2014up 8% from prior week's 39, reversing two-week slide. <strong>Denver Post</strong> regains share at 38% (16 of 42), Hoodline contributes 6 pickups, social platforms add 12 combined. Notable detections: kosher grocer foreclosure coverage, Curtis Park shelter security story, Governor's Mansion affordable housing development. Yesterday's 10-mention surge (versus 3 Monday) driven by Post breaking news cycle\u2014highest single-day total since March 12. Pattern shift: 39-floor tested last week now rebounding toward 43-45 plateau range. Google News RSS captures 98% discovery (41 of 42).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
-        "class1": "",
+        "value1": "10",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "39",
-        "class1": "down",
+        "value1": "42",
+        "class1": "up",
         "label2": "sources",
         "value2": "11",
         "class2": "",
@@ -65,11 +65,11 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) lifts <strong>MTD to +25</strong> (+1.6/day), <strong>90-day cumulative to +87</strong>. Monday extends weekend's zero-churn streak\u2014three consecutive days without cancellations after mid-week March 12 volatility. Seven-day window now <strong>+17 net</strong> (22 new, 5 canceled), 2.8x improvement over prior week's +6 (30 new, 24 canceled). Retention compression continues: 0.7/day churn this week versus 3.4/day prior\u2014cancellation discipline drives gains as much as acquisition pace. March's 1.6/day rate now exceeds YTD's 1.3/day benchmark by 23%. Two-week pattern: early-month Mar 3-5 turbulence (\u22124 low) resolved into stable +1 to +6 range, with March 9 (+6) and March 16 (+4) peaks anchoring momentum. Three-day zero-churn run (Mar 14-16) unprecedented in 14-day window\u2014sustainability test arrives if pattern holds through week's close.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) trims <strong>MTD to +26</strong> (+1.5/day), <strong>90-day cumulative holds +87</strong>. Tuesday churn breaks four-day zero-cancellation streak (Mar 13-17), first cancellation since March 12. Seven-day window remains robust at <strong>+15 net</strong> (19 new, 4 canceled), double prior week's +7\u2014retention discipline sustains gains despite single-day slip. March's 1.5/day rate still tracks 15% above YTD's 1.3/day benchmark. Recent pattern: post-volatility stability (Mar 9-16) absorbed yesterday's churn without momentum collapse\u2014acquisition pace holds near-term floor above 2-4 new/day range.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "25",
-      "net_ytd": "95",
-      "net_mtd_per_day": "1.6",
+      "net_mtd": "26",
+      "net_ytd": "96",
+      "net_mtd_per_day": "1.5",
       "net_ytd_per_day": "1.3"
     }
   }
