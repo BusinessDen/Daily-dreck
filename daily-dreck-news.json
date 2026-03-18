@@ -1,132 +1,168 @@
 {
   "fetched_date": "2026-03-18",
-  "fetched_at": "2026-03-18 11:54:17",
+  "fetched_at": "2026-03-18 13:18:02",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Smaller portions are a big restaurant trend as customers watch their budgets and waistlines",
+      "link": "https://sentinelcolorado.com/uncategorized/smaller-portions-are-a-big-restaurant-trend-as-customers-watch-their-budgets-and-waistlines/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-18T12:53:23+00:00",
+      "age_hours": 0.40840493083333335,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
+    {
+      "title": "CU buys hotel near Anschutz campus",
+      "link": "https://bizwest.com/2026/03/18/cu-buys-hotel-near-anschutz-campus/",
+      "source": "BizWest",
+      "pub_date": "2026-03-18T12:52:26+00:00",
+      "age_hours": 0.42293101194444443,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
+    {
+      "title": "Police investigate shooting near Empower Field in Denver",
+      "link": "https://www.9news.com/article/news/crime/police-investigate-shooting-denver/73-58f3e9e4-2f84-4451-a87f-ff87d19bca03",
+      "source": "9News",
+      "pub_date": "2026-03-18T12:29:08+00:00",
+      "age_hours": 0.8117985161111111,
+      "breaking": true,
+      "time_ago": "48 min ago"
+    },
+    {
+      "title": "EDITORIAL: Aurora must be in the know to get voters to hand over the dough",
+      "link": "https://sentinelcolorado.com/opinion/editorial-aurora-must-be-in-the-know-to-get-voters-to-hand-over-the-dough/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-18T12:25:53+00:00",
+      "age_hours": 0.8667383122222222,
+      "breaking": true,
+      "time_ago": "52 min ago"
+    },
+    {
+      "title": "Denver weather: Warmer with fire danger Wednesday",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warmer-with-fire-danger-wednesday/",
+      "source": "Fox31",
+      "pub_date": "2026-03-18T11:51:43+00:00",
+      "age_hours": 1.4357082838888888,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Nuggets take on Grizzlies as fans enjoy free over-the-air broadcast on KTVD",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-grizzlies-game-ktvd/73-7356f424-97a0-413b-a578-2b6c41e35e25",
       "source": "9News",
       "pub_date": "2026-03-18T11:34:03+00:00",
-      "age_hours": 0.3306711755555556,
+      "age_hours": 1.72985409,
       "breaking": true,
-      "time_ago": "19 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver faces March heat wave with record-breaking temperatures ahead",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-18T11:29:37+00:00",
-      "age_hours": 0.4045600711111111,
+      "age_hours": 1.8037429827777778,
       "breaking": true,
-      "time_ago": "24 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Could it be th end of hunting as we\u2019ve always known it in Colorado | FEEDBACK",
       "link": "https://www.coloradopolitics.com/2026/03/18/could-it-be-th-end-of-hunting-as-weve-always-known-it-in-colorado-feedback/",
       "source": "CO Politics",
       "pub_date": "2026-03-18T06:30:00+00:00",
-      "age_hours": 5.398780018055556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.797981888611112,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado bets big on water: Record sports betting revenue fuels water conservation projects",
       "link": "https://www.denver7.com/news/local-news/colorado-bets-big-on-water-record-sports-betting-revenue-fuels-water-conservation-projects",
       "source": "Denver7",
       "pub_date": "2026-03-18T04:48:42+00:00",
-      "age_hours": 7.086611648333333,
+      "age_hours": 8.485849708333333,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver woman called to cancel a doctor's appointment, but that call would save her life",
       "link": "https://www.9news.com/article/news/local/nurses-save-denver-womans-life-after-recognizing-symptoms/73-01eadf14-2bc0-4da6-8a7e-75c0e7ba634d",
       "source": "9News",
       "pub_date": "2026-03-18T04:29:41+00:00",
-      "age_hours": 7.403448969444445,
+      "age_hours": 8.802631880277778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "How Denver homeowners can protect their lawns, gardens during weather shifts",
       "link": "https://kdvr.com/news/local/how-denver-homeowners-can-protect-their-lawns-gardens-during-weather-shifts/",
       "source": "Fox31",
       "pub_date": "2026-03-18T04:03:52+00:00",
-      "age_hours": 7.833965339166666,
+      "age_hours": 9.233208302222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Man killed in northeast Denver shooting",
       "link": "https://www.9news.com/article/news/crime/man-killed-northeast-denver-shooting/73-10567ccf-ef8a-4869-8534-c0ff24ad6294",
       "source": "9News",
       "pub_date": "2026-03-18T03:49:41+00:00",
-      "age_hours": 8.070115650833333,
+      "age_hours": 9.46929856138889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver Water asks customers to not turn on sprinklers during heat wave",
       "link": "https://www.9news.com/article/news/local/colorado-news/denver-water-says-to-keep-sprinklers-off-during-heat-wave/73-ca0502ce-1ea1-4405-b667-5c740dc19086",
       "source": "9News",
       "pub_date": "2026-03-18T03:49:25+00:00",
-      "age_hours": 8.074560098333334,
+      "age_hours": 9.473743008888889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Proposed Ball Arena tunnel in Denver named finalist in Elon Musk's company competition",
       "link": "https://kdvr.com/news/local/proposed-ball-arena-tunnel-in-denver-named-finalist-in-elon-musks-company-competition/",
       "source": "Fox31",
       "pub_date": "2026-03-18T02:59:25+00:00",
-      "age_hours": 8.908131989166668,
+      "age_hours": 10.307374957777778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver Police looking for missing 14-year-old",
       "link": "https://www.9news.com/article/news/local/colorado-news/denver-missing-teen/73-6dd6fdcd-516f-4161-8ef7-40654618a85c",
       "source": "9News",
       "pub_date": "2026-03-18T01:32:09+00:00",
-      "age_hours": 10.362337891666666,
+      "age_hours": 11.761520802777778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Historic March heat wave could be brutal for Colorado crops",
       "link": "https://www.9news.com/article/weather/march-heat-wave-colorado-crops/73-671afd21-2699-4ba4-85c3-0b227ca2302e",
       "source": "9News",
       "pub_date": "2026-03-18T00:43:57+00:00",
-      "age_hours": 11.165671233333333,
+      "age_hours": 12.564854144722222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Man convicted of first-degree murder in Denver cold case",
       "link": "https://kdvr.com/news/local/man-convicted-of-first-degree-murder-in-denver-cold-case/",
       "source": "Fox31",
       "pub_date": "2026-03-18T00:26:11+00:00",
-      "age_hours": 11.462020906666668,
+      "age_hours": 12.861263867222222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Accused serial killer convicted in 1996 Denver murder",
       "link": "https://www.9news.com/article/news/crime/man-convicted-in-1996-denver-murder/73-4ecbbe63-2178-4899-b864-0625cc697aef",
       "source": "9News",
       "pub_date": "2026-03-17T23:18:15+00:00",
-      "age_hours": 12.594004569722221,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Denver weather: Warming up to record levels",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warming-up-to-record-levels/",
-      "source": "Fox31",
-      "pub_date": "2026-03-17T22:16:03+00:00",
-      "age_hours": 13.630909826111111,
+      "age_hours": 13.99318748111111,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -135,52 +171,16 @@
       "link": "https://bizwest.com/2026/03/17/wing-shack-debuts-in-denver-metro-plans-major-expansion/",
       "source": "BizWest",
       "pub_date": "2026-03-17T21:32:57+00:00",
-      "age_hours": 14.348166358055554,
+      "age_hours": 15.747653242777778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Capitol Police chief asks for record-breaking budget, citing 58% increase in threats to Congress",
       "link": "https://www.coloradopolitics.com/2026/03/17/capitol-police-chief-asks-for-record-breaking-budget-citing-58-increase-in-threats-to-congress/",
       "source": "CO Politics",
       "pub_date": "2026-03-17T21:31:25+00:00",
-      "age_hours": 14.375168948611112,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "PCL Tops Out $192M AI-Ready Data Center",
-      "link": "https://milehighcre.com/pcl-tops-out-192-m-ai-ready-data-center/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-03-17T21:29:33+00:00",
-      "age_hours": 14.40550747611111,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Fort Collins\u2019 Enclave Rigden Farm sells for nearly $41M",
-      "link": "https://bizwest.com/2026/03/17/fort-collins-enclave-rigden-farm-sells-for-nearly-41m/",
-      "source": "BizWest",
-      "pub_date": "2026-03-17T21:20:33+00:00",
-      "age_hours": 14.554833034444444,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Journalists to offer fact-vs.-fiction guide",
-      "link": "https://bizwest.com/2026/03/17/journalists-to-offer-fact-vs-fiction-guide/",
-      "source": "BizWest",
-      "pub_date": "2026-03-17T21:13:39+00:00",
-      "age_hours": 14.669833038611111,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "'The Lord of the Rings' star to host rave in Denver",
-      "link": "https://kdvr.com/denver-guide/things-to-do/the-lord-of-the-rings-star-to-host-rave-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-03-17T20:26:36+00:00",
-      "age_hours": 15.455076469722222,
+      "age_hours": 15.77437081861111,
       "breaking": false,
       "time_ago": "15 hrs ago"
     }
