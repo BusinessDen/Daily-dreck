@@ -1,63 +1,63 @@
 {
-  "generated_date": "2026-03-18",
-  "lead_headline": "Restaurant closures accelerate with 5 new leads today\u2014Mopoke shutters at Milk Market while China Jade ends 15-year Westwood run",
+  "generated_date": "2026-03-19",
+  "lead_headline": "Restaurant tracker logs 6 new leads as FiNO debuts at All Inn Hotel and Super Mega Bien closes after 8-year RiNo run",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 new leads today</strong> push active roster to <strong>50 total</strong> (24 openings, 26 closures)\u2014Wednesday closure wave includes <strong>Mopoke's exit from Denver Milk Market</strong> (Union Station poke concept replaced by East3 in Sage Hospitality reshuffle), <strong>China Jade Seafood's permanent closure</strong> (375 S Federal, 15+ year Westwood dim sum fixture), and <strong>Your Mom's House's tax seizure</strong> (Capitol Hill venue auctioned by city after 9-year run). Opening side holds steady at 24, but closure leads now outnumber openings for first time since March 15\u2014pattern reversal follows weekend's brief opening-lead advantage. Downtown turnover narrative continues: Mopoke joins C Burger, G-Que, Ogo Korean BBQ in Union Station churn zone.",
+      "blurb": "<strong>6 new leads today</strong> bring active roster to <strong>53 total</strong> (25 openings, 28 closures)\u2014opening side gains <strong>FiNO's Mediterranean debut</strong> at renovated All Inn Hotel (City Park, soft open March 18) while closure wave adds <strong>Super Mega Bien's shutdown</strong> (Five Points, 8-year RiNo staple citing financial pressures, closed March 14) and <strong>Menya on Havana's four-month flameout</strong> (Kennedy, Seoul Hospitality Group casualty, shuttered Jan 1). Closures reclaim lead by 3 after Tuesday's brief parity\u201428 vs 25 marks widest gap since March 10. Geographic spread: Union Station churn persists (Mopoke, FiNO parent All Inn), Kennedy sees back-to-back failures (Menya, prior Tandoori Halal), Capitol Hill hemorrhage continues post-tax seizures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+1",
         "label2": "closed",
-        "value2": "5",
+        "value2": "\u22125",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "24",
+        "value1": "25",
         "label2": "closed",
-        "value2": "26",
+        "value2": "28",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>30 filings this week</strong> match prior week's floor, confirming March baseline after five-week descent\u2014decline arrested at 30-filing threshold for second consecutive week. <strong>101 auctions scheduled</strong> next seven days (up from 39 yesterday), <strong>$11.2M aggregate exposure</strong> unchanged. Arapahoe's <strong>$2.24M South Columbine Circle</strong> remains week's sole seven-figure property. County distribution stable: El Paso 475 active cases, Weld 407, Arapahoe 415\u2014exurban concentration persists. Filing trajectory flattened: 0% weekly change indicates March floor discovered at 30-filing rate, aligning with seasonal 2025 comparables.",
+      "blurb": "<strong>30 filings this week</strong> hold March floor for third consecutive period\u20149% decline from prior week's 33 extends five-week descent but stabilizes at 30-threshold baseline. <strong>105 auctions scheduled</strong> next seven days (up 4 from yesterday's 101), <strong>$11.2M total exposure</strong> static. Arapahoe's <strong>$2.24M South Columbine Circle</strong> remains sole seven-figure property this cycle\u2014Weld's $618K Falcon Drive ranks distant second. County landscape: El Paso leads at 475 active cases, Weld 407, Arapahoe 415\u2014exurban concentration locked. Weekly filing rate plateaus: three straight 30-33 readings suggest March discovered seasonal floor, tracking 40% below January's 50-filing peak.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "30",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "101",
+        "value2": "105",
         "class2": "",
-        "period": "today"
+        "period": "this week"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "30",
+        "value1": "133",
         "class1": "",
         "label2": "sold",
         "value2": "26",
         "class2": "",
-        "period": "7-day"
+        "period": "30-day"
       }
     },
     "retail": {
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>10 mentions yesterday</strong> elevate seven-day total to <strong>42 citations</strong> across 11 sources\u2014up 8% from prior week's 39, reversing two-week slide. <strong>Denver Post</strong> regains share at 38% (16 of 42), Hoodline contributes 6 pickups, social platforms add 12 combined. Notable detections: kosher grocer foreclosure coverage, Curtis Park shelter security story, Governor's Mansion affordable housing development. Yesterday's 10-mention surge (versus 3 Monday) driven by Post breaking news cycle\u2014highest single-day total since March 12. Pattern shift: 39-floor tested last week now rebounding toward 43-45 plateau range. Google News RSS captures 98% discovery (41 of 42).",
+      "blurb": "<strong>6 mentions yesterday</strong> pull seven-day total to <strong>39 citations</strong> across 11 sources\u2014down 19% from prior week's 48, erasing Tuesday's 10-mention surge and resuming two-week decline trajectory. <strong>Denver Post</strong> commands 38% share (15 of 39), social platforms (Facebook/Instagram/X) aggregate 13 pickups, Hoodline adds 5. Notable Wednesday detections: Cathedral High campus receiver story, LoDo office sale, shopping center facelift coverage. Yesterday's 6-mention drop (from Tuesday's 10) signals volatility\u2014single-day swings mask underlying 39-48 band compression. Pattern: Post-driven cycle dependency exposes narrow sourcing risk as Google News RSS captures 97% discovery (38 of 39). Monthly pace: 107 total suggests 142-month trajectory if sustained.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "10",
-        "class1": "up",
-        "period": "today"
+        "value1": "6",
+        "class1": "",
+        "period": "yesterday"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "42",
-        "class1": "up",
+        "value1": "39",
+        "class1": "down",
         "label2": "sources",
         "value2": "11",
         "class2": "",
@@ -65,11 +65,11 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) trims <strong>MTD to +26</strong> (+1.5/day), <strong>90-day cumulative holds +87</strong>. Tuesday churn breaks four-day zero-cancellation streak (Mar 13-17), first cancellation since March 12. Seven-day window remains robust at <strong>+15 net</strong> (19 new, 4 canceled), double prior week's +7\u2014retention discipline sustains gains despite single-day slip. March's 1.5/day rate still tracks 15% above YTD's 1.3/day benchmark. Recent pattern: post-volatility stability (Mar 9-16) absorbed yesterday's churn without momentum collapse\u2014acquisition pace holds near-term floor above 2-4 new/day range.",
+      "blurb": "<strong>Net +1 yesterday</strong> (4 new, 3 canceled) lifts <strong>MTD to +28</strong> (+1.6/day), <strong>90-day cumulative at +91</strong>. Wednesday churn (3 cancellations) tests recent retention discipline but acquisition pace holds at 4 new\u2014matching March 16-18 floor. Seven-day window: <strong>+16 net</strong> (20 new, 4 canceled) outpaces prior week's +12 by 33%, driven by cancellation compression (4 vs 15). March's 1.6/day rate tracks 23% above YTD's 1.3/day benchmark\u2014strongest monthly pace since tracker launch. Recent pattern: post-March 5 volatility (-4 net) absorbed, sub-acquisition stabilizes at 3-5 daily range with cancellations contained below 2/day. Momentum intact despite Wednesday's 3-cancel wobble.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "26",
-      "net_ytd": "96",
-      "net_mtd_per_day": "1.5",
+      "net_mtd": "28",
+      "net_ytd": "98",
+      "net_mtd_per_day": "1.6",
       "net_ytd_per_day": "1.3"
     }
   }
