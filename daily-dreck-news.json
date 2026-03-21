@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-03-21",
-  "fetched_at": "2026-03-21 11:26:05",
+  "fetched_at": "2026-03-21 12:54:22",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Gas prices continue to rise while demand and production volume show decrease",
+      "link": "https://www.9news.com/article/news/nation-world/gas-prices-rise-demand-production-volume-decrease/507-e58b88f9-d33c-4787-b3a1-6feb8848bf8d",
+      "source": "9News",
+      "pub_date": "2026-03-21T12:43:48+00:00",
+      "age_hours": 0.1717073825,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "Eastbound I-70 closed after deadly hit-and-run",
+      "link": "https://www.9news.com/article/news/crime/i-70-closed-deadly-hit-and-run/73-5d99ff70-f53c-4dca-b42e-99ae53de3898",
+      "source": "9News",
+      "pub_date": "2026-03-21T12:13:09+00:00",
+      "age_hours": 0.6825407255555556,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
     {
       "title": "Governor warns energy development both a boon and a risk to Colorado | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/03/21/governor-warns-energy-development-both-a-boon-and-a-risk-to-colorado-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-03-21T11:00:00+00:00",
-      "age_hours": 0.4303622338888889,
+      "age_hours": 1.9022347455555557,
       "breaking": true,
-      "time_ago": "25 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver man's hands were up when he was shot and killed, police say",
       "link": "https://kdvr.com/news/local/denver-mans-hands-were-up-when-he-was-shot-and-killed-police-say/",
       "source": "Fox31",
       "pub_date": "2026-03-21T03:38:07+00:00",
-      "age_hours": 7.794774379444444,
+      "age_hours": 9.26662474611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Aurora fire displaces seven after spreading to neighboring home",
       "link": "https://sentinelcolorado.com/metro/aurora-fire-displaces-seven-after-spreading-to-neighboring-home/",
       "source": "Sentinel",
       "pub_date": "2026-03-21T02:18:43+00:00",
-      "age_hours": 9.118456271666668,
+      "age_hours": 10.590311850277779,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Man sentenced after pleading guilty in Denver murder",
       "link": "https://www.9news.com/article/news/crime/denver-murder-plea-sentence/73-d2efbdfe-2794-4b25-8729-a7c6964a3eaf",
       "source": "9News",
       "pub_date": "2026-03-21T00:14:37+00:00",
-      "age_hours": 11.18625668888889,
+      "age_hours": 12.658096331666666,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver weather could hit 90 degree mark a month before the earliest in history",
       "link": "https://kdvr.com/weather/wx-news/denver-weather-could-hit-90-degree-mark-a-month-before-the-earliest-in-history/",
       "source": "Fox31",
       "pub_date": "2026-03-20T23:01:14+00:00",
-      "age_hours": 12.409496635555556,
+      "age_hours": 13.881346994166666,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver offers up to $50K in grants to help residents access air conditioners",
       "link": "https://www.9news.com/article/news/local/denver-grants-residents-air-conditioners/73-7fd70341-fe36-4821-94ef-29ed192465d0",
       "source": "9News",
       "pub_date": "2026-03-20T22:58:12+00:00",
-      "age_hours": 12.459867814166666,
+      "age_hours": 13.931707455,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "These Broadway shows are coming to Denver for the 2026-2027 season",
       "link": "https://kdvr.com/news/these-broadway-shows-are-coming-to-denver-for-the-2026-2027-season/",
       "source": "Fox31",
       "pub_date": "2026-03-20T22:42:50+00:00",
-      "age_hours": 12.716163318333333,
+      "age_hours": 14.18801367361111,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver warmer than Miami? Spring breakers find surprising role reversal",
       "link": "https://www.9news.com/article/weather/weather-colorado/denver-warmer-than-miami-spring-break/73-94b2c4d7-d711-45fb-a291-870f61f9e8fb",
       "source": "9News",
       "pub_date": "2026-03-20T22:42:30+00:00",
-      "age_hours": 12.721534484722223,
+      "age_hours": 14.193374125,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Investigators looking into natural gas leak as cause of Denver gas station explosion",
       "link": "https://kdvr.com/news/local/investigators-looking-into-natural-gas-leak-as-cause-of-denver-gas-station-explosion/",
       "source": "Fox31",
       "pub_date": "2026-03-20T22:09:25+00:00",
-      "age_hours": 13.27310773888889,
+      "age_hours": 14.744958098888889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado\u2019s budget deficit jumps to $1.5 billion under new forecast",
       "link": "https://www.denver7.com/news/politics/colorados-budget-deficit-jumps-to-1-5-billion-under-new-forecast",
       "source": "Denver7",
       "pub_date": "2026-03-20T22:06:54+00:00",
-      "age_hours": 13.3150388725,
+      "age_hours": 14.786870215555554,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver weather: Record heat persists on Saturday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-record-heat-persists-on-saturday/",
       "source": "Fox31",
       "pub_date": "2026-03-20T22:06:46+00:00",
-      "age_hours": 13.317274424166666,
+      "age_hours": 14.789124780833333,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado Senate committee advances bill increasing overtime threshold for farmworkers",
       "link": "https://www.coloradopolitics.com/2026/03/20/colorado-senate-committee-advances-bill-increasing-overtime-threshold-for-farmworkers/",
       "source": "CO Politics",
       "pub_date": "2026-03-20T19:42:53+00:00",
-      "age_hours": 15.715640062222223,
+      "age_hours": 17.18751257611111,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Drought conditions worsen: How far behind is Colorado on seasonal snow?",
       "link": "https://kdvr.com/weather/wx-news/drought-conditions-worsen-how-far-behind-is-colorado-on-seasonal-snow/",
       "source": "Fox31",
       "pub_date": "2026-03-20T19:36:05+00:00",
-      "age_hours": 15.828663284722223,
+      "age_hours": 17.30051364722222,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver water restrictions expected to begin March 25 amid near-record low snowpack",
       "link": "https://www.9news.com/article/news/local/denver-water-restrictions-set-to-begin-march-25/73-85c719b8-30f1-4f2d-8bea-b9de06e65251",
       "source": "9News",
       "pub_date": "2026-03-20T19:24:03+00:00",
-      "age_hours": 16.02903451138889,
+      "age_hours": 17.50087415138889,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado bill to fund mental health care with alcohol taxes defeated in House committee",
       "link": "https://www.coloradopolitics.com/2026/03/20/colorado-bill-to-fund-mental-health-care-with-alcohol-taxes-defeated-in-house-committee/",
       "source": "CO Politics",
       "pub_date": "2026-03-20T19:11:30+00:00",
-      "age_hours": 16.238695623055555,
+      "age_hours": 17.71056813722222,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "University of Colorado offers to run NCAR if feds insist on restructuring",
       "link": "https://bizwest.com/2026/03/20/university-of-colorado-offers-to-run-ncar-if-feds-insist-on-restructuring/",
       "source": "BizWest",
       "pub_date": "2026-03-20T19:10:44+00:00",
-      "age_hours": 16.250370217222223,
+      "age_hours": 17.722250188611113,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Loveland to revamp some city departments in April",
       "link": "https://bizwest.com/2026/03/20/loveland-to-revamp-some-city-departments-in-april/",
       "source": "BizWest",
       "pub_date": "2026-03-20T18:52:51+00:00",
-      "age_hours": 16.548425783888888,
+      "age_hours": 18.02030576111111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "CSU students help redesign electric motorcycles for Kenyan-based Roam",
       "link": "https://bizwest.com/2026/03/20/csu-students-help-redesign-electric-motorcycles-for-kenyan-based-roam/",
       "source": "BizWest",
       "pub_date": "2026-03-20T18:26:32+00:00",
-      "age_hours": 16.98703690027778,
+      "age_hours": 18.458916876944443,
       "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Greeley pauses search for new city manager",
-      "link": "https://bizwest.com/2026/03/20/greeley-pauses-search-for-new-city-manager/",
-      "source": "BizWest",
-      "pub_date": "2026-03-20T18:16:18+00:00",
-      "age_hours": 17.15759246,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Boulder startups selected for New York accelerator",
-      "link": "https://bizwest.com/2026/03/20/boulder-startups-selected-for-new-york-accelerator/",
-      "source": "BizWest",
-      "pub_date": "2026-03-20T18:12:26+00:00",
-      "age_hours": 17.22203690861111,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
