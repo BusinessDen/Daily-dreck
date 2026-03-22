@@ -1,34 +1,34 @@
 {
-  "generated_date": "2026-03-21",
-  "lead_headline": "Restaurant churn slows to 1 new lead Saturday\u2014Lakewood SNARF's opening confirmed\u2014as active roster ticks to 54 (26 openings, 28 closures)",
+  "generated_date": "2026-03-22",
+  "lead_headline": "Foreclosure filings surge 40% week-over-week to 42 while restaurant tracker idles at 55 active leads\u2014Sunday's twin Dairy Queen closures offset by zero new openings",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today</strong> bumps active roster to <strong>54 total</strong> (26 openings, 28 closures)\u2014opening side adds <strong>SNARF's Sandwiches expansion to Belmar/Lakewood</strong> (Barnum West, Colorado chain's 'coming soon' location per official website). Week's notable debuts: <strong>Vaultaire's subterranean HiFi lounge</strong> (Speer, beneath La For\u00eat, opened Thursday), <strong>FiNO Mediterranean tapas</strong> (City Park, All Inn Hotel's restaurant component, soft opened Tuesday), <strong>Mendocino Farms' Highland location</strong> (West Highland, launched Monday), <strong>Bad Rabbit Coffee's brick-and-mortar</strong> (Cole, early March). Closure side tallies <strong>Super Mega Bien's permanent close</strong> (Five Points, 8-year RiNo fixture shuttered March 14 citing financial pressure). Geographic churn: Union Station sees continued vendor rotation, City Park gains dining density via hotel conversions, West Highland captures chain expansion attention. Openings pull 2-lead deficit to closures\u201426 vs 28, tightest gap since mid-February.",
+      "blurb": "<strong>2 new leads today</strong>\u2014both closures\u2014lift active count to <strong>55 total</strong> (26 openings, 29 closures). Sunday's detections: <strong>Dairy Queen Grill & Chill in Fort Logan</strong> (2897 W Belleview, Littleton, recently shuttered per March Yelp updates) and identical Westminster location flagged as duplicate. Opening side holds flat at 26 despite week's robust activity: <strong>Mendocino Farms' Highland debut</strong> Monday, <strong>Vaultaire's subterranean HiFi lounge</strong> beneath La For\u00eat Tuesday, <strong>FiNO Mediterranean at All Inn Hotel</strong> Wednesday. Closure roster climbs to 29 with <strong>Super Mega Bien's permanent close</strong> (Five Points, 8-year fixture ended March 14), <strong>Aspen Baking Company's sudden shutdown</strong> (Stapleton wholesaler ceased operations March 6 mid-acquisition). Geographic spread: Union Station captures four openings week-to-date (G-Que BBQ, Mendocino Farms, C Burger, Ogo Korean), Regis logs three closures (303 Ramen fire, two Dairy Queen exits). Closure margin widens to 3-lead gap\u2014tightest opening-closure parity since February erodes as detection pace favors shutdowns.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "0",
         "label2": "closed",
-        "value2": "0",
+        "value2": "2",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "26",
         "label2": "closed",
-        "value2": "28",
+        "value2": "29",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>42 new filings this week</strong> climb 40% from prior week's 30\u2014sharpest week-over-week acceleration since late January breaks two-week March softness. <strong>106 auctions scheduled</strong> next seven days hold near-term pipeline stable, but <strong>$71M total exposure</strong> compresses 14% as mega-filing volume dries up post-Arapahoe's $57M South Vaughn outlier. Only one seven-figure case this week: <strong>$794K County Road 96</strong> (Weld, scheduled). County distribution: <strong>El Paso leads at 475 active</strong>, Weld climbs to 431, Arapahoe slides to 451. Filing count's 42% weekly jump signals March volatility persists\u201430-72 filing band replaces January's 50+ steady-state as baseline fractures into boom-bust pattern.",
+      "blurb": "<strong>42 new filings this week</strong> vault 40% above prior week's 30\u2014sharpest single-week acceleration since late January shatters March's early softness. <strong>104 auctions scheduled</strong> next seven days (down marginally from 106 midweek) sustain near-term pipeline, but <strong>$71M total exposure</strong> compresses as mega-filing drought persists\u2014only one seven-figure case this week (<strong>$795K Weld County property</strong>) vs January's routine $1M+ clusters. Arapahoe's <strong>$57M South Vaughn outlier</strong> dominates value calculations but reflects commercial distress, not residential volume. County standings: <strong>El Paso leads at 475 active</strong>, Weld climbs to 431, Arapahoe holds 451. March volatility intensifies\u201430-72 filing weekly range replaces January's predictable 50+ cadence as baseline fractures into boom-bust rhythm. Seven-day filing surge signals distress acceleration, not data artifact.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "42",
         "class1": "up",
         "label2": "upcoming auctions",
-        "value2": "106",
+        "value2": "104",
         "class2": "",
         "period": "today"
       },
@@ -46,18 +46,18 @@
       "meta": "Expected Q2 2026"
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> drags seven-day total to <strong>40 citations</strong> across 11 sources\u2014down 11% from prior week's 45, marking second consecutive weekly decline. <strong>Denver Post</strong> maintains iron grip with 18 of 40 pickups (45% share, up from 43% prior week), social platforms deliver 13 mentions (Instagram 6, Facebook 7), Hoodline trails at 3. Saturday's lone detection: McNichols Civic Center Building Instagram post. Week's source concentration deepens: Post plus social aggregates command 78% of total volume\u2014single-outlet dependency intensifies as niche publishers fade. Discovery remains 100% Google News RSS. Monthly pace: 122 total through 21 days projects 169-mention March if sustained, tracking 39% above February.",
+      "blurb": "<strong>1 mention today</strong> holds seven-day total at <strong>47 citations</strong> across 11 sources\u2014up 7% from prior week's 44, snapping two-week slide. <strong>Denver Post dominates with 22 pickups</strong> (47% share, up from 45%), social platforms deliver 13 mentions (Instagram 8, Facebook 5), Hoodline trails at 4. Saturday's lone detection: Denver Post tax-focused page. Week's top stories: <strong>Kwame Spearman/Denver Book Society split</strong> (Hoodline pickup), <strong>PharmaCann cannabis layoffs</strong> (Post), <strong>Thriving Families HQ purchase</strong> (Post), <strong>Cheesman Park penthouse listing</strong> (Post). Source concentration tightens: Post plus social command 74% of weekly volume\u2014single-outlet dependency remains structural risk as niche publishers contribute sporadically. Discovery stays 100% Google News RSS. Monthly pace: 131 mentions through 22 days projects 175-mention March if sustained, tracking 34% above February's final tally.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "1",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "40",
-        "class1": "down",
+        "value1": "47",
+        "class1": "up",
         "label2": "sources",
         "value2": "11",
         "class2": "",
@@ -65,11 +65,11 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +3 yesterday</strong> (4 new, 1 canceled) pushes <strong>MTD to +34</strong> (+1.7/day), <strong>90-day cumulative at +98</strong>. Friday's 4-1 split extends clean retention streak\u2014past five days average 0.8 cancellations/day vs March's 1.4/day overall. Seven-day window: <strong>+17 net</strong> (23 new, 6 canceled) matches prior week's +17 exactly, third consecutive week holding 15-17 net band\u2014acquisition steadies at 3-4 daily baseline post-March 9's 8-new outlier. March's 1.7/day rate tracks 31% above YTD's 1.3/day benchmark, strongest monthly performance on record. Recent pattern: two-week stabilization after early-month volatility, cancellations compress toward 1/day floor while new subscriber flow normalizes at 3-5 daily range.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) leaves <strong>MTD at +34</strong> (+1.6/day), <strong>90-day cumulative at +103</strong>. Saturday's idle marks third zero-net day this month but follows Friday's +3 performance\u2014weekend volatility typical. Seven-day window: <strong>+17 net</strong> (23 new, 6 canceled) exactly matches prior week's +17, fourth consecutive week holding 15-17 net band. Acquisition steadies at 3-4 daily baseline post-March 9's 8-new outlier, cancellations compress to 0.9/day vs March average of 1.4/day. March's 1.6/day rate tracks 23% above YTD's 1.3/day benchmark\u2014strongest sustained monthly performance year-to-date. Recent pattern: three-week stabilization after early-month churn, new subscriber flow normalizes at 3-5 daily, cancellation floor settles near 1/day. Sunday's flat reading non-alarming given weekend acquisition lull.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "34",
       "net_ytd": "104",
-      "net_mtd_per_day": "1.7",
+      "net_mtd_per_day": "1.6",
       "net_ytd_per_day": "1.3"
     }
   }
