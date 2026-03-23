@@ -1,114 +1,159 @@
 {
   "fetched_date": "2026-03-23",
-  "fetched_at": "2026-03-23 22:35:30",
+  "fetched_at": "2026-03-23 23:34:52",
   "article_count": 20,
-  "breaking_count": 15,
+  "breaking_count": 18,
   "articles": [
+    {
+      "title": "Denver women's prison hosts K-9 companion program",
+      "link": "https://kdvr.com/news/local/denver-womens-prison-hosts-k-9-companion-program/",
+      "source": "Fox31",
+      "pub_date": "2026-03-23T23:27:38+00:00",
+      "age_hours": 0.11670899972222222,
+      "breaking": true,
+      "time_ago": "7 min ago"
+    },
+    {
+      "title": "Record highs midweek with critical fire weather conditions",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-23T23:04:05+00:00",
+      "age_hours": 0.5089156308333334,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "Denver weather: Record heat returns",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-record-heat-returns/",
+      "source": "Fox31",
+      "pub_date": "2026-03-23T22:57:59+00:00",
+      "age_hours": 0.6108756833333333,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "Fort Collins weighs paid downtown parking for 2028 as debate grows",
+      "link": "https://www.9news.com/article/news/local/colorado-news/fort-collins-weighs-paid-downtown-parking-for-2028/73-c0a039f0-4759-49d7-a5be-f81e79ed63d4",
+      "source": "9News",
+      "pub_date": "2026-03-23T22:54:26+00:00",
+      "age_hours": 0.6697489816666666,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Woman dies after collapsing inside business while seeking help",
+      "link": "https://www.9news.com/article/news/crime/woman-killed-colfax-shooting-aurora/73-8683b8bc-84b2-42b2-9813-b4edfd642825",
+      "source": "9News",
+      "pub_date": "2026-03-23T22:54:13+00:00",
+      "age_hours": 0.6733600963888889,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Police investigating I-25 motorcycle crash in downtown Denver",
+      "link": "https://kdvr.com/news/local/police-investigating-i-25-motorcycle-crash-in-downtown-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-03-23T22:42:25+00:00",
+      "age_hours": 0.8703200972222221,
+      "breaking": true,
+      "time_ago": "52 min ago"
+    },
+    {
+      "title": "Crews responding to collapse at parking garage in southeast Denver",
+      "link": "https://www.9news.com/article/news/local/parking-garage-collapse-southeast-denver/73-a5b0774b-b074-4084-9029-c56605b96e7a",
+      "source": "9News",
+      "pub_date": "2026-03-23T22:38:07+00:00",
+      "age_hours": 0.9416934324999999,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
     {
       "title": "Warm weather drives need at Denver nonprofit",
       "link": "https://www.9news.com/article/news/local/colorado-news/denver-nonprofit-needs-warm-weather-clothes/73-37a6955e-b073-455b-99d9-ca914b7a69f3",
       "source": "9News",
       "pub_date": "2026-03-23T22:20:00+00:00",
-      "age_hours": 0.2531113191666667,
+      "age_hours": 1.2436378827777779,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Multiple vehicles crushed as floor of parking garage collapses",
       "link": "https://kdvr.com/news/local/multiple-vehicles-crushed-as-floor-of-parking-garage-collapses/",
       "source": "Fox31",
       "pub_date": "2026-03-23T22:13:40+00:00",
-      "age_hours": 0.359475265,
+      "age_hours": 1.3494867375,
       "breaking": true,
-      "time_ago": "21 min ago"
-    },
-    {
-      "title": "Record highs midweek with critical fire weather conditions",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-23T21:55:59+00:00",
-      "age_hours": 0.6533891111111111,
-      "breaking": true,
-      "time_ago": "39 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Firestone\u2019s pro soccer ambitions deflated",
       "link": "https://bizwest.com/2026/03/23/firestones-pro-soccer-ambitions-deflated/",
       "source": "BizWest",
       "pub_date": "2026-03-23T20:42:50+00:00",
-      "age_hours": 1.8701852338888887,
+      "age_hours": 2.8625603125,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Design Workshop Foundation Accepting Applications for Community Capacity Building Program",
       "link": "https://milehighcre.com/design-workshop-foundation-accepting-applications-for-community-capacity-building-program/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-23T20:38:09+00:00",
-      "age_hours": 1.949308875,
+      "age_hours": 2.940962941111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "7 apartment buildings planned for Harmony Technology Park",
       "link": "https://bizwest.com/2026/03/23/7-apartment-buildings-planned-for-harmony-technology-park/",
       "source": "BizWest",
       "pub_date": "2026-03-23T20:33:27+00:00",
-      "age_hours": 2.026574135,
+      "age_hours": 3.018949213611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver airport says it has not been told ICE agents will be staffing TSA checkpoints",
       "link": "https://kdvr.com/news/local/denver-airport-says-it-has-not-been-told-ice-agents-will-be-staffing-tsa-checkpoints/",
       "source": "Fox31",
       "pub_date": "2026-03-23T20:22:14+00:00",
-      "age_hours": 2.2166975,
+      "age_hours": 3.206709004722222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Jordon Perlmutter & Co. Secures Full-Building Lease at Hub Arapahoe",
       "link": "https://milehighcre.com/jordon-perlmutter-co-secures-full-building-lease-at-hub-arapahoe/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-23T20:13:02+00:00",
-      "age_hours": 2.3679199958333332,
+      "age_hours": 3.3595740627777775,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Spring homebuyers face more than just high interest rates",
       "link": "https://www.9news.com/article/money/markets/real-estate/spring-homebuyers-high-interest-rates/73-215c19c3-6c59-43af-9050-05a9951201b9",
       "source": "9News",
       "pub_date": "2026-03-23T19:10:05+00:00",
-      "age_hours": 3.4183891375,
+      "age_hours": 4.408915681111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Trump touted bigger tax refunds this year, but Americans will likely spend them on gas",
       "link": "https://sentinelcolorado.com/uncategorized/trump-touted-bigger-tax-refunds-this-year-but-americans-will-likely-spend-them-on-gas/",
       "source": "Sentinel",
       "pub_date": "2026-03-23T18:50:24+00:00",
-      "age_hours": 3.7476369697222225,
+      "age_hours": 4.737796216111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Steamboat to Debut its First Ultra-Luxury Resort and Residences",
       "link": "https://milehighcre.com/steamboat-to-debut-its-first-ultra-luxury-resort-and-residences/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-23T18:48:36+00:00",
-      "age_hours": 3.775142222222222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Woman dies after collapsing inside business while seeking help",
-      "link": "https://www.9news.com/article/news/crime/woman-killed-colfax-shooting-aurora/73-8683b8bc-84b2-42b2-9813-b4edfd642825",
-      "source": "9News",
-      "pub_date": "2026-03-23T18:30:42+00:00",
-      "age_hours": 4.074778036388889,
+      "age_hours": 4.766796288888888,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -117,72 +162,27 @@
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/denver-broncos-super-bowl-50-team-reunion/73-d2361039-5f51-4605-a5b5-e39f1b5ee2d9",
       "source": "9News",
       "pub_date": "2026-03-23T17:35:09+00:00",
-      "age_hours": 5.0006113730555555,
+      "age_hours": 5.991137911944445,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
     {
-      "title": "Business Buzz: How AI is changing the business of healthcare",
+      "title": "Business Buzz: How AI is changing the business of health care",
       "link": "https://www.9news.com/article/money/business-brief/how-ai-is-changing-the-business-healthcare/73-1ea05a53-70d2-468b-a35e-b0fe39a9703a",
       "source": "9News",
       "pub_date": "2026-03-23T17:09:17+00:00",
-      "age_hours": 5.431722488055556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.422249026111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Billionaire shopping mall developer David Simon dead at 64, following cancer battle",
       "link": "https://www.9news.com/article/news/nation-world/david-simon-property-group/507-182c85e9-9185-4ac0-8d23-abbcf7321c59",
       "source": "9News",
       "pub_date": "2026-03-23T16:13:23+00:00",
-      "age_hours": 6.363389170277778,
+      "age_hours": 7.353915705555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "99% Of Colorado Marijuana Retailers Properly Checked IDs To Prevent Youth Access, State Report Shows",
-      "link": "https://www.marijuanamoment.net/99-of-colorado-marijuana-retailers-properly-checked-ids-to-prevent-youth-access-state-report-shows/",
-      "source": "MJ Moment",
-      "pub_date": "2026-03-23T13:42:09+00:00",
-      "age_hours": 8.886464909166667,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Judge denies mountain coaster appeal for more parking",
-      "link": "https://bizwest.com/2026/03/23/judge-denies-mountain-coaster-appeal-for-more-parking/",
-      "source": "BizWest",
-      "pub_date": "2026-03-23T13:39:52+00:00",
-      "age_hours": 8.919629695,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Fire put out at waste management facility after plume of smoke blew over I-70",
-      "link": "https://kdvr.com/news/local/plume-of-smoke-blows-over-i-70-after-fire-breaks-out-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-03-23T13:33:45+00:00",
-      "age_hours": 9.024753095277777,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Cannabis Calendar: International Hemp Trade Show, Weed-Friendly March Madness",
-      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
-      "source": "Westword",
-      "pub_date": "2026-03-23T13:30:00-06:00",
-      "age_hours": 3.0874461883333333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Fire at Denver recycling facility sends smoke plume into metro area",
-      "link": "https://www.9news.com/article/news/local/large-smoke-plume-fire/73-e14de927-3606-4ed2-9c7a-53a43225ca34",
-      "source": "9News",
-      "pub_date": "2026-03-23T13:16:19+00:00",
-      "age_hours": 9.314500310555555,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "7 hrs ago"
     }
   ]
 }
