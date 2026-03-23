@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-03-23",
-  "fetched_at": "2026-03-23 10:11:19",
+  "fetched_at": "2026-03-23 11:46:07",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Denver weather: Getting warmer this week",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-getting-warmer-this-week/",
+      "source": "Fox31",
+      "pub_date": "2026-03-23T11:41:35+00:00",
+      "age_hours": 0.07142686111111111,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "Cannabis company to close Denver grow facility, cut 132 jobs",
+      "link": "https://www.9news.com/article/money/pharmacann-marijuana-jobs-layoffs/73-bdef31b9-1190-42ed-9347-08b11a2a7385",
+      "source": "9News",
+      "pub_date": "2026-03-23T10:46:47+00:00",
+      "age_hours": 0.9844668133333333,
+      "breaking": true,
+      "time_ago": "59 min ago"
+    },
+    {
+      "title": "Denver braces for potential record heat as temperatures surge this week",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-23T10:16:53+00:00",
+      "age_hours": 1.4828001577777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Colorado is losing 1 affordable housing unit for every 2 it builds. But the state keeps rejecting efforts to stop the bleeding.",
       "link": "https://coloradosun.com/2026/03/23/colorado-losing-affordable-housing-proposition-123-preservation/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-23T10:00:00+00:00",
-      "age_hours": 0.18230153555555556,
+      "age_hours": 1.7640306416666667,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Has bird flu killed millions of chickens in Colorado?",
       "link": "https://coloradosun.com/2026/03/23/has-bird-flu-killed-millions-of-chickens-in-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-23T09:45:00+00:00",
-      "age_hours": 0.4323015461111111,
+      "age_hours": 2.0140306513888886,
       "breaking": true,
-      "time_ago": "25 min ago"
-    },
-    {
-      "title": "Heating back up this week across Colorado",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-23T09:37:26+00:00",
-      "age_hours": 0.5586076569444444,
-      "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Cuba begins to restore power after nationwide grid collapse",
       "link": "https://sentinelcolorado.com/nation-world/world/cubas-power-grid-collapses-leaving-it-without-electricity-for-the-3rd-time-this-month/",
       "source": "Sentinel",
       "pub_date": "2026-03-23T04:09:57+00:00",
-      "age_hours": 6.017463817777777,
+      "age_hours": 7.599087834444444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Aurora\u2019s homeless camping ban may see 72-hour notice period to reflect reality, city officials say",
       "link": "https://sentinelcolorado.com/metro/auroras-homeless-camping-ban-may-see-72-hour-notice-period/",
       "source": "Sentinel",
       "pub_date": "2026-03-23T03:36:10+00:00",
-      "age_hours": 6.580519387777778,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver weather: Warming trend starts Monday",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warming-trend-starts-monday/",
-      "source": "Fox31",
-      "pub_date": "2026-03-23T01:41:53+00:00",
-      "age_hours": 8.484722852222223,
+      "age_hours": 8.162143401388889,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -63,43 +72,43 @@
       "link": "https://kdvr.com/news/local/house-cleaner-robbed-in-broad-daylight-in-denver-steps-from-her-clients-home/",
       "source": "Fox31",
       "pub_date": "2026-03-22T22:27:03+00:00",
-      "age_hours": 11.731945061111112,
+      "age_hours": 13.313649109166667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Crowds flock to Ohio in search of meteorite fragments after fireball",
       "link": "https://www.9news.com/article/news/nation-world/crowds-flock-to-ohio-search-of-meteorite-fragments-after-fireball/507-1707ce9f-9252-4086-9e9c-335e4682028e",
       "source": "9News",
       "pub_date": "2026-03-22T19:15:31+00:00",
-      "age_hours": 14.923885478333332,
+      "age_hours": 16.50557797,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "DU Hockey wins 2026 NCHC Frozen Faceoff Championship",
       "link": "https://kdvr.com/sports/du-hockey-wins-2026-nchc-frozen-faceoff-championship/",
       "source": "Fox31",
       "pub_date": "2026-03-22T17:09:31+00:00",
-      "age_hours": 17.02416730638889,
+      "age_hours": 18.605871343333334,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "CEOs on AI: \u2018This is going to change everything\u2019",
       "link": "https://bizwest.com/2026/03/22/ceos-on-ai-this-is-going-to-change-everything/",
       "source": "BizWest",
       "pub_date": "2026-03-22T16:51:50+00:00",
-      "age_hours": 17.31712681861111,
+      "age_hours": 18.899731230277776,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Youth mentoring moved Collin Irish from fairy tales to sci-fi",
       "link": "https://coloradosun.com/2026/03/22/sunlit-collin-irish-messenger/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-22T08:10:00+00:00",
-      "age_hours": 26.01563493111111,
+      "age_hours": 27.59736403361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.9news.com/article/news/crime/friends-and-coworkers-remember-marvin-dzib-denver-road-rage-shooting/73-462ecda3-f9f3-4fdb-bcf3-2475433b1533",
       "source": "9News",
       "pub_date": "2026-03-22T03:24:26+00:00",
-      "age_hours": 30.77527439333333,
+      "age_hours": 32.35696688361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://kdvr.com/news/local/firefighters-urge-drivers-to-keep-up-on-car-maintenance-to-prevent-roadside-grass-fires/",
       "source": "Fox31",
       "pub_date": "2026-03-22T02:55:10+00:00",
-      "age_hours": 31.26333396861111,
+      "age_hours": 32.84503800638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://www.9news.com/article/weather/weather-colorado/denver-record-hottest-march-day/73-c06aac98-916e-450b-874d-535e0eb9dcc1",
       "source": "9News",
       "pub_date": "2026-03-21T23:19:23+00:00",
-      "age_hours": 34.85944106805555,
+      "age_hours": 36.441133558888886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://kdvr.com/news/local/march-heat-wave-draws-coloradans-to-the-water-boosts-seasonal-business/",
       "source": "Fox31",
       "pub_date": "2026-03-21T23:19:10+00:00",
-      "age_hours": 34.86333398527778,
+      "age_hours": 36.44503801944444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://kdvr.com/news/local/parents-warn-others-after-teens-brutal-attack-in-downtown-colorado-springs/",
       "source": "Fox31",
       "pub_date": "2026-03-21T22:50:28+00:00",
-      "age_hours": 35.341667326944446,
+      "age_hours": 36.923371359444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/03/21/boys-and-girls-clubs-of-larimer-county-names-2026-youths-of-the-year/",
       "source": "BizWest",
       "pub_date": "2026-03-21T17:02:20+00:00",
-      "age_hours": 41.142126830555554,
+      "age_hours": 42.72473124194445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.9news.com/article/news/crime/15th-market-hit-and-run-medina-alert/73-9c3abefa-a36c-4119-b182-def2cbc5e468",
       "source": "9News",
       "pub_date": "2026-03-21T16:55:35+00:00",
-      "age_hours": 41.25610775166667,
+      "age_hours": 42.837800244444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://www.9news.com/article/news/crime/i-70-closed-deadly-hit-and-run/73-5d99ff70-f53c-4dca-b42e-99ae53de3898",
       "source": "9News",
       "pub_date": "2026-03-21T16:30:01+00:00",
-      "age_hours": 41.68221886583333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "As March heat surges, Denver residents turn to air conditioning earlier than usual",
-      "link": "https://www.9news.com/article/weather/severe-weather/march-heat-denver-residents-turn-to-air-conditioning-earlier-than-usual/73-4a94ed2c-87f3-4eb7-8f3e-20accee38da7",
-      "source": "9News",
-      "pub_date": "2026-03-21T16:24:14+00:00",
-      "age_hours": 41.77860775777778,
+      "age_hours": 43.26391135888889,
       "breaking": false,
       "time_ago": "1 day ago"
     }
