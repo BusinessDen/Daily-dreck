@@ -1,33 +1,60 @@
 {
   "fetched_date": "2026-03-23",
-  "fetched_at": "2026-03-23 19:51:45",
+  "fetched_at": "2026-03-23 20:39:59",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "Design Workshop Foundation Accepting Applications for Community Capacity Building Program",
+      "link": "https://milehighcre.com/design-workshop-foundation-accepting-applications-for-community-capacity-building-program/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-03-23T20:38:09+00:00",
+      "age_hours": 0.026300988055555554,
+      "breaking": true,
+      "time_ago": "1 min ago"
+    },
+    {
+      "title": "7 apartment buildings planned for Harmony Technology Park",
+      "link": "https://bizwest.com/2026/03/23/7-apartment-buildings-planned-for-harmony-technology-park/",
+      "source": "BizWest",
+      "pub_date": "2026-03-23T20:33:27+00:00",
+      "age_hours": 0.10388184083333334,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
+    {
+      "title": "Denver airport says it has not been told ICE agents will be staffing TSA checkpoints",
+      "link": "https://kdvr.com/news/local/denver-airport-says-it-has-not-been-told-ice-agents-will-be-staffing-tsa-checkpoints/",
+      "source": "Fox31",
+      "pub_date": "2026-03-23T20:22:14+00:00",
+      "age_hours": 0.2920674833333333,
+      "breaking": true,
+      "time_ago": "17 min ago"
+    },
+    {
+      "title": "Jordon Perlmutter & Co. Secures Full-Building Lease at Hub Arapahoe",
+      "link": "https://milehighcre.com/jordon-perlmutter-co-secures-full-building-lease-at-hub-arapahoe/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-03-23T20:13:02+00:00",
+      "age_hours": 0.4449121086111111,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
     {
       "title": "Spring homebuyers face more than just high interest rates",
       "link": "https://www.9news.com/article/money/markets/real-estate/spring-homebuyers-high-interest-rates/73-215c19c3-6c59-43af-9050-05a9951201b9",
       "source": "9News",
       "pub_date": "2026-03-23T19:10:05+00:00",
-      "age_hours": 0.6895667397222223,
+      "age_hours": 1.4942579991666667,
       "breaking": true,
-      "time_ago": "41 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Trump touted bigger tax refunds this year, but Americans will likely spend them on gas",
       "link": "https://sentinelcolorado.com/uncategorized/trump-touted-bigger-tax-refunds-this-year-but-americans-will-likely-spend-them-on-gas/",
       "source": "Sentinel",
       "pub_date": "2026-03-23T18:50:24+00:00",
-      "age_hours": 1.018412108611111,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "International Energy Agency head says global economy faces \u2018major, major threat\u2019 from Iran war",
-      "link": "https://sentinelcolorado.com/uncategorized/international-energy-agency-head-says-global-economy-faces-major-major-threat-from-iran-war/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-23T18:50:17+00:00",
-      "age_hours": 1.0203565838888888,
+      "age_hours": 1.8230318947222224,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -36,7 +63,7 @@
       "link": "https://milehighcre.com/steamboat-to-debut-its-first-ultra-luxury-resort-and-residences/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-23T18:48:36+00:00",
-      "age_hours": 1.0474311133333334,
+      "age_hours": 1.8521343347222223,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,43 +72,43 @@
       "link": "https://www.9news.com/article/news/crime/woman-killed-colfax-shooting-aurora/73-8683b8bc-84b2-42b2-9813-b4edfd642825",
       "source": "9News",
       "pub_date": "2026-03-23T18:30:42+00:00",
-      "age_hours": 1.3459556413888887,
+      "age_hours": 2.1506469022222223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Broncos' Super Bowl 50 team to reunite at Denver fan event",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/denver-broncos-super-bowl-50-team-reunion/73-d2361039-5f51-4605-a5b5-e39f1b5ee2d9",
       "source": "9News",
       "pub_date": "2026-03-23T17:35:09+00:00",
-      "age_hours": 2.2717889780555556,
+      "age_hours": 3.0764802391666666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Business Buzz: How AI is changing the business of healthcare",
       "link": "https://www.9news.com/article/money/business-brief/how-ai-is-changing-the-business-healthcare/73-1ea05a53-70d2-468b-a35e-b0fe39a9703a",
       "source": "9News",
       "pub_date": "2026-03-23T17:09:17+00:00",
-      "age_hours": 2.702900092777778,
+      "age_hours": 3.507591353611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Billionaire shopping mall developer David Simon dead at 64, following cancer battle",
       "link": "https://www.9news.com/article/news/nation-world/david-simon-property-group/507-182c85e9-9185-4ac0-8d23-abbcf7321c59",
       "source": "9News",
       "pub_date": "2026-03-23T16:13:23+00:00",
-      "age_hours": 3.6345667725,
+      "age_hours": 4.439258033055555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "99% Of Colorado Marijuana Retailers Properly Checked IDs To Prevent Youth Access, State Report Shows",
       "link": "https://www.marijuanamoment.net/99-of-colorado-marijuana-retailers-properly-checked-ids-to-prevent-youth-access-state-report-shows/",
       "source": "MJ Moment",
       "pub_date": "2026-03-23T13:42:09+00:00",
-      "age_hours": 6.157288691111111,
+      "age_hours": 6.961880715833333,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -90,7 +117,7 @@
       "link": "https://bizwest.com/2026/03/23/judge-denies-mountain-coaster-appeal-for-more-parking/",
       "source": "BizWest",
       "pub_date": "2026-03-23T13:39:52+00:00",
-      "age_hours": 6.192538751388889,
+      "age_hours": 6.996937408333333,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -99,43 +126,43 @@
       "link": "https://kdvr.com/news/local/plume-of-smoke-blows-over-i-70-after-fire-breaks-out-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-03-23T13:33:45+00:00",
-      "age_hours": 6.295453727222222,
+      "age_hours": 7.100123075833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Cannabis Calendar: International Hemp Trade Show, Weed-Friendly March Madness",
       "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
       "source": "Westword",
       "pub_date": "2026-03-23T13:30:00-06:00",
-      "age_hours": 0.35804797111111114,
+      "age_hours": 1.1628167416666666,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Fire at Denver recycling facility sends smoke plume into metro area",
       "link": "https://www.9news.com/article/news/local/large-smoke-plume-fire/73-e14de927-3606-4ed2-9c7a-53a43225ca34",
       "source": "9News",
       "pub_date": "2026-03-23T13:16:19+00:00",
-      "age_hours": 6.585677910555556,
+      "age_hours": 7.390369169166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Chicken finger chain opening new northern Colorado restaurant",
       "link": "https://www.9news.com/article/life/style/colorado-guide/raising-canes-new-colorado-restaurant/73-41f0a558-bf84-4db0-a69e-e18f71bcb343",
       "source": "9News",
       "pub_date": "2026-03-23T12:36:55+00:00",
-      "age_hours": 7.242344595833334,
+      "age_hours": 8.04703584888889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver weather: Getting warmer this week",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-getting-warmer-this-week/",
       "source": "Fox31",
       "pub_date": "2026-03-23T11:41:35+00:00",
-      "age_hours": 8.16489817861111,
+      "age_hours": 8.969567527777778,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://www.9news.com/article/money/pharmacann-marijuana-jobs-layoffs/73-bdef31b9-1190-42ed-9347-08b11a2a7385",
       "source": "9News",
       "pub_date": "2026-03-23T10:46:47+00:00",
-      "age_hours": 9.077900165277779,
+      "age_hours": 9.882591417222223,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -153,36 +180,9 @@
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-23T10:16:53+00:00",
-      "age_hours": 9.576233504444444,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Colorado is losing 1 affordable housing unit for every 2 it builds. But the state keeps rejecting efforts to stop the bleeding.",
-      "link": "https://coloradosun.com/2026/03/23/colorado-losing-affordable-housing-proposition-123-preservation/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-03-23T10:00:00+00:00",
-      "age_hours": 9.85748473138889,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Has bird flu killed millions of chickens in Colorado?",
-      "link": "https://coloradosun.com/2026/03/23/has-bird-flu-killed-millions-of-chickens-in-colorado/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-03-23T09:45:00+00:00",
-      "age_hours": 10.10748474138889,
+      "age_hours": 10.38092475638889,
       "breaking": false,
       "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "House cleaner robbed in broad daylight in Denver, steps from her client\u2019s home",
-      "link": "https://kdvr.com/news/local/house-cleaner-robbed-in-broad-daylight-in-denver-steps-from-her-clients-home/",
-      "source": "Fox31",
-      "pub_date": "2026-03-22T22:27:03+00:00",
-      "age_hours": 21.407120441666667,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
     }
   ]
 }
