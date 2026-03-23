@@ -1,114 +1,114 @@
 {
-  "fetched_date": "2026-03-22",
-  "fetched_at": "2026-03-22 23:31:20",
+  "fetched_date": "2026-03-23",
+  "fetched_at": "2026-03-23 02:29:45",
   "article_count": 20,
   "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver weather: Warming trend starts Monday",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warming-trend-starts-monday/",
+      "source": "Fox31",
+      "pub_date": "2026-03-23T01:41:53+00:00",
+      "age_hours": 0.7929912919444444,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
     {
       "title": "House cleaner robbed in broad daylight in Denver, steps from her client\u2019s home",
       "link": "https://kdvr.com/news/local/house-cleaner-robbed-in-broad-daylight-in-denver-steps-from-her-clients-home/",
       "source": "Fox31",
       "pub_date": "2026-03-22T22:27:03+00:00",
-      "age_hours": 1.0669309525000001,
+      "age_hours": 4.040213501944445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Woman critically injured in car shooting drives herself to Colfax store in Aurora",
       "link": "https://sentinelcolorado.com/metro/woman-critically-injured-in-car-shooting-drives-herself-to-colfax-store-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-03-22T20:36:58+00:00",
-      "age_hours": 2.902093564722222,
+      "age_hours": 5.875401291111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Crowds flock to Ohio in search of meteorite fragments after fireball",
       "link": "https://www.9news.com/article/news/nation-world/crowds-flock-to-ohio-search-of-meteorite-fragments-after-fireball/507-1707ce9f-9252-4086-9e9c-335e4682028e",
       "source": "9News",
       "pub_date": "2026-03-22T19:15:31+00:00",
-      "age_hours": 4.258969458611111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.232121737222222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "DU Hockey wins 2026 NCHC Frozen Faceoff Championship",
       "link": "https://kdvr.com/sports/du-hockey-wins-2026-nchc-frozen-faceoff-championship/",
       "source": "Fox31",
       "pub_date": "2026-03-22T17:09:31+00:00",
-      "age_hours": 6.359153191666667,
+      "age_hours": 9.332435744722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "CEOs on AI: \u2018This is going to change everything\u2019",
       "link": "https://bizwest.com/2026/03/22/ceos-on-ai-this-is-going-to-change-everything/",
       "source": "BizWest",
       "pub_date": "2026-03-22T16:51:50+00:00",
-      "age_hours": 6.651335732222223,
+      "age_hours": 9.625824958333334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver weather: Cooler Sunday with some clouds",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-cooler-sunday-with-some-clouds/",
-      "source": "Fox31",
-      "pub_date": "2026-03-22T15:29:27+00:00",
-      "age_hours": 8.026930973611112,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Youth mentoring moved Collin Irish from fairy tales to sci-fi",
       "link": "https://coloradosun.com/2026/03/22/sunlit-collin-irish-messenger/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-22T08:10:00+00:00",
-      "age_hours": 15.34938323111111,
+      "age_hours": 18.323859844444442,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 3.21.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-3-21-26/",
       "source": "Sentinel",
       "pub_date": "2026-03-22T05:55:29+00:00",
-      "age_hours": 17.593482475833333,
+      "age_hours": 20.566790197222222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "'He'd change your mood in a heartbeat': Friends and co-workers remember Marvin Dzib, killed in Denver road rage shooting",
       "link": "https://www.9news.com/article/news/crime/friends-and-coworkers-remember-marvin-dzib-denver-road-rage-shooting/73-462ecda3-f9f3-4fdb-bcf3-2475433b1533",
       "source": "9News",
       "pub_date": "2026-03-22T03:24:26+00:00",
-      "age_hours": 20.110358376388888,
+      "age_hours": 23.083510665833334,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Firefighters urge drivers to keep up on car maintenance to prevent roadside grass fires",
       "link": "https://kdvr.com/news/local/firefighters-urge-drivers-to-keep-up-on-car-maintenance-to-prevent-roadside-grass-fires/",
       "source": "Fox31",
       "pub_date": "2026-03-22T02:55:10+00:00",
-      "age_hours": 20.59831985388889,
+      "age_hours": 23.5716024075,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Cuba\u2019s power grid collapses leaving it without electricity for the 3rd time this month",
       "link": "https://sentinelcolorado.com/nation-world/world/cubas-power-grid-collapses-leaving-it-without-electricity-for-the-3rd-time-this-month/",
       "source": "Sentinel",
       "pub_date": "2026-03-22T02:08:27+00:00",
-      "age_hours": 21.37737137166667,
+      "age_hours": 24.350679093333333,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver breaks record for hottest March day for 3rd consecutive day",
       "link": "https://www.9news.com/article/weather/weather-colorado/denver-record-hottest-march-day/73-c06aac98-916e-450b-874d-535e0eb9dcc1",
       "source": "9News",
       "pub_date": "2026-03-21T23:19:23+00:00",
-      "age_hours": 24.194525051666666,
+      "age_hours": 27.167677341666668,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://kdvr.com/news/local/march-heat-wave-draws-coloradans-to-the-water-boosts-seasonal-business/",
       "source": "Fox31",
       "pub_date": "2026-03-21T23:19:10+00:00",
-      "age_hours": 24.198319875833334,
+      "age_hours": 27.171602421111114,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://kdvr.com/news/local/parents-warn-others-after-teens-brutal-attack-in-downtown-colorado-springs/",
       "source": "Fox31",
       "pub_date": "2026-03-21T22:50:28+00:00",
-      "age_hours": 24.676653217777776,
+      "age_hours": 27.64993576111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/03/21/boys-and-girls-clubs-of-larimer-county-names-2026-youths-of-the-year/",
       "source": "BizWest",
       "pub_date": "2026-03-21T17:02:20+00:00",
-      "age_hours": 30.4763357475,
+      "age_hours": 33.45082496944444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.9news.com/article/news/crime/15th-market-hit-and-run-medina-alert/73-9c3abefa-a36c-4119-b182-def2cbc5e468",
       "source": "9News",
       "pub_date": "2026-03-21T16:55:35+00:00",
-      "age_hours": 30.59119173527778,
+      "age_hours": 33.56434402638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://www.9news.com/article/news/crime/i-70-closed-deadly-hit-and-run/73-5d99ff70-f53c-4dca-b42e-99ae53de3898",
       "source": "9News",
       "pub_date": "2026-03-21T16:30:01+00:00",
-      "age_hours": 31.01730284944444,
+      "age_hours": 33.99045514083333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.9news.com/article/weather/severe-weather/march-heat-denver-residents-turn-to-air-conditioning-earlier-than-usual/73-4a94ed2c-87f3-4eb7-8f3e-20accee38da7",
       "source": "9News",
       "pub_date": "2026-03-21T16:24:14+00:00",
-      "age_hours": 31.11369174138889,
+      "age_hours": 34.086844033055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.9news.com/article/news/nation-world/gas-prices-rise-demand-production-volume-decrease/507-e58b88f9-d33c-4787-b3a1-6feb8848bf8d",
       "source": "9News",
       "pub_date": "2026-03-21T12:43:48+00:00",
-      "age_hours": 34.78758064083333,
+      "age_hours": 37.76073293305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/03/21/governor-warns-energy-development-both-a-boon-and-a-risk-to-colorado-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-03-21T11:00:00+00:00",
-      "age_hours": 36.518174933055555,
+      "age_hours": 39.49147766222222,
       "breaking": false,
       "time_ago": "1 day ago"
     }
