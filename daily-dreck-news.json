@@ -1,141 +1,150 @@
 {
   "fetched_date": "2026-03-23",
-  "fetched_at": "2026-03-23 16:04:31",
+  "fetched_at": "2026-03-23 17:52:23",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Broncos' Super Bowl 50 team to reunite at Denver fan event",
+      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/denver-broncos-super-bowl-50-team-reunion/73-d2361039-5f51-4605-a5b5-e39f1b5ee2d9",
+      "source": "9News",
+      "pub_date": "2026-03-23T17:35:09+00:00",
+      "age_hours": 0.28292800333333334,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
+    {
+      "title": "Business Buzz: How AI is changing the business of healthcare",
+      "link": "https://www.9news.com/article/money/business-brief/how-ai-is-changing-the-business-healthcare/73-1ea05a53-70d2-468b-a35e-b0fe39a9703a",
+      "source": "9News",
+      "pub_date": "2026-03-23T17:09:17+00:00",
+      "age_hours": 0.7140391241666667,
+      "breaking": true,
+      "time_ago": "42 min ago"
+    },
+    {
+      "title": "Billionaire shopping mall developer David Simon dead at 64, following cancer battle",
+      "link": "https://www.9news.com/article/news/nation-world/david-simon-property-group/507-182c85e9-9185-4ac0-8d23-abbcf7321c59",
+      "source": "9News",
+      "pub_date": "2026-03-23T16:13:23+00:00",
+      "age_hours": 1.64570581,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Girls Basketball: 2025-26 All-Colorado League teams",
+      "link": "https://sentinelcolorado.com/sports/preps/girls-basketball/girls-basketball-2025-26-all-colorado-league-teams/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-23T16:10:40+00:00",
+      "age_hours": 1.6918127422222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "99% Of Colorado Marijuana Retailers Properly Checked IDs To Prevent Youth Access, State Report Shows",
       "link": "https://www.marijuanamoment.net/99-of-colorado-marijuana-retailers-properly-checked-ids-to-prevent-youth-access-state-report-shows/",
       "source": "MJ Moment",
       "pub_date": "2026-03-23T13:42:09+00:00",
-      "age_hours": 2.3704730447222224,
+      "age_hours": 4.168476255,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Judge denies mountain coaster appeal for more parking",
       "link": "https://bizwest.com/2026/03/23/judge-denies-mountain-coaster-appeal-for-more-parking/",
       "source": "BizWest",
       "pub_date": "2026-03-23T13:39:52+00:00",
-      "age_hours": 2.4058004133333335,
+      "age_hours": 4.203451724444444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
-      "title": "Plume of smoke blows over I-70 after fire breaks out in Denver",
+      "title": "Fire put out at waste management facility after plume of smoke blew over I-70",
       "link": "https://kdvr.com/news/local/plume-of-smoke-blows-over-i-70-after-fire-breaks-out-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-03-23T13:33:45+00:00",
-      "age_hours": 2.508613151111111,
+      "age_hours": 4.306667029166666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Fire at Denver recycling facility sends smoke plume into metro area",
       "link": "https://www.9news.com/article/news/local/large-smoke-plume-fire/73-e14de927-3606-4ed2-9c7a-53a43225ca34",
       "source": "9News",
       "pub_date": "2026-03-23T13:16:19+00:00",
-      "age_hours": 2.7989896269444445,
+      "age_hours": 4.596816950833333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Chicken finger chain opening new northern Colorado restaurant",
       "link": "https://www.9news.com/article/life/style/colorado-guide/raising-canes-new-colorado-restaurant/73-41f0a558-bf84-4db0-a69e-e18f71bcb343",
       "source": "9News",
       "pub_date": "2026-03-23T12:36:55+00:00",
-      "age_hours": 3.4556563113888887,
+      "age_hours": 5.253483631111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver weather: Getting warmer this week",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-getting-warmer-this-week/",
       "source": "Fox31",
       "pub_date": "2026-03-23T11:41:35+00:00",
-      "age_hours": 4.378057610277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.1761114911111115,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Cannabis company to close Denver grow facility, cut 132 jobs",
       "link": "https://www.9news.com/article/money/pharmacann-marijuana-jobs-layoffs/73-bdef31b9-1190-42ed-9347-08b11a2a7385",
       "source": "9News",
       "pub_date": "2026-03-23T10:46:47+00:00",
-      "age_hours": 5.291211884722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.089039203055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver braces for potential record heat as temperatures surge this week",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-23T10:16:53+00:00",
-      "age_hours": 5.789545224444445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.587372542222223,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado is losing 1 affordable housing unit for every 2 it builds. But the state keeps rejecting efforts to stop the bleeding.",
       "link": "https://coloradosun.com/2026/03/23/colorado-losing-affordable-housing-proposition-123-preservation/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-23T10:00:00+00:00",
-      "age_hours": 6.070728486111111,
+      "age_hours": 7.868657029722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Has bird flu killed millions of chickens in Colorado?",
       "link": "https://coloradosun.com/2026/03/23/has-bird-flu-killed-millions-of-chickens-in-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-23T09:45:00+00:00",
-      "age_hours": 6.320728496388889,
+      "age_hours": 8.11865704138889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "House cleaner robbed in broad daylight in Denver, steps from her client\u2019s home",
       "link": "https://kdvr.com/news/local/house-cleaner-robbed-in-broad-daylight-in-denver-steps-from-her-clients-home/",
       "source": "Fox31",
       "pub_date": "2026-03-22T22:27:03+00:00",
-      "age_hours": 17.620279862500002,
+      "age_hours": 19.418333758611112,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Crowds flock to Ohio in search of meteorite fragments after fireball",
-      "link": "https://www.9news.com/article/news/nation-world/crowds-flock-to-ohio-search-of-meteorite-fragments-after-fireball/507-1707ce9f-9252-4086-9e9c-335e4682028e",
-      "source": "9News",
-      "pub_date": "2026-03-22T19:15:31+00:00",
-      "age_hours": 20.812323032777776,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "DU Hockey wins 2026 NCHC Frozen Faceoff Championship",
-      "link": "https://kdvr.com/sports/du-hockey-wins-2026-nchc-frozen-faceoff-championship/",
-      "source": "Fox31",
-      "pub_date": "2026-03-22T17:09:31+00:00",
-      "age_hours": 22.91250209611111,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "CEOs on AI: \u2018This is going to change everything\u2019",
       "link": "https://bizwest.com/2026/03/22/ceos-on-ai-this-is-going-to-change-everything/",
       "source": "BizWest",
       "pub_date": "2026-03-22T16:51:50+00:00",
-      "age_hours": 23.206355978888887,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Youth mentoring moved Collin Irish from fairy tales to sci-fi",
-      "link": "https://coloradosun.com/2026/03/22/sunlit-collin-irish-messenger/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-03-22T08:10:00+00:00",
-      "age_hours": 31.90406187611111,
+      "age_hours": 25.004007290277777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://kdvr.com/news/local/firefighters-urge-drivers-to-keep-up-on-car-maintenance-to-prevent-roadside-grass-fires/",
       "source": "Fox31",
       "pub_date": "2026-03-22T02:55:10+00:00",
-      "age_hours": 37.15166875916667,
+      "age_hours": 38.94972265722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,25 +162,16 @@
       "link": "https://bizwest.com/2026/03/21/boys-and-girls-clubs-of-larimer-county-names-2026-youths-of-the-year/",
       "source": "BizWest",
       "pub_date": "2026-03-21T17:02:20+00:00",
-      "age_hours": 47.031355983055555,
+      "age_hours": 48.829007295,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Governor warns energy development both a boon and a risk to Colorado | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/03/21/governor-warns-energy-development-both-a-boon-and-a-risk-to-colorado-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-03-21T11:00:00+00:00",
-      "age_hours": 53.07155770777778,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Zoning Updates and Housing Affordability Are Headed to the Ballot in Lakewood",
-      "link": "https://www.westword.com/opinion/lakewood-residents-should-vote-against-zoning-rollback-opinion-40859188/",
-      "source": "Westword",
-      "pub_date": "2026-03-21T08:01:02-06:00",
-      "age_hours": 50.05412631527778,
+      "age_hours": 54.86954542444444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.denver7.com/news/politics/colorados-budget-deficit-jumps-to-1-5-billion-under-new-forecast",
       "source": "Denver7",
       "pub_date": "2026-03-20T22:06:54+00:00",
-      "age_hours": 65.9559971836111,
+      "age_hours": 67.75393183166666,
       "breaking": false,
       "time_ago": "2 days ago"
     }
