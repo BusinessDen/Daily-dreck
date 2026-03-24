@@ -1,114 +1,150 @@
 {
   "fetched_date": "2026-03-24",
-  "fetched_at": "2026-03-24 13:16:54",
+  "fetched_at": "2026-03-24 15:00:37",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 13,
   "articles": [
     {
-      "title": "Denver weather: Record breaking heat",
+      "title": "Broadway classics and new hits headline DCPA's 2026-27 season in Denver",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/denver-center-broadway-shows-schedule/73-3b9738cc-dc56-4a6d-a4e9-3e0a1953a4c1",
+      "source": "9News",
+      "pub_date": "2026-03-24T14:54:25+00:00",
+      "age_hours": 0.09888772916666667,
+      "breaking": true,
+      "time_ago": "5 min ago"
+    },
+    {
+      "title": "Elon Musk company reveals decision on proposed Denver tunnel",
+      "link": "https://www.9news.com/article/money/business/elon-musk-tunnel-denver-arena-tunnel-company/73-df349386-f2e7-4392-a2ef-e390cea2c747",
+      "source": "9News",
+      "pub_date": "2026-03-24T14:03:25+00:00",
+      "age_hours": 0.9488877394444445,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
+    {
+      "title": "Rising gas and diesel prices strain budgets and delivery drivers' wallets",
+      "link": "https://www.9news.com/article/news/nation-world/fuel-gas-diesel-prices-municipal-service-budget-public-works-delivery-drivers-high-cost/507-5250a300-8859-4743-8c29-c2deb5a39f77",
+      "source": "9News",
+      "pub_date": "2026-03-24T13:54:34+00:00",
+      "age_hours": 1.0963877436111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Clinica Family Health & Wellness reveals 2025 data breach",
+      "link": "https://bizwest.com/2026/03/24/clinica-family-health-wellness-reveals-2025-data-breach/",
+      "source": "BizWest",
+      "pub_date": "2026-03-24T13:32:54+00:00",
+      "age_hours": 1.456719323888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Westminster to debut restaurant week in April",
+      "link": "https://bizwest.com/2026/03/24/westminster-to-debut-restaurant-week-in-april/",
+      "source": "BizWest",
+      "pub_date": "2026-03-24T13:27:22+00:00",
+      "age_hours": 1.5489415563888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Raising Cane\u2019s opens Loveland location",
+      "link": "https://bizwest.com/2026/03/24/raising-canes-opens-loveland-location/",
+      "source": "BizWest",
+      "pub_date": "2026-03-24T13:22:58+00:00",
+      "age_hours": 1.622274893888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver weather: Record-breaking heat",
       "link": "https://kdvr.com/weather/denver-weather-record-breaking-heat/",
       "source": "Fox31",
       "pub_date": "2026-03-24T13:14:34+00:00",
-      "age_hours": 0.03462349555555556,
+      "age_hours": 1.7633132044444444,
       "breaking": true,
-      "time_ago": "2 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Work club sells out fourth Denver location in less than a day",
       "link": "https://www.9news.com/article/money/markets/real-estate/switchyards-denver/73-ad304a70-7002-4ab8-ab28-cc9e77984b0a",
       "source": "9News",
       "pub_date": "2026-03-24T11:51:05+00:00",
-      "age_hours": 1.4258805525,
+      "age_hours": 3.154443318333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Halftime performer announced for Summit FC\u2019s inaugural home match",
       "link": "https://www.9news.com/article/sports/soccer/big-gigantic-live-denver-summit-fc/73-7905814e-ed14-41b2-86db-8ea877893efb",
       "source": "9News",
       "pub_date": "2026-03-24T11:17:12+00:00",
-      "age_hours": 1.9906027844444445,
+      "age_hours": 3.7191655461111113,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver vote on Axon license plate reader contract delayed amid uncertainty it has enough support",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-vote-axon-license-plate-reader/73-a2b1fb80-b75f-4a67-b44c-88a0c02234bb",
       "source": "9News",
       "pub_date": "2026-03-24T10:34:58+00:00",
-      "age_hours": 2.6944916891666666,
+      "age_hours": 4.423054449722223,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Record-breaking temperatures, along with critical fire weather conditions",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-24T10:06:38+00:00",
-      "age_hours": 3.166713917777778,
+      "age_hours": 4.8952766775,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "As the BLM in Moab opens hundreds of miles of trails to e-bikes, Colorado land managers also weigh expansion",
       "link": "https://coloradosun.com/2026/03/24/blm-ebikes-moab-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-24T10:00:00+00:00",
-      "age_hours": 3.2771556952777776,
+      "age_hours": 5.005560851944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "How Denver\u2019s Upcoming Water Restrictions Will Impact You",
       "link": "https://www.westword.com/news/denver-summer-water-restrictions-40860490/",
       "source": "Westword",
       "pub_date": "2026-03-24T06:50:00-06:00",
-      "age_hours": 0.44415089305555555,
+      "age_hours": 2.172989085,
       "breaking": true,
-      "time_ago": "26 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "No injuries reported in collapse at Denver parking garage",
       "link": "https://www.9news.com/article/news/local/parking-garage-collapse-southeast-denver/73-a5b0774b-b074-4084-9029-c56605b96e7a",
       "source": "9News",
       "pub_date": "2026-03-24T03:22:59+00:00",
-      "age_hours": 9.894213929444444,
+      "age_hours": 11.622776688888887,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Woman who died after collapsing inside business while seeking help has been identified",
       "link": "https://www.9news.com/article/news/crime/woman-killed-colfax-shooting-aurora/73-8683b8bc-84b2-42b2-9813-b4edfd642825",
       "source": "9News",
       "pub_date": "2026-03-24T01:26:15+00:00",
-      "age_hours": 11.839769493611112,
+      "age_hours": 13.568332252222222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Working in a dynamite factory; Next with Kyle Clark full show (3/23/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/working-in-a-dynamite-factory-next-with-kyle-clark-full-show-32326/73-c10e9270-b439-4b27-8a63-dc1fa053ff6f",
       "source": "9News",
       "pub_date": "2026-03-24T00:51:50+00:00",
-      "age_hours": 12.4133806175,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Denver women's prison hosts K-9 companion program",
-      "link": "https://kdvr.com/news/local/denver-womens-prison-hosts-k-9-companion-program/",
-      "source": "Fox31",
-      "pub_date": "2026-03-23T23:27:38+00:00",
-      "age_hours": 13.816845745,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Fort Collins weighs paid downtown parking for 2028 as debate grows",
-      "link": "https://www.9news.com/article/news/local/colorado-news/fort-collins-weighs-paid-downtown-parking-for-2028/73-c0a039f0-4759-49d7-a5be-f81e79ed63d4",
-      "source": "9News",
-      "pub_date": "2026-03-23T22:54:26+00:00",
-      "age_hours": 14.370047314444445,
+      "age_hours": 14.141943375555556,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -117,72 +153,36 @@
       "link": "https://kdvr.com/news/local/police-investigating-i-25-motorcycle-crash-in-downtown-denver/",
       "source": "Fox31",
       "pub_date": "2026-03-23T22:42:25+00:00",
-      "age_hours": 14.570456838333333,
+      "age_hours": 16.299146541944445,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Warm weather drives need at Denver nonprofit",
-      "link": "https://www.9news.com/article/news/local/colorado-news/denver-nonprofit-needs-warm-weather-clothes/73-37a6955e-b073-455b-99d9-ca914b7a69f3",
-      "source": "9News",
-      "pub_date": "2026-03-23T22:20:00+00:00",
-      "age_hours": 14.943936210555556,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Multiple vehicles crushed as floor of parking garage collapses",
       "link": "https://kdvr.com/news/local/multiple-vehicles-crushed-as-floor-of-parking-garage-collapses/",
       "source": "Fox31",
       "pub_date": "2026-03-23T22:13:40+00:00",
-      "age_hours": 15.049623476944445,
+      "age_hours": 16.778313168611113,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Firestone\u2019s pro soccer ambitions deflated",
       "link": "https://bizwest.com/2026/03/23/firestones-pro-soccer-ambitions-deflated/",
       "source": "BizWest",
       "pub_date": "2026-03-23T20:42:50+00:00",
-      "age_hours": 16.562898474166666,
+      "age_hours": 18.291163785555554,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Design Workshop Foundation Accepting Applications for Community Capacity Building Program",
       "link": "https://milehighcre.com/design-workshop-foundation-accepting-applications-for-community-capacity-building-program/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-23T20:38:09+00:00",
-      "age_hours": 16.641266156666667,
+      "age_hours": 18.369610058333333,
       "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "7 apartment buildings planned for Harmony Technology Park",
-      "link": "https://bizwest.com/2026/03/23/7-apartment-buildings-planned-for-harmony-technology-park/",
-      "source": "BizWest",
-      "pub_date": "2026-03-23T20:33:27+00:00",
-      "age_hours": 16.71928737361111,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Denver airport says it has not been told ICE agents will be staffing TSA checkpoints",
-      "link": "https://kdvr.com/news/local/denver-airport-says-it-has-not-been-told-ice-agents-will-be-staffing-tsa-checkpoints/",
-      "source": "Fox31",
-      "pub_date": "2026-03-23T20:22:14+00:00",
-      "age_hours": 16.906845749722223,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Jordon Perlmutter & Co. Secures Full-Building Lease at Hub Arapahoe",
-      "link": "https://milehighcre.com/jordon-perlmutter-co-secures-full-building-lease-at-hub-arapahoe/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-03-23T20:13:02+00:00",
-      "age_hours": 17.059877276666665,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
