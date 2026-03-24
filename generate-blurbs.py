@@ -19,7 +19,7 @@ import urllib.error
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MODEL = "claude-sonnet-4-5-20250929"
-MAX_TOKENS = 2500
+MAX_TOKENS = 3000
 
 # ============================================
 # DATA LOADERS
@@ -345,6 +345,73 @@ def load_reputation_data():
     }
 
 
+def load_liquor_data():
+    """Fetch liquor-data.json from the Liquor License Tracker and compute key metrics."""
+    data = fetch_json_url("https://businessden.github.io/liquor/liquor-data.json")
+    if not data:
+        return None
+
+    # Handle both array and dict with "applications" key
+    if isinstance(data, list):
+        records = data
+    else:
+        records = data.get("applications", data.get("licenses", data.get("records", [])))
+
+    if not records:
+        return None
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    seven_days_ago = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+    fourteen_days_ago = (datetime.now() - timedelta(days=14)).strftime("%Y-%m-%d")
+    thirty_days_ago = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+
+    is_monday = datetime.now().strftime("%A") == "Monday"
+    recent_cutoff = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d") if is_monday else yesterday
+
+    def record_date(r):
+        """Extract the best date field from a record."""
+        for field in ["date", "filed_date", "application_date", "received_date", "scraped_date", "first_seen"]:
+            d = r.get(field, "")
+            if d and len(str(d)) >= 10:
+                return str(d)[:10]
+        return ""
+
+    # Count by time period
+    today_records = [r for r in records if record_date(r) >= recent_cutoff]
+    week_records = [r for r in records if seven_days_ago <= record_date(r) <= today]
+    prev_week_records = [r for r in records if fourteen_days_ago <= record_date(r) < seven_days_ago]
+    month_records = [r for r in records if thirty_days_ago <= record_date(r) <= today]
+
+    # Type breakdown for this week
+    type_counts = {}
+    for r in week_records:
+        t = r.get("type", r.get("license_type", r.get("application_type", "Unknown")))
+        type_counts[t] = type_counts.get(t, 0) + 1
+
+    # Recent applications with detail
+    recent = sorted(week_records, key=lambda r: record_date(r), reverse=True)[:8]
+    formatted_recent = []
+    for r in recent:
+        formatted_recent.append({
+            "name": r.get("name", r.get("business_name", r.get("applicant", "Unknown"))),
+            "type": r.get("type", r.get("license_type", r.get("application_type", ""))),
+            "address": r.get("address", ""),
+            "date": record_date(r),
+            "neighborhood": r.get("neighborhood", ""),
+        })
+
+    return {
+        "new_today": len(today_records),
+        "new_7d": len(week_records),
+        "new_prev_7d": len(prev_week_records),
+        "new_30d": len(month_records),
+        "total": len(records),
+        "type_counts_7d": type_counts,
+        "recent_applications": formatted_recent,
+    }
+
+
 def load_subscriber_data():
     """Fetch subscribers.json and snapshots.json from the subscriber dashboard and compute key metrics."""
     subs_data = fetch_json_url("https://businessden.github.io/subscriber/data/subscribers.json")
@@ -545,6 +612,7 @@ def main():
     foreclosure_data = load_foreclosure_data()
     reputation_data = load_reputation_data()
     subscriber_data = load_subscriber_data()
+    liquor_data = load_liquor_data()
     previous_blurbs = load_previous_blurbs()
 
     # Build the system prompt
@@ -577,7 +645,7 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
       }
     },
     "foreclosure": {
-      "blurb": "~50 word editorial blurb about foreclosure data.",
+      "blurb": "ONE sentence only — state the week's filing count, compare to last week, and note any high-value or notable properties.",
       "meta": "Updated today · 5:15 AM",
       "ticker_daily": {
         "label1": "new filings", "value1": "N", "class1": "",
@@ -590,8 +658,17 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
         "period": "7-day"
       }
     },
-    "retail": {
-      "meta": "Expected Q2 2026"
+    "liquor": {
+      "blurb": "~50 word editorial blurb about new liquor license applications. Name the businesses, neighborhoods, and license types.",
+      "meta": "Updated today · 5:15 AM",
+      "ticker_daily": {
+        "label1": "new apps", "value1": "N", "class1": "",
+        "period": "today"
+      },
+      "ticker_weekly": {
+        "label1": "applications", "value1": "N", "class1": "",
+        "period": "7-day"
+      }
     },
     "reputation": {
       "blurb": "~50 word editorial blurb about BusinessDen mentions/citations in other media this week.",
@@ -625,6 +702,8 @@ IMPORTANT:
 - Then contextualize: compare to last week, note trends, flag neighborhoods or patterns
 - Never repeat yesterday's phrasing — find a fresh angle
 - Keep retail entries as-is — do NOT generate blurbs for them, they are static in the HTML
+- For foreclosure: write ONE SENTENCE ONLY — state the filing count, compare to last week, note any standout properties
+- For liquor: name the businesses and neighborhoods, note license types, highlight anything newsworthy
 - For reputation: note top citing sources, week-over-week trend, and any notable pickups
 - For subscriptions: START with today's net change (e.g. "Net +3 yesterday"), then state impact on MTD number, then 90-day net. Then describe the recent 1-2 week trend vs the longer-term pattern. Keep it factual and concise."""
 
@@ -713,10 +792,24 @@ IMPORTANT for subscriptions blurb: Start with {subscriber_data['net_day_label']}
     else:
         prompt_parts.append("SUBSCRIBER DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
 
+    if liquor_data:
+        prompt_parts.append(f"""LIQUOR LICENSE DATA:
+- New applications {daily_period_label}: {liquor_data['new_today']}
+- Past 7 days: {liquor_data['new_7d']} applications
+- Previous 7 days (for comparison): {liquor_data['new_prev_7d']}
+- Past 30 days: {liquor_data['new_30d']}
+- Total tracked: {liquor_data['total']}
+- Types this week: {json.dumps(liquor_data['type_counts_7d'])}
+- Recent applications: {json.dumps(liquor_data['recent_applications'][:6], indent=2)}
+""")
+    else:
+        prompt_parts.append("LIQUOR LICENSE DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
+
     if previous_blurbs and previous_blurbs.get("generated_date") != today_iso:
         prompt_parts.append(f"""YESTERDAY'S BLURBS (do NOT repeat these — find fresh phrasing):
 - Restaurant: {previous_blurbs.get('tools', {}).get('restaurant', {}).get('blurb', 'N/A')}
 - Foreclosure: {previous_blurbs.get('tools', {}).get('foreclosure', {}).get('blurb', 'N/A')}
+- Liquor: {previous_blurbs.get('tools', {}).get('liquor', {}).get('blurb', 'N/A')}
 - Reputation: {previous_blurbs.get('tools', {}).get('reputation', {}).get('blurb', 'N/A')}
 - Subscriptions: {previous_blurbs.get('tools', {}).get('subscriptions', {}).get('blurb', 'N/A')}
 - Lead headline: {previous_blurbs.get('lead_headline', 'N/A')}
@@ -729,6 +822,7 @@ IMPORTANT for subscriptions blurb: Start with {subscriber_data['net_day_label']}
     print(f"Generating blurbs for {today_str}...")
     print(f"Restaurant data: {'available' if restaurant_data else 'unavailable'}")
     print(f"Foreclosure data: {'available' if foreclosure_data else 'unavailable'}")
+    print(f"Liquor data: {'available' if liquor_data else 'unavailable'}")
     print(f"Reputation data: {'available' if reputation_data else 'unavailable'}")
     print(f"Subscriber data: {'available' if subscriber_data else 'unavailable'}")
 

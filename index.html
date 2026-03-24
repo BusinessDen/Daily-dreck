@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Daily Dreck — BusinessDen</title>
+<title>Dreck</title>
 <meta name="robots" content="noindex, nofollow">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -544,26 +544,26 @@
           <div class="t-unavailable">—</div>
         </div>
 
-        <!-- Row 5: Retail Openings & Closures -->
+        <!-- Row 5: Liquor License Tracker -->
         <div class="tp-tool last">
-          <a class="tool-card coming-soon" href="#">
+          <a class="tool-card" href="https://businessden.github.io/liquor/" target="_blank">
             <div class="tool-card-photo">
-              <img src="https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=400&h=400&fit=crop&crop=center" alt="Denver retail district">
+              <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=400&h=400&fit=crop&crop=center" alt="Bar with liquor bottles">
             </div>
             <div class="tool-card-body">
               <div class="badge-row">
-                <span class="badge badge-dev"><span class="dot"></span>In Dev</span>
-                <span class="badge-updated">Expected Q2 2026</span>
+                <span class="badge badge-live"><span class="dot"></span>Live</span>
+                <span class="badge-updated" id="updated-liquor"></span>
               </div>
-              <h2>Retail Openings &amp; Closures</h2>
-              <p class="blurb" id="blurb-retail">Lease filings, vacancy rates, and tenant movements across Denver metro retail corridors. Data pipeline under construction.</p>
-              <div class="cta">Coming Soon</div>
+              <h2>Liquor Licenses</h2>
+              <p class="blurb" id="blurb-liquor"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-liquor"></div>
+              <div class="cta">Open →</div>
             </div>
           </a>
         </div>
-        <div class="tp-pulse last">
-          <div class="t-pending">—</div>
-          <div class="t-sub">pending</div>
+        <div class="tp-pulse last" id="pulse-liquor">
+          <div class="t-unavailable">—</div>
         </div>
 
       </div>
@@ -657,8 +657,8 @@
       // Tool blurbs + updated badges
       // Only overwrite blurbs for live tools — coming-soon descriptions are static in HTML
       var tools = data.tools || {};
-      var liveTools = ['restaurant', 'foreclosure', 'reputation', 'subscriptions'];
-      var allTools = ['restaurant', 'foreclosure', 'retail', 'subscriptions', 'reputation'];
+      var liveTools = ['restaurant', 'foreclosure', 'reputation', 'subscriptions', 'liquor'];
+      var allTools = ['restaurant', 'foreclosure', 'subscriptions', 'reputation', 'liquor'];
 
       for (var i = 0; i < allTools.length; i++) {
         var key = allTools[i];
@@ -770,6 +770,12 @@
       var rp_w = tools.reputation ? tools.reputation.ticker_weekly : null;
       if (!rp_d && !rp_w && tools.reputation && tools.reputation.ticker) { rp_w = tools.reputation.ticker; }
       renderPulse(document.getElementById('pulse-reputation'), rp_d, rp_w);
+
+      // Liquor pulse
+      var lq_d = tools.liquor ? tools.liquor.ticker_daily : null;
+      var lq_w = tools.liquor ? tools.liquor.ticker_weekly : null;
+      if (!lq_d && !lq_w && tools.liquor && tools.liquor.ticker) { lq_w = tools.liquor.ticker; }
+      renderPulse(document.getElementById('pulse-liquor'), lq_d, lq_w);
 
       // Subscriptions pulse — Row 1: MTD/YTD net total, Row 2: MTD/YTD net per day
       var sbEl = document.getElementById('pulse-subscriptions');
