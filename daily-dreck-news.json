@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-03-24",
-  "fetched_at": "2026-03-24 22:38:48",
+  "fetched_at": "2026-03-24 23:35:26",
   "article_count": 20,
-  "breaking_count": 20,
+  "breaking_count": 18,
   "articles": [
+    {
+      "title": "'The crazy things just seem to happen' | Denver woman's car was 1 of 2 crushed in parking garage collapse",
+      "link": "https://www.9news.com/article/news/local/colorado-news/denver-womans-car-crushed-in-parking-garage-collapse/73-c4af4187-3e26-447e-b7f8-ced63ce2ed89",
+      "source": "9News",
+      "pub_date": "2026-03-24T23:13:39+00:00",
+      "age_hours": 0.35786059611111115,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "More record heat today, even hotter tomorrow",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-24T22:54:07+00:00",
+      "age_hours": 0.6834161591666668,
+      "breaking": true,
+      "time_ago": "41 min ago"
+    },
+    {
+      "title": "Low snowpack impacts Colorado mountain town economies, but experts say the season is not a total loss",
+      "link": "https://www.denver7.com/weather/weather-news/low-snowpack-impacts-colorado-mountain-town-economies-but-experts-say-the-season-is-not-a-total-loss",
+      "source": "Denver7",
+      "pub_date": "2026-03-24T22:38:34+00:00",
+      "age_hours": 0.9427145952777778,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
     {
       "title": "Broncos wide receiver Marvin Mims Jr. stresses helmet safety",
       "link": "https://kdvr.com/sports/denver-broncos/broncos-wide-receiver-marvin-mims-jr-stresses-helmet-safety/",
       "source": "Fox31",
       "pub_date": "2026-03-24T22:27:03+00:00",
-      "age_hours": 0.1918814222222222,
+      "age_hours": 1.1347991572222222,
       "breaking": true,
-      "time_ago": "11 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "United Airlines is turning economy seats into a bed",
       "link": "https://www.9news.com/article/news/nation-world/united-airlines-relax-row/507-cd1ca742-e158-4b5b-a36b-d2ce8bc9bbc5",
       "source": "9News",
       "pub_date": "2026-03-24T21:54:39+00:00",
-      "age_hours": 0.7317682133333334,
+      "age_hours": 1.6745272847222221,
       "breaking": true,
-      "time_ago": "43 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "VitriVax leases space in BioMed\u2019s Flatiron Park",
       "link": "https://bizwest.com/2026/03/24/vitrivax-leases-space-in-biomeds-flatiron-park/",
       "source": "BizWest",
       "pub_date": "2026-03-24T21:28:36+00:00",
-      "age_hours": 1.165389113611111,
+      "age_hours": 2.107591808611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Shhh \u2026 Historic Boulder home sells for almost $18M",
       "link": "https://bizwest.com/2026/03/24/shhh-historic-boulder-home-sells-for-almost-18m/",
       "source": "BizWest",
       "pub_date": "2026-03-24T21:20:22+00:00",
-      "age_hours": 1.3026113469444442,
+      "age_hours": 2.2448140416666664,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Sitestone sells 2 properties in Big Thompson Industrial Park",
       "link": "https://bizwest.com/2026/03/24/sitestone-sells-2-properties-in-big-thompson-industrial-park/",
       "source": "BizWest",
       "pub_date": "2026-03-24T21:10:46+00:00",
-      "age_hours": 1.4626113508333334,
+      "age_hours": 2.4048140458333336,
       "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "'The crazy things just seem to happen' | Denver woman's car was 1 of 2 crushed in parking garage collapse",
-      "link": "https://www.9news.com/article/news/local/colorado-news/denver-womans-car-crushed-in-parking-garage-collapse/73-c4af4187-3e26-447e-b7f8-ced63ce2ed89",
-      "source": "9News",
-      "pub_date": "2026-03-24T21:09:38+00:00",
-      "age_hours": 1.4820460047222224,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver Fire Department responding to large residential fire in Englewood",
       "link": "https://kdvr.com/news/local/denver-fire-department-responding-to-large-residential-fire-in-englewood/",
       "source": "Fox31",
       "pub_date": "2026-03-24T20:50:42+00:00",
-      "age_hours": 1.7977146972222222,
+      "age_hours": 2.7406324275,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
-      "title": "Colorado Agriculture Day a feast for the ears, eyes and stomachs",
+      "title": "Colorado Agriculture Day: A feast for the ears, eyes and stomachs",
       "link": "https://www.coloradopolitics.com/2026/03/24/colorado-agriculture-day-a-feast-for-the-ears-eyes-and-stomachs/",
       "source": "CO Politics",
       "pub_date": "2026-03-24T20:48:09+00:00",
-      "age_hours": 1.8403088380555555,
+      "age_hours": 2.783685922777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "UK firm takes majority stake in Boulder\u2019s Uplight",
       "link": "https://bizwest.com/2026/03/24/uk-firm-takes-majority-stake-in-boulders-uplight/",
       "source": "BizWest",
       "pub_date": "2026-03-24T20:40:00+00:00",
-      "age_hours": 1.9753891358333333,
+      "age_hours": 2.9175918269444447,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Suspect arrested, released after $13K of merchandise stolen in Aurora",
       "link": "https://kdvr.com/news/local/suspect-arrested-released-after-13k-of-merchandise-stolen-in-aurora/",
       "source": "Fox31",
       "pub_date": "2026-03-24T20:31:11+00:00",
-      "age_hours": 2.122992511111111,
+      "age_hours": 3.065910243888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "AtmosZero scores Mitsubishi investment",
       "link": "https://bizwest.com/2026/03/24/atmoszero-scores-mitsubishi-investment/",
       "source": "BizWest",
       "pub_date": "2026-03-24T20:27:10+00:00",
-      "age_hours": 2.1892780311111113,
+      "age_hours": 3.131480718888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Week past: The week past in Aurora prep sports, 3.17-3.23.26",
       "link": "https://sentinelcolorado.com/sports/preps/week-past-the-week-past-in-aurora-prep-sports-3-17-3-23-26/",
       "source": "Sentinel",
       "pub_date": "2026-03-24T20:14:05+00:00",
-      "age_hours": 2.408094512777778,
+      "age_hours": 3.3515007711111116,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Mile High Dine and Recline: Uchiko Denver",
       "link": "https://milehighcre.com/mile-high-dine-and-recline-uchiko-denver/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-24T19:52:10+00:00",
-      "age_hours": 2.7729445608333334,
+      "age_hours": 3.715698228888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Want to try the '9-9-9 Challenge?' It's coming to Coors Field",
       "link": "https://kdvr.com/denver-guide/want-to-try-the-9-9-9-challenge-its-coming-to-coors-field/",
       "source": "Fox31",
       "pub_date": "2026-03-24T18:29:01+00:00",
-      "age_hours": 4.159103605277777,
+      "age_hours": 5.102021335000001,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Wildlife agency asks for $450,000 to bring more wolves to Colorado",
       "link": "https://www.coloradopolitics.com/2026/03/24/wildlife-agency-asks-for-450000-to-bring-more-wolves-to-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-03-24T18:17:45+00:00",
-      "age_hours": 4.346975551944444,
+      "age_hours": 5.290352638333334,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
-      "title": "More record heat today, even hotter tomorrow",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-24T18:11:16+00:00",
-      "age_hours": 4.454823814166667,
+      "title": "Northglenn Seeks Redevelopment Partner For Mixed-Use Project",
+      "link": "https://www.bisnow.com/denver/news/construction-development/northglenn-seeks-redevelopment-partner-for-mixed-use-project-133806",
+      "source": "Bisnow",
+      "pub_date": "2026-03-24T17:42:17-04:00",
+      "age_hours": 1.8802062966666666,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver resident arrested after Highlands Ranch burglary spree",
       "link": "https://kdvr.com/news/local/denver-resident-arrested-after-highlands-ranch-burglary-spree/",
       "source": "Fox31",
       "pub_date": "2026-03-24T17:24:09+00:00",
-      "age_hours": 5.240214708611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.183132437777777,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "University of Colorado delaying ChatGPT student access after pushback",
       "link": "https://www.denver7.com/news/local-news/university-of-colorado-delaying-chatgpt-student-access-after-pushback",
       "source": "Denver7",
       "pub_date": "2026-03-24T17:20:45+00:00",
-      "age_hours": 5.296863478333334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "New Teen Lounge Open at HCA HealthONE Rocky Mountain Children\u2019s",
-      "link": "https://milehighcre.com/new-teen-lounge-open-at-hca-healthone-rocky-mountain-childrens/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-03-24T17:08:00+00:00",
-      "age_hours": 5.509055680833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Colorado's record low snowpack drives urgent water conservation message",
-      "link": "https://www.9news.com/article/weather/weather-colorado/colorado-museum-water-conservation-tips/73-008139ee-4218-463c-ab91-f8cd3b124632",
-      "source": "9News",
-      "pub_date": "2026-03-24T17:00:12+00:00",
-      "age_hours": 5.6392682758333335,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.239659049444445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     }
   ]
 }
