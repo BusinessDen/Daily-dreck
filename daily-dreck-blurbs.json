@@ -1,34 +1,34 @@
 {
-  "generated_date": "2026-03-24",
-  "lead_headline": "Restaurant tracker explodes with 6 same-day leads\u2014Paperboy Austin import debuts in Highland, Black Rock Coffee adds 13th Denver shop, The Barn finally opens Englewood",
+  "generated_date": "2026-03-25",
+  "lead_headline": "Foreclosure filings surge 40% week-over-week to 42 cases\u2014highest weekly volume since February\u2014as single $57M Arapahoe outlier dominates $71M total exposure",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>6 leads added today</strong> push active count to <strong>61</strong> (31 openings, 30 closures)\u2014highest single-day lead volume since tracker inception. Today's triple-header: <strong>Paperboy Denver</strong> (Austin brunch's first Texas exit, West Highland), <strong>Black Rock Coffee Bar</strong> (Oregon chain's 13th Denver, Overland), <strong>The Barn South Broadway</strong> (Englewood American restaurant after multi-month delays). Yesterday: <strong>Snarf's Sandwiches</strong> opens Belmar, <strong>Wash Park Social</strong> replaces defunct Grille. Weekend cluster: Union Station corridor adds <strong>Mendocino Farms Highland</strong>, <strong>Otra Vez Cantina</strong> post-pandemic relaunch (CBD), <strong>Bad Rabbit Coffee</strong> RiNo debut. Closure side: <strong>Riot House nightclub shutters December</strong> (Union Station, 2-year run), China Jade Seafood exits Federal Boulevard after 15+ years (Westwood). Geographic saturation: Union Station logs 8 leads this week across all concepts, Highland/West Highland captures 4 openings. Lead confidence averages 9.2/10\u2014opening dominance flips last week's parity.",
+      "blurb": "<strong>7 new leads today</strong> climb active count to <strong>65</strong> (32 openings, 33 closures)\u2014first closure majority since tracker launch. Opening side: <strong>Jersey Mike's</strong> expands Quebec Square (Stapleton), <strong>Chaton Bakery</strong> preps Parker Road debut near H Mart (Kennedy), <strong>FiNO Mediterranean</strong> launches inside renovated All Inn Hotel (City Park). Closure surge: <strong>Reunion Bakery exits The Source</strong> (relocating to Pearl Street after 7 years), <strong>Bar Amorina shutters Clayton Hotel</strong> (10-month run, Cherry Creek), <strong>Smashburger closes Lowry Town Center</strong> (May 2025, 3-year tenure). Geographic shift: Union Station's opening dominance fades\u2014today's leads scatter across Stapleton, Kennedy, Cherry Creek periphery. Yesterday's triple-header (Paperboy, Black Rock, The Barn) marks week's peak opening cluster; closure backlog now fills from delayed detections vs fresh shutdowns.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+4",
+        "value1": "+3",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "\u22124",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "31",
+        "value1": "32",
         "label2": "closed",
-        "value2": "30",
+        "value2": "33",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>42 filings this week</strong>\u2014still up 40% from prior week's 30\u2014sustain March's accelerating volatility as <strong>104 auctions queue next seven days</strong>. <strong>$71M aggregate exposure</strong> dominated by single <strong>$57M Arapahoe outlier</strong> (2038 S Vaughn commercial case) masks underlying residential compression: next-largest filing drops to $795K (Weld County). County standings unchanged: <strong>El Paso leads 475 active cases</strong>, Arapahoe 451, Weld 435. Two-week pattern crystallizes: filing surges alternate with sub-40 weeks as predictable January rhythm (steady 50+ baseline) gives way to boom-bust cadence. <strong>30 sold, 112 continued this cycle</strong> suggest auction clearance rates stabilizing around 27%\u2014backlog accumulation slows but distress pipeline refills faster than Q1 pace. Watch April for seasonal acceleration.",
+      "blurb": "<strong>42 filings this week</strong>\u2014up 40% from prior week's 30\u2014sustain March's volatility as <strong>$57M Arapahoe outlier</strong> (2038 S Vaughn commercial case) inflates $71M aggregate exposure; next-largest filing drops to $795K Weld County property.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "6",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "104",
+        "value2": "132",
         "class2": "",
         "period": "today"
       },
@@ -37,26 +37,39 @@
         "value1": "42",
         "class1": "up",
         "label2": "sold",
-        "value2": "30",
+        "value2": "33",
         "class2": "",
         "period": "7-day"
       }
     },
-    "retail": {
-      "meta": "Expected Q2 2026"
+    "liquor": {
+      "blurb": "<strong>Zero applications today</strong> extend March's unprecedented drought\u2014<strong>fourth consecutive week without filings</strong>. Monthly count remains flatlined at zero through 25 days, marking longest silence since tracker inception. No pending applications visible across Denver, Arapahoe, Boulder, Jefferson counties. Historical context: January-February averaged 12 weekly applications; March's collapse suggests seasonal lull or systemic reporting delay. Watch April 1 for quarterly application surge as operators target summer patio season.",
+      "meta": "Updated today \u00b7 5:15 AM",
+      "ticker_daily": {
+        "label1": "new apps",
+        "value1": "0",
+        "class1": "",
+        "period": "today"
+      },
+      "ticker_weekly": {
+        "label1": "applications",
+        "value1": "0",
+        "class1": "down",
+        "period": "7-day"
+      }
     },
     "reputation": {
-      "blurb": "<strong>3 mentions yesterday</strong> hold <strong>7-day total at 46</strong> (vs prior week's 41, +12%)\u2014third consecutive week above 40-mention threshold. <strong>Denver Post remains dominant with 21 pickups</strong> (46% share), Instagram delivers 7, Hoodline contributes 5. Notable recent coverage: Hoodline's <strong>Colorado THC drink federal regulatory story</strong>, Threads' <strong>Burnham Yard traffic/parking analysis</strong>, Facebook's Denver REIT IPO valuation circulation. Source concentration intensifies: Post plus social platforms command 70% of volume\u2014dual-outlet dependency persists as structural risk, niche publishers (Threads debut, continued Hoodline engagement) provide sporadic diversification. Discovery remains 100% Google News RSS. <strong>Monthly pace: 137 mentions through 24 days</strong> projects 178-mention March if sustained, tracking 35% above February benchmark\u2014strongest monthly performance year-to-date barring late-month collapse.",
+      "blurb": "<strong>1 mention today</strong> (Instagram Box Box Colfax dining room post) holds <strong>7-day total at 51</strong>\u2014up 21% from prior week's 42, fourth straight week above 40-mention floor. <strong>Denver Post dominates with 21 pickups</strong> (41% share), Instagram delivers 10, Hoodline and Facebook tie at 5 each. Notable coverage: Wilderness Exchange closure (Post), Zeppelin Station loan settlement (Business Journals dual-pickup), THC drink federal concern (CED Clinic). Source concentration tightens: Post plus social platforms command 75% of volume\u2014Post dependency intensifies vs prior week's 46% share.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "46",
+        "value1": "51",
         "class1": "up",
         "label2": "sources",
         "value2": "10",
@@ -65,12 +78,12 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +5 yesterday</strong> (7 new, 2 canceled) lifts <strong>MTD to +39</strong> (+1.7/day), <strong>90-day cumulative to +108</strong> (+1.2/day). Yesterday's acquisition surge\u2014strongest single-day gain since March 16's +4\u2014breaks three-day weekend flat streak. Seven-day window: <strong>+16 net</strong> (24 new, 8 canceled) slightly trails prior week's +19 but maintains March's elevated 1.7/day rhythm, running 31% above YTD's 1.3/day baseline. Recent two-week pattern: acquisition stabilizes at 3.4/day average (down from early-month 4+ spikes), cancellation floor compresses to 1.1/day (vs March average 1.6/day)\u2014improved retention offsets modest new-subscriber deceleration. March tracking toward 50-55 net monthly gain if pace holds through month-end, potentially strongest monthly performance year-to-date.",
+      "blurb": "<strong>Net +1 today</strong> (1 new, 0 canceled) nudges <strong>MTD to +44</strong> (+1.8/day), <strong>90-day cumulative to +112</strong> (+1.2/day). Today's modest gain follows yesterday's +4 surge\u2014seven-day window tallies <strong>+17 net</strong> (27 new, 10 canceled), matching prior week's +17 exactly but with higher churn (10 vs 6 cancels). Recent pattern: acquisition decelerates to 3.9/day vs early-March's 4.5+ peaks, cancellation creeps to 1.4/day from mid-month's 0.8 floor\u2014retention slippage offsets steady new-subscriber flow. March tracking toward 48-52 net monthly gain if pace holds, still 25% above February baseline but losing steam vs explosive early-month momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "39",
-      "net_ytd": "109",
-      "net_mtd_per_day": "1.7",
-      "net_ytd_per_day": "1.3"
+      "net_mtd": "44",
+      "net_ytd": "114",
+      "net_mtd_per_day": "1.8",
+      "net_ytd_per_day": "1.4"
     }
   }
 }
