@@ -1,186 +1,186 @@
 {
   "fetched_date": "2026-03-25",
-  "fetched_at": "2026-03-25 21:41:47",
+  "fetched_at": "2026-03-25 22:38:51",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Denver Broncos officially secure Burnham Yard site for new stadium",
+      "link": "https://kdvr.com/news/local/denver-broncos-officially-secure-burnham-yard-site-for-new-stadium/",
+      "source": "Fox31",
+      "pub_date": "2026-03-25T22:05:51+00:00",
+      "age_hours": 0.5453997380555555,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
+    {
+      "title": "Denver Construction Costs Up 4.75% in Q1 2026",
+      "link": "https://milehighcre.com/denver-construction-costs-up-4-75-in-q1-2026/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-03-25T21:59:22+00:00",
+      "age_hours": 0.6529670641666666,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
+    {
+      "title": "Denver breaks March record high temperature... again",
+      "link": "https://www.9news.com/article/weather/weather-colorado/denver-breaks-march-record-high-temperature/73-1ab77358-2b16-42c3-8438-87ed21416877",
+      "source": "9News",
+      "pub_date": "2026-03-25T21:54:38+00:00",
+      "age_hours": 0.7320479777777777,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
+    {
+      "title": "Nonprofit's donations transform music program at northeast Denver elementary school",
+      "link": "https://www.9news.com/article/news/local/nonprofits-donations-transform-music-program-northeast-denver-elementary-school/73-64ce2418-d2f4-42c6-beca-20a250cefe13",
+      "source": "9News",
+      "pub_date": "2026-03-25T21:46:23+00:00",
+      "age_hours": 0.8695479891666666,
+      "breaking": true,
+      "time_ago": "52 min ago"
+    },
     {
       "title": "Denver breaks hottest temperature ever recorded in March (again)",
       "link": "https://kdvr.com/weather/wx-news/denver-breaks-hottest-temperature-ever-recorded-in-march-again/",
       "source": "Fox31",
       "pub_date": "2026-03-25T21:20:49+00:00",
-      "age_hours": 0.3447035380555556,
+      "age_hours": 1.2959553058333333,
       "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "What you need to know if you're going to Saturday's Denver Summit kickoff game",
       "link": "https://www.9news.com/article/sports/local-sports/denver-summit-kickoff-game-parking-gear-tickets/73-bcb33510-0377-4825-9b5e-5d235a57f02e",
       "source": "9News",
       "pub_date": "2026-03-25T21:16:35+00:00",
-      "age_hours": 0.4149706447222222,
+      "age_hours": 1.3662146705555556,
       "breaking": true,
-      "time_ago": "24 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Boulder physicist to lead Google\u2019s new Colorado quantum team",
       "link": "https://bizwest.com/2026/03/25/boulder-physicist-to-lead-googles-new-colorado-quantum-team/",
       "source": "BizWest",
       "pub_date": "2026-03-25T20:27:59+00:00",
-      "age_hours": 1.2239322950000002,
+      "age_hours": 2.175714143611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Loveland raises electric rates despite potential loss of employer",
       "link": "https://bizwest.com/2026/03/25/loveland-raises-electric-rates-despite-potential-loss-of-employer/",
       "source": "BizWest",
       "pub_date": "2026-03-25T20:23:54+00:00",
-      "age_hours": 1.2919878613888889,
+      "age_hours": 2.2437697116666664,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Ag-tech company Halter raises $220M",
       "link": "https://bizwest.com/2026/03/25/ag-tech-company-halter-raises-220m/",
       "source": "BizWest",
       "pub_date": "2026-03-25T20:19:59+00:00",
-      "age_hours": 1.3572656433333332,
+      "age_hours": 2.3090474947222224,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "DigitalOcean to raise $800M in stock sale",
       "link": "https://bizwest.com/2026/03/25/digitalocean-to-raise-800m-in-stock-sale/",
       "source": "BizWest",
       "pub_date": "2026-03-25T20:17:27+00:00",
-      "age_hours": 1.399487868611111,
+      "age_hours": 2.3512697205555555,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver rally to ignite pre-game excitement for Summit FC home opener",
       "link": "https://www.9news.com/article/sports/soccer/denver-summit-fc-rally/73-4fb99fdb-3d68-4f4a-8a05-49f2a21cc024",
       "source": "9News",
       "pub_date": "2026-03-25T20:02:21+00:00",
-      "age_hours": 1.6521928824999998,
+      "age_hours": 2.6034369041666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
-      "title": "Denver Water imposes twice-a-week restrictions on  watering; outdoor surcharges ahead",
+      "title": "Denver Water imposes twice-a-week restrictions on watering; outdoor surcharges ahead",
       "link": "https://coloradosun.com/2026/03/25/denver-water-restrictions-drought-front-range/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-25T18:49:36+00:00",
-      "age_hours": 2.8645646086111114,
+      "age_hours": 3.815848545,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver watch party planned for Summit FC's inaugural match",
       "link": "https://www.9news.com/article/sports/soccer/mcgregor-square-summit-fc-match-watch-party/73-7174b1ed-1b14-40a3-8867-7a590b2cd7a9",
       "source": "9News",
       "pub_date": "2026-03-25T17:21:20+00:00",
-      "age_hours": 4.335804027222222,
+      "age_hours": 5.287048038611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "New Mexican restaurant to open in former California Pizza Kitchen at Cherry Creek mall",
       "link": "https://kdvr.com/denver-guide/food-drink/new-mexican-restaurant-to-open-in-former-california-pizza-kitchen-at-cherry-creek-mall/",
       "source": "Fox31",
       "pub_date": "2026-03-25T16:42:23+00:00",
-      "age_hours": 4.985259128888888,
+      "age_hours": 5.936510916944444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver Water implements mandatory watering restrictions",
       "link": "https://www.9news.com/article/news/state/colorado-climate/denver-water-mandatory-watering-restrictions/73-15c6df92-3290-4bb6-a6be-a4cf2d0d8e23",
       "source": "9News",
       "pub_date": "2026-03-25T16:13:48+00:00",
-      "age_hours": 5.461359597222223,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.4126036074999995,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Mandatory watering restrictions ordered for Denver amid drought",
       "link": "https://kdvr.com/news/local/mandatory-watering-restrictions-ordered-for-denver-amid-drought/",
       "source": "Fox31",
       "pub_date": "2026-03-25T16:06:33+00:00",
-      "age_hours": 5.582481326388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.533733089722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Central Park Shopping Center Gets A Rebrand: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/denver/news/deal-sheet/north-denver-shopping-center-gets-new-name-amenities-the-denver-deal-sheet-133830",
       "source": "Bisnow",
       "pub_date": "2026-03-25T15:44:33-04:00",
-      "age_hours": 1.9484680891666666,
+      "age_hours": 2.8997553841666663,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "FedEx launches same-day delivery service for small businesses to compete with Amazon",
       "link": "https://www.9news.com/article/news/nation-world/fedex-launches-same-day-delivery-service-for-small-businesses/507-57927f6a-76e2-4cd2-8bb9-917bd574e5af",
       "source": "9News",
       "pub_date": "2026-03-25T15:43:53+00:00",
-      "age_hours": 5.959970721111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.911214731388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Northglenn seeks developer to transform commercial corner",
       "link": "https://www.9news.com/article/money/business/northglenn-developer-commercial-corner/73-a023b84b-170f-48fd-95ee-2695e7f2a245",
       "source": "9News",
       "pub_date": "2026-03-25T14:49:16+00:00",
-      "age_hours": 6.870248513888888,
+      "age_hours": 7.821492524722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "NSF ASCEND Engine awarded up to $45M",
       "link": "https://bizwest.com/2026/03/25/nsf-ascend-engine-awarded-up-to-45m/",
       "source": "BizWest",
       "pub_date": "2026-03-25T13:56:24+00:00",
-      "age_hours": 7.7503212050000005,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Gas prices rise less than 1 cent as national average hovers just below $4 per gallon",
-      "link": "https://www.9news.com/article/news/nation-world/gas-prices-rise-overnight-below-4-dollars-per-gallon-diesel/507-4528cfb0-0211-42da-807c-2e36f28d7470",
-      "source": "9News",
-      "pub_date": "2026-03-25T13:36:26+00:00",
-      "age_hours": 8.084137419722223,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Tuminas named CFO at Elevations Credit Union",
-      "link": "https://bizwest.com/2026/03/25/tuminas-named-cfo-at-elevations-credit-union/",
-      "source": "BizWest",
-      "pub_date": "2026-03-25T13:33:35+00:00",
-      "age_hours": 8.130598987499999,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "United Airlines is turning economy seats into a bed",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/united-airlines-relax-row/507-cd1ca742-e158-4b5b-a36b-d2ce8bc9bbc5",
-      "source": "9News",
-      "pub_date": "2026-03-25T13:26:39+00:00",
-      "age_hours": 8.24719298361111,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Fort Collins\u2019 former Sundance Saloon building sold",
-      "link": "https://bizwest.com/2026/03/25/fort-collins-former-sundance-saloon-building-sold/",
-      "source": "BizWest",
-      "pub_date": "2026-03-25T13:20:02+00:00",
-      "age_hours": 8.356432325833334,
+      "age_hours": 8.702103056944445,
       "breaking": false,
       "time_ago": "8 hrs ago"
     }
