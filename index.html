@@ -95,28 +95,10 @@
   }
 
   /* Masthead */
-  .masthead-wrap {
-    position: relative;
-    border-radius: 12px;
-    overflow: hidden;
-    margin-bottom: 4px;
-    animation: fadeUp 0.8s cubic-bezier(0.16,1,0.3,1);
-  }
-  .masthead-bg img {
-    position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-    object-fit: cover;
-    filter: brightness(0.4) saturate(0.6);
-    z-index: 0;
-  }
-  .masthead-vignette {
-    position: absolute; top: 0; left: 0; right: 0; bottom: 0;
-    background: radial-gradient(ellipse at center, transparent 30%, var(--bg) 90%);
-    z-index: 1;
-  }
   .masthead {
-    position: relative; z-index: 2;
     text-align: center;
-    padding: 44px 0 36px;
+    padding: 28px 0 24px;
+    animation: fadeUp 0.8s cubic-bezier(0.16,1,0.3,1);
   }
   .bd-credit {
     font-size: 10px; letter-spacing: 5px; text-transform: uppercase;
@@ -138,6 +120,69 @@
   }
   .diamond-sep .line { flex: 1; height: 1px; background: linear-gradient(90deg, transparent, var(--border), var(--gold-dim), var(--border), transparent); }
   .diamond-sep .diamond { width: 6px; height: 6px; background: var(--gold); transform: rotate(45deg); opacity: 0.4; flex-shrink: 0; }
+
+  /* Editor's Column */
+  .editor-card {
+    display: flex;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 24px;
+    animation: fadeUp 0.7s cubic-bezier(0.16,1,0.3,1) 0.12s both;
+  }
+  .editor-card-img {
+    flex-shrink: 0;
+    width: 180px;
+    min-height: 180px;
+    overflow: hidden;
+  }
+  .editor-card-img img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    object-position: center 25%;
+    filter: brightness(0.7) saturate(0.7) sepia(0.15);
+  }
+  .editor-card-body {
+    flex: 1;
+    padding: 20px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .editor-card-header {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .editor-card-body p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--cream-dim);
+    font-style: italic;
+    font-weight: 400;
+  }
+  .editor-card-body p strong {
+    color: var(--cream);
+    font-weight: 600;
+    font-style: normal;
+  }
+  .editor-card-date {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    color: var(--text-dim);
+    margin-top: 10px;
+    letter-spacing: 0.5px;
+  }
+  @media (max-width: 640px) {
+    .editor-card { flex-direction: column; }
+    .editor-card-img { width: 100%; height: 140px; min-height: auto; }
+  }
 
   /* Top bar: date + density toggle */
   .top-bar {
@@ -439,14 +484,10 @@
 <div class="page">
 
   <!-- MASTHEAD -->
-  <div class="masthead-wrap">
-    <div class="masthead-bg"><img src="dreck-hero.png" alt=""></div>
-    <div class="masthead-vignette"></div>
-    <div class="masthead">
-      <div class="bd-credit">A BusinessDen Production</div>
-      <div class="masthead-title">The Daily Dreck</div>
-      <div class="masthead-tagline">The scoop dies without the dreck.</div>
-    </div>
+  <div class="masthead">
+    <div class="bd-credit">A BusinessDen Production</div>
+    <div class="masthead-title">The Daily Dreck</div>
+    <div class="masthead-tagline">The scoop dies without the dreck.</div>
   </div>
   <div class="diamond-sep">
     <div class="line"></div><div class="diamond"></div><div class="line"></div>
@@ -454,6 +495,18 @@
 
   <div style="text-align:center;margin-bottom:8px;animation:fadeUp 0.7s cubic-bezier(0.16,1,0.3,1) 0.12s both;">
     <h2 id="lead-hed" style="font-family:'Cormorant Garamond',serif;font-size:28px;font-weight:700;color:var(--cream);line-height:1.25;font-style:italic;"></h2>
+  </div>
+
+  <!-- Editor's Column / Changelog -->
+  <div class="editor-card">
+    <div class="editor-card-img">
+      <img src="dreck-hero.png" alt="The Editor">
+    </div>
+    <div class="editor-card-body">
+      <div class="editor-card-header">From the Editor's Desk</div>
+      <p>The <strong>Liquor License Tracker</strong> joins the suite today — every new application, transfer, and renewal across Denver metro, scraped daily. We've retired the <strong>Retail Tracker</strong> placeholder; that beat will fold into the restaurant and liquor pipelines where the data actually lives. The <strong>Foreclosure Tracker</strong> summaries have been tightened to single-sentence dispatches. And the newsroom's <strong>Subscriptions</strong> dashboard now renders its 90-day net growth chart right here on the Dreck, with a click-to-expand view.</p>
+      <div class="editor-card-date">March 24, 2026</div>
+    </div>
   </div>
 
   <!-- Date + Density Toggle -->
