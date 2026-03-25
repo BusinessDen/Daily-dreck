@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-03-25",
-  "fetched_at": "2026-03-25 15:01:58",
+  "fetched_at": "2026-03-25 17:04:57",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "New Mexican restaurant to open in former California Pizza Kitchen at Cherry Creek mall",
+      "link": "https://kdvr.com/denver-guide/food-drink/new-mexican-restaurant-to-open-in-former-california-pizza-kitchen-at-cherry-creek-mall/",
+      "source": "Fox31",
+      "pub_date": "2026-03-25T16:42:23+00:00",
+      "age_hours": 0.37200569499999997,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
+    {
+      "title": "Denver Water implements mandatory watering restrictions",
+      "link": "https://www.9news.com/article/news/state/colorado-climate/denver-water-mandatory-watering-restrictions/73-15c6df92-3290-4bb6-a6be-a4cf2d0d8e23",
+      "source": "9News",
+      "pub_date": "2026-03-25T16:13:48+00:00",
+      "age_hours": 0.8477024475,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
+    {
+      "title": "Mandatory watering restrictions ordered for Denver amid drought",
+      "link": "https://kdvr.com/news/local/mandatory-watering-restrictions-ordered-for-denver-amid-drought/",
+      "source": "Fox31",
+      "pub_date": "2026-03-25T16:06:33+00:00",
+      "age_hours": 0.9692278883333333,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
+    {
+      "title": "FedEx launches same-day delivery service for small businesses to compete with Amazon",
+      "link": "https://www.9news.com/article/news/nation-world/fedex-launches-same-day-delivery-service-for-small-businesses/507-57927f6a-76e2-4cd2-8bb9-917bd574e5af",
+      "source": "9News",
+      "pub_date": "2026-03-25T15:43:53+00:00",
+      "age_hours": 1.3463135766666667,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Northglenn seeks developer to transform commercial corner",
       "link": "https://www.9news.com/article/money/business/northglenn-developer-commercial-corner/73-a023b84b-170f-48fd-95ee-2695e7f2a245",
       "source": "9News",
       "pub_date": "2026-03-25T14:49:16+00:00",
-      "age_hours": 0.2069906013888889,
+      "age_hours": 2.2565913794444445,
       "breaking": true,
-      "time_ago": "12 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "NSF ASCEND Engine awarded up to $45M",
       "link": "https://bizwest.com/2026/03/25/nsf-ascend-engine-awarded-up-to-45m/",
       "source": "BizWest",
       "pub_date": "2026-03-25T13:56:24+00:00",
-      "age_hours": 1.0870564008333332,
+      "age_hours": 3.136077586111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Gas prices rise less than 1 cent as national average hovers just below $4 per gallon",
       "link": "https://www.9news.com/article/news/nation-world/gas-prices-rise-overnight-below-4-dollars-per-gallon-diesel/507-4528cfb0-0211-42da-807c-2e36f28d7470",
       "source": "9News",
       "pub_date": "2026-03-25T13:36:26+00:00",
-      "age_hours": 1.4208795119444444,
+      "age_hours": 3.4704802866666666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Tuminas named CFO at Elevations Credit Union",
       "link": "https://bizwest.com/2026/03/25/tuminas-named-cfo-at-elevations-credit-union/",
       "source": "BizWest",
       "pub_date": "2026-03-25T13:33:35+00:00",
-      "age_hours": 1.4673341925,
+      "age_hours": 3.5163553747222225,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "United Airlines is turning economy seats into a bed",
       "link": "https://www.9news.com/article/travel/denver-international-airport/united-airlines-relax-row/507-cd1ca742-e158-4b5b-a36b-d2ce8bc9bbc5",
       "source": "9News",
       "pub_date": "2026-03-25T13:26:39+00:00",
-      "age_hours": 1.5839350766666667,
+      "age_hours": 3.6335358519444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Fort Collins\u2019 former Sundance Saloon building sold",
       "link": "https://bizwest.com/2026/03/25/fort-collins-former-sundance-saloon-building-sold/",
       "source": "BizWest",
       "pub_date": "2026-03-25T13:20:02+00:00",
-      "age_hours": 1.6931675319444444,
+      "age_hours": 3.7421887125000004,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Aurora police investigate shooting of teen during car meet-up",
       "link": "https://sentinelcolorado.com/metro/aurora-police-investigate-shooting-of-teen-during-car-meet-up/",
       "source": "Sentinel",
       "pub_date": "2026-03-25T13:14:28+00:00",
-      "age_hours": 1.7878706372222224,
+      "age_hours": 3.837701776111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Coordinated traffic enforcement operation planned in Denver Wednesday",
       "link": "https://www.9news.com/article/traffic/coordinated-traffic-enforcement-operation/73-128e2c56-0227-4649-8359-76fbc2d653f7",
       "source": "9News",
       "pub_date": "2026-03-25T12:17:23+00:00",
-      "age_hours": 2.7383795391666665,
+      "age_hours": 4.787980311388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver weather: Record-breaking heat Wednesday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-record-breaking-heat-wednesday/",
       "source": "Fox31",
       "pub_date": "2026-03-25T11:36:05+00:00",
-      "age_hours": 3.427103714166667,
+      "age_hours": 5.477005733611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Nuggets take on Mavericks as fans enjoy free over-the-air broadcast on KTVD",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-mavericks-free-television-broadcast/73-010c6e3e-e031-49dd-937a-078530bc0a7a",
       "source": "9News",
       "pub_date": "2026-03-25T11:21:27+00:00",
-      "age_hours": 3.670601770555556,
+      "age_hours": 5.7202025425,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver hits record March temperatures with highs near 90 degrees",
       "link": "https://www.9news.com/article/weather/weather-impact/record-high-heat-colorado/73-53d96616-d0c3-4391-a699-8db1ea5c7451",
       "source": "9News",
       "pub_date": "2026-03-25T10:48:31+00:00",
-      "age_hours": 4.219490663055556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.269091434722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Front Range water utilities impose restrictions and push conservation to combat drought this summer",
       "link": "https://coloradosun.com/2026/03/25/front-range-water-utilities-drought-restrictions-conservation/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-25T10:00:00+00:00",
-      "age_hours": 5.028019053611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.076446560277778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "High 80s in March? DPS says it has a plan to keep schools cool during heat wave",
       "link": "https://www.9news.com/article/news/local/colorado-news/dps-plan-to-keep-schools-cool-during-march-heat-wave/73-f55e1a50-e261-4f6f-84fe-aca08a193438",
       "source": "9News",
       "pub_date": "2026-03-25T03:57:43+00:00",
-      "age_hours": 11.066157343055556,
+      "age_hours": 13.115758115,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver Women's Bank helped women find financial freedom in the '70s",
       "link": "https://www.9news.com/article/life/people/womens-history/denver-womens-bank-financial-freedom-1970s/73-d7ee5aa9-a8cc-4442-81d8-156438d40ae9",
       "source": "9News",
       "pub_date": "2026-03-25T03:30:24+00:00",
-      "age_hours": 11.52143513,
+      "age_hours": 13.571035899166667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Despite high temps and low snowpack, Colorado ski resorts offer deals to keep spring skiing alive",
       "link": "https://www.denver7.com/news/local-news/despite-high-temps-and-low-snowpack-colorado-ski-resorts-offer-deals-to-keep-spring-skiing-alive",
       "source": "Denver7",
       "pub_date": "2026-03-25T00:14:58+00:00",
-      "age_hours": 14.77891398138889,
+      "age_hours": 16.828815490833332,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Denver parking garage still inaccessible after partial collapse",
-      "link": "https://kdvr.com/news/local/denver-parking-garage-still-inaccessible-after-partial-collapse/",
-      "source": "Fox31",
-      "pub_date": "2026-03-24T23:53:59+00:00",
-      "age_hours": 15.128770405555555,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Low snowpack impacts Colorado mountain town economies, but experts say the season is not a total loss",
       "link": "https://www.denver7.com/weather/weather-news/low-snowpack-impacts-colorado-mountain-town-economies-but-experts-say-the-season-is-not-a-total-loss",
       "source": "Denver7",
       "pub_date": "2026-03-24T22:38:34+00:00",
-      "age_hours": 16.385580654444446,
+      "age_hours": 18.435482164999996,
       "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "VitriVax leases space in BioMed\u2019s Flatiron Park",
-      "link": "https://bizwest.com/2026/03/24/vitrivax-leases-space-in-biomeds-flatiron-park/",
-      "source": "BizWest",
-      "pub_date": "2026-03-24T21:28:36+00:00",
-      "age_hours": 17.550389759722222,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Shhh \u2026 Historic Boulder home sells for almost $18M",
-      "link": "https://bizwest.com/2026/03/24/shhh-historic-boulder-home-sells-for-almost-18m/",
-      "source": "BizWest",
-      "pub_date": "2026-03-24T21:20:22+00:00",
-      "age_hours": 17.6876119875,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Sitestone sells 2 properties in Big Thompson Industrial Park",
-      "link": "https://bizwest.com/2026/03/24/sitestone-sells-2-properties-in-big-thompson-industrial-park/",
-      "source": "BizWest",
-      "pub_date": "2026-03-24T21:10:46+00:00",
-      "age_hours": 17.8476119925,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
