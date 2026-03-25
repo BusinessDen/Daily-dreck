@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-03-25",
-  "fetched_at": "2026-03-25 02:26:49",
+  "fetched_at": "2026-03-25 04:19:53",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "High 80s in March? DPS says it has a plan to keep schools cool during heat wave",
+      "link": "https://www.9news.com/article/news/local/colorado-news/dps-plan-to-keep-schools-cool-during-march-heat-wave/73-f55e1a50-e261-4f6f-84fe-aca08a193438",
+      "source": "9News",
+      "pub_date": "2026-03-25T03:57:43+00:00",
+      "age_hours": 0.36421432472222226,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Another record high forecast for Wednesday with critical fire weather",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-25T03:39:48+00:00",
+      "age_hours": 0.66282545,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
+    {
+      "title": "Denver Women's Bank helped women find financial freedom in the '70s",
+      "link": "https://www.9news.com/article/life/people/womens-history/denver-womens-bank-financial-freedom-1970s/73-d7ee5aa9-a8cc-4442-81d8-156438d40ae9",
+      "source": "9News",
+      "pub_date": "2026-03-25T03:30:24+00:00",
+      "age_hours": 0.8194921252777778,
+      "breaking": true,
+      "time_ago": "49 min ago"
+    },
     {
       "title": "Denver parking garage still inaccessible after partial collapse",
       "link": "https://kdvr.com/news/local/denver-parking-garage-still-inaccessible-after-partial-collapse/",
       "source": "Fox31",
       "pub_date": "2026-03-24T23:53:59+00:00",
-      "age_hours": 2.542884664166667,
+      "age_hours": 4.426641356388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver weather: More record heat on Wednesday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-record-heat-on-wednesday/",
       "source": "Fox31",
       "pub_date": "2026-03-24T23:53:04+00:00",
-      "age_hours": 2.558162461388889,
+      "age_hours": 4.4419191611111115,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "'The crazy things just seem to happen' | Denver woman's car was 1 of 2 crushed in parking garage collapse",
       "link": "https://www.9news.com/article/news/local/colorado-news/denver-womans-car-crushed-in-parking-garage-collapse/73-c4af4187-3e26-447e-b7f8-ced63ce2ed89",
       "source": "9News",
       "pub_date": "2026-03-24T23:13:39+00:00",
-      "age_hours": 3.214851411388889,
+      "age_hours": 5.098658829444444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "More record heat today, even hotter tomorrow",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-24T22:54:07+00:00",
-      "age_hours": 3.5404069744444446,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Low snowpack impacts Colorado mountain town economies, but experts say the season is not a total loss",
       "link": "https://www.denver7.com/weather/weather-news/low-snowpack-impacts-colorado-mountain-town-economies-but-experts-say-the-season-is-not-a-total-loss",
       "source": "Denver7",
       "pub_date": "2026-03-24T22:38:34+00:00",
-      "age_hours": 3.7997027138888892,
+      "age_hours": 5.683479885,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Broncos wide receiver Marvin Mims Jr. stresses helmet safety",
-      "link": "https://kdvr.com/sports/denver-broncos/broncos-wide-receiver-marvin-mims-jr-stresses-helmet-safety/",
-      "source": "Fox31",
-      "pub_date": "2026-03-24T22:27:03+00:00",
-      "age_hours": 3.991773590833333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "United Airlines is turning economy seats into a bed",
       "link": "https://www.9news.com/article/news/nation-world/united-airlines-relax-row/507-cd1ca742-e158-4b5b-a36b-d2ce8bc9bbc5",
       "source": "9News",
       "pub_date": "2026-03-24T21:54:39+00:00",
-      "age_hours": 4.531518099722222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.415325509166666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "VitriVax leases space in BioMed\u2019s Flatiron Park",
       "link": "https://bizwest.com/2026/03/24/vitrivax-leases-space-in-biomeds-flatiron-park/",
       "source": "BizWest",
       "pub_date": "2026-03-24T21:28:36+00:00",
-      "age_hours": 4.965046026666666,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.848895398611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Shhh \u2026 Historic Boulder home sells for almost $18M",
       "link": "https://bizwest.com/2026/03/24/shhh-historic-boulder-home-sells-for-almost-18m/",
       "source": "BizWest",
       "pub_date": "2026-03-24T21:20:22+00:00",
-      "age_hours": 5.102268260277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.986117634166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Sitestone sells 2 properties in Big Thompson Industrial Park",
       "link": "https://bizwest.com/2026/03/24/sitestone-sells-2-properties-in-big-thompson-industrial-park/",
       "source": "BizWest",
       "pub_date": "2026-03-24T21:10:46+00:00",
-      "age_hours": 5.262268264444445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.146117639444444,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver Fire Department responding to large residential fire in Englewood",
       "link": "https://kdvr.com/news/local/denver-fire-department-responding-to-large-residential-fire-in-englewood/",
       "source": "Fox31",
       "pub_date": "2026-03-24T20:50:42+00:00",
-      "age_hours": 5.597606849444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.481363538055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado Agriculture Day: A feast for the ears, eyes and stomachs",
       "link": "https://www.coloradopolitics.com/2026/03/24/colorado-agriculture-day-a-feast-for-the-ears-eyes-and-stomachs/",
       "source": "CO Politics",
       "pub_date": "2026-03-24T20:48:09+00:00",
-      "age_hours": 5.640402871388888,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.5242709477777785,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "UK firm takes majority stake in Boulder\u2019s Uplight",
       "link": "https://bizwest.com/2026/03/24/uk-firm-takes-majority-stake-in-boulders-uplight/",
       "source": "BizWest",
       "pub_date": "2026-03-24T20:40:00+00:00",
-      "age_hours": 5.7750460455555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.658895421666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Suspect arrested, released after $13K of merchandise stolen in Aurora",
       "link": "https://kdvr.com/news/local/suspect-arrested-released-after-13k-of-merchandise-stolen-in-aurora/",
       "source": "Fox31",
       "pub_date": "2026-03-24T20:31:11+00:00",
-      "age_hours": 5.922884691388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.806641368055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "AtmosZero scores Mitsubishi investment",
       "link": "https://bizwest.com/2026/03/24/atmoszero-scores-mitsubishi-investment/",
       "source": "BizWest",
       "pub_date": "2026-03-24T20:27:10+00:00",
-      "age_hours": 5.9889349377777785,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.872784315,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Week past: The week past in Aurora prep sports, 3.17-3.23.26",
       "link": "https://sentinelcolorado.com/sports/preps/week-past-the-week-past-in-aurora-prep-sports-3-17-3-23-26/",
       "source": "Sentinel",
       "pub_date": "2026-03-24T20:14:05+00:00",
-      "age_hours": 6.208221431388888,
+      "age_hours": 8.092092656388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Mile High Dine and Recline: Uchiko Denver",
       "link": "https://milehighcre.com/mile-high-dine-and-recline-uchiko-denver/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-24T19:52:10+00:00",
-      "age_hours": 6.572640996944445,
+      "age_hours": 8.45646848888889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Want to try the '9-9-9 Challenge?' It's coming to Coors Field",
       "link": "https://kdvr.com/denver-guide/want-to-try-the-9-9-9-challenge-its-coming-to-coors-field/",
       "source": "Fox31",
       "pub_date": "2026-03-24T18:29:01+00:00",
-      "age_hours": 7.958995765277778,
+      "age_hours": 9.842752454166668,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Wildlife agency asks for $450,000 to bring more wolves to Colorado",
       "link": "https://www.coloradopolitics.com/2026/03/24/wildlife-agency-asks-for-450000-to-bring-more-wolves-to-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-03-24T18:17:45+00:00",
-      "age_hours": 8.147069576388889,
+      "age_hours": 10.030937651111111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Northglenn Seeks Redevelopment Partner For Mixed-Use Project",
-      "link": "https://www.bisnow.com/denver/news/construction-development/northglenn-seeks-redevelopment-partner-for-mixed-use-project-133806",
-      "source": "Bisnow",
-      "pub_date": "2026-03-24T17:42:17-04:00",
-      "age_hours": 4.737166196388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
