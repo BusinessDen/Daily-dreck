@@ -1,51 +1,96 @@
 {
   "fetched_date": "2026-03-26",
-  "fetched_at": "2026-03-26 21:34:11",
+  "fetched_at": "2026-03-26 22:33:09",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 20,
   "articles": [
+    {
+      "title": "Denver charter school blends Montessori and bilingual education to serve students",
+      "link": "https://www.9news.com/article/news/education/denver-charter-school-montessori-bilingual-education-students/73-0097ee88-b7ea-4d7f-ab40-0b8004dbd30c",
+      "source": "9News",
+      "pub_date": "2026-03-26T22:03:56+00:00",
+      "age_hours": 0.4822286916666667,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "New leader hired with Wild Bear Nature Center at crossroads",
+      "link": "https://bizwest.com/2026/03/26/new-leader-hired-with-wild-bear-nature-center-at-crossroads/",
+      "source": "BizWest",
+      "pub_date": "2026-03-26T21:59:02+00:00",
+      "age_hours": 0.5627068075,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
+    {
+      "title": "Investors slurp Noodles & Co. stock as comeback continues",
+      "link": "https://bizwest.com/2026/03/26/investors-slurp-noodles-co-stock-as-comeback-continues/",
+      "source": "BizWest",
+      "pub_date": "2026-03-26T21:52:06+00:00",
+      "age_hours": 0.6782623755555556,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Denver Public Schools to debut student comic showcase at annual STEAM Expo",
+      "link": "https://www.9news.com/article/news/local/denver-public-schools-student-comic-showcase-steam-expo/73-0025c633-da53-4c23-8609-254a7ab65d5f",
+      "source": "9News",
+      "pub_date": "2026-03-26T21:49:09+00:00",
+      "age_hours": 0.7286175941666666,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
+    {
+      "title": "With Greeley strike ongoing, JBS posts $2B in 2025 net income",
+      "link": "https://bizwest.com/2026/03/26/with-greeley-strike-ongoing-jbs-posts-2b-in-2025-net-income/",
+      "source": "BizWest",
+      "pub_date": "2026-03-26T21:46:10+00:00",
+      "age_hours": 0.7771512697222223,
+      "breaking": true,
+      "time_ago": "46 min ago"
+    },
     {
       "title": "KUNC, Rocky Mountain Public Media eye merger",
       "link": "https://bizwest.com/2026/03/26/kunc-rocky-mountain-public-media-eye-merger/",
       "source": "BizWest",
       "pub_date": "2026-03-26T21:04:47+00:00",
-      "age_hours": 0.4843827552777778,
+      "age_hours": 1.466873496111111,
       "breaking": true,
-      "time_ago": "29 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "2 women arrested for allegedly robbing adult store in Arvada",
       "link": "https://kdvr.com/news/local/2-women-arrested-for-allegedly-robbing-adult-store-in-arvada/",
       "source": "Fox31",
       "pub_date": "2026-03-26T20:47:23+00:00",
-      "age_hours": 0.7758204055555556,
+      "age_hours": 1.758258603888889,
       "breaking": true,
-      "time_ago": "46 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Office building in downtown Denver set to be transformed into residential space",
       "link": "https://kdvr.com/news/local/office-building-in-downtown-denver-set-to-be-transformed-into-residential-space/",
       "source": "Fox31",
       "pub_date": "2026-03-26T20:37:08+00:00",
-      "age_hours": 0.9466537611111111,
+      "age_hours": 1.929091973888889,
       "breaking": true,
-      "time_ago": "56 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Boys Basketball: 2025-26 All-Colorado League teams",
       "link": "https://sentinelcolorado.com/sports/preps/boys-basketball/boys-basketball-2025-26-all-colorado-league-teams/",
       "source": "Sentinel",
       "pub_date": "2026-03-26T20:03:46+00:00",
-      "age_hours": 1.5030928241666668,
+      "age_hours": 2.4856182233333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Movers and Shakers Week Ending 03.27.26",
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-03-27-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-26T19:32:58+00:00",
-      "age_hours": 2.0157274666666667,
+      "age_hours": 2.9981630825,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -54,25 +99,25 @@
       "link": "https://www.coloradopolitics.com/2026/03/26/pinnacol-separation-bill-delayed-as-colorado-budget-remains-in-flux-due-to-1-5b-deficit/",
       "source": "CO Politics",
       "pub_date": "2026-03-26T19:11:10+00:00",
-      "age_hours": 2.3797449719444446,
+      "age_hours": 3.3622669022222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "The New Monument Fire Station #3 Breaks Ground",
       "link": "https://milehighcre.com/the-new-monument-fire-station-3-breaks-ground/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-26T18:50:09+00:00",
-      "age_hours": 2.7293385869444444,
+      "age_hours": 3.7117742030555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Police investigating after woman found dead in Denver home",
       "link": "https://www.9news.com/article/news/crime/police-investigating-woman-dead-denver/73-78400213-e7df-4335-b866-216bb56330e1",
       "source": "9News",
       "pub_date": "2026-03-26T18:33:55+00:00",
-      "age_hours": 3.0000769433333336,
+      "age_hours": 3.9825065175,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -81,108 +126,63 @@
       "link": "https://kdvr.com/sports/denver-nuggets/what-would-happen-to-the-nuggets-if-the-nba-added-teams/",
       "source": "Fox31",
       "pub_date": "2026-03-26T18:06:47+00:00",
-      "age_hours": 3.452487062222222,
+      "age_hours": 4.434925261388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "MSU Denver economics professor walks Denver7 through how long it could take for gas prices to drop",
       "link": "https://www.denver7.com/money/consumer/msu-denver-economics-professor-walks-denver7-through-how-long-it-could-take-for-gas-prices-to-drop",
       "source": "Denver7",
       "pub_date": "2026-03-26T17:56:52+00:00",
-      "age_hours": 3.6176943469444445,
+      "age_hours": 4.600170401111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "What you need to know if you're going to Saturday's Denver Summit kickoff game",
       "link": "https://www.9news.com/article/sports/local-sports/denver-summit-kickoff-game-parking-gear-tickets/73-bcb33510-0377-4825-9b5e-5d235a57f02e",
       "source": "9News",
       "pub_date": "2026-03-26T17:26:23+00:00",
-      "age_hours": 4.125632520833333,
+      "age_hours": 5.108062092222222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Independent Bookstore Opens in Larimer Square April 1",
       "link": "https://milehighcre.com/independent-bookstore-opens-in-larimer-square-april-1/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-26T17:07:30+00:00",
-      "age_hours": 4.440171923888888,
+      "age_hours": 5.422607540277778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Woman found dead during welfare check at residence: Police",
       "link": "https://kdvr.com/news/local/woman-found-dead-during-welfare-check-at-residence-police/",
       "source": "Fox31",
       "pub_date": "2026-03-26T16:58:21+00:00",
-      "age_hours": 4.593042604444445,
+      "age_hours": 5.575480803055555,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver Broncos Pay $45.8M for Future Stadium Site",
       "link": "https://milehighcre.com/denver-broncos-pay-45-8m-for-future-stadium-site/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-26T16:49:07+00:00",
-      "age_hours": 4.746560816111111,
+      "age_hours": 5.728996432222222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Weezer announces 32-city North American tour with stop in Denver",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/weezer-gathering-tour-north-america-2026/73-65e67446-35b0-482e-93a7-e65d94b045f5",
       "source": "9News",
       "pub_date": "2026-03-26T16:44:28+00:00",
-      "age_hours": 4.82424365611111,
+      "age_hours": 5.806673237777778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "DDDA Approves Funding for High Fidelity Plaza",
-      "link": "https://milehighcre.com/ddda-approves-funding-for-high-fidelity-plaza/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-03-26T14:45:12+00:00",
-      "age_hours": 6.811838596944444,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Changes to a Decades-Long Open Mic Shakes Denver\u2019s Poetry Community",
-      "link": "https://www.westword.com/arts-culture/the-pearl-moves-friday-night-poetry-open-mic-40862932/",
-      "source": "Westword",
-      "pub_date": "2026-03-26T14:24:25-06:00",
-      "age_hours": 1.1586792130555557,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "What\u2019s Happening: The funny thing about fine art",
-      "link": "https://coloradosun.com/2026/03/26/whats-happening-colorado-comedians-talk-art-mca-denver/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-03-26T14:00:00+00:00",
-      "age_hours": 7.565260438611111,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "6th century art piece at Denver museum returned to Turkey",
-      "link": "https://kdvr.com/news/local/6th-century-art-piece-at-denver-museum-returned-to-turkey/",
-      "source": "Fox31",
-      "pub_date": "2026-03-26T13:57:36+00:00",
-      "age_hours": 7.605542638888889,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Final solar panel installed at Black Hollow Sun",
-      "link": "https://bizwest.com/2026/03/26/final-solar-panel-installed-at-black-hollow-sun/",
-      "source": "BizWest",
-      "pub_date": "2026-03-26T13:49:37+00:00",
-      "age_hours": 7.7371605416666664,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "5 hrs ago"
     }
   ]
 }
