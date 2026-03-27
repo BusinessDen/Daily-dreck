@@ -1,141 +1,159 @@
 {
   "fetched_date": "2026-03-27",
-  "fetched_at": "2026-03-27 19:45:32",
+  "fetched_at": "2026-03-27 20:41:39",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Aurora prep sports schedule, 3.27.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-3-27-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-27T20:29:37+00:00",
+      "age_hours": 0.19362820249999999,
+      "breaking": true,
+      "time_ago": "11 min ago"
+    },
+    {
+      "title": "Near-record heat returns this weekend before an active weather week",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-27T20:28:33+00:00",
+      "age_hours": 0.21056906805555556,
+      "breaking": true,
+      "time_ago": "12 min ago"
+    },
+    {
+      "title": "SENTINEL MUSE: Feast on some serious ham on wry at the Fox Arts Center",
+      "link": "https://sentinelcolorado.com/metro/sentinel-muse-feast-on-some-serious-ham-on-wry-at-the-fox-arts-center/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-27T20:04:08+00:00",
+      "age_hours": 0.6183504469444444,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
     {
       "title": "DIA making improvements to crosswalks at drop-off and pick-up areas",
       "link": "https://kdvr.com/news/dia-making-improvements-to-crosswalks-at-drop-off-and-pick-up-areas/",
       "source": "Fox31",
       "pub_date": "2026-03-27T19:14:06+00:00",
-      "age_hours": 0.5190352205555556,
+      "age_hours": 1.4516328619444445,
       "breaking": true,
-      "time_ago": "31 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "What you need to know if you're going to Denver Summit FC's kickoff game",
       "link": "https://www.9news.com/article/sports/local-sports/denver-summit-kickoff-game-parking-gear-tickets/73-bcb33510-0377-4825-9b5e-5d235a57f02e",
       "source": "9News",
       "pub_date": "2026-03-27T18:49:24+00:00",
-      "age_hours": 0.9302871669444445,
+      "age_hours": 1.8630690922222222,
       "breaking": true,
-      "time_ago": "55 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "KUNC, Rocky Mountain PBS parents stress benefits of merger",
       "link": "https://bizwest.com/2026/03/27/kunc-rocky-mountain-pbs-parents-stress-benefits-of-merger/",
       "source": "BizWest",
       "pub_date": "2026-03-27T18:45:55+00:00",
-      "age_hours": 0.9874148030555556,
+      "age_hours": 1.9206080330555555,
       "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Don't put the shovels away yet: Snow chances return to Colorado next week",
       "link": "https://www.9news.com/article/weather/weather-impact/chances-snow-rockies-home-opener/73-0e27407e-620b-42cd-952e-9cad1bde5db9",
       "source": "9News",
       "pub_date": "2026-03-27T18:26:54+00:00",
-      "age_hours": 1.3052871833333333,
+      "age_hours": 2.2380691047222223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver weather pattern shifting with April showers ahead",
       "link": "https://kdvr.com/weather/wx-news/denver-weather-pattern-shifting-with-april-showers-ahead/",
       "source": "Fox31",
       "pub_date": "2026-03-27T17:54:57+00:00",
-      "age_hours": 1.8382018766666668,
+      "age_hours": 2.7707995019444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver charter school blends Montessori and bilingual education to serve students",
       "link": "https://www.9news.com/article/news/education/denver-charter-school-montessori-bilingual-education-students/73-0097ee88-b7ea-4d7f-ab40-0b8004dbd30c",
       "source": "9News",
       "pub_date": "2026-03-27T17:13:03+00:00",
-      "age_hours": 2.53612053,
+      "age_hours": 3.4689024475,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Summit FC closes on Santa Fe Yards property",
       "link": "https://www.9news.com/article/sports/soccer/denver-summit-fc-santa-fe-yards-property-stadium/73-e0148328-0ccf-40ed-9d49-c13643f2d388",
       "source": "9News",
       "pub_date": "2026-03-27T15:19:44+00:00",
-      "age_hours": 4.4247316525,
+      "age_hours": 5.357513570277778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Top college hockey teams compete in Loveland for NCAA Frozen Four bid",
       "link": "https://www.9news.com/article/sports/ncaa/ncaa-hockey-regional-colorado-du-pioneers-frozen-four/73-71d458c2-ef80-4054-a637-f74a26ed455b",
       "source": "9News",
       "pub_date": "2026-03-27T14:40:25+00:00",
-      "age_hours": 5.080009449722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.012791367777777,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Boulder Beer Co. returning to its roots",
       "link": "https://bizwest.com/2026/03/27/boulder-beer-co-returning-to-its-roots/",
       "source": "BizWest",
       "pub_date": "2026-03-27T13:53:34+00:00",
-      "age_hours": 5.859914817777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.793108051666667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Dunkin' Donuts, Jimmy John's team for new Aurora restaurant",
       "link": "https://www.9news.com/article/life/style/colorado-guide/dunkin-donuts-jimmy-johns-aurora/73-69d878de-6153-4ee0-9ed9-91eeaba5db26",
       "source": "9News",
       "pub_date": "2026-03-27T13:48:03+00:00",
-      "age_hours": 5.9527872338888885,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.885569151666666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "NoCo airport giving up on remote tower",
       "link": "https://bizwest.com/2026/03/27/noco-airport-giving-up-on-remote-tower/",
       "source": "BizWest",
       "pub_date": "2026-03-27T13:45:11+00:00",
-      "age_hours": 5.9996370472222225,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.9328302825,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Fire engulfs Denver fencing business; Investigation underway",
       "link": "https://www.9news.com/article/news/local/fire-denver-park-avenue-38th-avenue/73-48e11b92-c0bf-46b5-a8c6-ac9eb45b9f61",
       "source": "9News",
       "pub_date": "2026-03-27T13:31:35+00:00",
-      "age_hours": 6.227231689722222,
+      "age_hours": 7.1600136025,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "JBS strike to enter third week",
       "link": "https://bizwest.com/2026/03/27/jbs-strike-to-enter-third-week/",
       "source": "BizWest",
       "pub_date": "2026-03-27T13:24:34+00:00",
-      "age_hours": 6.343248163611111,
+      "age_hours": 7.276441400555556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "New funding boosts Denver Safety Action Plan",
       "link": "https://kdvr.com/news/local/new-funding-boosts-denver-safety-action-plan/",
       "source": "Fox31",
       "pub_date": "2026-03-27T12:06:03+00:00",
-      "age_hours": 7.653201924166666,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Denver sees brief cool-down before weekend warm-up",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-27T11:32:17+00:00",
-      "age_hours": 8.215565031944443,
+      "age_hours": 8.585799597222223,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -144,45 +162,27 @@
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-cooler-cloudy-friday/",
       "source": "Fox31",
       "pub_date": "2026-03-27T11:26:59+00:00",
-      "age_hours": 8.304313031944444,
+      "age_hours": 9.236910704722222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "New Denver scooter deal includes a provision that could allow operator to charge low-income riders",
       "link": "https://www.9news.com/article/news/community/transportation/new-denver-scooter-deal/73-2c510936-556d-412f-95b7-3482a26f25cc",
       "source": "9News",
       "pub_date": "2026-03-27T10:58:52+00:00",
-      "age_hours": 8.772509489166666,
+      "age_hours": 9.705291394444444,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "A waitlist for 24/7 care for Colorado adults with disabilities is 7 years long. State Medicaid cuts could double it.",
       "link": "https://coloradosun.com/2026/03/27/medicaid-budget-cuts-developmental-disabilities-waitlist/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-27T10:10:00+00:00",
-      "age_hours": 9.586865510555555,
+      "age_hours": 10.519667251666668,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "How the Navajo Nation is tackling diabetes with a return to its ancestral diet",
-      "link": "https://coloradosun.com/2026/03/27/how-the-navajo-nation-is-tackling-diabetes-with-a-return-to-its-ancestral-diet/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-03-27T10:08:00+00:00",
-      "age_hours": 9.62019886861111,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Cutting Prop 123 would cost Colorado far more than it saves | OPINION",
-      "link": "https://www.coloradopolitics.com/2026/03/27/cutting-prop-123-would-cost-colorado-far-more-than-it-saves-opinion/",
-      "source": "CO Politics",
-      "pub_date": "2026-03-27T06:45:00+00:00",
-      "age_hours": 13.00448681888889,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
