@@ -1,49 +1,49 @@
 {
-  "generated_date": "2026-03-26",
-  "lead_headline": "Restaurant tracker crosses closure threshold with 35 shutdown leads vs 32 openings\u2014first closure majority since launch\u2014as March culling intensifies",
+  "generated_date": "2026-03-27",
+  "lead_headline": "Restaurant tracker hits 68 active leads as three Friday additions feature Union Station sushi counter, Sloan Lake market debut, and Highlands brunch chain expansion",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>6 new leads today</strong> push active count to <strong>67</strong> (32 openings, 35 closures)\u2014closure majority widens as backfill detections accelerate. Opening side: <strong>Paperboy Denver</strong> debuts Highlands brunch outpost (Austin's first out-of-state expansion), <strong>Black Rock Coffee</strong> lands 13th Denver location (Overland), <strong>Wash Park Social</strong> replaces Wash Park Grille under new operator. Closure drag: <strong>Chances Grill shuts Union Station nightclub</strong> (1523 Market St, multi-floor Caribbean concept), third Dairy Queen closure surfaces (Belleview Ave Littleton, mirroring Sheridan Boulevard Westminster shutdowns). Geographic note: Union Station opening cluster from early-week (Mendocino, C Burger, Ogo) gives way to neighborhood scatter\u2014today's leads span Highlands, Overland, Washington Park. Closure-to-opening ratio hits 1.09:1, highest imbalance yet; backlog now filling from delayed 2025 shutdowns vs real-time March detections.",
+      "blurb": "<strong>3 new leads today</strong> hold active count at <strong>68</strong> (33 openings, 35 closures)\u2014opening adds edge closure count by one for first time this week. Today's openings: <strong>Ogo Korean BBQ & Sushi Pronto</strong> opens Union Station counter-service spot (chef Jackie Cho's Seoul Hospitality Group), <strong>Roll It Up Sushi</strong> debuts permanent Edgewater Public Market stall (graduation from established food truck), <strong>Mendocino Farms</strong> cuts Highlands ribbon at 3453 W 32nd (second Denver location for California sandwich chain, following this week's Union Station debut). Geographic clustering persists: Union Station accumulates sixth opening lead in 10 days (G-Que, C Burger, Mendocino, Convivio, Ogo), while Edgewater market flags first food hall addition since tracker launch. Closure side quiet\u2014zero new shutdown detections break five-day streak of daily closure additions that built 35-lead backlog. Weekly context: 23 confirmed openings vs 11 closures suggest lead queue tilts toward delayed 2025-era closure documentation vs real-time March activity.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+3",
         "label2": "closed",
-        "value2": "\u22123",
+        "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "32",
+        "value1": "33",
         "label2": "closed",
         "value2": "35",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>42 filings this week</strong> hold 40% above prior week's 30-case floor, sustaining March volatility as <strong>$57M Arapahoe commercial outlier</strong> (2038 S Vaughn) drags $71M aggregate\u2014next-largest filing plummets to $795K Weld County, exposing single-case concentration risk.",
+      "blurb": "<strong>76 filings this week</strong> surge 6% above prior week's 72 and 40% above March's 54-case floor, driven entirely by <strong>$57M Arapahoe commercial property</strong> (2038 S Vaughn) that inflates $81M aggregate\u2014strip outlier and weekly median collapses to $317K.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "0",
+        "value1": "12",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "79",
+        "value2": "74",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "42",
+        "value1": "76",
         "class1": "up",
         "label2": "sold",
-        "value2": "33",
+        "value2": "38",
         "class2": "",
         "period": "7-day"
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong> extend March's unprecedented blackout to <strong>26 consecutive days without filings</strong>\u2014longest silence in tracker history. Monthly tally flatlined at zero through full four weeks, erasing January-February's 12/week baseline. No pending applications visible across Denver, Arapahoe, Boulder, Jefferson metro counties. Seasonal hypothesis: operators may batch Q2 submissions for April 1 quarterly window targeting summer patio season, but 26-day void suggests systemic reporting lag vs typical pre-filing chatter. April 1-7 watch period critical\u2014if drought persists, points to state database delays or regulatory process changes vs demand collapse.",
+      "blurb": "<strong>Zero applications today</strong> extend March's filing drought to <strong>27 consecutive days</strong>\u2014now longest blackout in tracker history, erasing full month's activity vs January-February's 12/week baseline across Denver metro. April 1-7 watch window critical: if silence persists past quarterly filing deadline, signals state database lag or regulatory process disruption vs seasonal demand dip.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,29 +59,29 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>2 mentions today</strong> (outdoor gear retailer closure, Windsor King Soopers on social) lift <strong>7-day total to 52</strong>\u2014up 33% from prior week's 39, fifth straight week above 40-mention floor. <strong>Denver Post dominates with 19 pickups</strong> (37% share), Instagram delivers 10, Facebook and Hoodline tie at 6 each. Notable coverage: Wilderness Exchange 26-year closure (Post/SGB Media crossover), Republic Plaza deadline miss (Hoodline), escape room brewery conversion (Post). Source diversification improves vs yesterday: Post share drops from 41% to 37%, Instagram holds steady at 19%\u2014social platforms plus Post still command 71% of volume but concentration eases slightly.",
+      "blurb": "<strong>4 mentions today</strong> (social chatter on motel-to-housing conversion, Sneaker Politics Fall opening, Little India closure) lift <strong>7-day total to 60</strong>\u2014up 62% from prior week's 37, breaking five-week 40-mention ceiling. <strong>Denver Post commands 18 pickups</strong> (30% share, down from yesterday's 37%), Instagram delivers 11, Facebook/x.com tie at 7-5. Source diversification accelerates: top source drops below one-third share for first time since tracker launch, while social platforms (Instagram/Facebook/x.com) combine for 38% vs prior week's 29%. Notable coverage: Republic Plaza loan default (Post), Politico Bar opening timeline (x.com), r/denverfood Little India shutdown thread. Week-over-week velocity sustains March's elevated baseline\u2014four consecutive weeks above 50 mentions vs February's 35/week average.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "2",
+        "value1": "4",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "52",
+        "value1": "60",
         "class1": "up",
         "label2": "sources",
-        "value2": "11",
+        "value2": "13",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 today</strong> (1 new, 0 canceled) edges <strong>MTD to +49</strong> (+2.0/day), <strong>90-day cumulative to +118</strong> (+1.3/day). Last 7 days deliver <strong>+21 net</strong> (28 new, 7 canceled) vs prior week's +19\u2014acquisition accelerates to 4.0/day from prior week's 3.6, but cancellations tick up to 1.0/day from 0.9. Two-week pattern: steady 4+/day new subscriber flow since March 12 (only two zero-acquisition days), but churn creeps upward\u20147 cancels this week vs 6 last week vs 4 in early-March window. March pacing toward +52 net if final 5 days match current 2.0/day rate\u2014would mark 30% gain over February baseline but trails explosive early-month 2.5/day peaks. Retention slippage (1.0/day cancel rate) offsets otherwise healthy acquisition momentum.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) pushes <strong>MTD to +53</strong> (+2.0/day), <strong>90-day cumulative to +120</strong> (+1.3/day). Last 7 days post <strong>+22 net</strong> (29 new, 7 canceled)\u201416% acceleration over prior week's +18, driven by acquisition uptick to 4.1/day from 3.4 while cancellations hold flat at 1.0/day. Two-week trend solidifies: daily new subscriber flow sustains 4+/day since March 13 (12 of 14 days hit acquisition target), offsetting churn that stabilizes near 1/day after mid-month spike. March pacing toward +55 net if final four days match current 2.0/day rate\u2014would deliver 35% gain over February but trail early-month 2.5/day peaks as retention drag limits upside.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "49",
-      "net_ytd": "119",
+      "net_mtd": "53",
+      "net_ytd": "123",
       "net_mtd_per_day": "2.0",
       "net_ytd_per_day": "1.4"
     }

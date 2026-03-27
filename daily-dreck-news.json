@@ -1,60 +1,78 @@
 {
   "fetched_date": "2026-03-27",
-  "fetched_at": "2026-03-27 10:58:00",
+  "fetched_at": "2026-03-27 11:49:33",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 6,
   "articles": [
     {
       "title": "Denver sees brief cool-down before weekend warm-up",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
-      "pub_date": "2026-03-27T10:50:41+00:00",
-      "age_hours": 0.11756593166666666,
+      "pub_date": "2026-03-27T11:32:17+00:00",
+      "age_hours": 0.2834292411111111,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "17 min ago"
+    },
+    {
+      "title": "Denver weather: Cooler, cloudy Friday",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-cooler-cloudy-friday/",
+      "source": "Fox31",
+      "pub_date": "2026-03-27T11:26:59+00:00",
+      "age_hours": 0.3719143730555555,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
+    {
+      "title": "New Denver scooter deal includes a provision that could allow operator to charge low-income riders",
+      "link": "https://www.9news.com/article/news/community/transportation/new-denver-scooter-deal/73-2c510936-556d-412f-95b7-3482a26f25cc",
+      "source": "9News",
+      "pub_date": "2026-03-27T10:58:52+00:00",
+      "age_hours": 0.8403737036111112,
+      "breaking": true,
+      "time_ago": "50 min ago"
     },
     {
       "title": "A waitlist for 24/7 care for Colorado adults with disabilities is 7 years long. State Medicaid cuts could double it.",
       "link": "https://coloradosun.com/2026/03/27/medicaid-budget-cuts-developmental-disabilities-waitlist/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-27T10:00:00+00:00",
-      "age_hours": 0.9621571397222223,
+      "age_hours": 1.8214103091666667,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "How the Navajo Nation is tackling diabetes with a return to its ancestral diet",
       "link": "https://coloradosun.com/2026/03/27/how-the-navajo-nation-is-tackling-diabetes-with-a-return-to-its-ancestral-diet/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-27T09:39:00+00:00",
-      "age_hours": 1.3121571644444445,
+      "age_hours": 2.1714103341666666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Drew Litton: A different hope springs eternal",
       "link": "https://coloradosun.com/2026/03/27/drew-litton-denver-summit-hope-springs-eternal/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-27T08:10:00+00:00",
-      "age_hours": 2.7954905252777777,
+      "age_hours": 3.6547436966666664,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Where's the haze over metro Denver coming from?",
       "link": "https://www.9news.com/article/weather/weather-colorado/haze-metro-denver/73-313e9086-ca04-4923-965f-ddff331cc53b",
       "source": "9News",
       "pub_date": "2026-03-27T04:09:11+00:00",
-      "age_hours": 6.809232619166667,
+      "age_hours": 7.6684292733333335,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Troopers crack down on tailgating along I-25, warn aggressive driving is leading cause of crashes",
       "link": "https://kdvr.com/news/local/troopers-crack-down-on-tailgating-along-i-25-warn-aggressive-driving-is-leading-cause-of-crashes/",
       "source": "Fox31",
       "pub_date": "2026-03-27T02:54:52+00:00",
-      "age_hours": 8.048014901388889,
+      "age_hours": 8.907192155,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -63,16 +81,7 @@
       "link": "https://kdvr.com/news/local/denver-water-restriction-violators-could-face-hundreds-of-dollars-in-fines/",
       "source": "Fox31",
       "pub_date": "2026-03-26T23:32:19+00:00",
-      "age_hours": 11.423848268055556,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver weather: Cooler end to the week",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-cooler-end-to-the-week/",
-      "source": "Fox31",
-      "pub_date": "2026-03-26T22:56:50+00:00",
-      "age_hours": 12.015237185277778,
+      "age_hours": 12.283025514444445,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -81,43 +90,52 @@
       "link": "https://www.9news.com/article/news/local/archbishop-james-golka-first-mass-archdiocese-of-denver/73-956715eb-e146-4069-8c02-753c8aff6cf8",
       "source": "9News",
       "pub_date": "2026-03-26T22:45:27+00:00",
-      "age_hours": 12.204788205555555,
+      "age_hours": 13.063984859166666,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
+    },
+    {
+      "title": "CU Boulder professor shares pay discrepancy story on Equal Pay Day",
+      "link": "https://www.denver7.com/news/local-news/cu-boulder-professor-shares-pay-discrepancy-story-on-equal-pay-day",
+      "source": "Denver7",
+      "pub_date": "2026-03-26T22:28:24+00:00",
+      "age_hours": 13.348268749166667,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "1 burned, 5 suffer smoke inhalation in Denver apartment fire",
       "link": "https://kdvr.com/news/local/1-burned-5-suffer-smoke-inhalation-in-denver-apartment-fire/",
       "source": "Fox31",
       "pub_date": "2026-03-26T22:22:36+00:00",
-      "age_hours": 12.585792694722223,
+      "age_hours": 13.44496994472222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver charter school blends Montessori and bilingual education to serve students",
       "link": "https://www.9news.com/article/news/education/denver-charter-school-montessori-bilingual-education-students/73-0097ee88-b7ea-4d7f-ab40-0b8004dbd30c",
       "source": "9News",
       "pub_date": "2026-03-26T22:03:56+00:00",
-      "age_hours": 12.896732658888888,
+      "age_hours": 13.7559293125,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "New leader hired with Wild Bear Nature Center at crossroads",
       "link": "https://bizwest.com/2026/03/26/new-leader-hired-with-wild-bear-nature-center-at-crossroads/",
       "source": "BizWest",
       "pub_date": "2026-03-26T21:59:02+00:00",
-      "age_hours": 12.97781319388889,
+      "age_hours": 13.837095033888888,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Investors slurp Noodles & Co. stock as comeback continues",
       "link": "https://bizwest.com/2026/03/26/investors-slurp-noodles-co-stock-as-comeback-continues/",
       "source": "BizWest",
       "pub_date": "2026-03-26T21:52:06+00:00",
-      "age_hours": 13.093368759166667,
+      "age_hours": 13.952650601111111,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -126,61 +144,43 @@
       "link": "https://www.9news.com/article/news/local/denver-public-schools-student-comic-showcase-steam-expo/73-0025c633-da53-4c23-8609-254a7ab65d5f",
       "source": "9News",
       "pub_date": "2026-03-26T21:49:09+00:00",
-      "age_hours": 13.143121551111111,
+      "age_hours": 14.002318204722222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "With Greeley strike ongoing, JBS posts $2B in 2025 net income",
       "link": "https://bizwest.com/2026/03/26/with-greeley-strike-ongoing-jbs-posts-2b-in-2025-net-income/",
       "source": "BizWest",
       "pub_date": "2026-03-26T21:46:10+00:00",
-      "age_hours": 13.19225765222222,
+      "age_hours": 14.051539494166665,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "KUNC, Rocky Mountain Public Media eye merger",
       "link": "https://bizwest.com/2026/03/26/kunc-rocky-mountain-public-media-eye-merger/",
       "source": "BizWest",
       "pub_date": "2026-03-26T21:04:47+00:00",
-      "age_hours": 13.881979877500001,
+      "age_hours": 14.741261719722223,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "2 women arrested for allegedly robbing adult store in Arvada",
       "link": "https://kdvr.com/news/local/2-women-arrested-for-allegedly-robbing-adult-store-in-arvada/",
       "source": "Fox31",
       "pub_date": "2026-03-26T20:47:23+00:00",
-      "age_hours": 14.172737116666667,
+      "age_hours": 15.031914365555554,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Office building in downtown Denver set to be transformed into residential space",
       "link": "https://kdvr.com/news/local/office-building-in-downtown-denver-set-to-be-transformed-into-residential-space/",
       "source": "Fox31",
       "pub_date": "2026-03-26T20:37:08+00:00",
-      "age_hours": 14.343570504444445,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Boys Basketball: 2025-26 All-Colorado League teams",
-      "link": "https://sentinelcolorado.com/sports/preps/boys-basketball/boys-basketball-2025-26-all-colorado-league-teams/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-26T20:03:46+00:00",
-      "age_hours": 14.900002350833333,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 03.27.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-03-27-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-03-26T19:32:58+00:00",
-      "age_hours": 15.412572469444443,
+      "age_hours": 15.202747755,
       "breaking": false,
       "time_ago": "15 hrs ago"
     }
