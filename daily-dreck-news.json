@@ -1,33 +1,51 @@
 {
   "fetched_date": "2026-03-28",
-  "fetched_at": "2026-03-28 13:55:19",
+  "fetched_at": "2026-03-28 14:34:00",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Near-record heat returns this weekend before an active weather week",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-28T14:24:59+00:00",
+      "age_hours": 0.1458867322222222,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "Swift Beef plant strike in Greeley enters third week with no resolution in sight",
+      "link": "https://sentinelcolorado.com/sentinel-biz-news/swift-beef-plant-strike-in-greeley-enters-third-week-with-no-resolution-in-sight/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-28T14:01:43+00:00",
+      "age_hours": 0.5342627544444445,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
     {
       "title": "Suburban resistance: Aurora residents join \u2018No Kings\u2019 anti-Trump protests",
       "link": "https://sentinelcolorado.com/metro/suburbs-radicalize-aurora-residents-join-anti-trump-resistance-movement/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T13:32:59+00:00",
-      "age_hours": 0.36803118916666666,
+      "age_hours": 1.0131516561111111,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Gas prices slightly lower than Friday but continue to hover just below $4 per gallon",
       "link": "https://www.9news.com/article/news/nation-world/gas-prices-fuel/507-91fce071-ebdd-46c8-8054-9e367554fdc9",
       "source": "9News",
       "pub_date": "2026-03-28T12:32:21+00:00",
-      "age_hours": 1.3776936841666667,
+      "age_hours": 2.023108965277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Ohio meteorite hunter says a dream led him to one of his biggest finds yet",
       "link": "https://www.9news.com/article/news/nation-world/ohio-meteorite-hunter-fragment-search-medina-county/507-31ea8eb7-b64e-4562-abbf-4392ca54b75f",
       "source": "9News",
       "pub_date": "2026-03-28T11:37:28+00:00",
-      "age_hours": 2.2924159247222224,
+      "age_hours": 2.9378311977777773,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -36,34 +54,34 @@
       "link": "https://www.coloradopolitics.com/2026/03/28/kwame-spearman-warrants-plenty-of-criticism-not-cancellation-sondermann/",
       "source": "CO Politics",
       "pub_date": "2026-03-28T11:00:00+00:00",
-      "age_hours": 2.9176657763888887,
+      "age_hours": 3.5628359808333334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "What\u2019s Working: \u00a0Colorado\u2019s largest hemp grower fears big staff layoffs under new federal rules",
       "link": "https://coloradosun.com/2026/03/28/colorado-hemp-grower-federal-rules/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-28T10:00:00+00:00",
-      "age_hours": 3.9166950458333334,
+      "age_hours": 4.5621053499999995,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Every Opening and Closing This Week: Six Spots Debuted",
       "link": "https://www.westword.com/food-drink/new-denver-restaurants-including-west-highland-brunch-spot-paperboy-40863539/",
       "source": "Westword",
       "pub_date": "2026-03-28T07:00:00-06:00",
-      "age_hours": 0.9174377122222223,
+      "age_hours": 1.5626234108333334,
       "breaking": true,
-      "time_ago": "55 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Nexstar-Tegna megamerger blocked by ruling in antitrust case filed by DirecTV",
       "link": "https://coloradosun.com/2026/03/28/nexstar-tegna-merger-antitrust-directv/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-28T06:48:24+00:00",
-      "age_hours": 7.1100284025,
+      "age_hours": 7.755438703611111,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -72,7 +90,7 @@
       "link": "https://www.9news.com/article/news/community/race-and-culture/black-woman-yoga-studio-five-points-inclusive/73-5a0f1a66-278c-4461-8fbe-2d8178b5ecf4",
       "source": "9News",
       "pub_date": "2026-03-28T04:54:28+00:00",
-      "age_hours": 9.009082604722222,
+      "age_hours": 9.654497876944445,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -81,7 +99,7 @@
       "link": "https://www.9news.com/article/money/business/small-business/denver-bars-near-mile-high-prep-for-broncos-sized-crowds-as-summit-fc-makes-historic-home-debut/73-6b5d5be6-b529-4a17-925b-8c4fe81a15b5",
       "source": "9News",
       "pub_date": "2026-03-28T03:53:00+00:00",
-      "age_hours": 10.033527066666668,
+      "age_hours": 10.678942337777777,
       "breaking": false,
       "time_ago": "10 hrs ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://kdvr.com/sports/denver-shuts-out-cornell-5-0-advances-to-loveland-regional-final/",
       "source": "Fox31",
       "pub_date": "2026-03-28T02:44:19+00:00",
-      "age_hours": 11.178612080555556,
+      "age_hours": 11.823918742777776,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -99,34 +117,34 @@
       "link": "https://www.9news.com/article/sports/soccer/defending-champs-historic-denver-summit-fc-opener-scheduling-conflict/73-4976c361-5b17-431c-822e-90535f03bbcd",
       "source": "9News",
       "pub_date": "2026-03-28T01:22:53+00:00",
-      "age_hours": 12.535471538055555,
+      "age_hours": 13.180886808333334,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Sheriff, son and 3 other Costilla County officers indicted for mishandling human remains, using excessive force",
       "link": "https://coloradosun.com/2026/03/27/costilla-county-sheriff-officers-indicted-grand-jury/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-27T23:11:22+00:00",
-      "age_hours": 14.727250649166665,
+      "age_hours": 15.372660948055556,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver weather: Warm for the final weekend of March",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warm-for-the-final-weekend-of-march/",
       "source": "Fox31",
       "pub_date": "2026-03-27T22:27:27+00:00",
-      "age_hours": 15.459723207222222,
+      "age_hours": 16.105029877222222,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Appeals court rejects theory that existing tax revenue undermines need for new fees",
       "link": "https://www.coloradopolitics.com/2026/03/27/appeals-court-rejects-theory-that-existing-tax-revenue-undermines-need-for-new-fees/",
       "source": "CO Politics",
       "pub_date": "2026-03-27T21:41:11+00:00",
-      "age_hours": 16.23127693138889,
+      "age_hours": 16.876447125,
       "breaking": false,
       "time_ago": "16 hrs ago"
     },
@@ -135,52 +153,34 @@
       "link": "https://bizwest.com/2026/03/27/greeley-dda-oks-1-2m-in-incentives-for-boutique-hotel/",
       "source": "BizWest",
       "pub_date": "2026-03-27T21:29:54+00:00",
-      "age_hours": 16.4174896625,
+      "age_hours": 17.063335886944444,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Laird Superfood losses grew in Q4 after Navitas acquisition",
       "link": "https://bizwest.com/2026/03/27/laird-superfood-losses-grew-in-q4-after-navitas-acquisition/",
       "source": "BizWest",
       "pub_date": "2026-03-27T21:20:43+00:00",
-      "age_hours": 16.570545229444445,
+      "age_hours": 17.216391452222222,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "OnKure to sell $150M in stock to fund drug development",
       "link": "https://bizwest.com/2026/03/27/onkure-to-sell-150m-in-stock-to-fund-drug-development/",
       "source": "BizWest",
       "pub_date": "2026-03-27T21:14:38+00:00",
-      "age_hours": 16.6719341225,
+      "age_hours": 17.31778034527778,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Boulder completes $25M waterline project",
       "link": "https://bizwest.com/2026/03/27/boulder-completes-25m-waterline-project/",
       "source": "BizWest",
       "pub_date": "2026-03-27T21:06:01+00:00",
-      "age_hours": 16.81554524888889,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Near-record heat returns this weekend before an active weather week",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-27T20:59:10+00:00",
-      "age_hours": 16.930749355,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports schedule, 3.27.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-3-27-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-27T20:29:37+00:00",
-      "age_hours": 17.424142337777777,
+      "age_hours": 17.461391459722222,
       "breaking": false,
       "time_ago": "17 hrs ago"
     }
