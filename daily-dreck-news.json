@@ -1,186 +1,186 @@
 {
   "fetched_date": "2026-03-28",
-  "fetched_at": "2026-03-28 21:32:19",
+  "fetched_at": "2026-03-28 22:31:37",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver weather: Tracking rain chances next week",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-tracking-rain-chances-next-week/",
+      "source": "Fox31",
+      "pub_date": "2026-03-28T22:22:58+00:00",
+      "age_hours": 0.13968585666666666,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
     {
       "title": "Aurora\u2019s 1,800-strong \u2018No Kings\u2019 protest joins national anti-Trump wave",
       "link": "https://sentinelcolorado.com/metro/auroras-1800-strong-no-kings-protest-joins-national-anti-trump-wave/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T20:58:43+00:00",
-      "age_hours": 0.5564842347222222,
+      "age_hours": 1.544173925,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "12 tons of KitKat candy bars stolen en route from Italy to Poland, Nestle says",
       "link": "https://www.9news.com/article/news/nation-world/kitkat-candy-bar-nestle-theft-europe/507-61f2fbf4-98eb-45b5-8716-376f73d5066c",
       "source": "9News",
       "pub_date": "2026-03-28T17:16:53+00:00",
-      "age_hours": 4.253165536666667,
+      "age_hours": 5.240787275000001,
       "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Denver Summit FC fan group gears up for home opener",
-      "link": "https://kdvr.com/sports/denver-summit-fc/denver-summit-fc-fan-group-gears-up-for-home-opener/",
-      "source": "Fox31",
-      "pub_date": "2026-03-28T15:23:53+00:00",
-      "age_hours": 6.136647240277778,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Near-record heat returns this weekend before an active weather week",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-28T15:20:34+00:00",
-      "age_hours": 6.191776668611111,
+      "age_hours": 7.179398406111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver weather: Warm, dry weekend ahead",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warm-dry-weekend-ahead/",
-      "source": "Fox31",
-      "pub_date": "2026-03-28T14:34:58+00:00",
-      "age_hours": 6.951925026111111,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Swift Beef plant strike in Greeley enters third week with no resolution in sight",
       "link": "https://sentinelcolorado.com/sentinel-biz-news/swift-beef-plant-strike-in-greeley-enters-third-week-with-no-resolution-in-sight/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T14:01:43+00:00",
-      "age_hours": 7.5064842530555556,
+      "age_hours": 8.494173939166666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Suburban resistance: Aurora residents join \u2018No Kings\u2019 anti-Trump protests",
       "link": "https://sentinelcolorado.com/metro/suburbs-radicalize-aurora-residents-join-anti-trump-resistance-movement/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T13:32:59+00:00",
-      "age_hours": 7.985373149166667,
+      "age_hours": 8.973062835,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Gas prices slightly lower than Friday but continue to hover just below $4 per gallon",
       "link": "https://www.9news.com/article/news/nation-world/gas-prices-fuel/507-91fce071-ebdd-46c8-8054-9e367554fdc9",
       "source": "9News",
       "pub_date": "2026-03-28T12:32:21+00:00",
-      "age_hours": 8.995387788611112,
+      "age_hours": 9.983009525833333,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Ohio meteorite hunter says a dream led him to one of his biggest finds yet",
       "link": "https://www.9news.com/article/news/nation-world/ohio-meteorite-hunter-fragment-search-medina-county/507-31ea8eb7-b64e-4562-abbf-4392ca54b75f",
       "source": "9News",
       "pub_date": "2026-03-28T11:37:28+00:00",
-      "age_hours": 9.910110019722223,
+      "age_hours": 10.89773175638889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Kwame Spearman warrants plenty of criticism, not cancellation | SONDERMANN",
       "link": "https://www.coloradopolitics.com/2026/03/28/kwame-spearman-warrants-plenty-of-criticism-not-cancellation-sondermann/",
       "source": "CO Politics",
       "pub_date": "2026-03-28T11:00:00+00:00",
-      "age_hours": 10.5350566125,
+      "age_hours": 11.522760411388889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "What\u2019s Working: \u00a0Colorado\u2019s largest hemp grower fears big staff layoffs under new federal rules",
       "link": "https://coloradosun.com/2026/03/28/colorado-hemp-grower-federal-rules/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-28T10:00:00+00:00",
-      "age_hours": 11.534383813611111,
+      "age_hours": 12.52211796138889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Every Opening and Closing This Week: Six Spots Debuted",
       "link": "https://www.westword.com/food-drink/new-denver-restaurants-including-west-highland-brunch-spot-paperboy-40863539/",
       "source": "Westword",
       "pub_date": "2026-03-28T07:00:00-06:00",
-      "age_hours": 8.534802784722222,
+      "age_hours": 9.522566470277777,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Nexstar-Tegna megamerger blocked by ruling in antitrust case filed by DirecTV",
       "link": "https://coloradosun.com/2026/03/28/nexstar-tegna-merger-antitrust-directv/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-28T06:48:24+00:00",
-      "age_hours": 14.727717168055555,
+      "age_hours": 15.715451317222222,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Black woman-owned yoga studio provides inclusive space",
       "link": "https://www.9news.com/article/news/community/race-and-culture/black-woman-yoga-studio-five-points-inclusive/73-5a0f1a66-278c-4461-8fbe-2d8178b5ecf4",
       "source": "9News",
       "pub_date": "2026-03-28T04:54:28+00:00",
-      "age_hours": 16.626776697222223,
+      "age_hours": 17.614398440000002,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver bars near Mile High prep for Broncos-sized crowds as Summit FC makes historic home debut",
       "link": "https://www.9news.com/article/money/business/small-business/denver-bars-near-mile-high-prep-for-broncos-sized-crowds-as-summit-fc-makes-historic-home-debut/73-6b5d5be6-b529-4a17-925b-8c4fe81a15b5",
       "source": "9News",
       "pub_date": "2026-03-28T03:53:00+00:00",
-      "age_hours": 17.6512211575,
+      "age_hours": 18.638842898333333,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Denver shuts out Cornell 5-0, advances to Loveland regional final",
       "link": "https://kdvr.com/sports/denver-shuts-out-cornell-5-0-advances-to-loveland-regional-final/",
       "source": "Fox31",
       "pub_date": "2026-03-28T02:44:19+00:00",
-      "age_hours": 18.796091745277778,
+      "age_hours": 19.7838525725,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Defending champs to miss historic Denver Summit FC opener due to scheduling conflict",
       "link": "https://www.9news.com/article/sports/soccer/defending-champs-historic-denver-summit-fc-opener-scheduling-conflict/73-4976c361-5b17-431c-822e-90535f03bbcd",
       "source": "9News",
       "pub_date": "2026-03-28T01:22:53+00:00",
-      "age_hours": 20.153165624166665,
+      "age_hours": 21.14078736472222,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Sheriff, son and 3 other Costilla County officers indicted for mishandling human remains, using excessive force",
       "link": "https://coloradosun.com/2026/03/27/costilla-county-sheriff-officers-indicted-grand-jury/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-27T23:11:22+00:00",
-      "age_hours": 22.34493941361111,
+      "age_hours": 23.33267356138889,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Appeals court rejects theory that existing tax revenue undermines need for new fees",
       "link": "https://www.coloradopolitics.com/2026/03/27/appeals-court-rejects-theory-that-existing-tax-revenue-undermines-need-for-new-fees/",
       "source": "CO Politics",
       "pub_date": "2026-03-27T21:41:11+00:00",
-      "age_hours": 23.848667752500003,
+      "age_hours": 24.83637155138889,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Greeley DDA OKs $1.2M in incentives for boutique hotel",
       "link": "https://bizwest.com/2026/03/27/greeley-dda-oks-1-2m-in-incentives-for-boutique-hotel/",
       "source": "BizWest",
       "pub_date": "2026-03-27T21:29:54+00:00",
-      "age_hours": 24.035596568888888,
+      "age_hours": 25.02330602972222,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Laird Superfood losses grew in Q4 after Navitas acquisition",
+      "link": "https://bizwest.com/2026/03/27/laird-superfood-losses-grew-in-q4-after-navitas-acquisition/",
+      "source": "BizWest",
+      "pub_date": "2026-03-27T21:20:43+00:00",
+      "age_hours": 25.17636160111111,
       "breaking": false,
       "time_ago": "1 day ago"
     }
