@@ -1,114 +1,132 @@
 {
   "fetched_date": "2026-03-29",
-  "fetched_at": "2026-03-29 10:36:34",
+  "fetched_at": "2026-03-29 11:32:23",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Colorado hates its disabled citizens | Jon Caldara",
+      "link": "https://www.coloradopolitics.com/2026/03/29/colorado-hates-its-disabled-citizens-jon-caldara/",
+      "source": "CO Politics",
+      "pub_date": "2026-03-29T11:00:00+00:00",
+      "age_hours": 0.5362648930555556,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
+    {
+      "title": "Unsustainable: How Colorado\u2019s Medicaid spending exploded",
+      "link": "https://www.coloradopolitics.com/2026/03/29/unsustainable-how-colorados-medicaid-spending-exploded/",
+      "source": "CO Politics",
+      "pub_date": "2026-03-29T11:00:00+00:00",
+      "age_hours": 0.5362649080555555,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
     {
       "title": "Nicolais: Why I quit the Rockies, but I\u2019m all in on Denver Summit FC",
       "link": "https://coloradosun.com/2026/03/29/denver-summit-soccer-opinion-nicolais/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-29T09:03:00+00:00",
-      "age_hours": 1.5546136158333332,
+      "age_hours": 2.4853370358333335,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Five days and counting: Denver drivers still can't retrieve cars after parking garage collapse",
       "link": "https://www.9news.com/article/news/local/denver-drivers-still-cant-retrieve-cars-after-parking-garage-collapse/73-57c59e92-816c-4864-92b6-487a87ec26d9",
       "source": "9News",
       "pub_date": "2026-03-29T03:28:27+00:00",
-      "age_hours": 7.130635764166667,
+      "age_hours": 8.061351708611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver Summit FC makes Mile High debut",
       "link": "https://kdvr.com/sports/denver-summit-fc/denver-summit-fc-makes-mile-high-debut/",
       "source": "Fox31",
       "pub_date": "2026-03-29T03:12:26+00:00",
-      "age_hours": 7.3978474627777775,
+      "age_hours": 8.32868151138889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "1 killed in shooting in downtown Denver",
       "link": "https://www.9news.com/article/news/crime/downtown-denver-shooting-glenarm/73-c6ca4a5b-38f1-40fe-adbb-23911af6f504",
       "source": "9News",
       "pub_date": "2026-03-29T01:39:28+00:00",
-      "age_hours": 8.947024666944444,
+      "age_hours": 9.877740611666667,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver Summit FC smashes NWSL attendance record in first home match",
       "link": "https://coloradosun.com/2026/03/28/denver-summit-fc-home-opener-nwsl-attendance-record/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-29T00:30:53+00:00",
-      "age_hours": 10.089891431388889,
+      "age_hours": 11.020614849722222,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Summit and Spirit draw before a record NWSL crowd of 63,004",
       "link": "https://www.9news.com/article/sports/soccer/denver-summit-and-washington-spirit-draw-0-0-before-a-record-nwsl-crowd-of-63004/616-dfb0644c-bca1-4c3e-b1b7-81b072585a53",
       "source": "9News",
       "pub_date": "2026-03-28T23:30:09+00:00",
-      "age_hours": 11.102302458055554,
+      "age_hours": 12.033018403055555,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Near-record heat returns this weekend before an active weather week",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-28T23:29:54+00:00",
-      "age_hours": 11.10646912888889,
+      "age_hours": 12.037185073888889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver weather: Tracking rain chances next week",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-tracking-rain-chances-next-week/",
       "source": "Fox31",
       "pub_date": "2026-03-28T22:22:58+00:00",
-      "age_hours": 12.222291911388888,
+      "age_hours": 13.15312596138889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Aurora\u2019s 1,800-strong \u2018No Kings\u2019 protest joins national anti-Trump wave",
       "link": "https://sentinelcolorado.com/metro/auroras-1800-strong-no-kings-protest-joins-national-anti-trump-wave/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T20:58:43+00:00",
-      "age_hours": 13.626810735833333,
+      "age_hours": 14.557712291944444,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "12 tons of KitKat candy bars stolen en route from Italy to Poland, Nestle says",
       "link": "https://www.9news.com/article/news/nation-world/kitkat-candy-bar-nestle-theft-europe/507-61f2fbf4-98eb-45b5-8716-376f73d5066c",
       "source": "9News",
       "pub_date": "2026-03-28T17:16:53+00:00",
-      "age_hours": 17.323413600833334,
+      "age_hours": 18.25412954777778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Swift Beef plant strike in Greeley enters third week with no resolution in sight",
       "link": "https://sentinelcolorado.com/sentinel-biz-news/swift-beef-plant-strike-in-greeley-enters-third-week-with-no-resolution-in-sight/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T14:01:43+00:00",
-      "age_hours": 20.57681075,
+      "age_hours": 21.507712305833333,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Suburban resistance: Aurora residents join \u2018No Kings\u2019 anti-Trump protests",
       "link": "https://sentinelcolorado.com/metro/suburbs-radicalize-aurora-residents-join-anti-trump-resistance-movement/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T13:32:59+00:00",
-      "age_hours": 21.055699644999997,
+      "age_hours": 21.986601201944442,
       "breaking": false,
       "time_ago": "21 hrs ago"
     },
@@ -117,7 +135,7 @@
       "link": "https://www.9news.com/article/news/nation-world/gas-prices-fuel/507-91fce071-ebdd-46c8-8054-9e367554fdc9",
       "source": "9News",
       "pub_date": "2026-03-28T12:32:21+00:00",
-      "age_hours": 22.065635848333333,
+      "age_hours": 22.99635179083333,
       "breaking": false,
       "time_ago": "22 hrs ago"
     },
@@ -126,25 +144,25 @@
       "link": "https://www.9news.com/article/news/nation-world/ohio-meteorite-hunter-fragment-search-medina-county/507-31ea8eb7-b64e-4562-abbf-4392ca54b75f",
       "source": "9News",
       "pub_date": "2026-03-28T11:37:28+00:00",
-      "age_hours": 22.980358076944444,
+      "age_hours": 23.911074019166666,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Kwame Spearman warrants plenty of criticism, not cancellation | SONDERMANN",
       "link": "https://www.coloradopolitics.com/2026/03/28/kwame-spearman-warrants-plenty-of-criticism-not-cancellation-sondermann/",
       "source": "CO Politics",
       "pub_date": "2026-03-28T11:00:00+00:00",
-      "age_hours": 23.605376664722222,
+      "age_hours": 24.536264935277778,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "What\u2019s Working: \u00a0Colorado\u2019s largest hemp grower fears big staff layoffs under new federal rules",
       "link": "https://coloradosun.com/2026/03/28/colorado-hemp-grower-federal-rules/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-28T10:00:00+00:00",
-      "age_hours": 24.604613680833335,
+      "age_hours": 25.535337105833335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +171,16 @@
       "link": "https://www.westword.com/food-drink/new-denver-restaurants-including-west-highland-brunch-spot-paperboy-40863539/",
       "source": "Westword",
       "pub_date": "2026-03-28T07:00:00-06:00",
-      "age_hours": 21.605166518333334,
+      "age_hours": 22.53601512222222,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Black woman-owned yoga studio provides inclusive space",
       "link": "https://www.9news.com/article/news/community/race-and-culture/black-woman-yoga-studio-five-points-inclusive/73-5a0f1a66-278c-4461-8fbe-2d8178b5ecf4",
       "source": "9News",
       "pub_date": "2026-03-28T04:54:28+00:00",
-      "age_hours": 29.697024755,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver bars near Mile High prep for Broncos-sized crowds as Summit FC makes historic home debut",
-      "link": "https://www.9news.com/article/money/business/small-business/denver-bars-near-mile-high-prep-for-broncos-sized-crowds-as-summit-fc-makes-historic-home-debut/73-6b5d5be6-b529-4a17-925b-8c4fe81a15b5",
-      "source": "9News",
-      "pub_date": "2026-03-28T03:53:00+00:00",
-      "age_hours": 30.721469213055553,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver shuts out Cornell 5-0, advances to Loveland regional final",
-      "link": "https://kdvr.com/sports/denver-shuts-out-cornell-5-0-advances-to-loveland-regional-final/",
-      "source": "Fox31",
-      "pub_date": "2026-03-28T02:44:19+00:00",
-      "age_hours": 31.866458633055554,
+      "age_hours": 30.6277406975,
       "breaking": false,
       "time_ago": "1 day ago"
     }

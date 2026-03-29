@@ -1,27 +1,27 @@
 {
-  "generated_date": "2026-03-28",
-  "lead_headline": "Shuck Brothers oyster bar opens Saturday at Avanti as foreclosure filings slip 19% week-over-week to 34 cases",
+  "generated_date": "2026-03-29",
+  "lead_headline": "Vaultaire HiFi bar debuts beneath La For\u00eat as restaurant leads surge to 73 (5 new today) while subscription net holds +1 despite March's quietest Saturday",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 new leads today</strong> lift active count to <strong>70</strong> (34 openings, 36 closures)\u2014first time closure inventory cracks majority in six days. Saturday's additions: <strong>Shuck Brothers</strong> launches permanent Avanti stall (mobile oyster bar's first brick-and-mortar after years catering), <strong>7-Eleven</strong> at 5090 Federal flags August closure (commercial lease listing confirms), while yesterday's <strong>Roll It Up Sushi</strong> carry-forward rounds tally. Opening concentration shifts north: Chaffee Park/Thornton corridor accumulates third lead in four days (KIKIS corns 2, China BBQ, now 7-Eleven closure), breaking Union Station's 10-day dominance. Week's 70-lead inventory spans 34 openings (Vaultaire listening bar, FiNO Mediterranean, Paperboy Austin brunch invasion) vs 36 closures (Super Mega Bien RiNo staple, Aspen Baking sudden shutdown, Your Mom's House tax seizure). Geographic churn accelerates: Union Station posts six opening detections since March 4 while Cherry Creek/Capitol Hill shoulder four closures in parallel window.",
+      "blurb": "<strong>5 new leads today</strong> push active inventory to <strong>73</strong> (35 openings, 38 closures)\u2014highest tally since tracker launch. Sunday additions: <strong>Laredo Taco Company</strong> debuts inside new 7-Eleven at 5991 W Colfax (Tex-Mex chain's gas station model), <strong>Taco John's/Steak Escape</strong> combo at 5810 Logan flags August 2024 closure (now Taqueria Los Gallitos occupies space), <strong>New Dragon</strong> Berkeley Chinese spot marks 13-year run ended late February. Week's 73-lead spread: openings cluster Union Station corridor (<strong>Mendocino Farms</strong> third Denver outpost, <strong>C Burger</strong> regenerative beef at McGregor Square, <strong>Ogo Korean BBQ</strong> counter-service debut) while closures concentrate Cherry Creek/Capitol Hill (<strong>California Pizza Kitchen</strong> 25-year tenant, <strong>Your Mom's House</strong> tax seizure, <strong>Colfax and Cream</strong> 2-month collapse). Temporal density sharpens: 38 of 73 leads detected in past 10 days as March scraping velocity doubles February's weekly average.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+1",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "\u22124",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "34",
+        "value1": "35",
         "label2": "closed",
-        "value2": "36",
+        "value2": "38",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>34 filings this week</strong> retreat 19% from prior week's 42, dropping below March's 40-case average\u2014top case hits $686K in Arapahoe (24296 E Ohio), well shy of last week's $57M outlier that inflated valuations.",
+      "blurb": "<strong>34 filings this week</strong> trail prior week's 42 by 19%\u2014March's softest 7-day count outside holiday-shortened windows, with top case capping at $686K Arapahoe property (24296 E Ohio) vs zero $2M+ outliers for first time in five weeks.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong> extend March's statewide blackout to <strong>28 consecutive days</strong>\u2014now 133% longer than any prior gap in tracker history. April 1 quarterly deadline watch: if silence persists past Tuesday, confirms database lag vs genuine demand collapse across Denver metro's 12,300-case archive.",
+      "blurb": "<strong>Zero applications today</strong> stretch March's statewide filing drought to <strong>29 consecutive days</strong>\u2014now 141% beyond any prior gap in 12,316-case archive. Monday's April 1 quarterly deadline looms as database litmus test: silence past Tuesday confirms systemic lag vs demand collapse across metro's hospitality sector.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> (Instagram soccer team financing announcement) caps <strong>58-pickup week</strong>\u2014up 38% from prior week's 42, marking March's third consecutive weekly gain. <strong>Denver Post drops to 16 citations</strong> (28% share, yielding ground to social platforms), while instagram.com delivers 11 and x.com/Facebook combine for 11. Top stories: Cripple Creek retail expansion, Raices developer play, dining roundup coverage. Source fragmentation accelerates\u2014top outlet falls to lowest share since tracker launch as direct social pickups (x.com, Instagram, Facebook) claim 38% of weekly volume vs Post's shrinking dominance.",
+      "blurb": "<strong>55 mentions this week</strong> climb 15% from prior period's 48\u2014third straight weekly gain as social platforms claim 44% share (Instagram 12, x.com 5, Facebook 6). <strong>Denver Post matches Instagram at 12 citations</strong> (22% share, down from historical 30%+ dominance), marking source diversification inflection. Top stories: Denver Summit NWSL inaugural 63K-attendance sellout (6 Instagram pickups), Newmark/CBRE commercial real estate hires, coworking expansion coverage in San Antonio Express-News. Four-week total hits <strong>187 mentions across 31 sources</strong>\u2014run rate projects 561 annual citations if pace sustains through Q2.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,21 +69,21 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "58",
+        "value1": "55",
         "class1": "up",
         "label2": "sources",
-        "value2": "13",
+        "value2": "15",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) pushes <strong>MTD to +56</strong> (+2.1/day), <strong>90-day cumulative to +124</strong> (+1.3/day). Last 7 days deliver <strong>+22 net</strong> (29 new, 7 canceled)\u2014maintaining prior week's +17 momentum with 29% higher acquisition velocity (4.1/day vs 3.3) while churn creeps to 1.0/day from 0.9. Two-week pattern firms: daily new subscriber flow sustains 4+/day since mid-March (13 of 15 days hit threshold), offsetting retention slip that stabilizes near 1 cancellation daily. March tracks toward +58 net if final three days match current pace\u2014would mark 38% gain over February despite deceleration from early-month 2.5/day peaks as March 18-20 churn spike (3-2-1 cancellations) crimped upside.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled)\u2014March's slowest Saturday since tracker launch\u2014lifts <strong>MTD to +56</strong> (+2.0/day), <strong>90-day net to +125</strong>. Past 7 days deliver <strong>+22</strong> (29 new, 7 canceled) vs prior week's +17, sustaining 4.1 new/day acquisition while churn stabilizes at 1.0/day. Two-week snapshot: March 15-28 averages 4.2 new subscribers daily (59 total) against 13 cancellations\u2014holding 68% above YTD baseline of 2.5 net/day despite mid-month March 18-20 retention dip (6 cancellations across 3 days). Final three March days need +2 net to hit +58 monthly total, tracking 32% ahead of February's pace.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "56",
       "net_ytd": "126",
-      "net_mtd_per_day": "2.1",
-      "net_ytd_per_day": "1.5"
+      "net_mtd_per_day": "2.0",
+      "net_ytd_per_day": "1.4"
     }
   }
 }
