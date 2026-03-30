@@ -1,51 +1,105 @@
 {
   "fetched_date": "2026-03-30",
-  "fetched_at": "2026-03-30 20:49:40",
+  "fetched_at": "2026-03-30 21:44:04",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "University of Colorado-built satellites launched",
+      "link": "https://bizwest.com/2026/03/30/university-of-colorado-built-satellites-launched/",
+      "source": "BizWest",
+      "pub_date": "2026-03-30T21:32:54+00:00",
+      "age_hours": 0.18096607833333334,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "Sierra Space hires aerospace industry vet as new strategy chief",
+      "link": "https://bizwest.com/2026/03/30/sierra-space-hires-aerospace-industry-vet-as-new-strategy-chief/",
+      "source": "BizWest",
+      "pub_date": "2026-03-30T21:30:39+00:00",
+      "age_hours": 0.21846609416666665,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "Discount deadline nears for NoCo Real Estate Summit",
+      "link": "https://bizwest.com/2026/03/30/discount-deadline-nears-for-noco-real-estate-summit/",
+      "source": "BizWest",
+      "pub_date": "2026-03-30T21:28:33+00:00",
+      "age_hours": 0.2534661013888889,
+      "breaking": true,
+      "time_ago": "15 min ago"
+    },
+    {
+      "title": "Silvis Materials selected for Cox clean-tech accelerator",
+      "link": "https://bizwest.com/2026/03/30/silvis-materials-selected-for-cox-clean-tech-accelerator/",
+      "source": "BizWest",
+      "pub_date": "2026-03-30T21:24:46+00:00",
+      "age_hours": 0.3165216619444444,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "Auddia plans reverse stock split to stave off Nasdaq delisting",
+      "link": "https://bizwest.com/2026/03/30/auddia-plans-reverse-stock-split-to-stave-off-nasdaq-delisting/",
+      "source": "BizWest",
+      "pub_date": "2026-03-30T21:21:42+00:00",
+      "age_hours": 0.36763277944444445,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
+    {
+      "title": "Fort Collins art museum director to step down",
+      "link": "https://bizwest.com/2026/03/30/fort-collins-art-museum-director-to-step-down/",
+      "source": "BizWest",
+      "pub_date": "2026-03-30T21:19:10+00:00",
+      "age_hours": 0.40985500694444443,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
     {
       "title": "Marketing pro Claire Lardizabal Moser joins Sentinel Colorado team",
       "link": "https://sentinelcolorado.com/metro/marketing-pro-claire-lardizabal-moser-joins-sentinel-colorado-team/",
       "source": "Sentinel",
       "pub_date": "2026-03-30T20:09:43+00:00",
-      "age_hours": 0.6625285244444444,
+      "age_hours": 1.5686057830555558,
       "breaking": true,
-      "time_ago": "39 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Stolen vehicle crashes into garage causing fire, partial collapse after pursuit: Police",
       "link": "https://kdvr.com/news/local/stolen-vehicle-crashes-into-garage-causing-fire-partial-collapse-after-pursuit-police/",
       "source": "Fox31",
       "pub_date": "2026-03-30T19:16:39+00:00",
-      "age_hours": 1.5456518686111111,
+      "age_hours": 2.4525013997222223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Save water with these Colorado native flowers, plants that are drought tolerant, low maintenance",
       "link": "https://kdvr.com/denver-guide/save-water-with-these-colorado-native-flowers-plants-that-are-drought-tolerant-low-maintenance/",
       "source": "Fox31",
       "pub_date": "2026-03-30T18:33:06+00:00",
-      "age_hours": 2.2714852330555555,
+      "age_hours": 3.178334756111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Man pleads guilty to killing 2 people in Aurora",
       "link": "https://www.9news.com/article/news/crime/man-pleads-guilty-to-killing-2-people-in-aurora/73-cc01400b-e6d7-43ce-a296-ab3399a51a11",
       "source": "9News",
       "pub_date": "2026-03-30T18:00:22+00:00",
-      "age_hours": 2.8166991711111113,
+      "age_hours": 3.7236551388888888,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Confluent Development Launches Next Phase, Creates COO Role",
       "link": "https://milehighcre.com/confluent-development-launches-next-phase-creates-coo-role/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-30T17:47:55+00:00",
-      "age_hours": 3.0239685166666668,
+      "age_hours": 3.9310594641666667,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -54,43 +108,43 @@
       "link": "https://www.9news.com/article/money/business-brief/redrawing-colorado-opportunity-zone-map/73-125785fa-90d3-41f2-9bf2-5c7e1adda9df",
       "source": "9News",
       "pub_date": "2026-03-30T17:33:42+00:00",
-      "age_hours": 3.2611436258333333,
+      "age_hours": 4.168099593611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Out-of-state judges address ex-discipline director\u2019s lawsuit, Colorado justices accept federal invitation | COURT CRAWL",
       "link": "https://www.coloradopolitics.com/2026/03/30/out-of-state-judges-address-ex-discipline-directors-lawsuit-colorado-justices-accept-federal-invitation-court-crawl/",
       "source": "CO Politics",
       "pub_date": "2026-03-30T16:24:51+00:00",
-      "age_hours": 4.410238999166666,
+      "age_hours": 5.316362857222223,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver street sweeping starts up: What to look for when parking",
       "link": "https://www.9news.com/article/traffic/denver-street-sweeping-begins/73-8d1296bc-e70f-4901-ad51-82ab2671e48c",
       "source": "9News",
       "pub_date": "2026-03-30T14:40:35+00:00",
-      "age_hours": 6.146421430277778,
+      "age_hours": 7.053377397499999,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver's Civic Center Park set for $70M revitalization",
       "link": "https://www.9news.com/article/news/local/positively-colorado-civic-center-park-future/73-eae04185-d13f-4878-bd8e-ae204ba25fac",
       "source": "9News",
       "pub_date": "2026-03-30T14:01:05+00:00",
-      "age_hours": 6.8047547730555555,
+      "age_hours": 7.711710738055555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Judi Wolf: Denver's leading lady of the arts dies at 85",
       "link": "https://www.9news.com/article/life/style/colorado-guide/judi-wolf-denver-dcpa-obituary/73-b475e130-4205-40f8-8e96-067490ccb56b",
       "source": "9News",
       "pub_date": "2026-03-30T13:44:40+00:00",
-      "age_hours": 7.0783658874999995,
+      "age_hours": 7.9853218525,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -99,16 +153,16 @@
       "link": "https://www.9news.com/article/weather/weather-colorado/snow-rain-colorado/73-cb40621d-54f2-480e-8ebe-716d46cc3167",
       "source": "9News",
       "pub_date": "2026-03-30T13:36:04+00:00",
-      "age_hours": 7.221699226944444,
+      "age_hours": 8.128655191944445,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver-based Indian restaurant chain closing location",
       "link": "https://www.9news.com/article/money/business/little-india-closes-denver-restaurant/73-78b80510-80c5-4a20-bc9e-0c008ae6c629",
       "source": "9News",
       "pub_date": "2026-03-30T12:45:43+00:00",
-      "age_hours": 8.0608659025,
+      "age_hours": 8.967821867777777,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -117,72 +171,18 @@
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-30T12:35:09+00:00",
-      "age_hours": 8.236977016666666,
+      "age_hours": 9.143932981944443,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Gas prices rise again, national average hovers just below $4 per gallon",
       "link": "https://www.9news.com/article/news/nation-world/national-retail-average-price-gallon-gasoline-diesel/507-deac97fd-d631-4e68-8781-5d8faa375c23",
       "source": "9News",
       "pub_date": "2026-03-30T12:32:30+00:00",
-      "age_hours": 8.281143686666667,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver weather: Mild before mid-week shower chances",
-      "link": "https://kdvr.com/weather/denver-weather-mild-before-mid-week-shower-chances/",
-      "source": "Fox31",
-      "pub_date": "2026-03-30T12:24:10+00:00",
-      "age_hours": 8.420374134444444,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Benson Boone announces 'Wanted Man' tour stopping in Colorado",
-      "link": "https://www.9news.com/article/entertainment/music/colorado-music/wanted-man-tour-benson-boone/73-f354a533-2002-4b43-bf5b-bb5584c211bd",
-      "source": "9News",
-      "pub_date": "2026-03-30T11:28:37+00:00",
-      "age_hours": 9.345865914722223,
+      "age_hours": 9.188099651944444,
       "breaking": false,
       "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Cannabis Calendar: Live, Weed-Friendly Entertainment in Denver",
-      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
-      "source": "Westword",
-      "pub_date": "2026-03-30T10:43:25-06:00",
-      "age_hours": 4.099775012499999,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Nuggets beat Warriors for their 6th straight win",
-      "link": "https://www.9news.com/article/sports/nba/denver-nuggets/jokic-has-25-points-15-rebounds-nuggets-beat-warriors-116-93-for-their-6th-straight-win/616-b90b818d-2265-4da8-8f37-1de8a3ec121e",
-      "source": "9News",
-      "pub_date": "2026-03-30T10:21:33+00:00",
-      "age_hours": 10.463643700555554,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Denver City government closed Monday in observance of S\u00ed Se Puede Day",
-      "link": "https://www.9news.com/article/news/local/local-politics/denver-city-government-closed-march-30/73-a091d8e7-0beb-4eac-903a-d57642b9bda4",
-      "source": "9News",
-      "pub_date": "2026-03-30T10:15:30+00:00",
-      "age_hours": 10.564477036944446,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Five Points Residents Want Fewer Business Vacancies Amid Special District Renewal",
-      "link": "https://www.westword.com/news/five-points-locals-want-retail-special-district-renewal-40863558/",
-      "source": "Westword",
-      "pub_date": "2026-03-30T07:22:45-06:00",
-      "age_hours": 7.444219486666666,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
     }
   ]
 }
