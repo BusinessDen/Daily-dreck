@@ -1,141 +1,150 @@
 {
   "fetched_date": "2026-03-30",
-  "fetched_at": "2026-03-30 02:40:56",
+  "fetched_at": "2026-03-30 05:27:33",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver woman looks back on growth of women's hockey",
+      "link": "https://www.9news.com/article/sports/denver-woman-looks-back-on-growth-of-womens-hockey/73-32391108-d72f-45fd-a9d7-a4b6e0cb3826",
+      "source": "9News",
+      "pub_date": "2026-03-30T05:17:28+00:00",
+      "age_hours": 0.16365302027777778,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Final Blast of Record Heat Ahead of a Pattern Change",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-03-30T04:47:18+00:00",
+      "age_hours": 0.6664308108333333,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
     {
       "title": "DU hockey heading to the Frozen Four",
       "link": "https://kdvr.com/news/local/du-hockey-heading-to-the-frozen-four/",
       "source": "Fox31",
       "pub_date": "2026-03-30T00:39:19+00:00",
-      "age_hours": 2.022514185,
+      "age_hours": 4.7997994725,
       "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Record heat likely Sunday before active weather week ahead",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-03-29T23:27:25+00:00",
-      "age_hours": 3.2206561977777777,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver weather: Monday fire danger before active pattern begins",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-monday-fire-danger-before-active-pattern-begins/",
       "source": "Fox31",
       "pub_date": "2026-03-29T23:20:34+00:00",
-      "age_hours": 3.3350142047222224,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.112299493611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado breweries face new cost pressures as aluminum prices surge",
       "link": "https://www.denver7.com/news/local-news/colorado-breweries-face-new-cost-pressures-as-aluminum-prices-surge",
       "source": "Denver7",
       "pub_date": "2026-03-29T23:13:47+00:00",
-      "age_hours": 3.4479649230555554,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.225186955,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "1 killed in shooting in downtown Denver",
       "link": "https://www.9news.com/article/news/crime/downtown-denver-shooting-glenarm/73-c6ca4a5b-38f1-40fe-adbb-23911af6f504",
       "source": "9News",
       "pub_date": "2026-03-29T23:10:44+00:00",
-      "age_hours": 3.49871176,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.275875281388888,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Coca-Cola bottler breaks ground on new Colorado plant",
       "link": "https://bizwest.com/2026/03/29/coca-cola-bottler-breaks-ground-on-new-colorado-plant/",
       "source": "BizWest",
       "pub_date": "2026-03-29T21:50:32+00:00",
-      "age_hours": 4.834816920555555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.611576151666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Banks confront surge in AI-driven fraud risks",
       "link": "https://bizwest.com/2026/03/29/banks-confront-surge-in-ai-driven-fraud-risks/",
       "source": "BizWest",
       "pub_date": "2026-03-29T17:05:51+00:00",
-      "age_hours": 9.579539152777777,
+      "age_hours": 12.356298384444445,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Aurora\u2019s 1,800-strong \u2018No Kings\u2019 protest joins national anti-Trump wave \u2014 photos and videos",
       "link": "https://sentinelcolorado.com/metro/auroras-1800-strong-no-kings-protest-joins-national-anti-trump-wave/",
       "source": "Sentinel",
       "pub_date": "2026-03-29T13:29:04+00:00",
-      "age_hours": 13.193805339722223,
+      "age_hours": 15.970991206944444,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Gas prices slightly higher than Saturday, continue to hover just below $4 per gallon",
       "link": "https://www.9news.com/article/news/nation-world/gas-prices-slightly-higher-than-saturday-continue-to-hover-just-below-4-per-gallon/507-75dd3401-4279-449a-91dc-0aa9f7640993",
       "source": "9News",
       "pub_date": "2026-03-29T12:10:44+00:00",
-      "age_hours": 14.498711788055557,
+      "age_hours": 17.275875305555555,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado hates its disabled citizens | Jon Caldara",
       "link": "https://www.coloradopolitics.com/2026/03/29/colorado-hates-its-disabled-citizens-jon-caldara/",
       "source": "CO Politics",
       "pub_date": "2026-03-29T11:00:00+00:00",
-      "age_hours": 15.67822702111111,
+      "age_hours": 18.455403216111108,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Unsustainable: How Colorado\u2019s Medicaid spending exploded",
       "link": "https://www.coloradopolitics.com/2026/03/29/unsustainable-how-colorados-medicaid-spending-exploded/",
       "source": "CO Politics",
       "pub_date": "2026-03-29T11:00:00+00:00",
-      "age_hours": 15.678227036666668,
+      "age_hours": 18.455403229999998,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Nicolais: Why I quit the Rockies, but I\u2019m all in on Denver Summit FC",
       "link": "https://coloradosun.com/2026/03/29/denver-summit-soccer-opinion-nicolais/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-29T09:03:00+00:00",
-      "age_hours": 17.627519629444443,
+      "age_hours": 20.40463114611111,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Five days and counting: Denver drivers still can't retrieve cars after parking garage collapse",
       "link": "https://www.9news.com/article/news/local/denver-drivers-still-cant-retrieve-cars-after-parking-garage-collapse/73-57c59e92-816c-4864-92b6-487a87ec26d9",
       "source": "9News",
       "pub_date": "2026-03-29T03:28:27+00:00",
-      "age_hours": 23.203434013888888,
+      "age_hours": 25.980597530833332,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver Summit FC makes Mile High debut",
       "link": "https://kdvr.com/sports/denver-summit-fc/denver-summit-fc-makes-mile-high-debut/",
       "source": "Fox31",
       "pub_date": "2026-03-29T03:12:26+00:00",
-      "age_hours": 23.47056976388889,
+      "age_hours": 26.247855053888888,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver Summit FC smashes NWSL attendance record in first home match",
       "link": "https://coloradosun.com/2026/03/28/denver-summit-fc-home-opener-nwsl-attendance-record/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-29T00:30:53+00:00",
-      "age_hours": 26.162797441944445,
+      "age_hours": 28.93990895861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://www.9news.com/article/sports/soccer/denver-summit-and-washington-spirit-draw-0-0-before-a-record-nwsl-crowd-of-63004/616-dfb0644c-bca1-4c3e-b1b7-81b072585a53",
       "source": "9News",
       "pub_date": "2026-03-28T23:30:09+00:00",
-      "age_hours": 27.17510069777778,
+      "age_hours": 29.952264214722224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.9news.com/article/news/nation-world/kitkat-candy-bar-nestle-theft-europe/507-61f2fbf4-98eb-45b5-8716-376f73d5066c",
       "source": "9News",
       "pub_date": "2026-03-28T17:16:53+00:00",
-      "age_hours": 33.396211835555555,
+      "age_hours": 36.17337535222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://sentinelcolorado.com/sentinel-biz-news/swift-beef-plant-strike-in-greeley-enters-third-week-with-no-resolution-in-sight/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T14:01:43+00:00",
-      "age_hours": 36.64963870611111,
+      "age_hours": 39.42682457472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://sentinelcolorado.com/metro/suburbs-radicalize-aurora-residents-join-anti-trump-resistance-movement/",
       "source": "Sentinel",
       "pub_date": "2026-03-28T13:32:59+00:00",
-      "age_hours": 37.12852760166666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Kwame Spearman warrants plenty of criticism, not cancellation | SONDERMANN",
-      "link": "https://www.coloradopolitics.com/2026/03/28/kwame-spearman-warrants-plenty-of-criticism-not-cancellation-sondermann/",
-      "source": "CO Politics",
-      "pub_date": "2026-03-28T11:00:00+00:00",
-      "age_hours": 39.67822706416666,
+      "age_hours": 39.90571346972222,
       "breaking": false,
       "time_ago": "1 day ago"
     }
