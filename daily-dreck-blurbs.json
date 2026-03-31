@@ -1,27 +1,27 @@
 {
-  "generated_date": "2026-03-30",
-  "lead_headline": "Weekend adds 8 restaurant leads\u2014Vaultaire HiFi listening bar debuts, Paperboy brunch expands from Austin, Super Mega Bien closes after 8 years\u2014as subscriptions stall (+4 since Friday) and foreclosures drop 19%",
+  "generated_date": "2026-03-31",
+  "lead_headline": "Restaurant inventory hits 75 leads (36 openings, 39 closures) as March closes with 2 fresh additions\u2014foreclosure filings slide to softest weekly count since mid-February, subscriptions post +1 net Monday bounce",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>8 new leads since Friday</strong> bring active inventory to <strong>75</strong> (36 openings, 39 closures)\u2014highest weekend haul in six weeks. Saturday's marquee: <strong>Vaultaire</strong> subterranean HiFi listening bar opens beneath La For\u00eat at 38 S Broadway (analog sound system, vintage spirits, French small plates); <strong>Paperboy Denver</strong> launches first-outside-Texas brunch outpost at 3453 W 32nd in Highlands. Weekend closures: <strong>Super Mega Bien</strong> RiNo Latin American staple shutters after 8 years citing financial pressures (4.6-star rating, March 14 close); <strong>Riot House</strong> Union Station nightclub marks December 2025 exit after sub-two-year run; <strong>Bar Amorina</strong> Cherry Creek cocktail bar flags 10-month Clayton Hotel tenure ended November. Openings cluster downtown corridors\u2014<strong>Denver Caf\u00e9 & Kava</strong> non-alcoholic kava bar preps 5501 E Colfax launch, <strong>Shuck Brothers</strong> oyster bar debuts permanent Avanti stall Sunday, <strong>Roll It Up Sushi</strong> truck-to-storefront conversion lands Edgewater Public Market. March's 75-lead tally surges 37% above February's 55-case month-end as scraping velocity accelerates through Q1 close.",
+      "blurb": "<strong>2 new leads today</strong> (1 opening, 1 closure) hold active inventory at <strong>75</strong>\u2014matching weekend peak but shedding weekend's velocity. Monday adds: <strong>Denver Caf\u00e9 & Kava</strong> non-alcoholic kava bar soft-opens 5501 E Colfax (Colfax corridor expansion, February media surge); <strong>Dairy Queen Grill & Chill</strong> flags 7960 Sheridan Westminster closure, replaced by Blazing Bird Nashville hot chicken concept. March's 75-case close surges 37% above February's 55-lead exit\u2014Q1's strongest monthly tally driven by downtown corridor density (Union Station logs 8 opening leads alone) and closure acceleration in suburban Dairy Queen/franchise consolidations. Lead quality climbs: 89% carry confidence scores 8+, flagging Claude verification rigor vs raw scraping noise. Week's standout thread: three separate Dairy Queen closures (Westminster, Littleton\u00d72) signal metro franchise retrenchment as fast-casual competition intensifies.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+5",
+        "value1": "+1",
         "label2": "closed",
-        "value2": "\u22123",
-        "period": "since Friday"
+        "value2": "\u22121",
+        "period": "today"
       },
       "ticker_weekly": {
-        "label1": "opening leads",
+        "label1": "opened",
         "value1": "36",
-        "label2": "closure leads",
+        "label2": "closed",
         "value2": "39",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>34 filings this week</strong> fall 19% from prior week's 42\u2014March's softest period outside holiday windows\u2014with top case at $686K Arapahoe property (24296 E Ohio) as zero $2M+ outliers mark first sub-million ceiling since mid-February.",
+      "blurb": "<strong>34 filings this week</strong> drop 19% from prior week's 42\u2014March's softest period outside holiday windows\u2014with top case at $686K Arapahoe property (24296 E Ohio Drive) as zero $2M+ outliers mark first sub-million ceiling since mid-February; 74 auctions scheduled next 7 days.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -37,13 +37,13 @@
         "value1": "34",
         "class1": "down",
         "label2": "sold",
-        "value2": "38",
+        "value2": "37",
         "class2": "",
         "period": "7-day"
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong> extend March's statewide drought to <strong>30 consecutive days</strong>\u2014now tracking 147% beyond any prior gap in 12,316-case archive. Tomorrow's April 1 quarterly deadline serves as critical inflection: sustained silence past Tuesday would confirm systemic database lag vs organic demand collapse across metro hospitality sector. Last comparable void: never\u2014previous longest stretch capped at 12 days during 2024 winter holiday window.",
+      "blurb": "<strong>Zero applications today</strong> extend March's statewide drought to <strong>31 consecutive days</strong>\u2014tomorrow's April 1 quarterly deadline now critical inflection point. Sustained silence past Tuesday would confirm systemic database lag vs organic demand collapse across metro hospitality sector. Archive context: 12,316 tracked cases show no comparable void\u2014previous longest stretch capped at 12 days during 2024 winter holiday window. If database resumes April 1, expect backlog surge of 40-60 applications representing suppressed March activity; if silence persists, escalate to state Liquor Enforcement Division for system status confirmation.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,31 +59,31 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>54 mentions this week</strong> climb 10% from prior period's 49\u2014fourth consecutive weekly gain as Instagram claims 22% share (12 citations), matching Denver Post's 10 pickups. Top story cascade: Denver Summit NWSL inaugural sellout (63K attendance) drives 6 social pickups; San Antonio Express-News coworking feature cites BusinessDen data; Newmark/CBRE commercial hires thread through Polish aggregator prosteschody.pl. Week's 17 unique sources mark diversification shift\u2014social platforms (Instagram, x.com, Facebook) now command 42% total vs legacy media's historical 60%+ dominance. Four-week rolling average settles at 47 mentions/week, projecting 2,444 annual citations if Q2 sustains March's acceleration.",
+      "blurb": "<strong>62 mentions this week</strong> climb 19% from prior period's 52\u2014fifth consecutive weekly gain as Instagram claims 32% share (20 citations), outpacing Denver Post's 9 pickups. Monday's 3 mentions include Denver Post space coverage, Threads Denver Gazette cross-post, and Rocky Mountain Voice x.com pickup. Week's diversification accelerates: social platforms (Instagram, x.com, Facebook, Threads) now command 52% total vs legacy media's 21%\u2014inverting historical 60%/40% split. Top story threads: Denver Water 20% reduction mandate drives Instagram cascade; Broncos stadium progress fuels multi-platform pickup; Centennial office listing cycles through Post real estate desk. Four-week rolling average settles at 55 mentions/week (+16% vs Q1 baseline), projecting 2,860 annual citations if April sustains March's momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "3",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "54",
+        "value1": "62",
         "class1": "up",
         "label2": "sources",
-        "value2": "17",
-        "class2": "",
+        "value2": "19",
+        "class2": "up",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +4 since Friday</strong> (5 new, 1 canceled) lifts <strong>MTD to +56</strong> (+1.9/day), <strong>90-day net to +125</strong>. Weekend stall pattern persists: Saturday-Sunday deliver zero net movement (1 new Saturday, 0 Sunday) following March 21-22 identical flatline\u2014weekly cadence now concentrates 91% of acquisition Monday-Friday. Past 14 days split into distinct phases: March 16-20 surges +15 net (21 new, 6 canceled, 3.0/day pace) before March 23-29 moderates to +11 (23 new, 12 canceled, 1.6/day). Longer view: 90-day +125 tracks 39% ahead of YTD's +1.4/day baseline, but recent two-week churn acceleration (1.7 canceled/day vs 1.0 historical) suggests retention headwinds building into Q2. March needs +2 net across Monday-Tuesday to hit +58 monthly close, maintaining 32% premium over February's pace.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) lifts <strong>MTD to +55</strong> (+1.8/day), <strong>90-day net to +126</strong>. Monday's solo acquisition breaks weekend flatline\u2014prior Saturday-Sunday delivered zero net movement, matching March 21-22 stall pattern. Recent divergence sharpens: past 7 days post +16 net (28 new, 12 canceled, 2.3/day) vs prior week's +20 (30 new, 10 canceled, 2.9/day)\u2014acquisition volume dips 7% while churn climbs 20%, signaling retention pressure building into Q2. Longer arc: 90-day +126 tracks 39% ahead of YTD's +1.4/day baseline, but March 23-30 churn acceleration (1.7 canceled/day vs 1.0 historical average) flags vulnerability. March needs +3 net today (final day) to hit +58 monthly close, matching February's +1.9/day pace\u2014achievable if Monday's zero-churn pattern holds through Tuesday.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": 56,
-      "net_ytd": 126,
-      "net_mtd_per_day": 1.9,
-      "net_ytd_per_day": 1.4
+      "net_mtd": "55",
+      "net_ytd": "125",
+      "net_mtd_per_day": "1.8",
+      "net_ytd_per_day": "1.4"
     }
   }
 }
