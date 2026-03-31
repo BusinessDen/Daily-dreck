@@ -1,42 +1,87 @@
 {
   "fetched_date": "2026-03-31",
-  "fetched_at": "2026-03-31 20:48:28",
+  "fetched_at": "2026-03-31 21:41:02",
   "article_count": 20,
-  "breaking_count": 18,
+  "breaking_count": 20,
   "articles": [
+    {
+      "title": "Bigger Lafayette Farmers Market returns May 3",
+      "link": "https://bizwest.com/2026/03/31/bigger-lafayette-farmers-market-returns-may-3/",
+      "source": "BizWest",
+      "pub_date": "2026-03-31T21:28:57+00:00",
+      "age_hours": 0.19550811361111112,
+      "breaking": true,
+      "time_ago": "11 min ago"
+    },
+    {
+      "title": "Tayer: Let\u2019s put the \u2018comprehensive\u2019 in the Boulder Valley Comprehensive Plan",
+      "link": "https://bizwest.com/2026/03/31/tayer-lets-put-the-comprehensive-in-the-boulder-valley-comprehensive-plan/",
+      "source": "BizWest",
+      "pub_date": "2026-03-31T21:28:36+00:00",
+      "age_hours": 0.20134145944444445,
+      "breaking": true,
+      "time_ago": "12 min ago"
+    },
+    {
+      "title": "Hyatt Regency Denver Unveils $70M Transformation",
+      "link": "https://milehighcre.com/hyatt-regency-denver-unveils-70m-transformation/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-03-31T20:59:58+00:00",
+      "age_hours": 0.6792768483333333,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Man pleads guilty to killing 2 people in Aurora",
+      "link": "https://www.9news.com/article/news/crime/man-pleads-guilty-to-killing-2-people-in-aurora/73-cc01400b-e6d7-43ce-a296-ab3399a51a11",
+      "source": "9News",
+      "pub_date": "2026-03-31T20:54:23+00:00",
+      "age_hours": 0.7725772483333333,
+      "breaking": true,
+      "time_ago": "46 min ago"
+    },
+    {
+      "title": "Boulder 29 lands first tenant \u2014 and it\u2019s retail, not office",
+      "link": "https://bizwest.com/2026/03/31/boulder-29-lands-first-tenant-and-its-retail-not-office/",
+      "source": "BizWest",
+      "pub_date": "2026-03-31T20:50:17+00:00",
+      "age_hours": 0.8399525747222222,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
     {
       "title": "Experience ADAPT in Denver\u2019s Most Sustainable Spaces",
       "link": "https://milehighcre.com/experience-adapt-in-denvers-most-sustainable-spaces/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-31T20:43:35+00:00",
-      "age_hours": 0.07722584444444444,
+      "age_hours": 0.9523324144444444,
       "breaking": true,
-      "time_ago": "4 min ago"
+      "time_ago": "57 min ago"
     },
     {
       "title": "Downtown Denver Sustains Recovery Momentum into Spring",
       "link": "https://milehighcre.com/downtown-denver-sustains-recovery-momentum-into-spring/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-31T20:27:54+00:00",
-      "age_hours": 0.3386147425,
+      "age_hours": 1.2137213072222224,
       "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Japanese heavy metal band books Denver arena concert",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/japanese-heavy-metal-band-babymetal-usa-tour/73-f8b5664a-4688-48bd-a5a6-9034c56ff9ef",
       "source": "9News",
       "pub_date": "2026-03-31T19:50:51+00:00",
-      "age_hours": 0.9563409608333333,
+      "age_hours": 1.831466168888889,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Spring storm brings mountain snow, cooler temps and metro rain showers",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-31T19:45:35+00:00",
-      "age_hours": 1.0441187647222223,
+      "age_hours": 1.9192439530555556,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,52 +90,52 @@
       "link": "https://kdvr.com/denver-guide/the-show-must-go-on-city-park-jazz-summer-series-lineup-announced-after-bandstand-fire/",
       "source": "Fox31",
       "pub_date": "2026-03-31T19:35:58+00:00",
-      "age_hours": 1.204546465,
+      "age_hours": 2.0797667719444446,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Dacono speedway to add drag strip",
       "link": "https://bizwest.com/2026/03/31/dacono-speedway-to-add-drag-strip/",
       "source": "BizWest",
       "pub_date": "2026-03-31T19:23:22+00:00",
-      "age_hours": 1.4137566252777778,
+      "age_hours": 2.2885636894444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Uplight swapping leaders after majority stake purchased",
       "link": "https://bizwest.com/2026/03/31/uplight-swapping-leaders-after-majority-stake-purchased/",
       "source": "BizWest",
       "pub_date": "2026-03-31T18:23:14+00:00",
-      "age_hours": 2.4159788591666667,
+      "age_hours": 3.290785915,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Charlotte\u2019s Web posts first year-over-year sales bump since 2021",
       "link": "https://bizwest.com/2026/03/31/charlottes-web-posts-first-year-over-year-sales-bump-since-2021/",
       "source": "BizWest",
       "pub_date": "2026-03-31T18:20:06+00:00",
-      "age_hours": 2.4682010858333334,
+      "age_hours": 3.3430081402777776,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Ambrosia Bio raises $100M for oral GLP-1 trial",
       "link": "https://bizwest.com/2026/03/31/ambrosia-bio-raises-100m-for-oral-glp-1-trial/",
       "source": "BizWest",
       "pub_date": "2026-03-31T18:18:32+00:00",
-      "age_hours": 2.494312200277778,
+      "age_hours": 3.369119253888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Inches of snow coming to mountains, but it may not help ski areas",
       "link": "https://kdvr.com/news/local/inches-of-snow-coming-to-mountains-but-it-may-not-help-ski-areas/",
       "source": "Fox31",
       "pub_date": "2026-03-31T17:46:18+00:00",
-      "age_hours": 3.032324217777778,
+      "age_hours": 3.9075445197222223,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -99,7 +144,7 @@
       "link": "https://milehighcre.com/icm-relocates-to-expanded-thornton-facility/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-31T17:46:09+00:00",
-      "age_hours": 3.0344480799999998,
+      "age_hours": 3.909554644722222,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -108,81 +153,36 @@
       "link": "https://kdvr.com/sports/colorado-rockies/birdcall-to-debut-at-coors-field-during-rockies-home-opener/",
       "source": "Fox31",
       "pub_date": "2026-03-31T17:03:23+00:00",
-      "age_hours": 3.7476020130555554,
+      "age_hours": 4.6228223194444436,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "PuebloPlex: Positioned for a More Sustainable Economy",
       "link": "https://milehighcre.com/puebloplex-positioned-for-a-more-sustainable-economy/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-31T17:00:00+00:00",
-      "age_hours": 3.80361475,
+      "age_hours": 4.678721314444445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "\u2018Validating\u2019 verdicts: After losing daughter, Colorado mom calls for more social media protections",
       "link": "https://www.denver7.com/decodedc/technology/validating-verdicts-after-losing-daughter-colorado-mom-calls-for-more-social-media-protections",
       "source": "Denver7",
       "pub_date": "2026-03-31T16:38:27+00:00",
-      "age_hours": 4.163145348611111,
+      "age_hours": 5.0382019358333325,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Birdcall to Make its Ballpark Debut on Opening Day",
       "link": "https://milehighcre.com/birdcall-to-make-its-ballpark-debut-on-opening-day/",
       "source": "Mile High CRE",
       "pub_date": "2026-03-31T16:34:43+00:00",
-      "age_hours": 4.225003641944444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Colorado SunFest 2026 Panel: Housing \u2013 Any relief in the high country?",
-      "link": "https://coloradosun.com/2026/03/31/colorado-sunfest-2026-panel-housing-crisis-in-high-country/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-03-31T15:27:48+00:00",
-      "age_hours": 5.340375565833334,
+      "age_hours": 5.100110206388889,
       "breaking": true,
       "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "OGO Kitchen Debuts at Denver Union Station",
-      "link": "https://milehighcre.com/ogo-kitchen-debuts-at-denver-union-station/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-03-31T15:15:50+00:00",
-      "age_hours": 5.539725866666666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Seeing turkeys roaming around the Denver metro area? Here\u2019s why",
-      "link": "https://www.9news.com/article/life/animals/wild-turkeys-roaming-denver-metro-area/73-0cc682e4-695b-41bc-ab34-682caf3c09a0",
-      "source": "9News",
-      "pub_date": "2026-03-31T15:04:47+00:00",
-      "age_hours": 5.724118800555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "National average for a gallon of regular gasoline surpasses $4 first time since 2022",
-      "link": "https://www.9news.com/article/news/nation-world/national-retail-average-gas-diesel-prices-four-dollars/507-4318bb26-c503-46fc-9e23-a674a30ffed2",
-      "source": "9News",
-      "pub_date": "2026-03-31T14:33:26+00:00",
-      "age_hours": 6.246618815555555,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver man dies at Black Canyon of the Gunnison",
-      "link": "https://www.9news.com/article/news/local/denver-man-black-canyon-gunnison/73-5f12e018-e8ff-4072-9181-bff347d58e65",
-      "source": "9News",
-      "pub_date": "2026-03-31T14:10:37+00:00",
-      "age_hours": 6.626896599166667,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
     }
   ]
 }
