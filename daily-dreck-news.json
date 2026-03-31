@@ -1,78 +1,105 @@
 {
   "fetched_date": "2026-03-31",
-  "fetched_at": "2026-03-31 13:24:01",
+  "fetched_at": "2026-03-31 15:04:38",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "National average for a gallon of regular gasoline surpasses $4 first time since 2022",
+      "link": "https://www.9news.com/article/news/nation-world/national-retail-average-gas-diesel-prices-four-dollars/507-4318bb26-c503-46fc-9e23-a674a30ffed2",
+      "source": "9News",
+      "pub_date": "2026-03-31T14:33:26+00:00",
+      "age_hours": 0.5154099163888889,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "Denver man dies at Black Canyon of the Gunnison",
+      "link": "https://www.9news.com/article/news/local/denver-man-black-canyon-gunnison/73-5f12e018-e8ff-4072-9181-bff347d58e65",
+      "source": "9News",
+      "pub_date": "2026-03-31T14:10:37+00:00",
+      "age_hours": 0.8956877086111111,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
+    {
+      "title": "Developer begins demolishing Harker Heights, site of largest Denver fire in 30 years",
+      "link": "https://www.9news.com/article/news/local/apartment-fire-demolition-denver/73-48a6bcc3-fa1b-4c52-a80e-463300a2cfd9",
+      "source": "9News",
+      "pub_date": "2026-03-31T13:48:35+00:00",
+      "age_hours": 1.2629099433333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver Summit soccer team buys land for stadium",
+      "link": "https://bizwest.com/2026/03/31/denver-summit-soccer-team-buys-land-for-stadium/",
+      "source": "BizWest",
+      "pub_date": "2026-03-31T13:32:00+00:00",
+      "age_hours": 1.5384526575,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "370 residential units proposed in south Fort Collins",
+      "link": "https://bizwest.com/2026/03/31/370-residential-units-proposed-in-south-fort-collins/",
+      "source": "BizWest",
+      "pub_date": "2026-03-31T13:25:58+00:00",
+      "age_hours": 1.63900823,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Aurora fire investigators seek public\u2019s help in identifying arson suspect",
+      "link": "https://sentinelcolorado.com/metro/aurora-fire-investigators-seek-publics-help-in-identifying-arson-suspect/",
+      "source": "Sentinel",
+      "pub_date": "2026-03-31T13:24:27+00:00",
+      "age_hours": 1.665898668611111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "RTD reinstating former Littleton light rail line, adding temporary T Line",
       "link": "https://www.9news.com/article/life/style/colorado-guide/rtd-reinstating-c-line-adding-t-rail/73-5ea0e334-e650-47f0-a821-6f07629b1f3f",
       "source": "9News",
       "pub_date": "2026-03-31T13:04:56+00:00",
-      "age_hours": 0.3151193480555555,
+      "age_hours": 1.9904099666666666,
       "breaking": true,
-      "time_ago": "18 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Pilot flies final flight to Denver with son as First Officer",
       "link": "https://www.9news.com/article/travel/denver-international-airport/father-son-southwest-airlines-pilots/73-32197170-1a39-43a1-8287-6fe25600b7b9",
       "source": "9News",
       "pub_date": "2026-03-31T13:00:11+00:00",
-      "age_hours": 0.39428602166666665,
+      "age_hours": 2.0695766366666666,
       "breaking": true,
-      "time_ago": "23 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Storm system brings snow to Colorado mountains, rain to Denver",
       "link": "https://www.9news.com/article/weather/weather-colorado/snow-rain-colorado/73-cb40621d-54f2-480e-8ebe-716d46cc3167",
       "source": "9News",
       "pub_date": "2026-03-31T12:30:25+00:00",
-      "age_hours": 0.8903971369444444,
+      "age_hours": 2.5656877513888885,
       "breaking": true,
-      "time_ago": "53 min ago"
-    },
-    {
-      "title": "Gas prices eclipse $4 a gallon in the US, the highest since 2022",
-      "link": "https://sentinelcolorado.com/nation-world/world/gas-prices-eclipse-4-a-gallon-in-the-us-the-highest-since-2022/",
-      "source": "Sentinel",
-      "pub_date": "2026-03-31T12:26:54+00:00",
-      "age_hours": 0.9496340772222223,
-      "breaking": true,
-      "time_ago": "56 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Spring storm brings mountain snow, cooler temps and metro rain showers",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-03-31T12:06:10+00:00",
-      "age_hours": 1.2945638075,
+      "age_hours": 2.9698544216666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver weather: Seasonal with spotty showers",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-seasonal-with-spotty-showers/",
       "source": "Fox31",
       "pub_date": "2026-03-31T11:45:28+00:00",
-      "age_hours": 1.6398373097222223,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "US strikes a city home to an Iranian nuclear site as conflict enters into its second month",
-      "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/iran-war-us-strike-nuclear-site-energy-infrastructure/507-63867daf-ce7c-4bf8-accc-6d67fe6250a1",
-      "source": "9News",
-      "pub_date": "2026-03-31T10:38:42+00:00",
-      "age_hours": 2.7523415988888886,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "National average for a gallon of regular gasoline surpasses $4 first time since 2022",
-      "link": "https://www.9news.com/article/news/nation-world/national-retail-average-gas-diesel-prices-four-dollars/507-4318bb26-c503-46fc-9e23-a674a30ffed2",
-      "source": "9News",
-      "pub_date": "2026-03-31T10:15:49+00:00",
-      "age_hours": 3.133730496111111,
+      "age_hours": 3.315156249444444,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -81,108 +108,81 @@
       "link": "https://coloradosun.com/2026/03/31/opinion-colorado-housing-legislature-budget-cuts-prop-123/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-31T07:30:00+00:00",
-      "age_hours": 5.897222151944445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.572570620833333,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado Lawmakers Approve Ban of Dogs, Cats at Pet Stores",
       "link": "https://www.westword.com/news/colorado-lawmakers-pass-ban-sales-dogs-cats-pet-stores-40865501/",
       "source": "Westword",
       "pub_date": "2026-03-31T06:51:00-06:00",
-      "age_hours": 0.5477071652777777,
+      "age_hours": 2.2232013544444444,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Longtime architect and teacher working to inspire more women and students of color to join the field",
       "link": "https://www.9news.com/article/news/local/architect-teacher-working-to-inspire-women-and-students-of-color/73-085bbb86-7105-4783-a00c-d4e40f5465da",
       "source": "9News",
       "pub_date": "2026-03-31T03:50:13+00:00",
-      "age_hours": 9.560397170833335,
+      "age_hours": 11.235687785555555,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver nonprofit's new campus helps homeless youth exit crisis three times faster, independent data shows",
       "link": "https://www.9news.com/article/news/community/denver-nonprofit-campus-homeless-youth-exit-crisis/73-66faea3b-9687-4529-a54d-c3be4e225dc5",
       "source": "9News",
       "pub_date": "2026-03-31T00:51:56+00:00",
-      "age_hours": 12.531786081111111,
+      "age_hours": 14.207076699722222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Gov. Polis loses again in case about his attempted compliance with ICE subpoena",
       "link": "https://coloradosun.com/2026/03/30/jared-polis-ice-subpoena-lawsuit/",
       "source": "Colorado Sun",
       "pub_date": "2026-03-30T21:46:26+00:00",
-      "age_hours": 15.623333282222223,
+      "age_hours": 17.298681748333333,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "University of Colorado-built satellites launched",
       "link": "https://bizwest.com/2026/03/30/university-of-colorado-built-satellites-launched/",
       "source": "BizWest",
       "pub_date": "2026-03-30T21:32:54+00:00",
-      "age_hours": 15.848433379166666,
+      "age_hours": 17.523452682777776,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Sierra Space hires aerospace industry vet as new strategy chief",
       "link": "https://bizwest.com/2026/03/30/sierra-space-hires-aerospace-industry-vet-as-new-strategy-chief/",
       "source": "BizWest",
       "pub_date": "2026-03-30T21:30:39+00:00",
-      "age_hours": 15.885933389722222,
+      "age_hours": 17.560952689722225,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Discount deadline nears for NoCo Real Estate Summit",
       "link": "https://bizwest.com/2026/03/30/discount-deadline-nears-for-noco-real-estate-summit/",
       "source": "BizWest",
       "pub_date": "2026-03-30T21:28:33+00:00",
-      "age_hours": 15.920933394166667,
+      "age_hours": 17.595952696944444,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Silvis Materials selected for Cox clean-tech accelerator",
       "link": "https://bizwest.com/2026/03/30/silvis-materials-selected-for-cox-clean-tech-accelerator/",
       "source": "BizWest",
       "pub_date": "2026-03-30T21:24:46+00:00",
-      "age_hours": 15.983988952777777,
+      "age_hours": 17.659008257500002,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Auddia plans reverse stock split to stave off Nasdaq delisting",
-      "link": "https://bizwest.com/2026/03/30/auddia-plans-reverse-stock-split-to-stave-off-nasdaq-delisting/",
-      "source": "BizWest",
-      "pub_date": "2026-03-30T21:21:42+00:00",
-      "age_hours": 16.035100067222224,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Fort Collins art museum director to step down",
-      "link": "https://bizwest.com/2026/03/30/fort-collins-art-museum-director-to-step-down/",
-      "source": "BizWest",
-      "pub_date": "2026-03-30T21:19:10+00:00",
-      "age_hours": 16.0773222925,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Stolen vehicle crashes into garage causing fire, partial collapse after pursuit: Police",
-      "link": "https://kdvr.com/news/local/stolen-vehicle-crashes-into-garage-causing-fire-partial-collapse-after-pursuit-police/",
-      "source": "Fox31",
-      "pub_date": "2026-03-30T19:16:39+00:00",
-      "age_hours": 18.120115068055554,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
