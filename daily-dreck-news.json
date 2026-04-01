@@ -1,123 +1,168 @@
 {
   "fetched_date": "2026-04-01",
-  "fetched_at": "2026-04-01 10:59:34",
+  "fetched_at": "2026-04-01 11:58:51",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Denver weather: Metro showers and seasonal temperatures",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-metro-showers-and-seasonal-temperatures/",
+      "source": "Fox31",
+      "pub_date": "2026-04-01T11:54:11+00:00",
+      "age_hours": 0.07300370722222223,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "Record low snow bodes ill for water in Aurora and the drought-stricken West",
+      "link": "https://sentinelcolorado.com/metro/record-low-snow-bodes-ill-for-water-in-aurora-and-the-drought-stricken-west/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-01T11:49:03+00:00",
+      "age_hours": 0.1590195352777778,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Colorado Enterprise Fund helps local small businesses grow through community revolving loan programs",
+      "link": "https://www.denver7.com/news/front-range/littleton/colorado-enterprise-fund-helps-local-small-businesses-grow-through-community-revolving-loan-programs",
+      "source": "Denver7",
+      "pub_date": "2026-04-01T11:41:13+00:00",
+      "age_hours": 0.2889789866666667,
+      "breaking": true,
+      "time_ago": "17 min ago"
+    },
     {
       "title": "Spring storm brings mountain snow with scattered showers for Denver",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-01T10:47:15+00:00",
-      "age_hours": 0.2008169161111111,
+      "age_hours": 1.1882880777777778,
       "breaking": true,
-      "time_ago": "12 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Nuggets seek seventh straight win against struggling Jazz: Watch on KTVD",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-jazz-wednesday-tv-start-time/73-45629889-0ea9-4702-99c4-ae2a626c0427",
       "source": "9News",
       "pub_date": "2026-04-01T10:31:16+00:00",
-      "age_hours": 0.46720581777777775,
+      "age_hours": 1.454676976388889,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Scavenging for sport: How Trash Panda turns waste plastic into disc golf discs",
       "link": "https://coloradosun.com/2026/04/01/trash-panda-plastic-recycling-disc-golf-equipment/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-01T10:07:00+00:00",
-      "age_hours": 0.8715737055555556,
+      "age_hours": 1.8589583538888887,
       "breaking": true,
-      "time_ago": "52 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver City Council approves Axon license plate reader contract by single vote, Flock cameras taken down",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-city-councilaxon-license-plate-reader-contract-flock/73-b757a1bc-3e36-49b2-8de0-2742600be5db",
       "source": "9News",
       "pub_date": "2026-04-01T05:15:33+00:00",
-      "age_hours": 5.7291502663888885,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.716621425555556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver City Council greenlights new vendor for license plate cameras",
       "link": "https://kdvr.com/news/denver-city-council-greenlights-new-vendor-for-license-plate-cameras/",
       "source": "Fox31",
       "pub_date": "2026-04-01T03:13:03+00:00",
-      "age_hours": 7.771038280555556,
+      "age_hours": 8.758559306944443,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Online retailers remove dangerous extension cord listings amid various safety recalls",
       "link": "https://www.9news.com/article/news/nation-world/extension-cord-listings-removed-amid-various-safety-recalls/507-8ac39166-1bd0-472b-bdf2-66541beee5a2",
       "source": "9News",
       "pub_date": "2026-04-01T01:36:13+00:00",
-      "age_hours": 9.384705847777779,
+      "age_hours": 10.37217700638889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver rabbi explains the meaning of Passover",
       "link": "https://www.9news.com/video/life/faith/denver-rabbi-explains-the-meaning-of-passover/73-8d6c54c4-b497-4828-b65e-30dbc8cfb7d0",
       "source": "9News",
       "pub_date": "2026-04-01T01:02:18+00:00",
-      "age_hours": 9.949983633333332,
+      "age_hours": 10.937454790555556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Bye-bye, Flock; Next with Kyle Clark full show (3/31/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/bye-bye-flock-next-with-kyle-clark-full-show-33126/73-68b34572-12b3-42b6-a971-e14e7c00ebb9",
       "source": "9News",
       "pub_date": "2026-04-01T00:50:22+00:00",
-      "age_hours": 10.148872528333332,
+      "age_hours": 11.136343685277778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
+    },
+    {
+      "title": "Dow jumps over 1,000 points as Trump suggests ending the Iran war without reopening Strait of Hormuz",
+      "link": "https://www.denver7.com/news/local-news/dow-jumps-over-1-000-points-as-trump-suggests-ending-the-iran-war-without-reopening-strait-of-hormuz",
+      "source": "Denver7",
+      "pub_date": "2026-04-01T00:48:47+00:00",
+      "age_hours": 11.162867901666667,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver removes all 110 Flock license plate reader cameras as contract expires",
       "link": "https://www.9news.com/article/news/local/denver-removes-flock-license-plate-reader-cameras/73-eaf91d0a-3b90-45f5-8338-dbb9f79a8712",
       "source": "9News",
       "pub_date": "2026-04-01T00:48:06+00:00",
-      "age_hours": 10.186650309722223,
+      "age_hours": 11.174121466666666,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "As Iran war continues, Colorado's altitude gives the state a slight edge on cheaper gas",
       "link": "https://www.denver7.com/money/consumer/as-iran-war-continues-colorados-altitude-gives-the-state-a-slight-edge-on-cheaper-gas",
       "source": "Denver7",
       "pub_date": "2026-04-01T00:07:22+00:00",
-      "age_hours": 10.865742631111111,
+      "age_hours": 11.853145685,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
+    },
+    {
+      "title": "Gas pumps pack a price punch, with an average cost of $4 a gallon",
+      "link": "https://www.denver7.com/news/local-news/gas-pumps-pack-a-price-punch-with-an-average-cost-of-4-a-gallon",
+      "source": "Denver7",
+      "pub_date": "2026-04-01T00:05:02+00:00",
+      "age_hours": 11.8920345775,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Man pleads guilty, sentenced in Greenwood Village business fires",
       "link": "https://www.9news.com/article/news/crime/man-sentenced-greenwood-village-business-fires/73-fca6693b-5d2a-4d82-a41f-4dd7791be82a",
       "source": "9News",
       "pub_date": "2026-03-31T23:23:58+00:00",
-      "age_hours": 11.58887254611111,
+      "age_hours": 12.576343703055556,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "MSU Denver program works to bring more women into the cockpit",
       "link": "https://www.9news.com/article/news/education/msu-denver-women-pilots/73-34c59d09-f6c2-477c-9fbc-b3d12c67aa6d",
       "source": "9News",
       "pub_date": "2026-03-31T23:11:43+00:00",
-      "age_hours": 11.793039220555555,
+      "age_hours": 12.780510377777777,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver weather: More showers Tuesday night through Wednesday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-showers-tuesday-night-through-wednesday/",
       "source": "Fox31",
       "pub_date": "2026-03-31T22:58:58+00:00",
-      "age_hours": 12.0057605075,
+      "age_hours": 12.993281534444444,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -126,61 +171,16 @@
       "link": "https://www.9news.com/article/news/politics/federal-judge-tosses-out-doj-lawsuit-sanctuary-policies-colorado-denver/73-789d936f-f877-4c4f-9d34-31717994bf6c",
       "source": "9News",
       "pub_date": "2026-03-31T22:27:11+00:00",
-      "age_hours": 12.535261454722223,
+      "age_hours": 13.522732620555557,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver man dies at Black Canyon of the Gunnison",
       "link": "https://www.9news.com/article/news/local/denver-man-black-canyon-gunnison/73-5f12e018-e8ff-4072-9181-bff347d58e65",
       "source": "9News",
       "pub_date": "2026-03-31T22:22:26+00:00",
-      "age_hours": 12.614428132499999,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "What does a 'K-shaped economy' even mean?",
-      "link": "https://www.9news.com/article/money/consumer/what-does-k-shaped-economy-mean/507-c4060832-0bbf-412d-b103-a58dbc7b6789",
-      "source": "9News",
-      "pub_date": "2026-03-31T21:44:09+00:00",
-      "age_hours": 13.25248369361111,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Denver proposes yearlong moratorium on new data centers",
-      "link": "https://www.coloradopolitics.com/2026/03/31/denver-proposes-yearlong-moratorium-on-new-data-centers/",
-      "source": "CO Politics",
-      "pub_date": "2026-03-31T21:43:54+00:00",
-      "age_hours": 13.2571930425,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Bigger Lafayette Farmers Market returns May 3",
-      "link": "https://bizwest.com/2026/03/31/bigger-lafayette-farmers-market-returns-may-3/",
-      "source": "BizWest",
-      "pub_date": "2026-03-31T21:28:57+00:00",
-      "age_hours": 13.505283597777778,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Tayer: Let\u2019s put the \u2018comprehensive\u2019 in the Boulder Valley Comprehensive Plan",
-      "link": "https://bizwest.com/2026/03/31/tayer-lets-put-the-comprehensive-in-the-boulder-valley-comprehensive-plan/",
-      "source": "BizWest",
-      "pub_date": "2026-03-31T21:28:36+00:00",
-      "age_hours": 13.51111694111111,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Hyatt Regency Denver Unveils $70M Transformation",
-      "link": "https://milehighcre.com/hyatt-regency-denver-unveils-70m-transformation/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-03-31T20:59:58+00:00",
-      "age_hours": 13.988705189166668,
+      "age_hours": 13.601899298888888,
       "breaking": false,
       "time_ago": "13 hrs ago"
     }
