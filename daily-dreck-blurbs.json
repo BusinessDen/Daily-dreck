@@ -1,34 +1,34 @@
 {
-  "generated_date": "2026-04-01",
-  "lead_headline": "Restaurant pipeline crosses April 1 threshold at 77 leads (37 openings, 40 closures) as kosher newcomer L'Chaim opens Virginia Vale while foreclosure filings slip to 35\u2014lowest weekly tally since late February",
+  "generated_date": "2026-04-02",
+  "lead_headline": "Restaurant tracker logs 4 fresh leads (2 openings, 2 closures) as China BBQ debuts Westminster and Colfax and Cream expands to Pearl Street, while foreclosure filings drop 17% week-over-week",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>2 new leads today</strong> (1 opening, 1 closure) push total inventory to <strong>77 leads</strong> (37 openings, 40 closures)\u2014April 1 marks quarter's highest daily count. Fresh additions: <strong>L'Chaim Ma'adenei Melech</strong> opens Virginia Vale with Bukharian/Uzbek kosher cuisine (Katanov family operation, March media coverage); <strong>El Sotol Cocina Bar</strong> flags Westminster permanent closure at 4.5-star Dos Patrias location. March exits with 77-case surge\u201441% climb from February's 55-lead close\u2014driven by Union Station opening density (8 active leads) and accelerating franchise closures (three Dairy Queen shutdowns, two California Pizza Kitchen flags). Lead quality holds: 88% score confidence 8+, signaling Claude verification rigor. Q1 pattern emerges: downtown corridor openings (Union Station, City Park) offset suburban fast-food retrenchment as kosher/specialty concepts fill neighborhood gaps.",
+      "blurb": "<strong>4 new leads today</strong> (2 openings, 2 closures) lift inventory to <strong>79 active cases</strong> (39 openings, 40 closures)\u2014Wednesday's haul matches Tuesday's pace as April tracking begins. Fresh openings: <strong>China BBQ</strong> plants flag at 3041 W 92nd Ave Westminster (confidence 7, replaces Tasty Express in rotation-heavy address); <strong>Colfax and Cream</strong> flags Pearl Street expansion (confidence 8, third location since May 2024 Broadway launch). Union Station corridor now carries 9 active opening leads vs 8 closures, maintaining downtown's net-positive tilt as suburbs hemorrhage fast-casual flags (Dairy Queen Westminster, Fort Logan closures accumulate). April's opening two days post +6 net leads (+1.5/day) vs March's +0.7 daily average\u2014early signal of seasonal acceleration or database catch-up noise pending week's close.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "\u22122",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "37",
+        "value1": "39",
         "label2": "closed",
         "value2": "40",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>35 filings this week</strong> slide 17% below prior week's 42 to mark March's softest stretch since late February\u2014top case caps at $686K Arapahoe property (24296 E Ohio Drive) with zero $2M+ outliers for first sub-million ceiling since mid-February; 136 auctions scheduled next 7 days.",
+      "blurb": "<strong>35 filings this week</strong> mark 17% decline from prior week's 42 with zero properties breaching $2M threshold\u2014top case caps at $686K Arapahoe County (24296 E Ohio Drive) as 105 auctions queue for next 7 days.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "136",
+        "value2": "105",
         "class2": "",
         "period": "today"
       },
@@ -37,39 +37,39 @@
         "value1": "35",
         "class1": "down",
         "label2": "sold",
-        "value2": "35",
+        "value2": "33",
         "class2": "",
         "period": "7-day"
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong>\u2014April 1 quarterly deadline passes with no filings, extending March's <strong>32-day statewide drought</strong> into uncharted territory. Previous record void capped at 12 days (December 2024 holiday window); sustained silence now confirms systemic database lag vs organic demand collapse. Archive context: 12,316 tracked cases show no comparable blackout. Critical inflection: if Wednesday delivers zero filings, escalate to state Liquor Enforcement Division for system status\u2014expect 50-70 application backlog representing suppressed March/early April activity once database resumes. Social media chatter absent, suggesting applicant-side awareness of processing delays rather than regulatory freeze.",
+      "blurb": "<strong>Zero applications today</strong>\u2014April 2 extends statewide filing blackout to <strong>33 consecutive days</strong>, eclipsing December 2024's 12-day record by 175%. Databaselag theory solidifies: no social chatter, no regulatory announcements, suggesting 50-70 application backlog awaiting system restoration. If Friday delivers third straight zero, escalate to Liquor Enforcement Division\u201412,316-case archive shows no precedent for month-long void during non-holiday periods.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>11 mentions yesterday</strong> close March with <strong>63 weekly citations</strong> (+26% vs prior week's 50)\u2014sixth consecutive weekly gain as Instagram claims 29% share (18 pickups), Denver Post contributes 14%, x.com adds 10%. Top threads: Wash Park Social replacement coverage (Denver Post, Hoodline double-feature March 31); Castle Rock brewery widow story drives Hoodline pickup; Union Station Focus building neglect flags Post municipal desk. Platform diversification accelerates: social channels (Instagram, Facebook, x.com) now command 54% total vs legacy media's 24%\u2014inverting Q1's 58%/42% historical split. Four-week rolling average settles at 57 mentions/week (+18% vs Q1 baseline), projecting 2,964 annual citations if April sustains March momentum. March exits as strongest month since tracking began\u2014214 total mentions establish new benchmark.",
+      "blurb": "<strong>1 mention yesterday</strong> caps March's exit at <strong>65 weekly citations</strong> (+23% vs prior week's 53)\u2014April 2 opens with Instagram self-promo post as sole pickup while Denver Post, Hoodline maintain week's dominance (13, 6 mentions respectively). Social platforms (Instagram, Facebook, x.com) command 49% weekly share vs traditional media's 29%, sustaining March's platform inversion. Rolling 30-day average settles at 56 mentions/week as April resets\u2014watch for quarterly pattern shift if business/CRE desk pickups cool post-Q1 earnings cycle.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "11",
-        "class1": "",
+        "value1": "1",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "63",
+        "value1": "65",
         "class1": "up",
         "label2": "sources",
         "value2": "16",
@@ -78,12 +78,12 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) closes March at <strong>MTD +0</strong> flat (+0.0/day)\u2014April 1 reset comes as <strong>90-day net holds +126</strong>. Tuesday's solo acquisition mirrors Monday's pattern, but March finishes underwater: final tally shows +21 new, \u221221 canceled across 31 days vs February's +58 net (+1.9/day). Recent deterioration sharpens: past 14 days post +12 net (22 new, 10 canceled, 0.9/day) vs prior two weeks' +30 net (41 new, 11 canceled, 2.1/day)\u2014acquisition velocity drops 46% while churn climbs 27%. Longer arc: 90-day +126 still tracks 88% ahead of YTD's +1.4/day baseline, but March's zero-net close marks first monthly stall since November 2025. April opens with vulnerability: if current 0.9/day pace persists, Q2 risks first quarterly decline since tracking began. Watch for Wednesday retention signals.",
+      "blurb": "<strong>Net +1 yesterday</strong> (2 new, 1 canceled) pushes <strong>MTD to +1</strong> (+1.0/day) as April opens on neutral footing\u2014<strong>90-day net holds +133</strong> despite March's zero-net stumble. Two-day April start matches March's opening rhythm (2 new/day), but churn risk persists: past 7 days post +14 net (26 new, 12 canceled) vs prior week's +24 (33 new, 9 canceled), marking 42% acquisition slowdown and 33% churn acceleration. Longer view: YTD +132 (+1.5/day) still outpaces MTD's +1.0 flat open, but March's first monthly zero since November 2025 flags momentum crack. Critical week ahead: if April 1-7 matches last week's +14 pace, quarter escapes March's stall; sub-+10 weekly net signals structural deceleration requiring intervention.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "0",
-      "net_ytd": "125",
-      "net_mtd_per_day": "0.0",
-      "net_ytd_per_day": "1.4"
+      "net_mtd": "1",
+      "net_ytd": "132",
+      "net_mtd_per_day": "1.0",
+      "net_ytd_per_day": "1.5"
     }
   }
 }
