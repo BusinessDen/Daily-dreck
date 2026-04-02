@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-02",
-  "fetched_at": "2026-04-02 13:18:46",
+  "fetched_at": "2026-04-02 14:58:26",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "9Things to do in Colorado this weekend: April 3-5",
+      "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/denver-weekend-april-events-guide/73-57f674fe-cb95-4d17-83f2-acb3bf0593c8",
+      "source": "9News",
+      "pub_date": "2026-04-02T14:41:50+00:00",
+      "age_hours": 0.2720331286111111,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
+    {
+      "title": "Police searching for suspect after sexual assault on RTD Light Rail",
+      "link": "https://kdvr.com/news/local/police-searching-for-suspect-after-sexual-assault-on-rtd-light-rail/",
+      "source": "Fox31",
+      "pub_date": "2026-04-02T14:36:17+00:00",
+      "age_hours": 0.36477061527777777,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Colorado drive in movie theater reopening for 50th year",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/88-drive-in-theater-movies-reopening/73-3fb9d804-b063-4629-b094-8102016328b8",
+      "source": "9News",
+      "pub_date": "2026-04-02T14:25:35+00:00",
+      "age_hours": 0.5428664691666667,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
+    {
+      "title": "Johnny Blue Skies & the Dark Clouds announces Denver arena concert",
+      "link": "https://www.9news.com/article/entertainment/music/colorado-music/johnny-blue-skies-dark-clouds-arena-tour/73-1672954c-b946-449b-9c8c-411ee551534d",
+      "source": "9News",
+      "pub_date": "2026-04-02T14:05:27+00:00",
+      "age_hours": 0.8784220333333334,
+      "breaking": true,
+      "time_ago": "52 min ago"
+    },
+    {
+      "title": "Colorado auto thefts drop 56% from 2021 levels",
+      "link": "https://www.9news.com/article/life/automotive/colorado-auto-thefts-drop/73-76642a69-92d2-4045-beac-9ef6e32b8975",
+      "source": "9News",
+      "pub_date": "2026-04-02T14:03:35+00:00",
+      "age_hours": 0.9095331483333333,
+      "breaking": true,
+      "time_ago": "54 min ago"
+    },
     {
       "title": "Tulip display at Denver Botanic Gardens absent until 2029",
       "link": "https://www.9news.com/article/life/style/colorado-guide/denver-botanic-gardens-tulips-blight-dead/73-340b28fc-17f6-445b-81b1-de18f7941c8a",
       "source": "9News",
       "pub_date": "2026-04-02T13:02:33+00:00",
-      "age_hours": 0.2660225044444444,
+      "age_hours": 1.9267553883333333,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver weather: More sunshine and mild Thursday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-sunshine-and-mild-thursday/",
       "source": "Fox31",
       "pub_date": "2026-04-02T11:49:29+00:00",
-      "age_hours": 1.4839524316666666,
+      "age_hours": 3.14477064,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver braces for wind and cooler temps as storm arrives Friday",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-02T11:44:32+00:00",
-      "age_hours": 1.5663003077777777,
+      "age_hours": 3.2270331780555557,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "This Colorado neighborhood is saving bees through sustainable development. Here\u2019s how.",
       "link": "https://coloradosun.com/2026/04/02/this-colorado-neighborhood-is-saving-bees-through-sustainable-development/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-02T10:23:00+00:00",
-      "age_hours": 2.925037947222222,
+      "age_hours": 4.585818166944445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado is set to launch its big recycling expansion. Small companies sue to say not so fast.",
       "link": "https://coloradosun.com/2026/04/02/lawsuit-colorado-recycling-expansion-small-businesses/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-02T10:08:00+00:00",
-      "age_hours": 3.1750379669444446,
+      "age_hours": 4.8358181799999995,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver\u2019s famous gems and mineral display goes underground until 2027",
       "link": "https://coloradosun.com/2026/04/02/denver-museum-nature-science-gems-minerals-hall-renovation/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-02T09:55:00+00:00",
-      "age_hours": 3.391704642777778,
+      "age_hours": 5.05248486,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Colorado Marijuana Recall for Concentrate, Vaporizers Reaches 53 Stores",
+      "link": "https://www.westword.com/news/colorado-weed-recall-vaporizers-concentrate-53-stores-40866160/",
+      "source": "Westword",
+      "pub_date": "2026-04-02T08:06:28-06:00",
+      "age_hours": 0.8619869722222222,
+      "breaking": true,
+      "time_ago": "51 min ago"
     },
     {
       "title": "Denver delays scooter contract again, council questions process and last-minute changes",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-delays-scooter-contract/73-67c6ae17-bb56-4395-9466-da62208410b6",
       "source": "9News",
       "pub_date": "2026-04-02T04:41:52+00:00",
-      "age_hours": 8.610744780555555,
+      "age_hours": 10.27147765111111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Adams County launches new effort to address Colorado's childcare crisis",
       "link": "https://www.denver7.com/news/local-news/adams-county-launches-new-effort-to-address-colorados-childcare-crisis",
       "source": "Denver7",
       "pub_date": "2026-04-02T04:12:02+00:00",
-      "age_hours": 9.108094606944444,
+      "age_hours": 10.768795698333332,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "How Denver\u2019s golf courses are handling mandatory watering restrictions",
       "link": "https://kdvr.com/news/local/how-denvers-golf-courses-are-handling-mandatory-watering-restrictions/",
       "source": "Fox31",
       "pub_date": "2026-04-02T03:16:28+00:00",
-      "age_hours": 10.03423023138889,
+      "age_hours": 11.695048430277778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver's real estate divide: Downtown office buildings struggle as Wash Park homes soar",
       "link": "https://kdvr.com/news/local/denvers-real-estate-divide-downtown-office-buildings-struggle-as-wash-park-homes-soar/",
       "source": "Fox31",
       "pub_date": "2026-04-02T03:03:30+00:00",
-      "age_hours": 10.250341304166666,
+      "age_hours": 11.911159515833333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "MSU Denver professor pauses class so students can watch historic liftoff",
       "link": "https://www.9news.com/article/news/local/msu-denver-professor-pauses-class-to-watch-artemis-ii/73-bb7b7418-69c9-4b1d-bc21-74406a601d73",
       "source": "9News",
       "pub_date": "2026-04-02T02:10:07+00:00",
-      "age_hours": 11.13991146611111,
+      "age_hours": 12.800644332500001,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "A 'Word of Thanks' from Next: Helping rebuild a Denver landmark",
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/word-of-thanks-next/73-c9bcc07a-7413-4074-88ad-f9fed07a1c72",
       "source": "9News",
       "pub_date": "2026-04-02T00:16:54+00:00",
-      "age_hours": 13.026855926944444,
+      "age_hours": 14.687588789444446,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Owner of Centennial office complex defaults on $133M loan",
       "link": "https://bizwest.com/2026/04/01/owner-of-centennial-office-complex-defaults-on-133m-loan/",
       "source": "BizWest",
       "pub_date": "2026-04-01T23:59:08+00:00",
-      "age_hours": 13.322379904166667,
+      "age_hours": 14.983170765555554,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "New veterinary clinic opening in Louisville",
       "link": "https://bizwest.com/2026/04/01/new-veterinary-clinic-opening-in-louisville/",
       "source": "BizWest",
       "pub_date": "2026-04-01T23:54:06+00:00",
-      "age_hours": 13.406268805833333,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Denver weather: Showers wrap up ahead of a sunny Thursday",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-showers-wrap-up-ahead-of-a-sunny-thursday/",
-      "source": "Fox31",
-      "pub_date": "2026-04-01T23:07:46+00:00",
-      "age_hours": 14.179230277222223,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Colorado business leaders are still negative about the future economy, though less so than last year",
-      "link": "https://coloradosun.com/2026/04/01/colorado-business-leaders-negative-future-economy/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-04-01T22:39:55+00:00",
-      "age_hours": 14.64309354388889,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Axon replaces Flock: Denver approves 50 new license plate cameras",
-      "link": "https://kdvr.com/news/local/axon-replaces-flock-denver-approves-50-new-license-plate-cameras/",
-      "source": "Fox31",
-      "pub_date": "2026-04-01T22:13:17+00:00",
-      "age_hours": 15.08728581611111,
+      "age_hours": 15.067059667777778,
       "breaking": false,
       "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Fire burns about 5 acres at Bluff Lake Nature Center",
-      "link": "https://www.9news.com/article/news/local/bluff-lake-nature-center-fire/73-6026e802-603f-4725-a215-8ddde43abc1d",
-      "source": "9News",
-      "pub_date": "2026-04-01T21:55:05+00:00",
-      "age_hours": 15.390467073333333,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Front Range cities oppose Democratic proposal to permit lot\u2011splitting as a path to affordable housing",
-      "link": "https://www.coloradopolitics.com/2026/04/01/front-range-cities-oppose-democratic-proposal-to-permit-lot-splitting-as-a-path-to-affordable-housing/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-01T21:49:59+00:00",
-      "age_hours": 15.475981601944445,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Thousands of tulips at Denver Botanic Gardens infected by fungus",
-      "link": "https://kdvr.com/news/local/thousands-of-tulips-at-denver-botanic-gardens-infected-by-fungus/",
-      "source": "Fox31",
-      "pub_date": "2026-04-01T20:47:39+00:00",
-      "age_hours": 16.51450806277778,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
     }
   ]
 }
