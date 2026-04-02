@@ -1,24 +1,42 @@
 {
   "fetched_date": "2026-04-02",
-  "fetched_at": "2026-04-02 09:00:23",
+  "fetched_at": "2026-04-02 10:09:28",
   "article_count": 20,
   "breaking_count": 4,
   "articles": [
+    {
+      "title": "Colorado is set to launch its big recycling expansion. Small companies sue to say not so fast.",
+      "link": "https://coloradosun.com/2026/04/02/lawsuit-colorado-recycling-expansion-small-businesses/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-02T10:08:00+00:00",
+      "age_hours": 0.019535136666666668,
+      "breaking": true,
+      "time_ago": "1 min ago"
+    },
+    {
+      "title": "Denver\u2019s famous gems and mineral display goes underground until 2027",
+      "link": "https://coloradosun.com/2026/04/02/denver-museum-nature-science-gems-minerals-hall-renovation/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-02T09:55:00+00:00",
+      "age_hours": 0.23620181861111111,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Sunshine and 70s return Thursday, ahead of our next storm",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-04-02T09:43:12+00:00",
+      "age_hours": 0.43296371333333333,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
     {
       "title": "Denver delays scooter contract again, council questions process and last-minute changes",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-delays-scooter-contract/73-67c6ae17-bb56-4395-9466-da62208410b6",
       "source": "9News",
       "pub_date": "2026-04-02T04:41:52+00:00",
-      "age_hours": 4.303791288888888,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Spring storm brings mountain snow and rain showers for Denver",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-04-02T03:30:55+00:00",
-      "age_hours": 5.486291301666667,
+      "age_hours": 5.45518595,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -27,160 +45,142 @@
       "link": "https://kdvr.com/news/local/how-denvers-golf-courses-are-handling-mandatory-watering-restrictions/",
       "source": "Fox31",
       "pub_date": "2026-04-02T03:16:28+00:00",
-      "age_hours": 5.7274458975,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.878802167222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver's real estate divide: Downtown office buildings struggle as Wash Park homes soar",
       "link": "https://kdvr.com/news/local/denvers-real-estate-divide-downtown-office-buildings-struggle-as-wash-park-homes-soar/",
       "source": "Fox31",
       "pub_date": "2026-04-02T03:03:30+00:00",
-      "age_hours": 5.943556987499999,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.094913235833333,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "MSU Denver professor pauses class so students can watch historic liftoff",
       "link": "https://www.9news.com/article/news/local/msu-denver-professor-pauses-class-to-watch-artemis-ii/73-bb7b7418-69c9-4b1d-bc21-74406a601d73",
       "source": "9News",
       "pub_date": "2026-04-02T02:10:07+00:00",
-      "age_hours": 6.832957980555555,
+      "age_hours": 7.984352631666666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "A 'Word of Thanks' from Next: Helping rebuild a Denver landmark",
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/word-of-thanks-next/73-c9bcc07a-7413-4074-88ad-f9fed07a1c72",
       "source": "9News",
       "pub_date": "2026-04-02T00:16:54+00:00",
-      "age_hours": 8.719902437777778,
+      "age_hours": 9.87129708888889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Owner of Centennial office complex defaults on $133M loan",
       "link": "https://bizwest.com/2026/04/01/owner-of-centennial-office-complex-defaults-on-133m-loan/",
       "source": "BizWest",
       "pub_date": "2026-04-01T23:59:08+00:00",
-      "age_hours": 9.014724339166667,
+      "age_hours": 10.166774655277779,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "New veterinary clinic opening in Louisville",
       "link": "https://bizwest.com/2026/04/01/new-veterinary-clinic-opening-in-louisville/",
       "source": "BizWest",
       "pub_date": "2026-04-01T23:54:06+00:00",
-      "age_hours": 9.098613241666666,
+      "age_hours": 10.250663557222223,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Week past: The week past in Aurora prep sports, 3.24-3.30.26",
       "link": "https://sentinelcolorado.com/sports/preps/week-past-the-week-past-in-aurora-prep-sports-3-24-3-30-26/",
       "source": "Sentinel",
       "pub_date": "2026-04-01T23:42:20+00:00",
-      "age_hours": 9.296630938333335,
+      "age_hours": 10.448070616944444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver weather: Showers wrap up ahead of a sunny Thursday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-showers-wrap-up-ahead-of-a-sunny-thursday/",
       "source": "Fox31",
       "pub_date": "2026-04-01T23:07:46+00:00",
-      "age_hours": 9.872445928888888,
+      "age_hours": 11.023802199722223,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado business leaders are still negative about the future economy, though less so than last year",
       "link": "https://coloradosun.com/2026/04/01/colorado-business-leaders-negative-future-economy/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-01T22:39:55+00:00",
-      "age_hours": 10.336049741111111,
+      "age_hours": 11.487590720555556,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Retail sales rise 0.6% in February, but impact of Iran war threatens to derail spending",
       "link": "https://sentinelcolorado.com/uncategorized/retail-sales-rise-0-6-in-february-but-impact-of-iran-war-threatens-to-derail-spending/",
       "source": "Sentinel",
       "pub_date": "2026-04-01T22:32:11+00:00",
-      "age_hours": 10.465797676944444,
+      "age_hours": 11.617237349444444,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Axon replaces Flock: Denver approves 50 new license plate cameras",
       "link": "https://kdvr.com/news/local/axon-replaces-flock-denver-approves-50-new-license-plate-cameras/",
       "source": "Fox31",
       "pub_date": "2026-04-01T22:13:17+00:00",
-      "age_hours": 10.780501472222221,
+      "age_hours": 11.931857743333333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Fire burns about 5 acres at Bluff Lake Nature Center",
       "link": "https://www.9news.com/article/news/local/bluff-lake-nature-center-fire/73-6026e802-603f-4725-a215-8ddde43abc1d",
       "source": "9News",
       "pub_date": "2026-04-01T21:55:05+00:00",
-      "age_hours": 11.083513569722221,
+      "age_hours": 12.23490822111111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Front Range cities oppose Democratic proposal to permit lot\u2011splitting as a path to affordable housing",
       "link": "https://www.coloradopolitics.com/2026/04/01/front-range-cities-oppose-democratic-proposal-to-permit-lot-splitting-as-a-path-to-affordable-housing/",
       "source": "CO Politics",
       "pub_date": "2026-04-01T21:49:59+00:00",
-      "age_hours": 11.169123492222223,
+      "age_hours": 12.320541141666666,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Thousands of tulips at Denver Botanic Gardens infected by fungus",
       "link": "https://kdvr.com/news/local/thousands-of-tulips-at-denver-botanic-gardens-infected-by-fungus/",
       "source": "Fox31",
       "pub_date": "2026-04-01T20:47:39+00:00",
-      "age_hours": 12.207723712777778,
+      "age_hours": 13.359079983333334,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Judge: Windsor can argue Catalyst hotel isn\u2019t permitted use",
       "link": "https://bizwest.com/2026/04/01/judge-windsor-can-argue-catalyst-hotel-isnt-permitted-use/",
       "source": "BizWest",
       "pub_date": "2026-04-01T20:29:26+00:00",
-      "age_hours": 12.509724357777777,
+      "age_hours": 13.661774672777778,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Wells: It\u2019s not the season, it\u2019s the rate",
       "link": "https://bizwest.com/2026/04/01/wells-its-not-the-season-its-the-rate/",
       "source": "BizWest",
       "pub_date": "2026-04-01T20:09:01+00:00",
-      "age_hours": 12.850002139722223,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Smaller Denver Cannabis Growers Closing, Freeing Up Warehouses",
-      "link": "https://www.bisnow.com/denver/news/cannabis/smaller-denver-cannabis-growers-closing-freeing-industrial-space-133954",
-      "source": "Bisnow",
-      "pub_date": "2026-04-01T19:14:32-04:00",
-      "age_hours": 9.75864353,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Luxury Multifamily Community in Denver Fetches $56M",
-      "link": "https://milehighcre.com/luxury-multifamily-community-in-denver-fetches-56m/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-04-01T18:07:55+00:00",
-      "age_hours": 14.869289482222221,
+      "age_hours": 14.002052454722222,
       "breaking": false,
       "time_ago": "14 hrs ago"
     }
