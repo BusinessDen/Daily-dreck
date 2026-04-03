@@ -1,41 +1,41 @@
 {
-  "generated_date": "2026-04-02",
-  "lead_headline": "Restaurant tracker logs 4 fresh leads (2 openings, 2 closures) as China BBQ debuts Westminster and Colfax and Cream expands to Pearl Street, while foreclosure filings drop 17% week-over-week",
+  "generated_date": "2026-04-03",
+  "lead_headline": "Restaurant tracker adds 5 verified leads\u2014Ephemeral Tap & Bottle expands to Jefferson Park, Le Macaron claims Denver Pavilions\u2014while foreclosures climb 6% to 82 weekly filings",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>4 new leads today</strong> (2 openings, 2 closures) lift inventory to <strong>79 active cases</strong> (39 openings, 40 closures)\u2014Wednesday's haul matches Tuesday's pace as April tracking begins. Fresh openings: <strong>China BBQ</strong> plants flag at 3041 W 92nd Ave Westminster (confidence 7, replaces Tasty Express in rotation-heavy address); <strong>Colfax and Cream</strong> flags Pearl Street expansion (confidence 8, third location since May 2024 Broadway launch). Union Station corridor now carries 9 active opening leads vs 8 closures, maintaining downtown's net-positive tilt as suburbs hemorrhage fast-casual flags (Dairy Queen Westminster, Fort Logan closures accumulate). April's opening two days post +6 net leads (+1.5/day) vs March's +0.7 daily average\u2014early signal of seasonal acceleration or database catch-up noise pending week's close.",
+      "blurb": "<strong>5 new leads today</strong> (3 openings, 2 closures) push active inventory to <strong>82 cases</strong> (41 openings, 41 closures)\u2014Thursday's batch marks week's strongest daily haul. Openings: <strong>Ephemeral Tap & Bottle</strong> plants second flag in Jefferson Park (confidence 9, owner Weston Scott's LoHi sibling already operational); <strong>Le Macaron French Pastries</strong> claims Denver Pavilions downtown (confidence 8, national franchise's first metro location post-fall '24 permitting); <strong>China BBQ</strong> recycles 3041 W 92nd Westminster slot (confidence 7, fourth tenant since Thousand Wok). Closures concentrate in Federal Boulevard corridor: <strong>7-Eleven</strong> at 5090 Federal shutters after 11-year run, property now listed for lease. April's opening three days: +9 net leads (+3.0/day) vs March's +0.7 daily average\u2014seasonal acceleration confirmed or database backlog clearing pending Friday's close.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+3",
         "label2": "closed",
         "value2": "\u22122",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "39",
+        "value1": "41",
         "label2": "closed",
-        "value2": "40",
+        "value2": "41",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>35 filings this week</strong> mark 17% decline from prior week's 42 with zero properties breaching $2M threshold\u2014top case caps at $686K Arapahoe County (24296 E Ohio Drive) as 105 auctions queue for next 7 days.",
+      "blurb": "<strong>82 filings this week</strong> climb 6% from prior week's 77 with zero properties breaching $2M threshold\u2014top case caps at $1.1M Douglas County (14247 Beebalm Loop) as 95 auctions queue for next 7 days.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "0",
-        "class1": "",
+        "value1": "82",
+        "class1": "up",
         "label2": "upcoming auctions",
-        "value2": "105",
+        "value2": "95",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "35",
-        "class1": "down",
+        "value1": "82",
+        "class1": "up",
         "label2": "sold",
         "value2": "33",
         "class2": "",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong>\u2014April 2 extends statewide filing blackout to <strong>33 consecutive days</strong>, eclipsing December 2024's 12-day record by 175%. Databaselag theory solidifies: no social chatter, no regulatory announcements, suggesting 50-70 application backlog awaiting system restoration. If Friday delivers third straight zero, escalate to Liquor Enforcement Division\u201412,316-case archive shows no precedent for month-long void during non-holiday periods.",
+      "blurb": "<strong>Zero applications today</strong>\u2014April 3 extends statewide filing blackout to <strong>34 consecutive days</strong>, now 183% beyond December 2024's 12-day record. Database-lag theory hardens: no social chatter, no regulatory announcements, suggesting 60-80 application backlog awaiting system restoration. If Monday delivers fourth straight zero, escalate to Liquor Enforcement Division\u201412,316-case archive shows no precedent for month-plus void during non-holiday periods.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,31 +59,31 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention yesterday</strong> caps March's exit at <strong>65 weekly citations</strong> (+23% vs prior week's 53)\u2014April 2 opens with Instagram self-promo post as sole pickup while Denver Post, Hoodline maintain week's dominance (13, 6 mentions respectively). Social platforms (Instagram, Facebook, x.com) command 49% weekly share vs traditional media's 29%, sustaining March's platform inversion. Rolling 30-day average settles at 56 mentions/week as April resets\u2014watch for quarterly pattern shift if business/CRE desk pickups cool post-Q1 earnings cycle.",
+      "blurb": "<strong>3 mentions today</strong> lift weekly total to <strong>64 citations</strong> (+10% vs prior week's 58)\u2014Thursday's haul includes Richmond BizSense CRE roundup pickup, Denver Post church-theater purchase coverage, Instagram A&W closure reshare. <strong>Instagram leads weekly sources</strong> (16 mentions) edging Denver Post (14), reversing Tuesday's traditional-media dominance as social platforms (Instagram, Facebook, X) command 47% weekly share. Rolling 30-day average climbs to 57 mentions/week as April's first three days match March's 3.2/day opening pace.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
-        "class1": "down",
+        "value1": "3",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "65",
+        "value1": "64",
         "class1": "up",
         "label2": "sources",
-        "value2": "16",
+        "value2": "18",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (2 new, 1 canceled) pushes <strong>MTD to +1</strong> (+1.0/day) as April opens on neutral footing\u2014<strong>90-day net holds +133</strong> despite March's zero-net stumble. Two-day April start matches March's opening rhythm (2 new/day), but churn risk persists: past 7 days post +14 net (26 new, 12 canceled) vs prior week's +24 (33 new, 9 canceled), marking 42% acquisition slowdown and 33% churn acceleration. Longer view: YTD +132 (+1.5/day) still outpaces MTD's +1.0 flat open, but March's first monthly zero since November 2025 flags momentum crack. Critical week ahead: if April 1-7 matches last week's +14 pace, quarter escapes March's stall; sub-+10 weekly net signals structural deceleration requiring intervention.",
+      "blurb": "<strong>Net \u22124 yesterday</strong> (1 new, 5 canceled) drags <strong>MTD to \u22123</strong> (\u22121.5/day) as April stumbles out the gate\u2014<strong>90-day net holds +129</strong> despite week's bruising. Three-day April start: +1 net (11 new, 10 canceled, 1.0 net/day) vs March's opening trio (+8 net, 2.7/day), signaling 63% acquisition slowdown. Churn accelerates: past 7 days post +6 net (21 new, 15 canceled, 71% retention) vs prior week's +24 (32 new, 8 canceled, 80% retention). Longer view: YTD +128 (+1.4/day) still cushions MTD's \u22121.5 stumble, but April needs +18 net by month-end to match Q1's pace\u2014current trajectory delivers \u221212 if trend persists.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "1",
-      "net_ytd": "132",
-      "net_mtd_per_day": "1.0",
-      "net_ytd_per_day": "1.5"
+      "net_mtd": "-3",
+      "net_ytd": "128",
+      "net_mtd_per_day": "-1.5",
+      "net_ytd_per_day": "1.4"
     }
   }
 }
