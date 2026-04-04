@@ -1,32 +1,32 @@
 {
-  "generated_date": "2026-04-03",
-  "lead_headline": "Restaurant tracker adds 5 verified leads\u2014Ephemeral Tap & Bottle expands to Jefferson Park, Le Macaron claims Denver Pavilions\u2014while foreclosures climb 6% to 82 weekly filings",
+  "generated_date": "2026-04-04",
+  "lead_headline": "Restaurant tracker flags 6 new leads\u2014Sifted DEN opens Montbello production kitchen, Dairy Queen-to-Blazing Bird swap confirmed\u2014as subscriber net rebounds to +2 after Thursday's 5-cancellation shedding",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 new leads today</strong> (3 openings, 2 closures) push active inventory to <strong>82 cases</strong> (41 openings, 41 closures)\u2014Thursday's batch marks week's strongest daily haul. Openings: <strong>Ephemeral Tap & Bottle</strong> plants second flag in Jefferson Park (confidence 9, owner Weston Scott's LoHi sibling already operational); <strong>Le Macaron French Pastries</strong> claims Denver Pavilions downtown (confidence 8, national franchise's first metro location post-fall '24 permitting); <strong>China BBQ</strong> recycles 3041 W 92nd Westminster slot (confidence 7, fourth tenant since Thousand Wok). Closures concentrate in Federal Boulevard corridor: <strong>7-Eleven</strong> at 5090 Federal shutters after 11-year run, property now listed for lease. April's opening three days: +9 net leads (+3.0/day) vs March's +0.7 daily average\u2014seasonal acceleration confirmed or database backlog clearing pending Friday's close.",
+      "blurb": "<strong>6 new leads today</strong> (3 openings, 3 closures) lift active inventory to <strong>85 cases</strong> (43 openings, 42 closures)\u2014Friday's batch closes week at 22 opening leads vs 8 closure leads. Openings: <strong>Sifted DEN kitchen</strong> launches Montbello production facility (confidence 8, corporate caterer's established since 2014); <strong>El Sotol Cocina Bar</strong> replaces Dos Patrias at 6801 Lowell Westminster (confidence 8, Mexican-Cuban fusion); recategorized legacy entries pad count. Closures: <strong>Dairy Queen at 7960 Sheridan</strong> definitively confirmed shuttered, replaced by Blazing Bird Nashville hot chicken (confidence 9, third DQ closure this week across Westminster-Littleton-Fort Logan). Week's pattern: opening leads cluster downtown/Union Station corridor (G-Que BBQ, C Burger, Ogo Sushi, Mendocino Farms) while closure leads concentrate chain/franchise casualties\u2014DQ trio, Einstein Bros, CPK Cherry Creek all multi-year tenants.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+3",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "\u22123",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "41",
+        "value1": "+43",
         "label2": "closed",
-        "value2": "41",
+        "value2": "\u221242",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>82 filings this week</strong> climb 6% from prior week's 77 with zero properties breaching $2M threshold\u2014top case caps at $1.1M Douglas County (14247 Beebalm Loop) as 95 auctions queue for next 7 days.",
+      "blurb": "<strong>48 filings this week</strong> surge 37% from prior week's 35 with zero $2M+ properties\u2014top case caps at $1.1M Douglas County (14247 Beebalm Loop) as 95 auctions queue next 7 days.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "82",
-        "class1": "up",
+        "value1": "0",
+        "class1": "",
         "label2": "upcoming auctions",
         "value2": "95",
         "class2": "",
@@ -34,16 +34,16 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "82",
+        "value1": "48",
         "class1": "up",
         "label2": "sold",
-        "value2": "33",
+        "value2": "32",
         "class2": "",
         "period": "7-day"
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong>\u2014April 3 extends statewide filing blackout to <strong>34 consecutive days</strong>, now 183% beyond December 2024's 12-day record. Database-lag theory hardens: no social chatter, no regulatory announcements, suggesting 60-80 application backlog awaiting system restoration. If Monday delivers fourth straight zero, escalate to Liquor Enforcement Division\u201412,316-case archive shows no precedent for month-plus void during non-holiday periods.",
+      "blurb": "<strong>Zero applications today</strong>\u2014April 4 extends statewide filing blackout to <strong>35 consecutive days</strong>, now 192% beyond December 2024's 12-day record. Database-lag theory calcifies: no social chatter, no regulatory announcements, suggesting 70-90 application backlog awaiting system restoration. Monday's reading will mark fifth straight zero\u2014if confirmed, escalation to Liquor Enforcement Division mandatory as 12,326-case archive shows no precedent for 5-week void during non-holiday periods. Alternative hypothesis: regulatory freeze pending legislative action, though no bills surfaced in statehouse tracking.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,31 +59,31 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>3 mentions today</strong> lift weekly total to <strong>64 citations</strong> (+10% vs prior week's 58)\u2014Thursday's haul includes Richmond BizSense CRE roundup pickup, Denver Post church-theater purchase coverage, Instagram A&W closure reshare. <strong>Instagram leads weekly sources</strong> (16 mentions) edging Denver Post (14), reversing Tuesday's traditional-media dominance as social platforms (Instagram, Facebook, X) command 47% weekly share. Rolling 30-day average climbs to 57 mentions/week as April's first three days match March's 3.2/day opening pace.",
+      "blurb": "<strong>8 mentions yesterday</strong> push weekly total to <strong>59 citations</strong> (+4% vs prior week's 57)\u2014Friday's haul spans Instagram Larimer Square reshare, Denver Post OpenSnow ski-tech feature, Facebook Continental Theater historical thread. <strong>Instagram dominates weekly sources</strong> (17 mentions) edging Denver Post (13) and Facebook (10), maintaining social platform command at 49% weekly share (Instagram/Facebook/X combined). Week's spread: 16 unique sources vs prior week's 14, suggesting broader pickup. Rolling 30-day average steadies at 55 mentions/week as April's first four days track 3.7/day vs March's 3.2 opening pace\u2014seasonal uptick or noise pending next week's confirmation.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
-        "class1": "",
+        "value1": "8",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "64",
+        "value1": "59",
         "class1": "up",
         "label2": "sources",
-        "value2": "18",
-        "class2": "",
+        "value2": "16",
+        "class2": "up",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22124 yesterday</strong> (1 new, 5 canceled) drags <strong>MTD to \u22123</strong> (\u22121.5/day) as April stumbles out the gate\u2014<strong>90-day net holds +129</strong> despite week's bruising. Three-day April start: +1 net (11 new, 10 canceled, 1.0 net/day) vs March's opening trio (+8 net, 2.7/day), signaling 63% acquisition slowdown. Churn accelerates: past 7 days post +6 net (21 new, 15 canceled, 71% retention) vs prior week's +24 (32 new, 8 canceled, 80% retention). Longer view: YTD +128 (+1.4/day) still cushions MTD's \u22121.5 stumble, but April needs +18 net by month-end to match Q1's pace\u2014current trajectory delivers \u221212 if trend persists.",
+      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) bounces back from Thursday's 5-cancel bloodbath\u2014<strong>MTD ticks to \u22121</strong> (\u22120.3/day) as <strong>90-day net holds +136</strong>. Four-day April start: +3 net (13 new, 10 canceled, 0.8 net/day) vs March's opening quartet (+12 net, 3.0/day), confirming 73% acquisition slowdown. Past 7 days post +5 net (19 new, 14 canceled, 58% retention) vs prior week's +22 (29 new, 7 canceled, 81% retention)\u2014churn spike persists as Friday's zero-cancel relief suggests stabilization pending. Longer view: YTD +130 (+1.4/day) still cushions MTD's stumble, but April needs +31 net by month-end to match Q1's 1.4/day pace\u2014current 0.8/day trajectory delivers +20 if sustained, creating 11-subscriber Q1-to-Q2 deceleration gap.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-3",
-      "net_ytd": "128",
-      "net_mtd_per_day": "-1.5",
-      "net_ytd_per_day": "1.4"
+      "net_mtd": -1,
+      "net_ytd": 130,
+      "net_mtd_per_day": -0.3,
+      "net_ytd_per_day": 1.4
     }
   }
 }
