@@ -1,42 +1,42 @@
 {
   "fetched_date": "2026-04-04",
-  "fetched_at": "2026-04-04 18:46:14",
+  "fetched_at": "2026-04-04 19:32:33",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 6,
   "articles": [
     {
       "title": "1 dead after overnight multi-vehicle crash on Interstate 25 at East 58th Avenue",
       "link": "https://kdvr.com/news/local/1-dead-after-overnight-multi-vehicle-crash-on-interstate-25-at-east-58th-avenue/",
       "source": "Fox31",
       "pub_date": "2026-04-04T18:40:40+00:00",
-      "age_hours": 0.08751271527777778,
+      "age_hours": 0.8599667011111111,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "51 min ago"
     },
     {
       "title": "Human Bean to benefit Joy & Justice",
       "link": "https://bizwest.com/2026/04/04/human-bean-to-benefit-joy-justice/",
       "source": "BizWest",
       "pub_date": "2026-04-04T17:05:26+00:00",
-      "age_hours": 1.6740958088888889,
+      "age_hours": 2.4459049255555554,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Pearl Promise plans fundraiser",
       "link": "https://bizwest.com/2026/04/04/pearl-promise-plans-fundraiser/",
       "source": "BizWest",
       "pub_date": "2026-04-04T16:47:05+00:00",
-      "age_hours": 1.9799291516666666,
+      "age_hours": 2.7517382702777775,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Credit Union of Colorado Foundation awards grants",
       "link": "https://bizwest.com/2026/04/04/credit-union-of-colorado-foundation-awards-grants/",
       "source": "BizWest",
       "pub_date": "2026-04-04T16:37:40+00:00",
-      "age_hours": 2.1368736005555555,
+      "age_hours": 2.908682718888889,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -45,16 +45,16 @@
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-04T16:04:06+00:00",
-      "age_hours": 2.6968176480555557,
+      "age_hours": 3.469147398611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "1 killed, 2 injured in crash on northbound I-25 in Denver",
       "link": "https://www.9news.com/article/traffic/northbound-i-25-closed-denver-crash/73-470e8020-1a43-456c-9982-b2d65e796c01",
       "source": "9News",
       "pub_date": "2026-04-04T14:39:39+00:00",
-      "age_hours": 4.1043176575,
+      "age_hours": 4.87664741,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -63,34 +63,34 @@
       "link": "https://www.westword.com/food-drink/6-denver-restaurants-closed-this-week-including-some-longtime-staples-40866840/",
       "source": "Westword",
       "pub_date": "2026-04-04T07:00:00-06:00",
-      "age_hours": 5.765376586944445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.537960071111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Beverage distributor to lay off 526 workers, including 139 in Loveland",
       "link": "https://bizwest.com/2026/04/03/beverage-distributor-to-lay-off-526-workers-including-139-in-loveland/",
       "source": "BizWest",
       "pub_date": "2026-04-03T23:09:18+00:00",
-      "age_hours": 19.609651381666666,
+      "age_hours": 20.381460499722223,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Federal lawsuit to proceed against DPS in connection with East High School shooting",
       "link": "https://kdvr.com/news/local/federal-lawsuit-to-proceed-against-dps-in-connection-with-east-high-school-shooting/",
       "source": "Fox31",
       "pub_date": "2026-04-03T22:58:56+00:00",
-      "age_hours": 19.78306830888889,
+      "age_hours": 20.55552229083333,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Denver weather: Great weather for Easter weekend",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-great-weather-for-easter-weekend/",
       "source": "Fox31",
       "pub_date": "2026-04-03T21:41:13+00:00",
-      "age_hours": 21.078346056388888,
+      "age_hours": 21.850800046666667,
       "breaking": false,
       "time_ago": "21 hrs ago"
     },
@@ -99,52 +99,52 @@
       "link": "https://www.9news.com/article/news/crime/i-70-closed-deadly-hit-and-run/73-5d99ff70-f53c-4dca-b42e-99ae53de3898",
       "source": "9News",
       "pub_date": "2026-04-03T20:57:44+00:00",
-      "age_hours": 21.802928849444445,
+      "age_hours": 22.575258609722223,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Economist Yun to talk housing at NoCo Real Estate Summit",
       "link": "https://bizwest.com/2026/04/03/economist-yun-to-talk-housing-at-noco-real-estate-summit/",
       "source": "BizWest",
       "pub_date": "2026-04-03T19:30:43+00:00",
-      "age_hours": 23.25270694055556,
+      "age_hours": 24.024516058611113,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Foreclosure notice filed on Broomfield Walgreens property",
       "link": "https://bizwest.com/2026/04/03/foreclosure-notice-filed-on-broomfield-walgreens-property/",
       "source": "BizWest",
       "pub_date": "2026-04-03T19:28:14+00:00",
-      "age_hours": 23.294095832777778,
+      "age_hours": 24.065904950833335,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Trimble acquires construction risk-management firm",
       "link": "https://bizwest.com/2026/04/03/trimble-acquires-construction-risk-management-firm/",
       "source": "BizWest",
       "pub_date": "2026-04-03T18:59:11+00:00",
-      "age_hours": 23.778262502222223,
+      "age_hours": 24.55007162,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Trump budget seeks $1.5T in defense spending alongside cuts in domestic programs",
       "link": "https://www.coloradopolitics.com/2026/04/03/trump-budget-seeks-1-5t-in-defense-spending-alongside-cuts-in-domestic-programs/",
       "source": "CO Politics",
       "pub_date": "2026-04-03T18:52:16+00:00",
-      "age_hours": 23.89449044166667,
+      "age_hours": 24.66708961777778,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Louisville\u2019s Peak Asset Management acquires New West Investment Management",
       "link": "https://bizwest.com/2026/04/03/louisvilles-peak-asset-management-acquires-new-west-investment-management/",
       "source": "BizWest",
       "pub_date": "2026-04-03T18:35:19+00:00",
-      "age_hours": 24.176040282777777,
+      "age_hours": 24.94784940027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/04/03/digitalocean-acquires-ai-research-company-katanemo-labs/",
       "source": "BizWest",
       "pub_date": "2026-04-03T18:31:11+00:00",
-      "age_hours": 24.244929174166664,
+      "age_hours": 25.016738291666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://bizwest.com/2026/04/03/techstars-opens-accelerator-pipeline-for-cu-entrepreneurs/",
       "source": "BizWest",
       "pub_date": "2026-04-03T18:27:53+00:00",
-      "age_hours": 24.299929176944445,
+      "age_hours": 25.071738309444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://kdvr.com/denver-guide/new-country-music-venue-opening-in-downtown-denver/",
       "source": "Fox31",
       "pub_date": "2026-04-03T11:56:21+00:00",
-      "age_hours": 30.82612388333333,
+      "age_hours": 31.598577860555558,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.denver7.com/money/consumer/high-diesel-prices-squeeze-truckers-and-threaten-food-costs-in-colorado",
       "source": "Denver7",
       "pub_date": "2026-04-03T11:19:48+00:00",
-      "age_hours": 31.43527619083333,
+      "age_hours": 32.20763116111111,
       "breaking": false,
       "time_ago": "1 day ago"
     }
