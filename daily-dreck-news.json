@@ -1,159 +1,141 @@
 {
   "fetched_date": "2026-04-06",
-  "fetched_at": "2026-04-06 11:55:47",
+  "fetched_at": "2026-04-06 13:15:53",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Barron named UCAR interim president",
+      "link": "https://bizwest.com/2026/04/06/barron-named-ucar-interim-president/",
+      "source": "BizWest",
+      "pub_date": "2026-04-06T12:46:13+00:00",
+      "age_hours": 0.4884598697222222,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
+    {
+      "title": "Gas prices in Denver drop more than 10 cents, but experts warn of more increases",
+      "link": "https://kdvr.com/news/local/gas-prices-in-denver-drop-more-than-10-cents-but-experts-warn-of-more-increases/",
+      "source": "Fox31",
+      "pub_date": "2026-04-06T12:33:28+00:00",
+      "age_hours": 0.7022382438888889,
+      "breaking": true,
+      "time_ago": "42 min ago"
+    },
+    {
+      "title": "Denver weather: Sunny and dry day ahead",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-dry-day-ahead/",
+      "source": "Fox31",
+      "pub_date": "2026-04-06T12:16:43+00:00",
+      "age_hours": 0.9814049302777778,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
     {
       "title": "Warm week ahead with slight chance of Tuesday showers",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-06T11:50:06+00:00",
-      "age_hours": 0.09027838416666667,
+      "age_hours": 1.424741213611111,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Nuggets take on Trail Blazers after Jokic's 40-point thriller",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-trail-blazers-monday-april-6/73-f6275e70-08d0-4143-97b1-bf4792961012",
       "source": "9News",
       "pub_date": "2026-04-06T10:35:29+00:00",
-      "age_hours": 1.3338895116666665,
+      "age_hours": 2.668352337777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Most Colorado cities could lose access to affordable housing funding next year. Lawmakers are racing to fix it.",
       "link": "https://coloradosun.com/2026/04/06/colorado-cities-could-be-barred-from-proposition-123-affordable-housing-funding/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-06T10:00:00+00:00",
-      "age_hours": 1.9252342000000002,
+      "age_hours": 3.259563964722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Police investigate deadly shooting Sunday morning",
       "link": "https://www.9news.com/article/news/crime/denver-broadway-maple-deadly-shooting/73-e552a612-8468-4790-88c9-2beac5b8418c",
       "source": "9News",
       "pub_date": "2026-04-06T04:21:23+00:00",
-      "age_hours": 7.5688895333333335,
+      "age_hours": 8.90335236,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "2 injured in north Denver shooting",
       "link": "https://www.9news.com/article/news/crime/north-denver-shooting/73-6edbe9fc-d15c-4b60-b266-ce5102c85177",
       "source": "9News",
       "pub_date": "2026-04-06T04:20:37+00:00",
-      "age_hours": 7.581667314722222,
+      "age_hours": 8.916130146666667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado business sees increase in rain barrel interest amid drought",
       "link": "https://www.9news.com/article/news/local/colorado-spike-in-rain-barrel-interest/73-f50fca1e-fada-4e7d-9b17-dbdaab1684f6",
       "source": "9News",
       "pub_date": "2026-04-06T04:19:36+00:00",
-      "age_hours": 7.5986117625,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Revised pact clarifies Aurora police response to local ICE jail emergencies",
-      "link": "https://sentinelcolorado.com/metro/revised-pact-clarifies-aurora-police-response-to-local-ice-jail-emergencies/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-06T03:05:11+00:00",
-      "age_hours": 8.839567996388888,
+      "age_hours": 8.933074595277779,
       "breaking": false,
       "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Aurora seeks approval for $4.87M sidewalk improvement project",
-      "link": "https://sentinelcolorado.com/metro/aurora-seeks-approval-for-4-87m-sidewalk-improvement-project/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-06T02:37:53+00:00",
-      "age_hours": 9.294568006666665,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Denver weather: Rain ahead after dry, mild start to the week",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-dry-and-mild-start-to-the-workweek/",
-      "source": "Fox31",
-      "pub_date": "2026-04-05T23:30:46+00:00",
-      "age_hours": 12.4128045575,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
     },
     {
       "title": "Average gas prices in Colorado hit $3.82, squeezing Denver small businesses",
       "link": "https://kdvr.com/news/local/average-gas-prices-in-colorado-hit-3-82-squeezing-denver-small-businesses/",
       "source": "Fox31",
       "pub_date": "2026-04-05T22:37:37+00:00",
-      "age_hours": 13.298637918333334,
+      "age_hours": 14.633071606388889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver police investigating crash involving 2 motorists",
       "link": "https://kdvr.com/news/local/denver-police-investigating-crash-involving-2-motorists/",
       "source": "Fox31",
       "pub_date": "2026-04-05T22:31:49+00:00",
-      "age_hours": 13.3953045775,
+      "age_hours": 14.729738266944443,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver Summit FC Continue Point Streak",
       "link": "https://kdvr.com/sports/denver-summit-fc/denver-summit-fc-continue-point-streak/",
       "source": "Fox31",
       "pub_date": "2026-04-05T18:16:25+00:00",
-      "age_hours": 17.651971284166667,
+      "age_hours": 18.986404968333332,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Residents smell, see smoke from fire southwest of Roxborough on Easter",
       "link": "https://kdvr.com/news/local/residents-smell-see-smoke-from-fire-southwest-of-roxborough-on-easter/",
       "source": "Fox31",
       "pub_date": "2026-04-05T16:34:27+00:00",
-      "age_hours": 19.35141569972222,
+      "age_hours": 20.68584938722222,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Boulder County communities position for Sundance success",
       "link": "https://bizwest.com/2026/04/05/boulder-county-communities-position-for-sundance-success/",
       "source": "BizWest",
       "pub_date": "2026-04-05T16:20:02+00:00",
-      "age_hours": 19.590881805833334,
+      "age_hours": 20.924848769166665,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "JBS union members to return to job Tuesday",
       "link": "https://bizwest.com/2026/04/04/jbs-union-members-to-return-to-job-tuesday/",
       "source": "BizWest",
       "pub_date": "2026-04-05T00:21:32+00:00",
-      "age_hours": 35.56588181888889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Lawsuit filed over $19 million sea lion habitat renovation at Denver Zoo",
-      "link": "https://www.9news.com/article/life/animals/denver-zoo-lawsuit-sea-lion-habitat-renovation/73-9d6ff80e-6388-4269-a8fc-22fb5a4a2f78",
-      "source": "9News",
-      "pub_date": "2026-04-04T23:15:09+00:00",
-      "age_hours": 36.67277850055555,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver businesses celebrate Rockies' home opener weekend",
-      "link": "https://kdvr.com/news/local/denver-businesses-celebrate-rockies-home-opener-weekend/",
-      "source": "Fox31",
-      "pub_date": "2026-04-04T23:12:36+00:00",
-      "age_hours": 36.71558242388888,
+      "age_hours": 36.89984877333334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +144,7 @@
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-warm-easter-rain-chances-next-week/",
       "source": "Fox31",
       "pub_date": "2026-04-04T22:45:07+00:00",
-      "age_hours": 37.173637965,
+      "age_hours": 38.50807163861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +153,7 @@
       "link": "https://kdvr.com/news/local/1-dead-after-overnight-multi-vehicle-crash-on-interstate-25-at-east-58th-avenue/",
       "source": "Fox31",
       "pub_date": "2026-04-04T18:40:40+00:00",
-      "age_hours": 41.24780464138889,
+      "age_hours": 42.582238313055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +162,25 @@
       "link": "https://bizwest.com/2026/04/04/human-bean-to-benefit-joy-justice/",
       "source": "BizWest",
       "pub_date": "2026-04-04T17:05:26+00:00",
-      "age_hours": 42.83421515777778,
+      "age_hours": 44.168182109722224,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Pearl Promise plans fundraiser",
+      "link": "https://bizwest.com/2026/04/04/pearl-promise-plans-fundraiser/",
+      "source": "BizWest",
+      "pub_date": "2026-04-04T16:47:05+00:00",
+      "age_hours": 44.47401544583333,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Credit Union of Colorado Foundation awards grants",
+      "link": "https://bizwest.com/2026/04/04/credit-union-of-colorado-foundation-awards-grants/",
+      "source": "BizWest",
+      "pub_date": "2026-04-04T16:37:40+00:00",
+      "age_hours": 44.63095989305556,
       "breaking": false,
       "time_ago": "1 day ago"
     }
