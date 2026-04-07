@@ -1,27 +1,27 @@
 {
-  "generated_date": "2026-04-06",
-  "lead_headline": "Weekend restaurant tracker adds 9 leads (5 openings, 4 closures) including Vaultaire's subterranean HiFi bar debut beneath La For\u00eat and FiNO's Med tapas at renovated All Inn\u2014liquor freeze hits day 37",
+  "generated_date": "2026-04-07",
+  "lead_headline": "Restaurant tracker logs 3 new leads today\u2014High Point Creamery joins McGregor Square food hall, Ariel's Cafe opens in Montbello FreshLo Hub\u2014while foreclosure filings jump 37% week-over-week to 48",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>9 new leads since Friday</strong> (5 openings, 4 closures) push active inventory to <strong>88 cases</strong>\u2014weekend highlights include <strong>Vaultaire</strong> launching Saturday as subterranean HiFi listening bar beneath La For\u00eat on Broadway (vintage spirits, analog sound, confidence 10), <strong>FiNO</strong> opening Mediterranean coastal tapas Friday inside renovated All Inn Hotel at Colfax/City Park (soft launch confidence 10), <strong>Paperboy Denver</strong> bringing Austin brunch brand's first Texas exit to West Highland (confidence 10). Closures: <strong>Super Mega Bien</strong> shuttered March 14 after 8-year RiNo run citing financial pressures despite 4.6-star reviews (confidence 10), <strong>Chances Grill Denver</strong> closed at Market Street nightclub/Caribbean spot (confidence 9). Weekend also tagged <strong>Wash Park Social</strong> opening at former Grille site, <strong>Roll It Up Sushi</strong> claiming Edgewater Public Market stall, plus backfill reclassifications for Riot House nightclub and Bar Amorina cocktail bar. Three-day window favors upscale concepts (HiFi bars, coastal Med) over casual closures, extending Union Station corridor dominance from prior week.",
+      "blurb": "<strong>3 new leads today</strong> (2 openings, 1 closure) bring <strong>active inventory to 91</strong> (47 openings, 44 closures)\u2014Monday additions include <strong>High Point Creamery</strong> debuting at McGregor Square Food & Drink's Union Station food hall (confidence 8), <strong>Ariel's Cafe</strong> launching Black woman-owned coffee shop in Montbello's FreshLo Hub after February soft open (confidence 9). Closure: <strong>Los Dos Amigos Tacos and Tortas</strong> food truck vanished from Englewood's South Broadway (confidence 8). Today's 3-lead haul trails weekend's 9-case surge but extends April's opening bias\u2014week's 91 active cases split 52% openings versus 48% closures, reversing March's closure-heavy 56/44 tilt. McGregor Square placement marks fourth Union Station corridor opening in 10 days (C Burger, Ogo Korean BBQ, Mendocino Farms, High Point) as downtown food hall density accelerates.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+5",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "\u22124",
-        "period": "since Friday"
+        "value2": "\u22121",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "45",
+        "value1": "47",
         "label2": "closed",
-        "value2": "43",
+        "value2": "44",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>48 filings this week</strong> climb 37% from last week's 35, with Douglas County's $1.1M Beebalm Loop property leading the roster\u2014no $2M+ cases as 92 auctions line up next seven days.",
+      "blurb": "<strong>48 filings this week</strong> surge 37% from last week's 35-case baseline, with Douglas County's $1.1M Beebalm Loop estate topping the roster as zero $2M+ properties enter the pipeline\u201492 auctions queue for next seven days while $15.2M total filing value trails last week's $18M+ haul.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong> extend statewide filing void to <strong>37 consecutive days</strong>\u2014Monday marks seventh straight zero-filing day as April's opening week posts 0/7 goose egg, now 208% beyond December 2024's 12-day record and obliterating all database precedent. No regulatory announcements, no social chatter, no legislative freeze evidence\u2014backlog estimate climbs to 75-100 applications as system paralysis enters sixth week with zero official acknowledgment across Liquor Enforcement Division channels or statehouse tracking.",
+      "blurb": "<strong>Zero applications today</strong> push statewide filing freeze to <strong>38 consecutive days</strong>\u2014Monday marks eighth straight zero-filing session as April's opening week posts 0/8 shutout, now 217% beyond December 2024's 12-day record drought. No Liquor Enforcement Division bulletins, no legislative freeze signals, no industry association alerts\u2014system paralysis enters sixth week with backlog estimate climbing to 80-110 applications. Database shows 13,732 historical entries but zero March 1\u2013April 7 activity across all Colorado counties, all license types (retail, tavern, hotel/restaurant, brew pub, distillery), all application categories (new, renewal, transfer, modification). Void obliterates all seasonal precedent including January-February's typical 15-20 weekly baseline.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,31 +59,31 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> closes weekend at <strong>59 citations</strong> (+7% vs prior week's 55) across <strong>16 sources</strong>\u2014week's haul led by <strong>Instagram</strong> (15 mentions), Denver Post (13), Facebook (11), with social platforms commanding 46% share. Recent pickups include Facebook homelessness housing thread, Instagram Cherry Creek fashion coverage, tatianawidmann.de parking policy analysis. Source diversity holds flat at 16 vs prior week while mention volume ticks up modestly, extending March-to-April acceleration (59 vs 54/week average) though still trailing February's 4.1/day peak.",
+      "blurb": "<strong>7 mentions yesterday</strong> lift week's tally to <strong>53 citations</strong> (\u221212% vs prior week's 60) across <strong>15 sources</strong>\u2014this week's leaders: <strong>Denver Post</strong> (13 mentions), Instagram (11), Facebook (10), with traditional/social split holding 70/30. Notable Monday pickups include Denver Post's bank fraud lawsuit coverage, Instagram Cherry Creek luxury living feature, Facebook business boom commentary. Source count dips one outlet from last week's 16 while daily mention rate slides to 7.6/day from 8.6/day prior period, snapping March's upward trajectory and returning to February baseline despite maintained source diversity.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "7",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "59",
-        "class1": "up",
+        "value1": "53",
+        "class1": "down",
         "label2": "sources",
-        "value2": "16",
+        "value2": "15",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +2 since Friday</strong> (2 new, 0 canceled) nudges <strong>MTD to \u22121</strong> (\u22120.2/day) while <strong>90-day net holds +136</strong>. Weekend's zero-churn bump follows Thursday-Friday flatline\u2014past week delivers +4 net (18 new, 14 canceled) vs prior week's +20 (34 new, 14 canceled), marking 80% acquisition slowdown. Six-day April start posts +1 net (13 new, 10 canceled, 0.2/day) versus March's opening sextet (+22 net, 3.7/day), confirming 95% deceleration. YTD +130 (+1.4/day) cushions monthly stumble, but current 0.2/day April pace projects +5 month-end net\u2014needs 26-subscriber acceleration to match Q1's +1.4/day average, signaling seasonal headwinds or conversion friction requiring intervention.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (2 new, 3 canceled) drags <strong>MTD to \u22121</strong> (\u22120.14/day through 7 days) while <strong>90-day net holds +137</strong>. Monday's churn mirrors Sunday's pattern\u2014past week delivers +6 net (16 new, 10 canceled) versus prior week's +22 (35 new, 13 canceled), marking 73% net slowdown despite comparable cancellation rates (10 vs 13). Seven-day April start posts \u22121 net (15 new, 16 canceled, \u22120.14/day) versus March's opening week (+29 net, +4.1/day), confirming 103% reversal. Last 14 days split cleanly: March 24-31 roared +22 net (30 new, 8 canceled, +2.8/day), April 1-7 stumbled \u221216 net (15 new, 31 canceled, \u22122.3/day)\u2014acquisition cratered 50% while cancellations quadrupled, flipping +2.8/day March momentum to \u22122.3/day April drag. YTD +130 (+1.4/day) cushions monthly hemorrhage but current pace projects \u22124 April finish, requiring immediate 34-subscriber turnaround to restore Q1 trajectory.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": -1,
-      "net_ytd": 130,
-      "net_mtd_per_day": -0.2,
-      "net_ytd_per_day": 1.4
+      "net_mtd": "-1",
+      "net_ytd": "130",
+      "net_mtd_per_day": "-0.14",
+      "net_ytd_per_day": "1.4"
     }
   }
 }

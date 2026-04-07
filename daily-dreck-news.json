@@ -1,96 +1,141 @@
 {
   "fetched_date": "2026-04-07",
-  "fetched_at": "2026-04-07 10:58:01",
+  "fetched_at": "2026-04-07 11:58:26",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Express lane is open on Interstate 25 from Berthoud to Fort Collins",
+      "link": "https://www.denver7.com/news/local-news/express-lane-is-open-on-interstate-25-from-berthoud-to-fort-collins",
+      "source": "Denver7",
+      "pub_date": "2026-04-07T11:51:55+00:00",
+      "age_hours": 0.10383304138888888,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
+    {
+      "title": "Gafners to open restaurant on Estes golf course May 1",
+      "link": "https://bizwest.com/2026/04/07/gafners-to-open-restaurant-on-estes-golf-course-may-1/",
+      "source": "BizWest",
+      "pub_date": "2026-04-07T11:49:41+00:00",
+      "age_hours": 0.14020695611111111,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "19-year-old arrested after deadly shooting over alleged money dispute: Police",
+      "link": "https://kdvr.com/news/local/19-year-old-arrested-after-deadly-shooting-over-alleged-money-dispute-police/",
+      "source": "Fox31",
+      "pub_date": "2026-04-07T11:47:21+00:00",
+      "age_hours": 0.1800499836111111,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "Here's the Fiddler's Green concert lineup this summer",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/fiddlers-green-concert-lineup-summer-2026/73-b5102305-ee6a-4dbd-8732-48d84d5ee8dd",
+      "source": "9News",
+      "pub_date": "2026-04-07T11:37:31+00:00",
+      "age_hours": 0.34369568944444445,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Denver weather: Partly sunny with spotty sprinkles",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-partly-sunny-with-spotty-sprinkles/",
+      "source": "Fox31",
+      "pub_date": "2026-04-07T11:28:32+00:00",
+      "age_hours": 0.49366108527777774,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
+    {
+      "title": "Longmont industrial property faces $58M foreclosure",
+      "link": "https://bizwest.com/2026/04/07/longmont-industrial-property-faces-58m-foreclosure/",
+      "source": "BizWest",
+      "pub_date": "2026-04-07T11:25:40+00:00",
+      "age_hours": 0.5404847447222222,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
+    {
+      "title": "Gausch named CEO at Weld Food Bank",
+      "link": "https://bizwest.com/2026/04/07/gausch-named-ceo-at-weld-food-bank/",
+      "source": "BizWest",
+      "pub_date": "2026-04-07T11:19:36+00:00",
+      "age_hours": 0.64159586,
+      "breaking": true,
+      "time_ago": "38 min ago"
+    },
     {
       "title": "Warm weather and showers expected mid-week in Denver area",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-07T10:49:20+00:00",
-      "age_hours": 0.1401565586111111,
+      "age_hours": 1.1467512638888888,
       "breaking": true,
-      "time_ago": "8 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Jokic's 35 points, 13 rebounds, 13 assists help the Nuggets get past the Trail Blazers",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/jokics-35-points-13-rebounds-13-assists-help-the-nuggets-get-past-the-trail-blazers-137-132-in-ot/616-badfb004-e0ef-4772-959c-5396c2f67b4b",
       "source": "9News",
       "pub_date": "2026-04-07T09:59:13+00:00",
-      "age_hours": 0.9754343480555556,
+      "age_hours": 1.982029048888889,
       "breaking": true,
-      "time_ago": "58 min ago"
-    },
-    {
-      "title": "Aurora prep sports scoreboard, 4.6.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-4-6-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-07T05:20:55+00:00",
-      "age_hours": 5.614403978888888,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Water restrictions take effect now in Aurora as drought conditions worsen",
-      "link": "https://sentinelcolorado.com/metro/water-restrictions-take-effect-now-in-aurora-as-drought-conditions-worsen/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-07T04:14:21+00:00",
-      "age_hours": 6.723848431944444,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Boulder dance studio owner indicted on fraud, accused of staging break-in for insurance payout",
       "link": "https://kdvr.com/news/local/boulder-dance-studio-owner-indicted-on-fraud-accused-of-staging-break-in-for-insurance-payout/",
       "source": "Fox31",
       "pub_date": "2026-04-07T03:30:07+00:00",
-      "age_hours": 7.460761078333334,
+      "age_hours": 8.46727221611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Whataburger submits plans for Castle Rock location, marking return to Denver Metro",
+      "link": "https://www.denver7.com/news/local-news/whataburger-submits-plans-for-castle-rock-location-marking-return-to-denver-metro",
+      "source": "Denver7",
+      "pub_date": "2026-04-07T03:27:49+00:00",
+      "age_hours": 8.505499718888888,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado\u2019s future Front Range passenger train has a name, and no, it\u2019s not pronounced choo-choo",
       "link": "https://coloradosun.com/2026/04/06/colorado-connector-coco-front-range-train/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-07T00:22:05+00:00",
-      "age_hours": 10.594242997222223,
+      "age_hours": 11.600728396944445,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado legislators propose $46.8 billion budget, driven by Medicaid costs",
       "link": "https://www.coloradopolitics.com/2026/04/06/colorado-legislators-propose-46-8-billion-budget-driven-by-medicaid-costs/",
       "source": "CO Politics",
       "pub_date": "2026-04-07T00:14:11+00:00",
-      "age_hours": 10.72658989388889,
+      "age_hours": 11.733288287777777,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Lake goes dry at a city park in southwest Denver",
       "link": "https://kdvr.com/news/local/lake-goes-dry-at-a-city-park-in-southwest-denver/",
       "source": "Fox31",
       "pub_date": "2026-04-06T23:45:01+00:00",
-      "age_hours": 11.21242776138889,
+      "age_hours": 12.218938903055557,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Man arrested in connection with east Denver shooting",
       "link": "https://www.9news.com/article/news/crime/1-killed-east-denver-shooting/73-35b6d250-fb6c-4123-aab8-1c4027345ec4",
       "source": "9News",
       "pub_date": "2026-04-06T23:33:36+00:00",
-      "age_hours": 11.40237884861111,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver weather: Warming trend, shower chances",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warming-trend-shower-chances/",
-      "source": "Fox31",
-      "pub_date": "2026-04-06T22:50:07+00:00",
-      "age_hours": 12.127427775833334,
+      "age_hours": 12.408973549166666,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -99,90 +144,45 @@
       "link": "https://www.9news.com/article/news/local/longtime-journalist-transparency-advocate-fred-brown-dies/73-962d9151-bffe-4707-93b4-1f6d5759f5ab",
       "source": "9News",
       "pub_date": "2026-04-06T22:46:58+00:00",
-      "age_hours": 12.179601082222222,
+      "age_hours": 13.186195789166666,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Voters dub Front Range Passenger Rail \u2018CoCo\u2019",
       "link": "https://bizwest.com/2026/04/06/voters-dub-front-range-passenger-rail-coco/",
       "source": "BizWest",
       "pub_date": "2026-04-06T21:38:00+00:00",
-      "age_hours": 13.32782582138889,
+      "age_hours": 14.33492919638889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Weld commission votes 4-1 to OK data-center rules",
       "link": "https://bizwest.com/2026/04/06/weld-commission-votes-4-1-to-ok-data-center-rules/",
       "source": "BizWest",
       "pub_date": "2026-04-06T21:29:30+00:00",
-      "age_hours": 13.469492499166668,
+      "age_hours": 14.476595866944445,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Pokeworks franchisees inks 2-restaurant Boulder expansion deal",
       "link": "https://bizwest.com/2026/04/06/pokeworks-franchisees-inks-2-restaurant-boulder-expansion-dea/",
       "source": "BizWest",
       "pub_date": "2026-04-06T21:21:54+00:00",
-      "age_hours": 13.596159171111111,
+      "age_hours": 14.60326253638889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "As Colorado passes 6 million residents, housing initiatives take center stage",
       "link": "https://www.coloradopolitics.com/2026/04/06/as-colorado-passes-6-million-residents-housing-initiatives-take-center-stage/",
       "source": "CO Politics",
       "pub_date": "2026-04-06T21:12:10+00:00",
-      "age_hours": 13.760201024444443,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Olympic bobsledder Hunter Powell to give commencement at alma mater CSU",
-      "link": "https://bizwest.com/2026/04/06/olympic-bobsledder-hunter-powell-to-give-commencement-at-alma-mater-csu/",
-      "source": "BizWest",
-      "pub_date": "2026-04-06T21:07:24+00:00",
-      "age_hours": 13.837825841944444,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Vantor inks $2.3M deal to provide images of space objects to intelligence agenc",
-      "link": "https://bizwest.com/2026/04/06/vantor-inks-2-3m-deal-to-provide-images-of-space-objects-to-intelligence-agenc/",
-      "source": "BizWest",
-      "pub_date": "2026-04-06T21:03:17+00:00",
-      "age_hours": 13.906436957222223,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Last chance to register for NoCo Real Estate Summit",
-      "link": "https://bizwest.com/2026/04/06/last-chance-to-register-for-noco-real-estate-summit/",
-      "source": "BizWest",
-      "pub_date": "2026-04-06T20:57:20+00:00",
-      "age_hours": 14.0056036275,
+      "age_hours": 14.766899418888888,
       "breaking": false,
       "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Burger King plans to hire up to 60K employees amid nationwide initiative",
-      "link": "https://www.9news.com/article/news/nation-world/burger-king-hiring-60-000-employees/507-2bbd5aa1-9730-4f2d-8f17-9b2839aaa7ff",
-      "source": "9News",
-      "pub_date": "2026-04-06T19:54:33+00:00",
-      "age_hours": 15.053212212777778,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Aurora lawmakers Monday night to decide early drought restrictions",
-      "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-monday-night-to-decide-early-drought-restrictions/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-06T19:44:55+00:00",
-      "age_hours": 15.214404021666667,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
     }
   ]
 }
