@@ -1,87 +1,123 @@
 {
   "fetched_date": "2026-04-07",
-  "fetched_at": "2026-04-07 21:43:09",
+  "fetched_at": "2026-04-07 22:40:05",
   "article_count": 20,
   "breaking_count": 17,
   "articles": [
+    {
+      "title": "Denver weather: Warmer mid-week, spring shower chances",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-warmer-mid-week-spring-shower-chances/",
+      "source": "Fox31",
+      "pub_date": "2026-04-07T22:25:23+00:00",
+      "age_hours": 0.24075108499999998,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Dark Horse saving \u2018many parts of the bar\u2019 as auction looms",
+      "link": "https://bizwest.com/2026/04/07/dark-horse-saving-many-parts-of-the-bar-as-auction-looms/",
+      "source": "BizWest",
+      "pub_date": "2026-04-07T21:48:12+00:00",
+      "age_hours": 0.8594270733333333,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
+    {
+      "title": "New owner to retain workers at Loveland beverage distributor",
+      "link": "https://bizwest.com/2026/04/07/new-owner-to-retain-workers-at-loveland-beverage-distributor/",
+      "source": "BizWest",
+      "pub_date": "2026-04-07T21:43:12+00:00",
+      "age_hours": 0.9427604169444445,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
+    {
+      "title": "Denver police issuing double the traffic tickets with goal of saving lives",
+      "link": "https://kdvr.com/news/local/denver-police-issuing-double-the-traffic-tickets-with-goal-of-saving-lives/",
+      "source": "Fox31",
+      "pub_date": "2026-04-07T21:41:21+00:00",
+      "age_hours": 0.974639966388889,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
     {
       "title": "Inside the GOP caucus: Colorado Rep. Rick Taggart explains why a bigger budget still means cuts in 2026-27",
       "link": "https://www.coloradopolitics.com/2026/04/07/inside-the-gop-caucus-colorado-rep-rick-taggart-explains-why-a-bigger-budget-still-means-cuts-in-2026-27/",
       "source": "CO Politics",
       "pub_date": "2026-04-07T21:36:06+00:00",
-      "age_hours": 0.11398360194444444,
+      "age_hours": 1.0626671044444445,
       "breaking": true,
-      "time_ago": "6 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Ex-Lowe\u2019s, future King Soopers site sells for $22.6M",
       "link": "https://bizwest.com/2026/04/07/ex-lowes-future-king-soopers-site-sells-for-22-6m/",
       "source": "BizWest",
       "pub_date": "2026-04-07T21:34:25+00:00",
-      "age_hours": 0.1407734463888889,
+      "age_hours": 1.0891493097222222,
       "breaking": true,
-      "time_ago": "8 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Meritrust Credit Union expands Boulder presence",
       "link": "https://bizwest.com/2026/04/07/meritrust-credit-union-expands-boulder-presence/",
       "source": "BizWest",
       "pub_date": "2026-04-07T21:28:41+00:00",
-      "age_hours": 0.23632901388888888,
+      "age_hours": 1.1847048680555556,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Johnson won\u2019t reopen DHS until Thune makes good on megabill promise",
       "link": "https://www.coloradopolitics.com/2026/04/07/johnson-wont-reopen-dhs-until-thune-makes-good-on-megabill-promise/",
       "source": "CO Politics",
       "pub_date": "2026-04-07T20:47:47+00:00",
-      "age_hours": 0.9192614061111111,
+      "age_hours": 1.8679448997222223,
       "breaking": true,
-      "time_ago": "55 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Week past: The week past in Aurora prep sports, 3.31-4.6.26",
       "link": "https://sentinelcolorado.com/sports/preps/week-past-the-week-past-in-aurora-prep-sports-3-31-4-6-26/",
       "source": "Sentinel",
       "pub_date": "2026-04-07T20:28:36+00:00",
-      "age_hours": 1.2390661041666666,
+      "age_hours": 2.1876930363888887,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Man sentenced to prison in deadly Denver hit-and-run crash",
       "link": "https://www.9news.com/article/news/crime/quebec-36th-deadly-crash-denver/73-2d6d2c47-3167-4523-9969-59b67a21481c",
       "source": "9News",
       "pub_date": "2026-04-07T19:36:02+00:00",
-      "age_hours": 2.1144341719444446,
+      "age_hours": 3.062935905,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Pinkard Breaks Ground on\u00a0Buchanan Aquatics Expansion",
       "link": "https://milehighcre.com/pinkard-breaks-ground-on-buchanan-aquatics-expansion/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-07T19:29:00+00:00",
-      "age_hours": 2.2314717105555553,
+      "age_hours": 3.1798853697222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Warm weather and showers expected mid-week in Denver area",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-07T17:53:25+00:00",
-      "age_hours": 3.8247119819444446,
+      "age_hours": 4.773213715833333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver man charged with soliciting for child prostitution",
       "link": "https://kdvr.com/news/local/denver-man-charged-with-soliciting-for-child-prostitution/",
       "source": "Fox31",
       "pub_date": "2026-04-07T17:41:55+00:00",
-      "age_hours": 4.016642455,
+      "age_hours": 4.965195510277778,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -90,97 +126,61 @@
       "link": "https://milehighcre.com/denver-launches-vibrant-denver-bond-interactive-dashboard/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-07T17:34:06+00:00",
-      "age_hours": 4.1464717208333335,
+      "age_hours": 5.094885378611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Levitt Pavilion adds 19 free concerts to 2026 summer series",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/levitt-pavilion-free-concerts-2026-season/73-71835ff7-9fbd-4ff0-8a03-7f747a4be50d",
       "source": "9News",
       "pub_date": "2026-04-07T17:09:42+00:00",
-      "age_hours": 4.553323107500001,
+      "age_hours": 5.501824842222223,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Why you might have to ask for water at some Denver metro restaurants",
       "link": "https://kdvr.com/news/local/why-you-might-have-to-ask-for-water-at-some-denver-metro-restaurants/",
       "source": "Fox31",
       "pub_date": "2026-04-07T17:08:29+00:00",
-      "age_hours": 4.573864698888889,
+      "age_hours": 5.522417761944444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Nuggets heating up at the perfect time ahead of playoffs",
       "link": "https://kdvr.com/sports/denver-nuggets/nuggets-heating-up-at-the-perfect-time-ahead-of-playoffs/",
       "source": "Fox31",
       "pub_date": "2026-04-07T17:02:52+00:00",
-      "age_hours": 4.667475813055556,
+      "age_hours": 5.616028876666667,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado Ranks\u202f No.3 Among USGBC\u202f Top 10 States for LEED",
       "link": "https://milehighcre.com/colorado-ranks-no-3-among-usgbc-top-10-states-for-leed/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-07T16:36:02+00:00",
-      "age_hours": 5.114249502222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.062663159444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Jack\u2019s Modern Steakhouse Lone Tree to Reopen Following Electrical Fire",
       "link": "https://milehighcre.com/jacks-modern-steakhouse-lone-tree-to-reopen-following-electrical-fire/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-07T16:21:08+00:00",
-      "age_hours": 5.362582839166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.310996495833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Jack's Modern Steakhouse reopening after electrical fire",
       "link": "https://kdvr.com/news/local/jacks-modern-steakhouse-reopening-after-electrical-fire/",
       "source": "Fox31",
       "pub_date": "2026-04-07T16:18:43+00:00",
-      "age_hours": 5.403309140277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Here's the Fiddler's Green concert lineup this summer",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/fiddlers-green-concert-lineup-summer-2026/73-b5102305-ee6a-4dbd-8732-48d84d5ee8dd",
-      "source": "9News",
-      "pub_date": "2026-04-07T16:11:45+00:00",
-      "age_hours": 5.519156451944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Netflix stand-up tapings scheduled at Denver theatre",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/tom-papa-netflix-standup-comedy-tapings-denver/73-136c7a0c-bd7a-408e-8297-b5e4c4bad00a",
-      "source": "9News",
-      "pub_date": "2026-04-07T15:40:14+00:00",
-      "age_hours": 6.044434235555555,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Hawaii-based barbecue chain opens 7th Colorado restaurant",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/ll-hawaiian-barbecue/73-c2ff15de-e05c-41b2-85b5-145fcf1f5fd8",
-      "source": "9News",
-      "pub_date": "2026-04-07T15:39:06+00:00",
-      "age_hours": 6.063323127777778,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Beloved fast-food chain submits plans for first Denver metro location in decades",
-      "link": "https://kdvr.com/denver-guide/beloved-fast-food-chain-submits-plans-for-first-denver-metro-location-in-decades/",
-      "source": "Fox31",
-      "pub_date": "2026-04-07T15:13:21+00:00",
-      "age_hours": 6.492753554166667,
+      "age_hours": 6.351862203055555,
       "breaking": false,
       "time_ago": "6 hrs ago"
     }
