@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-07",
-  "fetched_at": "2026-04-07 17:02:05",
+  "fetched_at": "2026-04-07 19:07:07",
   "article_count": 20,
-  "breaking_count": 20,
+  "breaking_count": 16,
   "articles": [
+    {
+      "title": "Warm weather and showers expected mid-week in Denver area",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-04-07T17:53:25+00:00",
+      "age_hours": 1.2198563083333334,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver man charged with soliciting for child prostitution",
+      "link": "https://kdvr.com/news/local/denver-man-charged-with-soliciting-for-child-prostitution/",
+      "source": "Fox31",
+      "pub_date": "2026-04-07T17:41:55+00:00",
+      "age_hours": 1.4117407202777779,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver Launches Vibrant Denver Bond Interactive Dashboard",
+      "link": "https://milehighcre.com/denver-launches-vibrant-denver-bond-interactive-dashboard/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-04-07T17:34:06+00:00",
+      "age_hours": 1.5416706430555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Levitt Pavilion adds 19 free concerts to 2026 summer series",
+      "link": "https://www.9news.com/article/entertainment/music/colorado-music/levitt-pavilion-free-concerts-2026-season/73-71835ff7-9fbd-4ff0-8a03-7f747a4be50d",
+      "source": "9News",
+      "pub_date": "2026-04-07T17:09:42+00:00",
+      "age_hours": 1.948467436111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Why you might have to ask for water at some Denver metro restaurants",
+      "link": "https://kdvr.com/news/local/why-you-might-have-to-ask-for-water-at-some-denver-metro-restaurants/",
+      "source": "Fox31",
+      "pub_date": "2026-04-07T17:08:29+00:00",
+      "age_hours": 1.9689629380555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Nuggets heating up at the perfect time ahead of playoffs",
+      "link": "https://kdvr.com/sports/denver-nuggets/nuggets-heating-up-at-the-perfect-time-ahead-of-playoffs/",
+      "source": "Fox31",
+      "pub_date": "2026-04-07T17:02:52+00:00",
+      "age_hours": 2.0625740580555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Colorado Ranks\u202f No.3 Among USGBC\u202f Top 10 States for LEED",
       "link": "https://milehighcre.com/colorado-ranks-no-3-among-usgbc-top-10-states-for-leed/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-07T16:36:02+00:00",
-      "age_hours": 0.42952336333333335,
+      "age_hours": 2.5094484344444448,
       "breaking": true,
-      "time_ago": "25 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Jack\u2019s Modern Steakhouse Lone Tree to Reopen Following Electrical Fire",
       "link": "https://milehighcre.com/jacks-modern-steakhouse-lone-tree-to-reopen-following-electrical-fire/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-07T16:21:08+00:00",
-      "age_hours": 0.6778567074999999,
+      "age_hours": 2.757781773611111,
       "breaking": true,
-      "time_ago": "40 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Jack's Modern Steakhouse reopening after electrical fire",
       "link": "https://kdvr.com/news/local/jacks-modern-steakhouse-reopening-after-electrical-fire/",
       "source": "Fox31",
       "pub_date": "2026-04-07T16:18:43+00:00",
-      "age_hours": 0.7183549894444444,
+      "age_hours": 2.798407378055556,
       "breaking": true,
-      "time_ago": "43 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Here's the Fiddler's Green concert lineup this summer",
       "link": "https://www.9news.com/article/life/style/colorado-guide/fiddlers-green-concert-lineup-summer-2026/73-b5102305-ee6a-4dbd-8732-48d84d5ee8dd",
       "source": "9News",
       "pub_date": "2026-04-07T16:11:45+00:00",
-      "age_hours": 0.8344031055555556,
+      "age_hours": 2.914300781388889,
       "breaking": true,
-      "time_ago": "50 min ago"
-    },
-    {
-      "title": "Levitt Pavilion announces 19 more free concerts to 2026 season",
-      "link": "https://www.9news.com/article/entertainment/music/colorado-music/levitt-pavilion-free-concerts-2026-season/73-71835ff7-9fbd-4ff0-8a03-7f747a4be50d",
-      "source": "9News",
-      "pub_date": "2026-04-07T16:00:00+00:00",
-      "age_hours": 1.0302364480555555,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Netflix stand-up tapings scheduled at Denver theatre",
       "link": "https://www.9news.com/article/life/style/colorado-guide/tom-papa-netflix-standup-comedy-tapings-denver/73-136c7a0c-bd7a-408e-8297-b5e4c4bad00a",
       "source": "9News",
       "pub_date": "2026-04-07T15:40:14+00:00",
-      "age_hours": 1.3596809002777779,
+      "age_hours": 3.439578565277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Hawaii-based barbecue chain opens 7th Colorado restaurant",
       "link": "https://www.9news.com/article/life/style/colorado-guide/ll-hawaiian-barbecue/73-c2ff15de-e05c-41b2-85b5-145fcf1f5fd8",
       "source": "9News",
       "pub_date": "2026-04-07T15:39:06+00:00",
-      "age_hours": 1.3785697930555554,
+      "age_hours": 3.4584674577777776,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Beloved fast-food chain submits plans for first Denver metro location in decades",
       "link": "https://kdvr.com/denver-guide/beloved-fast-food-chain-submits-plans-for-first-denver-metro-location-in-decades/",
       "source": "Fox31",
       "pub_date": "2026-04-07T15:13:21+00:00",
-      "age_hours": 1.8077994272222224,
+      "age_hours": 3.887851802222222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Lakewood holding special election to determine future of zoning ordinances",
       "link": "https://kdvr.com/news/local/lakewood-holding-special-election-to-determine-future-of-zoning-ordinances/",
       "source": "Fox31",
       "pub_date": "2026-04-07T13:10:59+00:00",
-      "age_hours": 3.8472438863888887,
+      "age_hours": 5.927296296944444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aurora lawmakers delay decision on pact between police and ICE detention facility",
       "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-delay-decision-on-pact-between-police-and-ice-detention-facility/",
       "source": "Sentinel",
       "pub_date": "2026-04-07T13:10:06+00:00",
-      "age_hours": 3.862423758611111,
+      "age_hours": 5.946318439722223,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "E470 has new logo amid brand refresh",
       "link": "https://www.9news.com/article/traffic/e470-new-logo-brand/73-88f604ff-b3d4-46bf-961c-6ec4d66ab3ec",
       "source": "9News",
       "pub_date": "2026-04-07T12:51:04+00:00",
-      "age_hours": 4.1791253769444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.259023040277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Chicago-based sandwich chain wants to open 20 Denver locations",
       "link": "https://www.9news.com/article/life/style/colorado-guide/potbelly-sandwich-chain-colorado-expansion/73-e760ecb1-1f85-4ede-9793-f8c7a4dcd409",
       "source": "9News",
       "pub_date": "2026-04-07T12:37:25+00:00",
-      "age_hours": 4.4066253827777775,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.486523046111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Housing market trends favor home shoppers, but Iran war clouds the outlook for mortgage rates",
       "link": "https://sentinelcolorado.com/uncategorized/housing-market-trends-favor-home-shoppers-but-iran-war-clouds-the-outlook-for-mortgage-rates/",
       "source": "Sentinel",
       "pub_date": "2026-04-07T12:31:21+00:00",
-      "age_hours": 4.5082571172222226,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.592151796111112,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "New MSU Denver AI chatbot aims to answer how to protect our planet",
       "link": "https://www.denver7.com/money/science-and-tech/new-msu-denver-ai-chatbot-aims-to-answer-how-to-protect-our-planet",
       "source": "Denver7",
       "pub_date": "2026-04-07T12:16:35+00:00",
-      "age_hours": 4.7539007841666665,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.833948134444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
-      "title": "Express lane is open on Interstate 25 from Berthoud to Fort Collins",
-      "link": "https://www.denver7.com/news/local-news/express-lane-is-open-on-interstate-25-from-berthoud-to-fort-collins",
-      "source": "Denver7",
-      "pub_date": "2026-04-07T11:51:55+00:00",
-      "age_hours": 5.1650119058333335,
+      "title": "Office, Multifamily Distress Push CMBS Special Servicing Rate Higher",
+      "link": "https://www.bisnow.com/national/news/capital-markets/cmbs-special-servicing-increase-trepp-133998",
+      "source": "Bisnow",
+      "pub_date": "2026-04-07T12:15:59-04:00",
+      "age_hours": 2.843373121388889,
       "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Gafners to open restaurant on Estes golf course May 1",
-      "link": "https://bizwest.com/2026/04/07/gafners-to-open-restaurant-on-estes-golf-course-may-1/",
-      "source": "BizWest",
-      "pub_date": "2026-04-07T11:49:41+00:00",
-      "age_hours": 5.201269528888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "19-year-old arrested after deadly shooting over alleged money dispute: Police",
-      "link": "https://kdvr.com/news/local/19-year-old-arrested-after-deadly-shooting-over-alleged-money-dispute-police/",
-      "source": "Fox31",
-      "pub_date": "2026-04-07T11:47:21+00:00",
-      "age_hours": 5.241132781944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Denver weather: Partly sunny with spotty sprinkles",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-partly-sunny-with-spotty-sprinkles/",
-      "source": "Fox31",
-      "pub_date": "2026-04-07T11:28:32+00:00",
-      "age_hours": 5.554743916111112,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Longmont industrial property faces $58M foreclosure",
-      "link": "https://bizwest.com/2026/04/07/longmont-industrial-property-faces-58m-foreclosure/",
-      "source": "BizWest",
-      "pub_date": "2026-04-07T11:25:40+00:00",
-      "age_hours": 5.601547318055555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Gausch named CEO at Weld Food Bank",
-      "link": "https://bizwest.com/2026/04/07/gausch-named-ceo-at-weld-food-bank/",
-      "source": "BizWest",
-      "pub_date": "2026-04-07T11:19:36+00:00",
-      "age_hours": 5.702658433611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "2 hrs ago"
     }
   ]
 }
