@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-04-08",
-  "fetched_at": "2026-04-08 16:14:18",
+  "fetched_at": "2026-04-08 17:06:01",
   "article_count": 20,
   "breaking_count": 16,
   "articles": [
+    {
+      "title": "Water prices increase for outdoor use in Denver due to drought conditions",
+      "link": "https://kdvr.com/news/water-prices-increase-for-outdoor-use-in-denver-due-to-drought-conditions/",
+      "source": "Fox31",
+      "pub_date": "2026-04-08T16:36:59+00:00",
+      "age_hours": 0.47081686749999996,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
     {
       "title": "This farmers' market coming to Denver's Harvey Park neighborhood",
       "link": "https://kdvr.com/denver-guide/this-farmers-market-coming-to-denvers-harvey-park-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-04-08T15:49:00+00:00",
-      "age_hours": 0.41772257,
+      "age_hours": 1.2705391272222222,
       "breaking": true,
-      "time_ago": "25 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver Water to implement 'drought pricing' on outdoor water use",
       "link": "https://www.9news.com/article/news/state/colorado-climate/denver-water-drought-pricing-outdoor-water-use/73-9b4ed524-e16c-4c02-90ce-bf6a6c308fbe",
       "source": "9News",
       "pub_date": "2026-04-08T15:46:27+00:00",
-      "age_hours": 0.45996217861111116,
+      "age_hours": 1.3126746127777777,
       "breaking": true,
-      "time_ago": "27 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "ACT Brings Oxygenation System to Major\u00a0Telluride\u00a0Resort Development",
       "link": "https://milehighcre.com/act-brings-oxygenation-system-to-major-telluride-resort-development/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-08T15:12:02+00:00",
-      "age_hours": 1.0334691244444445,
+      "age_hours": 1.88610868,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -36,61 +45,61 @@
       "link": "https://www.9news.com/article/news/local/local-politics/lakewood-voters-family-housing-special-election/73-5829ec91-e978-455d-923c-a9951d93c830",
       "source": "9News",
       "pub_date": "2026-04-08T14:46:04+00:00",
-      "age_hours": 1.4663510847222223,
+      "age_hours": 2.3190635188888886,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Red Bull Soapbox Race is coming to Denver: Here's how you can apply",
       "link": "https://kdvr.com/news/local/red-bull-soapbox-race-is-coming-to-denver-heres-how-you-can-apply/",
       "source": "Fox31",
       "pub_date": "2026-04-08T14:43:55+00:00",
-      "age_hours": 1.5024448052777777,
+      "age_hours": 2.355261338888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Whataburger proposes first restaurant location in Denver metro area",
       "link": "https://www.9news.com/article/life/style/colorado-guide/whataburger-restaurant-location-colorado/73-07d900c1-246c-48c3-9490-161b6c5a150a",
       "source": "9News",
       "pub_date": "2026-04-08T14:33:36+00:00",
-      "age_hours": 1.674128868888889,
+      "age_hours": 2.5268413030555554,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Driver administered 2 doses of Narcan after crashing into business, affidavit says",
       "link": "https://kdvr.com/news/driver-administered-2-doses-of-narcan-after-crashing-into-business-affidavit-says/",
       "source": "Fox31",
       "pub_date": "2026-04-08T14:25:25+00:00",
-      "age_hours": 1.8107781483333332,
+      "age_hours": 2.663594704444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Nuggets vs. Grizzlies on 9NEWS: Denver looks for 10th straight win",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/denver-memphis-nba-on-9news-ktvd/73-6bbeb213-c31b-4849-b4a5-30fa3befdd9b",
       "source": "9News",
       "pub_date": "2026-04-08T13:43:28+00:00",
-      "age_hours": 2.5096844375000003,
+      "age_hours": 3.3623968697222226,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Public Schools sees 44% increase in school bus fuel costs",
       "link": "https://www.denver7.com/lifestyle/education/denver-public-schools-sees-44-increase-in-school-bus-fuel-costs",
       "source": "Denver7",
       "pub_date": "2026-04-08T12:17:33+00:00",
-      "age_hours": 3.941784365277778,
+      "age_hours": 4.794672490277778,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Warm and breezy Wednesday, with elevated fire danger",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-08T12:10:58+00:00",
-      "age_hours": 4.051351112777778,
+      "age_hours": 4.904063554722223,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -99,90 +108,81 @@
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-sunshine-brisk-wind-before-shower-chances/",
       "source": "Fox31",
       "pub_date": "2026-04-08T11:47:06+00:00",
-      "age_hours": 4.449389253333333,
+      "age_hours": 5.302205809166666,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Real-estate execs decry cost of regulations",
       "link": "https://bizwest.com/2026/04/08/real-estate-execs-decry-cost-of-regulations/",
       "source": "BizWest",
       "pub_date": "2026-04-08T11:45:36+00:00",
-      "age_hours": 4.473526548888889,
+      "age_hours": 5.322037794444445,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "TriSalus to elevate director to chief medical officer role",
       "link": "https://bizwest.com/2026/04/08/trisalus-to-elevate-director-to-chief-medical-officer-role/",
       "source": "BizWest",
       "pub_date": "2026-04-08T11:39:39+00:00",
-      "age_hours": 4.572693231111111,
+      "age_hours": 5.421204476111112,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Flood and Peterson appoints 2 execs",
       "link": "https://bizwest.com/2026/04/08/flood-and-peterson-appoints-2-execs/",
       "source": "BizWest",
       "pub_date": "2026-04-08T11:32:55+00:00",
-      "age_hours": 4.684915460833333,
+      "age_hours": 5.533426704999999,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Nexstar asks states, including Colorado, for $150M bond to cover damages from order slowing merger with Tegna",
       "link": "https://coloradosun.com/2026/04/08/nexstar-tegna-merger-antitrust-hearing-150m-bond/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-08T10:15:00+00:00",
-      "age_hours": 5.984083509166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.836730838333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado\u2019s First Psilocybin Center Sues Former Staff Over Business \u201cConspiracy\u201d",
       "link": "https://www.westword.com/news/colorado-first-psilocybin-center-sues-former-staff-40865871/",
       "source": "Westword",
       "pub_date": "2026-04-08T07:16:11-06:00",
-      "age_hours": 2.9649000505555554,
+      "age_hours": 3.817576541111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Man found holding rifle in Denver alley shot by police",
       "link": "https://www.9news.com/article/news/crime/denver-police-shooting-quitman/73-35d42325-bbea-4973-abef-934aa1a45d09",
       "source": "9News",
       "pub_date": "2026-04-08T04:41:21+00:00",
-      "age_hours": 11.544962241111111,
+      "age_hours": 12.397674676944444,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "City of Arvada orders mandatory watering restrictions amid ongoing drought",
       "link": "https://kdvr.com/news/local/city-of-arvada-orders-mandatory-watering-restrictions-amid-ongoing-drought/",
       "source": "Fox31",
       "pub_date": "2026-04-08T02:15:39+00:00",
-      "age_hours": 13.973555948055555,
+      "age_hours": 14.826372501944444,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Callery pear trees are stinking up Denver",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/callery-pear-trees-are-stinking-up-denver/73-8d3c7c8e-492f-446c-adba-d299508815d0",
       "source": "9News",
       "pub_date": "2026-04-08T01:28:26+00:00",
-      "age_hours": 14.760240049999998,
+      "age_hours": 15.612952485,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "1 taken to hospital after shooting involving Denver officers",
-      "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-shooting-involving-denver-officers/",
-      "source": "Fox31",
-      "pub_date": "2026-04-08T00:03:02+00:00",
-      "age_hours": 16.183833715555558,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "15 hrs ago"
     }
   ]
 }
