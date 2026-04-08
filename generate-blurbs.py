@@ -501,6 +501,33 @@ def load_subscriber_data():
     days_ytd = max(1, (datetime.now() - datetime.strptime(year_start, "%Y-%m-%d")).days)
     net_ytd_per_day = round(net_ytd / days_ytd, 1)
 
+    # Type-specific MTD/YTD (annual and monthly)
+    def build_type_counts(sub_type):
+        dn = {}
+        dc = {}
+        for s in all_subs:
+            if s.get("type") != sub_type:
+                continue
+            if s.get("started_at"):
+                d = ts_to_date(s["started_at"])
+                dn[d] = dn.get(d, 0) + 1
+            if s.get("status") == "canceled" and s.get("canceled_at"):
+                d = ts_to_date(s["canceled_at"])
+                dc[d] = dc.get(d, 0) + 1
+        return dn, dc
+
+    def typed_net_for_range(dn, dc, start, end):
+        tn = sum(c for d, c in dn.items() if start <= d <= end)
+        tc = sum(c for d, c in dc.items() if start <= d <= end)
+        return tn - tc
+
+    ann_new, ann_can = build_type_counts("annual")
+    mon_new, mon_can = build_type_counts("monthly")
+    annual_mtd = typed_net_for_range(ann_new, ann_can, month_start, today)
+    annual_ytd = typed_net_for_range(ann_new, ann_can, year_start, today)
+    monthly_mtd = typed_net_for_range(mon_new, mon_can, month_start, today)
+    monthly_ytd = typed_net_for_range(mon_new, mon_can, year_start, today)
+
     # Current active count from latest snapshot
     latest_snap = snapshots[-1] if snapshots else {}
     active_total = latest_snap.get("active", latest_snap.get("total", 0))
@@ -531,6 +558,10 @@ def load_subscriber_data():
         "net_90d": cum_net_90,
         "net_ytd": net_ytd,
         "net_ytd_per_day": net_ytd_per_day,
+        "annual_mtd": annual_mtd,
+        "annual_ytd": annual_ytd,
+        "monthly_mtd": monthly_mtd,
+        "monthly_ytd": monthly_ytd,
         "active_total": active_total,
         "recent_trend": recent_trend,
     }
@@ -686,10 +717,14 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
     "subscriptions": {
       "blurb": "~50 word editorial blurb about subscriber net growth. Start with today's net change, then MTD, then 90-day net. Describe the recent 1-2 week trend vs the longer-term pattern.",
       "meta": "Updated today · 5:15 AM",
-      "net_mtd": "N (integer, month-to-date net new subscribers)",
-      "net_ytd": "N (integer, year-to-date net new subscribers)",
-      "net_mtd_per_day": "N.N (float, MTD net per day = net_mtd / days elapsed this month)",
-      "net_ytd_per_day": "N.N (float, YTD net per day = net_ytd / days elapsed this year)"
+      "net_mtd": "N (integer, month-to-date net — all types combined)",
+      "net_ytd": "N (integer, year-to-date net — all types combined)",
+      "net_mtd_per_day": "N.N (float, MTD net per day — combined)",
+      "net_ytd_per_day": "N.N (float, YTD net per day — combined)",
+      "annual_mtd": "N (integer, annual subscribers MTD net)",
+      "annual_ytd": "N (integer, annual subscribers YTD net)",
+      "monthly_mtd": "N (integer, monthly subscribers MTD net)",
+      "monthly_ytd": "N (integer, monthly subscribers YTD net)"
     }
   }
 }

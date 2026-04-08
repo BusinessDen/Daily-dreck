@@ -498,14 +498,14 @@
   </div>
 
   <!-- Editor's Column / Changelog — auto-hides 3 days after last update -->
-  <div class="editor-card" id="editor-card" data-updated="2026-03-25" style="display:none;">
+  <div class="editor-card" id="editor-card" data-updated="2026-04-08" style="display:none;">
     <div class="editor-card-img">
       <img src="dreck-hero.png" alt="The Editor">
     </div>
     <div class="editor-card-body">
       <div class="editor-card-header">From the Editor's Desk</div>
-      <p><strong>March 25, 2026.</strong> A bug in the <strong>Liquor License Tracker</strong> was squashing new-application diffs — fixed overnight, and the change log is now populating correctly. The <strong>Subscriptions</strong> charts have been overhauled: net growth now breaks out into separate <strong>annual</strong> and <strong>monthly</strong> views with distinct color schemes, stacked below the combined chart. Click to expand all three to full width. On the <strong>Reputation</strong> dashboard, the new traffic tab now surfaces article-level pageview data from GA4. And the <strong>Retail Tracker</strong> placeholder has been retired — that coverage folds into restaurant and liquor pipelines.</p>
-      <div class="editor-card-date">Last updated March 25, 2026</div>
+      <p><strong>April 8, 2026.</strong> A bug in the <strong>Liquor License Tracker</strong> was squashing new-application diffs — fixed overnight, and the change log is now populating correctly. The <strong>Subscriptions</strong> charts have been overhauled: net growth now breaks out into separate <strong>annual</strong> and <strong>monthly</strong> views with distinct color schemes, stacked below the combined chart. Click to expand all three to full width. On the <strong>Reputation</strong> dashboard, the new traffic tab now surfaces article-level pageview data from GA4. And the <strong>Retail Tracker</strong> placeholder has been retired — that coverage folds into restaurant and liquor pipelines.</p>
+      <div class="editor-card-date">Last updated April 8, 2026</div>
     </div>
   </div>
 
@@ -877,7 +877,7 @@
       if (!lq_d && !lq_w && tools.liquor && tools.liquor.ticker) { lq_w = tools.liquor.ticker; }
       renderPulse(document.getElementById('pulse-liquor'), lq_d, lq_w);
 
-      // Subscriptions pulse — Row 1: MTD/YTD net total, Row 2: MTD/YTD net per day
+      // Subscriptions pulse — Combined, Annual, Monthly breakout
       var sbEl = document.getElementById('pulse-subscriptions');
       if (sbEl && tools.subscriptions) {
         var sb = tools.subscriptions;
@@ -896,40 +896,47 @@
           var num = typeof v === 'number' ? v : parseFloat(v);
           if (isNaN(num)) return { display: '\u2014', cls: '' };
           var rounded = Math.round(num * 10) / 10;
-          var sign = rounded > 0 ? '+' : '';
-          if (rounded > 0) return { display: sign + rounded.toFixed(1), cls: 'up' };
+          if (rounded > 0) return { display: '+' + rounded.toFixed(1), cls: 'up' };
           if (rounded < 0) return { display: rounded.toFixed(1), cls: 'down' };
           return { display: '0.0', cls: '' };
         }
 
-        var mtdNet = fmtNet(sb.net_mtd);
-        var ytdNet = fmtNet(sb.net_ytd);
+        function renderRow(label, labelColor, mtdVal, ytdVal) {
+          var mtd = fmtNet(mtdVal);
+          var ytd = fmtNet(ytdVal);
+          return '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:4px 0;">' +
+            '<div style="font-size:8px;letter-spacing:1.5px;text-transform:uppercase;color:' + labelColor + ';text-align:center;margin-bottom:2px;font-weight:600;">' + label + '</div>' +
+            '<div style="display:flex;gap:0;">' +
+              '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
+                '<div class="t-value ' + mtd.cls + '" style="font-size:18px;">' + mtd.display + '</div>' +
+                '<div class="t-sub" style="font-size:8px;">MTD</div>' +
+              '</div>' +
+              '<div style="flex:1;text-align:center;">' +
+                '<div class="t-value ' + ytd.cls + '" style="font-size:18px;">' + ytd.display + '</div>' +
+                '<div class="t-sub" style="font-size:8px;">YTD</div>' +
+              '</div>' +
+            '</div>' +
+          '</div>';
+        }
+
         var mtdPd = fmtPerDay(sb.net_mtd_per_day);
         var ytdPd = fmtPerDay(sb.net_ytd_per_day);
 
         sbEl.innerHTML =
           '<div style="width:100%;">' +
-            '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:4px;">net new</div>' +
-            '<div style="display:flex;gap:0;">' +
-              '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);padding:4px 0;">' +
-                '<div class="t-value ' + mtdNet.cls + '" style="font-size:22px;">' + mtdNet.display + '</div>' +
-                '<div class="t-sub" style="font-size:9px;">MTD</div>' +
-              '</div>' +
-              '<div style="flex:1;text-align:center;padding:4px 0;">' +
-                '<div class="t-value ' + ytdNet.cls + '" style="font-size:22px;">' + ytdNet.display + '</div>' +
-                '<div class="t-sub" style="font-size:9px;">YTD</div>' +
-              '</div>' +
-            '</div>' +
-            '<div style="border-top:1px solid rgba(255,255,255,0.05);margin-top:4px;padding-top:4px;">' +
-              '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:4px;">per day</div>' +
+            renderRow('net new', 'var(--text-dim)', sb.net_mtd, sb.net_ytd) +
+            renderRow('annual', '#2d8a6e', sb.annual_mtd, sb.annual_ytd) +
+            renderRow('monthly', '#e5b83a', sb.monthly_mtd, sb.monthly_ytd) +
+            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:4px 0;">' +
+              '<div style="font-size:8px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:2px;font-weight:600;">per day</div>' +
               '<div style="display:flex;gap:0;">' +
-                '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);padding:4px 0;">' +
-                  '<div class="t-value ' + mtdPd.cls + '" style="font-size:22px;">' + mtdPd.display + '</div>' +
-                  '<div class="t-sub" style="font-size:9px;">MTD</div>' +
+                '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
+                  '<div class="t-value ' + mtdPd.cls + '" style="font-size:18px;">' + mtdPd.display + '</div>' +
+                  '<div class="t-sub" style="font-size:8px;">MTD</div>' +
                 '</div>' +
-                '<div style="flex:1;text-align:center;padding:4px 0;">' +
-                  '<div class="t-value ' + ytdPd.cls + '" style="font-size:22px;">' + ytdPd.display + '</div>' +
-                  '<div class="t-sub" style="font-size:9px;">YTD</div>' +
+                '<div style="flex:1;text-align:center;">' +
+                  '<div class="t-value ' + ytdPd.cls + '" style="font-size:18px;">' + ytdPd.display + '</div>' +
+                  '<div class="t-sub" style="font-size:8px;">YTD</div>' +
                 '</div>' +
               '</div>' +
             '</div>' +
@@ -1154,8 +1161,8 @@
     var d = window._subsChartData;
 
     var colorsCombined = { newColor: '#5cbfb0', cancelColor: '#e05c5c', linePos: '#1a8a7a', lineNeg: '#a03030' };
-    var colorsAnnual = { newColor: '#2d8a6e', cancelColor: '#1a5c42', linePos: '#2d8a6e', lineNeg: '#a03030' };
-    var colorsMonthly = { newColor: '#e5b83a', cancelColor: '#a07828', linePos: '#c49a2e', lineNeg: '#a03030' };
+    var colorsAnnual = { newColor: '#2d8a6e', cancelColor: '#e05c5c', linePos: '#2d8a6e', lineNeg: '#a03030' };
+    var colorsMonthly = { newColor: '#e5b83a', cancelColor: '#e05c5c', linePos: '#c49a2e', lineNeg: '#a03030' };
 
     var html = '';
     html += '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:4px;">Combined — All Subscriber Types</div>';
