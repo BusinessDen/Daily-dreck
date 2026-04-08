@@ -1,96 +1,132 @@
 {
   "fetched_date": "2026-04-08",
-  "fetched_at": "2026-04-08 20:46:34",
+  "fetched_at": "2026-04-08 21:46:06",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Commercial RE deal structures change with times",
+      "link": "https://bizwest.com/2026/04/08/commercial-re-deal-structures-change-with-times/",
+      "source": "BizWest",
+      "pub_date": "2026-04-08T21:43:00+00:00",
+      "age_hours": 0.04742171944444444,
+      "breaking": true,
+      "time_ago": "2 min ago"
+    },
+    {
+      "title": "King named newest member of RE Hall of Fame",
+      "link": "https://bizwest.com/2026/04/08/king-named-newest-member-of-re-hall-of-fame/",
+      "source": "BizWest",
+      "pub_date": "2026-04-08T21:24:21+00:00",
+      "age_hours": 0.35825506333333335,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Finalists named for Naturally Colorado\u2019s pitch contest",
+      "link": "https://bizwest.com/2026/04/08/finalists-named-for-naturally-colorados-pitch-contest/",
+      "source": "BizWest",
+      "pub_date": "2026-04-08T21:14:23+00:00",
+      "age_hours": 0.5243661786111111,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "Fashion brand Reformation opening Boulder shop",
+      "link": "https://bizwest.com/2026/04/08/fashion-brand-reformation-opening-boulder-shop/",
+      "source": "BizWest",
+      "pub_date": "2026-04-08T21:04:53+00:00",
+      "age_hours": 0.6826995149999999,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
     {
       "title": "Federal judge dismisses lawsuit seeking to force Colorado secretary of state to screen out scam filings",
       "link": "https://www.coloradopolitics.com/2026/04/08/federal-judge-dismisses-lawsuit-seeking-to-force-colorado-secretary-of-state-to-screen-out-scam-filings/",
       "source": "CO Politics",
       "pub_date": "2026-04-08T20:19:18+00:00",
-      "age_hours": 0.4501386033333334,
+      "age_hours": 1.443731388888889,
       "breaking": true,
-      "time_ago": "27 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Person in a wheelchair killed in hit-and-run crash",
       "link": "https://www.9news.com/article/news/crime/35th-albion-deadly-hit-run-crash/73-520e2176-c2bf-4e87-9de3-f6a81ffadd96",
       "source": "9News",
       "pub_date": "2026-04-08T19:54:44+00:00",
-      "age_hours": 0.8587875208333333,
+      "age_hours": 1.8524293208333336,
       "breaking": true,
-      "time_ago": "51 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Federal judge finds no constitutional violation by Huerfano County well inspectors",
       "link": "https://www.coloradopolitics.com/2026/04/08/federal-judge-finds-no-constitutional-violation-by-huerfano-county-well-inspectors/",
       "source": "CO Politics",
       "pub_date": "2026-04-08T18:00:56+00:00",
-      "age_hours": 2.7562497394444447,
+      "age_hours": 3.749842526388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado House opens debate on $46.8B budget already showing strain",
       "link": "https://www.coloradopolitics.com/2026/04/08/colorado-house-opens-debate-on-46-8b-budget-already-showing-strain/",
       "source": "CO Politics",
       "pub_date": "2026-04-08T17:51:33+00:00",
-      "age_hours": 2.9126386344444444,
+      "age_hours": 3.906231420833333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Warm and breezy Wednesday, with elevated fire danger",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-08T17:50:33+00:00",
-      "age_hours": 2.9285097675,
+      "age_hours": 3.922151567222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Man shot by police in Denver alley dies",
       "link": "https://www.9news.com/article/news/crime/denver-police-shooting-quitman/73-35d42325-bbea-4973-abef-934aa1a45d09",
       "source": "9News",
       "pub_date": "2026-04-08T17:22:54+00:00",
-      "age_hours": 3.389343107777778,
+      "age_hours": 4.382984906944444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Water prices increase for outdoor use in Denver due to drought conditions",
       "link": "https://kdvr.com/news/local/water-prices-increase-for-outdoor-use-in-denver-due-to-drought-conditions/",
       "source": "Fox31",
       "pub_date": "2026-04-08T16:36:59+00:00",
-      "age_hours": 4.154941015277778,
+      "age_hours": 5.148448584722223,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Cherry Creek Apartments Acquired For $137M: The Denver Deal Sheet",
+      "link": "https://www.bisnow.com/denver/news/deal-sheet/cherry-creek-apartments-acquired-for-137m-the-denver-deal-sheet-134033",
+      "source": "Bisnow",
+      "pub_date": "2026-04-08T16:31:20-04:00",
+      "age_hours": 1.2420149327777776,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "This farmers' market coming to Denver's Harvey Park neighborhood",
       "link": "https://kdvr.com/denver-guide/this-farmers-market-coming-to-denvers-harvey-park-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-04-08T15:49:00+00:00",
-      "age_hours": 4.954663294166667,
+      "age_hours": 5.948170856111111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver Water to implement 'drought pricing' on outdoor water use",
       "link": "https://www.9news.com/article/news/state/colorado-climate/denver-water-drought-pricing-outdoor-water-use/73-9b4ed524-e16c-4c02-90ce-bf6a6c308fbe",
       "source": "9News",
       "pub_date": "2026-04-08T15:46:27+00:00",
-      "age_hours": 4.996843125277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports schedule, 4.8.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-4-8-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-08T15:28:00+00:00",
-      "age_hours": 5.305175954722222,
+      "age_hours": 5.990484921666666,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -99,16 +135,16 @@
       "link": "https://milehighcre.com/act-brings-oxygenation-system-to-major-telluride-resort-development/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-08T15:12:02+00:00",
-      "age_hours": 5.570224956666666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.563887551111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Lakewood voters appear to toss out city ordinances allowing more family housing",
       "link": "https://www.9news.com/article/news/local/local-politics/lakewood-voters-family-housing-special-election/73-5829ec91-e978-455d-923c-a9951d93c830",
       "source": "9News",
       "pub_date": "2026-04-08T14:46:04+00:00",
-      "age_hours": 6.003232027777778,
+      "age_hours": 6.996873823611111,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -117,72 +153,36 @@
       "link": "https://kdvr.com/news/local/red-bull-soapbox-race-is-coming-to-denver-heres-how-you-can-apply/",
       "source": "Fox31",
       "pub_date": "2026-04-08T14:43:55+00:00",
-      "age_hours": 6.039385500833333,
+      "age_hours": 7.032893058611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Whataburger proposes first restaurant location in Denver metro area",
       "link": "https://www.9news.com/article/life/style/colorado-guide/whataburger-restaurant-location-colorado/73-07d900c1-246c-48c3-9490-161b6c5a150a",
       "source": "9News",
       "pub_date": "2026-04-08T14:33:36+00:00",
-      "age_hours": 6.211009811388889,
+      "age_hours": 7.204651608333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Driver administered 2 doses of Narcan after crashing into business, affidavit says",
       "link": "https://kdvr.com/news/driver-administered-2-doses-of-narcan-after-crashing-into-business-affidavit-says/",
       "source": "Fox31",
       "pub_date": "2026-04-08T14:25:25+00:00",
-      "age_hours": 6.347718875000001,
+      "age_hours": 7.341226423611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Nuggets vs. Grizzlies on 9NEWS: Denver looks for 10th straight win",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/denver-memphis-nba-on-9news-ktvd/73-6bbeb213-c31b-4849-b4a5-30fa3befdd9b",
       "source": "9News",
       "pub_date": "2026-04-08T13:43:28+00:00",
-      "age_hours": 7.046565381944445,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Denver Public Schools sees 44% increase in school bus fuel costs",
-      "link": "https://www.denver7.com/lifestyle/education/denver-public-schools-sees-44-increase-in-school-bus-fuel-costs",
-      "source": "Denver7",
-      "pub_date": "2026-04-08T12:17:33+00:00",
-      "age_hours": 8.4786625375,
+      "age_hours": 8.040207172222223,
       "breaking": false,
       "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver weather: More sunshine, brisk wind, before shower chances",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-sunshine-brisk-wind-before-shower-chances/",
-      "source": "Fox31",
-      "pub_date": "2026-04-08T11:47:06+00:00",
-      "age_hours": 8.986329978333334,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Real-estate execs decry cost of regulations",
-      "link": "https://bizwest.com/2026/04/08/real-estate-execs-decry-cost-of-regulations/",
-      "source": "BizWest",
-      "pub_date": "2026-04-08T11:45:36+00:00",
-      "age_hours": 9.009829191666666,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "TriSalus to elevate director to chief medical officer role",
-      "link": "https://bizwest.com/2026/04/08/trisalus-to-elevate-director-to-chief-medical-officer-role/",
-      "source": "BizWest",
-      "pub_date": "2026-04-08T11:39:39+00:00",
-      "age_hours": 9.108995869444446,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
     }
   ]
 }
