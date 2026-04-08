@@ -631,7 +631,7 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
   "lead_headline": "A single punchy sentence summarizing the day's most interesting data point across all tools",
   "tools": {
     "restaurant": {
-      "blurb": "~50 word editorial blurb focused on Claude-verified leads. Name the restaurants and neighborhoods. Mention openings and closures separately.",
+      "blurb": "~25 word blurb. Name the lead restaurants and neighborhoods. Mention openings and closures separately. Keep it tight.",
       "meta": "Updated today · 5:15 AM",
       "ticker_daily": {
         "label1": "opened", "value1": "N (opening leads new today)",
@@ -645,7 +645,7 @@ OUTPUT FORMAT: Respond with ONLY valid JSON, no markdown backticks, no preamble.
       }
     },
     "foreclosure": {
-      "blurb": "ONE sentence only — state the week's filing count, compare to last week, and note any high-value or notable properties.",
+      "blurb": "ONE sentence about any foreclosure filings exceeding $4 million this week — name the property and value. If there are NO filings over $4M, output exactly: Nothing new to report today.",
       "meta": "Updated today · 5:15 AM",
       "ticker_daily": {
         "label1": "new filings", "value1": "N", "class1": "",
@@ -701,8 +701,8 @@ IMPORTANT:
 - Start each live tool blurb with the headline numbers in bold (wrap key figures in <strong> tags)
 - Then contextualize: compare to last week, note trends, flag neighborhoods or patterns
 - Never repeat yesterday's phrasing — find a fresh angle
-- Keep retail entries as-is — do NOT generate blurbs for them, they are static in the HTML
-- For foreclosure: write ONE SENTENCE ONLY — state the filing count, compare to last week, note any standout properties
+- For restaurant: keep it SHORT (~25 words). Name the leads and neighborhoods, that's it.
+- For foreclosure: ONLY mention $4M+ filings. If none, output exactly "Nothing new to report today."
 - For liquor: name the businesses and neighborhoods, note license types, highlight anything newsworthy
 - For reputation: note top citing sources, week-over-week trend, and any notable pickups
 - For subscriptions: START with today's net change (e.g. "Net +3 yesterday"), then state impact on MTD number, then 90-day net. Then describe the recent 1-2 week trend vs the longer-term pattern. Keep it factual and concise."""
@@ -749,15 +749,14 @@ BLURB RULES:
 
     if foreclosure_data:
         prompt_parts.append(f"""FORECLOSURE DATA:
-- New filings this week (by publication date): {foreclosure_data['filings_7d']}
-- Previous week (for comparison): {foreclosure_data['filings_prev_7d']}
-- Past 30 days: {foreclosure_data['filings_30d']}
+- New filings this week: {foreclosure_data['filings_7d']}
 - High-value filings (>$2M) this week: {foreclosure_data['high_value_count']}
-- Total value of this week's filings: ${foreclosure_data['total_value_7d']:,.0f}
-- Upcoming auctions next 7 days: {foreclosure_data['upcoming_sales_7d']}
-- Total active cases: {foreclosure_data['total_tracked']} ({foreclosure_data['sold_count']} sold, {foreclosure_data['continued_count']} continued)
-- Counties: {json.dumps(foreclosure_data['county_counts'])}
 - Highest-value recent filings: {json.dumps(foreclosure_data['recent_filings'][:5], indent=2)}
+
+BLURB RULE FOR FORECLOSURES:
+- ONLY mention filings that exceed $4 million in value
+- If there are NO filings over $4M this week, the blurb must be exactly: "Nothing new to report today."
+- If there ARE $4M+ filings, write ONE sentence naming the property, value, and county
 """)
     else:
         prompt_parts.append("FORECLOSURE DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")

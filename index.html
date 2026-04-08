@@ -497,15 +497,15 @@
     <h2 id="lead-hed" style="font-family:'Cormorant Garamond',serif;font-size:28px;font-weight:700;color:var(--cream);line-height:1.25;font-style:italic;"></h2>
   </div>
 
-  <!-- Editor's Column / Changelog -->
-  <div class="editor-card">
+  <!-- Editor's Column / Changelog — auto-hides 3 days after last update -->
+  <div class="editor-card" id="editor-card" data-updated="2026-03-25" style="display:none;">
     <div class="editor-card-img">
       <img src="dreck-hero.png" alt="The Editor">
     </div>
     <div class="editor-card-body">
       <div class="editor-card-header">From the Editor's Desk</div>
-      <p><strong>March 24, 2026.</strong> The <strong>Liquor License Tracker</strong> joins the suite — every new application, transfer, and renewal across Denver metro, scraped daily. The <strong>Retail Tracker</strong> placeholder has been retired; that beat folds into the restaurant and liquor pipelines where the data lives. Over on <strong>Reputation</strong>, we've added a new tab surfacing BusinessDen website traffic via GA4 — article-level pageviews alongside the existing mentions tracker. The <strong>Subscriptions</strong> dashboard now renders its 90-day net growth chart right here on the Dreck, with a click-to-expand view. And <strong>Foreclosure</strong> summaries have been tightened to single-sentence dispatches.</p>
-      <div class="editor-card-date">Last updated March 24, 2026</div>
+      <p><strong>March 25, 2026.</strong> A bug in the <strong>Liquor License Tracker</strong> was squashing new-application diffs — fixed overnight, and the change log is now populating correctly. The <strong>Subscriptions</strong> charts have been overhauled: net growth now breaks out into separate <strong>annual</strong> and <strong>monthly</strong> views with distinct color schemes, stacked below the combined chart. Click to expand all three to full width. On the <strong>Reputation</strong> dashboard, the new traffic tab now surfaces article-level pageview data from GA4. And the <strong>Retail Tracker</strong> placeholder has been retired — that coverage folds into restaurant and liquor pipelines.</p>
+      <div class="editor-card-date">Last updated March 25, 2026</div>
     </div>
   </div>
 
@@ -608,7 +608,18 @@
                 <span class="badge-updated" id="updated-subscriptions"></span>
               </div>
               <h2>Subscriptions</h2>
-              <div id="subs-net-chart" style="width:100%;min-height:140px;margin:4px 0 8px;"></div>
+              <div style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin:8px 0 2px;">Combined</div>
+              <div id="subs-chart-combined" style="width:100%;min-height:110px;"></div>
+              <div style="display:flex;gap:8px;margin-top:6px;">
+                <div style="flex:1;">
+                  <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);font-weight:600;margin-bottom:2px;">Annual</div>
+                  <div id="subs-chart-annual" style="width:100%;min-height:90px;"></div>
+                </div>
+                <div style="flex:1;">
+                  <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);font-weight:600;margin-bottom:2px;">Monthly</div>
+                  <div id="subs-chart-monthly" style="width:100%;min-height:90px;"></div>
+                </div>
+              </div>
               <p class="blurb" id="blurb-subscriptions"><span class="t-unavailable">Summary information unavailable</span></p>
               <div class="meta" id="meta-subscriptions"></div>
               <div class="cta">Expand Chart →</div>
@@ -696,6 +707,20 @@
   // Date
   document.getElementById('date-display').textContent =
     new Date().toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+
+  // Editor card auto-hide: show only if within 3 days of data-updated
+  (function() {
+    var card = document.getElementById('editor-card');
+    if (!card) return;
+    var updated = card.getAttribute('data-updated');
+    if (!updated) return;
+    var updatedDate = new Date(updated + 'T00:00:00');
+    var now = new Date();
+    var diffDays = (now - updatedDate) / (1000 * 60 * 60 * 24);
+    if (diffDays <= 3) {
+      card.style.display = '';
+    }
+  })();
 
   // === DENSITY TOGGLE ===
   var densityBtns = document.querySelectorAll('.density-btn');
@@ -964,11 +989,9 @@
       if (m) m.innerHTML = msg;
     });
 
-  // === LOAD SUBSCRIBER NET GROWTH CHART ===
+  // === LOAD SUBSCRIBER NET GROWTH CHARTS ===
   (function() {
     var SUBS_BASE = 'https://businessden.github.io/subscriber/data/';
-    var chartEl = document.getElementById('subs-net-chart');
-    if (!chartEl) return;
 
     Promise.all([
       fetch(SUBS_BASE + 'subscribers.json').then(function(r) { return r.ok ? r.json() : null; }),
@@ -976,213 +999,186 @@
     ]).then(function(results) {
       var subsData = results[0];
       var snapData = results[1];
-      if (!subsData || !snapData) { chartEl.innerHTML = '<div style="font-size:10px;color:var(--text-dim);font-style:italic;">Subscriber data unavailable</div>'; return; }
+      if (!subsData || !snapData) return;
 
       var allSubs = subsData.subscribers || [];
       var snaps = (snapData.snapshots || []).slice(-90);
-      if (snaps.length < 2) { chartEl.innerHTML = '<div style="font-size:10px;color:var(--text-dim);font-style:italic;">Not enough data yet</div>'; return; }
+      if (snaps.length < 2) return;
 
-      // Build daily new/canceled counts
       function ds(d) { return d.toISOString().slice(0, 10); }
-      var dailyNew = {}, dailyCanceled = {};
-      allSubs.forEach(function(s) {
-        if (s.started_at) {
-          var d = ds(new Date(s.started_at * 1000));
-          dailyNew[d] = (dailyNew[d] || 0) + 1;
-        }
-        if (s.status === 'canceled' && s.canceled_at) {
-          var d2 = ds(new Date(s.canceled_at * 1000));
-          dailyCanceled[d2] = (dailyCanceled[d2] || 0) + 1;
-        }
-      });
 
-      var days = snaps.map(function(sn) {
-        var d = sn.date;
-        var nw = dailyNew[d] || 0;
-        var cn = dailyCanceled[d] || 0;
-        return { date: d, newCount: nw, canceledCount: cn, net: nw - cn };
-      });
+      // Build daily new/canceled counts by type
+      function buildCounts(filterTypes) {
+        var dailyNew = {}, dailyCanceled = {};
+        allSubs.forEach(function(s) {
+          if (filterTypes && filterTypes.indexOf(s.type) === -1) return;
+          if (s.started_at) {
+            var d = ds(new Date(s.started_at * 1000));
+            dailyNew[d] = (dailyNew[d] || 0) + 1;
+          }
+          if (s.status === 'canceled' && s.canceled_at) {
+            var d2 = ds(new Date(s.canceled_at * 1000));
+            dailyCanceled[d2] = (dailyCanceled[d2] || 0) + 1;
+          }
+        });
 
-      var cumNet = 0;
-      days.forEach(function(d) { cumNet += d.net; d.cumNet = cumNet; });
-
-      // Chart dimensions — fills card width
-      var W = 800, H = 140, PL = 40, PR = 36, PT = 6, PB = 22;
-      var IW = W - PL - PR, IH = H - PT - PB;
-      var halfH = IH / 2;
-      var n = days.length;
-      var bw = IW / n;
-      var barW = Math.max(1, bw * 0.7);
-
-      var maxUp = Math.max.apply(null, days.map(function(d) { return d.newCount; }).concat([1]));
-      var maxDown = Math.max.apply(null, days.map(function(d) { return d.canceledCount; }).concat([1]));
-      var barMax = Math.max(maxUp, maxDown);
-
-      var cumVals = days.map(function(d) { return d.cumNet; });
-      var cumMax = Math.max.apply(null, cumVals.concat([0]));
-      var cumMin = Math.min.apply(null, cumVals.concat([0]));
-      var cumPad = Math.max((cumMax - cumMin) * 0.1, 1);
-      var cumTop = cumMax + cumPad, cumBot = cumMin - cumPad;
-      var cumRange = cumTop - cumBot;
-
-      function xC(i) { return PL + i * bw + bw / 2; }
-      var y0 = PT + halfH;
-      function yCum(v) { return PT + IH - ((v - cumBot) / cumRange) * IH; }
-
-      var newColor = '#5cbfb0', cancelColor = '#e05c5c';
-      var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" style="height:' + H + 'px;width:100%">';
-
-      // Grid
-      [0.5, 1].forEach(function(t) {
-        var v = Math.round(t * barMax);
-        var yUp = y0 - t * halfH;
-        svg += '<line x1="' + PL + '" y1="' + yUp + '" x2="' + (W - PR) + '" y2="' + yUp + '" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>';
-        svg += '<text x="' + (PL - 3) + '" y="' + (yUp + 3) + '" fill="#706878" font-size="8" text-anchor="end" font-family="JetBrains Mono">+' + v + '</text>';
-        var yDn = y0 + t * halfH;
-        svg += '<line x1="' + PL + '" y1="' + yDn + '" x2="' + (W - PR) + '" y2="' + yDn + '" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>';
-        svg += '<text x="' + (PL - 3) + '" y="' + (yDn + 3) + '" fill="#706878" font-size="8" text-anchor="end" font-family="JetBrains Mono">-' + v + '</text>';
-      });
-      svg += '<line x1="' + PL + '" y1="' + y0 + '" x2="' + (W - PR) + '" y2="' + y0 + '" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>';
-
-      // Bars
-      days.forEach(function(d, i) {
-        var x = xC(i) - barW / 2;
-        if (d.newCount > 0) {
-          var bh = (d.newCount / barMax) * halfH;
-          svg += '<rect x="' + x + '" y="' + (y0 - bh) + '" width="' + barW + '" height="' + bh + '" fill="' + newColor + '" opacity="0.8"/>';
-        }
-        if (d.canceledCount > 0) {
-          var bh2 = (d.canceledCount / barMax) * halfH;
-          svg += '<rect x="' + x + '" y="' + y0 + '" width="' + barW + '" height="' + bh2 + '" fill="' + cancelColor + '" opacity="0.6"/>';
-        }
-      });
-
-      // Cumulative net line — shadow then color
-      var linePos = '#1a8a7a', lineNeg = '#a03030';
-      for (var i = 1; i < n; i++) {
-        svg += '<line x1="' + xC(i - 1) + '" y1="' + yCum(days[i - 1].cumNet) + '" x2="' + xC(i) + '" y2="' + yCum(days[i].cumNet) + '" stroke="#0d0d14" stroke-width="4" stroke-linecap="round"/>';
-      }
-      for (var i2 = 1; i2 < n; i2++) {
-        var midCum = (days[i2 - 1].cumNet + days[i2].cumNet) / 2;
-        var segColor = midCum >= 0 ? linePos : lineNeg;
-        svg += '<line x1="' + xC(i2 - 1) + '" y1="' + yCum(days[i2 - 1].cumNet) + '" x2="' + xC(i2) + '" y2="' + yCum(days[i2].cumNet) + '" stroke="' + segColor + '" stroke-width="2" stroke-linecap="round"/>';
+        var days = snaps.map(function(sn) {
+          var d = sn.date;
+          var nw = dailyNew[d] || 0;
+          var cn = dailyCanceled[d] || 0;
+          return { date: d, newCount: nw, canceledCount: cn, net: nw - cn };
+        });
+        var cumNet = 0;
+        days.forEach(function(d) { cumNet += d.net; d.cumNet = cumNet; });
+        return days;
       }
 
-      // End label
-      var lastCum = days[n - 1].cumNet;
-      var lastLbl = lastCum >= 0 ? '+' + lastCum : String(lastCum);
-      var lastColor = lastCum >= 0 ? '#1a8a7a' : '#a03030';
-      var lblY2 = yCum(lastCum);
-      var lblAbove = lblY2 > PT + IH * 0.3;
-      var lblTextY = lblAbove ? lblY2 - 8 : lblY2 + 12;
-      svg += '<text x="' + (xC(n - 1) - 2) + '" y="' + lblTextY + '" fill="' + lastColor + '" font-size="9" font-family="JetBrains Mono" font-weight="700" text-anchor="end">' + lastLbl + '</text>';
+      // Reusable chart renderer — colors param: {newColor, cancelColor, linePos, lineNeg}
+      function renderSubsChart(el, days, chartW, chartH, showLegend, colors) {
+        if (!el) return;
+        var W = chartW || 800, H = chartH || 110, PL = 36, PR = 32, PT = 6, PB = 18;
+        var IW = W - PL - PR, IH = H - PT - PB;
+        var halfH = IH / 2;
+        var n = days.length;
+        var bw = IW / n;
+        var barW = Math.max(1, bw * 0.7);
 
-      // Date labels
-      var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-      function fmtD(dateStr) { var p = dateStr.split('-'); return MONTHS[parseInt(p[1]) - 1] + ' ' + parseInt(p[2]); }
-      [0, Math.floor(n / 2), n - 1].forEach(function(idx) {
-        if (idx >= 0 && idx < n)
-          svg += '<text x="' + xC(idx) + '" y="' + (H - 2) + '" fill="#706878" font-size="8" text-anchor="middle" font-family="JetBrains Mono">' + fmtD(days[idx].date) + '</text>';
-      });
+        var maxUp = Math.max.apply(null, days.map(function(d) { return d.newCount; }).concat([1]));
+        var maxDown = Math.max.apply(null, days.map(function(d) { return d.canceledCount; }).concat([1]));
+        var barMax = Math.max(maxUp, maxDown);
 
-      svg += '</svg>';
+        var cumVals = days.map(function(d) { return d.cumNet; });
+        var cumMax = Math.max.apply(null, cumVals.concat([0]));
+        var cumMin = Math.min.apply(null, cumVals.concat([0]));
+        var cumPad = Math.max((cumMax - cumMin) * 0.1, 1);
+        var cumTop = cumMax + cumPad, cumBot = cumMin - cumPad;
+        var cumRange = cumTop - cumBot;
 
-      // Legend
-      var legend = '<div style="display:flex;gap:12px;justify-content:center;padding:4px 0 0;font-size:8px;color:#9890a0;font-family:JetBrains Mono,monospace;">' +
-        '<div style="display:flex;align-items:center;gap:4px;"><div style="width:8px;height:8px;background:' + newColor + ';opacity:0.8;"></div>New</div>' +
-        '<div style="display:flex;align-items:center;gap:4px;"><div style="width:8px;height:8px;background:' + cancelColor + ';opacity:0.6;"></div>Canceled</div>' +
-        '<div style="display:flex;align-items:center;gap:4px;"><div style="width:12px;height:2px;background:linear-gradient(90deg,#1a8a7a,#a03030);border-radius:1px;"></div>Net 90d</div>' +
-      '</div>';
+        function xC(i) { return PL + i * bw + bw / 2; }
+        var y0 = PT + halfH;
+        function yCum(v) { return PT + IH - ((v - cumBot) / cumRange) * IH; }
 
-      chartEl.innerHTML = svg + legend;
+        var c = colors || {};
+        var newColor = c.newColor || '#5cbfb0';
+        var cancelColor = c.cancelColor || '#e05c5c';
+        var linePos = c.linePos || '#1a8a7a';
+        var lineNeg = c.lineNeg || '#a03030';
+        var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" style="height:' + H + 'px;width:100%">';
 
-      // Store data for fullscreen rendering
-      window._subsChartData = { days: days, barMax: barMax, cumBot: cumBot, cumRange: cumRange };
+        // Grid
+        svg += '<line x1="' + PL + '" y1="' + y0 + '" x2="' + (W - PR) + '" y2="' + y0 + '" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>';
+
+        // Bars
+        days.forEach(function(d, i) {
+          var x = xC(i) - barW / 2;
+          if (d.newCount > 0) {
+            var bh = (d.newCount / barMax) * halfH;
+            svg += '<rect x="' + x + '" y="' + (y0 - bh) + '" width="' + barW + '" height="' + bh + '" fill="' + newColor + '" opacity="0.8"/>';
+          }
+          if (d.canceledCount > 0) {
+            var bh2 = (d.canceledCount / barMax) * halfH;
+            svg += '<rect x="' + x + '" y="' + y0 + '" width="' + barW + '" height="' + bh2 + '" fill="' + cancelColor + '" opacity="0.6"/>';
+          }
+        });
+
+        // Cumulative net line
+        for (var i = 1; i < n; i++) {
+          svg += '<line x1="' + xC(i - 1) + '" y1="' + yCum(days[i - 1].cumNet) + '" x2="' + xC(i) + '" y2="' + yCum(days[i].cumNet) + '" stroke="#0d0d14" stroke-width="4" stroke-linecap="round"/>';
+        }
+        for (var i2 = 1; i2 < n; i2++) {
+          var midCum = (days[i2 - 1].cumNet + days[i2].cumNet) / 2;
+          var segColor = midCum >= 0 ? linePos : lineNeg;
+          svg += '<line x1="' + xC(i2 - 1) + '" y1="' + yCum(days[i2 - 1].cumNet) + '" x2="' + xC(i2) + '" y2="' + yCum(days[i2].cumNet) + '" stroke="' + segColor + '" stroke-width="2" stroke-linecap="round"/>';
+        }
+
+        // End label
+        var lastCum = days[n - 1].cumNet;
+        var lastLbl = lastCum >= 0 ? '+' + lastCum : String(lastCum);
+        var lastColor = lastCum >= 0 ? linePos : lineNeg;
+        var lblY2 = yCum(lastCum);
+        var lblAbove = lblY2 > PT + IH * 0.3;
+        var lblTextY = lblAbove ? lblY2 - 8 : lblY2 + 12;
+        svg += '<text x="' + (xC(n - 1) - 2) + '" y="' + lblTextY + '" fill="' + lastColor + '" font-size="9" font-family="JetBrains Mono" font-weight="700" text-anchor="end">' + lastLbl + '</text>';
+
+        // Date labels
+        var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        function fmtD(dateStr) { var p = dateStr.split('-'); return MONTHS[parseInt(p[1]) - 1] + ' ' + parseInt(p[2]); }
+        [0, Math.floor(n / 2), n - 1].forEach(function(idx) {
+          if (idx >= 0 && idx < n)
+            svg += '<text x="' + xC(idx) + '" y="' + (H - 2) + '" fill="#706878" font-size="7" text-anchor="middle" font-family="JetBrains Mono">' + fmtD(days[idx].date) + '</text>';
+        });
+
+        svg += '</svg>';
+
+        var legend = '';
+        if (showLegend) {
+          legend = '<div style="display:flex;gap:10px;justify-content:center;padding:3px 0 0;font-size:8px;color:#9890a0;font-family:JetBrains Mono,monospace;">' +
+            '<div style="display:flex;align-items:center;gap:3px;"><div style="width:7px;height:7px;background:' + newColor + ';opacity:0.8;"></div>New</div>' +
+            '<div style="display:flex;align-items:center;gap:3px;"><div style="width:7px;height:7px;background:' + cancelColor + ';opacity:0.6;"></div>Canceled</div>' +
+            '<div style="display:flex;align-items:center;gap:3px;"><div style="width:10px;height:2px;background:linear-gradient(90deg,' + linePos + ',' + lineNeg + ');border-radius:1px;"></div>Net</div>' +
+          '</div>';
+        }
+        el.innerHTML = svg + legend;
+        return { days: days, barMax: barMax, cumBot: cumBot, cumRange: cumRange };
+      }
+
+      // Build data for each type
+      var combinedDays = buildCounts(null); // all types
+      var annualDays = buildCounts(['annual']);
+      var monthlyDays = buildCounts(['monthly']);
+
+      // Color schemes
+      var colorsCombined = { newColor: '#5cbfb0', cancelColor: '#e05c5c', linePos: '#1a8a7a', lineNeg: '#a03030' };
+      var colorsAnnual = { newColor: '#2d8a6e', cancelColor: '#e05c5c', linePos: '#2d8a6e', lineNeg: '#a03030' };
+      var colorsMonthly = { newColor: '#e5b83a', cancelColor: '#e05c5c', linePos: '#c49a2e', lineNeg: '#a03030' };
+
+      // Render three charts
+      renderSubsChart(document.getElementById('subs-chart-combined'), combinedDays, 800, 110, true, colorsCombined);
+      renderSubsChart(document.getElementById('subs-chart-annual'), annualDays, 400, 90, false, colorsAnnual);
+      renderSubsChart(document.getElementById('subs-chart-monthly'), monthlyDays, 400, 90, false, colorsMonthly);
+
+      // Store combined data for fullscreen
+      window._subsChartData = { days: combinedDays, annualDays: annualDays, monthlyDays: monthlyDays };
+      window._renderSubsChart = renderSubsChart;
+      window._subsColors = { combined: colorsCombined, annual: colorsAnnual, monthly: colorsMonthly };
 
     }).catch(function(err) {
       console.warn('Could not load subscriber data:', err);
-      chartEl.innerHTML = '<div style="font-size:12px;color:var(--text-dim);font-style:italic;">Chart unavailable</div>';
     });
   })();
 
   // === FULLSCREEN CHART POPUP ===
   function renderFullscreenChart() {
     var fsEl = document.getElementById('subs-fullscreen-chart');
-    if (!fsEl || !window._subsChartData) return;
+    if (!fsEl || !window._subsChartData || !window._renderSubsChart) return;
     var d = window._subsChartData;
-    var days = d.days, barMax = d.barMax, cumBot = d.cumBot, cumRange = d.cumRange;
-    var n = days.length;
 
-    var W = 1400, H = 320, PL = 52, PR = 48, PT = 12, PB = 30;
-    var IW = W - PL - PR, IH = H - PT - PB;
-    var halfH = IH / 2;
-    var bw = IW / n;
-    var barW = Math.max(2, bw * 0.7);
+    var colorsCombined = { newColor: '#5cbfb0', cancelColor: '#e05c5c', linePos: '#1a8a7a', lineNeg: '#a03030' };
+    var colorsAnnual = { newColor: '#2d8a6e', cancelColor: '#1a5c42', linePos: '#2d8a6e', lineNeg: '#a03030' };
+    var colorsMonthly = { newColor: '#e5b83a', cancelColor: '#a07828', linePos: '#c49a2e', lineNeg: '#a03030' };
 
-    function xC(i) { return PL + i * bw + bw / 2; }
-    var y0 = PT + halfH;
-    function yCum(v) { return PT + IH - ((v - cumBot) / cumRange) * IH; }
+    var html = '';
+    html += '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:4px;">Combined — All Subscriber Types</div>';
+    html += '<div id="fs-chart-combined"></div>';
+    html += '<div style="margin-top:20px;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#2d8a6e;font-weight:600;margin-bottom:4px;">Annual Subscribers</div>';
+    html += '<div id="fs-chart-annual"></div>';
+    html += '<div style="margin-top:20px;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#e5b83a;font-weight:600;margin-bottom:4px;">Monthly Subscribers</div>';
+    html += '<div id="fs-chart-monthly"></div>';
 
-    var newColor = '#5cbfb0', cancelColor = '#e05c5c';
-    var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" style="height:' + H + 'px;width:100%">';
-
-    [0.5, 1].forEach(function(t) {
-      var v = Math.round(t * barMax);
-      var yUp = y0 - t * halfH;
-      svg += '<line x1="' + PL + '" y1="' + yUp + '" x2="' + (W - PR) + '" y2="' + yUp + '" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>';
-      svg += '<text x="' + (PL - 4) + '" y="' + (yUp + 4) + '" fill="#9890a0" font-size="11" text-anchor="end" font-family="JetBrains Mono">+' + v + '</text>';
-      var yDn = y0 + t * halfH;
-      svg += '<line x1="' + PL + '" y1="' + yDn + '" x2="' + (W - PR) + '" y2="' + yDn + '" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>';
-      svg += '<text x="' + (PL - 4) + '" y="' + (yDn + 4) + '" fill="#9890a0" font-size="11" text-anchor="end" font-family="JetBrains Mono">-' + v + '</text>';
-    });
-    svg += '<line x1="' + PL + '" y1="' + y0 + '" x2="' + (W - PR) + '" y2="' + y0 + '" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>';
-
-    days.forEach(function(dd, i) {
-      var x = xC(i) - barW / 2;
-      if (dd.newCount > 0) {
-        var bh = (dd.newCount / barMax) * halfH;
-        svg += '<rect x="' + x + '" y="' + (y0 - bh) + '" width="' + barW + '" height="' + bh + '" fill="' + newColor + '" opacity="0.8"/>';
-      }
-      if (dd.canceledCount > 0) {
-        var bh2 = (dd.canceledCount / barMax) * halfH;
-        svg += '<rect x="' + x + '" y="' + y0 + '" width="' + barW + '" height="' + bh2 + '" fill="' + cancelColor + '" opacity="0.6"/>';
-      }
-    });
-
-    var linePos = '#1a8a7a', lineNeg = '#a03030';
-    for (var i = 1; i < n; i++) {
-      svg += '<line x1="' + xC(i - 1) + '" y1="' + yCum(days[i - 1].cumNet) + '" x2="' + xC(i) + '" y2="' + yCum(days[i].cumNet) + '" stroke="#0d0d14" stroke-width="5" stroke-linecap="round"/>';
-    }
-    for (var i2 = 1; i2 < n; i2++) {
-      var midCum = (days[i2 - 1].cumNet + days[i2].cumNet) / 2;
-      var segColor = midCum >= 0 ? linePos : lineNeg;
-      svg += '<line x1="' + xC(i2 - 1) + '" y1="' + yCum(days[i2 - 1].cumNet) + '" x2="' + xC(i2) + '" y2="' + yCum(days[i2].cumNet) + '" stroke="' + segColor + '" stroke-width="3" stroke-linecap="round"/>';
-    }
-
-    var lastCum = days[n - 1].cumNet;
-    var lastLbl = lastCum >= 0 ? '+' + lastCum : String(lastCum);
-    var lastColor = lastCum >= 0 ? '#1a8a7a' : '#a03030';
-    var lblY2 = yCum(lastCum);
-    var lblAbove = lblY2 > PT + IH * 0.3;
-    var lblTextY = lblAbove ? lblY2 - 10 : lblY2 + 16;
-    svg += '<text x="' + (xC(n - 1) - 2) + '" y="' + lblTextY + '" fill="' + lastColor + '" font-size="13" font-family="JetBrains Mono" font-weight="700" text-anchor="end">' + lastLbl + '</text>';
-
-    var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-    function fmtD(dateStr) { var p = dateStr.split('-'); return MONTHS[parseInt(p[1]) - 1] + ' ' + parseInt(p[2]); }
-    var labelCount = Math.min(10, n);
-    for (var li = 0; li < labelCount; li++) {
-      var idx = Math.round(li * (n - 1) / (labelCount - 1));
-      if (idx >= 0 && idx < n)
-        svg += '<text x="' + xC(idx) + '" y="' + (H - 4) + '" fill="#9890a0" font-size="10" text-anchor="middle" font-family="JetBrains Mono">' + fmtD(days[idx].date) + '</text>';
-    }
-
-    svg += '</svg>';
-    var legend = '<div style="display:flex;gap:16px;justify-content:center;padding:12px 0 0;font-size:11px;color:#c8c0cc;font-family:JetBrains Mono,monospace;">' +
-      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:12px;height:12px;background:' + newColor + ';opacity:0.8;border-radius:2px;"></div>New Subscription</div>' +
-      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:12px;height:12px;background:' + cancelColor + ';opacity:0.6;border-radius:2px;"></div>Cancellation</div>' +
-      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:20px;height:3px;background:linear-gradient(90deg,#1a8a7a,#a03030);border-radius:1px;"></div>Cumulative Net Change</div>' +
+    // Legend
+    html += '<div style="display:flex;gap:20px;justify-content:center;padding:14px 0 0;font-size:11px;color:#c8c0cc;font-family:JetBrains Mono,monospace;">' +
+      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:12px;height:12px;background:#5cbfb0;opacity:0.8;border-radius:2px;"></div>New (combined)</div>' +
+      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:12px;height:12px;background:#2d8a6e;border-radius:2px;"></div>New (annual)</div>' +
+      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:12px;height:12px;background:#e5b83a;border-radius:2px;"></div>New (monthly)</div>' +
+      '<div style="display:flex;align-items:center;gap:6px;"><div style="width:12px;height:12px;background:#e05c5c;opacity:0.6;border-radius:2px;"></div>Canceled</div>' +
     '</div>';
-    fsEl.innerHTML = svg + legend;
+
+    fsEl.innerHTML = html;
+
+    // All three at full width
+    window._renderSubsChart(document.getElementById('fs-chart-combined'), d.days, 1400, 220, false, colorsCombined);
+    window._renderSubsChart(document.getElementById('fs-chart-annual'), d.annualDays, 1400, 200, false, colorsAnnual);
+    window._renderSubsChart(document.getElementById('fs-chart-monthly'), d.monthlyDays, 1400, 200, false, colorsMonthly);
   }
 
   // Click handler for subscriptions card -> fullscreen
