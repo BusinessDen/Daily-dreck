@@ -184,6 +184,42 @@
     .editor-card-img { width: 100%; height: 140px; min-height: auto; }
   }
 
+  /* Articles table */
+  .articles-row {
+    display: flex; align-items: baseline; gap: 10px;
+    padding: 7px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+  }
+  .articles-row:last-child { border-bottom: none; }
+  .articles-title {
+    flex: 1; min-width: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 14px; font-weight: 600; color: var(--cream-dim);
+    line-height: 1.3;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .articles-stat {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; text-align: right; white-space: nowrap;
+    min-width: 50px;
+  }
+  .articles-stat-label {
+    font-size: 7px; letter-spacing: 1px; text-transform: uppercase;
+    color: var(--text-dim); text-align: right;
+  }
+  .articles-header {
+    display: flex; align-items: center; gap: 10px;
+    padding: 0 0 4px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    margin-bottom: 2px;
+  }
+  .articles-header span {
+    font-size: 8px; letter-spacing: 1px; text-transform: uppercase;
+    color: var(--text-dim); font-weight: 600; text-align: right;
+    min-width: 50px;
+  }
+  .articles-header span:first-child { flex: 1; text-align: left; }
+
   /* Top bar: date + density toggle */
   .top-bar {
     display: flex; align-items: center; justify-content: center; gap: 20px;
@@ -498,14 +534,14 @@
   </div>
 
   <!-- Editor's Column / Changelog — auto-hides 3 days after last update -->
-  <div class="editor-card" id="editor-card" data-updated="2026-04-08" style="display:none;">
+  <div class="editor-card" id="editor-card" data-updated="2026-04-09" style="display:none;">
     <div class="editor-card-img">
       <img src="dreck-hero.png" alt="The Editor">
     </div>
     <div class="editor-card-body">
       <div class="editor-card-header">From the Editor's Desk</div>
-      <p><strong>April 8, 2026.</strong> A bug in the <strong>Liquor License Tracker</strong> was squashing new-application diffs — fixed overnight, and the change log is now populating correctly. The <strong>Subscriptions</strong> charts have been overhauled: net growth now breaks out into separate <strong>annual</strong> and <strong>monthly</strong> views with distinct color schemes, stacked below the combined chart. Click to expand all three to full width. On the <strong>Reputation</strong> dashboard, the new traffic tab now surfaces article-level pageview data from GA4. And the <strong>Retail Tracker</strong> placeholder has been retired — that coverage folds into restaurant and liquor pipelines.</p>
-      <div class="editor-card-date">Last updated April 8, 2026</div>
+      <p><strong>April 9, 2026.</strong> The Dreck now opens with <strong>Yesterday's Articles</strong> — a live card pulling each story's readers, all-time rank, mentions, and new subscribers straight from the Reputation dashboard. No AI summary, just the numbers. The <strong>Subscriptions</strong> charts have been overhauled with separate <strong>annual</strong> (green) and <strong>monthly</strong> (yellow) views. The <strong>Liquor License Tracker</strong> diff bug has been fixed. And the <strong>Retail Tracker</strong> placeholder has been retired.</p>
+      <div class="editor-card-date">Last updated April 9, 2026</div>
     </div>
   </div>
 
@@ -533,73 +569,27 @@
         <div class="col-header tp-header-tools">Tools</div>
         <div class="col-header tp-header-pulse">Pulse</div>
 
-        <!-- Row 1: Restaurant Openings & Closures -->
-        <div class="tp-tool">
-          <a class="tool-card" href="https://businessden.github.io/Restaurant-tracker/" target="_blank">
-            <div class="tool-card-photo">
-              <img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=400&fit=crop&crop=center" alt="Denver restaurant">
-            </div>
-            <div class="tool-card-body">
-              <div class="badge-row">
-                <span class="badge badge-live"><span class="dot"></span>Live</span>
-                <span class="badge-updated" id="updated-restaurant"></span>
-              </div>
-              <h2>Restaurant Openings &amp; Closures</h2>
-              <p class="blurb" id="blurb-restaurant"><span class="t-unavailable">Summary information unavailable</span></p>
-              <div class="meta" id="meta-restaurant"></div>
-              <div class="cta">Open →</div>
-            </div>
-          </a>
-        </div>
-        <div class="tp-pulse" id="pulse-restaurant">
-          <div class="t-unavailable">—</div>
-        </div>
-
-        <!-- Row 2: Liquor Licenses -->
-        <div class="tp-tool">
-          <a class="tool-card" href="https://businessden.github.io/liquor/" target="_blank">
-            <div class="tool-card-photo">
-              <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=400&h=400&fit=crop&crop=center" alt="Bar with liquor bottles">
-            </div>
-            <div class="tool-card-body">
-              <div class="badge-row">
-                <span class="badge badge-live"><span class="dot"></span>Live</span>
-                <span class="badge-updated" id="updated-liquor"></span>
-              </div>
-              <h2>Liquor Licenses</h2>
-              <p class="blurb" id="blurb-liquor"><span class="t-unavailable">Summary information unavailable</span></p>
-              <div class="meta" id="meta-liquor"></div>
-              <div class="cta">Open →</div>
-            </div>
-          </a>
-        </div>
-        <div class="tp-pulse" id="pulse-liquor">
-          <div class="t-unavailable">—</div>
-        </div>
-
-        <!-- Row 3: Reputation -->
+        <!-- Row 1: Recent Articles -->
         <div class="tp-tool">
           <a class="tool-card" href="https://businessden.github.io/reputation/" target="_blank">
-            <div class="tool-card-photo">
-              <img src="https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&h=400&fit=crop&crop=center" alt="Newspapers and media">
-            </div>
-            <div class="tool-card-body">
+            <div class="tool-card-body" style="padding-top:12px;padding-bottom:12px;">
               <div class="badge-row">
                 <span class="badge badge-live"><span class="dot"></span>Live</span>
-                <span class="badge-updated" id="updated-reputation"></span>
+                <span class="badge-updated" id="updated-articles"></span>
               </div>
-              <h2>Reputation</h2>
-              <p class="blurb" id="blurb-reputation"><span class="t-unavailable">Summary information unavailable</span></p>
-              <div class="meta" id="meta-reputation"></div>
-              <div class="cta">Open →</div>
+              <h2>Yesterday's Articles</h2>
+              <div id="articles-table" style="margin:8px 0;">
+                <div style="font-size:13px;color:var(--text-dim);font-style:italic;">Loading article data…</div>
+              </div>
+              <div class="cta">Open Story Performance Dashboard →</div>
             </div>
           </a>
         </div>
-        <div class="tp-pulse" id="pulse-reputation">
+        <div class="tp-pulse" id="pulse-articles">
           <div class="t-unavailable">—</div>
         </div>
 
-        <!-- Row 4: Subscriptions -->
+        <!-- Row 2: Subscriptions -->
         <div class="tp-tool">
           <div class="tool-card" id="subs-card" style="cursor:pointer;">
             <div class="tool-card-body" style="padding-top:0;padding-bottom:12px;">
@@ -630,7 +620,73 @@
           <div class="t-unavailable">—</div>
         </div>
 
-        <!-- Row 5: Property Foreclosures -->
+        <!-- Row 3: Restaurant Openings & Closures -->
+        <div class="tp-tool">
+          <a class="tool-card" href="https://businessden.github.io/Restaurant-tracker/" target="_blank">
+            <div class="tool-card-photo">
+              <img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=400&fit=crop&crop=center" alt="Denver restaurant">
+            </div>
+            <div class="tool-card-body">
+              <div class="badge-row">
+                <span class="badge badge-live"><span class="dot"></span>Live</span>
+                <span class="badge-updated" id="updated-restaurant"></span>
+              </div>
+              <h2>Restaurant Openings &amp; Closures</h2>
+              <p class="blurb" id="blurb-restaurant"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-restaurant"></div>
+              <div class="cta">Open →</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse" id="pulse-restaurant">
+          <div class="t-unavailable">—</div>
+        </div>
+
+        <!-- Row 4: Liquor Licenses -->
+        <div class="tp-tool">
+          <a class="tool-card" href="https://businessden.github.io/liquor/" target="_blank">
+            <div class="tool-card-photo">
+              <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=400&h=400&fit=crop&crop=center" alt="Bar with liquor bottles">
+            </div>
+            <div class="tool-card-body">
+              <div class="badge-row">
+                <span class="badge badge-live"><span class="dot"></span>Live</span>
+                <span class="badge-updated" id="updated-liquor"></span>
+              </div>
+              <h2>Liquor Licenses</h2>
+              <p class="blurb" id="blurb-liquor"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-liquor"></div>
+              <div class="cta">Open →</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse" id="pulse-liquor">
+          <div class="t-unavailable">—</div>
+        </div>
+
+        <!-- Row 5: Reputation -->
+        <div class="tp-tool">
+          <a class="tool-card" href="https://businessden.github.io/reputation/" target="_blank">
+            <div class="tool-card-photo">
+              <img src="https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&h=400&fit=crop&crop=center" alt="Newspapers and media">
+            </div>
+            <div class="tool-card-body">
+              <div class="badge-row">
+                <span class="badge badge-live"><span class="dot"></span>Live</span>
+                <span class="badge-updated" id="updated-reputation"></span>
+              </div>
+              <h2>Reputation</h2>
+              <p class="blurb" id="blurb-reputation"><span class="t-unavailable">Summary information unavailable</span></p>
+              <div class="meta" id="meta-reputation"></div>
+              <div class="cta">Open →</div>
+            </div>
+          </a>
+        </div>
+        <div class="tp-pulse" id="pulse-reputation">
+          <div class="t-unavailable">—</div>
+        </div>
+
+        <!-- Row 6: Property Foreclosures -->
         <div class="tp-tool last">
           <a class="tool-card" href="https://businessden.github.io/Colorado-foreclosure/" target="_blank">
             <div class="tool-card-photo">
@@ -995,6 +1051,111 @@
       if (d) d.innerHTML = msg;
       if (m) m.innerHTML = msg;
     });
+
+  // === LOAD YESTERDAY'S ARTICLES ===
+  (function() {
+    var REP_URL = 'https://businessden.github.io/reputation/mentions-data.json';
+    fetch(REP_URL).then(function(r) { return r.ok ? r.json() : null; }).then(function(data) {
+      if (!data) return;
+      var bdArticles = data.bd_articles || [];
+      var articleStats = (data.ga4 && data.ga4.article_stats) || {};
+      var articleMatches = data.article_matches || {};
+      var totalArticles = Object.keys(articleStats).length;
+
+      // Build rank map from all articles sorted by views
+      var sorted = Object.keys(articleStats).sort(function(a, b) {
+        return (articleStats[b].views || 0) - (articleStats[a].views || 0);
+      });
+      var rankMap = {};
+      sorted.forEach(function(url, i) { rankMap[url] = i + 1; });
+
+      // Find most recent publishing date that has articles
+      var dates = {};
+      bdArticles.forEach(function(a) {
+        var d = (a.published || '').slice(0, 10);
+        if (d) { if (!dates[d]) dates[d] = []; dates[d].push(a); }
+      });
+      var sortedDates = Object.keys(dates).sort().reverse();
+
+      // Use yesterday or most recent date with articles
+      var today = new Date().toISOString().slice(0, 10);
+      var targetDate = sortedDates.find(function(d) { return d < today; }) || sortedDates[0];
+      var articles = dates[targetDate] || [];
+
+      if (!articles.length) {
+        document.getElementById('articles-table').innerHTML = '<div style="font-size:13px;color:var(--text-dim);font-style:italic;">No articles found</div>';
+        return;
+      }
+
+      // Enrich with stats
+      var enriched = articles.map(function(a) {
+        var s = articleStats[a.url] || {};
+        var matches = articleMatches[a.url] || [];
+        return {
+          title: a.title || '',
+          author: a.author || '',
+          url: a.url || '',
+          views: s.views || 0,
+          subs: s.subscriptions || 0,
+          mentions: matches.length,
+          rank: rankMap[a.url] || 0
+        };
+      }).sort(function(a, b) { return b.views - a.views; });
+
+      // Total for pulse
+      var totalViews = enriched.reduce(function(s, a) { return s + a.views; }, 0);
+      var totalSubs = enriched.reduce(function(s, a) { return s + a.subs; }, 0);
+      var totalMentions = enriched.reduce(function(s, a) { return s + a.mentions; }, 0);
+
+      // Render table
+      var html = '<div class="articles-header">' +
+        '<span style="text-align:left;">Article</span>' +
+        '<span>Readers</span>' +
+        '<span>Rank</span>' +
+        '<span>Mentions</span>' +
+        '<span>Subs</span>' +
+      '</div>';
+      enriched.forEach(function(a) {
+        var rankStr = a.rank ? '#' + a.rank + ' of ' + totalArticles : '—';
+        var subsColor = a.subs > 0 ? 'var(--green)' : 'var(--text-dim)';
+        var mentionsColor = a.mentions > 0 ? 'var(--gold)' : 'var(--text-dim)';
+        html += '<div class="articles-row">' +
+          '<div class="articles-title" title="' + a.title.replace(/"/g, '&quot;') + '">' + a.title + '</div>' +
+          '<div class="articles-stat" style="color:var(--cream);">' + a.views.toLocaleString() + '</div>' +
+          '<div class="articles-stat" style="color:var(--text-dim);font-size:10px;">' + rankStr + '</div>' +
+          '<div class="articles-stat" style="color:' + mentionsColor + ';">' + a.mentions + '</div>' +
+          '<div class="articles-stat" style="color:' + subsColor + ';">' + a.subs + '</div>' +
+        '</div>';
+      });
+      document.getElementById('articles-table').innerHTML = html;
+
+      // Update badge
+      var badge = document.getElementById('updated-articles');
+      if (badge) badge.textContent = targetDate;
+
+      // Render pulse
+      var pulseEl = document.getElementById('pulse-articles');
+      if (pulseEl) {
+        pulseEl.innerHTML =
+          '<div style="width:100%;">' +
+            '<div style="text-align:center;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.05);">' +
+              '<div class="t-value" style="font-size:22px;color:var(--cream);">' + totalViews.toLocaleString() + '</div>' +
+              '<div class="t-sub" style="font-size:9px;">readers</div>' +
+            '</div>' +
+            '<div style="text-align:center;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.05);">' +
+              '<div class="t-value" style="font-size:22px;color:var(--gold);">' + totalMentions + '</div>' +
+              '<div class="t-sub" style="font-size:9px;">mentions</div>' +
+            '</div>' +
+            '<div style="text-align:center;padding:6px 0;">' +
+              '<div class="t-value up" style="font-size:22px;">' + totalSubs + '</div>' +
+              '<div class="t-sub" style="font-size:9px;">new subs</div>' +
+            '</div>' +
+          '</div>';
+      }
+    }).catch(function(err) {
+      console.warn('Could not load article data:', err);
+    });
+  })();
 
   // === LOAD SUBSCRIBER NET GROWTH CHARTS ===
   (function() {
