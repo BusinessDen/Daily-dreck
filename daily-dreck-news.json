@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-09",
-  "fetched_at": "2026-04-09 11:01:32",
+  "fetched_at": "2026-04-09 13:45:20",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Berthoud voters reject rezoning, OK density regs",
+      "link": "https://bizwest.com/2026/04/09/berthoud-voters-reject-rezoning-ok-density-regs/",
+      "source": "BizWest",
+      "pub_date": "2026-04-09T13:42:48+00:00",
+      "age_hours": 0.03629385388888889,
+      "breaking": true,
+      "time_ago": "2 min ago"
+    },
+    {
+      "title": "Edmunds: These are the used SUVs that hold their value best",
+      "link": "https://sentinelcolorado.com/uncategorized/edmunds-these-are-the-used-suvs-that-hold-their-value-best/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-09T13:23:43+00:00",
+      "age_hours": 0.3556168761111111,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Why Denver could have a stormy spring and summer",
+      "link": "https://www.9news.com/article/weather/weather-colorado/stormy-spring-summer-denver-forecast/73-5e39681d-b1bf-48dd-944e-4ef7bf9b86e0",
+      "source": "9News",
+      "pub_date": "2026-04-09T12:42:44+00:00",
+      "age_hours": 1.0380213991666667,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "This haunted Denver mansion is now available for lease",
+      "link": "https://kdvr.com/news/local/this-haunted-denver-mansion-is-now-available-for-lease/",
+      "source": "Fox31",
+      "pub_date": "2026-04-09T12:38:22+00:00",
+      "age_hours": 1.1110430055555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Tech company co-founders hope new south metro space becomes startup launch pad",
+      "link": "https://www.denver7.com/news/front-range/centennial/tech-company-co-founders-hope-new-south-metro-space-becomes-startup-launch-pad",
+      "source": "Denver7",
+      "pub_date": "2026-04-09T11:41:25+00:00",
+      "age_hours": 2.0600786277777776,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver weather: Late clouds and spotty sprinkles",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-late-clouds-and-spotty-sprinkles/",
+      "source": "Fox31",
+      "pub_date": "2026-04-09T11:32:06+00:00",
+      "age_hours": 2.2154874680555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Denver\u2019s lawn-watering costs are going up for the drought. Here\u2019s how much.",
       "link": "https://coloradosun.com/2026/04/09/denver-water-lawn-2026-drought-surcharges/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-09T10:08:00+00:00",
-      "age_hours": 0.8875144683333334,
+      "age_hours": 3.6167471066666668,
       "breaking": true,
-      "time_ago": "53 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado lost jobs and saw its labor force decline last year",
       "link": "https://coloradosun.com/2026/04/09/colorado-lost-jobs-and-saw-its-labor-force-decline-last-year/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-09T10:00:00+00:00",
-      "age_hours": 1.0208478180555556,
+      "age_hours": 3.750080455,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "With cuts coming to Proposition 123, Colorado\u2019s budget crisis is about to make its housing crisis worse",
       "link": "https://coloradosun.com/2026/04/09/proposition-123-cuts-coming-colorado-budget-crisis-housing-crisis/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-09T10:00:00+00:00",
-      "age_hours": 1.0208478305555555,
+      "age_hours": 3.7500804666666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "As Colorado Marijuana Tax Revenue Fades, So Do Local Kickbacks",
+      "link": "https://www.westword.com/news/colorado-marijuana-tax-revenue-fades-local-kickbacks-40869117/",
+      "source": "Westword",
+      "pub_date": "2026-04-09T07:13:43-06:00",
+      "age_hours": 0.5220444622222222,
+      "breaking": true,
+      "time_ago": "31 min ago"
     },
     {
       "title": "The Future of Colorado condo development | OPINION",
       "link": "https://www.coloradopolitics.com/2026/04/09/the-future-of-colorado-condo-development-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-04-09T06:45:00+00:00",
-      "age_hours": 4.271512752222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.000866659166667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Montel Williams' national tour on school safety kicks off in Denver",
       "link": "https://kdvr.com/news/local/montel-williams-national-tour-on-school-safety-kicks-off-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-04-09T04:02:35+00:00",
-      "age_hours": 6.9780691911111115,
+      "age_hours": 9.707431946666667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "How much will it cost to keep your lawn alive this summer?",
       "link": "https://www.9news.com/article/news/local/denver-cost-lawn-summer/73-cc056dbc-9146-4139-97ba-90d570dfcd99",
       "source": "9News",
       "pub_date": "2026-04-09T01:05:07+00:00",
-      "age_hours": 9.935746962222222,
+      "age_hours": 12.664965909722222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Wanna buy grass?; Next with Kyle Clark full show (4/7/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/wanna-buy-grass-next-with-kyle-clark-full-show-4726/73-b661aacb-15c4-4a26-bb61-6e7c1f70e677",
       "source": "9News",
       "pub_date": "2026-04-09T01:03:57+00:00",
-      "age_hours": 9.95519141361111,
+      "age_hours": 12.684410360277777,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "A 'Word of Thanks' from Next: Helping people with intellectual and developmental disabilities live independently",
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/word-of-thanks-next/73-c9bcc07a-7413-4074-88ad-f9fed07a1c72",
       "source": "9News",
       "pub_date": "2026-04-08T23:34:20+00:00",
-      "age_hours": 11.44880253638889,
+      "age_hours": 14.1780214825,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Xcel determines cause of power outage at Denver International Airport",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-international-airport-power-outage-cause/73-16ebf563-0c0a-4fb7-aecc-c42f191f7076",
       "source": "9News",
       "pub_date": "2026-04-08T23:09:28+00:00",
-      "age_hours": 11.863246986388889,
+      "age_hours": 14.5924659325,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Legendary mountaineer Jim Whittaker, the first American to summit Mount Everest, dies at 97",
       "link": "https://www.9news.com/article/news/nation-world/jim-whittaker-dies-first-american-summit-everest-rei-ceo/507-742910bf-7fdc-4ba8-94b4-8884327048e5",
       "source": "9News",
       "pub_date": "2026-04-08T23:07:56+00:00",
-      "age_hours": 11.888802545277779,
+      "age_hours": 14.61802149138889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver Water to implement 'drought pricing' on outdoor water use",
       "link": "https://www.9news.com/article/news/state/colorado-climate/denver-water-drought-pricing-outdoor-water-use/73-9b4ed524-e16c-4c02-90ce-bf6a6c308fbe",
       "source": "9News",
       "pub_date": "2026-04-08T22:56:17+00:00",
-      "age_hours": 12.082969215555556,
+      "age_hours": 14.812188161388889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
+    },
+    {
+      "title": "Denver Water implements drought pricing for first time in over 20 years",
+      "link": "https://www.denver7.com/news/local-news/denver-water-implements-drought-pricing-for-first-time-in-20-years",
+      "source": "Denver7",
+      "pub_date": "2026-04-08T22:54:49+00:00",
+      "age_hours": 14.836745302499999,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Attempted murder suspect out on bail 2 days after Denver shooting",
       "link": "https://www.9news.com/article/news/crime/attempted-murder-suspect-out-on-bail-after-denver-shooting/73-cdc17caa-7dde-4995-ae56-6e69b4538604",
       "source": "9News",
       "pub_date": "2026-04-08T22:42:37+00:00",
-      "age_hours": 12.310746999166666,
+      "age_hours": 15.039965944722221,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Lakewood voters appear to toss out city ordinances allowing more family housing",
-      "link": "https://www.9news.com/article/news/local/local-politics/lakewood-voters-family-housing-special-election/73-5829ec91-e978-455d-923c-a9951d93c830",
-      "source": "9News",
-      "pub_date": "2026-04-08T22:27:45+00:00",
-      "age_hours": 12.558524782777777,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Unique feature in floor tile, popular in Denver homes, is said to be good luck",
-      "link": "https://kdvr.com/denver-guide/unique-feature-in-floor-tile-popular-in-denver-homes-is-said-to-be-good-luck/",
-      "source": "Fox31",
-      "pub_date": "2026-04-08T22:23:03+00:00",
-      "age_hours": 12.636958055277777,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Former Denver Mayor Hancock buys historic Five Points building to create nonprofit's coworking space",
-      "link": "https://www.denver7.com/money/consumer/former-denver-mayor-hancock-buys-historic-five-points-building-to-create-nonprofits-coworking-space",
-      "source": "Denver7",
-      "pub_date": "2026-04-08T22:21:08+00:00",
-      "age_hours": 12.668877273611113,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Man shot by police in Denver alley dies",
-      "link": "https://www.9news.com/article/news/crime/denver-police-shooting-quitman/73-35d42325-bbea-4973-abef-934aa1a45d09",
-      "source": "9News",
-      "pub_date": "2026-04-08T22:19:30+00:00",
-      "age_hours": 12.696024788333332,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "CBRE Arranges Lease for Rio Grande\u2019s New Location in Loveland",
-      "link": "https://milehighcre.com/cbre-arranges-lease-for-rio-grandes-new-location-in-loveland/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-04-08T22:19:17+00:00",
-      "age_hours": 12.69939226638889,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Challenges, opportunities cited in residential, commercial real estate",
-      "link": "https://bizwest.com/2026/04/08/challenges-opportunities-cited-in-residential-commercial-real-estate/",
-      "source": "BizWest",
-      "pub_date": "2026-04-08T22:08:56+00:00",
-      "age_hours": 12.871101746666668,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Commercial RE deal structures change with times",
-      "link": "https://bizwest.com/2026/04/08/commercial-re-deal-structures-change-with-times/",
-      "source": "BizWest",
-      "pub_date": "2026-04-08T21:43:00+00:00",
-      "age_hours": 13.303323980833333,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "King named newest member of RE Hall of Fame",
-      "link": "https://bizwest.com/2026/04/08/king-named-newest-member-of-re-hall-of-fame/",
-      "source": "BizWest",
-      "pub_date": "2026-04-08T21:24:21+00:00",
-      "age_hours": 13.614157318611111,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     }
   ]
 }
