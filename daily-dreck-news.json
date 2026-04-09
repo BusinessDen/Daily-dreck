@@ -1,114 +1,150 @@
 {
   "fetched_date": "2026-04-09",
-  "fetched_at": "2026-04-09 20:54:19",
+  "fetched_at": "2026-04-09 21:46:15",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Man pleads guilty to killing cellmate in Denver jail",
+      "link": "https://www.9news.com/article/news/crime/man-pleads-guilty-killing-cellmate-denver-jail/73-3ef45700-3855-4475-be84-380d29e35806",
+      "source": "9News",
+      "pub_date": "2026-04-09T21:20:37+00:00",
+      "age_hours": 0.4226236452777778,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
+    {
+      "title": "Columbine Health continues to shed properties",
+      "link": "https://bizwest.com/2026/04/09/columbine-health-continues-to-shed-properties/",
+      "source": "BizWest",
+      "pub_date": "2026-04-09T21:17:23+00:00",
+      "age_hours": 0.4758766841666666,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "Boulder law firm successfully argues Colorado Supreme Court case",
+      "link": "https://bizwest.com/2026/04/09/boulder-law-firm-successfully-argues-colorado-supreme-court-case/",
+      "source": "BizWest",
+      "pub_date": "2026-04-09T21:08:32+00:00",
+      "age_hours": 0.6233766991666667,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Points West acquires Kansas-based bank",
+      "link": "https://bizwest.com/2026/04/09/points-west-acquires-kansas-based-bank/",
+      "source": "BizWest",
+      "pub_date": "2026-04-09T21:00:52+00:00",
+      "age_hours": 0.7511544849999999,
+      "breaking": true,
+      "time_ago": "45 min ago"
+    },
     {
       "title": "Man shot and killed in Five Points neighborhood Thursday afternoon",
       "link": "https://www.9news.com/article/news/crime/denver-five-points-shooting-death/73-83564a20-f1da-443a-850e-89fc480376b5",
       "source": "9News",
       "pub_date": "2026-04-09T20:46:54+00:00",
-      "age_hours": 0.11869080944444445,
+      "age_hours": 0.9845681005555555,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "59 min ago"
     },
     {
       "title": "1 taken to hospital after shooting in downtown Denver",
       "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-shooting-in-downtown-denver/",
       "source": "Fox31",
       "pub_date": "2026-04-09T20:32:00+00:00",
-      "age_hours": 0.36733373194444446,
+      "age_hours": 1.2331210530555556,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver police investigating deadly Thursday shooting",
       "link": "https://kdvr.com/news/local/denver-police-investigating-deadly-thursday-shooting/",
       "source": "Fox31",
       "pub_date": "2026-04-09T20:02:58+00:00",
-      "age_hours": 0.8512226125,
+      "age_hours": 1.7170099577777778,
       "breaking": true,
-      "time_ago": "51 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Judge rejects Feds\u2019 harsh sentence demands in Aurora drug and gun sting",
       "link": "https://sentinelcolorado.com/metro/judge-rejects-feds-harsh-sentence-demands-in-aurora-drug-and-gun-sting/",
       "source": "Sentinel",
       "pub_date": "2026-04-09T19:56:20+00:00",
-      "age_hours": 0.9624119916666666,
+      "age_hours": 1.827846388888889,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Travelers face higher costs and fewer flight options as jet fuel prices swing",
       "link": "https://sentinelcolorado.com/uncategorized/travelers-face-higher-costs-and-fewer-flight-options-as-jet-fuel-prices-swing/",
       "source": "Sentinel",
       "pub_date": "2026-04-09T19:24:12+00:00",
-      "age_hours": 1.4979675691666665,
+      "age_hours": 2.3634019650000004,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Movers and Shakers Week Ending 04.10.26",
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-04-10-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-09T19:05:33+00:00",
-      "age_hours": 1.8077227630555555,
+      "age_hours": 2.673499561111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Critically endangered turtles hatch at Denver Downtown Aquarium",
       "link": "https://kdvr.com/news/local/critically-endangered-turtles-hatch-at-denver-downtown-aquarium/",
       "source": "Fox31",
       "pub_date": "2026-04-09T18:57:17+00:00",
-      "age_hours": 1.9459448477777779,
+      "age_hours": 2.8117321847222225,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "MorningStar Announces Expanded Relationship with Clarion Partners",
       "link": "https://milehighcre.com/morningstar-announces-expanded-relationship-with-clarion-partners/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-09T18:55:51+00:00",
-      "age_hours": 1.9693894388888888,
+      "age_hours": 2.8351662369444446,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Mile High Dine & Recline: The All Inn Hotel",
       "link": "https://milehighcre.com/mile-high-dine-recline-the-all-inn-hotel/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-09T16:56:22+00:00",
-      "age_hours": 3.9607783319444443,
+      "age_hours": 4.826555129444444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "A possible Frozen Four first: All 4 starting goalies are freshmen",
       "link": "https://www.9news.com/article/sports/hockey/a-possible-frozen-four-first-all-4-starting-goalies-are-freshmen/616-9d8dff90-d4ea-4aef-bde7-b70d33e3fd2e",
       "source": "9News",
       "pub_date": "2026-04-09T16:55:22+00:00",
-      "age_hours": 3.9775797452777777,
+      "age_hours": 4.843457033333333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Octagon-shaped treehouse near Colorado Springs tops Airbnb wish lists",
       "link": "https://kdvr.com/news/local/octagon-shaped-treehouse-near-colorado-springs-tops-airbnb-wish-lists/",
       "source": "Fox31",
       "pub_date": "2026-04-09T16:07:53+00:00",
-      "age_hours": 4.7692782225000006,
+      "age_hours": 5.6350655538888885,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "House GOP stalls Colorado budget debate by forcing full reading of 661-page bill",
       "link": "https://www.coloradopolitics.com/2026/04/09/house-gop-stalls-colorado-budget-debate-by-forcing-full-reading-of-661-page-bill/",
       "source": "CO Politics",
       "pub_date": "2026-04-09T14:52:06+00:00",
-      "age_hours": 6.032708486944445,
+      "age_hours": 6.898372379722222,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -117,7 +153,7 @@
       "link": "https://milehighcre.com/uli-colorado-celebrates-2026-impact-award-winners/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-09T14:50:01+00:00",
-      "age_hours": 6.0666116686111105,
+      "age_hours": 6.932388465833333,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -126,16 +162,16 @@
       "link": "https://bizwest.com/2026/04/09/boulder-county-awards-2m-in-emergency-grants/",
       "source": "BizWest",
       "pub_date": "2026-04-09T13:54:30+00:00",
-      "age_hours": 6.991447213611111,
+      "age_hours": 7.857265602777777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Lawsuit alleges JBS reopens without air-pollution permit",
       "link": "https://bizwest.com/2026/04/09/lawsuit-alleges-jbs-reopens-without-air-pollution-permit/",
       "source": "BizWest",
       "pub_date": "2026-04-09T13:47:49+00:00",
-      "age_hours": 7.1028361175,
+      "age_hours": 7.968654498611111,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -144,45 +180,9 @@
       "link": "https://bizwest.com/2026/04/09/berthoud-voters-reject-rezoning-ok-density-regs/",
       "source": "BizWest",
       "pub_date": "2026-04-09T13:42:48+00:00",
-      "age_hours": 7.186447235,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Why Denver could have a stormy spring and summer",
-      "link": "https://www.9news.com/article/weather/weather-colorado/stormy-spring-summer-denver-forecast/73-5e39681d-b1bf-48dd-944e-4ef7bf9b86e0",
-      "source": "9News",
-      "pub_date": "2026-04-09T12:42:44+00:00",
-      "age_hours": 8.188135345555555,
+      "age_hours": 8.052265615833333,
       "breaking": false,
       "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "This haunted Denver mansion is now available for lease",
-      "link": "https://kdvr.com/news/local/this-haunted-denver-mansion-is-now-available-for-lease/",
-      "source": "Fox31",
-      "pub_date": "2026-04-09T12:38:22+00:00",
-      "age_hours": 8.261222631111112,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Tech company co-founders hope new south metro space becomes startup launch pad",
-      "link": "https://www.denver7.com/news/front-range/centennial/tech-company-co-founders-hope-new-south-metro-space-becomes-startup-launch-pad",
-      "source": "Denver7",
-      "pub_date": "2026-04-09T11:41:25+00:00",
-      "age_hours": 9.210240271944445,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Denver weather: Late clouds and spotty sprinkles",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-late-clouds-and-spotty-sprinkles/",
-      "source": "Fox31",
-      "pub_date": "2026-04-09T11:32:06+00:00",
-      "age_hours": 9.365667124166666,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
     }
   ]
 }
