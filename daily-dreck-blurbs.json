@@ -1,9 +1,9 @@
 {
   "generated_date": "2026-04-09",
-  "lead_headline": "Restaurant tracker adds 3 new leads today as foreclosures deliver zero $4M+ filings and subscriber count flatlines for third consecutive day",
+  "lead_headline": "Maize by Michelin-starred chef Johnny Curiel opens in RiNo, while Ash and Agave debuts at Cherry Creek Shopping Center",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 new leads today</strong> push <strong>active count to 94</strong> (49 openings, 45 closures)\u2014Thursday additions: <strong>Maize by Chef Johnny Curiel</strong> preps Michelin-starred RiNo opening in Globeville, <strong>Taco John's</strong> Globeville location flags opening uncertainty, <strong>Peg and Willy's Shave Ice</strong> truck shutters Stapleton operations.",
+      "blurb": "<strong>3 new leads detected today:</strong> Maize by Chef Johnny Curiel (Mexican, RiNo), Taco John's/Taqueria Los Gallitos (Mexican, Globeville), and Peg and Willy's Shave Ice (closed, Stapleton).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -14,9 +14,9 @@
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+49",
+        "value1": "49",
         "label2": "closed",
-        "value2": "\u221245",
+        "value2": "45",
         "period": "all leads"
       }
     },
@@ -28,14 +28,14 @@
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "115",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
         "value1": "48",
-        "class1": "up",
+        "class1": "",
         "label2": "sold",
         "value2": "0",
         "class2": "",
@@ -43,51 +43,51 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong> extend statewide freeze to <strong>40 consecutive days</strong>\u2014Thursday marks tenth straight zero-filing session as April's first nine days post 0/10 shutout, now surpassing December 2024's 12-day record by 233%. System blackout enters sixth week with no Liquor Enforcement Division updates across all Colorado counties (Denver, Arapahoe, Douglas, Jefferson, Adams) and all license types (retail, tavern, hotel/restaurant, brew pub). Estimated backlog climbs to 90-120 applications as void obliterates January-February's 15-20 weekly baseline\u2014database holds 13,731 historical entries but registers zero March 1\u2013April 9 activity.",
+      "blurb": "<strong>5 new applications today:</strong> Hopscotch (Tavern/Cabaret, Denargo St), The Tavern on Blake (Tavern, Blake St), McCoy's Restaurant (Hotel/Restaurant, Federal Blvd), Salon Theory (Beer/Wine, Tennessee Ave), and one closed administratively at Logan St. Divino LLC's license at Broadway moved from delinquent to expired.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
-        "class1": "down",
+        "value1": "5",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "0",
-        "class1": "down",
+        "value1": "4",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>4 mentions yesterday</strong> lift week to <strong>46 citations</strong> (\u221230% vs prior week's 66) across <strong>15 sources</strong>\u2014Wednesday's quartet led by <strong>Denver Post</strong> Leprino Foods lawsuit coverage and <strong>Business Journals</strong> Arizona startup piece. Week's leaders: <strong>Instagram</strong> (17 mentions), <strong>Denver Post</strong> (6), Facebook (6), with social platforms claiming 59% share versus traditional media's 41% split. Daily mention rate slides to 6.6/day from last week's 9.4/day, confirming April's sustained decline after March's 10+/day baseline. Source diversity holds at 15 outlets but pickup velocity continues downward trajectory through mid-week.",
+      "blurb": "<strong>3 mentions today</strong> bring the week to 49 across 16 sources \u2014 down from 66 the prior week. Instagram and Facebook dominated pickups (25 combined), while The Denver Post cited BusinessDen 6 times. Notable: YouTube covered RTD's shakeup and Mayor Hancock's building purchase, while The Business Journals picked up the Arizona startup residency story.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "4",
+        "value1": "3",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "46",
+        "value1": "49",
         "class1": "down",
         "label2": "sources",
-        "value2": "15",
+        "value2": "16",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks third consecutive flatline day as <strong>MTD slips to \u22121</strong> (\u22120.1/day through 9 days) while <strong>90-day net holds +137</strong>. Past week delivers \u22122 net (6 new, 8 canceled) versus prior week's +10 (27 new, 17 canceled), marking 120% reversal as acquisition craters 78% while cancellations decline 53%. Nine-day April start posts \u22121 net (15 new, 16 canceled) versus March's opening stretch (+29 net), confirming 103% momentum flip. Recent pattern splits sharply: late March surged +18 net (+2.6/day), early April stumbled \u221219 net (\u22122.4/day)\u2014current three-day freeze suggests stabilization after churn spike but trails YTD +1.3/day pace by 108%.",
+      "blurb": "<strong>Flat yesterday</strong> (0 net) leaves MTD at \u22121 and 90-day net at +137. The past two weeks have been choppy: after a strong Mar 26-27 spike (+7 net over 2 days), the month turned negative with Apr 2's \u22124 day dragging MTD below zero. Despite the recent wobble, the 90-day trend remains solidly positive at +137 net.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "-1",
       "net_ytd": "130",
       "net_mtd_per_day": "-0.1",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "-1",
-      "annual_ytd": "98",
+      "annual_mtd": "0",
+      "annual_ytd": "0",
       "monthly_mtd": "0",
-      "monthly_ytd": "32"
+      "monthly_ytd": "0"
     }
   }
 }
