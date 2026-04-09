@@ -348,67 +348,67 @@ def load_reputation_data():
 def load_liquor_data():
     """Fetch liquor-data.json from the Liquor License Tracker and compute key metrics."""
     data = fetch_json_url("https://businessden.github.io/liquor/liquor-data.json")
-    if not data:
+    if not data or not isinstance(data, dict):
         return None
 
-    # Handle both array and dict with "applications" key
-    if isinstance(data, list):
-        records = data
-    else:
-        records = data.get("applications", data.get("licenses", data.get("records", [])))
-
-    if not records:
-        return None
+    diff = data.get("diff", {})
+    chart_history = data.get("chart_history", {}).get("daily", {})
+    metadata = data.get("metadata", {})
+    summary = data.get("summary", {})
+    records = data.get("records", [])
 
     today = datetime.now().strftime("%Y-%m-%d")
-    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
     seven_days_ago = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
     fourteen_days_ago = (datetime.now() - timedelta(days=14)).strftime("%Y-%m-%d")
-    thirty_days_ago = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
 
-    is_monday = datetime.now().strftime("%A") == "Monday"
-    recent_cutoff = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d") if is_monday else yesterday
+    # Today's changes from diff
+    new_today = diff.get("new", [])
+    removed_today = diff.get("removed", [])
+    status_changes_today = diff.get("status_changes", [])
 
-    def record_date(r):
-        """Extract the best date field from a record."""
-        for field in ["date", "filed_date", "application_date", "received_date", "scraped_date", "first_seen"]:
-            d = r.get(field, "")
-            if d and len(str(d)) >= 10:
-                return str(d)[:10]
-        return ""
+    # Weekly counts from chart_history
+    new_7d = 0
+    new_prev_7d = 0
+    for date_str, counts in chart_history.items():
+        if seven_days_ago <= date_str <= today:
+            new_7d += counts.get("new", 0)
+        elif fourteen_days_ago <= date_str < seven_days_ago:
+            new_prev_7d += counts.get("new", 0)
 
-    # Count by time period
-    today_records = [r for r in records if record_date(r) >= recent_cutoff]
-    week_records = [r for r in records if seven_days_ago <= record_date(r) <= today]
-    prev_week_records = [r for r in records if fourteen_days_ago <= record_date(r) < seven_days_ago]
-    month_records = [r for r in records if thirty_days_ago <= record_date(r) <= today]
-
-    # Type breakdown for this week
-    type_counts = {}
-    for r in week_records:
-        t = r.get("type", r.get("license_type", r.get("application_type", "Unknown")))
-        type_counts[t] = type_counts.get(t, 0) + 1
-
-    # Recent applications with detail
-    recent = sorted(week_records, key=lambda r: record_date(r), reverse=True)[:8]
-    formatted_recent = []
-    for r in recent:
-        formatted_recent.append({
-            "name": r.get("name", r.get("business_name", r.get("applicant", "Unknown"))),
-            "type": r.get("type", r.get("license_type", r.get("application_type", ""))),
+    # Format new applications for the prompt
+    formatted_new = []
+    for r in new_today:
+        formatted_new.append({
+            "name": r.get("name", "Unknown"),
             "address": r.get("address", ""),
-            "date": record_date(r),
-            "neighborhood": r.get("neighborhood", ""),
+            "license_type": r.get("license_type", ""),
+            "status": r.get("status", ""),
         })
 
+    # Format status changes
+    formatted_changes = []
+    for r in status_changes_today:
+        formatted_changes.append({
+            "name": r.get("name", "Unknown"),
+            "address": r.get("address", ""),
+            "old_status": r.get("old_status", ""),
+            "new_status": r.get("new_status", ""),
+        })
+
+    # Type breakdown from summary
+    by_status = summary.get("by_status", {})
+
     return {
-        "new_today": len(today_records),
-        "new_7d": len(week_records),
-        "new_prev_7d": len(prev_week_records),
-        "new_30d": len(month_records),
-        "total": len(records),
-        "type_counts_7d": type_counts,
-        "recent_applications": formatted_recent,
+        "new_today": len(new_today),
+        "new_today_detail": formatted_new,
+        "removed_today": len(removed_today),
+        "status_changes_today": len(status_changes_today),
+        "status_changes_detail": formatted_changes,
+        "new_7d": new_7d,
+        "new_prev_7d": new_prev_7d,
+        "total": metadata.get("total_records", len(records)),
+        "by_status": by_status,
+        "last_updated": diff.get("timestamp", "unknown"),
     }
 
 
@@ -828,13 +828,14 @@ IMPORTANT for subscriptions blurb: Start with {subscriber_data['net_day_label']}
 
     if liquor_data:
         prompt_parts.append(f"""LIQUOR LICENSE DATA:
-- New applications {daily_period_label}: {liquor_data['new_today']}
-- Past 7 days: {liquor_data['new_7d']} applications
+- New applications detected today: {liquor_data['new_today']}
+- New application details: {json.dumps(liquor_data['new_today_detail'], indent=2)}
+- Status changes today: {liquor_data['status_changes_today']}
+- Status change details: {json.dumps(liquor_data['status_changes_detail'], indent=2)}
+- Removed today: {liquor_data['removed_today']}
+- New applications past 7 days: {liquor_data['new_7d']}
 - Previous 7 days (for comparison): {liquor_data['new_prev_7d']}
-- Past 30 days: {liquor_data['new_30d']}
-- Total tracked: {liquor_data['total']}
-- Types this week: {json.dumps(liquor_data['type_counts_7d'])}
-- Recent applications: {json.dumps(liquor_data['recent_applications'][:6], indent=2)}
+- Total tracked licenses: {liquor_data['total']}
 """)
     else:
         prompt_parts.append("LIQUOR LICENSE DATA: Not available today. Write a generic blurb noting data is being refreshed.\n")
