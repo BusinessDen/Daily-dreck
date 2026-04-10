@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-04-09",
-  "lead_headline": "Maize by Michelin-starred chef Johnny Curiel opens in RiNo, while Ash and Agave debuts at Cherry Creek Shopping Center",
+  "generated_date": "2026-04-10",
+  "lead_headline": "Risica, the long-delayed Milanese pizzeria from Il Posto's Andrea Frizzi, finally opens in Five Points",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 new leads detected today:</strong> Maize by Chef Johnny Curiel (Mexican, RiNo), Taco John's/Taqueria Los Gallitos (Mexican, Globeville), and Peg and Willy's Shave Ice (closed, Stapleton).",
+      "blurb": "<strong>5 new leads today:</strong> The Couloir (apr\u00e8s bar, Overland), Risica (Milanese pizza, Five Points), and three Dairy Queen closures across Regis and Fort Logan.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+2",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "\u22123",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "49",
+        "value1": "51",
         "label2": "closed",
-        "value2": "45",
+        "value2": "46",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "48",
+        "value1": "68",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,51 +43,51 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>5 new applications today:</strong> Hopscotch (Tavern/Cabaret, Denargo St), The Tavern on Blake (Tavern, Blake St), McCoy's Restaurant (Hotel/Restaurant, Federal Blvd), Salon Theory (Beer/Wine, Tennessee Ave), and one closed administratively at Logan St. Divino LLC's license at Broadway moved from delinquent to expired.",
+      "blurb": "<strong>4 new applications today:</strong> Padel Haus filed for entertainment license at Welton St (Five Points), Hammer and Nails Men's Grooming Shop applied for beer/wine at Newport St, Don Panchon Mexican Restaurant seeks hotel/restaurant license near Tower Rd, while Barro Baro's tavern application at Larimer St (RiNo) was closed administratively. La Reyna Azteca and Park Avenue Tacos both moved from delinquent to expired.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "5",
-        "class1": "up",
+        "value1": "4",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "4",
+        "value1": "7",
         "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>3 mentions today</strong> bring the week to 49 across 16 sources \u2014 down from 66 the prior week. Instagram and Facebook dominated pickups (25 combined), while The Denver Post cited BusinessDen 6 times. Notable: YouTube covered RTD's shakeup and Mayor Hancock's building purchase, while The Business Journals picked up the Arizona startup residency story.",
+      "blurb": "<strong>2 mentions today</strong> push the 7-day total to 53 across 14 sources \u2014 down from 62 the prior week but maintaining steady flow. Instagram continues to lead with 21 pickups this week, while The Denver Post and Facebook each contributed 7 citations. Recent highlights include Mayor Hancock's historic building purchase and the Marketplace expansion story. Google News RSS drove 51 of the 53 weekly mentions.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
+        "value1": "2",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "49",
+        "value1": "53",
         "class1": "down",
         "label2": "sources",
-        "value2": "16",
+        "value2": "14",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Flat yesterday</strong> (0 net) leaves MTD at \u22121 and 90-day net at +137. The past two weeks have been choppy: after a strong Mar 26-27 spike (+7 net over 2 days), the month turned negative with Apr 2's \u22124 day dragging MTD below zero. Despite the recent wobble, the 90-day trend remains solidly positive at +137 net.",
+      "blurb": "<strong>Flat yesterday</strong> (0 net: 1 new, 1 canceled) nudges MTD to +5 and holds 90-day net at +136. The past week delivered +8 net \u2014 matching the prior week exactly \u2014 with Apr 7's +4 spike offsetting choppy mid-week performance. Despite day-to-day volatility (Apr 2 posted \u22124, Apr 6 \u22121), the monthly average (+0.6/day) trails well behind the YTD pace of +1.4/day, suggesting April is softer than Q1's momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-1",
-      "net_ytd": "130",
-      "net_mtd_per_day": "-0.1",
-      "net_ytd_per_day": "1.3",
-      "annual_mtd": "0",
-      "annual_ytd": "0",
-      "monthly_mtd": "0",
-      "monthly_ytd": "0"
+      "net_mtd": "5",
+      "net_ytd": "136",
+      "net_mtd_per_day": "0.6",
+      "net_ytd_per_day": "1.4",
+      "annual_mtd": "4",
+      "annual_ytd": "108",
+      "monthly_mtd": "1",
+      "monthly_ytd": "28"
     }
   }
 }
