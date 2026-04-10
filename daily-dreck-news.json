@@ -1,51 +1,87 @@
 {
   "fetched_date": "2026-04-10",
-  "fetched_at": "2026-04-10 22:39:51",
+  "fetched_at": "2026-04-10 23:37:31",
   "article_count": 20,
-  "breaking_count": 15,
+  "breaking_count": 16,
   "articles": [
+    {
+      "title": "Downtown Denver hotel, nightclub ordered to shut down immediately",
+      "link": "https://kdvr.com/news/local/downtown-denver-hotel-nightclub-ordered-to-shut-down-immediately/",
+      "source": "Fox31",
+      "pub_date": "2026-04-10T23:22:56+00:00",
+      "age_hours": 0.23931537805555556,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Denver weather: Breezy weekend with Saturday rain chance",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-breezy-weekend-with-saturday-rain-chance/",
+      "source": "Fox31",
+      "pub_date": "2026-04-10T22:44:44+00:00",
+      "age_hours": 0.8759820783333333,
+      "breaking": true,
+      "time_ago": "52 min ago"
+    },
+    {
+      "title": "Colorado\u2019s 661\u2011page budget read aloud after Rep. Bradley invokes procedural rule",
+      "link": "https://www.coloradopolitics.com/2026/04/10/colorados-661-page-budget-read-aloud-after-rep-bradley-invokes-procedural-rule/",
+      "source": "CO Politics",
+      "pub_date": "2026-04-10T22:44:08+00:00",
+      "age_hours": 0.8861867788888889,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
+    {
+      "title": "Colorado lawmaker\u2019s demand for full budget reading upends GOP assembly plans, triggers bipartisan reaction",
+      "link": "https://www.coloradopolitics.com/2026/04/10/colorado-lawmakers-demand-for-full-budget-reading-upends-gop-assembly-plans-triggers-bipartisan-reaction/",
+      "source": "CO Politics",
+      "pub_date": "2026-04-10T22:40:13+00:00",
+      "age_hours": 0.9514645686111111,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
     {
       "title": "How Denver golf courses manage drought restrictions",
       "link": "https://www.9news.com/article/news/local/denver-golf-courses-drought-water-conservation/73-be6e5679-f0e9-4c26-b843-fed8cddd06a0",
       "source": "9News",
       "pub_date": "2026-04-10T22:17:42+00:00",
-      "age_hours": 0.3645972972222222,
+      "age_hours": 1.3262467305555556,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Man arrested in connection with fatal shooting in Five Points neighborhood",
       "link": "https://www.9news.com/article/news/crime/denver-five-points-shooting-death/73-83564a20-f1da-443a-850e-89fc480376b5",
       "source": "9News",
       "pub_date": "2026-04-10T21:58:06+00:00",
-      "age_hours": 0.6912639805555556,
+      "age_hours": 1.6529134074999998,
       "breaking": true,
-      "time_ago": "41 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado SunFest 2026 panel: The future of public policy",
       "link": "https://coloradosun.com/2026/04/10/colorado-sunfest-2026-panel-the-future-of-public-policy/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:54:42+00:00",
-      "age_hours": 0.7478374872222222,
+      "age_hours": 1.7095152644444445,
       "breaking": true,
-      "time_ago": "44 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Dohn-owned company buys two properties, sells another",
       "link": "https://bizwest.com/2026/04/10/dohn-owned-company-buys-two-properties-sells-another/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:45:46+00:00",
-      "age_hours": 0.8956320030555556,
+      "age_hours": 1.8576376569444444,
       "breaking": true,
-      "time_ago": "53 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Largest Wing Shack planned for east Fort Collins",
       "link": "https://bizwest.com/2026/04/10/largest-wing-shack-planned-for-east-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:37:14+00:00",
-      "age_hours": 1.0378542372222224,
+      "age_hours": 1.9998598880555556,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -54,135 +90,99 @@
       "link": "https://coloradosun.com/2026/04/10/colorado-sunfest-2026-panel-basic-income-programs-in-denver-and-beyond/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:33:06+00:00",
-      "age_hours": 1.1078375019444444,
+      "age_hours": 2.0695152741666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Infleqtion stock up on $40M 2026 sales guidance",
       "link": "https://bizwest.com/2026/04/10/infleqtion-stock-up-on-40m-2026-sales-guidance/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:31:13+00:00",
-      "age_hours": 1.13813202,
+      "age_hours": 2.10013767,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver South High School marks 100 years with community celebration",
       "link": "https://www.9news.com/article/news/education/denver-south-high-school-100th-anniversary/73-ed12b741-9633-4592-84a0-18cb948f8b34",
       "source": "9News",
       "pub_date": "2026-04-10T21:16:52+00:00",
-      "age_hours": 1.3784862141666667,
+      "age_hours": 2.3401356397222224,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Rockies bring Broncos owners in as minority partners as they try to turn around franchise",
       "link": "https://coloradosun.com/2026/04/10/colorado-rockies-bring-in-denver-broncos-ownership/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:12:48+00:00",
-      "age_hours": 1.4461708486111111,
+      "age_hours": 2.407848620833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "New joint service plan aims to launch Denver-Fort Collins rail by 2029",
       "link": "https://sentinelcolorado.com/metro/new-joint-service-plan-aims-to-launch-denver-fort-collins-rail-by-2029/",
       "source": "Sentinel",
       "pub_date": "2026-04-10T21:10:11+00:00",
-      "age_hours": 1.490748455,
+      "age_hours": 2.4520364475000003,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver weather: Warming up Saturday with scattered showers this weekend",
       "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
       "source": "9News",
       "pub_date": "2026-04-10T20:53:48+00:00",
-      "age_hours": 1.7629306633333333,
+      "age_hours": 2.7245800919444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Hackers steal nearly $10,000 from a Georgia family ordering takeout",
       "link": "https://www.9news.com/article/news/nation-world/hackers-steal-thousands-online-takeout-order/507-f2c6534c-d8fb-454d-9d70-669be8797e4d",
       "source": "9News",
       "pub_date": "2026-04-10T20:43:36+00:00",
-      "age_hours": 1.9329306677777778,
+      "age_hours": 2.8945801002777776,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Inflation spiking: Financial expert breaks down new consumer price index numbers",
       "link": "https://www.denver7.com/money/business-news/inflation-spiking-financial-expert-breaks-down-new-consumer-price-index-numbers",
       "source": "Denver7",
       "pub_date": "2026-04-10T17:30:50+00:00",
-      "age_hours": 5.145833435555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.107488494444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "120th Colorado Auto Show underway at Colorado Convention Center",
       "link": "https://www.denver7.com/money/consumer/120th-colorado-auto-show-underway-at-colorado-convention-center",
       "source": "Denver7",
       "pub_date": "2026-04-10T17:08:22+00:00",
-      "age_hours": 5.520277891111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.481932946111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Broncos owners become minority owners of Rockies",
       "link": "https://kdvr.com/sports/denver-broncos/broncos-owners-become-minority-owners-of-rockies/",
       "source": "Fox31",
       "pub_date": "2026-04-10T16:25:04+00:00",
-      "age_hours": 6.242066159444444,
+      "age_hours": 7.203759815,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "City of Northglenn, state fail to reach agreement on mental health facility amid safety concerns",
       "link": "https://www.coloradopolitics.com/2026/04/10/city-of-northglenn-state-fail-to-reach-agreement-on-mental-health-facility-amid-safety-concerns/",
       "source": "CO Politics",
       "pub_date": "2026-04-10T16:16:27+00:00",
-      "age_hours": 6.386267314722223,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Mile High Dine & Recline: The All Inn Hotel",
-      "link": "https://milehighcre.com/mile-high-dine-recline-the-all-inn-hotel/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-04-10T15:18:22+00:00",
-      "age_hours": 7.353117950000001,
+      "age_hours": 7.347575708888889,
       "breaking": false,
       "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Denver Announces Expanded Vision for East Colfax",
-      "link": "https://milehighcre.com/denver-announces-expanded-vision-for-east-colfax/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-04-10T15:17:59+00:00",
-      "age_hours": 7.359506858333333,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Plane suffered 'substantial' damage after hitting de-icing trucks at Denver airport",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-deicer-crash-report/73-d5fc515c-e2ca-4ff6-ad42-6b5229f16ee2",
-      "source": "9News",
-      "pub_date": "2026-04-10T14:32:36+00:00",
-      "age_hours": 8.116264093888889,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "No Bees, No Food: These Denver Restaurants Are Going All-In on Honey",
-      "link": "https://www.westword.com/food-drink/denver-restaurants-going-all-in-on-honey-as-bee-population-struggles-40869679/",
-      "source": "Westword",
-      "pub_date": "2026-04-10T14:10:13-06:00",
-      "age_hours": 2.489789417222222,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
     }
   ]
 }
