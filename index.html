@@ -571,7 +571,7 @@
 
         <!-- Row 1: Recent Articles -->
         <div class="tp-tool">
-          <a class="tool-card" href="https://businessden.github.io/reputation/" target="_blank">
+          <a class="tool-card" href="https://businessden.github.io/reputation/#stories" target="_blank">
             <div class="tool-card-body" style="padding-top:12px;padding-bottom:12px;">
               <div class="badge-row">
                 <span class="badge badge-live"><span class="dot"></span>Live</span>
@@ -933,71 +933,7 @@
       if (!lq_d && !lq_w && tools.liquor && tools.liquor.ticker) { lq_w = tools.liquor.ticker; }
       renderPulse(document.getElementById('pulse-liquor'), lq_d, lq_w);
 
-      // Subscriptions pulse — Combined, Annual, Monthly breakout
-      var sbEl = document.getElementById('pulse-subscriptions');
-      if (sbEl && tools.subscriptions) {
-        var sb = tools.subscriptions;
-
-        function fmtNet(v) {
-          if (v === undefined || v === null) return { display: '\u2014', cls: '' };
-          var num = typeof v === 'number' ? v : parseInt(v);
-          if (isNaN(num)) return { display: '\u2014', cls: '' };
-          if (num > 0) return { display: '+' + num, cls: 'up' };
-          if (num < 0) return { display: String(num), cls: 'down' };
-          return { display: '0', cls: '' };
-        }
-
-        function fmtPerDay(v) {
-          if (v === undefined || v === null) return { display: '\u2014', cls: '' };
-          var num = typeof v === 'number' ? v : parseFloat(v);
-          if (isNaN(num)) return { display: '\u2014', cls: '' };
-          var rounded = Math.round(num * 10) / 10;
-          if (rounded > 0) return { display: '+' + rounded.toFixed(1), cls: 'up' };
-          if (rounded < 0) return { display: rounded.toFixed(1), cls: 'down' };
-          return { display: '0.0', cls: '' };
-        }
-
-        function renderRow(label, labelColor, mtdVal, ytdVal) {
-          var mtd = fmtNet(mtdVal);
-          var ytd = fmtNet(ytdVal);
-          return '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:4px 0;">' +
-            '<div style="font-size:8px;letter-spacing:1.5px;text-transform:uppercase;color:' + labelColor + ';text-align:center;margin-bottom:2px;font-weight:600;">' + label + '</div>' +
-            '<div style="display:flex;gap:0;">' +
-              '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
-                '<div class="t-value ' + mtd.cls + '" style="font-size:18px;">' + mtd.display + '</div>' +
-                '<div class="t-sub" style="font-size:8px;">MTD</div>' +
-              '</div>' +
-              '<div style="flex:1;text-align:center;">' +
-                '<div class="t-value ' + ytd.cls + '" style="font-size:18px;">' + ytd.display + '</div>' +
-                '<div class="t-sub" style="font-size:8px;">YTD</div>' +
-              '</div>' +
-            '</div>' +
-          '</div>';
-        }
-
-        var mtdPd = fmtPerDay(sb.net_mtd_per_day);
-        var ytdPd = fmtPerDay(sb.net_ytd_per_day);
-
-        sbEl.innerHTML =
-          '<div style="width:100%;">' +
-            renderRow('net new', 'var(--text-dim)', sb.net_mtd, sb.net_ytd) +
-            renderRow('annual', '#2d8a6e', sb.annual_mtd, sb.annual_ytd) +
-            renderRow('monthly', '#e5b83a', sb.monthly_mtd, sb.monthly_ytd) +
-            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:4px 0;">' +
-              '<div style="font-size:8px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:2px;font-weight:600;">per day</div>' +
-              '<div style="display:flex;gap:0;">' +
-                '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
-                  '<div class="t-value ' + mtdPd.cls + '" style="font-size:18px;">' + mtdPd.display + '</div>' +
-                  '<div class="t-sub" style="font-size:8px;">MTD</div>' +
-                '</div>' +
-                '<div style="flex:1;text-align:center;">' +
-                  '<div class="t-value ' + ytdPd.cls + '" style="font-size:18px;">' + ytdPd.display + '</div>' +
-                  '<div class="t-sub" style="font-size:8px;">YTD</div>' +
-                '</div>' +
-              '</div>' +
-            '</div>' +
-          '</div>';
-      }
+      // Subscriptions pulse is now rendered client-side from subscriber data (see chart section below)
 
       // Mobile ticker
       var mt = document.getElementById('ticker-mobile');
@@ -1078,8 +1014,9 @@
       var sortedDates = Object.keys(dates).sort().reverse();
 
       // Use yesterday or most recent date with articles
-      var today = new Date().toISOString().slice(0, 10);
-      var targetDate = sortedDates.find(function(d) { return d < today; }) || sortedDates[0];
+      var today = new Date(new Date().toLocaleString('en-US', {timeZone: 'America/Denver'}));
+      var todayStr = today.getFullYear() + '-' + String(today.getMonth()+1).padStart(2,'0') + '-' + String(today.getDate()).padStart(2,'0');
+      var targetDate = sortedDates.find(function(d) { return d < todayStr; }) || sortedDates[0];
       var articles = dates[targetDate] || [];
 
       if (!articles.length) {
@@ -1309,6 +1246,94 @@
       window._subsChartData = { days: combinedDays, annualDays: annualDays, monthlyDays: monthlyDays };
       window._renderSubsChart = renderSubsChart;
       window._subsColors = { combined: colorsCombined, annual: colorsAnnual, monthly: colorsMonthly };
+
+      // === Compute pulse stats client-side ===
+      var mtNow = new Date(new Date().toLocaleString('en-US', {timeZone: 'America/Denver'}));
+      var mtYear = mtNow.getFullYear();
+      var mtMonth = mtNow.getMonth() + 1;
+      var monthStart = mtYear + '-' + String(mtMonth).padStart(2, '0') + '-01';
+      var yearStart = mtYear + '-01-01';
+      var todayMT = mtYear + '-' + String(mtMonth).padStart(2, '0') + '-' + String(mtNow.getDate()).padStart(2, '0');
+      var daysMTD = Math.max(1, Math.floor((mtNow - new Date(monthStart)) / 86400000));
+      var daysYTD = Math.max(1, Math.floor((mtNow - new Date(yearStart)) / 86400000));
+
+      function netForRange(filterTypes, start, end) {
+        var n = 0, c = 0;
+        allSubs.forEach(function(s) {
+          if (filterTypes && filterTypes.indexOf(s.type) === -1) return;
+          if (s.started_at) {
+            var d = ds(new Date(s.started_at * 1000));
+            if (d >= start && d <= end) n++;
+          }
+          if (s.status === 'canceled' && s.canceled_at) {
+            var d2 = ds(new Date(s.canceled_at * 1000));
+            if (d2 >= start && d2 <= end) c++;
+          }
+        });
+        return n - c;
+      }
+
+      var netMTD = netForRange(null, monthStart, todayMT);
+      var netYTD = netForRange(null, yearStart, todayMT);
+      var annMTD = netForRange(['annual'], monthStart, todayMT);
+      var annYTD = netForRange(['annual'], yearStart, todayMT);
+      var monMTD = netForRange(['monthly'], monthStart, todayMT);
+      var monYTD = netForRange(['monthly'], yearStart, todayMT);
+      var mtdPerDay = Math.round((netMTD / daysMTD) * 10) / 10;
+      var ytdPerDay = Math.round((netYTD / daysYTD) * 10) / 10;
+
+      // Render the pulse
+      var sbEl = document.getElementById('pulse-subscriptions');
+      if (sbEl) {
+        function fmtNetP(v) {
+          if (v > 0) return { display: '+' + v, cls: 'up' };
+          if (v < 0) return { display: String(v), cls: 'down' };
+          return { display: '0', cls: '' };
+        }
+        function fmtPdP(v) {
+          if (v > 0) return { display: '+' + v.toFixed(1), cls: 'up' };
+          if (v < 0) return { display: v.toFixed(1), cls: 'down' };
+          return { display: '0.0', cls: '' };
+        }
+        function renderRowP(label, labelColor, mtdVal, ytdVal) {
+          var mtd = fmtNetP(mtdVal);
+          var ytd = fmtNetP(ytdVal);
+          return '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:4px 0;">' +
+            '<div style="font-size:8px;letter-spacing:1.5px;text-transform:uppercase;color:' + labelColor + ';text-align:center;margin-bottom:2px;font-weight:600;">' + label + '</div>' +
+            '<div style="display:flex;gap:0;">' +
+              '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
+                '<div class="t-value ' + mtd.cls + '" style="font-size:18px;">' + mtd.display + '</div>' +
+                '<div class="t-sub" style="font-size:8px;">MTD</div>' +
+              '</div>' +
+              '<div style="flex:1;text-align:center;">' +
+                '<div class="t-value ' + ytd.cls + '" style="font-size:18px;">' + ytd.display + '</div>' +
+                '<div class="t-sub" style="font-size:8px;">YTD</div>' +
+              '</div>' +
+            '</div>' +
+          '</div>';
+        }
+        var mtdPdF = fmtPdP(mtdPerDay);
+        var ytdPdF = fmtPdP(ytdPerDay);
+        sbEl.innerHTML =
+          '<div style="width:100%;">' +
+            renderRowP('net new', 'var(--text-dim)', netMTD, netYTD) +
+            renderRowP('annual', '#2d8a6e', annMTD, annYTD) +
+            renderRowP('monthly', '#e5b83a', monMTD, monYTD) +
+            '<div style="border-top:1px solid rgba(255,255,255,0.05);padding:4px 0;">' +
+              '<div style="font-size:8px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-dim);text-align:center;margin-bottom:2px;font-weight:600;">per day</div>' +
+              '<div style="display:flex;gap:0;">' +
+                '<div style="flex:1;text-align:center;border-right:1px solid rgba(255,255,255,0.04);">' +
+                  '<div class="t-value ' + mtdPdF.cls + '" style="font-size:18px;">' + mtdPdF.display + '</div>' +
+                  '<div class="t-sub" style="font-size:8px;">MTD</div>' +
+                '</div>' +
+                '<div style="flex:1;text-align:center;">' +
+                  '<div class="t-value ' + ytdPdF.cls + '" style="font-size:18px;">' + ytdPdF.display + '</div>' +
+                  '<div class="t-sub" style="font-size:8px;">YTD</div>' +
+                '</div>' +
+              '</div>' +
+            '</div>' +
+          '</div>';
+      }
 
     }).catch(function(err) {
       console.warn('Could not load subscriber data:', err);
