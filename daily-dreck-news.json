@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-10",
-  "fetched_at": "2026-04-10 19:49:02",
+  "fetched_at": "2026-04-10 20:40:04",
   "article_count": 20,
   "breaking_count": 10,
   "articles": [
     {
-      "title": "Activists welcome Aurora council\u2019s proposed police-shooting resolution",
+      "title": "Denver weather: Slight cooling with scattered showers this weekend",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-04-10T20:29:09+00:00",
+      "age_hours": 0.17889244055555556,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "Broncos owners Greg and Carrie Penner join Rockies ownership group",
+      "link": "https://www.9news.com/article/sports/mlb/colorado-rockies/denver-broncos-greg-carrie-penner-colorado-rockies-minority-owners/73-bff5edc9-c65c-46e1-8e90-94e6dbc438ba",
+      "source": "9News",
+      "pub_date": "2026-04-10T20:25:20+00:00",
+      "age_hours": 0.24250356388888888,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Activists cool to Aurora council\u2019s proposed police-shooting resolution",
       "link": "https://sentinelcolorado.com/metro/activists-welcome-aurora-councils-proposed-police-shooting-resolution/",
       "source": "Sentinel",
       "pub_date": "2026-04-10T19:01:38+00:00",
-      "age_hours": 0.78637465,
+      "age_hours": 1.6380717555555555,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Inflation spiking: Financial expert breaks down new consumer price index numbers",
       "link": "https://www.denver7.com/money/business-news/inflation-spiking-financial-expert-breaks-down-new-consumer-price-index-numbers",
       "source": "Denver7",
       "pub_date": "2026-04-10T17:30:50+00:00",
-      "age_hours": 2.299256081111111,
+      "age_hours": 3.1510046016666666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "120th Colorado Auto Show underway at Colorado Convention Center",
       "link": "https://www.denver7.com/money/consumer/120th-colorado-auto-show-underway-at-colorado-convention-center",
       "source": "Denver7",
       "pub_date": "2026-04-10T17:08:22+00:00",
-      "age_hours": 2.673700546388889,
+      "age_hours": 3.5254490575,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Broncos owners become minority owners of Rockies",
       "link": "https://kdvr.com/sports/denver-broncos/broncos-owners-become-minority-owners-of-rockies/",
       "source": "Fox31",
       "pub_date": "2026-04-10T16:25:04+00:00",
-      "age_hours": 3.3953987544444444,
+      "age_hours": 4.2471478227777775,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Broncos owners Greg and Carrie Penner join Rockies ownership group",
-      "link": "https://www.9news.com/article/sports/mlb/colorado-rockies/denver-broncos-greg-carrie-penner-colorado-rockies-minority-owners/73-bff5edc9-c65c-46e1-8e90-94e6dbc438ba",
-      "source": "9News",
-      "pub_date": "2026-04-10T16:17:18+00:00",
-      "age_hours": 3.5246592258333336,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "City of Northglenn, state fail to reach agreement on mental health facility amid safety concerns",
       "link": "https://www.coloradopolitics.com/2026/04/10/city-of-northglenn-state-fail-to-reach-agreement-on-mental-health-facility-amid-safety-concerns/",
       "source": "CO Politics",
       "pub_date": "2026-04-10T16:16:27+00:00",
-      "age_hours": 3.5393468416666667,
+      "age_hours": 4.391097440277778,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Mile High Dine & Recline: The All Inn Hotel",
       "link": "https://milehighcre.com/mile-high-dine-recline-the-all-inn-hotel/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-10T15:18:22+00:00",
-      "age_hours": 4.506554504166666,
+      "age_hours": 5.358437745277778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver Announces Expanded Vision for East Colfax",
       "link": "https://milehighcre.com/denver-announces-expanded-vision-for-east-colfax/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-10T15:17:59+00:00",
-      "age_hours": 4.512943403055556,
+      "age_hours": 5.364826644444444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Plane suffered 'substantial' damage after hitting de-icing trucks at Denver airport",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-deicer-crash-report/73-d5fc515c-e2ca-4ff6-ad42-6b5229f16ee2",
       "source": "9News",
       "pub_date": "2026-04-10T14:32:36+00:00",
-      "age_hours": 5.269659254166666,
+      "age_hours": 6.121392529722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "No Bees, No Food: These Denver Restaurants Are Going All-In on Honey",
+      "link": "https://www.westword.com/food-drink/denver-restaurants-going-all-in-on-honey-as-bee-population-struggles-40869679/",
+      "source": "Westword",
+      "pub_date": "2026-04-10T14:10:13-06:00",
+      "age_hours": 0.4948163672222222,
       "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "29 min ago"
     },
     {
       "title": "Kent Anderson\u2019s 2-OT winner lifts Denver past Michigan 4-3 in Frozen Four thriller",
       "link": "https://www.9news.com/article/sports/college/kent-andersons-2-ot-winner-lifts-denver-past-michigan-4-3-in-frozen-four-thriller/616-2a95fa77-9fc1-4483-a98b-17d673d02cc5",
       "source": "9News",
       "pub_date": "2026-04-10T14:01:54+00:00",
-      "age_hours": 5.781325926944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.633059207222223,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Kara Swisher examines the science, tech and business of living longer in new CNN docuseries",
       "link": "https://sentinelcolorado.com/uncategorized/kara-swisher-examines-the-science-tech-and-business-of-living-longer-in-new-cnn-docuseries/",
       "source": "Sentinel",
       "pub_date": "2026-04-10T13:32:30+00:00",
-      "age_hours": 6.271930247777778,
+      "age_hours": 7.123627346388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver Zoo sues Firestone firm over sea lion exhibit",
       "link": "https://bizwest.com/2026/04/10/denver-zoo-sues-firestone-firm-over-sea-lion-exhibit/",
       "source": "BizWest",
       "pub_date": "2026-04-10T13:17:55+00:00",
-      "age_hours": 6.5136641427777775,
+      "age_hours": 7.3656176844444445,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver weather: Isolated showers, extra clouds",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-isolated-showers-extra-clouds/",
       "source": "Fox31",
       "pub_date": "2026-04-10T13:15:33+00:00",
-      "age_hours": 6.5540099125,
+      "age_hours": 7.405758992777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado unemployment rate ticked up in January",
       "link": "https://bizwest.com/2026/04/10/colorado-unemployment-rate-ticked-up-in-january/",
       "source": "BizWest",
       "pub_date": "2026-04-10T13:02:32+00:00",
-      "age_hours": 6.7700530525,
+      "age_hours": 7.622006586111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "March offers residential real estate mixed bag",
       "link": "https://bizwest.com/2026/04/10/march-offers-residential-real-estate-mixed-bag/",
       "source": "BizWest",
       "pub_date": "2026-04-10T12:52:12+00:00",
-      "age_hours": 6.942275278888889,
+      "age_hours": 7.7942288125,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver weather: Slight cooling with scattered showers this weekend",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-04-10T11:37:44+00:00",
-      "age_hours": 8.184103731944445,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado Parks and Wildlife takes larger role in statewide coordination of search and rescue",
       "link": "https://coloradosun.com/2026/04/10/cpw-search-and-rescue/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T10:00:00+00:00",
-      "age_hours": 9.81278307388889,
+      "age_hours": 10.664627781666667,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "H.R. 1 underscores unfairness in Colorado tax code | OPINION",
       "link": "https://www.coloradopolitics.com/2026/04/10/h-r-1-underscores-unfairness-in-colorado-tax-code-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-04-10T06:30:00+00:00",
-      "age_hours": 13.313513529444444,
+      "age_hours": 14.16526412861111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado lawmakers grapple with spending cuts amid $1 billion-plus deficit",
       "link": "https://www.coloradopolitics.com/2026/04/09/colorado-lawmakers-grapple-with-spending-cuts-amid-1-billion-plus-deficit/",
       "source": "CO Politics",
       "pub_date": "2026-04-10T00:45:47+00:00",
-      "age_hours": 19.05045797916667,
+      "age_hours": 19.902208578055554,
       "breaking": false,
       "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Man sentenced for 2 murders pleads guilty to 3rd",
-      "link": "https://kdvr.com/news/local/man-sentenced-for-2-murders-pleads-guilty-to-3rd/",
-      "source": "Fox31",
-      "pub_date": "2026-04-09T23:33:03+00:00",
-      "age_hours": 20.262343252222223,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
     }
   ]
 }
