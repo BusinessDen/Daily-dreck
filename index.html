@@ -1234,7 +1234,7 @@
       }
 
       // Build data for each type
-      var combinedDays = buildCounts(null); // all types
+      var combinedDays = buildCounts(['annual', 'monthly']); // paid subscribers only
       var annualDays = buildCounts(['annual']);
       var monthlyDays = buildCounts(['monthly']);
 
@@ -1279,8 +1279,8 @@
         return n - c;
       }
 
-      var netMTD = netForRange(null, monthStart, todayMT);
-      var netYTD = netForRange(null, yearStart, todayMT);
+      var netMTD = netForRange(['annual', 'monthly'], monthStart, todayMT);
+      var netYTD = netForRange(['annual', 'monthly'], yearStart, todayMT);
       var annMTD = netForRange(['annual'], monthStart, todayMT);
       var annYTD = netForRange(['annual'], yearStart, todayMT);
       var monMTD = netForRange(['monthly'], monthStart, todayMT);
