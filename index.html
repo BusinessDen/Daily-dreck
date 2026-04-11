@@ -222,9 +222,23 @@
 
   /* Hourly traffic charts */
   .chart-labels { display: flex; gap: 2px; margin-top: 4px; }
-  .chart-labels span { flex: 1; font-size: 7px; color: #706878; text-align: center; font-family: 'JetBrains Mono', monospace; }
-  .chart-legend { display: flex; gap: 10px; font-size: 8px; color: #9890a0; flex-wrap: wrap; font-family: 'JetBrains Mono', monospace; }
+  .chart-labels span { flex: 1; font-size: 9px; color: #c8c0cc; text-align: center; font-family: 'JetBrains Mono', monospace; }
+  .chart-legend { display: flex; gap: 10px; font-size: 9px; color: #c8c0cc; flex-wrap: wrap; font-family: 'JetBrains Mono', monospace; }
   .chart-legend i { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 4px; vertical-align: middle; }
+
+  /* Chart tooltip */
+  .chart-tooltip {
+    display: none; position: fixed; z-index: 200;
+    background: rgba(18,18,26,0.95); border: 1px solid rgba(212,170,79,0.25);
+    border-radius: 6px; padding: 8px 12px;
+    font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #c8c0cc;
+    pointer-events: none; white-space: nowrap;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+  }
+  .chart-tooltip .tt-hour { font-weight: 600; color: var(--cream); margin-bottom: 4px; font-size: 11px; }
+  .chart-tooltip .tt-row { display: flex; align-items: center; gap: 6px; padding: 1px 0; }
+  .chart-tooltip .tt-dot { width: 8px; height: 8px; border-radius: 2px; flex-shrink: 0; }
+  .chart-tooltip .tt-val { margin-left: auto; font-weight: 500; color: var(--cream); }
 
   /* Top bar: date + density toggle */
   .top-bar {
@@ -651,15 +665,11 @@
                   <div class="chart-legend" id="dreckHourlyLegend" style="margin-top:6px;"></div>
                 </div>
                 <div>
-                  <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Newsletter vs. Direct</div>
+                  <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Source Mix %</div>
                   <div style="position:relative;">
                     <canvas id="dreckNlvdCanvas" height="100" style="width:100%;background:transparent;"></canvas>
                   </div>
                   <div class="chart-labels" id="dreckNlvdLabels"></div>
-                  <div class="chart-legend" style="margin-top:6px;">
-                    <span><i style="background:#f59e0b"></i> Newsletter</span>
-                    <span><i style="background:#6366f1"></i> Direct</span>
-                  </div>
                 </div>
               </div>
               <div class="cta">Expand Charts →</div>
@@ -795,30 +805,31 @@
     </div>
   </div>
 
+  <!-- SHARED CHART TOOLTIP -->
+  <div class="chart-tooltip" id="chartTooltip"></div>
+
   <!-- TRAFFIC CHART POPUP OVERLAY -->
   <div id="traffic-overlay" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;z-index:100;background:rgba(7,7,16,0.6);overflow:auto;">
     <div style="display:flex;align-items:center;justify-content:center;min-height:100vh;padding:24px;">
-      <div style="width:100%;max-width:1400px;background:#12121a;border:1px solid rgba(212,170,79,0.15);border-radius:12px;box-shadow:0 24px 80px rgba(0,0,0,0.6);padding:28px 32px;">
-        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;">
+      <div style="width:100%;max-width:1400px;background:#12121a;border:1px solid rgba(212,170,79,0.15);border-radius:12px;box-shadow:0 24px 80px rgba(0,0,0,0.6);padding:24px 28px;">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
           <div>
-            <h2 style="font-family:'Cormorant Garamond',serif;font-size:26px;font-weight:700;color:var(--cream);">Yesterday's Traffic by Hour</h2>
+            <h2 style="font-family:'Cormorant Garamond',serif;font-size:24px;font-weight:700;color:var(--cream);">Yesterday's Traffic by Hour</h2>
             <a href="https://businessden.github.io/reputation/#traffic" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:none;letter-spacing:1px;">Open Full Traffic Dashboard →</a>
           </div>
           <button id="traffic-overlay-close" style="background:none;border:1px solid var(--border);color:var(--cream-dim);font-size:13px;padding:6px 14px;border-radius:6px;cursor:pointer;font-family:'Sora',sans-serif;">✕ Close</button>
         </div>
-        <div style="margin-bottom:20px;">
-          <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Readers by Source</div>
-          <canvas id="fsHourlyCanvas" height="280" style="width:100%;background:transparent;"></canvas>
-          <div class="chart-labels" id="fsHourlyLabels"></div>
-          <div class="chart-legend" id="fsHourlyLegend" style="margin-top:8px;font-size:10px;"></div>
-        </div>
-        <div>
-          <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Newsletter vs. Direct</div>
-          <canvas id="fsNlvdCanvas" height="280" style="width:100%;background:transparent;"></canvas>
-          <div class="chart-labels" id="fsNlvdLabels"></div>
-          <div class="chart-legend" style="margin-top:8px;font-size:10px;">
-            <span><i style="background:#f59e0b"></i> Newsletter</span>
-            <span><i style="background:#6366f1"></i> Direct</span>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">
+          <div>
+            <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Readers by Source</div>
+            <canvas id="fsHourlyCanvas" height="200" style="width:100%;background:transparent;"></canvas>
+            <div class="chart-labels" id="fsHourlyLabels" style="font-size:9px;"></div>
+            <div class="chart-legend" id="fsHourlyLegend" style="margin-top:8px;font-size:10px;"></div>
+          </div>
+          <div>
+            <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Source Mix %</div>
+            <canvas id="fsNlvdCanvas" height="200" style="width:100%;background:transparent;"></canvas>
+            <div class="chart-labels" id="fsNlvdLabels" style="font-size:9px;"></div>
           </div>
         </div>
       </div>
@@ -1233,6 +1244,44 @@
     })
     .catch(function(err) { console.warn('Hourly traffic data unavailable:', err); });
 
+    // Shared tooltip helper
+    var tooltip = document.getElementById('chartTooltip');
+    var srcColors = {email:'#f59e0b',direct:'#3b82f6',organic:'#22c55e',referral:'#c084fc',social:'#22d3ee',paid:'#ef4444',other:'#64748b'};
+    var srcLabels = {email:'Newsletter',direct:'Direct',organic:'Organic',referral:'Referral',social:'Social',paid:'Paid',other:'Other'};
+    var layers = ['other','paid','social','referral','organic','direct','email'];
+    var layersReversed = layers.slice().reverse();
+
+    function fmtHour(h) { return h === 0 ? '12:00 AM' : h < 12 ? h + ':00 AM' : h === 12 ? '12:00 PM' : (h - 12) + ':00 PM'; }
+
+    function attachTooltip(canvas, hourlyData, pad, barW, gapVal, mode) {
+      canvas.addEventListener('mousemove', function(e) {
+        var r = canvas.getBoundingClientRect();
+        var mx = e.clientX - r.left;
+        var scaleX = r.width / (canvas.width / 2);
+        var localX = mx / scaleX;
+        var idx = Math.min(23, Math.max(0, Math.round((localX - pad.left) / (barW + gapVal))));
+        var s = hourlyData[idx] || {};
+        var total = 0; var ks = Object.keys(s); for (var j = 0; j < ks.length; j++) total += s[ks[j]];
+
+        var html = '<div class="tt-hour">' + fmtHour(idx) + ' — ' + total + ' readers</div>';
+        for (var li = 0; li < layersReversed.length; li++) {
+          var l = layersReversed[li];
+          var v = s[l] || 0;
+          if (!v) continue;
+          var pct = total > 0 ? Math.round(v / total * 1000) / 10 : 0;
+          var extra = mode === 'pct' ? ' (' + pct + '%)' : '';
+          html += '<div class="tt-row"><div class="tt-dot" style="background:' + srcColors[l] + '"></div>' + (srcLabels[l] || l) + '<span class="tt-val">' + v + extra + '</span></div>';
+        }
+        if (tooltip) {
+          tooltip.innerHTML = html;
+          tooltip.style.display = 'block';
+          tooltip.style.left = Math.min(e.clientX + 12, window.innerWidth - 220) + 'px';
+          tooltip.style.top = (e.clientY - 10) + 'px';
+        }
+      });
+      canvas.addEventListener('mouseleave', function() { if (tooltip) tooltip.style.display = 'none'; });
+    }
+
     function renderHourlySourcesChart(canvasId, labelsId, legendId, hourlyData) {
       var canvas = document.getElementById(canvasId);
       if (!canvas) return;
@@ -1242,20 +1291,25 @@
       canvas.width = rect.width * 2; canvas.height = rect.height * 2;
       ctx.scale(2, 2);
       var W = rect.width, H = rect.height;
-      var pad = {top: 14, right: 10, bottom: 5, left: 40};
+      var fs = W > 400 ? 11 : 9;
+      var pad = {top: 18, right: 10, bottom: 5, left: W > 400 ? 46 : 36};
       var cW = W - pad.left - pad.right, cH = H - pad.top - pad.bottom;
       var hours = []; for (var i = 0; i < 24; i++) hours.push(i);
-      var layers = ['other','paid','social','referral','organic','direct','email'];
-      var srcColors = {email:'#f59e0b',direct:'#3b82f6',organic:'#22c55e',referral:'#c084fc',social:'#22d3ee',paid:'#ef4444',other:'#64748b'};
-      var srcLabels = {email:'Newsletter',direct:'Direct',organic:'Organic',referral:'Referral',social:'Social',paid:'Paid',other:'Other'};
 
       var totals = hours.map(function(h) { var s = hourlyData[h] || {}; var t = 0; var ks = Object.keys(s); for (var j = 0; j < ks.length; j++) t += s[ks[j]]; return t; });
       var maxTotal = Math.max.apply(null, totals.concat([1]));
       var barW = Math.max(3, cW / 24 * 0.75);
       var gap = (cW - barW * 24) / 23;
-
       ctx.clearRect(0, 0, W, H);
 
+      ctx.fillStyle = '#c8c0cc'; ctx.font = fs + 'px JetBrains Mono'; ctx.textAlign = 'right';
+      for (var yi = 0; yi <= 4; yi++) {
+        var val = Math.round(maxTotal * yi / 4);
+        var y = pad.top + cH - (yi / 4) * cH;
+        ctx.fillText(val.toLocaleString(), pad.left - 4, y + 4);
+        ctx.strokeStyle = 'rgba(255,255,255,0.06)'; ctx.lineWidth = 0.5;
+        ctx.beginPath(); ctx.moveTo(pad.left, y); ctx.lineTo(pad.left + cW, y); ctx.stroke();
+      }
       hours.forEach(function(h, i) {
         var s = hourlyData[h] || {};
         var x = pad.left + i * (barW + gap);
@@ -1269,38 +1323,41 @@
           yBottom -= barH;
         }
       });
-
-      // Y-axis
-      ctx.fillStyle = '#706878'; ctx.font = '8px JetBrains Mono'; ctx.textAlign = 'right';
-      for (var yi = 0; yi <= 4; yi++) {
-        var val = Math.round(maxTotal * yi / 4);
-        var y = pad.top + cH - (yi / 4) * cH;
-        ctx.fillText(val.toLocaleString(), pad.left - 3, y + 3);
-        ctx.strokeStyle = 'rgba(255,255,255,0.04)'; ctx.lineWidth = 0.5;
-        ctx.beginPath(); ctx.moveTo(pad.left, y); ctx.lineTo(pad.left + cW, y); ctx.stroke();
+      // Peak labels
+      var ranked = hours.map(function(h, i) { return {i: i, total: totals[i]}; }).sort(function(a, b) { return b.total - a.total; });
+      var peakXs = [];
+      ctx.font = 'bold ' + (fs - 1) + 'px JetBrains Mono'; ctx.textAlign = 'center';
+      for (var pi = 0; pi < Math.min(3, ranked.length); pi++) {
+        var p = ranked[pi]; if (p.total === 0) continue;
+        var px = pad.left + p.i * (barW + gap) + barW / 2;
+        var py = pad.top + cH - (p.total / maxTotal) * cH;
+        var label = p.total.toLocaleString();
+        var tw = ctx.measureText(label).width;
+        var collides = false;
+        for (var ci = 0; ci < peakXs.length; ci++) { if (Math.abs(px - peakXs[ci]) < tw + 14) collides = true; }
+        if (collides) continue; peakXs.push(px);
+        ctx.fillStyle = 'rgba(0,0,0,0.8)'; ctx.fillRect(px - tw / 2 - 5, py - 17, tw + 10, 16);
+        ctx.fillStyle = '#fff'; ctx.fillText(label, px, py - 5);
       }
-
-      // X labels
       var labelsEl = document.getElementById(labelsId);
       if (labelsEl) {
-        var skip = W > 300 ? 3 : 4;
+        var skip = W > 500 ? 2 : 3;
         labelsEl.innerHTML = hours.map(function(h, i) {
           if (i % skip) return '<span></span>';
           var label = h === 0 ? '12a' : h < 12 ? h + 'a' : h === 12 ? '12p' : (h - 12) + 'p';
           return '<span>' + label + '</span>';
         }).join('');
       }
-
-      // Legend
       var legendEl = document.getElementById(legendId);
       if (legendEl) {
         var lt = {};
         hours.forEach(function(h) { var s = hourlyData[h] || {}; var ks = Object.keys(s); for (var j = 0; j < ks.length; j++) lt[ks[j]] = (lt[ks[j]] || 0) + s[ks[j]]; });
-        legendEl.innerHTML = layers.slice().reverse().map(function(l) {
+        legendEl.innerHTML = layersReversed.map(function(l) {
           if (!lt[l]) return '';
           return '<span><i style="background:' + srcColors[l] + '"></i> ' + (srcLabels[l] || l) + '</span>';
         }).filter(Boolean).join('');
       }
+      attachTooltip(canvas, hourlyData, pad, barW, gap, 'abs');
     }
 
     function renderHourlyNlvdChart(canvasId, labelsId, hourlyData) {
@@ -1312,57 +1369,68 @@
       canvas.width = rect.width * 2; canvas.height = rect.height * 2;
       ctx.scale(2, 2);
       var W = rect.width, H = rect.height;
-      var pad = {top: 14, right: 10, bottom: 5, left: 40};
+      var fs = W > 400 ? 11 : 9;
+      var pad = {top: 18, right: 10, bottom: 5, left: W > 400 ? 46 : 36};
       var cW = W - pad.left - pad.right, cH = H - pad.top - pad.bottom;
       var hours = []; for (var i = 0; i < 24; i++) hours.push(i);
       var barW = Math.max(3, cW / 24 * 0.75);
       var gap = (cW - barW * 24) / 23;
-
-      var vals = hours.map(function(h) {
-        var s = hourlyData[h] || {};
-        var email = s.email || 0;
-        var direct = s.direct || 0;
-        return {email: email, direct: direct, total: email + direct, pct: email + direct ? Math.round(email / (email + direct) * 1000) / 10 : 0};
-      });
-
       ctx.clearRect(0, 0, W, H);
 
-      // Y-axis grid (0-100%)
-      ctx.fillStyle = '#706878'; ctx.font = '8px JetBrains Mono'; ctx.textAlign = 'right';
+      ctx.fillStyle = '#c8c0cc'; ctx.font = fs + 'px JetBrains Mono'; ctx.textAlign = 'right';
       for (var yi = 0; yi <= 4; yi++) {
         var val = yi * 25;
         var y = pad.top + cH - (yi / 4) * cH;
-        ctx.fillText(val + '%', pad.left - 3, y + 3);
-        ctx.strokeStyle = 'rgba(255,255,255,0.04)'; ctx.lineWidth = 0.5;
+        ctx.fillText(val + '%', pad.left - 4, y + 4);
+        ctx.strokeStyle = 'rgba(255,255,255,0.06)'; ctx.lineWidth = 0.5;
         ctx.beginPath(); ctx.moveTo(pad.left, y); ctx.lineTo(pad.left + cW, y); ctx.stroke();
       }
-
-      // Stacked bars: direct bottom (indigo), newsletter top (amber)
+      // Stacked percentage bars — all sources
       hours.forEach(function(h, i) {
-        var v = vals[i];
+        var s = hourlyData[h] || {};
+        var total = 0; var ks = Object.keys(s); for (var j = 0; j < ks.length; j++) total += s[ks[j]];
+        if (!total) return;
         var x = pad.left + i * (barW + gap);
-        if (!v.total) return;
-        var nlH = (v.email / v.total) * cH;
-        var dirH = cH - nlH;
-        ctx.fillStyle = '#6366f1';
-        ctx.fillRect(x, pad.top, barW, dirH);
-        ctx.fillStyle = '#f59e0b';
-        ctx.fillRect(x, pad.top + dirH, barW, nlH);
+        var yBottom = pad.top + cH;
+        for (var li = 0; li < layers.length; li++) {
+          var v = s[layers[li]] || 0; if (!v) continue;
+          var barH = (v / total) * cH;
+          ctx.fillStyle = srcColors[layers[li]];
+          ctx.fillRect(x, yBottom - barH, barW, barH);
+          yBottom -= barH;
+        }
       });
-
-      // X labels
+      // Peak labels — top 3 by newsletter %
+      var ranked = hours.map(function(h, i) {
+        var s = hourlyData[h] || {}; var total = 0; var ks = Object.keys(s); for (var j = 0; j < ks.length; j++) total += s[ks[j]];
+        return {i: i, pct: total > 0 ? Math.round((s.email || 0) / total * 1000) / 10 : 0, total: total, email: s.email || 0};
+      }).filter(function(v) { return v.total > 0; }).sort(function(a, b) { return b.pct - a.pct; });
+      var peakXs = [];
+      ctx.font = 'bold ' + (fs - 1) + 'px JetBrains Mono'; ctx.textAlign = 'center';
+      for (var pi = 0; pi < Math.min(3, ranked.length); pi++) {
+        var p = ranked[pi];
+        var px = pad.left + p.i * (barW + gap) + barW / 2;
+        var py = pad.top + cH * (1 - (p.total ? p.email / p.total : 0));
+        var label = p.pct + '%';
+        var tw = ctx.measureText(label).width;
+        var collides = false;
+        for (var ci = 0; ci < peakXs.length; ci++) { if (Math.abs(px - peakXs[ci]) < tw + 14) collides = true; }
+        if (collides) continue; peakXs.push(px);
+        ctx.fillStyle = 'rgba(0,0,0,0.8)'; ctx.fillRect(px - tw / 2 - 5, py - 17, tw + 10, 16);
+        ctx.fillStyle = '#fff'; ctx.fillText(label, px, py - 5);
+      }
       var labelsEl = document.getElementById(labelsId);
       if (labelsEl) {
-        var skip = W > 300 ? 3 : 4;
+        var skip = W > 500 ? 2 : 3;
         labelsEl.innerHTML = hours.map(function(h, i) {
           if (i % skip) return '<span></span>';
           var label = h === 0 ? '12a' : h < 12 ? h + 'a' : h === 12 ? '12p' : (h - 12) + 'p';
           return '<span>' + label + '</span>';
         }).join('');
       }
+      attachTooltip(canvas, hourlyData, pad, barW, gap, 'pct');
     }
   })();
-
   // === LOAD SUBSCRIBER NET GROWTH CHARTS ===
   (function() {
     var SUBS_BASE = 'https://businessden.github.io/subscriber/data/';
