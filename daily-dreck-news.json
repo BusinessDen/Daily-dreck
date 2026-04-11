@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-04-10",
-  "fetched_at": "2026-04-10 23:37:31",
+  "fetched_date": "2026-04-11",
+  "fetched_at": "2026-04-11 02:28:18",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 20,
   "articles": [
     {
-      "title": "Downtown Denver hotel, nightclub ordered to shut down immediately",
+      "title": "Water restrictions are in effect in these Denver-area cities and towns",
+      "link": "https://kdvr.com/news/local/denver-colorado-water-restrictions-2026/",
+      "source": "Fox31",
+      "pub_date": "2026-04-11T01:50:55+00:00",
+      "age_hours": 0.6189167747222223,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "The City of Denver ordered it closed. It opened anyway. Now, Nativ Hotel & Gatsby Social has been shut down",
+      "link": "https://www.9news.com/article/news/local/nativ-hotel-gatsby-social-shut-down-city-suspended/73-e81734b0-a7f1-4cb3-a2e0-7588c2500573",
+      "source": "9News",
+      "pub_date": "2026-04-11T01:50:14+00:00",
+      "age_hours": 0.6300348177777778,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Good News is out of this world",
+      "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/good-news-is-out-of-this-world/73-f4cddca2-37d1-4f60-8136-68d0b4ebb705",
+      "source": "9News",
+      "pub_date": "2026-04-11T01:12:50+00:00",
+      "age_hours": 1.2533681613888887,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado regulators overrule Elbert County, approve Xcel Energy Power Pathway power lines",
+      "link": "https://www.9news.com/article/money/consumer/colorado-regulators-elbert-county-approve-xcel-energy-power-pathway/73-a5621c10-1a05-4c91-8b1f-d26ab6f4477f",
+      "source": "9News",
+      "pub_date": "2026-04-11T01:01:06+00:00",
+      "age_hours": 1.448923723888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver South High School marks 100 years with community celebration",
+      "link": "https://www.9news.com/article/news/education/denver-south-high-school-100th-anniversary/73-ed12b741-9633-4592-84a0-18cb948f8b34",
+      "source": "9News",
+      "pub_date": "2026-04-11T00:53:55+00:00",
+      "age_hours": 1.5686459552777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver weather: Warming up Saturday with scattered showers this weekend",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-04-11T00:42:09+00:00",
+      "age_hours": 1.7647570725,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Downtown Denver hotel, nightclub ordered to shut down",
       "link": "https://kdvr.com/news/local/downtown-denver-hotel-nightclub-ordered-to-shut-down-immediately/",
       "source": "Fox31",
       "pub_date": "2026-04-10T23:22:56+00:00",
-      "age_hours": 0.23931537805555556,
+      "age_hours": 3.085305650277778,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver weather: Breezy weekend with Saturday rain chance",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-breezy-weekend-with-saturday-rain-chance/",
       "source": "Fox31",
       "pub_date": "2026-04-10T22:44:44+00:00",
-      "age_hours": 0.8759820783333333,
+      "age_hours": 3.721972370555555,
       "breaking": true,
-      "time_ago": "52 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado\u2019s 661\u2011page budget read aloud after Rep. Bradley invokes procedural rule",
       "link": "https://www.coloradopolitics.com/2026/04/10/colorados-661-page-budget-read-aloud-after-rep-bradley-invokes-procedural-rule/",
       "source": "CO Politics",
       "pub_date": "2026-04-10T22:44:08+00:00",
-      "age_hours": 0.8861867788888889,
+      "age_hours": 3.732351217777778,
       "breaking": true,
-      "time_ago": "53 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
-      "title": "Colorado lawmaker\u2019s demand for full budget reading upends GOP assembly plans, triggers bipartisan reaction",
-      "link": "https://www.coloradopolitics.com/2026/04/10/colorado-lawmakers-demand-for-full-budget-reading-upends-gop-assembly-plans-triggers-bipartisan-reaction/",
+      "title": "Literal reading of budget bill complicates Colorado legislators\u2019 plans for GOP assembly",
+      "link": "https://www.coloradopolitics.com/2026/04/10/literal-reading-of-budget-bill-complicates-colorado-legislators-plans-for-gop-assembly/",
       "source": "CO Politics",
       "pub_date": "2026-04-10T22:40:13+00:00",
-      "age_hours": 0.9514645686111111,
+      "age_hours": 3.7976290094444445,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "How Denver golf courses manage drought restrictions",
       "link": "https://www.9news.com/article/news/local/denver-golf-courses-drought-water-conservation/73-be6e5679-f0e9-4c26-b843-fed8cddd06a0",
       "source": "9News",
       "pub_date": "2026-04-10T22:17:42+00:00",
-      "age_hours": 1.3262467305555556,
+      "age_hours": 4.172257093888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Man arrested in connection with fatal shooting in Five Points neighborhood",
       "link": "https://www.9news.com/article/news/crime/denver-five-points-shooting-death/73-83564a20-f1da-443a-850e-89fc480376b5",
       "source": "9News",
       "pub_date": "2026-04-10T21:58:06+00:00",
-      "age_hours": 1.6529134074999998,
+      "age_hours": 4.4989237638888895,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado SunFest 2026 panel: The future of public policy",
       "link": "https://coloradosun.com/2026/04/10/colorado-sunfest-2026-panel-the-future-of-public-policy/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:54:42+00:00",
-      "age_hours": 1.7095152644444445,
+      "age_hours": 4.555437823888888,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Dohn-owned company buys two properties, sells another",
       "link": "https://bizwest.com/2026/04/10/dohn-owned-company-buys-two-properties-sells-another/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:45:46+00:00",
-      "age_hours": 1.8576376569444444,
+      "age_hours": 4.703164361388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Largest Wing Shack planned for east Fort Collins",
       "link": "https://bizwest.com/2026/04/10/largest-wing-shack-planned-for-east-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:37:14+00:00",
-      "age_hours": 1.9998598880555556,
+      "age_hours": 4.845386598888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado SunFest 2026 panel: Basic income programs in Denver and beyond",
       "link": "https://coloradosun.com/2026/04/10/colorado-sunfest-2026-panel-basic-income-programs-in-denver-and-beyond/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:33:06+00:00",
-      "age_hours": 2.0695152741666667,
+      "age_hours": 4.915437836388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Infleqtion stock up on $40M 2026 sales guidance",
       "link": "https://bizwest.com/2026/04/10/infleqtion-stock-up-on-40m-2026-sales-guidance/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:31:13+00:00",
-      "age_hours": 2.10013767,
+      "age_hours": 4.9456643866666665,
       "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Denver South High School marks 100 years with community celebration",
-      "link": "https://www.9news.com/article/news/education/denver-south-high-school-100th-anniversary/73-ed12b741-9633-4592-84a0-18cb948f8b34",
-      "source": "9News",
-      "pub_date": "2026-04-10T21:16:52+00:00",
-      "age_hours": 2.3401356397222224,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Rockies bring Broncos owners in as minority partners as they try to turn around franchise",
       "link": "https://coloradosun.com/2026/04/10/colorado-rockies-bring-in-denver-broncos-ownership/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:12:48+00:00",
-      "age_hours": 2.407848620833333,
+      "age_hours": 5.253771183333334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "New joint service plan aims to launch Denver-Fort Collins rail by 2029",
       "link": "https://sentinelcolorado.com/metro/new-joint-service-plan-aims-to-launch-denver-fort-collins-rail-by-2029/",
       "source": "Sentinel",
       "pub_date": "2026-04-10T21:10:11+00:00",
-      "age_hours": 2.4520364475000003,
+      "age_hours": 5.298305727777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Denver weather: Warming up Saturday with scattered showers this weekend",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-04-10T20:53:48+00:00",
-      "age_hours": 2.7245800919444445,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Hackers steal nearly $10,000 from a Georgia family ordering takeout",
       "link": "https://www.9news.com/article/news/nation-world/hackers-steal-thousands-online-takeout-order/507-f2c6534c-d8fb-454d-9d70-669be8797e4d",
       "source": "9News",
       "pub_date": "2026-04-10T20:43:36+00:00",
-      "age_hours": 2.8945801002777776,
+      "age_hours": 5.740590433888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Inflation spiking: Financial expert breaks down new consumer price index numbers",
-      "link": "https://www.denver7.com/money/business-news/inflation-spiking-financial-expert-breaks-down-new-consumer-price-index-numbers",
-      "source": "Denver7",
-      "pub_date": "2026-04-10T17:30:50+00:00",
-      "age_hours": 6.107488494444444,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "120th Colorado Auto Show underway at Colorado Convention Center",
-      "link": "https://www.denver7.com/money/consumer/120th-colorado-auto-show-underway-at-colorado-convention-center",
-      "source": "Denver7",
-      "pub_date": "2026-04-10T17:08:22+00:00",
-      "age_hours": 6.481932946111111,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Broncos owners become minority owners of Rockies",
-      "link": "https://kdvr.com/sports/denver-broncos/broncos-owners-become-minority-owners-of-rockies/",
-      "source": "Fox31",
-      "pub_date": "2026-04-10T16:25:04+00:00",
-      "age_hours": 7.203759815,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "City of Northglenn, state fail to reach agreement on mental health facility amid safety concerns",
-      "link": "https://www.coloradopolitics.com/2026/04/10/city-of-northglenn-state-fail-to-reach-agreement-on-mental-health-facility-amid-safety-concerns/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-10T16:16:27+00:00",
-      "age_hours": 7.347575708888889,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "5 hrs ago"
     }
   ]
 }
