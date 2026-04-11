@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-04-11",
-  "fetched_at": "2026-04-11 04:47:47",
+  "fetched_at": "2026-04-11 04:57:05",
   "article_count": 20,
   "breaking_count": 9,
   "articles": [
+    {
+      "title": "Denver weather: Warming up Saturday with afternoon showers",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-04-11T04:52:32+00:00",
+      "age_hours": 0.07141628388888888,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
     {
       "title": "Denver Public Schools implements AI in the classroom",
       "link": "https://www.9news.com/article/news/education/denver-public-schools-implements-ai-in-the-classroom/73-9d0ada7b-7a44-4dec-9b06-934d0bce0afa",
       "source": "9News",
       "pub_date": "2026-04-11T04:31:32+00:00",
-      "age_hours": 0.26776391416666667,
+      "age_hours": 0.42141629500000005,
       "breaking": true,
-      "time_ago": "16 min ago"
+      "time_ago": "25 min ago"
     },
     {
       "title": "The City of Denver ordered it closed. It opened anyway. Now, Nativ Hotel & Gatsby Social has been shut down",
       "link": "https://www.9news.com/article/news/local/nativ-hotel-gatsby-social-shut-down-city-suspended/73-e81734b0-a7f1-4cb3-a2e0-7588c2500573",
       "source": "9News",
       "pub_date": "2026-04-11T04:01:50+00:00",
-      "age_hours": 0.7627639269444444,
+      "age_hours": 0.9164163002777778,
       "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "54 min ago"
     },
     {
       "title": "Is your child's e-bike actually an e-motorcycle? What parents need to know",
       "link": "https://kdvr.com/news/local/is-your-childs-e-bike-actually-an-e-motorcycle-what-parents-need-to-know/",
       "source": "Fox31",
       "pub_date": "2026-04-11T03:15:11+00:00",
-      "age_hours": 1.5405841166666667,
+      "age_hours": 1.6942095972222222,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -36,16 +45,16 @@
       "link": "https://kdvr.com/news/local/denver-colorado-water-restrictions-2026/",
       "source": "Fox31",
       "pub_date": "2026-04-11T01:50:55+00:00",
-      "age_hours": 2.945028526111111,
+      "age_hours": 3.0986540255555552,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Good News is out of this world",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/good-news-is-out-of-this-world/73-f4cddca2-37d1-4f60-8136-68d0b4ebb705",
       "source": "9News",
       "pub_date": "2026-04-11T01:12:50+00:00",
-      "age_hours": 3.5794306122222226,
+      "age_hours": 3.7330829805555554,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.9news.com/article/money/consumer/colorado-regulators-elbert-county-approve-xcel-energy-power-pathway/73-a5621c10-1a05-4c91-8b1f-d26ab6f4477f",
       "source": "9News",
       "pub_date": "2026-04-11T01:01:06+00:00",
-      "age_hours": 3.7749861758333334,
+      "age_hours": 3.928638542222222,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -63,16 +72,7 @@
       "link": "https://www.9news.com/article/news/education/denver-south-high-school-100th-anniversary/73-ed12b741-9633-4592-84a0-18cb948f8b34",
       "source": "9News",
       "pub_date": "2026-04-11T00:53:55+00:00",
-      "age_hours": 3.894708408888889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Denver weather: Warming up Saturday with scattered showers this weekend",
-      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
-      "source": "9News",
-      "pub_date": "2026-04-11T00:42:09+00:00",
-      "age_hours": 4.090819526944444,
+      "age_hours": 4.048360773333333,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://kdvr.com/news/local/downtown-denver-hotel-nightclub-ordered-to-shut-down-immediately/",
       "source": "Fox31",
       "pub_date": "2026-04-10T23:22:56+00:00",
-      "age_hours": 5.411417397222222,
+      "age_hours": 5.565042896388889,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-breezy-weekend-with-saturday-rain-chance/",
       "source": "Fox31",
       "pub_date": "2026-04-10T22:44:44+00:00",
-      "age_hours": 6.048084128055556,
+      "age_hours": 6.201709607500001,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://www.coloradopolitics.com/2026/04/10/colorados-661-page-budget-read-aloud-after-rep-bradley-invokes-procedural-rule/",
       "source": "CO Politics",
       "pub_date": "2026-04-10T22:44:08+00:00",
-      "age_hours": 6.058488788611111,
+      "age_hours": 6.211848073055556,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://www.coloradopolitics.com/2026/04/10/literal-reading-of-budget-bill-complicates-colorado-legislators-plans-for-gop-assembly/",
       "source": "CO Politics",
       "pub_date": "2026-04-10T22:40:13+00:00",
-      "age_hours": 6.123766581388889,
+      "age_hours": 6.277125868055556,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://www.9news.com/article/news/local/denver-golf-courses-drought-water-conservation/73-be6e5679-f0e9-4c26-b843-fed8cddd06a0",
       "source": "9News",
       "pub_date": "2026-04-10T22:17:42+00:00",
-      "age_hours": 6.498319547222222,
+      "age_hours": 6.651971908055556,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://www.9news.com/article/news/crime/denver-five-points-shooting-death/73-83564a20-f1da-443a-850e-89fc480376b5",
       "source": "9News",
       "pub_date": "2026-04-10T21:58:06+00:00",
-      "age_hours": 6.8249862172222215,
+      "age_hours": 6.9786385783333325,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -135,16 +135,16 @@
       "link": "https://coloradosun.com/2026/04/10/colorado-sunfest-2026-panel-the-future-of-public-policy/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:54:42+00:00",
-      "age_hours": 6.881550257777778,
+      "age_hours": 7.03512658888889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Dohn-owned company buys two properties, sells another",
       "link": "https://bizwest.com/2026/04/10/dohn-owned-company-buys-two-properties-sells-another/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:45:46+00:00",
-      "age_hours": 7.029983077777778,
+      "age_hours": 7.1835222725,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/04/10/largest-wing-shack-planned-for-east-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:37:14+00:00",
-      "age_hours": 7.172205311111111,
+      "age_hours": 7.32574451,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://coloradosun.com/2026/04/10/colorado-sunfest-2026-panel-basic-income-programs-in-denver-and-beyond/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:33:06+00:00",
-      "age_hours": 7.241550273611111,
+      "age_hours": 7.395126601388888,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/04/10/infleqtion-stock-up-on-40m-2026-sales-guidance/",
       "source": "BizWest",
       "pub_date": "2026-04-10T21:31:13+00:00",
-      "age_hours": 7.272483093333333,
+      "age_hours": 7.4260222944444445,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://coloradosun.com/2026/04/10/colorado-rockies-bring-in-denver-broncos-ownership/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-10T21:12:48+00:00",
-      "age_hours": 7.5798836283333335,
+      "age_hours": 7.733459952222222,
       "breaking": false,
       "time_ago": "7 hrs ago"
     }
