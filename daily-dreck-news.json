@@ -1,51 +1,87 @@
 {
   "fetched_date": "2026-04-12",
-  "fetched_at": "2026-04-12 16:41:37",
+  "fetched_at": "2026-04-12 17:37:36",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "One person killed and six injured during shooting at Chick-fil-A in New Jersey",
+      "link": "https://www.9news.com/article/news/nation-world/chick-fil-a-restaurant-union-new-jersey-shooting-investigation/507-607aa4d6-502c-42fd-aa03-e532b7eb111d",
+      "source": "9News",
+      "pub_date": "2026-04-12T17:30:11+00:00",
+      "age_hours": 0.11881190944444445,
+      "breaking": true,
+      "time_ago": "7 min ago"
+    },
+    {
+      "title": "1 killed in north Denver shooting identified",
+      "link": "https://www.9news.com/article/news/crime/north-denver-shooting/73-6edbe9fc-d15c-4b60-b266-ce5102c85177",
+      "source": "9News",
+      "pub_date": "2026-04-12T17:20:48+00:00",
+      "age_hours": 0.2752008086111111,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
+    {
+      "title": "Man killed in shooting with Denver Police officer identified",
+      "link": "https://www.9news.com/article/news/crime/denver-police-shooting-quitman/73-35d42325-bbea-4973-abef-934aa1a45d09",
+      "source": "9News",
+      "pub_date": "2026-04-12T17:11:08+00:00",
+      "age_hours": 0.43631192444444444,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
+    {
+      "title": "Victim identified as Denver Police investigate deadly shooting",
+      "link": "https://www.9news.com/article/news/crime/denver-broadway-maple-deadly-shooting/73-e552a612-8468-4790-88c9-2beac5b8418c",
+      "source": "9News",
+      "pub_date": "2026-04-12T17:08:09+00:00",
+      "age_hours": 0.4860341505555556,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
+    {
+      "title": "Bandimere revs up next chapter in Hudson",
+      "link": "https://bizwest.com/2026/04/12/bandimere-revs-up-next-chapter-in-hudson/",
+      "source": "BizWest",
+      "pub_date": "2026-04-12T16:55:58+00:00",
+      "age_hours": 0.6884382322222222,
+      "breaking": true,
+      "time_ago": "41 min ago"
+    },
     {
       "title": "Denver weather: Sunny and breezy Sunday ahead",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-breezy-sunday-ahead-2/",
       "source": "Fox31",
       "pub_date": "2026-04-12T14:54:30+00:00",
-      "age_hours": 1.7812188369444446,
+      "age_hours": 2.7138393983333335,
       "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Reports: Multiple people injured in shooting at Chick-fil-A in New Jersey",
-      "link": "https://www.9news.com/article/news/nation-world/chick-fil-a-restaurant-union-new-jersey-shooting-investigation/507-607aa4d6-502c-42fd-aa03-e532b7eb111d",
-      "source": "9News",
-      "pub_date": "2026-04-12T11:17:31+00:00",
-      "age_hours": 5.39748361,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "\u201cYour Verdict\u201d: A retired judge reflects on the law, life and family",
       "link": "https://coloradosun.com/2026/04/12/sunlit-your-verdict-jacqueline-st-joan/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-12T08:15:00+00:00",
-      "age_hours": 8.4393142225,
+      "age_hours": 9.37168411888889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "The Bookies Bookstore suggests adult nonfiction, two kids\u2019 gems",
       "link": "https://coloradosun.com/2026/04/12/the-bookies-bookstore-april-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-12T08:05:00+00:00",
-      "age_hours": 8.605980910833333,
+      "age_hours": 9.538350805833332,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "'Write this in your history books': Denver fans celebrate Pioneers' 11th national championship",
       "link": "https://www.9news.com/article/sports/write-this-in-your-history-books-denver-fans-celebrate-pioneers-11th-national-championship/73-84f923a2-09f1-44de-b657-187f36f3bf7c",
       "source": "9News",
       "pub_date": "2026-04-12T05:38:13+00:00",
-      "age_hours": 11.052483616944444,
+      "age_hours": 11.984923069166667,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -54,25 +90,25 @@
       "link": "https://kdvr.com/sports/denver-beats-wisconsin-2-1-for-its-11th-national-title-3rd-in-5-years/",
       "source": "Fox31",
       "pub_date": "2026-04-12T00:51:49+00:00",
-      "age_hours": 15.82594104888889,
+      "age_hours": 16.758561610555553,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado House finishes work on 2026-27 state budget, finally",
       "link": "https://www.coloradopolitics.com/2026/04/11/colorado-house-finishes-work-on-2026-27-state-budget-finally/",
       "source": "CO Politics",
       "pub_date": "2026-04-11T21:24:47+00:00",
-      "age_hours": 19.27670562333333,
+      "age_hours": 20.209475720833332,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Minority Leader Pe\u00f1a argues against oil and gas bill | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/04/11/minority-leader-pe%c3%b1a-argues-against-oil-and-gas-bill-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-04-11T11:00:00+00:00",
-      "age_hours": 29.689761198055553,
+      "age_hours": 30.622531294444443,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/04/11/an-ends-tribute-in-a-week-full-of-odds-capitol-m-week-of-april-11-2026/",
       "source": "CO Politics",
       "pub_date": "2026-04-11T11:00:00+00:00",
-      "age_hours": 29.68976121,
+      "age_hours": 30.62253130527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +126,7 @@
       "link": "https://coloradosun.com/2026/04/11/business-tech-colorado-lost-competitive-edge/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-11T10:00:00+00:00",
-      "age_hours": 30.689314266388887,
+      "age_hours": 31.621684160277777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +135,7 @@
       "link": "https://www.westword.com/food-drink/2-new-denver-mexican-restaurants-are-among-this-weeks-openings-40869959/",
       "source": "Westword",
       "pub_date": "2026-04-11T06:59:00-06:00",
-      "age_hours": 27.706319315277778,
+      "age_hours": 28.639040862777776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +144,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-4-10-26/",
       "source": "Sentinel",
       "pub_date": "2026-04-11T06:10:32+00:00",
-      "age_hours": 34.51423579805556,
+      "age_hours": 35.446999221666665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +153,7 @@
       "link": "https://www.9news.com/article/news/education/denver-public-schools-implements-ai-in-the-classroom/73-9d0ada7b-7a44-4dec-9b06-934d0bce0afa",
       "source": "9News",
       "pub_date": "2026-04-11T04:31:32+00:00",
-      "age_hours": 36.163872561944444,
+      "age_hours": 37.0963120175,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +162,7 @@
       "link": "https://www.9news.com/article/news/local/nativ-hotel-gatsby-social-shut-down-city-suspended/73-e81734b0-a7f1-4cb3-a2e0-7588c2500573",
       "source": "9News",
       "pub_date": "2026-04-11T04:01:50+00:00",
-      "age_hours": 36.658872565833335,
+      "age_hours": 37.59131202194445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +171,7 @@
       "link": "https://kdvr.com/news/local/is-your-childs-e-bike-actually-an-e-motorcycle-what-parents-need-to-know/",
       "source": "Fox31",
       "pub_date": "2026-04-11T03:15:11+00:00",
-      "age_hours": 37.43649662944445,
+      "age_hours": 38.36911718611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,43 +180,7 @@
       "link": "https://kdvr.com/news/local/denver-colorado-water-restrictions-2026/",
       "source": "Fox31",
       "pub_date": "2026-04-11T01:50:55+00:00",
-      "age_hours": 38.84094108111111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Good News is out of this world",
-      "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/good-news-is-out-of-this-world/73-f4cddca2-37d1-4f60-8136-68d0b4ebb705",
-      "source": "9News",
-      "pub_date": "2026-04-11T01:12:50+00:00",
-      "age_hours": 39.47553924444444,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado regulators overrule Elbert County, approve Xcel Energy Power Pathway power lines",
-      "link": "https://www.9news.com/article/money/consumer/colorado-regulators-elbert-county-approve-xcel-energy-power-pathway/73-a5621c10-1a05-4c91-8b1f-d26ab6f4477f",
-      "source": "9News",
-      "pub_date": "2026-04-11T01:01:06+00:00",
-      "age_hours": 39.671094805555555,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver South High School marks 100 years with community celebration",
-      "link": "https://www.9news.com/article/news/education/denver-south-high-school-100th-anniversary/73-ed12b741-9633-4592-84a0-18cb948f8b34",
-      "source": "9News",
-      "pub_date": "2026-04-11T00:53:55+00:00",
-      "age_hours": 39.790817033888885,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Downtown Denver hotel, nightclub ordered to shut down",
-      "link": "https://kdvr.com/news/local/downtown-denver-hotel-nightclub-ordered-to-shut-down-immediately/",
-      "source": "Fox31",
-      "pub_date": "2026-04-10T23:22:56+00:00",
-      "age_hours": 41.30732995416667,
+      "age_hours": 39.77356163555556,
       "breaking": false,
       "time_ago": "1 day ago"
     }
