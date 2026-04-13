@@ -1,141 +1,168 @@
 {
-  "fetched_date": "2026-04-12",
-  "fetched_at": "2026-04-12 23:37:44",
+  "fetched_date": "2026-04-13",
+  "fetched_at": "2026-04-13 02:52:12",
   "article_count": 20,
   "breaking_count": 4,
   "articles": [
+    {
+      "title": "Police on scene of serious crash on Washington Street",
+      "link": "https://kdvr.com/news/local/police-on-scene-of-serious-crash-on-washington-street/",
+      "source": "Fox31",
+      "pub_date": "2026-04-13T01:03:08+00:00",
+      "age_hours": 1.8108907927777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Winter Sports All-Aurora 2025-26: Full Aurora Sentinel All-Aurora Girls Swim Team",
+      "link": "https://sentinelcolorado.com/sports/preps/girls-swimming/winter-sports-all-aurora-2025-26-full-aurora-sentinel-all-aurora-girls-swim-team/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-13T01:01:28+00:00",
+      "age_hours": 1.8389417336111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Man shot in arm after altercation in northwest Aurora road median",
+      "link": "https://sentinelcolorado.com/metro/man-shot-in-arm-after-altercation-in-northwest-aurora-road-median/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-12T23:38:38+00:00",
+      "age_hours": 3.2194973147222226,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Man killed in shooting with Denver Police officer identified",
       "link": "https://www.9news.com/article/news/crime/denver-police-shooting-quitman/73-35d42325-bbea-4973-abef-934aa1a45d09",
       "source": "9News",
       "pub_date": "2026-04-12T23:16:27+00:00",
-      "age_hours": 0.3501969575,
+      "age_hours": 3.588758043611111,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "1 killed, 6 others injured in shooting at Chick-fil-A in New Jersey",
       "link": "https://www.9news.com/article/news/nation-world/chick-fil-a-restaurant-union-new-jersey-shooting-investigation/507-607aa4d6-502c-42fd-aa03-e532b7eb111d",
       "source": "9News",
       "pub_date": "2026-04-12T19:47:53+00:00",
-      "age_hours": 3.826308087222222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.064869168055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Shooting under investigation after victim walks up to police station",
       "link": "https://kdvr.com/news/local/shooting-under-investigation-after-victim-walks-up-to-police-station/",
       "source": "Fox31",
       "pub_date": "2026-04-12T19:29:40+00:00",
-      "age_hours": 4.130188919722222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.368668588055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver's only lesbian bar announced it was closing, then the community stepped in",
       "link": "https://kdvr.com/denver-guide/denvers-only-lesbian-bar-announced-it-was-closing-then-the-community-stepped-in/",
       "source": "Fox31",
       "pub_date": "2026-04-12T18:26:39+00:00",
-      "age_hours": 5.180466680555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.418946333333333,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "1 killed in north Denver shooting identified",
       "link": "https://www.9news.com/article/news/crime/north-denver-shooting/73-6edbe9fc-d15c-4b60-b266-ce5102c85177",
       "source": "9News",
       "pub_date": "2026-04-12T17:20:48+00:00",
-      "age_hours": 6.277696983333333,
+      "age_hours": 9.516258063888888,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Victim identified as Denver Police investigate deadly shooting",
       "link": "https://www.9news.com/article/news/crime/denver-broadway-maple-deadly-shooting/73-e552a612-8468-4790-88c9-2beac5b8418c",
       "source": "9News",
       "pub_date": "2026-04-12T17:08:09+00:00",
-      "age_hours": 6.488530319722222,
+      "age_hours": 9.727091400833334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Bandimere revs up next chapter in Hudson",
       "link": "https://bizwest.com/2026/04/12/bandimere-revs-up-next-chapter-in-hudson/",
       "source": "BizWest",
       "pub_date": "2026-04-12T16:55:58+00:00",
-      "age_hours": 6.690867785833333,
+      "age_hours": 9.925254623055555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver weather: Sunny and breezy Sunday ahead",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-breezy-sunday-ahead-2/",
       "source": "Fox31",
       "pub_date": "2026-04-12T14:54:30+00:00",
-      "age_hours": 8.716300048055556,
+      "age_hours": 11.95477971861111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "\u201cYour Verdict\u201d: A retired judge reflects on the law, life and family",
       "link": "https://coloradosun.com/2026/04/12/sunlit-your-verdict-jacqueline-st-joan/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-12T08:15:00+00:00",
-      "age_hours": 15.374205275555555,
+      "age_hours": 18.612822400277775,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "The Bookies Bookstore suggests adult nonfiction, two kids\u2019 gems",
       "link": "https://coloradosun.com/2026/04/12/the-bookies-bookstore-april-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-12T08:05:00+00:00",
-      "age_hours": 15.540871961944445,
+      "age_hours": 18.77948908638889,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 4.11.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-4-11-26/",
       "source": "Sentinel",
       "pub_date": "2026-04-12T05:45:00+00:00",
-      "age_hours": 17.875079843055556,
+      "age_hours": 21.113386230277776,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "'Write this in your history books': Denver fans celebrate Pioneers' 11th national championship",
       "link": "https://www.9news.com/article/sports/write-this-in-your-history-books-denver-fans-celebrate-pioneers-11th-national-championship/73-84f923a2-09f1-44de-b657-187f36f3bf7c",
       "source": "9News",
       "pub_date": "2026-04-12T05:38:13+00:00",
-      "age_hours": 17.9874192425,
+      "age_hours": 21.225980311944443,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "DU defeats Wisconsin to claim Frozen Four championship",
       "link": "https://www.9news.com/article/sports/college/du-defeats-wisconsin-to-claim-frozen-four-championship/73-d38bb41b-daa4-4ba8-a202-4f5bd66a3a77",
       "source": "9News",
       "pub_date": "2026-04-12T00:53:03+00:00",
-      "age_hours": 22.740197035555553,
+      "age_hours": 25.97875810416667,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver beats Wisconsin 2-1 for its 11th national title, 3rd in 5 years",
       "link": "https://kdvr.com/sports/denver-beats-wisconsin-2-1-for-its-11th-national-title-3rd-in-5-years/",
       "source": "Fox31",
       "pub_date": "2026-04-12T00:51:49+00:00",
-      "age_hours": 22.761022264166666,
+      "age_hours": 25.999501934444442,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado House finishes work on 2026-27 state budget, finally",
       "link": "https://www.coloradopolitics.com/2026/04/11/colorado-house-finishes-work-on-2026-27-state-budget-finally/",
       "source": "CO Politics",
       "pub_date": "2026-04-11T21:24:47+00:00",
-      "age_hours": 26.211978635833333,
+      "age_hours": 29.450310037777776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/04/11/minority-leader-pe%c3%b1a-argues-against-oil-and-gas-bill-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-04-11T11:00:00+00:00",
-      "age_hours": 36.62503420944444,
+      "age_hours": 39.863365609999995,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/04/11/an-ends-tribute-in-a-week-full-of-odds-capitol-m-week-of-april-11-2026/",
       "source": "CO Politics",
       "pub_date": "2026-04-11T11:00:00+00:00",
-      "age_hours": 36.62503422583334,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "What\u2019s Working: \u201cEnough is enough!\u201d Local tech and business leaders feel Colorado is losing its competitive edge",
-      "link": "https://coloradosun.com/2026/04/11/business-tech-colorado-lost-competitive-edge/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-04-11T10:00:00+00:00",
-      "age_hours": 37.62420531527778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Every Opening and Closing This Week: Two Mexican Spots Debut and More",
-      "link": "https://www.westword.com/food-drink/2-new-denver-mexican-restaurants-are-among-this-weeks-openings-40869959/",
-      "source": "Westword",
-      "pub_date": "2026-04-11T06:59:00-06:00",
-      "age_hours": 34.64144178472222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Is your child's e-bike actually an e-motorcycle? What parents need to know",
-      "link": "https://kdvr.com/news/local/is-your-childs-e-bike-actually-an-e-motorcycle-what-parents-need-to-know/",
-      "source": "Fox31",
-      "pub_date": "2026-04-11T03:15:11+00:00",
-      "age_hours": 44.371577845277784,
+      "age_hours": 39.86336562166667,
       "breaking": false,
       "time_ago": "1 day ago"
     }
