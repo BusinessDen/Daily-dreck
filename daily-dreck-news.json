@@ -1,6 +1,6 @@
 {
   "fetched_date": "2026-04-13",
-  "fetched_at": "2026-04-13 21:52:51",
+  "fetched_at": "2026-04-13 22:45:44",
   "article_count": 20,
   "breaking_count": 20,
   "articles": [
@@ -8,44 +8,71 @@
       "title": "Art in every nook and cranny: A self-guided tour of Denver's public art created by women",
       "link": "https://www.9news.com/article/life/self-guided-tour-denver-public-art-created-by-women/73-099b6504-857f-4663-af05-edc4d624ea62",
       "source": "9News",
-      "pub_date": "2026-04-13T21:42:20+00:00",
-      "age_hours": 0.17040276583333336,
+      "pub_date": "2026-04-13T22:25:01+00:00",
+      "age_hours": 0.3405527052777778,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Deputies release surveillance video in Berthoud honey heist",
+      "link": "https://kdvr.com/news/local/deputies-release-surveillance-video-in-berthoud-honey-heist/",
+      "source": "Fox31",
+      "pub_date": "2026-04-13T22:17:41+00:00",
+      "age_hours": 0.46307394138888885,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "Critical fire weather ahead of Tuesday storm and chance for rain",
+      "link": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+      "source": "9News",
+      "pub_date": "2026-04-13T22:14:38+00:00",
+      "age_hours": 0.5136082722222223,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "Winter Sports All-Aurora 2025-26: Two-time state champions Ortega, Mathews lead loaded All-Aurora Boys Wrestling Team",
+      "link": "https://sentinelcolorado.com/sports/preps/boys-wrestling/winter-sports-all-aurora-2025-26-two-time-state-champions-ortega-mathews-lead-loaded-all-aurora-boys-wrestling-team/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-13T22:07:12+00:00",
+      "age_hours": 0.6381081238888888,
+      "breaking": true,
+      "time_ago": "38 min ago"
     },
     {
       "title": "Seeing red? This 1800s law shaped how Denver looks today",
       "link": "https://kdvr.com/news/colorado-150/seeing-red-this-1800s-law-shaped-how-denver-looks-today/",
       "source": "Fox31",
       "pub_date": "2026-04-13T21:35:10+00:00",
-      "age_hours": 0.2901950708333333,
+      "age_hours": 1.1716850436111113,
       "breaking": true,
-      "time_ago": "17 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "2nd victim dies after shooting at Denver park",
       "link": "https://www.9news.com/article/news/crime/north-denver-shooting/73-6edbe9fc-d15c-4b60-b266-ce5102c85177",
       "source": "9News",
       "pub_date": "2026-04-13T21:29:12+00:00",
-      "age_hours": 0.3892916788888889,
+      "age_hours": 1.2708305058333333,
       "breaking": true,
-      "time_ago": "23 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Suspect accused of killing man walking dog was on probation for Logan County robbery",
       "link": "https://www.9news.com/article/news/crime/suspect-probation-denver-homicide/73-3b60ed11-684e-40cc-84eb-939cdd795aaa",
       "source": "9News",
       "pub_date": "2026-04-13T21:15:21+00:00",
-      "age_hours": 0.6201250238888888,
+      "age_hours": 1.501663845,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Winter Sports All-Aurora 2025-26: Trio of state champions headline All-Aurora Girls Wrestling Team",
       "link": "https://sentinelcolorado.com/sports/preps/winter-sports-all-aurora-2025-26-trio-of-state-champions-headline-all-aurora-girls-wrestling-team/",
       "source": "Sentinel",
       "pub_date": "2026-04-13T20:49:24+00:00",
-      "age_hours": 1.0534332380555556,
+      "age_hours": 1.9347748525,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -54,7 +81,7 @@
       "link": "https://milehighcre.com/groundbreaking-rocky-mountain-rescue-group-hq-in-boulder/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-13T20:47:49+00:00",
-      "age_hours": 1.0787827366666667,
+      "age_hours": 1.9603756916666668,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -63,7 +90,7 @@
       "link": "https://milehighcre.com/downtown-achieves-highest-post-pandemic-return-to-office-rate/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-13T20:46:12+00:00",
-      "age_hours": 1.1057271902777779,
+      "age_hours": 1.9873201436111112,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -72,117 +99,90 @@
       "link": "https://kdvr.com/news/local/18-year-old-dies-after-shooting-in-denver-park-on-easter/",
       "source": "Fox31",
       "pub_date": "2026-04-13T20:40:12+00:00",
-      "age_hours": 1.2063061736111111,
+      "age_hours": 2.087796148888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Report touts CSU system\u2019s economic impact",
       "link": "https://bizwest.com/2026/04/13/report-touts-csu-systems-economic-impact/",
       "source": "BizWest",
       "pub_date": "2026-04-13T20:19:19+00:00",
-      "age_hours": 1.5527562711111111,
+      "age_hours": 2.4349301291666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Ball Arena adds outdoor viewing experience for Avs, Nuggets fans during playoffs",
       "link": "https://www.9news.com/article/life/style/colorado-guide/ball-arena-outdoor-viewing-party-experience-avs-nuggets-playoffs/73-c7ad61e3-8f7d-4b66-bfa3-261361a7fec2",
       "source": "9News",
       "pub_date": "2026-04-13T19:43:58+00:00",
-      "age_hours": 2.1431805958333334,
+      "age_hours": 3.024719409166667,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Sushi concept Wellness Counter coming to Boulder\u2019s Pearl Street",
       "link": "https://bizwest.com/2026/04/13/sushi-concept-wellness-counter-coming-to-boulders-pearl-street/",
       "source": "BizWest",
       "pub_date": "2026-04-13T19:15:33+00:00",
-      "age_hours": 2.6155340594444443,
+      "age_hours": 3.4977079158333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Westminster mulling more incentives for Origin Hotel",
       "link": "https://bizwest.com/2026/04/13/westminster-mulling-more-incentives-for-origin-hotel/",
       "source": "BizWest",
       "pub_date": "2026-04-13T19:09:41+00:00",
-      "age_hours": 2.7133118416666666,
+      "age_hours": 3.5954856980555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Collegiate Peaks Bank plants flag in Fort Collins",
       "link": "https://bizwest.com/2026/04/13/collegiate-peaks-bank-plants-flag-in-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-04-13T19:05:32+00:00",
-      "age_hours": 2.7824785119444444,
+      "age_hours": 3.6646523680555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Jury finds man guilty in 2023 homicide",
       "link": "https://www.9news.com/article/news/crime/man-guilty-lincoln-park-neighborhood-murder/73-d655ac54-6fa0-47b5-8c86-37d68e9e5b76",
       "source": "9News",
       "pub_date": "2026-04-13T18:53:20+00:00",
-      "age_hours": 2.987069505277778,
+      "age_hours": 3.8686083066666668,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado Senate takes up $46.8 billion budget",
       "link": "https://www.coloradopolitics.com/2026/04/13/colorado-senate-takes-up-46-8-billion-budget/",
       "source": "CO Politics",
       "pub_date": "2026-04-13T18:34:49+00:00",
-      "age_hours": 3.2963920625000003,
+      "age_hours": 4.177794476944444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Woman killed in weekend shooting in Green Valley Ranch",
       "link": "https://kdvr.com/news/local/woman-killed-in-weekend-shooting-in-green-valley-ranch/",
       "source": "Fox31",
       "pub_date": "2026-04-13T18:18:45+00:00",
-      "age_hours": 3.563806186944445,
+      "age_hours": 4.445296166944444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Business Buzz: Navigating the unknown economic impacts of regional water restrictions",
       "link": "https://www.9news.com/article/money/business-brief/navigating-unknown-economic-impacts-regional-water-restrictions/73-70303738-f447-4d57-8be2-73a1a1a1531a",
       "source": "9News",
       "pub_date": "2026-04-13T18:14:27+00:00",
-      "age_hours": 3.635125079722222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Denver Police investigating deadly shooting",
-      "link": "https://www.9news.com/article/news/crime/fatal-shooting-east-robins-drive-denver/73-12bb4995-a267-4917-a495-1c71d9e585d6",
-      "source": "9News",
-      "pub_date": "2026-04-13T17:46:12+00:00",
-      "age_hours": 4.105958423611111,
+      "age_hours": 4.516663872222222,
       "breaking": true,
       "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Nuggets set to play Timberwolves in first playoff round: These games are at Ball Arena",
-      "link": "https://kdvr.com/sports/denver-nuggets/nuggets-set-to-play-timberwolves-in-first-playoff-round-these-games-are-at-ball-arena/",
-      "source": "Fox31",
-      "pub_date": "2026-04-13T16:42:25+00:00",
-      "age_hours": 5.169361763333333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "This week is the best time to list your home, experts say",
-      "link": "https://www.9news.com/article/money/markets/real-estate/best-time-to-sell-your-home/73-40dfb5a2-b9c4-4539-85a4-806bc592ae94",
-      "source": "9News",
-      "pub_date": "2026-04-13T16:39:00+00:00",
-      "age_hours": 5.225958445555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
     }
   ]
 }
