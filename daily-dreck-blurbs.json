@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-04-12",
-  "lead_headline": "Vaultaire opens tonight beneath La For\u00eat as Ash and Agave debuts at Cherry Creek",
+  "generated_date": "2026-04-14",
+  "lead_headline": "Risica and Maize join RiNo's spring opening wave as Dairy Queen exits three metro locations",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today:</strong> Taco John's in Globeville flagged for closure \u2014 the former location now houses Taqueria Los Gallitos. Active opening leads include Vaultaire (subterranean HiFi bar below La For\u00eat), Ash and Agave (coastal Mexican at Cherry Creek), and Paperboy Denver (Austin brunch brand in West Highland).",
+      "blurb": "<strong>0 new leads today.</strong> Active opening leads: Risica (Milanese pizzeria in RiNo from Il Posto's Andrea Frizzi), Maize by Chef Johnny Curiel (Michelin-starred Mexican in RiNo), The Couloir (apr\u00e8s taphouse at Meier Skis factory in Overland). Active closure leads: Barry's (20-year dive bar on Broadway closed Sept 2023), California Pizza Kitchen (25-year Cherry Creek tenant closed summer 2025).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
-        "value2": "1",
+        "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "51",
         "label2": "closed",
-        "value2": "47",
+        "value2": "50",
         "period": "all leads"
       }
     },
@@ -43,33 +43,33 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>0 new applications today</strong> after Friday's quiet close. The 7-day tally holds at 9 new filings \u2014 the first wave in weeks after a prolonged drought. Past week's applications included Chaos Bloom Theater (beer/wine + cabaret on South Broadway) and Arada Bar (liquor license for East Colfax). No status changes logged overnight. Weekend lull expected to break Monday as spring filing season accelerates.",
+      "blurb": "<strong>1 new application today:</strong> Nativ Hotel & Gatsby Social filed for hotel/restaurant/cabaret license at 1612 Wazee St but already shows delinquent status. Meanwhile, 6 status changes logged overnight \u2014 John Holly's Bistro on S Downing went delinquent, while Anthony's Pizza, Chaos Bloom Theater, 7-Eleven on 16th St, Sushi Sasa, and El Chingon all shifted to administratively closed or expired. The 7-day count reaches 10 new applications after weeks of dormancy, suggesting spring filing momentum building.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "9",
+        "value1": "10",
         "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>3 mentions yesterday</strong> lift the 7-day count to 54 across 12 sources \u2014 down modestly from last week's 58 but maintaining steady visibility. Instagram leads again with 22 weekly pickups, followed by The Denver Post (8) and X (5). Recent highlights: Instagram engagement on rising beef prices, X chatter on #BusinessDen hashtag, and Hoodline coverage of Silverpeak's court-appointed receivership. Google News RSS captured 53 of 54 weekly mentions, signaling reliable newsroom pickup.",
+      "blurb": "<strong>0 mentions yesterday</strong> close out the weekend, dropping the 7-day total to 43 across 12 sources \u2014 down 22% from last week's 55. Instagram still dominates with 15 pickups, followed by The Denver Post (7) and X (5). Notable recent coverage: Instagram chatter on beef prices, X engagement on #BusinessDen hashtag, Hoodline's Silverpeak receivership story, and Facebook amplification of the downtown hotel shutdown order. Google News RSS captured 42 of 43 weekly mentions. The weekend dip is typical; watch for Monday rebound.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
-        "class1": "",
+        "value1": "0",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "54",
+        "value1": "43",
         "class1": "down",
         "label2": "sources",
         "value2": "12",
@@ -78,11 +78,11 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) nudges MTD to +10 and extends 90-day net to +138. April's second week outpaced the first: +11 net vs the prior week's +5, driven by Apr 10's +4 spike and Apr 7's +4 bounce. The MTD pace (+0.9/day) still trails YTD's +1.4/day average, but consecutive positive days (Apr 9-10) and reduced churn (just 9 cancellations in 7 days vs 14 the prior week) signal stabilization after early-month volatility.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) holds MTD at +10 and 90-day net at +138. The weekend flatline follows a strong mid-week run: Apr 7-10 delivered four consecutive positive days totaling +10 net, driven by reduced churn (just 5 cancellations across those four days). April's MTD pace (+0.8/day) still lags YTD's +1.4/day average, but the recent 7-day stretch (+11 net, 17 new vs 6 canceled) marks the strongest weekly performance since late March and suggests post-quarter stabilization taking hold.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "10",
       "net_ytd": "141",
-      "net_mtd_per_day": "0.9",
+      "net_mtd_per_day": "0.8",
       "net_ytd_per_day": "1.4",
       "annual_mtd": "8",
       "annual_ytd": "112",
