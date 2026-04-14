@@ -655,7 +655,7 @@
                 <span class="badge-updated" id="updated-hourly"></span>
               </div>
               <h2>Yesterday's Traffic by Hour</h2>
-              <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:8px 0;">
+              <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin:8px 0;">
                 <div>
                   <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Readers by Source</div>
                   <div style="position:relative;">
@@ -670,6 +670,13 @@
                     <canvas id="dreckNlvdCanvas" height="100" style="width:100%;background:transparent;"></canvas>
                   </div>
                   <div class="chart-labels" id="dreckNlvdLabels"></div>
+                </div>
+                <div>
+                  <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Cumulative Readers</div>
+                  <div style="position:relative;">
+                    <canvas id="dreckCumCanvas" height="100" style="width:100%;background:transparent;"></canvas>
+                  </div>
+                  <div class="chart-labels" id="dreckCumLabels"></div>
                 </div>
               </div>
               <div class="cta">Expand Charts →</div>
@@ -819,7 +826,7 @@
           </div>
           <button id="traffic-overlay-close" style="background:none;border:1px solid var(--border);color:var(--cream-dim);font-size:13px;padding:6px 14px;border-radius:6px;cursor:pointer;font-family:'Sora',sans-serif;">✕ Close</button>
         </div>
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;">
           <div>
             <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Readers by Source</div>
             <canvas id="fsHourlyCanvas" height="200" style="width:100%;background:transparent;"></canvas>
@@ -830,6 +837,11 @@
             <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Source Mix %</div>
             <canvas id="fsNlvdCanvas" height="200" style="width:100%;background:transparent;"></canvas>
             <div class="chart-labels" id="fsNlvdLabels" style="font-size:9px;"></div>
+          </div>
+          <div>
+            <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Cumulative Readers</div>
+            <canvas id="fsCumCanvas" height="200" style="width:100%;background:transparent;"></canvas>
+            <div class="chart-labels" id="fsCumLabels" style="font-size:9px;"></div>
           </div>
         </div>
       </div>
@@ -1237,9 +1249,11 @@
       setTimeout(function() {
         renderHourlySourcesChart('dreckHourlyCanvas', 'dreckHourlyLabels', 'dreckHourlyLegend', hourlyData);
         renderHourlyNlvdChart('dreckNlvdCanvas', 'dreckNlvdLabels', hourlyData);
+        renderHourlyCumChart('dreckCumCanvas', 'dreckCumLabels', hourlyData);
         window._hourlyData = hourlyData;
         window._renderHourlySourcesChart = renderHourlySourcesChart;
         window._renderHourlyNlvdChart = renderHourlyNlvdChart;
+        window._renderHourlyCumChart = renderHourlyCumChart;
       }, 200);
     })
     .catch(function(err) { console.warn('Hourly traffic data unavailable:', err); });
@@ -1352,10 +1366,22 @@
       if (legendEl) {
         var lt = {};
         hours.forEach(function(h) { var s = hourlyData[h] || {}; var ks = Object.keys(s); for (var j = 0; j < ks.length; j++) lt[ks[j]] = (lt[ks[j]] || 0) + s[ks[j]]; });
+        var srcExplain = {
+          email: 'Readers who arrived via your HubSpot newsletter email',
+          direct: 'Readers who typed the URL directly or used a bookmark',
+          organic: 'Readers who found the site via Google, Bing, or other search engines',
+          referral: 'Readers who clicked a link on another website (e.g. Denver Post, BizWest)',
+          social: 'Readers who arrived from social media platforms (Facebook, X, LinkedIn, etc.)',
+          paid: 'Readers from paid advertising campaigns',
+          other: 'Readers from unidentified or miscategorized sources'
+        };
         legendEl.innerHTML = layersReversed.map(function(l) {
           if (!lt[l]) return '';
-          return '<span><i style="background:' + srcColors[l] + '"></i> ' + (srcLabels[l] || l) + '</span>';
+          return '<span title="' + (srcExplain[l] || '') + '" style="cursor:help;"><i style="background:' + srcColors[l] + '"></i> ' + (srcLabels[l] || l) + ' <strong>' + lt[l].toLocaleString() + '</strong></span>';
         }).filter(Boolean).join('');
+        legendEl.style.fontSize = '11px';
+        legendEl.style.justifyContent = 'center';
+        legendEl.style.gap = '14px';
       }
       attachTooltip(canvas, hourlyData, pad, barW, gap, 'abs');
     }
@@ -1429,6 +1455,121 @@
         }).join('');
       }
       attachTooltip(canvas, hourlyData, pad, barW, gap, 'pct');
+    }
+
+    function renderHourlyCumChart(canvasId, labelsId, hourlyData) {
+      var canvas = document.getElementById(canvasId);
+      if (!canvas) return;
+      var ctx = canvas.getContext('2d');
+      var rect = canvas.getBoundingClientRect();
+      if (!rect.width || !rect.height) return;
+      canvas.width = rect.width * 2; canvas.height = rect.height * 2;
+      ctx.scale(2, 2);
+      var W = rect.width, H = rect.height;
+      var fs = W > 400 ? 11 : 9;
+      var pad = {top: 18, right: 10, bottom: 5, left: W > 400 ? 46 : 36};
+      var cW = W - pad.left - pad.right, cH = H - pad.top - pad.bottom;
+      var hours = []; for (var i = 0; i < 24; i++) hours.push(i);
+      var barW = Math.max(3, cW / 24 * 0.75);
+      var gap = (cW - barW * 24) / 23;
+
+      // Build cumulative totals per source
+      var cumData = [];
+      var running = {};
+      hours.forEach(function(h) {
+        var s = hourlyData[h] || {};
+        var ks = Object.keys(s);
+        for (var j = 0; j < ks.length; j++) running[ks[j]] = (running[ks[j]] || 0) + s[ks[j]];
+        var copy = {};
+        for (var k in running) copy[k] = running[k];
+        cumData.push(copy);
+      });
+
+      // Find max cumulative total
+      var maxCum = 1;
+      cumData.forEach(function(cd) {
+        var t = 0;
+        for (var k in cd) t += cd[k];
+        if (t > maxCum) maxCum = t;
+      });
+
+      ctx.clearRect(0, 0, W, H);
+
+      // Y-axis
+      ctx.fillStyle = '#c8c0cc'; ctx.font = fs + 'px JetBrains Mono'; ctx.textAlign = 'right';
+      for (var yi = 0; yi <= 4; yi++) {
+        var val = Math.round(maxCum * yi / 4);
+        var y = pad.top + cH - (yi / 4) * cH;
+        ctx.fillText(val.toLocaleString(), pad.left - 4, y + 4);
+        ctx.strokeStyle = 'rgba(255,255,255,0.06)'; ctx.lineWidth = 0.5;
+        ctx.beginPath(); ctx.moveTo(pad.left, y); ctx.lineTo(pad.left + cW, y); ctx.stroke();
+      }
+
+      // Stacked cumulative bars
+      hours.forEach(function(h, i) {
+        var cd = cumData[i];
+        var total = 0;
+        for (var k in cd) total += cd[k];
+        if (!total) return;
+        var x = pad.left + i * (barW + gap);
+        var yBottom = pad.top + cH;
+        for (var li = 0; li < layers.length; li++) {
+          var v = cd[layers[li]] || 0;
+          if (!v) continue;
+          var barH = (v / maxCum) * cH;
+          ctx.fillStyle = srcColors[layers[li]];
+          ctx.fillRect(x, yBottom - barH, barW, barH);
+          yBottom -= barH;
+        }
+      });
+
+      // End-of-day total label
+      var finalTotal = 0;
+      var lastCd = cumData[23] || {};
+      for (var k in lastCd) finalTotal += lastCd[k];
+      ctx.font = 'bold ' + (fs - 1) + 'px JetBrains Mono'; ctx.textAlign = 'center';
+      var lx = pad.left + 23 * (barW + gap) + barW / 2;
+      var ly = pad.top + cH - (finalTotal / maxCum) * cH;
+      var label = finalTotal.toLocaleString();
+      var tw = ctx.measureText(label).width;
+      ctx.fillStyle = 'rgba(0,0,0,0.8)'; ctx.fillRect(lx - tw / 2 - 5, ly - 17, tw + 10, 16);
+      ctx.fillStyle = '#fff'; ctx.fillText(label, lx, ly - 5);
+
+      // X labels
+      var labelsEl = document.getElementById(labelsId);
+      if (labelsEl) {
+        var skip = W > 500 ? 2 : 3;
+        labelsEl.innerHTML = hours.map(function(h, i) {
+          if (i % skip) return '<span></span>';
+          var label = h === 0 ? '12a' : h < 12 ? h + 'a' : h === 12 ? '12p' : (h - 12) + 'p';
+          return '<span>' + label + '</span>';
+        }).join('');
+      }
+
+      // Tooltip
+      canvas.addEventListener('mousemove', function(e) {
+        var r = canvas.getBoundingClientRect();
+        var mx = e.clientX - r.left;
+        var scaleX = r.width / (canvas.width / 2);
+        var localX = mx / scaleX;
+        var idx = Math.min(23, Math.max(0, Math.round((localX - pad.left) / (barW + gap))));
+        var cd = cumData[idx] || {};
+        var total = 0; for (var k in cd) total += cd[k];
+        var hLabel = idx === 0 ? '12:00 AM' : idx < 12 ? idx + ':00 AM' : idx === 12 ? '12:00 PM' : (idx - 12) + ':00 PM';
+        var ttHtml = '<div class="tt-hour">By ' + hLabel + ' — ' + total.toLocaleString() + ' cumulative</div>';
+        layersReversed.forEach(function(l) {
+          var v = cd[l] || 0;
+          if (!v) return;
+          ttHtml += '<div class="tt-row"><div class="tt-dot" style="background:' + srcColors[l] + '"></div>' + (srcLabels[l] || l) + '<span class="tt-val">' + v.toLocaleString() + '</span></div>';
+        });
+        if (tooltip) {
+          tooltip.innerHTML = ttHtml;
+          tooltip.style.display = 'block';
+          tooltip.style.left = Math.min(e.clientX + 12, window.innerWidth - 220) + 'px';
+          tooltip.style.top = (e.clientY - 10) + 'px';
+        }
+      });
+      canvas.addEventListener('mouseleave', function() { if (tooltip) tooltip.style.display = 'none'; });
     }
   })();
   // === LOAD SUBSCRIBER NET GROWTH CHARTS ===
@@ -1561,6 +1702,37 @@
           '</div>';
         }
         el.innerHTML = svg + legend;
+
+        // Tooltip on hover
+        var tooltip = document.getElementById('chartTooltip');
+        var svgEl = el.querySelector('svg');
+        if (svgEl && tooltip) {
+          svgEl.addEventListener('mousemove', function(e) {
+            var rect = svgEl.getBoundingClientRect();
+            var mx = e.clientX - rect.left;
+            var svgW = rect.width;
+            var localX = (mx / svgW) * W;
+            var idx = Math.min(n - 1, Math.max(0, Math.round((localX - PL) / bw)));
+            var d = days[idx];
+            if (!d) return;
+            var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+            var p = d.date.split('-');
+            var dateLabel = MONTHS[parseInt(p[1]) - 1] + ' ' + parseInt(p[2]);
+            var net = d.newCount - d.canceledCount;
+            var netSign = net >= 0 ? '+' : '';
+            tooltip.innerHTML =
+              '<div class="tt-hour">' + dateLabel + '</div>' +
+              '<div class="tt-row"><div class="tt-dot" style="background:' + newColor + '"></div>New<span class="tt-val">+' + d.newCount + '</span></div>' +
+              '<div class="tt-row"><div class="tt-dot" style="background:' + cancelColor + '"></div>Canceled<span class="tt-val">-' + d.canceledCount + '</span></div>' +
+              '<div class="tt-row" style="border-top:1px solid rgba(255,255,255,0.08);margin-top:2px;padding-top:3px;"><div class="tt-dot" style="background:transparent;"></div>Net<span class="tt-val" style="color:' + (net >= 0 ? linePos : lineNeg) + ';">' + netSign + net + '</span></div>' +
+              '<div class="tt-row"><div class="tt-dot" style="background:transparent;"></div>Cumulative<span class="tt-val" style="color:' + (d.cumNet >= 0 ? linePos : lineNeg) + ';">' + (d.cumNet >= 0 ? '+' : '') + d.cumNet + '</span></div>';
+            tooltip.style.display = 'block';
+            tooltip.style.left = Math.min(e.clientX + 12, window.innerWidth - 220) + 'px';
+            tooltip.style.top = (e.clientY - 10) + 'px';
+          });
+          svgEl.addEventListener('mouseleave', function() { tooltip.style.display = 'none'; });
+        }
+
         return { days: days, barMax: barMax, cumBot: cumBot, cumRange: cumRange };
       }
 
@@ -1764,6 +1936,7 @@
         if (window._hourlyData && window._renderHourlySourcesChart && window._renderHourlyNlvdChart) {
           window._renderHourlySourcesChart('fsHourlyCanvas', 'fsHourlyLabels', 'fsHourlyLegend', window._hourlyData);
           window._renderHourlyNlvdChart('fsNlvdCanvas', 'fsNlvdLabels', window._hourlyData);
+          if (window._renderHourlyCumChart) window._renderHourlyCumChart('fsCumCanvas', 'fsCumLabels', window._hourlyData);
         }
       }, 100);
     });

@@ -2,7 +2,8 @@
 """
 fetch-news.py — RSS feed aggregator for The Daily Dreck news sidebar.
 Fetches Denver business news from local and national sources,
-deduplicates by title similarity, and outputs the 15 most recent + breaking.
+filters out sports game coverage, deduplicates by title similarity,
+and outputs the 20 most recent headlines.
 """
 
 import json
@@ -50,6 +51,99 @@ FEEDS = [
 MAX_AGE_HOURS = 168  # 7 days — catches weekly publications
 BREAKING_WINDOW_HOURS = 6
 MAX_HEADLINES = 20
+
+# ── SPORTS CONTENT FILTER ──
+# Patterns that indicate sports game coverage (not sports business)
+SPORTS_GAME_PATTERNS = [
+    # Game results and scores
+    r'\b\d+[-–]\d+\b',  # Score patterns like "3-2", "24–17"
+    r'\bfinal\s*:', r'\bscore\b', r'\bbox\s*score\b',
+    r'\bgame\s*recap\b', r'\bpostgame\b', r'\bpregame\b',
+    # Win/loss language
+    r'\b(beat|beats|defeated|defeats|routs|rout|swept|sweeps)\s',
+    r'\b(wins|loses|lost|won)\s+(over|to|against)\b',
+    r'\b(shut\s*out|walk[- ]?off|overtime|shootout|extra\s*innings?)\b',
+    # Player/game performance
+    r'\b(touchdown|home\s*run|three[- ]?pointer|goal|assist|interception|sack|strikeout)s?\b',
+    r'\b(rushing|passing|batting|pitching)\s+(yards?|average|stats?)\b',
+    r'\b(mvp|all[- ]?star|pro\s*bowl|all[- ]?pro)\b',
+    r'\b(roster|starting\s*lineup|injury\s*report|game[- ]?day|matchup)\b',
+    r'\b(first\s*quarter|second\s*half|fourth\s*quarter|first\s*period|third\s*period)\b',
+    # Playoff/season language
+    r'\b(playoff|postseason|preseason|regular\s*season|wild\s*card|divisional)\b',
+    r'\b(nfl\s*draft|trade\s*deadline|free\s*agent|waiver)\b',
+    # Specific game contexts
+    r'\b(kicks?\s*off|tips?\s*off|first\s*pitch)\b',
+]
+
+# Terms that indicate sports BUSINESS (should NOT be filtered)
+SPORTS_BUSINESS_TERMS = [
+    "stadium", "arena", "naming rights", "franchise", "relocation",
+    "development", "construction", "billion", "million", "investment",
+    "taxpayer", "bond", "financing", "lease", "sale", "sold",
+    "owner", "ownership", "valuation", "revenue", "sponsor",
+    "headquarters", "training facility", "real estate",
+]
+
+# RSS categories that are clearly non-business
+NON_BUSINESS_CATEGORIES = {
+    "sports", "sport", "football", "basketball", "baseball", "hockey",
+    "soccer", "nfl", "nba", "mlb", "nhl", "mls", "ncaa",
+    "broncos", "nuggets", "avalanche", "rockies", "rapids", "mammoth",
+    "weather", "forecast", "crime", "police", "fire",
+    "entertainment", "celebrity", "movies", "tv", "television",
+    "obituaries", "obituary", "comics", "puzzles", "horoscope",
+    "opinion", "letters to the editor", "editorials",
+}
+
+
+def is_sports_game_content(title, description="", categories=None):
+    """Check if an article is about a sporting event (not sports business)."""
+    text = (title + " " + description).lower()
+
+    # First check: if it has sports business terms, allow it through
+    if any(term in text for term in SPORTS_BUSINESS_TERMS):
+        return False
+
+    # Second check: if RSS categories indicate sports/non-business
+    if categories:
+        lower_cats = {c.lower().strip() for c in categories}
+        if lower_cats & NON_BUSINESS_CATEGORIES:
+            # Category is non-business, but double-check for business angle
+            if not any(term in text for term in SPORTS_BUSINESS_TERMS):
+                return True
+
+    # Third check: match against sports game patterns
+    for pattern in SPORTS_GAME_PATTERNS:
+        if re.search(pattern, text, re.IGNORECASE):
+            return True
+
+    return False
+
+
+def extract_categories(item):
+    """Extract category tags from an RSS item."""
+    categories = []
+
+    # RSS 2.0 <category> tags
+    for cat in item.findall("category"):
+        if cat.text:
+            categories.append(cat.text.strip())
+
+    # Dublin Core subject
+    dc_ns = "{http://purl.org/dc/elements/1.1/}"
+    for subj in item.findall(f"{dc_ns}subject"):
+        if subj.text:
+            categories.append(subj.text.strip())
+
+    # Atom categories
+    atom_ns = "{http://www.w3.org/2005/Atom}"
+    for cat in item.findall(f"{atom_ns}category"):
+        term = cat.get("term") or cat.get("label") or cat.text
+        if term:
+            categories.append(term.strip())
+
+    return categories
 
 
 def fetch_feed(feed_config):
@@ -113,12 +207,19 @@ def fetch_feed(feed_config):
             if age > timedelta(hours=MAX_AGE_HOURS):
                 continue
 
+            # Extract RSS categories
+            categories = extract_categories(item)
+
             # Filter by keywords if required
             keywords = feed_config.get("filter_keywords")
             if keywords:
-                text_to_check = (title + " " + description).lower()
+                text_to_check = (title + " " + description + " " + " ".join(categories)).lower()
                 if not any(kw in text_to_check for kw in keywords):
                     continue
+
+            # Filter out sports game content
+            if is_sports_game_content(title, description, categories):
+                continue
 
             articles.append({
                 "title": title.strip(),
