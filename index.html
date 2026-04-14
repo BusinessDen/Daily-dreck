@@ -560,14 +560,14 @@
   </div>
 
   <!-- Editor's Column / Changelog — auto-hides 3 days after last update -->
-  <div class="editor-card" id="editor-card" data-updated="2026-04-10" style="display:none;">
+  <div class="editor-card" id="editor-card" data-updated="2026-04-13" style="display:none;">
     <div class="editor-card-img">
       <img src="dreck-hero.png" alt="The Editor">
     </div>
     <div class="editor-card-body">
       <div class="editor-card-header">From the Editor's Desk</div>
-      <p><strong>April 10, 2026.</strong> Two new cards on the Dreck today. <strong>Yesterday's Articles</strong> pulls each story's readers, all-time rank, mentions, and new subscribers straight from the Reputation dashboard. And <strong>Yesterday's Traffic by Hour</strong> shows two stacked bar charts — readers by source and newsletter vs. direct — click to expand. Both update automatically from GA4 data.</p>
-      <div class="editor-card-date">Last updated April 10, 2026</div>
+      <p><strong>April 13, 2026.</strong> The <strong>Yesterday's Traffic</strong> card now shows three hourly charts side by side — readers by source, source mix percentage, and a new <strong>cumulative readers</strong> view that tracks the daily total building hour by hour. Legends show daily totals per category with hover explanations. The <strong>Subscriptions</strong> charts now have hover tooltips showing new/canceled/net for each day. And the news sidebar now filters out sports game coverage while keeping sports business stories.</p>
+      <div class="editor-card-date">Last updated April 13, 2026</div>
     </div>
   </div>
 
@@ -662,7 +662,6 @@
                     <canvas id="dreckHourlyCanvas" height="100" style="width:100%;background:transparent;"></canvas>
                   </div>
                   <div class="chart-labels" id="dreckHourlyLabels"></div>
-                  <div class="chart-legend" id="dreckHourlyLegend" style="margin-top:6px;"></div>
                 </div>
                 <div>
                   <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Source Mix %</div>
@@ -679,6 +678,7 @@
                   <div class="chart-labels" id="dreckCumLabels"></div>
                 </div>
               </div>
+              <div class="chart-legend" id="dreckHourlyLegend" style="margin-top:8px;font-size:11px;justify-content:center;gap:14px;flex-wrap:nowrap;"></div>
               <div class="cta">Expand Charts →</div>
             </div>
           </div>
@@ -1247,8 +1247,8 @@
 
       // Render charts after a short delay to ensure canvas is visible
       setTimeout(function() {
-        renderHourlySourcesChart('dreckHourlyCanvas', 'dreckHourlyLabels', 'dreckHourlyLegend', hourlyData);
-        renderHourlyNlvdChart('dreckNlvdCanvas', 'dreckNlvdLabels', hourlyData);
+        renderHourlySourcesChart('dreckHourlyCanvas', 'dreckHourlyLabels', 'dreckHourlyLegend', hourlyData, {showPeaks: false});
+        renderHourlyNlvdChart('dreckNlvdCanvas', 'dreckNlvdLabels', hourlyData, {showPeaks: false});
         renderHourlyCumChart('dreckCumCanvas', 'dreckCumLabels', hourlyData);
         window._hourlyData = hourlyData;
         window._renderHourlySourcesChart = renderHourlySourcesChart;
@@ -1296,7 +1296,8 @@
       canvas.addEventListener('mouseleave', function() { if (tooltip) tooltip.style.display = 'none'; });
     }
 
-    function renderHourlySourcesChart(canvasId, labelsId, legendId, hourlyData) {
+    function renderHourlySourcesChart(canvasId, labelsId, legendId, hourlyData, opts) {
+      var showPeaks = (opts && opts.showPeaks !== undefined) ? opts.showPeaks : true;
       var canvas = document.getElementById(canvasId);
       if (!canvas) return;
       var ctx = canvas.getContext('2d');
@@ -1338,6 +1339,7 @@
         }
       });
       // Peak labels
+      if (showPeaks) {
       var ranked = hours.map(function(h, i) { return {i: i, total: totals[i]}; }).sort(function(a, b) { return b.total - a.total; });
       var peakXs = [];
       ctx.font = 'bold ' + (fs - 1) + 'px JetBrains Mono'; ctx.textAlign = 'center';
@@ -1353,6 +1355,7 @@
         ctx.fillStyle = 'rgba(0,0,0,0.8)'; ctx.fillRect(px - tw / 2 - 5, py - 17, tw + 10, 16);
         ctx.fillStyle = '#fff'; ctx.fillText(label, px, py - 5);
       }
+      } // end showPeaks
       var labelsEl = document.getElementById(labelsId);
       if (labelsEl) {
         var skip = W > 500 ? 2 : 3;
@@ -1377,16 +1380,31 @@
         };
         legendEl.innerHTML = layersReversed.map(function(l) {
           if (!lt[l]) return '';
-          return '<span title="' + (srcExplain[l] || '') + '" style="cursor:help;"><i style="background:' + srcColors[l] + '"></i> ' + (srcLabels[l] || l) + ' <strong>' + lt[l].toLocaleString() + '</strong></span>';
+          return '<span class="legend-item" data-explain="' + (srcExplain[l] || '').replace(/"/g, '&quot;') + '" style="cursor:help;position:relative;"><i style="background:' + srcColors[l] + '"></i> ' + (srcLabels[l] || l) + ' <strong>' + lt[l].toLocaleString() + '</strong></span>';
         }).filter(Boolean).join('');
         legendEl.style.fontSize = '11px';
         legendEl.style.justifyContent = 'center';
         legendEl.style.gap = '14px';
+
+        // Attach legend tooltips using shared tooltip div
+        legendEl.querySelectorAll('.legend-item').forEach(function(span) {
+          span.addEventListener('mouseenter', function(e) {
+            var explain = span.getAttribute('data-explain');
+            if (!explain || !tooltip) return;
+            tooltip.innerHTML = '<div style="font-size:12px;color:var(--cream);line-height:1.5;">' + explain + '</div>';
+            tooltip.style.display = 'block';
+            var r = span.getBoundingClientRect();
+            tooltip.style.left = Math.min(r.left, window.innerWidth - 280) + 'px';
+            tooltip.style.top = (r.bottom + 6) + 'px';
+          });
+          span.addEventListener('mouseleave', function() { if (tooltip) tooltip.style.display = 'none'; });
+        });
       }
       attachTooltip(canvas, hourlyData, pad, barW, gap, 'abs');
     }
 
-    function renderHourlyNlvdChart(canvasId, labelsId, hourlyData) {
+    function renderHourlyNlvdChart(canvasId, labelsId, hourlyData, opts) {
+      var showPeaks = (opts && opts.showPeaks !== undefined) ? opts.showPeaks : true;
       var canvas = document.getElementById(canvasId);
       if (!canvas) return;
       var ctx = canvas.getContext('2d');
@@ -1427,6 +1445,7 @@
         }
       });
       // Peak labels — top 3 by newsletter %
+      if (showPeaks) {
       var ranked = hours.map(function(h, i) {
         var s = hourlyData[h] || {}; var total = 0; var ks = Object.keys(s); for (var j = 0; j < ks.length; j++) total += s[ks[j]];
         return {i: i, pct: total > 0 ? Math.round((s.email || 0) / total * 1000) / 10 : 0, total: total, email: s.email || 0};
@@ -1445,6 +1464,7 @@
         ctx.fillStyle = 'rgba(0,0,0,0.8)'; ctx.fillRect(px - tw / 2 - 5, py - 17, tw + 10, 16);
         ctx.fillStyle = '#fff'; ctx.fillText(label, px, py - 5);
       }
+      } // end showPeaks
       var labelsEl = document.getElementById(labelsId);
       if (labelsEl) {
         var skip = W > 500 ? 2 : 3;
