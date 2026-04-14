@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-14",
-  "fetched_at": "2026-04-14 11:05:51",
+  "fetched_at": "2026-04-14 13:46:00",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Denver takes control of Mount Blue Sky summit operations as reopening nears",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/management-mount-blue-sky/73-898e7357-185c-41ed-93e4-cee79c0fed29",
+      "source": "9News",
+      "pub_date": "2026-04-14T13:36:40+00:00",
+      "age_hours": 0.15144167055555557,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Western wear brand opening first Denver metro store",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/cavenders-boot-city-opening-store/73-326bb4db-de5a-4fd7-9c82-81dcb5707f1c",
+      "source": "9News",
+      "pub_date": "2026-04-14T13:20:01+00:00",
+      "age_hours": 0.4289417411111111,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
+    {
+      "title": "Olive & Finch opening fifth Colorado restaurant",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/olive-finch-collective-new-colorado-restaurant/73-e91370dd-a8a7-4ad8-94ab-06acba7d41a9",
+      "source": "9News",
+      "pub_date": "2026-04-14T12:18:53+00:00",
+      "age_hours": 1.4478306916666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Furry Scurry returns in Denver to support Humane Colorado's 44,000 animals",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/furry-scurry-2026-denver/73-64fce312-93b6-45ba-bb39-2a6813ff288c",
+      "source": "9News",
+      "pub_date": "2026-04-14T11:06:01+00:00",
+      "age_hours": 2.6622751819444446,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Tap THC beverage tax to address budget gap | OPINION",
       "link": "https://www.coloradopolitics.com/2026/04/14/tap-thc-beverage-tax-to-address-budget-gap-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-04-14T06:45:00+00:00",
-      "age_hours": 4.343415146388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.013106555833334,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver man shot in neck while riding scooter",
       "link": "https://kdvr.com/news/local/denver-man-shot-in-neck-while-riding-scooter/",
       "source": "Fox31",
       "pub_date": "2026-04-14T03:53:38+00:00",
-      "age_hours": 7.199273919444444,
+      "age_hours": 9.86890763361111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "DU ready to celebrate 11th national championship with fans",
       "link": "https://kdvr.com/news/local/du-ready-to-celebrate-11th-national-championship-with-fans/",
       "source": "Fox31",
       "pub_date": "2026-04-14T02:17:44+00:00",
-      "age_hours": 8.797607300277777,
+      "age_hours": 11.467241014722221,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
+    },
+    {
+      "title": "Historic 84-year-old Bonnie Brae gas station in Denver officially listed for sale by family",
+      "link": "https://www.denver7.com/news/local-news/historic-84-year-old-bonnie-brae-gas-station-in-denver-officially-listed-for-sale-by-family",
+      "source": "Denver7",
+      "pub_date": "2026-04-14T01:12:37+00:00",
+      "age_hours": 12.5523960175,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "This is my face; Next with Kyle Clark full show (4/13/26)",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/this-is-my-face-next-with-kyle-clark-full-show-41326/73-8d6c3d59-ccc9-46ac-802e-da5c36687edc",
       "source": "9News",
       "pub_date": "2026-04-14T01:07:37+00:00",
-      "age_hours": 9.966118820555556,
+      "age_hours": 12.635608610277778,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "'Not acceptable': Denver archbishop condemns Trump's comments about Pope Leo",
       "link": "https://www.9news.com/article/news/local/denver-archbishop-condemns-trump-comments-pope-leo/73-83c62464-1553-4012-9d32-7ea24dec5201",
       "source": "9News",
       "pub_date": "2026-04-14T00:50:51+00:00",
-      "age_hours": 10.245563333333333,
+      "age_hours": 12.915053110277778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Revised Colorado jobs report shows state lost 11K jobs over the last year",
       "link": "https://www.denver7.com/money/business-news/revised-colorado-jobs-report-shows-state-lost-11k-jobs-over-the-last-year",
       "source": "Denver7",
       "pub_date": "2026-04-14T00:05:44+00:00",
-      "age_hours": 10.997599851944445,
+      "age_hours": 13.667118254722222,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Ball Arena adds outdoor viewing experience for Avs, Nuggets fans during playoffs",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/ball-arena-outdoor-viewing-party-experience-avs-nuggets-playoffs/73-c7ad61e3-8f7d-4b66-bfa3-261361a7fec2",
-      "source": "9News",
-      "pub_date": "2026-04-13T23:42:20+00:00",
-      "age_hours": 11.387507832777779,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Family prepares to say goodbye to 1-year-old son after respiratory illness and trips to emergency department",
       "link": "https://kdvr.com/news/local/family-prepares-to-say-goodbye-to-1-year-old-son-after-respiratory-illness-and-trips-to-emergency-department/",
       "source": "Fox31",
       "pub_date": "2026-04-13T23:42:11+00:00",
-      "age_hours": 11.390107174166666,
+      "age_hours": 14.05974090111111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado marijuana regulators pledge crackdown on intoxicating hemp",
       "link": "https://www.coloradopolitics.com/2026/04/13/colorado-marijuana-regulators-pledge-crackdown-on-intoxicating-hemp/",
       "source": "CO Politics",
       "pub_date": "2026-04-13T23:38:50+00:00",
-      "age_hours": 11.446192954722221,
+      "age_hours": 14.11588436361111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver museum to close gems hall for renovation, backed by $1M matching gift",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/denver-museum-gems-minerals-hall-closes/73-9caa3aba-e12e-4e79-b527-0b0697080004",
-      "source": "9News",
-      "pub_date": "2026-04-13T23:32:47+00:00",
-      "age_hours": 11.5466745075,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Deputies release surveillance video in Berthoud honey heist",
       "link": "https://kdvr.com/news/local/deputies-release-surveillance-video-in-berthoud-honey-heist/",
       "source": "Fox31",
       "pub_date": "2026-04-13T22:17:41+00:00",
-      "age_hours": 12.798440719722223,
+      "age_hours": 15.468074433888889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Seeing red? This 1800s law shaped how Denver looks today",
       "link": "https://kdvr.com/news/colorado-150/seeing-red-this-1800s-law-shaped-how-denver-looks-today/",
       "source": "Fox31",
       "pub_date": "2026-04-13T21:35:10+00:00",
-      "age_hours": 13.507051778055557,
+      "age_hours": 16.176685491944443,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Groundbreaking: Rocky Mountain Rescue Group HQ in Boulder",
       "link": "https://milehighcre.com/groundbreaking-rocky-mountain-rescue-group-hq-in-boulder/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-13T20:47:49+00:00",
-      "age_hours": 14.29594765361111,
+      "age_hours": 16.965386758055555,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "18-year-old dies after shooting in Denver park on Easter",
       "link": "https://kdvr.com/news/local/18-year-old-dies-after-shooting-in-denver-park-on-easter/",
       "source": "Fox31",
       "pub_date": "2026-04-13T20:40:12+00:00",
-      "age_hours": 14.423162695,
+      "age_hours": 17.0927964025,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Report touts CSU system\u2019s economic impact",
       "link": "https://bizwest.com/2026/04/13/report-touts-csu-systems-economic-impact/",
       "source": "BizWest",
       "pub_date": "2026-04-13T20:19:19+00:00",
-      "age_hours": 14.770599356388889,
+      "age_hours": 17.439948834166668,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Sushi concept Wellness Counter coming to Boulder\u2019s Pearl Street",
       "link": "https://bizwest.com/2026/04/13/sushi-concept-wellness-counter-coming-to-boulders-pearl-street/",
       "source": "BizWest",
       "pub_date": "2026-04-13T19:15:33+00:00",
-      "age_hours": 15.833377150833334,
+      "age_hours": 18.502726628333335,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Westminster mulling more incentives for Origin Hotel",
       "link": "https://bizwest.com/2026/04/13/westminster-mulling-more-incentives-for-origin-hotel/",
       "source": "BizWest",
       "pub_date": "2026-04-13T19:09:41+00:00",
-      "age_hours": 15.931154936388888,
+      "age_hours": 18.60050441388889,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Collegiate Peaks Bank plants flag in Fort Collins",
-      "link": "https://bizwest.com/2026/04/13/collegiate-peaks-bank-plants-flag-in-fort-collins/",
-      "source": "BizWest",
-      "pub_date": "2026-04-13T19:05:32+00:00",
-      "age_hours": 16.000322098888887,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Colorado Senate takes up $46.8 billion budget",
-      "link": "https://www.coloradopolitics.com/2026/04/13/colorado-senate-takes-up-46-8-billion-budget/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-13T18:34:49+00:00",
-      "age_hours": 16.513137549166668,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Woman killed in weekend shooting in Green Valley Ranch",
-      "link": "https://kdvr.com/news/local/woman-killed-in-weekend-shooting-in-green-valley-ranch/",
-      "source": "Fox31",
-      "pub_date": "2026-04-13T18:18:45+00:00",
-      "age_hours": 16.780662946666666,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
