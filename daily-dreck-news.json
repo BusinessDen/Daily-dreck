@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-15",
-  "fetched_at": "2026-04-15 15:06:26",
+  "fetched_at": "2026-04-15 17:06:47",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 18,
   "articles": [
+    {
+      "title": "Howell Completes National Board of Chiropractic Examiners Facility in Greeley",
+      "link": "https://milehighcre.com/howell-completes-national-board-of-chiropractic-examiners-facility-in-greeley/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-04-15T16:57:21+00:00",
+      "age_hours": 0.15108468749999998,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "G-Que Barbeque to open first northern Colorado location",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/g-que-barbeque-northern-colorado/73-01de778c-1b6e-4dac-bd5a-69873929e257",
+      "source": "9News",
+      "pub_date": "2026-04-15T16:36:06+00:00",
+      "age_hours": 0.5055105502777778,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "After internal strategy sessions, Colorado Senate to take up $46B budget debate",
+      "link": "https://www.coloradopolitics.com/2026/04/15/after-internal-strategy-sessions-colorado-senate-to-take-up-46b-budget-debate/",
+      "source": "CO Politics",
+      "pub_date": "2026-04-15T16:30:05+00:00",
+      "age_hours": 0.6067408150000001,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "Will there be a hard freeze in Denver on Friday?",
+      "link": "https://kdvr.com/news/local/will-there-be-a-hard-freeze-in-denver-on-friday/",
+      "source": "Fox31",
+      "pub_date": "2026-04-15T16:00:18+00:00",
+      "age_hours": 1.1026548344444445,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver museum to close gems hall for renovation, backed by $1M matching gift",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/denver-museum-gems-minerals-hall-closes/73-9caa3aba-e12e-4e79-b527-0b0697080004",
+      "source": "9News",
+      "pub_date": "2026-04-15T15:53:33+00:00",
+      "age_hours": 1.2146772277777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Furry Scurry returns in Denver to support Humane Colorado's 44,000 animals",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/furry-scurry-2026-denver/73-64fce312-93b6-45ba-bb39-2a6813ff288c",
+      "source": "9News",
+      "pub_date": "2026-04-15T15:45:58+00:00",
+      "age_hours": 1.3410661222222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Herbal health supplement sold nationwide recalled over deadly botulism risk",
+      "link": "https://www.9news.com/article/news/nation-world/herbal-health-supplement-recalled-over-deadly-botulism-risk/507-dcfa6b37-3797-4fe9-9cc9-3df793202bc7",
+      "source": "9News",
+      "pub_date": "2026-04-15T15:44:42+00:00",
+      "age_hours": 1.3621772894444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Chick-fil-A opening Colorado\u2019s first drive-thru only prototype",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/chick-fil-a-new-denver-restaurant/73-75566575-9853-42ce-b63a-b2063632a48c",
+      "source": "9News",
+      "pub_date": "2026-04-15T15:21:21+00:00",
+      "age_hours": 1.7513439700000002,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado nonprofit navigates confusion, resistance to implement new food truck law",
+      "link": "https://www.9news.com/article/news/local/confusion-new-food-truck-law/73-06c3ce30-4e50-4b3f-96c9-21fdee820ef9",
+      "source": "9News",
+      "pub_date": "2026-04-15T15:12:14+00:00",
+      "age_hours": 1.9032884749999999,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Ball Arena adds outdoor viewing experience for Avs, Nuggets fans during playoffs",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/ball-arena-outdoor-viewing-party-experience-avs-nuggets-playoffs/73-c7ad61e3-8f7d-4b66-bfa3-261361a7fec2",
+      "source": "9News",
+      "pub_date": "2026-04-15T15:10:51+00:00",
+      "age_hours": 1.9263440352777776,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "9Things to do in Colorado this weekend: April 17-19",
+      "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/9things-colorado-weekend-april-17/73-d89b50a6-1c80-4709-9a2e-2b6a1fda762b",
+      "source": "9News",
+      "pub_date": "2026-04-15T15:07:11+00:00",
+      "age_hours": 1.9874551516666668,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Tax Day 2026 deals: Restaurants, retailers offering freebies and savings",
       "link": "https://www.9news.com/article/news/nation-world/tax-day-2026-deals/507-f52719b2-d6d6-48bf-bc5e-fe7bafc2d0a7",
       "source": "9News",
       "pub_date": "2026-04-15T14:54:32+00:00",
-      "age_hours": 0.1935641688888889,
+      "age_hours": 2.198288491388889,
       "breaking": true,
-      "time_ago": "11 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Vero Broadband completes acquisition of Telephone Electronics",
       "link": "https://bizwest.com/2026/04/15/vero-broadband-completes-acquisition-of-telephone-electronics/",
       "source": "BizWest",
       "pub_date": "2026-04-15T13:37:15+00:00",
-      "age_hours": 1.481010485,
+      "age_hours": 3.4856577738888888,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Enveda appoints Porter as senior VP",
       "link": "https://bizwest.com/2026/04/15/enveda-appoints-porter-as-senior-vp/",
       "source": "BizWest",
       "pub_date": "2026-04-15T13:15:46+00:00",
-      "age_hours": 1.8390665577777778,
+      "age_hours": 3.8437138727777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado saw job losses for the first time since pandemic",
       "link": "https://www.9news.com/article/money/economy/colorado-job-losses/73-b7a10114-72c0-4876-8d17-26684fc580f9",
       "source": "9News",
       "pub_date": "2026-04-15T12:36:33+00:00",
-      "age_hours": 2.4932865155555555,
+      "age_hours": 4.498010791111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Weld County approves ordinance allowing data centers in industrial zones",
       "link": "https://www.9news.com/article/tech/personal-tech/weld-county-ordinance-data-centers/73-5eae7015-0268-452d-b563-31e56b9ea39a",
       "source": "9News",
       "pub_date": "2026-04-15T12:35:10+00:00",
-      "age_hours": 2.5163421047222223,
+      "age_hours": 4.521066378888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Englewood company STOMP Athletics pitching its products on 'Shark Tank'",
       "link": "https://www.denver7.com/money/business-news/englewood-company-stomp-athletics-pitching-its-products-on-shark-tank",
       "source": "Denver7",
       "pub_date": "2026-04-15T11:35:53+00:00",
-      "age_hours": 3.504530848611111,
+      "age_hours": 5.5094249755555555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "A Denver theater production brings \u201ccold and indifferent\u201d foster care system to the stage",
       "link": "https://coloradosun.com/2026/04/15/foster-care-theater-production-cobbled-streets/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-15T10:00:00+00:00",
-      "age_hours": 5.102299644444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.107014078333334,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
-      "title": "Painted Tree Boutiques shuts all locations nationwide, leaving thousands of small vendors scrambling",
-      "link": "https://www.9news.com/article/news/nation-world/painted-tree-boutiques-closes-all-locations-nationwide/507-54f07ed7-7814-4503-9b40-e853b95f73f7",
-      "source": "9News",
-      "pub_date": "2026-04-15T00:09:38+00:00",
-      "age_hours": 14.941897753055557,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "title": "Colorado Marijuana Pesticide Recall Hits Six Stores",
+      "link": "https://www.westword.com/news/colorado-marijuana-pesticide-recall-six-stores-40872533/",
+      "source": "Westword",
+      "pub_date": "2026-04-15T09:38:16-06:00",
+      "age_hours": 1.4701293741666668,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "3D home printing factory opens in Denver",
       "link": "https://www.denver7.com/news/local-news/3d-home-printing-factory-opens-in-denver",
       "source": "Denver7",
       "pub_date": "2026-04-15T00:01:15+00:00",
-      "age_hours": 15.081753181111111,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Senate Democrats outline amendment strategy as budget debate nears",
-      "link": "https://www.coloradopolitics.com/2026/04/14/senate-democrats-outline-amendment-strategy-as-budget-debate-nears/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-14T23:35:04+00:00",
-      "age_hours": 15.518455400833334,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "These were the world's busiest airports for 2025",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/worlds-busiest-airports-2025-airports-council-international-atlanta/507-561bac44-4369-4ad4-9e81-cdda8aacb413",
-      "source": "9News",
-      "pub_date": "2026-04-14T22:46:27+00:00",
-      "age_hours": 16.328286696944446,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Uptown rezoning forwarded to Greeley City Council",
-      "link": "https://bizwest.com/2026/04/14/uptown-rezoning-forwarded-to-greeley-city-council/",
-      "source": "BizWest",
-      "pub_date": "2026-04-14T21:07:32+00:00",
-      "age_hours": 17.976288808333333,
+      "age_hours": 17.086647298888888,
       "breaking": false,
       "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Albertsons grocery chain to pay more than $773 million in planned opioid settlements",
-      "link": "https://www.denver7.com/news/local-news/albertsons-grocery-chain-to-pay-more-than-773-million-in-planned-opioid-settlements",
-      "source": "Denver7",
-      "pub_date": "2026-04-14T20:48:49+00:00",
-      "age_hours": 18.288975438055555,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Lightship Energy expands Broomfield manufacturing facility",
-      "link": "https://bizwest.com/2026/04/14/lightship-energy-expands-broomfield-manufacturing-facility/",
-      "source": "BizWest",
-      "pub_date": "2026-04-14T20:36:52+00:00",
-      "age_hours": 18.487399926666665,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Colorado business leaders, Gov. Jared Polis send warning as companies pack their bags",
-      "link": "https://www.coloradopolitics.com/2026/04/14/colorado-business-leaders-gov-jared-polis-send-warning-as-companies-pack-their-bags/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-14T20:24:58+00:00",
-      "age_hours": 18.686788746111112,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "The Pearl abruptly shuts down after staff mass report fraud on GoFundMe to save it",
-      "link": "https://kdvr.com/news/local/the-pearl-abruptly-shuts-down-after-staff-mass-report-fraud-on-gofundme-to-save-it/",
-      "source": "Fox31",
-      "pub_date": "2026-04-14T20:17:04+00:00",
-      "age_hours": 18.81817745361111,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Developer, city staff at odds over Broomfield Town Square permits",
-      "link": "https://bizwest.com/2026/04/14/developer-city-staff-at-odds-over-broomfield-town-square-permits/",
-      "source": "BizWest",
-      "pub_date": "2026-04-14T20:03:12+00:00",
-      "age_hours": 19.048511068333333,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Colorado marijuana regulators pledge crackdown on intoxicating hemp",
-      "link": "https://www.coloradopolitics.com/2026/04/14/colorado-marijuana-regulators-pledge-crackdown-on-intoxicating-hemp/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-14T18:22:02+00:00",
-      "age_hours": 20.735677747500002,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Beyond LEED: The New Rules of Sustainable Development",
-      "link": "https://milehighcre.com/beyond-leed-the-new-rules-of-sustainable-development/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-04-14T16:57:34+00:00",
-      "age_hours": 22.142778779722224,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Office Stabilizes Despite Setbacks; Industrial Slows but Holds Strong",
-      "link": "https://milehighcre.com/office-stabilizes-despite-setbacks-industrial-slows-but-holds-strong/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-04-14T15:08:18+00:00",
-      "age_hours": 23.963889910555555,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
     }
   ]
 }
