@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-04-14",
-  "lead_headline": "Risica and Maize join RiNo's spring opening wave as Dairy Queen exits three metro locations",
+  "generated_date": "2026-04-15",
+  "lead_headline": "Dumplin' closes Wednesday after 18 months as Mojo-99 Burgers shuts down in Westminster",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>0 new leads today.</strong> Active opening leads: Risica (Milanese pizzeria in RiNo from Il Posto's Andrea Frizzi), Maize by Chef Johnny Curiel (Michelin-starred Mexican in RiNo), The Couloir (apr\u00e8s taphouse at Meier Skis factory in Overland). Active closure leads: Barry's (20-year dive bar on Broadway closed Sept 2023), California Pizza Kitchen (25-year Cherry Creek tenant closed summer 2025).",
+      "blurb": "<strong>2 new leads today:</strong> Dumplin' (Highlands fusion restaurant closing tomorrow after 1.5 years), Mojo-99 Burgers (Westminster family burger spot shuttered mid-April after 5 years).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
-        "value2": "0",
+        "value2": "2",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "51",
         "label2": "closed",
-        "value2": "50",
+        "value2": "52",
         "period": "all leads"
       }
     },
@@ -43,11 +43,11 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>1 new application today:</strong> Nativ Hotel & Gatsby Social filed for hotel/restaurant/cabaret license at 1612 Wazee St but already shows delinquent status. Meanwhile, 6 status changes logged overnight \u2014 John Holly's Bistro on S Downing went delinquent, while Anthony's Pizza, Chaos Bloom Theater, 7-Eleven on 16th St, Sushi Sasa, and El Chingon all shifted to administratively closed or expired. The 7-day count reaches 10 new applications after weeks of dormancy, suggesting spring filing momentum building.",
+      "blurb": "<strong>0 new applications today</strong> after yesterday's single Nativ Hotel filing. The 7-day tally holds at 10 applications \u2014 the first double-digit weekly count in months, signaling spring filing season may finally be arriving. No status changes overnight keeps the administrative queue stable after yesterday's six-license shift to delinquent/expired/closed categories. The dormancy break suggests restaurateurs are positioning for summer liquor license approvals.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "1",
+        "value1": "0",
         "class1": "",
         "period": "today"
       },
@@ -59,30 +59,30 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>0 mentions yesterday</strong> close out the weekend, dropping the 7-day total to 43 across 12 sources \u2014 down 22% from last week's 55. Instagram still dominates with 15 pickups, followed by The Denver Post (7) and X (5). Notable recent coverage: Instagram chatter on beef prices, X engagement on #BusinessDen hashtag, Hoodline's Silverpeak receivership story, and Facebook amplification of the downtown hotel shutdown order. Google News RSS captured 42 of 43 weekly mentions. The weekend dip is typical; watch for Monday rebound.",
+      "blurb": "<strong>1 mention yesterday</strong> lifts the 7-day total to 42 across 15 sources \u2014 down 22% from last week's 54. Instagram leads with 13 pickups, followed by The Denver Post (7) and X (4). Recent coverage highlights: Denver Gazette's Wheat Ridge motel demolition story, Post's Chez Artiste theater demolition plan, San Antonio Express-News citing BusinessDen on a 600-restaurant China deal, and X amplifying University Hills theater closure and real estate fraud stories. Google News RSS captured all 42 weekly mentions. The weekly decline reflects typical mid-month softening after April's opening surge.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "0",
-        "class1": "down",
+        "value1": "1",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "43",
+        "value1": "42",
         "class1": "down",
         "label2": "sources",
-        "value2": "12",
+        "value2": "15",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) holds MTD at +10 and 90-day net at +138. The weekend flatline follows a strong mid-week run: Apr 7-10 delivered four consecutive positive days totaling +10 net, driven by reduced churn (just 5 cancellations across those four days). April's MTD pace (+0.8/day) still lags YTD's +1.4/day average, but the recent 7-day stretch (+11 net, 17 new vs 6 canceled) marks the strongest weekly performance since late March and suggests post-quarter stabilization taking hold.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) keeps MTD at +10 and 90-day net at +138. Yesterday's flatline matches Sunday's zero activity, but the two-day weekend pause follows a robust 7-day stretch (+7 net, 12 new vs 5 canceled) \u2014 triple last week's +2 performance and the strongest weekly result since late March. April's +0.7/day MTD pace still trails YTD's +1.4/day average, but April 7-12's six-day run (+11 net with just 6 total cancellations) suggests churn stabilization taking firmer hold heading into mid-month.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "10",
       "net_ytd": "141",
-      "net_mtd_per_day": "0.8",
+      "net_mtd_per_day": "0.7",
       "net_ytd_per_day": "1.4",
       "annual_mtd": "8",
       "annual_ytd": "112",
