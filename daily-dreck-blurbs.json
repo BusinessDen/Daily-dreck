@@ -1,31 +1,31 @@
 {
-  "generated_date": "2026-04-15",
-  "lead_headline": "Dumplin' closes Wednesday after 18 months as Mojo-99 Burgers shuts down in Westminster",
+  "generated_date": "2026-04-17",
+  "lead_headline": "Chick-fil-A debuts Colorado's first drive-thru-only location at Central Park as 8 new leads surface",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>2 new leads today:</strong> Dumplin' (Highlands fusion restaurant closing tomorrow after 1.5 years), Mojo-99 Burgers (Westminster family burger spot shuttered mid-April after 5 years).",
+      "blurb": "<strong>8 new leads today:</strong> Red Lotus Den food hall (Westminster, June target), DiFranco's Italian (Westminster second location), Chick-fil-A drive-thru-only (Central Park, opened today), Wash Park Social (replaces Grille).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+5",
         "label2": "closed",
-        "value2": "2",
+        "value2": "\u22123",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "51",
+        "value1": "56",
         "label2": "closed",
-        "value2": "52",
+        "value2": "55",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "Nothing new to report today.",
+      "blurb": "<strong>$6.1M Douglas County filing</strong> at 18901 Longs Way \u2014 the week's only filing exceeding $4M threshold, followed by a $2.9M Arapahoe County property at 5899 Green Oaks Dr.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "0",
+        "value1": "72",
         "class1": "",
         "label2": "upcoming auctions",
         "value2": "0",
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "20",
+        "value1": "72",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,23 +43,23 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>0 new applications today</strong> after yesterday's single Nativ Hotel filing. The 7-day tally holds at 10 applications \u2014 the first double-digit weekly count in months, signaling spring filing season may finally be arriving. No status changes overnight keeps the administrative queue stable after yesterday's six-license shift to delinquent/expired/closed categories. The dormancy break suggests restaurateurs are positioning for summer liquor license approvals.",
+      "blurb": "<strong>6 new applications today</strong> \u2014 headlined by The Denver Book Society (Humboldt Street hotel/restaurant license), Skyline Beer Garden (Arapahoe Street combined liquor transfer), and Pan Gu Asian Bistro (Aurora). Four status changes overnight: Denver Hot Pot cleared delinquency to active, while Molotov (Colfax), Hungry Elephant (Cherry Creek), and Rootdown DIA all slipped to delinquent. The 7-day count hits 22 applications \u2014 5.5\u00d7 last week's anemic 4-application tally and the strongest weekly filing surge since late winter.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
-        "class1": "",
+        "value1": "6",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "10",
+        "value1": "22",
         "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention yesterday</strong> lifts the 7-day total to 42 across 15 sources \u2014 down 22% from last week's 54. Instagram leads with 13 pickups, followed by The Denver Post (7) and X (4). Recent coverage highlights: Denver Gazette's Wheat Ridge motel demolition story, Post's Chez Artiste theater demolition plan, San Antonio Express-News citing BusinessDen on a 600-restaurant China deal, and X amplifying University Hills theater closure and real estate fraud stories. Google News RSS captured all 42 weekly mentions. The weekly decline reflects typical mid-month softening after April's opening surge.",
+      "blurb": "<strong>1 mention today</strong> pushes the 7-day total to 52 across 17 sources \u2014 matching last week's 51-mention baseline after April's early surge. Instagram (11), Denver Post (10), and X (6) dominate this week's pickups. Standout coverage: Post's 56-restaurant tipped wage letter, Facebook amplification of Flats groundbreaking and fastest-growing companies retrospective, Reddit's Littleton restaurant subsidy debate. The week-over-week plateau suggests April's opening frenzy has normalized into steady-state spring coverage after three weeks of elevated activity.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,21 +69,21 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "42",
-        "class1": "down",
+        "value1": "52",
+        "class1": "",
         "label2": "sources",
-        "value2": "15",
+        "value2": "17",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) keeps MTD at +10 and 90-day net at +138. Yesterday's flatline matches Sunday's zero activity, but the two-day weekend pause follows a robust 7-day stretch (+7 net, 12 new vs 5 canceled) \u2014 triple last week's +2 performance and the strongest weekly result since late March. April's +0.7/day MTD pace still trails YTD's +1.4/day average, but April 7-12's six-day run (+11 net with just 6 total cancellations) suggests churn stabilization taking firmer hold heading into mid-month.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks the fourth consecutive flat day and holds MTD at +10 (+0.6/day), 90-day net at +138. The current four-day drought (April 13-16) follows April 7-12's exceptional six-day run (+11 net, 15 new vs 4 canceled) \u2014 the strongest sustained performance since late March. Week-over-week momentum has cooled sharply: this week's +5 net (7 new, 2 canceled) trails last week's +12 by 58%, though cancellation rate improved dramatically (2 vs 8). The MTD +0.6/day pace lags YTD's +1.3/day average, but mid-month weekday flatlines typically precede month-end renewal clusters.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "10",
       "net_ytd": "141",
-      "net_mtd_per_day": "0.7",
-      "net_ytd_per_day": "1.4",
+      "net_mtd_per_day": "0.6",
+      "net_ytd_per_day": "1.3",
       "annual_mtd": "8",
       "annual_ytd": "112",
       "monthly_mtd": "2",
