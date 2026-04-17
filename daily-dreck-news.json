@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-17",
-  "fetched_at": "2026-04-17 11:59:18",
+  "fetched_at": "2026-04-17 13:51:19",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "SelectTech to bring 150 jobs to Colorado Springs",
+      "link": "https://bizwest.com/2026/04/17/selecttech-to-bring-150-jobs-to-colorado-springs/",
+      "source": "BizWest",
+      "pub_date": "2026-04-17T13:47:30+00:00",
+      "age_hours": 0.05877746722222222,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "G-Que BBQ to open first Northern Colorado location in Timnath",
+      "link": "https://bizwest.com/2026/04/17/g-que-bbq-to-open-first-northern-colorado-location-in-timnath/",
+      "source": "BizWest",
+      "pub_date": "2026-04-17T13:22:08+00:00",
+      "age_hours": 0.4815557597222222,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "9Things to do in Colorado this weekend: April 17-19",
+      "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/9things-colorado-weekend-april-17/73-d89b50a6-1c80-4709-9a2e-2b6a1fda762b",
+      "source": "9News",
+      "pub_date": "2026-04-17T13:12:40+00:00",
+      "age_hours": 0.6399993458333333,
+      "breaking": true,
+      "time_ago": "38 min ago"
+    },
+    {
+      "title": "Photos: Historic buildings that were torn down for parking lots in Denver",
+      "link": "https://kdvr.com/news/colorado-150/photos-historic-buildings-that-were-torn-down-for-parking-lots-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-04-17T12:44:44+00:00",
+      "age_hours": 1.1058371066666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "'Top Gun 3' is in development, Paramount studio head confirms",
       "link": "https://www.9news.com/article/entertainment/top-gun-3-paramount-tom-cruise/507-9bb2e8dd-26e7-41a6-81e1-e63691ea3309",
       "source": "9News",
       "pub_date": "2026-04-17T11:48:39+00:00",
-      "age_hours": 0.17249538305555556,
+      "age_hours": 2.0402771822222223,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Westminster launches its first-ever restaurant week to support local dining and small business owners",
       "link": "https://www.denver7.com/news/front-range/westminster/westminster-launches-its-first-ever-restaurant-week-to-support-local-dining-and-small-business-owners",
       "source": "Denver7",
       "pub_date": "2026-04-17T11:41:44+00:00",
-      "age_hours": 0.28787823944444446,
+      "age_hours": 2.1557021619444448,
       "breaking": true,
-      "time_ago": "17 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "How Estes Park climber Melissa Strong found her spark again after electrical accident ruined her hands",
       "link": "https://coloradosun.com/2026/04/17/melissa-strong-book-climber-restaurant-electrical-accident/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-17T10:08:00+00:00",
-      "age_hours": 1.8498953316666666,
+      "age_hours": 3.717647841666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "In a chaotic job market, workers change their strategies as employers hire with caution",
       "link": "https://coloradosun.com/2026/04/17/job-market-workers-strategies-employers-hire-balance/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-17T10:00:00+00:00",
-      "age_hours": 1.9832291675,
+      "age_hours": 3.8509816949999998,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Mile High Holiday: 4/20 Events in Denver This Year",
+      "link": "https://www.westword.com/news/420-denver-cannabis-events-this-year-24263068/",
+      "source": "Westword",
+      "pub_date": "2026-04-17T07:49:40-06:00",
+      "age_hours": 0.023725309166666667,
+      "breaking": true,
+      "time_ago": "1 min ago"
     },
     {
       "title": "Part of County Line Road in Douglas County reopens after 100-day construction closure",
       "link": "https://kdvr.com/news/local/part-of-county-line-road-in-douglas-county-reopens-after-100-day-construction-closure/",
       "source": "Fox31",
       "pub_date": "2026-04-17T03:15:08+00:00",
-      "age_hours": 8.731247350833334,
+      "age_hours": 10.599170613055556,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Emotional Denver community meeting follows deadly shootings, including Easter park violence",
       "link": "https://kdvr.com/news/local/emotional-denver-community-meeting-follows-deadly-shootings-including-easter-park-violence/",
       "source": "Fox31",
       "pub_date": "2026-04-17T02:54:17+00:00",
-      "age_hours": 9.078747253055555,
+      "age_hours": 10.946670526666665,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "A tipping point: Denver restaurant owners push back against idea of reducing tipped minimum wage",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-restaurant-owners-reducing-tipped-minimum-wage/73-ae039164-fda2-44d9-bfdf-de8d5a262021",
       "source": "9News",
       "pub_date": "2026-04-17T01:22:57+00:00",
-      "age_hours": 10.600828799444443,
+      "age_hours": 12.468610583333332,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Split on tips; Next with Kyle Clark full show (4/16/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/split-on-tips-next-with-kyle-clark-full-show-41626/73-e645ee50-9779-49bc-bb02-f9e276add355",
       "source": "9News",
       "pub_date": "2026-04-17T00:59:07+00:00",
-      "age_hours": 10.998051027777777,
+      "age_hours": 12.865832810833334,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Upscale steakhouse chain files for bankruptcy",
       "link": "https://www.9news.com/article/news/nation-world/801-chophouse-files-bankruptcy/507-03902488-6465-4807-a75a-f9e26868bfa3",
       "source": "9News",
       "pub_date": "2026-04-17T00:21:36+00:00",
-      "age_hours": 11.623328817222221,
+      "age_hours": 13.491110599722223,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Some Colorado school staff set to face increased health care insurances for next school year",
       "link": "https://www.9news.com/article/news/local/colorado-news/colorado-school-staff-to-face-increased-health-care-insurances/73-a36015ca-1ee1-4df0-a333-4e03995a308e",
       "source": "9News",
       "pub_date": "2026-04-16T23:08:50+00:00",
-      "age_hours": 12.83610665388889,
+      "age_hours": 14.703888423333334,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado\u2019s $46.8 billion budget nears finish line",
       "link": "https://www.coloradopolitics.com/2026/04/16/colorados-46-8-billion-budget-nears-finish-line/",
       "source": "CO Politics",
       "pub_date": "2026-04-16T22:58:34+00:00",
-      "age_hours": 13.007741380833334,
+      "age_hours": 14.875570883888887,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado Senate passes bill for voluntary $5 fee to fund wildlife crossings",
       "link": "https://www.coloradopolitics.com/2026/04/16/colorado-senate-passes-bill-for-voluntary-5-fee-to-fund-wildlife-crossings/",
       "source": "CO Politics",
       "pub_date": "2026-04-16T22:54:24+00:00",
-      "age_hours": 13.077185838611111,
+      "age_hours": 14.945015341944444,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver is still months away from a better parking ticket dispute system",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-parking-ticket-dispute-system/73-3d2f4e58-1045-4474-b876-137381e4439b",
       "source": "9News",
       "pub_date": "2026-04-16T22:39:00+00:00",
-      "age_hours": 13.333328931944443,
+      "age_hours": 15.20111069111111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "New details reveal what led up to deadly Curtis Park shooting",
       "link": "https://kdvr.com/news/local/new-details-reveal-what-led-up-to-deadly-curtis-park-shooting/",
       "source": "Fox31",
       "pub_date": "2026-04-16T21:03:50+00:00",
-      "age_hours": 14.919580698333332,
+      "age_hours": 16.787503964444443,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Your Essential Guide to Commercial Solar",
       "link": "https://milehighcre.com/your-essential-guide-to-commercial-solar/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-16T21:03:39+00:00",
-      "age_hours": 14.922319880555555,
+      "age_hours": 16.790069968055555,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Chicken restaurant chain to open second Colorado location",
-      "link": "https://www.9news.com/article/money/business/starbird-colorado-new-locations/73-7254b4b1-e42e-48c1-8680-a1e3e5129ac4",
-      "source": "9News",
-      "pub_date": "2026-04-16T21:02:01+00:00",
-      "age_hours": 14.949717881666666,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Aerospace company chooses Northern Colorado city for manufacturing site",
-      "link": "https://www.9news.com/article/money/business/loveland-colorado-aerospace-multicut/73-b3f2c596-ad70-46fd-b945-9dc9b2b1fa99",
-      "source": "9News",
-      "pub_date": "2026-04-16T20:56:15+00:00",
-      "age_hours": 15.045828997222221,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "CCD Celebrates Project Milestone with Topping Out Ceremony",
-      "link": "https://milehighcre.com/ccd-celebrates-project-milestone-with-topping-out-ceremony/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-04-16T18:48:09+00:00",
-      "age_hours": 17.180653235,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Why is Denver the 'bass capital'? Electronic headliners share thoughts",
-      "link": "https://kdvr.com/news/local/why-is-denver-the-bass-capital-electronic-headliners-share-thoughts/",
-      "source": "Fox31",
-      "pub_date": "2026-04-16T18:44:49+00:00",
-      "age_hours": 17.2365251375,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "A proposed Democratic bill would make taking Colorado workers\u2019 IDs a crime",
-      "link": "https://www.coloradopolitics.com/2026/04/16/a-proposed-democratic-bill-would-make-taking-colorado-workers-ids-a-crime/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-16T18:38:59+00:00",
-      "age_hours": 17.334130292222223,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "16 hrs ago"
     }
   ]
 }
