@@ -2061,6 +2061,7 @@
       var artBars = articles.map(function(a) {
         var pct = Math.round(a.clicks / maxClicks * 100);
         var title = a.title.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+          if (title.length > 75) title = title.substring(0, 75) + '…';
         return '<div style="display:flex;align-items:center;gap:6px;margin-bottom:3px;">' +
           '<div style="flex:1;background:rgba(255,255,255,0.04);border-radius:3px;height:14px;overflow:hidden;">' +
           '<div style="width:' + pct + '%;height:100%;background:#f59e0b;border-radius:3px;opacity:0.7;"></div></div>' +
