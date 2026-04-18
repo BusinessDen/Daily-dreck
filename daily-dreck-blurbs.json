@@ -1,65 +1,65 @@
 {
-  "generated_date": "2026-04-17",
-  "lead_headline": "Chick-fil-A debuts Colorado's first drive-thru-only location at Central Park as 8 new leads surface",
+  "generated_date": "2026-04-18",
+  "lead_headline": "Ultra Lounge West karaoke bar debuts in Westminster as 4 new restaurant leads surface",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>8 new leads today:</strong> Red Lotus Den food hall (Westminster, June target), DiFranco's Italian (Westminster second location), Chick-fil-A drive-thru-only (Central Park, opened today), Wash Park Social (replaces Grille).",
+      "blurb": "<strong>4 new leads today:</strong> Ultra Lounge West karaoke lounge (Westminster, just opened), Taqueria La Morenas (Harvey Park, replaced by Los Reyes Del Taco).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+5",
+        "value1": "+1",
         "label2": "closed",
         "value2": "\u22123",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "56",
+        "value1": "57",
         "label2": "closed",
-        "value2": "55",
+        "value2": "56",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>$6.1M Douglas County filing</strong> at 18901 Longs Way \u2014 the week's only filing exceeding $4M threshold, followed by a $2.9M Arapahoe County property at 5899 Green Oaks Dr.",
+      "blurb": "<strong>$6.1M Douglas County property</strong> at 18901 Longs Way leads this week's filings \u2014 the only entry clearing $4M threshold.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "72",
+        "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "0",
+        "value2": "5",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "72",
-        "class1": "",
+        "value1": "52",
+        "class1": "up",
         "label2": "sold",
-        "value2": "0",
+        "value2": "2",
         "class2": "",
         "period": "7-day"
       }
     },
     "liquor": {
-      "blurb": "<strong>6 new applications today</strong> \u2014 headlined by The Denver Book Society (Humboldt Street hotel/restaurant license), Skyline Beer Garden (Arapahoe Street combined liquor transfer), and Pan Gu Asian Bistro (Aurora). Four status changes overnight: Denver Hot Pot cleared delinquency to active, while Molotov (Colfax), Hungry Elephant (Cherry Creek), and Rootdown DIA all slipped to delinquent. The 7-day count hits 22 applications \u2014 5.5\u00d7 last week's anemic 4-application tally and the strongest weekly filing surge since late winter.",
+      "blurb": "<strong>4 new applications today</strong> \u2014 The Flaming Grill (14th Street hotel/restaurant), Pema (Larimer Street hotel/restaurant), Salon Theory (Tennessee Avenue beer/wine), and Moonlight Liquors (Tower retail license). One status shift: Radisson Hotel Denver Central slipped to delinquent. Seven-day filing pace surges to 23 applications \u2014 triple last week's 7-application count and the strongest weekly volume since mid-March.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "6",
+        "value1": "4",
         "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "22",
+        "value1": "23",
         "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> pushes the 7-day total to 52 across 17 sources \u2014 matching last week's 51-mention baseline after April's early surge. Instagram (11), Denver Post (10), and X (6) dominate this week's pickups. Standout coverage: Post's 56-restaurant tipped wage letter, Facebook amplification of Flats groundbreaking and fastest-growing companies retrospective, Reddit's Littleton restaurant subsidy debate. The week-over-week plateau suggests April's opening frenzy has normalized into steady-state spring coverage after three weeks of elevated activity.",
+      "blurb": "<strong>1 mention today</strong> brings the 7-day tally to 43 across 15 sources \u2014 down 25% from last week's 57-mention benchmark. Instagram (11), Denver Post (9), and X (5) anchor this week's distribution. Notable pickups include Denver Pavilions survival analysis, Stomp Athletics Shark Tank coverage, and DIA dining tier rankings. The week-over-week decline signals April's opening season peak has passed into normalized spring coverage after three weeks above baseline.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,25 +69,25 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "52",
-        "class1": "",
+        "value1": "43",
+        "class1": "down",
         "label2": "sources",
-        "value2": "17",
+        "value2": "15",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks the fourth consecutive flat day and holds MTD at +10 (+0.6/day), 90-day net at +138. The current four-day drought (April 13-16) follows April 7-12's exceptional six-day run (+11 net, 15 new vs 4 canceled) \u2014 the strongest sustained performance since late March. Week-over-week momentum has cooled sharply: this week's +5 net (7 new, 2 canceled) trails last week's +12 by 58%, though cancellation rate improved dramatically (2 vs 8). The MTD +0.6/day pace lags YTD's +1.3/day average, but mid-month weekday flatlines typically precede month-end renewal clusters.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) lifts MTD to +17 (+1.0/day), 90-day net to +140. This week's +8 net (21 new, 13 canceled) trails last week's +10 by 20%, though new subscriber volume jumped 11% (21 vs 19) while cancellations climbed 44% (13 vs 9). The recent two-week pattern shows volatility: April 7-12 delivered +11 net before April 13-16's -2 net pullback. MTD's +1.0/day pace lags YTD's +1.4/day average as mid-month churn offsets early-April momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "10",
-      "net_ytd": "141",
-      "net_mtd_per_day": "0.6",
-      "net_ytd_per_day": "1.3",
-      "annual_mtd": "8",
-      "annual_ytd": "112",
-      "monthly_mtd": "2",
-      "monthly_ytd": "29"
+      "net_mtd": "17",
+      "net_ytd": "148",
+      "net_mtd_per_day": "1.0",
+      "net_ytd_per_day": "1.4",
+      "annual_mtd": "14",
+      "annual_ytd": "120",
+      "monthly_mtd": "3",
+      "monthly_ytd": "28"
     }
   }
 }
