@@ -2124,10 +2124,27 @@
       // Pulse
       var pulseEl = document.getElementById('pulse-newsletter');
       if (pulseEl) {
+        var ctr = latest.click_through_rate ? latest.click_through_rate.toFixed(1) : '—';
+        var cpc = latest.clicks_per_clicker ? latest.clicks_per_clicker.toFixed(1) : '—';
         pulseEl.innerHTML =
-          '<div class="pulse-label">OPEN RATE</div><div class="pulse-value">' + latest.open_rate.toFixed(1) + '%</div>' +
-          '<div class="pulse-label" style="margin-top:8px;">CLICKS</div><div class="pulse-value">' + (latest.clicks || 0).toLocaleString() + '</div>' +
-          '<div class="pulse-label" style="margin-top:8px;">RECIPIENTS</div><div class="pulse-value">' + (latest.recipients || 0).toLocaleString() + '</div>';
+          '<div style="width:100%;">' +
+            '<div style="text-align:center;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.05);">' +
+              '<div class="t-value" style="font-size:22px;color:var(--cream);">' + ctr + '%</div>' +
+              '<div class="t-sub" style="font-size:9px;">CTR</div>' +
+            '</div>' +
+            '<div style="text-align:center;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.05);">' +
+              '<div class="t-value" style="font-size:22px;color:var(--cream);">' + cpc + '</div>' +
+              '<div class="t-sub" style="font-size:9px;">clicks / clicker</div>' +
+            '</div>' +
+            '<div style="text-align:center;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.05);">' +
+              '<div class="t-value" style="font-size:22px;color:#f59e0b;">' + articleTotal.toLocaleString() + '</div>' +
+              '<div class="t-sub" style="font-size:9px;">article clicks</div>' +
+            '</div>' +
+            '<div style="text-align:center;padding:6px 0;">' +
+              '<div class="t-value" style="font-size:22px;color:#c084fc;">' + adTotal.toLocaleString() + '</div>' +
+              '<div class="t-sub" style="font-size:9px;">ad clicks</div>' +
+            '</div>' +
+          '</div>';
       }
 
     }).catch(function(err) { console.warn('Newsletter data unavailable:', err); });
@@ -2152,6 +2169,74 @@
           return advNames[domain] || domain.replace(/^www\./, '').replace(/\.com$/, '');
         }
 
+        // Compute totals
+        var articleTotal = latest.article_clicks || 0;
+        var adTotal = 0;
+        (latest.ad_clicks || []).forEach(function(a) { adTotal += a.clicks; });
+        var editorialTotal = 0;
+        (latest.editorial_clicks || []).forEach(function(e) { editorialTotal += e.clicks; });
+        var clickTotal = articleTotal + adTotal + editorialTotal;
+
+        // Article bars (full size)
+        var articles = latest.articles || [];
+        var maxArtClicks = articles.length ? articles[0].clicks : 1;
+        var artBars = articles.map(function(a) {
+          var pct = Math.round(a.clicks / maxArtClicks * 100);
+          var title = a.title.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+          var sponsored = a.is_sponsored ? ' <span style="color:#c084fc;font-size:9px;letter-spacing:0.5px;">[SPONSORED]</span>' : '';
+          return '<div style="display:flex;align-items:center;gap:8px;margin-bottom:3px;">' +
+            '<div style="flex:1;background:rgba(255,255,255,0.04);border-radius:3px;height:18px;overflow:hidden;">' +
+            '<div style="width:' + pct + '%;height:100%;background:#f59e0b;border-radius:3px;opacity:0.7;"></div></div>' +
+            '<span style="font-family:JetBrains Mono,monospace;font-size:11px;color:var(--cream);min-width:40px;text-align:right;">' + a.clicks.toLocaleString() + '</span></div>' +
+            '<div style="font-size:11px;color:var(--text-dim);margin-bottom:5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + title + sponsored + '</div>';
+        }).join('');
+
+        // Ad bars (full size)
+        var ads = latest.ad_clicks || [];
+        var maxAdClicks = ads.length ? ads[0].clicks : 1;
+        var adBars = ads.map(function(a) {
+          var pct = Math.round(a.clicks / maxAdClicks * 100);
+          var name = advName(a.domain);
+          return '<div style="display:flex;align-items:center;gap:8px;margin-bottom:3px;">' +
+            '<div style="flex:1;background:rgba(255,255,255,0.04);border-radius:3px;height:18px;overflow:hidden;">' +
+            '<div style="width:' + pct + '%;height:100%;background:#c084fc;border-radius:3px;opacity:0.7;"></div></div>' +
+            '<span style="font-family:JetBrains Mono,monospace;font-size:11px;color:var(--cream);min-width:40px;text-align:right;">' + a.clicks.toLocaleString() + '</span></div>' +
+            '<div style="font-size:11px;color:var(--text-dim);margin-bottom:5px;">' + name + '</div>';
+        }).join('');
+        if (!ads.length) adBars = '<div style="font-size:12px;color:var(--text-dim);font-style:italic;">No ad clicks this send</div>';
+
+        // Click mix bar
+        var artPct = clickTotal ? Math.round(articleTotal / clickTotal * 100) : 0;
+        var edPct = clickTotal ? Math.round(editorialTotal / clickTotal * 100) : 0;
+        var adPctMix = clickTotal ? 100 - artPct - edPct : 0;
+        var mixBar = '<div style="display:flex;height:20px;border-radius:4px;overflow:hidden;">' +
+          '<div style="width:' + artPct + '%;background:#f59e0b;opacity:0.8;"></div>' +
+          '<div style="width:' + edPct + '%;background:#22c55e;opacity:0.8;"></div>' +
+          '<div style="width:' + adPctMix + '%;background:#c084fc;opacity:0.8;"></div></div>' +
+          '<div style="display:flex;gap:14px;margin-top:4px;font-size:11px;color:var(--text-dim);font-family:JetBrains Mono,monospace;">' +
+          '<span><span style="display:inline-block;width:8px;height:8px;background:#f59e0b;border-radius:2px;margin-right:4px;"></span>Articles ' + articleTotal.toLocaleString() + '</span>' +
+          '<span><span style="display:inline-block;width:8px;height:8px;background:#22c55e;border-radius:2px;margin-right:4px;"></span>Editorial ' + editorialTotal.toLocaleString() + '</span>' +
+          '<span><span style="display:inline-block;width:8px;height:8px;background:#c084fc;border-radius:2px;margin-right:4px;"></span>Ads ' + adTotal.toLocaleString() + '</span></div>';
+
+        // Metrics row
+        var metricsRow = '<div style="display:flex;gap:12px;margin-bottom:20px;">' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:10px 0;text-align:center;">' +
+            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Open rate</div>' +
+            '<div style="font-size:24px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.open_rate.toFixed(1) + '%</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:10px 0;text-align:center;">' +
+            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Click rate</div>' +
+            '<div style="font-size:24px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.click_rate.toFixed(1) + '%</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:10px 0;text-align:center;">' +
+            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">CTR</div>' +
+            '<div style="font-size:24px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.click_through_rate || 0).toFixed(1) + '%</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:10px 0;text-align:center;">' +
+            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Unique clickers</div>' +
+            '<div style="font-size:24px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.unique_clickers || 0).toLocaleString() + '</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:10px 0;text-align:center;">' +
+            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Clicks / clicker</div>' +
+            '<div style="font-size:24px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.clicks_per_clicker || 0).toFixed(1) + '</div></div>' +
+        '</div>';
+
         // Clicks by hour chart
         var cph = latest.clicks_by_hour || {};
         var maxH = 1;
@@ -2159,18 +2244,15 @@
         var hourBars = '';
         for (var h2 = 0; h2 < 24; h2++) {
           var v2 = cph[String(h2)] || 0;
-          var pct = Math.round(v2 / maxH * 100);
+          var pctH = Math.round(v2 / maxH * 100);
           hourBars += '<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:140px;">' +
-            '<div style="width:80%;background:#3b82f6;opacity:' + (0.4 + 0.5 * v2 / maxH) + ';height:' + pct + '%;border-radius:2px 2px 0 0;min-height:' + (v2 > 0 ? '2px' : '0') + ';"></div>' +
+            '<div style="width:80%;background:#3b82f6;opacity:' + (0.4 + 0.5 * v2 / maxH).toFixed(2) + ';height:' + pctH + '%;border-radius:2px 2px 0 0;min-height:' + (v2 > 0 ? '2px' : '0') + ';"></div>' +
             '</div>';
         }
-        var hourLabels = '<div style="display:flex;font-size:9px;color:#9890a0;font-family:JetBrains Mono,monospace;margin-top:4px;">';
+        var hourLabels = '<div style="display:flex;font-size:10px;color:#9890a0;font-family:JetBrains Mono,monospace;margin-top:4px;">';
         for (var h3 = 0; h3 < 24; h3++) {
           if (h3 % 3 === 0) {
-            var lbl = h3 === 0 ? '6a' : h3 < 6 ? (h3 + 6) + 'a' : h3 === 6 ? '12p' : h3 < 18 ? (h3 - 6) + 'p' : (h3 - 18) + 'a';
-            // Convert UTC hour to MT label (data is MT-keyed based on clicks_by_hour)
-            var mtH = h3;
-            lbl = mtH === 0 ? '12a' : mtH < 12 ? mtH + 'a' : mtH === 12 ? '12p' : (mtH - 12) + 'p';
+            var lbl = h3 === 0 ? '12a' : h3 < 12 ? h3 + 'a' : h3 === 12 ? '12p' : (h3 - 12) + 'p';
             hourLabels += '<div style="flex:3;text-align:center;">' + lbl + '</div>';
           } else {
             hourLabels += '<div style="flex:1;"></div>';
@@ -2179,14 +2261,32 @@
         hourLabels += '</div>';
 
         // Editorial links table
-        var edLinks = (latest.editorial_clicks || []).slice(0, 8);
+        var edLinks = (latest.editorial_clicks || []).slice(0, 10);
         var edTable = edLinks.map(function(e) {
-          return '<div style="display:flex;justify-content:space-between;padding:4px 0;border-bottom:1px solid rgba(255,255,255,0.04);">' +
+          return '<div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid rgba(255,255,255,0.04);">' +
             '<span style="color:var(--cream-dim);font-size:12px;">' + e.domain + '</span>' +
             '<span style="font-family:JetBrains Mono,monospace;font-size:12px;color:#22c55e;">' + e.clicks.toLocaleString() + '</span></div>';
         }).join('');
+        if (!edLinks.length) edTable = '<div style="font-size:12px;color:var(--text-dim);font-style:italic;">No editorial links this send</div>';
 
+        // Assemble popup
         popupEl.innerHTML =
+          '<div style="font-size:12px;color:var(--text-dim);margin-bottom:14px;">' + latest.name + ' · ' + (latest.recipients || 0).toLocaleString() + ' recipients · ' + (latest.delivered || 0).toLocaleString() + ' delivered</div>' +
+          metricsRow +
+          '<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:24px;">' +
+            '<div>' +
+              '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:8px;">Article clicks</div>' +
+              artBars +
+            '</div>' +
+            '<div>' +
+              '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:8px;">Ad clicks</div>' +
+              adBars +
+            '</div>' +
+          '</div>' +
+          '<div style="margin-bottom:24px;">' +
+            '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:8px;">Click mix</div>' +
+            mixBar +
+          '</div>' +
           '<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">' +
             '<div>' +
               '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:8px;">Clicks by hour</div>' +
