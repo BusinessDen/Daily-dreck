@@ -1,96 +1,150 @@
 {
   "fetched_date": "2026-04-18",
-  "fetched_at": "2026-04-18 16:43:25",
+  "fetched_at": "2026-04-18 17:38:09",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Denver Pavilions\u2019 design \u2018obsolete,\u2019 could be partially demolished, panel says",
+      "link": "https://www.9news.com/article/money/business/denver-pavilions-design-obsolete-demolished/73-3665671b-0ab5-4ff8-b39d-a90e12e80bf5",
+      "source": "9News",
+      "pub_date": "2026-04-18T17:34:39+00:00",
+      "age_hours": 0.05413386138888889,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "Nonprofit Spotlight: Voices for Children, CASA of Boulder County",
+      "link": "https://bizwest.com/2026/04/18/nonprofit-spotlight-voices-for-children-casa-of-boulder-county/",
+      "source": "BizWest",
+      "pub_date": "2026-04-18T17:24:01+00:00",
+      "age_hours": 0.2308209963888889,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "Boulder County awards $2M in emergency community grants",
+      "link": "https://bizwest.com/2026/04/18/boulder-county-awards-2m-in-emergency-community-grants/",
+      "source": "BizWest",
+      "pub_date": "2026-04-18T17:10:48+00:00",
+      "age_hours": 0.45109977333333334,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "Colorado Marijuana Officials Announce Crackdown On Sales Of Hemp Products Amid \u2018Risks To Public Safety\u2019",
+      "link": "https://www.marijuanamoment.net/colorado-marijuana-officials-announce-crackdown-on-sales-of-hemp-products-amid-risks-to-public-safety/",
+      "source": "MJ Moment",
+      "pub_date": "2026-04-18T17:09:00+00:00",
+      "age_hours": 0.4832836855555555,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "Windsor to host volunteer fair",
+      "link": "https://bizwest.com/2026/04/18/windsor-to-host-volunteer-fair/",
+      "source": "BizWest",
+      "pub_date": "2026-04-18T16:56:56+00:00",
+      "age_hours": 0.6822108969444445,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Odell Brewing teams with Protect Our Rivers",
+      "link": "https://bizwest.com/2026/04/18/odell-brewing-teams-with-protect-our-rivers/",
+      "source": "BizWest",
+      "pub_date": "2026-04-18T16:49:18+00:00",
+      "age_hours": 0.8094331761111111,
+      "breaking": true,
+      "time_ago": "48 min ago"
+    },
     {
       "title": "What to know as Nuggets, Avs open outdoor fan zone at Ball Arena",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-avalanche-outdoor-fan-zone-ball-arena/73-f713e0d5-f935-42e2-8fc0-77e8ea8f86f7",
       "source": "9News",
       "pub_date": "2026-04-18T15:56:04+00:00",
-      "age_hours": 0.7848705466666667,
+      "age_hours": 1.6971894977777777,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Shake Shack opening first northern Colorado location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/northern-colorado-shake-shack/73-3ccf381d-4b2c-44f4-b57b-147aeb96f197",
       "source": "9News",
       "pub_date": "2026-04-18T15:27:22+00:00",
-      "age_hours": 1.2632039116666667,
+      "age_hours": 2.175522851111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver steakhouse owner files for bankruptcy",
       "link": "https://www.9news.com/article/money/business/801-chophouse-steakhouse-chapter-11-bankruptcy/73-484f32d9-a91e-4e00-ae9e-d530df7acbe1",
       "source": "9News",
       "pub_date": "2026-04-18T15:26:34+00:00",
-      "age_hours": 1.2765372744444443,
+      "age_hours": 2.188856208333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Allegedly stolen car crashes into tree along pedestrian area of 16th Street",
       "link": "https://kdvr.com/news/local/allegedly-stolen-car-crashes-into-tree-along-pedestrian-area-of-16th-street/",
       "source": "Fox31",
       "pub_date": "2026-04-18T15:02:07+00:00",
-      "age_hours": 1.6841387455555554,
+      "age_hours": 2.5965117025,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "What\u2019s Working: A Colorado bill could help creatives retain more control of their work",
       "link": "https://coloradosun.com/2026/04/18/colorado-artist-corporations-ownership/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-18T10:00:00+00:00",
-      "age_hours": 6.719199918611111,
+      "age_hours": 7.631531775833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver offers new grants to East Colfax businesses hit by construction",
       "link": "https://www.9news.com/article/money/business/small-business/denver-offers-new-grants-to-east-colfax-businesses-hit-by-construction/73-dd511c6a-a6d0-442f-b237-3a24a35d8cc5",
       "source": "9News",
       "pub_date": "2026-04-18T04:59:03+00:00",
-      "age_hours": 11.735148426388887,
+      "age_hours": 12.647467361111111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Hemp beverage bill puts profits over Colorado kids | OPINION",
       "link": "https://www.coloradopolitics.com/2026/04/17/hemp-beverage-bill-puts-profits-over-colorado-kids-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-04-18T04:46:51+00:00",
-      "age_hours": 11.938919830277777,
+      "age_hours": 12.85120929361111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Chick-fil-A opens first drive-thru-only location in Colorado",
       "link": "https://www.denver7.com/news/local-news/chick-fil-a-opens-first-drive-thru-only-location-in-colorado",
       "source": "Denver7",
       "pub_date": "2026-04-18T02:17:19+00:00",
-      "age_hours": 14.430789627500001,
+      "age_hours": 15.343161788055555,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Reports: Spirit Airlines asks Trump administration for emergency bailout to avoid liquidation",
       "link": "https://www.9news.com/article/news/nation-world/spirit-airlines-bankruptcy-emergency-bailout-trump-administration/507-2e33cbe1-c6d8-468d-9166-0a60d7fd58cf",
       "source": "9News",
       "pub_date": "2026-04-17T23:36:13+00:00",
-      "age_hours": 17.115704033333333,
+      "age_hours": 18.028022968055556,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Colorado lawmakers cut newer programs to close $1.2 billion budget shortfall",
       "link": "https://www.coloradopolitics.com/2026/04/17/colorado-lawmakers-cut-newer-programs-to-close-1-2-billion-budget-shortfall/",
       "source": "CO Politics",
       "pub_date": "2026-04-17T20:40:03+00:00",
-      "age_hours": 20.0522532025,
+      "age_hours": 20.964542668055554,
       "breaking": false,
       "time_ago": "20 hrs ago"
     },
@@ -99,90 +153,36 @@
       "link": "https://bizwest.com/2026/04/17/new-era-of-quantum-commercialization-offers-challenges-chances/",
       "source": "BizWest",
       "pub_date": "2026-04-17T20:33:08+00:00",
-      "age_hours": 20.166526260555557,
+      "age_hours": 21.07887767888889,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Got a parking ticket? This Colorado-based restaurant will buy you a drink",
       "link": "https://kdvr.com/denver-guide/got-a-parking-ticket-this-colorado-based-restaurant-will-buy-you-a-drink/",
       "source": "Fox31",
       "pub_date": "2026-04-17T20:30:56+00:00",
-      "age_hours": 20.203861085000003,
+      "age_hours": 21.116234040000002,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Trump \u2018in discussions\u2019 with IRS to cut deal in tax record lawsuit",
       "link": "https://www.coloradopolitics.com/2026/04/17/trump-in-discussions-with-irs-to-cut-deal-in-tax-record-lawsuit/",
       "source": "CO Politics",
       "pub_date": "2026-04-17T20:26:54+00:00",
-      "age_hours": 20.271419878055553,
+      "age_hours": 21.18370934361111,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "9 named to West Greeley oversight committee",
       "link": "https://bizwest.com/2026/04/17/9-named-to-west-greeley-oversight-committee/",
       "source": "BizWest",
       "pub_date": "2026-04-17T20:26:32+00:00",
-      "age_hours": 20.2765268125,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Registration open for Confluence water and energy summit",
-      "link": "https://bizwest.com/2026/04/17/registration-open-for-confluence-water-and-energy-summit/",
-      "source": "BizWest",
-      "pub_date": "2026-04-17T20:24:25+00:00",
-      "age_hours": 20.311804623333334,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Large Weld feedlot property sells for $15M",
-      "link": "https://bizwest.com/2026/04/17/large-weld-feedlot-property-sells-for-15m/",
-      "source": "BizWest",
-      "pub_date": "2026-04-17T20:22:04+00:00",
-      "age_hours": 20.35097132222222,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "2 brewpubs to find new downtown Loveland homes",
-      "link": "https://bizwest.com/2026/04/17/2-brewpubs-to-find-new-downtown-loveland-homes/",
-      "source": "BizWest",
-      "pub_date": "2026-04-17T20:16:28+00:00",
-      "age_hours": 20.444304662222223,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Governor\u2019s wildlife commission picks face pushback ahead of Colorado Senate hearing",
-      "link": "https://www.coloradopolitics.com/2026/04/17/governors-wildlife-commission-picks-face-pushback-ahead-of-colorado-senate-hearing/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-17T19:24:35+00:00",
-      "age_hours": 21.31003099694444,
+      "age_hours": 21.1888777475,
       "breaking": false,
       "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Gray\u2019s Coors Tavern takes top slopper title in Pueblo, unseating back-to-back champion",
-      "link": "https://coloradosun.com/2026/04/17/grays-coors-tavern-top-slopper-pueblo-county/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-04-17T19:00:00+00:00",
-      "age_hours": 21.71920039222222,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Iran reopens Strait of Hormuz, but Trump says blockade on Iranian ships and ports will stay in force",
-      "link": "https://www.coloradopolitics.com/2026/04/17/iran-reopens-strait-of-hormuz-but-trump-says-blockade-on-iranian-ships-and-ports-will-stay-in-force/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-17T16:49:13+00:00",
-      "age_hours": 23.89947555166667,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
     }
   ]
 }
