@@ -674,7 +674,7 @@
                 <span class="badge badge-live"><span class="dot"></span>Live</span>
                 <span class="badge-updated" id="updated-hourly"></span>
               </div>
-              <h2>Yesterday's Traffic by Hour</h2>
+              <h2>Yesterday's Website Traffic by Hour</h2>
               <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin:8px 0;">
                 <div>
                   <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:6px;">Readers by Source</div>
@@ -842,7 +842,7 @@
       <div style="width:100%;max-width:1400px;background:#12121a;border:1px solid rgba(212,170,79,0.15);border-radius:12px;box-shadow:0 24px 80px rgba(0,0,0,0.6);padding:24px 28px;">
         <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
           <div>
-            <h2 style="font-family:'Cormorant Garamond',serif;font-size:24px;font-weight:700;color:var(--cream);">Yesterday's Traffic by Hour</h2>
+            <h2 style="font-family:'Cormorant Garamond',serif;font-size:24px;font-weight:700;color:var(--cream);">Yesterday's Website Traffic by Hour</h2>
             <a href="https://businessden.github.io/reputation/#traffic" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:none;letter-spacing:1px;">Open Full Traffic Dashboard →</a>
           </div>
           <button id="traffic-overlay-close" style="background:none;border:1px solid var(--border);color:var(--cream-dim);font-size:13px;padding:6px 14px;border-radius:6px;cursor:pointer;font-family:'Sora',sans-serif;">✕ Close</button>
@@ -873,8 +873,8 @@
   <!-- NEWSLETTER POPUP OVERLAY -->
   <div id="newsletter-overlay" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;z-index:100;background:rgba(7,7,16,0.6);overflow:auto;">
     <div style="display:flex;align-items:center;justify-content:center;min-height:100vh;padding:24px;">
-      <div style="width:100%;max-width:1400px;background:#12121a;border:1px solid rgba(212,170,79,0.15);border-radius:12px;box-shadow:0 24px 80px rgba(0,0,0,0.6);padding:24px 28px;">
-        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;">
+      <div style="width:100%;max-width:1400px;background:#12121a;border:1px solid rgba(212,170,79,0.15);border-radius:12px;box-shadow:0 24px 80px rgba(0,0,0,0.6);padding:20px 24px;">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
           <div>
             <h2 style="font-family:'Cormorant Garamond',serif;font-size:24px;font-weight:700;color:var(--cream);">Yesterday's Newsletter Performance</h2>
             <a href="https://businessden.github.io/newsletter/" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:none;letter-spacing:1px;">Open Full Newsletter Dashboard →</a>
@@ -2096,25 +2096,23 @@
         '<span><span style="display:inline-block;width:7px;height:7px;background:#22c55e;border-radius:2px;margin-right:3px;"></span>Editorial ' + editorialTotal.toLocaleString() + '</span>' +
         '<span><span style="display:inline-block;width:7px;height:7px;background:#c084fc;border-radius:2px;margin-right:3px;"></span>Ads ' + adTotal.toLocaleString() + '</span></div>';
 
-      // Metric boxes (right column)
-      var metrics = '<div style="display:flex;flex-direction:column;gap:6px;">' +
-        '<div style="background:rgba(255,255,255,0.03);border-radius:8px;padding:8px 0;text-align:center;">' +
-        '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Open rate</div>' +
-        '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.open_rate.toFixed(1) + '%</div></div>' +
-        '<div style="background:rgba(255,255,255,0.03);border-radius:8px;padding:8px 0;text-align:center;">' +
-        '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Click rate</div>' +
-        '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.click_rate.toFixed(1) + '%</div></div>' +
-        '<div style="background:rgba(255,255,255,0.03);border-radius:8px;padding:8px 0;text-align:center;">' +
-        '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Unique clickers</div>' +
-        '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.unique_clickers || 0).toLocaleString() + '</div></div></div>';
-
       cardEl.innerHTML =
         '<div style="font-size:11px;color:var(--text-dim);margin-bottom:10px;">' + dateLabel + ' · ' + latest.name + ' · ' + (latest.recipients || 0).toLocaleString() + ' recipients</div>' +
-        '<div style="display:grid;grid-template-columns:2fr 2fr 120px;gap:20px;align-items:start;">' +
+        '<div style="display:flex;gap:12px;margin-bottom:12px;">' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:8px 0;text-align:center;">' +
+            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Open rate</div>' +
+            '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.open_rate.toFixed(1) + '%</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:8px 0;text-align:center;">' +
+            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Click rate</div>' +
+            '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.click_rate.toFixed(1) + '%</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:8px 0;text-align:center;">' +
+            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Unique clickers</div>' +
+            '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.unique_clickers || 0).toLocaleString() + '</div></div>' +
+        '</div>' +
+        '<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">' +
           '<div><div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:5px;">Article clicks</div>' + artBars + '</div>' +
           '<div><div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:5px;">Ad clicks</div>' + adBars +
             '<div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin:12px 0 5px;">Click mix</div>' + mixBar + '</div>' +
-          metrics +
         '</div>';
 
       // Update badge
@@ -2188,7 +2186,7 @@
             '<div style="flex:1;background:rgba(255,255,255,0.04);border-radius:3px;height:18px;overflow:hidden;">' +
             '<div style="width:' + pct + '%;height:100%;background:#f59e0b;border-radius:3px;opacity:0.7;"></div></div>' +
             '<span style="font-family:JetBrains Mono,monospace;font-size:11px;color:var(--cream);min-width:40px;text-align:right;">' + a.clicks.toLocaleString() + '</span></div>' +
-            '<div style="font-size:11px;color:var(--text-dim);margin-bottom:5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + title + sponsored + '</div>';
+            '<div style="font-size:11px;color:var(--text-dim);margin-bottom:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + title + sponsored + '</div>';
         }).join('');
 
         // Ad bars (full size)
@@ -2201,7 +2199,7 @@
             '<div style="flex:1;background:rgba(255,255,255,0.04);border-radius:3px;height:18px;overflow:hidden;">' +
             '<div style="width:' + pct + '%;height:100%;background:#c084fc;border-radius:3px;opacity:0.7;"></div></div>' +
             '<span style="font-family:JetBrains Mono,monospace;font-size:11px;color:var(--cream);min-width:40px;text-align:right;">' + a.clicks.toLocaleString() + '</span></div>' +
-            '<div style="font-size:11px;color:var(--text-dim);margin-bottom:5px;">' + name + '</div>';
+            '<div style="font-size:11px;color:var(--text-dim);margin-bottom:3px;">' + name + '</div>';
         }).join('');
         if (!ads.length) adBars = '<div style="font-size:12px;color:var(--text-dim);font-style:italic;">No ad clicks this send</div>';
 
@@ -2219,31 +2217,31 @@
           '<span><span style="display:inline-block;width:8px;height:8px;background:#c084fc;border-radius:2px;margin-right:4px;"></span>Ads ' + adTotal.toLocaleString() + '</span></div>';
 
         // Metrics row
-        var metricsRow = '<div style="display:flex;gap:12px;margin-bottom:20px;">' +
-          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:6px 0;text-align:center;">' +
-            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Open rate</div>' +
-            '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.open_rate.toFixed(1) + '%</div></div>' +
-          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:6px 0;text-align:center;">' +
-            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Click rate</div>' +
-            '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.click_rate.toFixed(1) + '%</div></div>' +
-          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:6px 0;text-align:center;">' +
-            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">CTR</div>' +
-            '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.click_through_rate || 0).toFixed(1) + '%</div></div>' +
-          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:6px 0;text-align:center;">' +
-            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Unique clickers</div>' +
-            '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.unique_clickers || 0).toLocaleString() + '</div></div>' +
-          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:8px;padding:6px 0;text-align:center;">' +
-            '<div style="font-size:9px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Clicks / clicker</div>' +
-            '<div style="font-size:20px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.clicks_per_clicker || 0).toFixed(1) + '</div></div>' +
+        var metricsRow = '<div style="display:flex;gap:8px;margin-bottom:14px;">' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:6px;padding:5px 0;text-align:center;">' +
+            '<div style="font-size:8px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Open rate</div>' +
+            '<div style="font-size:16px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.open_rate.toFixed(1) + '%</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:6px;padding:5px 0;text-align:center;">' +
+            '<div style="font-size:8px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Click rate</div>' +
+            '<div style="font-size:16px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + latest.click_rate.toFixed(1) + '%</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:6px;padding:5px 0;text-align:center;">' +
+            '<div style="font-size:8px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">CTR</div>' +
+            '<div style="font-size:16px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.click_through_rate || 0).toFixed(1) + '%</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:6px;padding:5px 0;text-align:center;">' +
+            '<div style="font-size:8px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Clickers</div>' +
+            '<div style="font-size:16px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.unique_clickers || 0).toLocaleString() + '</div></div>' +
+          '<div style="flex:1;background:rgba(255,255,255,0.03);border-radius:6px;padding:5px 0;text-align:center;">' +
+            '<div style="font-size:8px;letter-spacing:1px;color:var(--text-dim);text-transform:uppercase;">Per clicker</div>' +
+            '<div style="font-size:16px;font-weight:600;color:var(--cream);font-family:JetBrains Mono,monospace;">' + (latest.clicks_per_clicker || 0).toFixed(1) + '</div></div>' +
         '</div>';
 
         // Clicks by hour chart
         var cph = latest.clicks_by_hour || {};
         var maxH = 1;
         for (var h = 0; h < 24; h++) { var v = cph[String(h)] || 0; if (v > maxH) maxH = v; }
-        // Heatmap: green (high) to red (low)
+        // Heatmap-colored vertical bars: green (high) to red (low)
         function heatColor(ratio) {
-          if (ratio <= 0) return 'rgba(255,255,255,0.03)';
+          if (ratio <= 0) return 'rgba(255,255,255,0.06)';
           var r, g, b;
           if (ratio < 0.5) {
             r = 220; g = Math.round(80 + 140 * (ratio / 0.5)); b = 60;
@@ -2256,12 +2254,13 @@
         for (var h2 = 0; h2 < 24; h2++) {
           var v2 = cph[String(h2)] || 0;
           var ratio = maxH > 0 ? v2 / maxH : 0;
+          var pctH = Math.max(ratio * 100, v2 > 0 ? 2 : 0);
           var bgColor = heatColor(ratio);
-          var label = v2 > 0 ? v2.toLocaleString() : '';
-          var fontSize = v2 > 999 ? '8px' : '9px';
-          hourBars += '<div style="flex:1;display:flex;align-items:center;justify-content:center;height:36px;background:' + bgColor + ';border-radius:3px;font-family:JetBrains Mono,monospace;font-size:' + fontSize + ';color:' + (ratio > 0.4 ? '#111' : '#9890a0') + ';font-weight:500;">' + label + '</div>';
+          hourBars += '<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:80px;">' +
+            '<div style="width:75%;background:' + bgColor + ';height:' + pctH + '%;border-radius:2px 2px 0 0;"></div>' +
+            '</div>';
         }
-        var hourLabels = '<div style="display:flex;gap:0px;font-size:8px;color:#9890a0;font-family:JetBrains Mono,monospace;margin-top:3px;">';
+        var hourLabels = '<div style="display:flex;font-size:8px;color:#9890a0;font-family:JetBrains Mono,monospace;margin-top:3px;">';
         for (var h3 = 0; h3 < 24; h3++) {
           var lbl = h3 === 0 ? '12a' : h3 < 12 ? h3 + 'a' : h3 === 12 ? '12p' : (h3 - 12) + 'p';
           hourLabels += '<div style="flex:1;text-align:center;">' + (h3 % 3 === 0 ? lbl : '') + '</div>';
@@ -2281,7 +2280,7 @@
         popupEl.innerHTML =
           '<div style="font-size:12px;color:var(--text-dim);margin-bottom:14px;">' + latest.name + ' · ' + (latest.recipients || 0).toLocaleString() + ' recipients · ' + (latest.delivered || 0).toLocaleString() + ' delivered</div>' +
           metricsRow +
-          '<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:24px;">' +
+          '<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:14px;">' +
             '<div>' +
               '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:8px;">Article clicks</div>' +
               artBars +
@@ -2291,14 +2290,14 @@
               adBars +
             '</div>' +
           '</div>' +
-          '<div style="margin-bottom:24px;">' +
+          '<div style="margin-bottom:14px;">' +
             '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:8px;">Click mix</div>' +
             mixBar +
           '</div>' +
-          '<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">' +
+          '<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">' +
             '<div>' +
               '<div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:8px;">Clicks by hour</div>' +
-              '<div style="display:flex;gap:2px;">' + hourBars + '</div>' +
+              '<div style="display:flex;align-items:flex-end;gap:1px;">' + hourBars + '</div>' +
               hourLabels +
             '</div>' +
             '<div>' +
