@@ -2027,7 +2027,7 @@
       if (!nlData || !nlData.sends || !nlData.sends.length) return;
 
       var sends = nlData.sends;
-      var latest = sends[sends.length - 1];
+      var latest = sends[0];
 
       // Resolve advertiser names from domain
       function advName(domain) {
