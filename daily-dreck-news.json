@@ -1,159 +1,168 @@
 {
   "fetched_date": "2026-04-19",
-  "fetched_at": "2026-04-19 08:56:58",
+  "fetched_at": "2026-04-19 09:53:45",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "In Telluride, new regulations designed to help renters are instead driving many out of town",
+      "link": "https://coloradosun.com/2026/04/19/telluride-rent-regulations-renters-affordability-shandoka-sunnyside-voodoo-apartments/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-19T09:52:00+00:00",
+      "age_hours": 0.024582356944444446,
+      "breaking": true,
+      "time_ago": "1 min ago"
+    },
     {
       "title": "Early Guanella Pass opening offers lifeline to struggling Georgetown businesses",
       "link": "https://www.9news.com/article/money/business/small-business/early-guanella-pass-opening-offers-lifeline-to-struggling-georgetown-businesses/73-afa37126-1f7d-401f-8306-d16862185c21",
       "source": "9News",
       "pub_date": "2026-04-19T04:40:39+00:00",
-      "age_hours": 4.267784654444444,
+      "age_hours": 5.2139370947222226,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aurora History Museum showcases Filipino American heritage",
       "link": "https://sentinelcolorado.com/metro/aurora-history-museum-showcases-filipino-american-heritage/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T03:45:33+00:00",
-      "age_hours": 5.186556270555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.132970321111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "CDOT encourages planning ahead for a safe trip home after 4/20 celebrations",
       "link": "https://kdvr.com/news/local/cdot-encourages-planning-ahead-for-a-safe-trip-home-after-4-20-celebrations/",
       "source": "Fox31",
       "pub_date": "2026-04-19T03:03:35+00:00",
-      "age_hours": 5.885754425277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.831905904444445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Ball Arena debuts outdoor playoff viewing area",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/ball-arena-outdoor-playoff-viewing-area/73-713a8643-78c3-482e-8353-6978767f8457",
       "source": "9News",
       "pub_date": "2026-04-19T02:57:17+00:00",
-      "age_hours": 5.990562481666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.936714913888888,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Speeding driver dies after crashing into pole, tree Friday in southwest Aurora",
       "link": "https://sentinelcolorado.com/metro/speeding-driver-dies-after-crashing-into-pole-tree-friday-in-southwest-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T02:47:51+00:00",
-      "age_hours": 6.148223284722222,
+      "age_hours": 7.094637339166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Received an 'all-clear' alert in Denver on Saturday? Here's why",
       "link": "https://kdvr.com/news/local/received-an-all-clear-alert-in-denver-on-saturday-heres-why/",
       "source": "Fox31",
       "pub_date": "2026-04-18T23:15:29+00:00",
-      "age_hours": 9.687421044444445,
+      "age_hours": 10.633572528333334,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Louisville\u2019s Real Capital Solutions buys Chicagoland office building",
       "link": "https://bizwest.com/2026/04/18/louisvilles-real-capital-solutions-buys-chicagoland-office-building/",
       "source": "BizWest",
       "pub_date": "2026-04-18T21:05:00+00:00",
-      "age_hours": 11.8614796375,
+      "age_hours": 12.807350546666667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "University of Colorado sports gets $6M gift",
       "link": "https://bizwest.com/2026/04/18/university-of-colorado-sports-gets-6m-gift/",
       "source": "BizWest",
       "pub_date": "2026-04-18T21:00:00+00:00",
-      "age_hours": 11.944812984166665,
+      "age_hours": 12.890683898333332,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "RTD lays off two dozen managers in operations \u2018realignment\u2019",
       "link": "https://www.9news.com/article/money/economy/rtd-lays-off-managers/73-eeea9381-fd56-4727-8b2e-12609fd9e052",
       "source": "9News",
       "pub_date": "2026-04-18T17:51:01+00:00",
-      "age_hours": 15.09500699472222,
+      "age_hours": 16.041159414166668,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Federal judge blocks Nexstar-Tegna TV station merger until antitrust lawsuit is settled",
       "link": "https://www.9news.com/article/news/nation-world/federal-judge-blocks-nexstar-tegna-tv-station-merger-until-antitrust-lawsuit-is-settled/616-c3b31695-8f68-449a-81e1-4fae306c071f",
       "source": "9News",
       "pub_date": "2026-04-18T17:36:00+00:00",
-      "age_hours": 15.345284828055556,
+      "age_hours": 16.291437230833335,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Denver Pavilions\u2019 design \u2018obsolete,\u2019 could be partially demolished, panel says",
       "link": "https://www.9news.com/article/money/business/denver-pavilions-design-obsolete-demolished/73-3665671b-0ab5-4ff8-b39d-a90e12e80bf5",
       "source": "9News",
       "pub_date": "2026-04-18T17:34:39+00:00",
-      "age_hours": 15.367784833888889,
+      "age_hours": 16.313937235833333,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Nonprofit Spotlight: Voices for Children, CASA of Boulder County",
       "link": "https://bizwest.com/2026/04/18/nonprofit-spotlight-voices-for-children-casa-of-boulder-county/",
       "source": "BizWest",
       "pub_date": "2026-04-18T17:24:01+00:00",
-      "age_hours": 15.544535263055556,
+      "age_hours": 16.490406195555554,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Boulder County awards $2M in emergency community grants",
       "link": "https://bizwest.com/2026/04/18/boulder-county-awards-2m-in-emergency-community-grants/",
       "source": "BizWest",
       "pub_date": "2026-04-18T17:10:48+00:00",
-      "age_hours": 15.764813564722223,
+      "age_hours": 16.710684698888887,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado Marijuana Officials Announce Crackdown On Sales Of Hemp Products Amid \u2018Risks To Public Safety\u2019",
       "link": "https://www.marijuanamoment.net/colorado-marijuana-officials-announce-crackdown-on-sales-of-hemp-products-amid-risks-to-public-safety/",
       "source": "MJ Moment",
       "pub_date": "2026-04-18T17:09:00+00:00",
-      "age_hours": 15.796935311944445,
+      "age_hours": 16.74322946777778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Windsor to host volunteer fair",
       "link": "https://bizwest.com/2026/04/18/windsor-to-host-volunteer-fair/",
       "source": "BizWest",
       "pub_date": "2026-04-18T16:56:56+00:00",
-      "age_hours": 15.995924683333334,
+      "age_hours": 16.94179582,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Odell Brewing teams with Protect Our Rivers",
       "link": "https://bizwest.com/2026/04/18/odell-brewing-teams-with-protect-our-rivers/",
       "source": "BizWest",
       "pub_date": "2026-04-18T16:49:18+00:00",
-      "age_hours": 16.123146935833333,
+      "age_hours": 17.069018085,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "What to know as Nuggets, Avs open outdoor fan zone at Ball Arena",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-avalanche-outdoor-fan-zone-ball-arena/73-f713e0d5-f935-42e2-8fc0-77e8ea8f86f7",
       "source": "9News",
       "pub_date": "2026-04-18T15:56:04+00:00",
-      "age_hours": 17.01084045388889,
+      "age_hours": 17.956992851944445,
       "breaking": false,
       "time_ago": "17 hrs ago"
     },
@@ -162,27 +171,18 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/northern-colorado-shake-shack/73-3ccf381d-4b2c-44f4-b57b-147aeb96f197",
       "source": "9News",
       "pub_date": "2026-04-18T15:27:22+00:00",
-      "age_hours": 17.48917380611111,
+      "age_hours": 18.435326216666667,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Denver steakhouse owner files for bankruptcy",
       "link": "https://www.9news.com/article/money/business/801-chophouse-steakhouse-chapter-11-bankruptcy/73-484f32d9-a91e-4e00-ae9e-d530df7acbe1",
       "source": "9News",
       "pub_date": "2026-04-18T15:26:34+00:00",
-      "age_hours": 17.50250716388889,
+      "age_hours": 18.448659574444445,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Allegedly stolen car crashes into tree along pedestrian area of 16th Street",
-      "link": "https://kdvr.com/news/local/allegedly-stolen-car-crashes-into-tree-along-pedestrian-area-of-16th-street/",
-      "source": "Fox31",
-      "pub_date": "2026-04-18T15:02:07+00:00",
-      "age_hours": 17.910198949166666,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
