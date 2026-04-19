@@ -1,15 +1,15 @@
 {
-  "generated_date": "2026-04-18",
-  "lead_headline": "Ultra Lounge West karaoke bar debuts in Westminster as 4 new restaurant leads surface",
+  "generated_date": "2026-04-19",
+  "lead_headline": "Zero new restaurant leads detected for first time this month as Denver's opening season hits Sunday pause",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>4 new leads today:</strong> Ultra Lounge West karaoke lounge (Westminster, just opened), Taqueria La Morenas (Harvey Park, replaced by Los Reyes Del Taco).",
+      "blurb": "<strong>No new leads today.</strong> Active pipeline holds at 113 (57 openings, 56 closures) \u2014 most recent: Ultra Lounge West (Westminster karaoke lounge) and Taqueria La Morenas closure (Harvey Park).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22123",
+        "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
@@ -21,45 +21,45 @@
       }
     },
     "foreclosure": {
-      "blurb": "<strong>$6.1M Douglas County property</strong> at 18901 Longs Way leads this week's filings \u2014 the only entry clearing $4M threshold.",
+      "blurb": "<strong>$6.1M Douglas County property</strong> at 18901 Longs Way remains this week's sole filing exceeding $4M \u2014 scheduled for Thursday auction.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "5",
+        "value2": "1",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
         "value1": "52",
-        "class1": "up",
+        "class1": "",
         "label2": "sold",
-        "value2": "2",
+        "value2": "0",
         "class2": "",
         "period": "7-day"
       }
     },
     "liquor": {
-      "blurb": "<strong>4 new applications today</strong> \u2014 The Flaming Grill (14th Street hotel/restaurant), Pema (Larimer Street hotel/restaurant), Salon Theory (Tennessee Avenue beer/wine), and Moonlight Liquors (Tower retail license). One status shift: Radisson Hotel Denver Central slipped to delinquent. Seven-day filing pace surges to 23 applications \u2014 triple last week's 7-application count and the strongest weekly volume since mid-March.",
+      "blurb": "<strong>No new applications today,</strong> but 4 status changes signal enforcement activity: East Tao and Mellow Mushroom licenses expired after delinquency, while Corks LoHi and Park Burger Highlands slipped to delinquent status. The 21-application weekly pace maintains momentum from last week's surge, though zero Sunday filings suggest the State's processing backlog has cleared \u2014 weekly volume now running 133% above the pre-March baseline of 9 applications per week.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "4",
-        "class1": "up",
+        "value1": "0",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "23",
+        "value1": "21",
         "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> brings the 7-day tally to 43 across 15 sources \u2014 down 25% from last week's 57-mention benchmark. Instagram (11), Denver Post (9), and X (5) anchor this week's distribution. Notable pickups include Denver Pavilions survival analysis, Stomp Athletics Shark Tank coverage, and DIA dining tier rankings. The week-over-week decline signals April's opening season peak has passed into normalized spring coverage after three weeks above baseline.",
+      "blurb": "<strong>1 mention today</strong> pushes the 7-day count to 45 across 14 sources \u2014 down 17% from last week's 54-mention benchmark. Denver Post (10) and Instagram (10) split the week's distribution, followed by Hoodline (5), X (5), and Facebook (4). Week-over-week volume contracted modestly after three consecutive weeks above 50 mentions, suggesting April's development news cycle has normalized. Notable pickups: RiNo Triangle Tower groundbreaking coverage, Stomp Athletics Shark Tank deal, and Denver Pavilions survival analysis.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,25 +69,25 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "43",
+        "value1": "45",
         "class1": "down",
         "label2": "sources",
-        "value2": "15",
+        "value2": "14",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) lifts MTD to +17 (+1.0/day), 90-day net to +140. This week's +8 net (21 new, 13 canceled) trails last week's +10 by 20%, though new subscriber volume jumped 11% (21 vs 19) while cancellations climbed 44% (13 vs 9). The recent two-week pattern shows volatility: April 7-12 delivered +11 net before April 13-16's -2 net pullback. MTD's +1.0/day pace lags YTD's +1.4/day average as mid-month churn offsets early-April momentum.",
+      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) pushes MTD to +18 (+1.0/day), 90-day net to +141. This week's +9 net (21 new, 12 canceled) trails last week's +11 performance by 18%, though both weeks delivered identical 21-subscriber acquisition volume \u2014 the gap stems from 33% higher cancellations (12 vs 9). Recent two-week volatility persists: April 5-11 produced +10 net before April 12-18's choppy \u22121/+6/\u22121/+1/+2 sequence. MTD's +1.0/day pace continues lagging YTD's +1.4/day average as mid-month churn offsets early-April momentum, though yesterday's clean +2 suggests Sunday stabilization.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "17",
-      "net_ytd": "148",
+      "net_mtd": "18",
+      "net_ytd": "149",
       "net_mtd_per_day": "1.0",
       "net_ytd_per_day": "1.4",
       "annual_mtd": "14",
-      "annual_ytd": "120",
-      "monthly_mtd": "3",
-      "monthly_ytd": "28"
+      "annual_ytd": "117",
+      "monthly_mtd": "4",
+      "monthly_ytd": "32"
     }
   }
 }
