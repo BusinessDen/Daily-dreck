@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-04-19",
-  "fetched_at": "2026-04-19 19:42:37",
+  "fetched_at": "2026-04-19 20:40:43",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Denver's 'lesbian bar' is gone, but these LGBTQ+, women-owned spaces are still here",
+      "link": "https://kdvr.com/denver-guide/denvers-lesbian-bar-is-gone-but-these-lgbtq-women-owned-spaces-are-still-here/",
+      "source": "Fox31",
+      "pub_date": "2026-04-19T20:27:21+00:00",
+      "age_hours": 0.21838743444444444,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
     {
       "title": "Dark Horse left Boulder; is Mustard\u2019s Last Stand next?",
       "link": "https://bizwest.com/2026/04/19/dark-horse-left-boulder-is-mustards-last-stand-next/",
       "source": "BizWest",
       "pub_date": "2026-04-19T16:02:33+00:00",
-      "age_hours": 3.662405846388889,
+      "age_hours": 4.6308996225,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Iran doubles down on closing the Strait of Hormuz as the ceasefire nears expiration",
       "link": "https://sentinelcolorado.com/nation-world/world/iran-doubles-down-on-closing-the-strait-of-hormuz-as-the-ceasefire-nears-expiration/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T13:16:27+00:00",
-      "age_hours": 6.432535149444445,
+      "age_hours": 7.400366039722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "In Telluride, new regulations designed to help renters are instead driving many out of town",
       "link": "https://coloradosun.com/2026/04/19/telluride-rent-regulations-renters-affordability-shandoka-sunnyside-voodoo-apartments/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-19T09:52:00+00:00",
-      "age_hours": 9.839176280277778,
+      "age_hours": 10.807190381111111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Early Guanella Pass opening offers lifeline to struggling Georgetown businesses",
       "link": "https://www.9news.com/article/money/business/small-business/early-guanella-pass-opening-offers-lifeline-to-struggling-georgetown-businesses/73-afa37126-1f7d-401f-8306-d16862185c21",
       "source": "9News",
       "pub_date": "2026-04-19T04:40:39+00:00",
-      "age_hours": 15.028555399444445,
+      "age_hours": 15.996437583333334,
       "breaking": false,
       "time_ago": "15 hrs ago"
     },
@@ -45,79 +54,79 @@
       "link": "https://sentinelcolorado.com/metro/aurora-history-museum-showcases-filipino-american-heritage/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T03:45:33+00:00",
-      "age_hours": 15.947535400277777,
+      "age_hours": 16.91536630722222,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 4.18.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-4-18-26/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T03:16:00+00:00",
-      "age_hours": 16.440035689722222,
+      "age_hours": 17.407866608611112,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "CDOT encourages planning ahead for a safe trip home after 4/20 celebrations",
       "link": "https://kdvr.com/news/local/cdot-encourages-planning-ahead-for-a-safe-trip-home-after-4-20-celebrations/",
       "source": "Fox31",
       "pub_date": "2026-04-19T03:03:35+00:00",
-      "age_hours": 16.6465535975,
+      "age_hours": 17.614498663888888,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Ball Arena debuts outdoor playoff viewing area",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/ball-arena-outdoor-playoff-viewing-area/73-713a8643-78c3-482e-8353-6978767f8457",
       "source": "9News",
       "pub_date": "2026-04-19T02:57:17+00:00",
-      "age_hours": 16.751333215,
+      "age_hours": 17.719215420277777,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Speeding driver dies after crashing into pole, tree Friday in southwest Aurora",
       "link": "https://sentinelcolorado.com/metro/speeding-driver-dies-after-crashing-into-pole-tree-friday-in-southwest-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T02:47:51+00:00",
-      "age_hours": 16.909202666944445,
+      "age_hours": 17.87703359916667,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Received an 'all-clear' alert in Denver on Saturday? Here's why",
       "link": "https://kdvr.com/news/local/received-an-all-clear-alert-in-denver-on-saturday-heres-why/",
       "source": "Fox31",
       "pub_date": "2026-04-18T23:15:29+00:00",
-      "age_hours": 20.448220219166668,
+      "age_hours": 21.41616528666667,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Louisville\u2019s Real Capital Solutions buys Chicagoland office building",
       "link": "https://bizwest.com/2026/04/18/louisvilles-real-capital-solutions-buys-chicagoland-office-building/",
       "source": "BizWest",
       "pub_date": "2026-04-18T21:05:00+00:00",
-      "age_hours": 22.621573024166665,
+      "age_hours": 23.590066847222225,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "University of Colorado sports gets $6M gift",
       "link": "https://bizwest.com/2026/04/18/university-of-colorado-sports-gets-6m-gift/",
       "source": "BizWest",
       "pub_date": "2026-04-18T21:00:00+00:00",
-      "age_hours": 22.704906366666666,
+      "age_hours": 23.673400190000002,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "RTD lays off two dozen managers in operations \u2018realignment\u2019",
       "link": "https://www.9news.com/article/money/economy/rtd-lays-off-managers/73-eeea9381-fd56-4727-8b2e-12609fd9e052",
       "source": "9News",
       "pub_date": "2026-04-18T17:51:01+00:00",
-      "age_hours": 25.85577770888889,
+      "age_hours": 26.823659911666667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://www.9news.com/article/news/nation-world/federal-judge-blocks-nexstar-tegna-tv-station-merger-until-antitrust-lawsuit-is-settled/616-c3b31695-8f68-449a-81e1-4fae306c071f",
       "source": "9News",
       "pub_date": "2026-04-18T17:36:00+00:00",
-      "age_hours": 26.10605552361111,
+      "age_hours": 27.073937729444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.9news.com/article/money/business/denver-pavilions-design-obsolete-demolished/73-3665671b-0ab5-4ff8-b39d-a90e12e80bf5",
       "source": "9News",
       "pub_date": "2026-04-18T17:34:39+00:00",
-      "age_hours": 26.128555528055557,
+      "age_hours": 27.096437734444443,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/04/18/nonprofit-spotlight-voices-for-children-casa-of-boulder-county/",
       "source": "BizWest",
       "pub_date": "2026-04-18T17:24:01+00:00",
-      "age_hours": 26.304628601388888,
+      "age_hours": 27.273122425555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/04/18/boulder-county-awards-2m-in-emergency-community-grants/",
       "source": "BizWest",
       "pub_date": "2026-04-18T17:10:48+00:00",
-      "age_hours": 26.524906406111114,
+      "age_hours": 27.4934002325,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.marijuanamoment.net/colorado-marijuana-officials-announce-crackdown-on-sales-of-hemp-products-amid-risks-to-public-safety/",
       "source": "MJ Moment",
       "pub_date": "2026-04-18T17:09:00+00:00",
-      "age_hours": 26.55801245027778,
+      "age_hours": 27.52584482083333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/04/18/windsor-to-host-volunteer-fair/",
       "source": "BizWest",
       "pub_date": "2026-04-18T16:56:56+00:00",
-      "age_hours": 26.756017522500002,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Odell Brewing teams with Protect Our Rivers",
-      "link": "https://bizwest.com/2026/04/18/odell-brewing-teams-with-protect-our-rivers/",
-      "source": "BizWest",
-      "pub_date": "2026-04-18T16:49:18+00:00",
-      "age_hours": 26.883239770555555,
+      "age_hours": 27.72451134861111,
       "breaking": false,
       "time_ago": "1 day ago"
     }
