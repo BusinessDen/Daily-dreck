@@ -1,51 +1,87 @@
 {
   "fetched_date": "2026-04-20",
-  "fetched_at": "2026-04-20 19:59:56",
+  "fetched_at": "2026-04-20 20:58:47",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Denver-Boulder Life Sciences Vacancy Climbs in Q1 2026",
+      "link": "https://milehighcre.com/denver-boulder-life-sciences-vacancy-climbs-in-q1-2026/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-04-20T20:42:28+00:00",
+      "age_hours": 0.26777564861111114,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
+    {
+      "title": "PNC Bank to lay off 777 from Lakewood facility",
+      "link": "https://www.9news.com/article/news/local/pnc-bank-to-lay-off-777-lakewood/73-26dc5a5e-d453-4361-824e-f9f6e072c3aa",
+      "source": "9News",
+      "pub_date": "2026-04-20T20:37:03+00:00",
+      "age_hours": 0.3582282866666667,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Local hospitals dispute report that Medicaid cuts put them at risk",
+      "link": "https://bizwest.com/2026/04/20/local-hospitals-dispute-report-that-medicaid-cuts-put-them-at-risk/",
+      "source": "BizWest",
+      "pub_date": "2026-04-20T20:28:57+00:00",
+      "age_hours": 0.49196684194444446,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
+    {
+      "title": "Lender files foreclosure on Lafayette cannabis farm",
+      "link": "https://bizwest.com/2026/04/20/lender-files-foreclosure-on-lafayette-cannabis-farm/",
+      "source": "BizWest",
+      "pub_date": "2026-04-20T20:21:04+00:00",
+      "age_hours": 0.62335625,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Water district, environment group reach Coffintop accord",
+      "link": "https://bizwest.com/2026/04/20/water-district-environment-group-reach-coffintop-accord/",
+      "source": "BizWest",
+      "pub_date": "2026-04-20T20:19:22+00:00",
+      "age_hours": 0.6516895922222222,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
     {
       "title": "PNC laying off nearly 800 after FirstBank acquisition",
       "link": "https://bizwest.com/2026/04/20/pnc-laying-off-nearly-800-after-firstbank-acquisition/",
       "source": "BizWest",
       "pub_date": "2026-04-20T18:13:00+00:00",
-      "age_hours": 1.7774141866666666,
+      "age_hours": 2.7578007330555554,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Business Buzz: Douglas County\u2019s war on red tape and the $217 million swipe fee debate",
       "link": "https://www.9news.com/article/money/business-brief/douglas-countys-war-on-red-tape-the-217-million-swipe-fee-debate/73-25c6402b-e549-4e13-9269-b974ca548f97",
       "source": "9News",
       "pub_date": "2026-04-20T17:53:27+00:00",
-      "age_hours": 2.1039820066666666,
+      "age_hours": 3.084895037222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "AVE Station House Breaks Ground in RiNo",
       "link": "https://milehighcre.com/ave-station-house-breaks-ground-in-rino/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-20T16:56:28+00:00",
-      "age_hours": 3.0533798797222222,
+      "age_hours": 4.034442634444445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver leads the nation in 'accidental landlords'",
       "link": "https://www.9news.com/article/money/markets/real-estate/accidental-landlords/73-59c84a86-5636-4d54-b052-2586b260c3ba",
       "source": "9News",
       "pub_date": "2026-04-20T16:14:34+00:00",
-      "age_hours": 3.7520376072222223,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports schedule, 4.20.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-4-20-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-20T15:53:00+00:00",
-      "age_hours": 4.112327453888889,
+      "age_hours": 4.732950620277777,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -54,135 +90,99 @@
       "link": "https://www.9news.com/article/travel/denver-international-airport/southwest-airlines-touchless-id-bag-drop-denver-airport/73-93b96d2a-9402-42ff-affa-6fe01dbc4cdc",
       "source": "9News",
       "pub_date": "2026-04-20T15:35:10+00:00",
-      "age_hours": 4.408704286388889,
+      "age_hours": 5.389617295833334,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Cherry Creek penthouse could set record sales price for Denver",
       "link": "https://www.9news.com/article/money/markets/real-estate/cherry-creek-north-penthouse-record-price/73-6929c7d4-b53d-489c-a003-5e3aa1cdd22b",
       "source": "9News",
       "pub_date": "2026-04-20T14:17:33+00:00",
-      "age_hours": 5.702315460555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Early morning dispute at Aurora condo ends in gunshot wound",
-      "link": "https://sentinelcolorado.com/metro/early-morning-dispute-at-aurora-condo-ends-in-gunshot-wound/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-20T14:00:43+00:00",
-      "age_hours": 5.983716721666666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.683228454166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "United Airlines flight at DIA evacuated after bomb threat Sunday",
       "link": "https://kdvr.com/news/local/united-airlines-flight-at-dia-evacuated-after-bomb-threat-sunday/",
       "source": "Fox31",
       "pub_date": "2026-04-20T13:18:30+00:00",
-      "age_hours": 6.686801401944444,
+      "age_hours": 7.667476781388888,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado Tex-Mex restaurant is headed to Loveland",
       "link": "https://www.9news.com/article/life/style/colorado-guide/rio-grande-mexican-restaurant-colorado/73-1cbc7f10-c181-4607-8b0e-665ae60f50db",
       "source": "9News",
       "pub_date": "2026-04-20T13:00:38+00:00",
-      "age_hours": 6.9842599225,
+      "age_hours": 7.965172916388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "New scenic gondola preparing to open near Denver",
       "link": "https://www.9news.com/article/life/style/colorado-guide/cable-car-idaho-springs/73-e9ebdeb0-7e14-4252-9bc6-d9efe8e1b29b",
       "source": "9News",
       "pub_date": "2026-04-20T12:52:40+00:00",
-      "age_hours": 7.117037729722222,
+      "age_hours": 8.0979507225,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Airline adding bunk beds for economy travelers but bans snacks, smells and cuddling",
-      "link": "https://sentinelcolorado.com/uncategorized/airline-adding-bunk-beds-for-economy-travelers-but-bans-snacks-smells-and-cuddling/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-20T12:40:43+00:00",
-      "age_hours": 7.317050266111112,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Popular Tivoli Student Union Kiosk Opening Eatery in Aurora",
       "link": "https://www.westword.com/food-drink/aurora-asian-hawaiian-fusion-restaurant-opening-this-summer-40871957/",
       "source": "Westword",
       "pub_date": "2026-04-20T12:01:00-06:00",
-      "age_hours": 1.9787126516666667,
+      "age_hours": 2.959248902777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Businesses can claim refunds starting Monday for tariffs that were declared unconstitutional",
       "link": "https://www.9news.com/article/news/nation-world/president-trump-tariffs-businesses-refunds/507-b517175e-7e2d-4751-9286-bbd30c291dba",
       "source": "9News",
       "pub_date": "2026-04-20T11:51:12+00:00",
-      "age_hours": 8.141482190277777,
+      "age_hours": 9.122395182777778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "For 2 decades, opioids flooded the San Luis Valley. Medicaid cuts now threaten the region\u2019s recovery.",
       "link": "https://coloradosun.com/2026/04/20/opioids-crisis-san-luis-valley-colorado-recovery/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-20T10:02:00+00:00",
-      "age_hours": 9.961248284166667,
+      "age_hours": 10.942275283333332,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "In new affordability push, Colorado Democrats look to shrink the single-family home",
       "link": "https://coloradosun.com/2026/04/20/colorado-democrats-shrink-single-family-home-housing-affordability-house-bill-1308-1114/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-20T10:00:00+00:00",
-      "age_hours": 9.994582068888889,
+      "age_hours": 10.975609100555555,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Colorado Democrats draft plan to consolidate Sheridan School District and Denver Public Schools",
       "link": "https://coloradosun.com/2026/04/20/sheridan-school-district-consolidate-with-denver-public-schools/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-20T09:50:00+00:00",
-      "age_hours": 10.161249175555556,
+      "age_hours": 11.142276230555556,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Hemp beverage bill puts profits over Colorado kids | OPINION",
       "link": "https://www.coloradopolitics.com/2026/04/20/hemp-beverage-bill-puts-profits-over-colorado-kids-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-04-20T06:45:00+00:00",
-      "age_hours": 13.245623460833334,
+      "age_hours": 14.226047150000001,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Is Denver\u2019s 16th Street Too Dangerous for Children?",
-      "link": "https://www.westword.com/news/is-denvers-16th-street-safe-40872891/",
-      "source": "Westword",
-      "pub_date": "2026-04-20T06:00:00-06:00",
-      "age_hours": 7.995379439722222,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Reported bomb threat prompts evacuation of plane at Denver airport",
-      "link": "https://www.9news.com/article/news/local/reported-bomb-threat-prompts-evacuation-of-plane-at-denver-airport/73-59db2688-c453-4aa6-a35a-3c1b646e735d",
-      "source": "9News",
-      "pub_date": "2026-04-20T04:27:27+00:00",
-      "age_hours": 15.5373155725,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "14 hrs ago"
     }
   ]
 }
