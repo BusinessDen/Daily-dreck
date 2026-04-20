@@ -1,150 +1,159 @@
 {
   "fetched_date": "2026-04-20",
-  "fetched_at": "2026-04-20 14:52:45",
+  "fetched_at": "2026-04-20 16:12:04",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Southwest Airlines launches touchless ID bag drop at Denver airport",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/southwest-airlines-touchless-id-bag-drop-denver-airport/73-93b96d2a-9402-42ff-affa-6fe01dbc4cdc",
+      "source": "9News",
+      "pub_date": "2026-04-20T15:35:10+00:00",
+      "age_hours": 0.6089598630555555,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
     {
       "title": "Cherry Creek penthouse could set record sales price for Denver",
       "link": "https://www.9news.com/article/money/markets/real-estate/cherry-creek-north-penthouse-record-price/73-6929c7d4-b53d-489c-a003-5e3aa1cdd22b",
       "source": "9News",
       "pub_date": "2026-04-20T14:17:33+00:00",
-      "age_hours": 0.5817082194444444,
+      "age_hours": 1.9025710405555556,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Early morning dispute at Aurora condo ends in gunshot wound",
       "link": "https://sentinelcolorado.com/metro/early-morning-dispute-at-aurora-condo-ends-in-gunshot-wound/",
       "source": "Sentinel",
       "pub_date": "2026-04-20T14:00:43+00:00",
-      "age_hours": 0.8631568891666667,
+      "age_hours": 2.1848597561111114,
       "breaking": true,
-      "time_ago": "51 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "United Airlines flight at DIA evacuated after bomb threat Sunday",
       "link": "https://kdvr.com/news/local/united-airlines-flight-at-dia-evacuated-after-bomb-threat-sunday/",
       "source": "Fox31",
       "pub_date": "2026-04-20T13:18:30+00:00",
-      "age_hours": 1.5661871122222222,
+      "age_hours": 2.8880223283333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado Tex-Mex restaurant is headed to Loveland",
       "link": "https://www.9news.com/article/life/style/colorado-guide/rio-grande-mexican-restaurant-colorado/73-1cbc7f10-c181-4607-8b0e-665ae60f50db",
       "source": "9News",
       "pub_date": "2026-04-20T13:00:38+00:00",
-      "age_hours": 1.863652686388889,
+      "age_hours": 3.184515504166667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "New scenic gondola preparing to open near Denver",
       "link": "https://www.9news.com/article/life/style/colorado-guide/cable-car-idaho-springs/73-e9ebdeb0-7e14-4252-9bc6-d9efe8e1b29b",
       "source": "9News",
       "pub_date": "2026-04-20T12:52:40+00:00",
-      "age_hours": 1.9964304997222222,
+      "age_hours": 3.317293315833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Airline adding bunk beds for economy travelers but bans snacks, smells and cuddling",
       "link": "https://sentinelcolorado.com/uncategorized/airline-adding-bunk-beds-for-economy-travelers-but-bans-snacks-smells-and-cuddling/",
       "source": "Sentinel",
       "pub_date": "2026-04-20T12:40:43+00:00",
-      "age_hours": 2.1964904697222223,
+      "age_hours": 3.518193355555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Businesses can claim refunds starting Monday for tariffs that were declared unconstitutional",
       "link": "https://www.9news.com/article/news/nation-world/president-trump-tariffs-businesses-refunds/507-b517175e-7e2d-4751-9286-bbd30c291dba",
       "source": "9News",
       "pub_date": "2026-04-20T11:51:12+00:00",
-      "age_hours": 3.020874964722222,
+      "age_hours": 4.3417377805555555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "For 2 decades, opioids flooded the San Luis Valley. Medicaid cuts now threaten the region\u2019s recovery.",
       "link": "https://coloradosun.com/2026/04/20/opioids-crisis-san-luis-valley-colorado-recovery/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-20T10:02:00+00:00",
-      "age_hours": 4.8406930175,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.161602324722223,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "In new affordability push, Colorado Democrats look to shrink the single-family home",
       "link": "https://coloradosun.com/2026/04/20/colorado-democrats-shrink-single-family-home-housing-affordability-house-bill-1308-1114/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-20T10:00:00+00:00",
-      "age_hours": 4.874026806111112,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.194936110833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado Democrats draft plan to consolidate Sheridan School District and Denver Public Schools",
       "link": "https://coloradosun.com/2026/04/20/sheridan-school-district-consolidate-with-denver-public-schools/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-20T09:50:00+00:00",
-      "age_hours": 5.040693911388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.361603225555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Is Denver\u2019s 16th Street Too Dangerous for Children?",
       "link": "https://www.westword.com/news/is-denvers-16th-street-safe-40872891/",
       "source": "Westword",
       "pub_date": "2026-04-20T06:00:00-06:00",
-      "age_hours": 2.8747456361111112,
+      "age_hours": 4.196597096666666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Reported bomb threat prompts evacuation of plane at Denver airport",
       "link": "https://www.9news.com/article/news/local/reported-bomb-threat-prompts-evacuation-of-plane-at-denver-airport/73-59db2688-c453-4aa6-a35a-3c1b646e735d",
       "source": "9News",
       "pub_date": "2026-04-20T04:27:27+00:00",
-      "age_hours": 10.416708357777779,
+      "age_hours": 11.737571183055556,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver beekeeper says swarm season came a month early this year thanks to warm weather",
       "link": "https://kdvr.com/news/local/denver-beekeeper-says-swarm-season-came-a-month-early-this-year-thanks-to-warm-weather/",
       "source": "Fox31",
       "pub_date": "2026-04-20T03:10:40+00:00",
-      "age_hours": 11.696742769166667,
+      "age_hours": 13.018577981944444,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver's 'lesbian bar' is gone, but these LGBTQ+, women-owned spaces are still here",
       "link": "https://kdvr.com/denver-guide/denvers-lesbian-bar-is-gone-but-these-lgbtq-women-owned-spaces-are-still-here/",
       "source": "Fox31",
       "pub_date": "2026-04-19T20:27:21+00:00",
-      "age_hours": 18.418687270000003,
+      "age_hours": 19.740522478888888,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Dark Horse left Boulder; is Mustard\u2019s Last Stand next?",
       "link": "https://bizwest.com/2026/04/19/dark-horse-left-boulder-is-mustards-last-stand-next/",
       "source": "BizWest",
       "pub_date": "2026-04-19T16:02:33+00:00",
-      "age_hours": 22.8310070475,
+      "age_hours": 24.151994336666668,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "In Telluride, new regulations designed to help renters are instead driving many out of town",
       "link": "https://coloradosun.com/2026/04/19/telluride-rent-regulations-renters-affordability-shandoka-sunnyside-voodoo-apartments/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-19T09:52:00+00:00",
-      "age_hours": 29.007361098055558,
+      "age_hours": 30.328270407500003,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.9news.com/article/money/business/small-business/early-guanella-pass-opening-offers-lifeline-to-struggling-georgetown-businesses/73-afa37126-1f7d-401f-8306-d16862185c21",
       "source": "9News",
       "pub_date": "2026-04-19T04:40:39+00:00",
-      "age_hours": 34.196708443333335,
+      "age_hours": 35.51757126638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/ball-arena-outdoor-playoff-viewing-area/73-713a8643-78c3-482e-8353-6978767f8457",
       "source": "9News",
       "pub_date": "2026-04-19T02:57:17+00:00",
-      "age_hours": 35.91948626333333,
+      "age_hours": 37.24034907722223,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/04/18/louisvilles-real-capital-solutions-buys-chicagoland-office-building/",
       "source": "BizWest",
       "pub_date": "2026-04-18T21:05:00+00:00",
-      "age_hours": 41.7901743,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "University of Colorado sports gets $6M gift",
-      "link": "https://bizwest.com/2026/04/18/university-of-colorado-sports-gets-6m-gift/",
-      "source": "BizWest",
-      "pub_date": "2026-04-18T21:00:00+00:00",
-      "age_hours": 41.873507643888885,
+      "age_hours": 43.111161582499996,
       "breaking": false,
       "time_ago": "1 day ago"
     }
