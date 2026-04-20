@@ -1,87 +1,114 @@
 {
   "fetched_date": "2026-04-20",
-  "fetched_at": "2026-04-20 08:11:36",
+  "fetched_at": "2026-04-20 10:50:18",
   "article_count": 20,
   "breaking_count": 3,
   "articles": [
+    {
+      "title": "For two decades, opioids flooded the San Luis Valley. Medicaid cuts now threaten the region\u2019s recovery.",
+      "link": "https://coloradosun.com/2026/04/20/opioids-crisis-san-luis-valley-colorado-recovery/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-20T10:02:00+00:00",
+      "age_hours": 0.7992207252777778,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
+    {
+      "title": "In new affordability push, Colorado Democrats look to shrink the single-family home",
+      "link": "https://coloradosun.com/2026/04/20/colorado-democrats-shrink-single-family-home-housing-affordability-house-bill-1308-1114/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-20T10:00:00+00:00",
+      "age_hours": 0.8325545858333333,
+      "breaking": true,
+      "time_ago": "49 min ago"
+    },
+    {
+      "title": "Colorado Democrats draft plan to consolidate Sheridan School District and Denver Public Schools",
+      "link": "https://coloradosun.com/2026/04/20/sheridan-school-district-consolidate-with-denver-public-schools/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-20T09:50:00+00:00",
+      "age_hours": 0.9992217222222222,
+      "breaking": true,
+      "time_ago": "59 min ago"
+    },
     {
       "title": "Reported bomb threat prompts evacuation of plane at Denver airport",
       "link": "https://www.9news.com/article/news/local/reported-bomb-threat-prompts-evacuation-of-plane-at-denver-airport/73-59db2688-c453-4aa6-a35a-3c1b646e735d",
       "source": "9News",
       "pub_date": "2026-04-20T04:27:27+00:00",
-      "age_hours": 3.7312916644444445,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.3752183625,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver beekeeper says swarm season came a month early this year thanks to warm weather",
       "link": "https://kdvr.com/news/local/denver-beekeeper-says-swarm-season-came-a-month-early-this-year-thanks-to-warm-weather/",
       "source": "Fox31",
       "pub_date": "2026-04-20T03:10:40+00:00",
-      "age_hours": 5.0112748133333325,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.655109245277778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Businesses can claim refunds starting Monday for Trump tariffs declared unconstitutional",
       "link": "https://sentinelcolorado.com/nation-world/world/businesses-can-claim-refunds-starting-monday-for-trump-tariffs-declared-unconstitutional/",
       "source": "Sentinel",
       "pub_date": "2026-04-20T02:20:58+00:00",
-      "age_hours": 5.839950035555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.483692344166666,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Aurora teacher Sam Westerdale champions curiosity, vulnerability in class",
       "link": "https://sentinelcolorado.com/metro/aurora-teacher-sam-westerdale-champions-curiosity-vulnerability-in-class/",
       "source": "Sentinel",
       "pub_date": "2026-04-20T02:02:34+00:00",
-      "age_hours": 6.146616717222222,
+      "age_hours": 8.790359026944444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver's 'lesbian bar' is gone, but these LGBTQ+, women-owned spaces are still here",
       "link": "https://kdvr.com/denver-guide/denvers-lesbian-bar-is-gone-but-these-lgbtq-women-owned-spaces-are-still-here/",
       "source": "Fox31",
       "pub_date": "2026-04-19T20:27:21+00:00",
-      "age_hours": 11.733219324166667,
+      "age_hours": 14.377053768055555,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Dark Horse left Boulder; is Mustard\u2019s Last Stand next?",
       "link": "https://bizwest.com/2026/04/19/dark-horse-left-boulder-is-mustards-last-stand-next/",
       "source": "BizWest",
       "pub_date": "2026-04-19T16:02:33+00:00",
-      "age_hours": 16.145731126111112,
+      "age_hours": 18.789650770833337,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Iran doubles down on closing the Strait of Hormuz as the ceasefire nears expiration",
       "link": "https://sentinelcolorado.com/nation-world/world/iran-doubles-down-on-closing-the-strait-of-hormuz-as-the-ceasefire-nears-expiration/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T13:16:27+00:00",
-      "age_hours": 18.915228198888887,
+      "age_hours": 21.55897053861111,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "In Telluride, new regulations designed to help renters are instead driving many out of town",
       "link": "https://coloradosun.com/2026/04/19/telluride-rent-regulations-renters-affordability-shandoka-sunnyside-voodoo-apartments/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-19T09:52:00+00:00",
-      "age_hours": 22.32203705,
+      "age_hours": 24.965888945555555,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Early Guanella Pass opening offers lifeline to struggling Georgetown businesses",
       "link": "https://www.9news.com/article/money/business/small-business/early-guanella-pass-opening-offers-lifeline-to-struggling-georgetown-businesses/73-afa37126-1f7d-401f-8306-d16862185c21",
       "source": "9News",
       "pub_date": "2026-04-19T04:40:39+00:00",
-      "age_hours": 27.511291765833334,
+      "age_hours": 30.15521846611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +117,7 @@
       "link": "https://sentinelcolorado.com/metro/aurora-history-museum-showcases-filipino-american-heritage/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T03:45:33+00:00",
-      "age_hours": 28.430228455555557,
+      "age_hours": 31.07397081722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +126,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-4-18-26/",
       "source": "Sentinel",
       "pub_date": "2026-04-19T03:16:00+00:00",
-      "age_hours": 28.9227287625,
+      "age_hours": 31.566471146111112,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +135,7 @@
       "link": "https://kdvr.com/news/local/cdot-encourages-planning-ahead-for-a-safe-trip-home-after-4-20-celebrations/",
       "source": "Fox31",
       "pub_date": "2026-04-19T03:03:35+00:00",
-      "age_hours": 29.129330585,
+      "age_hours": 31.773165015,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +144,7 @@
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/ball-arena-outdoor-playoff-viewing-area/73-713a8643-78c3-482e-8353-6978767f8457",
       "source": "9News",
       "pub_date": "2026-04-19T02:57:17+00:00",
-      "age_hours": 29.234069579444444,
+      "age_hours": 31.877996279444442,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +153,7 @@
       "link": "https://kdvr.com/news/local/received-an-all-clear-alert-in-denver-on-saturday-heres-why/",
       "source": "Fox31",
       "pub_date": "2026-04-18T23:15:29+00:00",
-      "age_hours": 32.93099721027778,
+      "age_hours": 35.57483164194445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +162,7 @@
       "link": "https://bizwest.com/2026/04/18/louisvilles-real-capital-solutions-buys-chicagoland-office-building/",
       "source": "BizWest",
       "pub_date": "2026-04-18T21:05:00+00:00",
-      "age_hours": 35.10489834972223,
+      "age_hours": 37.74881835222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://bizwest.com/2026/04/18/university-of-colorado-sports-gets-6m-gift/",
       "source": "BizWest",
       "pub_date": "2026-04-18T21:00:00+00:00",
-      "age_hours": 35.18823169222222,
+      "age_hours": 37.83215170111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://www.9news.com/article/money/economy/rtd-lays-off-managers/73-eeea9381-fd56-4727-8b2e-12609fd9e052",
       "source": "9News",
       "pub_date": "2026-04-18T17:51:01+00:00",
-      "age_hours": 38.33851406888889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Federal judge blocks Nexstar-Tegna TV station merger until antitrust lawsuit is settled",
-      "link": "https://www.9news.com/article/news/nation-world/federal-judge-blocks-nexstar-tegna-tv-station-merger-until-antitrust-lawsuit-is-settled/616-c3b31695-8f68-449a-81e1-4fae306c071f",
-      "source": "9News",
-      "pub_date": "2026-04-18T17:36:00+00:00",
-      "age_hours": 38.58879189388889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver Pavilions\u2019 design \u2018obsolete,\u2019 could be partially demolished, panel says",
-      "link": "https://www.9news.com/article/money/business/denver-pavilions-design-obsolete-demolished/73-3665671b-0ab5-4ff8-b39d-a90e12e80bf5",
-      "source": "9News",
-      "pub_date": "2026-04-18T17:34:39+00:00",
-      "age_hours": 38.611291899444446,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Nonprofit Spotlight: Voices for Children, CASA of Boulder County",
-      "link": "https://bizwest.com/2026/04/18/nonprofit-spotlight-voices-for-children-casa-of-boulder-county/",
-      "source": "BizWest",
-      "pub_date": "2026-04-18T17:24:01+00:00",
-      "age_hours": 38.7879539275,
+      "age_hours": 40.982440768888885,
       "breaking": false,
       "time_ago": "1 day ago"
     }
