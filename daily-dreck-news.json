@@ -1,141 +1,177 @@
 {
   "fetched_date": "2026-04-21",
-  "fetched_at": "2026-04-21 22:39:22",
+  "fetched_at": "2026-04-21 23:36:51",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "Denver weather: Windy and fire danger Wednesday",
+      "link": "https://kdvr.com/news/local/denver-weather-windy-and-fire-danger-wednesday/",
+      "source": "Fox31",
+      "pub_date": "2026-04-21T23:22:41+00:00",
+      "age_hours": 0.2322220986111111,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "Colorado lawmakers push limits on data-driven pricing as critics push back",
+      "link": "https://www.coloradopolitics.com/2026/04/21/colorado-lawmakers-push-limits-on-data-driven-pricing-as-critics-push-back/",
+      "source": "CO Politics",
+      "pub_date": "2026-04-21T23:00:54+00:00",
+      "age_hours": 0.5956583125,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
+    {
+      "title": "Pattern Break Brewing coming to ex-Sanitas space in Boulder",
+      "link": "https://bizwest.com/2026/04/21/pattern-break-brewing-coming-to-ex-sanitas-space-in-boulder/",
+      "source": "BizWest",
+      "pub_date": "2026-04-21T22:49:12+00:00",
+      "age_hours": 0.7892087308333333,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
+    {
+      "title": "Banner Health clinic to move to larger Timnath space",
+      "link": "https://bizwest.com/2026/04/21/banner-health-clinic-to-move-to-larger-timnath-space/",
+      "source": "BizWest",
+      "pub_date": "2026-04-21T22:44:41+00:00",
+      "age_hours": 0.8644870241666667,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
     {
       "title": "Aurora Councilmember Rob Andrews\u2019 DUI case rescheduled for June",
       "link": "https://sentinelcolorado.com/metro/aurora-councilmember-rob-andrews-dui-case-rescheduled-for-june/",
       "source": "Sentinel",
       "pub_date": "2026-04-21T21:33:30+00:00",
-      "age_hours": 1.093863241388889,
+      "age_hours": 2.0523892277777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Bank smells the money, sues to collect on $34M GreenGas note",
       "link": "https://bizwest.com/2026/04/21/bank-smells-the-money-sues-to-collect-on-34m-greengas-note/",
       "source": "BizWest",
       "pub_date": "2026-04-21T20:53:50+00:00",
-      "age_hours": 1.7537585324999998,
+      "age_hours": 2.7119870588888886,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Thought-leader group to discuss work-life balance",
       "link": "https://bizwest.com/2026/04/21/thought-leader-group-to-discuss-work-life-balance/",
       "source": "BizWest",
       "pub_date": "2026-04-21T20:07:58+00:00",
-      "age_hours": 2.518203923333333,
+      "age_hours": 3.4764315425,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Laird Superfood buys Terrasoul for $48M",
       "link": "https://bizwest.com/2026/04/21/laird-superfood-buys-terrasoul-for-48m/",
       "source": "BizWest",
       "pub_date": "2026-04-21T20:06:09+00:00",
-      "age_hours": 2.548481733888889,
+      "age_hours": 3.5067093538888887,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Longmont airport to host wildfire aviation training",
       "link": "https://bizwest.com/2026/04/21/longmont-airport-to-host-wildfire-aviation-training/",
       "source": "BizWest",
       "pub_date": "2026-04-21T19:59:53+00:00",
-      "age_hours": 2.6529262172222223,
+      "age_hours": 3.6111538347222223,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Parker\u2019s The Juniper Debuts South Building",
       "link": "https://milehighcre.com/parkers-the-juniper-debuts-south-building/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-21T19:25:09+00:00",
-      "age_hours": 3.232224031111111,
+      "age_hours": 4.1904287133333336,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Snoop Dogg says Colorado's iconic Red Rocks is 'one of the greatest venues'",
       "link": "https://kdvr.com/denver-guide/snoop-dogg-says-colorados-iconic-red-rocks-is-one-of-the-greatest-venues/",
       "source": "Fox31",
       "pub_date": "2026-04-21T18:21:36+00:00",
-      "age_hours": 4.291954070277778,
+      "age_hours": 5.2502775758333335,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Construction of The Gallery at Fort Collins Now Complete",
       "link": "https://milehighcre.com/construction-of-the-gallery-at-fort-collins-now-complete/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-21T18:03:08+00:00",
-      "age_hours": 4.599168505833333,
+      "age_hours": 5.557373176666666,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Republican state Senate candidate arrested in Florida on felony child neglect charge",
       "link": "https://coloradosun.com/2026/04/21/frederick-alfred-arrest-florida-felony-child-neglect/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-21T17:29:50+00:00",
-      "age_hours": 5.154205130833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.112467610833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Man sentenced to life in prison for infant's death has sentence vacated",
       "link": "https://kdvr.com/news/local/man-sentenced-to-life-in-prison-for-infants-death-has-sentence-vacated/",
       "source": "Fox31",
       "pub_date": "2026-04-21T17:09:24+00:00",
-      "age_hours": 5.495287368611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.453610881944445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Walmart remodeling more than 650 stores, opening 20 new locations",
       "link": "https://www.9news.com/article/news/nation-world/walmart-remodeling-stores-2026/507-898d5dd5-b5f4-499f-bf9f-e8d4f20bd3d3",
       "source": "9News",
       "pub_date": "2026-04-21T17:07:04+00:00",
-      "age_hours": 5.533830176388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.492117314722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Capital Markets Update:\u00a0A More Disciplined Cycle Takes Shape in 2026",
       "link": "https://milehighcre.com/capital-markets-update-a-more-disciplined-cycle-takes-shape-in-2026/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-21T16:00:00+00:00",
-      "age_hours": 6.651390761111111,
+      "age_hours": 7.609595427777777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "$550K \u2018smart bathroom\u2019 arrives at southern Colorado park",
       "link": "https://www.9news.com/article/life/style/colorado-guide/smart-bathroom-fountain-colorado-park/73-a562ee1d-d8d5-451f-b955-bf3a1a6e2cbf",
       "source": "9News",
       "pub_date": "2026-04-21T15:39:29+00:00",
-      "age_hours": 6.993552428888889,
+      "age_hours": 7.9518395625,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Nashville hot chicken chain continues Colorado expansion with new restaurant",
       "link": "https://www.9news.com/article/life/style/colorado-guide/blazing-bird-nashville-hot-chicken-restaurants/73-a8b25523-238d-4d1d-9c41-ce58c38d2e9b",
       "source": "9News",
       "pub_date": "2026-04-21T14:58:59+00:00",
-      "age_hours": 7.66855250388889,
+      "age_hours": 8.626839623333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Red Rocks adds Beck, Deadmau5 to concert lineup: Here's the summer schedule",
       "link": "https://www.9news.com/article/life/style/colorado-guide/red-rocks-concert-lineup-deadmau5-beck/73-74cc02fb-bb4e-4b3b-8db2-c968fa2f5043",
       "source": "9News",
       "pub_date": "2026-04-21T13:38:58+00:00",
-      "age_hours": 9.002163665,
+      "age_hours": 9.960450776944445,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -144,45 +180,9 @@
       "link": "https://www.9news.com/article/money/business/chipotle-honey-chicken/73-6b9e1791-4eb3-4c54-b425-67327256089a",
       "source": "9News",
       "pub_date": "2026-04-21T13:29:58+00:00",
-      "age_hours": 9.15216367,
+      "age_hours": 10.110450781944445,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Denver building new bridge over Santa Fe Drive",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/new-bridge-santa-fe-drive/73-2e1e6ad2-95c5-4985-84e6-43a2c29cfed4",
-      "source": "9News",
-      "pub_date": "2026-04-21T13:25:43+00:00",
-      "age_hours": 9.22299703888889,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "This Cherry Creek penthouse is the highest listing in Denver",
-      "link": "https://kdvr.com/news/local/this-cherry-creek-penthouse-is-the-highest-listing-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-04-21T12:59:43+00:00",
-      "age_hours": 9.656676412500001,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Denver police respond to bicycle, motorcycle, moped, auto-pedestrian crashes in one night",
-      "link": "https://kdvr.com/news/local/denver-police-respond-to-bicycle-motorcycle-moped-auto-pedestrian-crashes-in-one-night/",
-      "source": "Fox31",
-      "pub_date": "2026-04-21T12:57:00+00:00",
-      "age_hours": 9.7019542475,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Building next to Coors Field for sale",
-      "link": "https://www.9news.com/article/money/markets/real-estate/blake-street-coors-field-building-sale/73-b9831833-4daf-4ac4-9d7f-b253e67f2b67",
-      "source": "9News",
-      "pub_date": "2026-04-21T12:40:54+00:00",
-      "age_hours": 9.96994154,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
