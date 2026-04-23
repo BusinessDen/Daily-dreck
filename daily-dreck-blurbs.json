@@ -1,93 +1,93 @@
 {
-  "generated_date": "2026-04-22",
-  "lead_headline": "Chick-fil-A debuts Colorado's first drive-thru-only format at Central Park as $6.1M Douglas County estate enters foreclosure",
+  "generated_date": "2026-04-23",
+  "lead_headline": "Olive & Finch preps fifth Denver location as restaurant pipeline swells to 118 active leads",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 new leads today:</strong> 7-Eleven convenience store (Federal Blvd closure), Samir Mediterranean/Afghan (Congress Park opening unclear), and Taqueria La Morenas (Harvey Park temp closure). Active pipeline: 116 leads (59 openings, 57 closures).",
+      "blurb": "<strong>Zero new leads today</strong> holds the active pipeline at 118 (61 openings, 57 closures). Recent adds: Olive & Finch (Golden Triangle), Maryjane's Hideaway (Sloan Lake), Lost Coffee (Arvada).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "1",
+        "value1": "+0",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "\u22120",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "59",
+        "value1": "+61",
         "label2": "closed",
         "value2": "\u221257",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>$6.1M Douglas County property</strong> at 18901 Longs Way stands as the week's sole $4M+ filing \u2014 a scheduled auction Thursday alongside 51 smaller properties.",
+      "blurb": "Nothing new to report today.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "2",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "52",
+        "value1": "58",
         "class1": "",
         "label2": "sold",
-        "value2": "2",
+        "value2": "0",
         "class2": "",
         "period": "7-day"
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications today</strong> extends Monday's filing drought into day two \u2014 the longest quiet spell since February. This week's 20-application volume holds at double the pre-March baseline, led by restaurant/tavern expansions in Westminster (Red Lotus Den food hall), Overland (The Couloir apr\u00e8s bar), and Regis (Ultra Lounge West karaoke bar). The sustained pace suggests State licensing capacity remains clear despite elevated demand, though Tuesday-Thursday typically anchor weekly volume. Zero status changes marks fourth consecutive day without processing updates.",
+      "blurb": "<strong>6 new applications today</strong> breaks Monday-Tuesday's drought with restaurant-heavy filings: The Pit Shop (Wadsworth BBQ/fermented malt), El Pulgarcito de Bukele (Federal Blvd Salvadoran), Culture (Welton St tavern/cabaret), El Tigre de Santa Julia (17th St hotel/restaurant), Moonlight Liquors (Tower Rd store), and The Runway and Rye Lounge (DIA airport hotel/restaurant). The Wednesday bounce returns to seasonal patterns after two zero-application days. Status changes spike to 34 as State clears delinquency backlog \u2014 John Holly's Bistro, Rio Grande Liquor, and Bamboo Sushi all return to active status from delinquent classification.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
-        "class1": "",
+        "value1": "6",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "20",
+        "value1": "24",
         "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions yesterday</strong> drops the 7-day total to 36 across 9 sources \u2014 down 29% from last week's 51-mention baseline and marking the third consecutive weekly decline since mid-April's peak. Instagram (12) maintains weekly dominance ahead of Denver Post (6), Facebook (5), and Reddit (4). The sustained three-week contraction (54\u219251\u219236) suggests development news cycle fatigue as major announcements thin heading into late spring. Notable pickups: Mustard's Last Stand closure (Instagram), Denver sapphic bar discussion (Reddit), and outdoor industry networking coverage (Facebook). Week-over-week momentum signals continued cooling despite Instagram's sticky engagement.",
+      "blurb": "<strong>2 mentions yesterday</strong> (Instagram 1, Facebook 1) lifts the 7-day total to 30 across 8 sources \u2014 down 46% from last week's 56-mention baseline and marking the fourth consecutive weekly decline. Instagram (10) maintains weekly dominance ahead of Facebook (5), Denver Post (4), and Hoodline (3). The sustained four-week contraction suggests development news cycle exhaustion as major announcements thin heading into May. Notable pickups: Projects+ platform launch (Instagram), Govnr's Park Tavern 1976 history feature (Facebook), and downtown office conversion loan denial (Denver Post). The extended slowdown signals structural shift as spring construction news plateaus.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "0",
+        "value1": "2",
         "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "36",
+        "value1": "30",
         "class1": "down",
         "label2": "sources",
-        "value2": "9",
+        "value2": "8",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) holds MTD at +18 (+0.9/day), 90-day net at +141. The 7-day total of +8 (13 new, 5 canceled) marks a sharp 38% drop from last week's +13 performance, driven entirely by acquisition slowdown \u2014 new signups fell 50% (13 vs 26) while cancellations improved 62% (5 vs 13). The recent pattern shows Monday-Tuesday flatlines bookending midweek conversion: April 15 spiked +6, then the last four days delivered zero net as both acquisition and churn went dormant. MTD's +0.9/day pace continues trailing YTD's +1.3/day benchmark, but the sustained low-churn environment (just 5 cancellations across 7 days) signals healthier retention fundamentals even as late-month momentum stalls.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) holds MTD at +18 (+0.8/day), 90-day net at +141. The past week delivered just +2 net (6 new, 4 canceled) \u2014 an 85% collapse from last week's +13 performance as acquisition dried up completely. The last five consecutive days produced zero net change, marking the longest flatline since February. Yet MTD's +18 performance through 23 days suggests conversion front-loaded early April \u2014 the first 11 days generated +16 net before late-month momentum stalled. YTD's +1.3/day pace continues outpacing MTD's +0.8/day, reflecting stronger Q1 fundamentals. Churn remains healthy (just 4 cancellations across 7 days), but acquisition has gone dormant as we approach month-end.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "18",
       "net_ytd": "149",
-      "net_mtd_per_day": "0.9",
+      "net_mtd_per_day": "0.8",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "15",
-      "annual_ytd": "127",
-      "monthly_mtd": "3",
-      "monthly_ytd": "22"
+      "annual_mtd": "14",
+      "annual_ytd": "119",
+      "monthly_mtd": "4",
+      "monthly_ytd": "30"
     }
   }
 }
