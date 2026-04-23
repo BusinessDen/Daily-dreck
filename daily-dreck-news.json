@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-23",
-  "fetched_at": "2026-04-23 11:12:35",
+  "fetched_at": "2026-04-23 13:48:43",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 6,
   "articles": [
     {
-      "title": "Aurora prep sports scoreboard, 4.22.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-4-22-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-23T05:23:27+00:00",
-      "age_hours": 5.815713844444445,
+      "title": "E-470 interchange construction project to begin in May",
+      "link": "https://www.9news.com/article/traffic/gartrelle-e470-interchange-expansion-project-construction/73-d7573f2f-ced5-4197-8a3e-967f0f494bf0",
+      "source": "9News",
+      "pub_date": "2026-04-23T13:45:18+00:00",
+      "age_hours": 0.05133141333333334,
       "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "Colorado breweries win big with 23 medals at World Beer Cup",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-breweries-awards-world-beer-cup/73-dd02e2bb-0c62-4704-911e-37dc1eabd0d8",
+      "source": "9News",
+      "pub_date": "2026-04-23T13:20:46+00:00",
+      "age_hours": 0.46022033027777776,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "Trump reclassifies state-licensed medical marijuana as a less-dangerous drug in a historic shift",
+      "link": "https://www.9news.com/article/news/nation-world/trump-reclassifies-state-licensed-medical-marijuana/507-e8f7a2f0-d0eb-414b-b257-1a461c27bf1d",
+      "source": "9News",
+      "pub_date": "2026-04-23T13:10:29+00:00",
+      "age_hours": 0.6316092775000001,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Trump\u2019s approval on economy falls in AP-NORC poll, showing new warning signs for president",
+      "link": "https://sentinelcolorado.com/uncategorized/trumps-approval-on-economy-falls-in-ap-norc-poll-showing-new-warning-signs-for-president/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-23T13:04:57+00:00",
+      "age_hours": 0.725564275,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
+    {
+      "title": "Denver man claims city shelter unnecessarily euthanized family dog",
+      "link": "https://kdvr.com/news/local/denver-man-claims-city-shelter-unnecessarily-euthanized-family-dog/",
+      "source": "Fox31",
+      "pub_date": "2026-04-23T12:54:52+00:00",
+      "age_hours": 0.8930576680555555,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
+    {
+      "title": "Ready to graduate: MSU Denver computer science students weigh in on AI and \u2018volatile\u2019 job market",
+      "link": "https://www.denver7.com/follow-up/ready-to-graduate-msu-denver-computer-science-students-weigh-in-on-ai-and-volatile-job-market",
+      "source": "Denver7",
+      "pub_date": "2026-04-23T11:21:53+00:00",
+      "age_hours": 2.4426263616666666,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Measles case confirmed in Lake County resident",
       "link": "https://www.9news.com/article/news/health/measles-case-lake-county-colorado/73-b426cfac-cdb5-452c-8191-899b7cbdea7e",
       "source": "9News",
       "pub_date": "2026-04-23T03:15:56+00:00",
-      "age_hours": 7.940193285555556,
+      "age_hours": 10.540776042222221,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Future of Denver Pavilions in flux as city rethinks downtown revival plan",
       "link": "https://kdvr.com/news/local/future-of-denver-pavilions-in-flux-as-city-rethinks-downtown-revival-plan/",
       "source": "Fox31",
       "pub_date": "2026-04-23T02:30:29+00:00",
-      "age_hours": 8.69801584388889,
+      "age_hours": 11.299446661111112,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Waste Management brings garbage truck to Denver preschool for Earth Day sustainability lesson",
       "link": "https://www.9news.com/article/news/local/waste-management-garbage-truck-denver-preschool-earth-day/73-d7b2d4e5-8ca0-4562-99de-dd0e11f928dd",
       "source": "9News",
       "pub_date": "2026-04-23T00:47:04+00:00",
-      "age_hours": 10.421304478055555,
+      "age_hours": 13.021887229166667,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Colorado businesses feel strain as gas prices remain high",
       "link": "https://www.9news.com/article/news/local/colorado-news/colorado-businesses-high-gas-prices/73-4a8d5db2-b14a-4f28-b192-a3d910e62f9b",
       "source": "9News",
       "pub_date": "2026-04-23T00:29:11+00:00",
-      "age_hours": 10.719360075,
+      "age_hours": 13.319942837500001,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "DU hockey releases 2026\u201327 schedule",
       "link": "https://kdvr.com/sports/du-hockey-releases-2026-27-schedule/",
       "source": "Fox31",
       "pub_date": "2026-04-22T23:34:18+00:00",
-      "age_hours": 11.634404827500001,
+      "age_hours": 14.235835660277777,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado bankruptcies climb 23% in March",
       "link": "https://bizwest.com/2026/04/22/colorado-bankruptcies-climb-23-in-march/",
       "source": "BizWest",
       "pub_date": "2026-04-22T23:03:00+00:00",
-      "age_hours": 12.15503307222222,
+      "age_hours": 14.75534982138889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "DU to host screening of 9NEWS documentary 'Refuge' followed by panel discussion",
-      "link": "https://www.9news.com/article/news/investigations/refuge-screening-panel-discussion/73-1f72da41-225d-4c8f-bdb5-a878d5398d13",
-      "source": "9News",
-      "pub_date": "2026-04-22T22:27:10+00:00",
-      "age_hours": 12.752971240277779,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Multiple agencies train for disaster response at DIA",
-      "link": "https://kdvr.com/news/local/multiple-agencies-train-for-disaster-response-at-dia/",
-      "source": "Fox31",
-      "pub_date": "2026-04-22T22:21:31+00:00",
-      "age_hours": 12.84746040888889,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Company tied to Buc-ee\u2019s buys land along Interstate 25, raising questions about next steps",
       "link": "https://coloradosun.com/2026/04/22/company-bucees-buys-land-interstate-25/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-22T22:17:15+00:00",
-      "age_hours": 12.918077815277776,
+      "age_hours": 15.518690159166665,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Party City makes a comeback with hundreds of stores reopening inside another popular retailer",
-      "link": "https://www.9news.com/article/news/nation-world/party-city-staples-stores-nationwide-following-bankruptcy/507-49dee4b6-8b7c-4658-9fe9-a92fd92495cb",
-      "source": "9News",
-      "pub_date": "2026-04-22T22:13:16+00:00",
-      "age_hours": 12.984637939444443,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Greeley City Council approves zoning, annexation for natural area in northwest Greeley",
       "link": "https://bizwest.com/2026/04/22/greeley-city-council-approves-zoning-annexation-for-natural-area-in-northwest-greeley/",
       "source": "BizWest",
       "pub_date": "2026-04-22T21:36:19+00:00",
-      "age_hours": 13.599755816111111,
+      "age_hours": 16.200072602777777,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Senior-housing investors trade MorningStar Boulder for $45M",
       "link": "https://bizwest.com/2026/04/22/senior-housing-investors-trade-morningstar-boulder-for-45m/",
       "source": "BizWest",
       "pub_date": "2026-04-22T21:36:16+00:00",
-      "age_hours": 13.600589188055556,
+      "age_hours": 16.2009059725,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Privacy advocates clash with local police over license plate reader restriction bill",
-      "link": "https://sentinelcolorado.com/metro/privacy-advocates-clash-with-local-police-over-license-plate-reader-restriction-bill/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-22T21:18:48+00:00",
-      "age_hours": 13.893214174166665,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Sushi eatery Odd Rabbit to open in Boulder",
       "link": "https://bizwest.com/2026/04/22/sushi-eatery-odd-rabbit-to-open-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-04-22T21:16:40+00:00",
-      "age_hours": 13.927255861944444,
+      "age_hours": 16.52757264611111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Sunnier conditions in the forecast after \u2018Biotech Winter?\u2019",
       "link": "https://bizwest.com/2026/04/22/sunnier-conditions-in-the-forecast-after-biotech-winter/",
       "source": "BizWest",
       "pub_date": "2026-04-22T21:13:57+00:00",
-      "age_hours": 13.97253364472222,
+      "age_hours": 16.572850429722223,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Law Firm Signs Full-Floor Lease at 1801 California",
       "link": "https://milehighcre.com/law-firm-signs-full-floor-lease-at-1801-california/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-22T21:13:49+00:00",
-      "age_hours": 13.975172545833333,
+      "age_hours": 16.575810108611112,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Tebo buys Estes building housing chocolate factory",
       "link": "https://bizwest.com/2026/04/22/tebo-buys-estes-building-housing-chocolate-factory/",
       "source": "BizWest",
       "pub_date": "2026-04-22T21:09:02+00:00",
-      "age_hours": 14.054478118055556,
+      "age_hours": 16.65479490583333,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Officer stabbed during fatal mental health crisis response in Aurora, recovering",
-      "link": "https://sentinelcolorado.com/metro/officer-stabbed-during-fatal-mental-health-crisis-response-in-aurora-recovering/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-22T21:05:31+00:00",
-      "age_hours": 14.114603255833334,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "MAD Greens Charts Growth Strategy with New CEO, Menu Shift",
       "link": "https://milehighcre.com/mad-greens-charts-growth-strategy-with-new-ceo-menu-shift/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-22T20:28:29+00:00",
-      "age_hours": 14.73072812,
+      "age_hours": 17.33136568277778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
