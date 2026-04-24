@@ -1,69 +1,96 @@
 {
   "fetched_date": "2026-04-24",
-  "fetched_at": "2026-04-24 16:59:45",
+  "fetched_at": "2026-04-24 17:55:41",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "Amid budget cuts, Colorado lawmakers and statewide elected officials are set to get a pay hike next year",
+      "link": "https://coloradosun.com/2026/04/24/budget-cuts-colorado-state-elected-officials-pay-increases/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-24T17:47:45+00:00",
+      "age_hours": 0.12753817805555556,
+      "breaking": true,
+      "time_ago": "7 min ago"
+    },
+    {
+      "title": "Prescription Drug Take-Back Day: Where to drop-off medication in Denver",
+      "link": "https://www.9news.com/article/news/health/prescription-drug-take-back-day-denver-colorado-drop-off/73-f6753cde-c627-4c70-94da-16f9c0437233",
+      "source": "9News",
+      "pub_date": "2026-04-24T17:24:52+00:00",
+      "age_hours": 0.5090544958333334,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "State agency plagued with leadership turnover hired deputy commissioner accused of taking $99K from Colorado nonprofit",
+      "link": "https://coloradosun.com/2026/04/24/behavioral-health-deputy-commissioner-hiring-theft-scheme/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-24T17:18:47+00:00",
+      "age_hours": 0.6103163958333333,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
     {
       "title": "Denver shelter 'overflowing' with cats after animal hoarding investigation",
       "link": "https://www.9news.com/article/life/animals/denver-shelter-cats-animal-hoarding-adoptions/73-38fc1a47-ebf7-4cc3-8c25-7042b29e1a1b",
       "source": "9News",
       "pub_date": "2026-04-24T16:52:00+00:00",
-      "age_hours": 0.1249029425,
+      "age_hours": 1.0568323180555554,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Osa the pup seeks forever home while gearing up for Denver's Furry Scurry",
       "link": "https://www.9news.com/article/life/pets/petline9/petline-humane-colorado-osa-dog/73-30c51ea2-9ecc-44b0-b19e-8684145d3701",
       "source": "9News",
       "pub_date": "2026-04-24T16:21:27+00:00",
-      "age_hours": 0.6340696766666666,
+      "age_hours": 1.5659990455555557,
       "breaking": true,
-      "time_ago": "38 min ago"
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Aurora prep sports schedule, 4.24.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-4-24-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-24T15:27:00+00:00",
+      "age_hours": 2.4745236824999997,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Beverage distributor eyes hundreds of Colorado layoffs as rival acquires assets",
       "link": "https://www.9news.com/article/money/business/republic-national-distributing-beverages-layoffs/73-17f29cfd-37f0-4643-bcfe-17e8a9c6d83d",
       "source": "9News",
       "pub_date": "2026-04-24T14:54:33+00:00",
-      "age_hours": 2.082403071111111,
+      "age_hours": 3.014332445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Overnight maintenance leads to backups at Denver airport trains",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-train-tsa-backup-delays-overnight-maintenance/73-3b4224cc-6289-4886-8af9-69dc6cf4162f",
       "source": "9News",
       "pub_date": "2026-04-24T14:32:46+00:00",
-      "age_hours": 2.4454586636111113,
+      "age_hours": 3.377388050555555,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Red Rocks adds Beck, Deadmau5 to concert lineup: Here's the summer schedule",
       "link": "https://www.9news.com/article/life/style/colorado-guide/red-rocks-concert-lineup-deadmau5-beck/73-74cc02fb-bb4e-4b3b-8db2-c968fa2f5043",
       "source": "9News",
       "pub_date": "2026-04-24T14:09:56+00:00",
-      "age_hours": 2.826014255277778,
+      "age_hours": 3.757943647222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Corpse abuse cases force changes on Colorado\u2019s scandal-plagued funeral industry",
       "link": "https://sentinelcolorado.com/sentinel-biz-news/corpse-abuse-cases-force-changes-on-colorados-scandal-plagued-funeral-industry/",
       "source": "Sentinel",
       "pub_date": "2026-04-24T12:58:15+00:00",
-      "age_hours": 4.0215103725,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Reclassifying marijuana as a less dangerous drug might only be the first step for Trump",
-      "link": "https://sentinelcolorado.com/nation-world/nation/reclassifying-marijuana-as-a-less-dangerous-drug-might-only-be-the-first-step-for-trump/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-24T12:39:15+00:00",
-      "age_hours": 4.338177350277777,
+      "age_hours": 4.953690733333333,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -72,34 +99,34 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-breweries-awards-world-beer-cup/73-dd02e2bb-0c62-4704-911e-37dc1eabd0d8",
       "source": "9News",
       "pub_date": "2026-04-24T12:09:25+00:00",
-      "age_hours": 4.834625416388889,
+      "age_hours": 5.766554802222222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Half marathon sells out at Denver Colfax Marathon",
       "link": "https://www.9news.com/article/life/style/colorado-guide/denver-colfax-marathon-half-marathon-capacity/73-b04f4e35-3ed6-4ea7-8401-a7f96c03ae7e",
       "source": "9News",
       "pub_date": "2026-04-24T12:09:12+00:00",
-      "age_hours": 4.838236565277778,
+      "age_hours": 5.770165954444445,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "The arts take center stage at CBCA\u2019s celebratory luncheon | NONPROFIT REGISTER",
       "link": "https://www.coloradopolitics.com/2026/04/24/the-arts-take-center-stage-at-cbcas-celebratory-luncheon-nonprofit-register/",
       "source": "CO Politics",
       "pub_date": "2026-04-24T11:00:00+00:00",
-      "age_hours": 5.992299411388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.924432001944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado cannabis industry leaders, researchers express cautious enthusiasm for rescheduling decision",
       "link": "https://coloradosun.com/2026/04/24/marijuana-rescheduling-business-research-impacts/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-24T09:56:00+00:00",
-      "age_hours": 7.058085343888889,
+      "age_hours": 7.990039052499999,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -108,79 +135,52 @@
       "link": "https://coloradosun.com/2026/04/24/colorado-water-prices/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-24T09:45:00+00:00",
-      "age_hours": 7.241419129722222,
+      "age_hours": 8.173372798055555,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado taxpayers would  lose thousands in TABOR refunds under Democrats\u2019  proposed ballot measure",
       "link": "https://www.coloradopolitics.com/2026/04/23/colorado-taxpayers-would-lose-thousands-in-tabor-refunds-under-democrats-proposed-ballot-measure/",
       "source": "CO Politics",
       "pub_date": "2026-04-24T02:03:00+00:00",
-      "age_hours": 14.94229953,
+      "age_hours": 15.874432127777778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Broomfield Town Square developers grilled by city leaders concerned by slow progress",
       "link": "https://bizwest.com/2026/04/23/broomfield-town-square-developers-grilled-by-city-leaders-concerned-by-slow-progress/",
       "source": "BizWest",
       "pub_date": "2026-04-24T00:09:42+00:00",
-      "age_hours": 16.828783705555555,
+      "age_hours": 17.761027098055553,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Castle Rock overhauls water fees, cuts costs for smaller homes",
       "link": "https://www.coloradopolitics.com/2026/04/23/castle-rock-overhauls-water-fees-cuts-costs-for-smaller-homes/",
       "source": "CO Politics",
       "pub_date": "2026-04-23T23:06:19+00:00",
-      "age_hours": 17.887021762777778,
+      "age_hours": 18.81915436138889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Marijuana reclassification to Schedule 3 opens new doors for medical cannabis businesses and researchers",
       "link": "https://www.denver7.com/news/local-news/marijuana-reclassification-to-schedule-3-opens-new-doors-for-medical-cannabis-businesses-and-researchers",
       "source": "Denver7",
       "pub_date": "2026-04-23T22:43:30+00:00",
-      "age_hours": 18.26673326527778,
+      "age_hours": 19.198785219166666,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Federal shift on medical cannabis draws praise and concern in Colorado",
       "link": "https://www.coloradopolitics.com/2026/04/23/federal-shift-on-medical-cannabis-draws-praise-and-concern-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-04-23T20:43:52+00:00",
-      "age_hours": 20.261188454166668,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Panel at Confluence summit to mull data centers\u2019 power, water use",
-      "link": "https://bizwest.com/2026/04/23/panel-at-confluence-summit-to-mull-data-centers-power-water-use/",
-      "source": "BizWest",
-      "pub_date": "2026-04-23T20:31:23+00:00",
-      "age_hours": 20.467395811666666,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Arapahoe Basin announces closing date for longest Colorado ski season",
-      "link": "https://kdvr.com/news/local/arapahoe-basin-plans-to-claim-title-as-last-colorado-ski-area-to-close/",
-      "source": "Fox31",
-      "pub_date": "2026-04-23T19:25:21+00:00",
-      "age_hours": 21.569387606666666,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Vail Resorts visits plummeted in historically \u2018challenging\u2019 winter",
-      "link": "https://bizwest.com/2026/04/23/vail-resorts-visits-plummeted-in-historically-challenging-winter/",
-      "source": "BizWest",
-      "pub_date": "2026-04-23T19:10:11+00:00",
-      "age_hours": 21.820729209166668,
+      "age_hours": 21.193321054444443,
       "breaking": false,
       "time_ago": "21 hrs ago"
     }
