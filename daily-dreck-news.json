@@ -1,51 +1,69 @@
 {
   "fetched_date": "2026-04-24",
-  "fetched_at": "2026-04-24 21:50:29",
+  "fetched_at": "2026-04-24 22:40:37",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Loveland city manager Thompson to retire",
+      "link": "https://bizwest.com/2026/04/24/loveland-city-manager-thompson-to-retire/",
+      "source": "BizWest",
+      "pub_date": "2026-04-24T21:53:18+00:00",
+      "age_hours": 0.7827553475,
+      "breaking": true,
+      "time_ago": "46 min ago"
+    },
+    {
+      "title": "Proposal to use TABOR refunds for education gets preliminary OK in Colorado",
+      "link": "https://www.coloradopolitics.com/2026/04/24/proposal-to-use-tabor-refunds-for-education-gets-preliminary-ok-in-colorado/",
+      "source": "CO Politics",
+      "pub_date": "2026-04-24T21:38:35+00:00",
+      "age_hours": 1.0297495808333335,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Colorado breweries bring home World Beer Cup medals",
       "link": "https://bizwest.com/2026/04/24/colorado-breweries-bring-home-world-beer-cup-medals/",
       "source": "BizWest",
       "pub_date": "2026-04-24T20:51:02+00:00",
-      "age_hours": 0.985381293611111,
+      "age_hours": 1.8205336458333332,
       "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Yes, invasive worms are the latest threat to Colorado. Plus, they jump.",
       "link": "https://coloradosun.com/2026/04/24/asian-jumping-worm-invasive-colorado-gardens/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-24T20:15:15+00:00",
-      "age_hours": 1.5823262444444446,
+      "age_hours": 2.4179695758333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Prescription Drug Take-Back Day: Where to drop-off medication in Denver",
       "link": "https://www.9news.com/article/news/health/prescription-drug-take-back-day-denver-colorado-drop-off/73-f6753cde-c627-4c70-94da-16f9c0437233",
       "source": "9News",
       "pub_date": "2026-04-24T20:09:57+00:00",
-      "age_hours": 1.670702589722222,
+      "age_hours": 2.5063973702777775,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Justice Department joins Elon Musk\u2019s xAI in effort to block Colorado AI antidiscrimination law",
       "link": "https://coloradosun.com/2026/04/24/doj-joins-lawsuit-colorado-ai-law-federal-court/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-24T20:00:56+00:00",
-      "age_hours": 1.8209376575,
+      "age_hours": 2.6565809736111112,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "CITY DESK: Gartrell bridge widening to begin amid lane closures",
       "link": "https://sentinelcolorado.com/sentinel-blogs/sentinel-city-desk/city-desk-briefing-for-and-about-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-04-24T19:44:53+00:00",
-      "age_hours": 2.0894878555555554,
+      "age_hours": 2.924780528888889,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -54,34 +72,34 @@
       "link": "https://kdvr.com/news/local/denver-police-seek-suspect-in-unsolved-2023-double-homicide/",
       "source": "Fox31",
       "pub_date": "2026-04-24T19:15:15+00:00",
-      "age_hours": 2.583010302222222,
+      "age_hours": 3.4183110547222224,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Johnstown agrees to incentives for Boondocks venue",
       "link": "https://bizwest.com/2026/04/24/johnstown-agrees-to-incentives-for-boondocks-venue/",
       "source": "BizWest",
       "pub_date": "2026-04-24T19:15:02+00:00",
-      "age_hours": 2.5853818591666666,
+      "age_hours": 3.42053368,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Boulder airport housing redevelopment plan appears out of runway",
       "link": "https://bizwest.com/2026/04/24/boulder-airport-housing-redevelopment-plan-appears-out-of-runway/",
       "source": "BizWest",
       "pub_date": "2026-04-24T17:56:59+00:00",
-      "age_hours": 3.886215225,
+      "age_hours": 4.721367040277777,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Amid budget cuts, Colorado lawmakers and statewide elected officials are set to get a pay hike next year",
       "link": "https://coloradosun.com/2026/04/24/budget-cuts-colorado-state-elected-officials-pay-increases/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-24T17:47:45+00:00",
-      "age_hours": 4.040660382777777,
+      "age_hours": 4.8763036572222225,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -90,70 +108,70 @@
       "link": "https://coloradosun.com/2026/04/24/behavioral-health-deputy-commissioner-hiring-theft-scheme/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-24T17:18:47+00:00",
-      "age_hours": 4.523438599722222,
+      "age_hours": 5.359081833055555,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver shelter 'overflowing' with cats after animal hoarding investigation",
       "link": "https://www.9news.com/article/life/animals/denver-shelter-cats-animal-hoarding-adoptions/73-38fc1a47-ebf7-4cc3-8c25-7042b29e1a1b",
       "source": "9News",
       "pub_date": "2026-04-24T16:52:00+00:00",
-      "age_hours": 4.969869333888888,
+      "age_hours": 5.805564111111111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Osa the pup seeks forever home while gearing up for Denver's Furry Scurry",
       "link": "https://www.9news.com/article/life/pets/petline9/petline-humane-colorado-osa-dog/73-30c51ea2-9ecc-44b0-b19e-8684145d3701",
       "source": "9News",
       "pub_date": "2026-04-24T16:21:27+00:00",
-      "age_hours": 5.479036045555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.314730821944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Beverage distributor eyes hundreds of Colorado layoffs as rival acquires assets",
       "link": "https://www.9news.com/article/money/business/republic-national-distributing-beverages-layoffs/73-17f29cfd-37f0-4643-bcfe-17e8a9c6d83d",
       "source": "9News",
       "pub_date": "2026-04-24T14:54:33+00:00",
-      "age_hours": 6.927369440555556,
+      "age_hours": 7.763064216111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Overnight maintenance leads to backups at Denver airport trains",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-train-tsa-backup-delays-overnight-maintenance/73-3b4224cc-6289-4886-8af9-69dc6cf4162f",
       "source": "9News",
       "pub_date": "2026-04-24T14:32:46+00:00",
-      "age_hours": 7.290425043333333,
+      "age_hours": 8.126119808333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "New Upscale Restaurant Opening in Former Fruition Space on May 7",
       "link": "https://www.westword.com/food-drink/madeline-quincy-cherrett-new-restaurant-40876559/",
       "source": "Westword",
       "pub_date": "2026-04-24T14:25:34-06:00",
-      "age_hours": 1.4112838230555556,
+      "age_hours": 2.246513895277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Red Rocks adds Beck, Deadmau5 to concert lineup: Here's the summer schedule",
       "link": "https://www.9news.com/article/life/style/colorado-guide/red-rocks-concert-lineup-deadmau5-beck/73-74cc02fb-bb4e-4b3b-8db2-c968fa2f5043",
       "source": "9News",
       "pub_date": "2026-04-24T14:09:56+00:00",
-      "age_hours": 7.670980638611111,
+      "age_hours": 8.506675400277777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Trump calls for Congress to amend hemp ban after marijuana reclassification",
       "link": "https://www.coloradopolitics.com/2026/04/24/trump-calls-for-congress-to-amend-hemp-ban-after-marijuana-reclassification/",
       "source": "CO Politics",
       "pub_date": "2026-04-24T13:40:32+00:00",
-      "age_hours": 8.161967190277778,
+      "age_hours": 8.997249651666667,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -162,27 +180,9 @@
       "link": "https://www.coloradopolitics.com/2026/04/24/the-arts-take-center-stage-at-cbcas-celebratory-luncheon-nonprofit-register/",
       "source": "CO Politics",
       "pub_date": "2026-04-24T11:00:00+00:00",
-      "age_hours": 10.837522846944443,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Colorado cannabis industry leaders, researchers express cautious enthusiasm for rescheduling decision",
-      "link": "https://coloradosun.com/2026/04/24/marijuana-rescheduling-business-research-impacts/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-04-24T09:56:00+00:00",
-      "age_hours": 11.903161269166667,
+      "age_hours": 11.672805290555557,
       "breaking": false,
       "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Though water is scarce right now, its price in parts of Colorado has dropped",
-      "link": "https://coloradosun.com/2026/04/24/colorado-water-prices/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-04-24T09:45:00+00:00",
-      "age_hours": 12.086495028333335,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
     }
   ]
 }
