@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-04-26",
-  "fetched_at": "2026-04-26 21:39:53",
+  "fetched_at": "2026-04-26 22:41:01",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Denver holding mulch and compost giveaway on Saturday",
+      "link": "https://www.9news.com/article/life/home-garden/denver-mulch-compost-giveaway-saturday/73-d73195eb-1d6c-4912-affa-9b1e35672d2e",
+      "source": "9News",
+      "pub_date": "2026-04-26T22:20:43+00:00",
+      "age_hours": 0.33385573333333335,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
     {
       "title": "Fort Collins startup launches patented bra for wearable breast pumps",
       "link": "https://bizwest.com/2026/04/26/fort-collins-startup-launches-patented-bra-for-wearable-breast-pumps/",
       "source": "BizWest",
       "pub_date": "2026-04-26T17:57:54+00:00",
-      "age_hours": 3.694742362222222,
+      "age_hours": 4.713121911388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Historic theater sells to investor planning renovation, neighboring mixed-use project",
       "link": "https://www.9news.com/article/money/business/small-business/historic-theater-sells-to-investor-planning-renovation-neighboring-mixed-use-project/73-eeaa77cf-a92c-4b65-b502-7658e392088d",
       "source": "9News",
       "pub_date": "2026-04-26T13:58:51+00:00",
-      "age_hours": 7.679593547222222,
+      "age_hours": 8.698300243333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Across Colorado, people are fighting for the right to repair their stuff. Where can they go to learn how to do it?",
       "link": "https://coloradosun.com/2026/04/26/colorado-right-to-repair-longmont-repair-cafe/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-26T09:35:00+00:00",
-      "age_hours": 12.076953421666666,
+      "age_hours": 13.095632635555555,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 4.25.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-4-25-26/",
       "source": "Sentinel",
       "pub_date": "2026-04-26T04:46:00+00:00",
-      "age_hours": 16.894233984166664,
+      "age_hours": 17.913206064722225,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "As Denver prepares for scooter transition, outreach efforts aim to keep low-income users from falling through the cracks",
       "link": "https://www.9news.com/article/news/local/as-denver-prepares-for-scooter-transition-outreach-efforts-aim-to-keep-low-income-users-from-falling-through-the-cracks/73-11c13051-ee0f-4733-b37e-92af5901a72a",
       "source": "9News",
       "pub_date": "2026-04-26T01:35:30+00:00",
-      "age_hours": 20.068760305277777,
+      "age_hours": 21.08746696861111,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Denver hotel and nightclub allowed to operate in limited capacity pending hearing",
       "link": "https://www.9news.com/article/money/business/small-business/denver-hotel-nightclub-allowed-to-operate-limited-capacity-pending-hearing/73-0733674a-bccd-47b4-a5ff-2cd0575b238c",
       "source": "9News",
       "pub_date": "2026-04-25T21:05:45+00:00",
-      "age_hours": 24.564593703888885,
+      "age_hours": 25.583300348888887,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://kdvr.com/news/local/denver-police-shoot-allegedly-armed-man-at-apartment-complex-near-denver-tech-center/",
       "source": "Fox31",
       "pub_date": "2026-04-25T16:49:35+00:00",
-      "age_hours": 28.834227355833335,
+      "age_hours": 29.8529638025,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://coloradosun.com/2026/04/25/denver-renters-market-average-rents/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-25T10:00:00+00:00",
-      "age_hours": 35.66028736027778,
+      "age_hours": 36.67896646916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.westword.com/opinion/colorado-bar-owner-cannabis-law-writer-taverns-thc-40876603/",
       "source": "Westword",
       "pub_date": "2026-04-25T08:30:00-06:00",
-      "age_hours": 31.16073767361111,
+      "age_hours": 32.179555255000004,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,16 +99,7 @@
       "link": "https://www.westword.com/opinion/wage-cuts-no-solution-to-rising-denver-restaurant-costs-40876681/",
       "source": "Westword",
       "pub_date": "2026-04-25T08:18:49-06:00",
-      "age_hours": 31.347126576666664,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Union workers at Denver meat processing plant vote to authorize strike",
-      "link": "https://www.9news.com/article/money/business/union-strike-denver-processing-vote/73-05f526fc-8a11-4ad8-8161-89e1e7de38db",
-      "source": "9News",
-      "pub_date": "2026-04-25T04:35:53+00:00",
-      "age_hours": 41.06237155138889,
+      "age_hours": 32.36594415611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://kdvr.com/news/local/women-seek-answers-after-vehicles-totaled-in-denver-parking-garage-collapse/",
       "source": "Fox31",
       "pub_date": "2026-04-25T04:03:42+00:00",
-      "age_hours": 41.598949658888884,
+      "age_hours": 42.61768609027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,16 +117,16 @@
       "link": "https://bizwest.com/2026/04/24/loveland-city-manager-thompson-to-retire/",
       "source": "BizWest",
       "pub_date": "2026-04-24T21:53:18+00:00",
-      "age_hours": 47.77140954027778,
+      "age_hours": 48.78978897444445,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Proposal to use TABOR refunds for education gets preliminary OK in Colorado",
       "link": "https://www.coloradopolitics.com/2026/04/24/proposal-to-use-tabor-refunds-for-education-gets-preliminary-ok-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-04-24T21:38:35+00:00",
-      "age_hours": 48.01782527305555,
+      "age_hours": 49.0367453375,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/04/24/colorado-breweries-bring-home-world-beer-cup-medals/",
       "source": "BizWest",
       "pub_date": "2026-04-24T20:51:02+00:00",
-      "age_hours": 48.809187352777776,
+      "age_hours": 49.82756677722222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://sentinelcolorado.com/sentinel-blogs/sentinel-city-desk/city-desk-briefing-for-and-about-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-04-24T19:44:53+00:00",
-      "age_hours": 49.912845525277774,
+      "age_hours": 50.9318175,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://kdvr.com/news/local/denver-police-seek-suspect-in-unsolved-2023-double-homicide/",
       "source": "Fox31",
       "pub_date": "2026-04-24T19:15:15+00:00",
-      "age_hours": 50.406449718333334,
+      "age_hours": 51.425186131388884,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://bizwest.com/2026/04/24/johnstown-agrees-to-incentives-for-boondocks-venue/",
       "source": "BizWest",
       "pub_date": "2026-04-24T19:15:02+00:00",
-      "age_hours": 50.40918738416667,
+      "age_hours": 51.4275668,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/04/24/boulder-airport-housing-redevelopment-plan-appears-out-of-runway/",
       "source": "BizWest",
       "pub_date": "2026-04-24T17:56:59+00:00",
-      "age_hours": 51.710020748055555,
+      "age_hours": 52.728400155277775,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.westword.com/food-drink/madeline-quincy-cherrett-new-restaurant-40876559/",
       "source": "Westword",
       "pub_date": "2026-04-24T14:25:34-06:00",
-      "age_hours": 49.23462670194444,
+      "age_hours": 50.25344424694444,
       "breaking": false,
       "time_ago": "2 days ago"
     }
