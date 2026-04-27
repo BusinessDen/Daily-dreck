@@ -1,114 +1,159 @@
 {
   "fetched_date": "2026-04-27",
-  "fetched_at": "2026-04-27 21:27:06",
+  "fetched_at": "2026-04-27 22:21:26",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Auddia stock tumbles after pricing stock sale",
+      "link": "https://bizwest.com/2026/04/27/auddia-stock-tumbles-after-pricing-stock-sale/",
+      "source": "BizWest",
+      "pub_date": "2026-04-27T21:56:16+00:00",
+      "age_hours": 0.4143370155555556,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
+    {
+      "title": "Longmont business park sells for $37.5M",
+      "link": "https://bizwest.com/2026/04/27/longmont-business-park-sells-for-37-5m/",
+      "source": "BizWest",
+      "pub_date": "2026-04-27T21:50:02+00:00",
+      "age_hours": 0.5182259363888889,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "Aurora officials to discuss rules to curb profanity, personal attacks at meetings",
+      "link": "https://sentinelcolorado.com/metro/aurora-officials-to-discuss-rules-to-curb-profanity-personal-attacks-at-meetings/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-27T21:43:34+00:00",
+      "age_hours": 0.6270088730555555,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Shake Shack opening Fort Collins burger joint in May at Foothills",
+      "link": "https://bizwest.com/2026/04/27/shake-shack-opening-fort-collins-burger-joint-in-may-at-foothills/",
+      "source": "BizWest",
+      "pub_date": "2026-04-27T21:42:08+00:00",
+      "age_hours": 0.6498926163888888,
+      "breaking": true,
+      "time_ago": "38 min ago"
+    },
+    {
+      "title": "ALDI to remove another 44 ingredients from products",
+      "link": "https://www.9news.com/article/news/nation-world/aldi-remove-44-ingredients-from-products/507-c657ee04-912e-4715-be94-e67697cb6acd",
+      "source": "9News",
+      "pub_date": "2026-04-27T21:27:44+00:00",
+      "age_hours": 0.8904275630555556,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
     {
       "title": "Evergreen Real Estate Group Completes Affordable Rifle Apartments",
       "link": "https://milehighcre.com/evergreen-real-estate-group-completes-affordable-rifle-apartments/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-27T19:30:44+00:00",
-      "age_hours": 1.9344168158333335,
+      "age_hours": 2.8402434377777777,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Business Buzz: The rise of social entrepreneurship and new SBA capital for manufacturers",
       "link": "https://www.9news.com/article/money/business-brief/business-buzz/73-d4b9f984-8bf0-4e19-8357-1b2adda46a3c",
       "source": "9News",
       "pub_date": "2026-04-27T17:51:32+00:00",
-      "age_hours": 3.587959423611111,
+      "age_hours": 4.493760974722222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Madeline Opens May 7 in Denver\u2019s Former Fruition Space",
       "link": "https://milehighcre.com/madeline-opens-may-7-in-denvers-former-fruition-space/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-27T17:50:04+00:00",
-      "age_hours": 3.6121946116666668,
+      "age_hours": 4.518021233333333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Re/Max being acquired, headquarters to leave Colorado",
       "link": "https://www.9news.com/article/money/markets/real-estate/remax-headquarters-leaving-colorado/73-7d0e10d2-ae09-4ccd-84ea-8dc53ab4255e",
       "source": "9News",
       "pub_date": "2026-04-27T17:03:55+00:00",
-      "age_hours": 4.381570593055556,
+      "age_hours": 5.287372132222222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Continuum Partners Acquiring San Francisco\u2019s Ghirardelli Square",
       "link": "https://milehighcre.com/continuum-partners-acquiring-san-franciscos-ghirardelli-square/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-27T17:01:03+00:00",
-      "age_hours": 4.429139336944444,
+      "age_hours": 5.334965971111111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Old Town Churn, Constellation, Sweet Cooie's ice cream shops to be rebranded",
       "link": "https://www.9news.com/article/life/style/colorado-guide/old-town-churn-constellation-sweet-cooies-little-man-ice-cream/73-1e78c41d-33f6-4dd2-aff1-fad288eb7800",
       "source": "9News",
       "pub_date": "2026-04-27T16:18:06+00:00",
-      "age_hours": 5.1451817275,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.050983258888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "More homeowners giving up ultra-low mortgage rates and entering housing market",
       "link": "https://www.9news.com/article/money/markets/real-estate/homeowners-ultra-low-mortgage-rates/73-fcf22f42-3dc1-4787-99ed-ec4622d4259b",
       "source": "9News",
       "pub_date": "2026-04-27T14:41:19+00:00",
-      "age_hours": 6.758237348055555,
+      "age_hours": 7.664038875555556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Greeley to get update on Catalyst financials",
       "link": "https://bizwest.com/2026/04/27/greeley-to-get-update-on-catalyst-financials/",
       "source": "BizWest",
       "pub_date": "2026-04-27T14:32:04+00:00",
-      "age_hours": 6.911690093333333,
+      "age_hours": 7.817671437777777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Union authorizes strike at JBS subsidiary",
       "link": "https://bizwest.com/2026/04/27/union-authorizes-strike-at-jbs-subsidiary/",
       "source": "BizWest",
       "pub_date": "2026-04-27T14:19:18+00:00",
-      "age_hours": 7.124468423611111,
+      "age_hours": 8.030449291111111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "BizWest wins 4 regional journalism awards",
       "link": "https://bizwest.com/2026/04/27/bizwest-wins-4-regional-journalism-awards-2/",
       "source": "BizWest",
       "pub_date": "2026-04-27T13:59:34+00:00",
-      "age_hours": 7.453357343611112,
+      "age_hours": 8.359338236944446,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Dutch Bros. proposes new Denver drive-thru location",
       "link": "https://www.9news.com/article/money/business/dutch-bros-new-denver-location/73-f1a5b4e8-d763-47cf-9b8e-e80d33a95a8b",
       "source": "9News",
       "pub_date": "2026-04-27T13:31:01+00:00",
-      "age_hours": 7.9299040311111115,
+      "age_hours": 8.835705558333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "G-Que Barbeque opens first northern Colorado location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/gque-barbeque-fort-collins/73-5e863f18-8f03-4ea4-864d-9f5999441453",
       "source": "9News",
       "pub_date": "2026-04-27T13:25:54+00:00",
-      "age_hours": 8.015181845833332,
+      "age_hours": 8.920983369166667,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -117,72 +162,27 @@
       "link": "https://www.bisnow.com/national/news/commercial-real-estate/the-real-brokerage-acquire-remax-holdings-550m-deal-134300",
       "source": "Bisnow",
       "pub_date": "2026-04-27T12:31:12-04:00",
-      "age_hours": 4.926453230277779,
+      "age_hours": 5.832250736111111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Fuel truck on fire closes Santa Fe Drive south of Denver",
-      "link": "https://kdvr.com/news/local/fuel-truck-on-fire-closes-santa-fe-drive-south-of-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-04-27T12:13:16+00:00",
-      "age_hours": 9.226022390833334,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "New Harvey Park Farmers Market brings fresh food and ghost kitchen chefs to southwest Denver community",
       "link": "https://www.denver7.com/lifestyle/food/new-harvey-park-farmers-markets-brings-fresh-food-and-ghost-kitchen-chefs-to-southwest-denver-community",
       "source": "Denver7",
       "pub_date": "2026-04-27T11:55:21+00:00",
-      "age_hours": 9.524481906388889,
+      "age_hours": 10.430282550000001,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver shelter 'overflowing' with cats after animal hoarding investigation",
       "link": "https://www.9news.com/article/life/animals/denver-shelter-cats-animal-hoarding-adoptions/73-38fc1a47-ebf7-4cc3-8c25-7042b29e1a1b",
       "source": "9News",
       "pub_date": "2026-04-27T10:28:44+00:00",
-      "age_hours": 10.967959649166666,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "As AI license plate readers spread across Colorado, grassroots movements push back",
-      "link": "https://coloradosun.com/2026/04/27/ai-license-plate-readers-flock-colorado-grassroots-movements-push-back/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-04-27T10:15:00+00:00",
-      "age_hours": 11.196716174166665,
+      "age_hours": 11.873761165555557,
       "breaking": false,
       "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Liability waivers return to the Colorado Supreme Court with justices exploring the language in season ski pass agreements",
-      "link": "https://coloradosun.com/2026/04/27/ski-pass-waivers/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-04-27T09:45:00+00:00",
-      "age_hours": 11.69671668,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver tattoo artist finds strength at shop after losing home to fire",
-      "link": "https://www.9news.com/article/life/denver-tattoo-artist-finds-strength-at-shop-after-losing-home-to-fire/73-66e523ba-df98-4f02-aa32-f4086e5c8b4e",
-      "source": "9News",
-      "pub_date": "2026-04-27T03:33:27+00:00",
-      "age_hours": 17.88934859638889,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Denver business owners fear cultural loss as historic Asia Center redevelopment looms",
-      "link": "https://www.denver7.com/news/local-news/denver-business-owners-fear-cultural-loss-as-historic-asia-center-redevelopment-looms",
-      "source": "Denver7",
-      "pub_date": "2026-04-26T23:27:03+00:00",
-      "age_hours": 21.996148648055556,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
     }
   ]
 }
