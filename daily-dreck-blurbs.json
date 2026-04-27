@@ -1,23 +1,23 @@
 {
-  "generated_date": "2026-04-26",
-  "lead_headline": "Liquor applications surge 800% week-over-week to 248 filings as subscribers climb +14 in 7 days, reversing April's mid-month stall",
+  "generated_date": "2026-04-27",
+  "lead_headline": "Weekend restaurant sweep nets 4 new leads \u2014 Vaultaire, FiNO, and Chick-fil-A debut alongside closures in RiNo and Highlands",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero leads today</strong> keeps pipeline stable at 122 (64 openings, 58 closures). Yesterday's batch included Maryjane's Hideaway (Edgewater bar), Olive & Finch (Golden Triangle), HOTDOG & JUICY (Southwest Plaza Korean street food).",
+      "blurb": "<strong>4 leads since Friday</strong>: Vaultaire (subterranean HiFi bar beneath La For\u00eat), FiNO (Mediterranean tapas at renovated All Inn Hotel), Chick-fil-A (drive-thru-only at Central Park), Dumplin' (Highlands closure after 1.5 years).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+3",
         "label2": "closed",
-        "value2": "0",
-        "period": "today"
+        "value2": "\u22121",
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "64",
         "label2": "closed",
         "value2": "58",
-        "period": "all leads"
+        "period": "this week"
       }
     },
     "foreclosure": {
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>189 applications today</strong> \u2014 the largest single-day dump in tracker history \u2014 catapults the 7-day total to 248, an 1,081% surge from last week's 21 filings. Today's deluge includes Maize Rino (3455 Ringsby Ct, Hotel & Restaurant), Dear Emilia (3615 Delgany St), Olive & Finch (1552 E 17th Ave), and Pure Food Inc (1400 Wewatta St). The 189-count shatters all prior records as what appears to be a mass database sync or annual renewal batch floods the system, dwarfing April's previous high-water marks and erasing weekend's zero-filing drought in spectacular fashion.",
+      "blurb": "<strong>189 new applications today</strong> sustains the week's historic flood at 248 total \u2014 the system's largest-ever 7-day haul. Today's batch features Maize Rino (3455 Ringsby Ct, Hotel & Restaurant for Michelin-starred chef Johnny Curiel), Dear Emilia (3615 Delgany St), Olive & Finch's fifth location (1552 E 17th Ave), and Pure Food Inc (1400 Wewatta St). The 248-count represents an 1,081% surge versus last week's 21 filings, confirming Friday-Saturday's deluge wasn't a fluke but rather an ongoing mass renewal or database sync event reshaping April's liquor landscape.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,17 +59,17 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>6 mentions yesterday</strong> (all from Google News RSS) holds 7-day total at 52 across 10 sources \u2014 up 18% from last week's 44 and marking three consecutive days of elevated pickup activity. Instagram (12) leads weekly sources ahead of Facebook (9), X.com (7), Reddit (6), and Denver Post (5). Recent coverage spans Museum of Ice Cream loan rejection (Hoodline, Denver Post), Bottom Creek Brewery announcement (Facebook), and downtown development buzz (Reddit). The sustained 52-mention pace confirms media interest has stabilized after March-April's decline, with social platforms driving week-over-week growth.",
+      "blurb": "<strong>1 mention yesterday</strong> from Google News RSS holds the 7-day count at 51 across 10 sources \u2014 up 13% from last week's 45 and maintaining April's late-month pickup momentum. Instagram (11) edges Facebook (9) as top weekly sources, followed by X.com (7), Reddit (6), and Denver Post (5). Notable weekend coverage included Threads post from Denver Post, Hoodline's Museum of Ice Cream piece, and Facebook buzz about Bottom Creek Brewery. The 51-mention pace confirms media interest has stabilized after Q1's decline, with social platforms anchoring week-over-week growth as April closes.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "6",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "52",
+        "value1": "51",
         "class1": "up",
         "label2": "sources",
         "value2": "10",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) edges MTD to +32 (+1.3/day) with 90-day net at +137. The week's +14 net (27 new, 13 canceled) maintains last week's +15 momentum, confirming late-April conversions have escaped mid-month's flatline. April 22's +8 single-day spike anchored the rally, while recent days show steadier +1-2 daily gains. MTD's +1.3/day clip still trails YTD's +1.4/day baseline slightly, but consecutive strong weeks signal month-end could close the gap as April sheds earlier underperformance.",
+      "blurb": "<strong>Net +3 since Friday</strong> (4 new, 1 canceled) pushes MTD to +32 (+1.2/day) with 90-day net climbing to +137. The weekend's modest gains extend April's late-month rally: the 7-day total now stands at +14 net (26 new, 12 canceled), matching last week's +15 performance and confirming conversions have escaped mid-April's flatline. Recent pattern shows steadier +1-2 daily gains replacing mid-month volatility, though MTD's +1.2/day pace still trails YTD's +1.4/day baseline slightly. Two consecutive strong weeks suggest April could close the gap as month-end approaches.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "32",
       "net_ytd": "163",
-      "net_mtd_per_day": "1.3",
+      "net_mtd_per_day": "1.2",
       "net_ytd_per_day": "1.4",
-      "annual_mtd": "26",
-      "annual_ytd": "132",
-      "monthly_mtd": "6",
-      "monthly_ytd": "31"
+      "annual_mtd": "28",
+      "annual_ytd": "142",
+      "monthly_mtd": "4",
+      "monthly_ytd": "21"
     }
   }
 }
