@@ -1,78 +1,78 @@
 {
   "fetched_date": "2026-04-27",
-  "fetched_at": "2026-04-27 05:10:13",
+  "fetched_at": "2026-04-27 07:01:36",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 2,
   "articles": [
     {
       "title": "Denver tattoo artist finds strength at shop after losing home to fire",
       "link": "https://www.9news.com/article/life/denver-tattoo-artist-finds-strength-at-shop-after-losing-home-to-fire/73-66e523ba-df98-4f02-aa32-f4086e5c8b4e",
       "source": "9News",
       "pub_date": "2026-04-27T03:33:27+00:00",
-      "age_hours": 1.6077444247222221,
+      "age_hours": 3.4649278411111113,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Sentinel journalists win top awards for news, sports and opinion coverage in Aurora",
       "link": "https://sentinelcolorado.com/metro/sentinel-journalists-win-top-awards-for-news-sports-and-opinion-coverage-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-04-27T02:52:04+00:00",
-      "age_hours": 2.298185541388889,
+      "age_hours": 4.155025163333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "MSU Denver students launch sustainability AI platform to answer Colorado drought questions",
       "link": "https://www.9news.com/article/tech/msu-denver-students-launch-sustainability-ai-platform/73-b9492936-f972-4c2a-ba72-27417f08736c",
       "source": "9News",
       "pub_date": "2026-04-27T00:20:18+00:00",
-      "age_hours": 4.8269112,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.684094567777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver holding mulch and compost giveaway on Saturday",
       "link": "https://www.9news.com/article/life/home-garden/denver-mulch-compost-giveaway-saturday/73-d73195eb-1d6c-4912-affa-9b1e35672d2e",
       "source": "9News",
       "pub_date": "2026-04-26T22:20:43+00:00",
-      "age_hours": 6.819966824444444,
+      "age_hours": 8.677150165833334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Fort Collins startup launches patented bra for wearable breast pumps",
       "link": "https://bizwest.com/2026/04/26/fort-collins-startup-launches-patented-bra-for-wearable-breast-pumps/",
       "source": "BizWest",
       "pub_date": "2026-04-26T17:57:54+00:00",
-      "age_hours": 11.199617375833334,
+      "age_hours": 13.056360386388889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Historic theater sells to investor planning renovation, neighboring mixed-use project",
       "link": "https://www.9news.com/article/money/business/small-business/historic-theater-sells-to-investor-planning-renovation-neighboring-mixed-use-project/73-eeaa77cf-a92c-4b65-b502-7658e392088d",
       "source": "9News",
       "pub_date": "2026-04-26T13:58:51+00:00",
-      "age_hours": 15.184411385555554,
+      "age_hours": 17.04159468361111,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Across Colorado, people are fighting for the right to repair their stuff. Where can they go to learn how to do it?",
       "link": "https://coloradosun.com/2026/04/26/colorado-right-to-repair-longmont-repair-cafe/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-26T09:35:00+00:00",
-      "age_hours": 19.581754605833336,
+      "age_hours": 21.439000364166667,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "As Denver prepares for scooter transition, outreach efforts aim to keep low-income users from falling through the cracks",
       "link": "https://www.9news.com/article/news/local/as-denver-prepares-for-scooter-transition-outreach-efforts-aim-to-keep-low-income-users-from-falling-through-the-cracks/73-11c13051-ee0f-4733-b37e-92af5901a72a",
       "source": "9News",
       "pub_date": "2026-04-26T01:35:30+00:00",
-      "age_hours": 27.573578206388888,
+      "age_hours": 29.430761427777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://www.9news.com/article/money/business/small-business/denver-hotel-nightclub-allowed-to-operate-limited-capacity-pending-hearing/73-0733674a-bccd-47b4-a5ff-2cd0575b238c",
       "source": "9News",
       "pub_date": "2026-04-25T21:05:45+00:00",
-      "age_hours": 32.06941166055556,
+      "age_hours": 33.92659482416666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://kdvr.com/news/local/denver-police-shoot-allegedly-armed-man-at-apartment-complex-near-denver-tech-center/",
       "source": "Fox31",
       "pub_date": "2026-04-25T16:49:35+00:00",
-      "age_hours": 36.339165181666665,
+      "age_hours": 38.19612800583333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://coloradosun.com/2026/04/25/denver-renters-market-average-rents/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-25T10:00:00+00:00",
-      "age_hours": 43.165088545555555,
+      "age_hours": 45.02233431166667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://www.westword.com/opinion/colorado-bar-owner-cannabis-law-writer-taverns-thc-40876603/",
       "source": "Westword",
       "pub_date": "2026-04-25T08:30:00-06:00",
-      "age_hours": 38.66575131638889,
+      "age_hours": 40.522618585555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://www.westword.com/opinion/wage-cuts-no-solution-to-rising-denver-restaurant-costs-40876681/",
       "source": "Westword",
       "pub_date": "2026-04-25T08:18:49-06:00",
-      "age_hours": 38.85214021972222,
+      "age_hours": 40.709007491111116,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://bizwest.com/2026/04/24/loveland-city-manager-thompson-to-retire/",
       "source": "BizWest",
       "pub_date": "2026-04-24T21:53:18+00:00",
-      "age_hours": 55.27628459111111,
+      "age_hours": 57.13302761,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://www.coloradopolitics.com/2026/04/24/proposal-to-use-tabor-refunds-for-education-gets-preliminary-ok-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-04-24T21:38:35+00:00",
-      "age_hours": 55.52287286916667,
+      "age_hours": 57.379720802499996,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://bizwest.com/2026/04/24/colorado-breweries-bring-home-world-beer-cup-medals/",
       "source": "BizWest",
       "pub_date": "2026-04-24T20:51:02+00:00",
-      "age_hours": 56.31406240194444,
+      "age_hours": 58.17080542111111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/04/24/johnstown-agrees-to-incentives-for-boondocks-venue/",
       "source": "BizWest",
       "pub_date": "2026-04-24T19:15:02+00:00",
-      "age_hours": 57.91406243138889,
+      "age_hours": 59.770805457222224,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://bizwest.com/2026/04/24/boulder-airport-housing-redevelopment-plan-appears-out-of-runway/",
       "source": "BizWest",
       "pub_date": "2026-04-24T17:56:59+00:00",
-      "age_hours": 59.214895793888886,
+      "age_hours": 61.07163882,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.westword.com/food-drink/madeline-quincy-cherrett-new-restaurant-40876559/",
       "source": "Westword",
       "pub_date": "2026-04-24T14:25:34-06:00",
-      "age_hours": 56.73964034555556,
+      "age_hours": 58.596507629166666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/04/24/trump-calls-for-congress-to-amend-hemp-ban-after-marijuana-reclassification/",
       "source": "CO Politics",
       "pub_date": "2026-04-24T13:40:32+00:00",
-      "age_hours": 63.490372926388886,
+      "age_hours": 65.34722085916667,
       "breaking": false,
       "time_ago": "2 days ago"
     }
