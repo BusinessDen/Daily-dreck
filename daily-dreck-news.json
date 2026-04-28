@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-28",
-  "fetched_at": "2026-04-28 01:40:15",
+  "fetched_at": "2026-04-28 03:12:22",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Denver may let nightclubs stay open later, but leaves last call unchanged",
+      "link": "https://www.9news.com/article/news/local/denver-nightclubs-may-stay-open-later/73-5c2521fb-9c25-4789-be34-256c0bd0f87f",
+      "source": "9News",
+      "pub_date": "2026-04-28T02:51:38+00:00",
+      "age_hours": 0.3406062813888889,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Denver proposes 4 a.m. closing time for bars",
+      "link": "https://kdvr.com/news/local/denver-proposes-4-a-m-closing-time-for-bars/",
+      "source": "Fox31",
+      "pub_date": "2026-04-28T02:15:51+00:00",
+      "age_hours": 0.9371966844444445,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
+    {
+      "title": "New scooter contract approved by Denver City Council after weeks of delays and scrutiny",
+      "link": "https://www.9news.com/article/news/local/veo-scooter-contract-approved-denver/73-56b789d0-d561-4605-990f-c0e26ee054d7",
+      "source": "9News",
+      "pub_date": "2026-04-28T02:05:26+00:00",
+      "age_hours": 1.1106063519444445,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver City Council to vote on data center moratorium as Elyria-Swansea neighborhood fights new facility",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-city-council-data-center-moratorium-elyria-swansea-neighborhood/73-afe1178e-9c39-45e9-97dd-5403018b8eb8",
       "source": "9News",
       "pub_date": "2026-04-28T00:58:11+00:00",
-      "age_hours": 0.6963615861111111,
+      "age_hours": 2.2314397494444447,
       "breaking": true,
-      "time_ago": "41 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Pausing and regulating; Next with Kyle Clark full show (4/27/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/pausing-and-regulating-next-with-kyle-clark-full-show-42726/73-7791df94-94b4-4298-aadd-e02e8a185b62",
       "source": "9News",
       "pub_date": "2026-04-28T00:53:23+00:00",
-      "age_hours": 0.7763616000000001,
+      "age_hours": 2.311439758888889,
       "breaking": true,
-      "time_ago": "46 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Lawsuit says Albertsons, Safeway BOGO deals cost shoppers millions",
       "link": "https://www.9news.com/article/news/nation-world/safeway-albertsons-haggen-grocery-lawsuit-washington-bogo-deals/507-4a0c6ea1-8c14-4b1c-b845-95b9328dc4d9",
       "source": "9News",
       "pub_date": "2026-04-28T00:50:30+00:00",
-      "age_hours": 0.8244172194444443,
+      "age_hours": 2.3594953705555555,
       "breaking": true,
-      "time_ago": "49 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Wren Kitchens abruptly closes all showrooms in the US",
       "link": "https://www.9news.com/article/news/nation-world/wren-kitchens-closes-all-usa-showrooms-layoffs/507-44cd504a-2142-4bb2-abaf-9cc9f9f62f8e",
       "source": "9News",
       "pub_date": "2026-04-27T23:06:05+00:00",
-      "age_hours": 2.564695035,
+      "age_hours": 4.099773184722222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Some Denver metro stations already topping $4 a gallon as prices rise 7 cents in a week",
       "link": "https://kdvr.com/news/local/some-denver-metro-stations-already-topping-4-a-gallon-as-prices-rise-7-cents-in-a-week/",
       "source": "Fox31",
       "pub_date": "2026-04-27T22:52:17+00:00",
-      "age_hours": 2.794970969722222,
+      "age_hours": 4.329974555555555,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Re/Max being acquired, headquarters to leave Colorado",
       "link": "https://www.9news.com/article/money/markets/real-estate/remax-headquarters-leaving-colorado/73-7d0e10d2-ae09-4ccd-84ea-8dc53ab4255e",
       "source": "9News",
       "pub_date": "2026-04-27T22:40:08+00:00",
-      "age_hours": 2.997195076666667,
+      "age_hours": 4.532273221944444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Auddia stock tumbles after pricing stock sale",
       "link": "https://bizwest.com/2026/04/27/auddia-stock-tumbles-after-pricing-stock-sale/",
       "source": "BizWest",
       "pub_date": "2026-04-27T21:56:16+00:00",
-      "age_hours": 3.7277272994444446,
+      "age_hours": 5.262916873333333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Longmont business park sells for $37.5M",
       "link": "https://bizwest.com/2026/04/27/longmont-business-park-sells-for-37-5m/",
       "source": "BizWest",
       "pub_date": "2026-04-27T21:50:02+00:00",
-      "age_hours": 3.831616206111111,
+      "age_hours": 5.366805781388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aurora officials to discuss rules to curb profanity, personal attacks at meetings",
       "link": "https://sentinelcolorado.com/metro/aurora-officials-to-discuss-rules-to-curb-profanity-personal-attacks-at-meetings/",
       "source": "Sentinel",
       "pub_date": "2026-04-27T21:43:34+00:00",
-      "age_hours": 3.9406742775,
+      "age_hours": 5.475643071944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Shake Shack opening Fort Collins burger joint in May at Foothills",
       "link": "https://bizwest.com/2026/04/27/shake-shack-opening-fort-collins-burger-joint-in-may-at-foothills/",
       "source": "BizWest",
       "pub_date": "2026-04-27T21:42:08+00:00",
-      "age_hours": 3.963282879722222,
+      "age_hours": 5.498472455,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "ALDI to remove another 44 ingredients from products",
       "link": "https://www.9news.com/article/news/nation-world/aldi-remove-44-ingredients-from-products/507-c657ee04-912e-4715-be94-e67697cb6acd",
       "source": "9News",
       "pub_date": "2026-04-27T21:27:44+00:00",
-      "age_hours": 4.203861761944444,
+      "age_hours": 5.738939907222222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Evergreen Real Estate Group Completes Affordable Rifle Apartments",
       "link": "https://milehighcre.com/evergreen-real-estate-group-completes-affordable-rifle-apartments/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-27T19:30:44+00:00",
-      "age_hours": 6.153705750277778,
+      "age_hours": 7.688866536388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Business Buzz: The rise of social entrepreneurship and new SBA capital for manufacturers",
       "link": "https://www.9news.com/article/money/business-brief/business-buzz/73-d4b9f984-8bf0-4e19-8357-1b2adda46a3c",
       "source": "9News",
       "pub_date": "2026-04-27T17:51:32+00:00",
-      "age_hours": 7.807195145,
+      "age_hours": 9.342273289722222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Madeline Opens May 7 in Denver\u2019s Former Fruition Space",
       "link": "https://milehighcre.com/madeline-opens-may-7-in-denvers-former-fruition-space/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-27T17:50:04+00:00",
-      "age_hours": 7.831483546944444,
+      "age_hours": 9.366644333333333,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "What\u2019s in a Name? Curiels Update (Again) Upcoming Tasting Menu Project Title",
       "link": "https://www.westword.com/food-drink/curiels-update-upcoming-tasting-menu-project-title-40878552/",
       "source": "Westword",
       "pub_date": "2026-04-27T17:29:04-06:00",
-      "age_hours": 2.1821457886111113,
+      "age_hours": 3.7170235830555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Continuum Partners Acquiring San Francisco\u2019s Ghirardelli Square",
       "link": "https://milehighcre.com/continuum-partners-acquiring-san-franciscos-ghirardelli-square/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-27T17:01:03+00:00",
-      "age_hours": 8.648428275833334,
+      "age_hours": 10.183589055555554,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Old Town Churn, Constellation, Sweet Cooie's ice cream shops to be rebranded",
       "link": "https://www.9news.com/article/life/style/colorado-guide/old-town-churn-constellation-sweet-cooies-little-man-ice-cream/73-1e78c41d-33f6-4dd2-aff1-fad288eb7800",
       "source": "9News",
       "pub_date": "2026-04-27T16:18:06+00:00",
-      "age_hours": 9.36441741888889,
+      "age_hours": 10.899495571388888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Greeley to get update on Catalyst financials",
-      "link": "https://bizwest.com/2026/04/27/greeley-to-get-update-on-catalyst-financials/",
-      "source": "BizWest",
-      "pub_date": "2026-04-27T14:32:04+00:00",
-      "age_hours": 11.131061219166666,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Union authorizes strike at JBS subsidiary",
-      "link": "https://bizwest.com/2026/04/27/union-authorizes-strike-at-jbs-subsidiary/",
-      "source": "BizWest",
-      "pub_date": "2026-04-27T14:19:18+00:00",
-      "age_hours": 11.343839031666667,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "BizWest wins 4 regional journalism awards",
-      "link": "https://bizwest.com/2026/04/27/bizwest-wins-4-regional-journalism-awards-2/",
-      "source": "BizWest",
-      "pub_date": "2026-04-27T13:59:34+00:00",
-      "age_hours": 11.672727949444443,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
