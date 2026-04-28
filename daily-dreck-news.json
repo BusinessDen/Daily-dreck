@@ -1,51 +1,87 @@
 {
   "fetched_date": "2026-04-28",
-  "fetched_at": "2026-04-28 15:52:35",
+  "fetched_at": "2026-04-28 16:40:44",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "Shaboozey announces Red Rocks tour stop: Here's the summer concert schedule",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/shaboozey-red-rocks-concert-summer-schedule/73-2450556a-7149-4048-985f-98e124eb40e0",
+      "source": "9News",
+      "pub_date": "2026-04-28T16:13:26+00:00",
+      "age_hours": 0.4502831333333333,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "Douglas County steakhouse reopening after electrical fire",
+      "link": "https://www.9news.com/article/money/business/jacks-modern-steakhouse-reopening-fire/73-9e57cb39-37b0-4d11-a658-7a5ed658efe2",
+      "source": "9News",
+      "pub_date": "2026-04-28T16:06:30+00:00",
+      "age_hours": 0.5658387,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
+    {
+      "title": "Colorado CRE Hits Sustainability Turning Point",
+      "link": "https://milehighcre.com/colorado-cre-hits-sustainability-turning-point/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-04-28T16:00:00+00:00",
+      "age_hours": 0.6735976833333334,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Colorado Pint Day: Where to get a collectible pint glass",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-pint-day-collectible-glass-2026/73-1f146d0d-f308-4f40-986b-968934734f9b",
+      "source": "9News",
+      "pub_date": "2026-04-28T15:59:16+00:00",
+      "age_hours": 0.6863943019444445,
+      "breaking": true,
+      "time_ago": "41 min ago"
+    },
+    {
+      "title": "Marczyk Mighty Market Now Open at Denver Milk Market",
+      "link": "https://milehighcre.com/marczyk-mighty-market-now-open-at-denver-milk-market/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-04-28T15:53:38+00:00",
+      "age_hours": 0.7797088191666666,
+      "breaking": true,
+      "time_ago": "46 min ago"
+    },
     {
       "title": "'Lamar's Wish': CSU students invent sensory device for teen with cerebral palsy",
       "link": "https://www.9news.com/article/life/local-life/colorado-state-students-invent-sensory-toy/73-4f341be2-df75-4e90-9b77-2b2c7627c5d6",
       "source": "9News",
       "pub_date": "2026-04-28T15:20:11+00:00",
-      "age_hours": 0.5357413452777777,
+      "age_hours": 1.337783241388889,
       "breaking": true,
-      "time_ago": "32 min ago"
-    },
-    {
-      "title": "Shaboozey announces Red Rocks tour stop: Here's the summer concert schedule",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/shaboozey-red-rocks-concert-summer-schedule/73-2450556a-7149-4048-985f-98e124eb40e0",
-      "source": "9News",
-      "pub_date": "2026-04-28T14:59:16+00:00",
-      "age_hours": 0.8843525319444445,
-      "breaking": true,
-      "time_ago": "53 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Mile High Asian Food Week: Where to get restaurant specials and promotions",
       "link": "https://www.9news.com/article/news/community/asian-pacific-american-heritage/mile-high-asian-food-week/73-b4e4412b-0b24-4daa-9314-69af8408d49a",
       "source": "9News",
       "pub_date": "2026-04-28T14:38:25+00:00",
-      "age_hours": 1.2318525380555556,
+      "age_hours": 2.033894412777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Aurora lawmakers creating rules to curb profanity, personal attacks at meetings",
       "link": "https://sentinelcolorado.com/metro/aurora-officials-to-discuss-rules-to-curb-profanity-personal-attacks-at-meetings/",
       "source": "Sentinel",
       "pub_date": "2026-04-28T14:01:34+00:00",
-      "age_hours": 1.846509098611111,
+      "age_hours": 2.648577773055556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Larimer County posts lowest jobless rate in region",
       "link": "https://bizwest.com/2026/04/28/larimer-county-posts-lowest-jobless-rate-in-region/",
       "source": "BizWest",
       "pub_date": "2026-04-28T13:48:09+00:00",
-      "age_hours": 2.0690090422222225,
+      "age_hours": 2.8706739897222224,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -54,16 +90,16 @@
       "link": "https://bizwest.com/2026/04/28/old-town-churn-rebrands-as-little-man-in-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-04-28T13:35:25+00:00",
-      "age_hours": 2.2812318341666664,
+      "age_hours": 3.0828967144444444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "UNC, downtown Greeley partner for Friday concert",
       "link": "https://bizwest.com/2026/04/28/unc-downtown-greeley-partner-for-friday-concert/",
       "source": "BizWest",
       "pub_date": "2026-04-28T12:44:27+00:00",
-      "age_hours": 3.130676315833333,
+      "age_hours": 3.9323411941666664,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -72,16 +108,7 @@
       "link": "https://www.denver7.com/lifestyle/food/mile-high-asian-food-week-returns-for-fourth-and-biggest-year-yet",
       "source": "Denver7",
       "pub_date": "2026-04-28T12:00:00+00:00",
-      "age_hours": 3.8723220824999998,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Colorado Pint Day: Where to get a collectible pint glass",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-pint-day-collectible-glass-2026/73-1f146d0d-f308-4f40-986b-968934734f9b",
-      "source": "9News",
-      "pub_date": "2026-04-28T11:46:25+00:00",
-      "age_hours": 4.098519280555555,
+      "age_hours": 4.6742833005555555,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -90,52 +117,52 @@
       "link": "https://www.9news.com/article/travel/denver-international-airport/united-american-airlines-merger/507-5628e6f5-ac4b-4fe6-aba8-61f709681b22",
       "source": "9News",
       "pub_date": "2026-04-28T11:07:03+00:00",
-      "age_hours": 4.754630518333333,
+      "age_hours": 5.556672286111111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Tapas chain to add Denver Tech Center location",
       "link": "https://www.9news.com/article/life/food/barcelona-wine-bar-denver-tech-center-location/73-70e77251-5fbf-4301-8e93-d59633d74010",
       "source": "9News",
       "pub_date": "2026-04-28T10:22:54+00:00",
-      "age_hours": 5.490463891111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.292505656111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Migrant workers who receive housing can be paid $2-$3 less per hour under new federal rule",
       "link": "https://coloradosun.com/2026/04/28/migrant-farmworkers-wages-h2a-visa-colorado-western-slope/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-28T10:20:00+00:00",
-      "age_hours": 5.538585418888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.340343627222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Meandering Western history museum in Montrose is \u201ca boy\u2019s dream realized\u201d",
       "link": "https://coloradosun.com/2026/04/28/museum-of-the-mountain-west-montrose-richard-fike/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-28T10:13:00+00:00",
-      "age_hours": 5.655252591111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.457010781666667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Little Man Ice Cream to rebrand 3 Colorado shops",
       "link": "https://www.9news.com/article/life/style/colorado-guide/old-town-churn-constellation-sweet-cooies-little-man-ice-cream/73-1e78c41d-33f6-4dd2-aff1-fad288eb7800",
       "source": "9News",
       "pub_date": "2026-04-28T10:03:15+00:00",
-      "age_hours": 5.817963926388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.620005690277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Lawmakers pile on Colorado taxpayers \u2014 even more | OPINION",
       "link": "https://www.coloradopolitics.com/2026/04/28/lawmakers-pile-on-colorado-taxpayers-even-more-opinion/",
       "source": "CO Politics",
       "pub_date": "2026-04-28T06:45:00+00:00",
-      "age_hours": 9.122603133333334,
+      "age_hours": 9.924658957777778,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -144,43 +171,16 @@
       "link": "https://www.9news.com/article/news/local/denver-nightclubs-may-stay-open-later/73-5c2521fb-9c25-4789-be34-256c0bd0f87f",
       "source": "9News",
       "pub_date": "2026-04-28T03:29:20+00:00",
-      "age_hours": 12.383241752777778,
+      "age_hours": 13.185283514722222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver proposes 4 a.m. closing time for bars",
       "link": "https://kdvr.com/news/local/denver-proposes-4-a-m-closing-time-for-bars/",
       "source": "Fox31",
       "pub_date": "2026-04-28T02:15:51+00:00",
-      "age_hours": 13.608182183333334,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Denver City Council approves VeoRide's takeover of shared bike, scooter program",
-      "link": "https://www.9news.com/article/news/local/veo-scooter-contract-approved-denver/73-56b789d0-d561-4605-990f-c0e26ee054d7",
-      "source": "9News",
-      "pub_date": "2026-04-28T02:05:26+00:00",
-      "age_hours": 13.78157513611111,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Denver City Council to vote on data center moratorium as Elyria-Swansea neighborhood fights new facility",
-      "link": "https://www.9news.com/article/news/local/local-politics/denver-city-council-data-center-moratorium-elyria-swansea-neighborhood/73-afe1178e-9c39-45e9-97dd-5403018b8eb8",
-      "source": "9News",
-      "pub_date": "2026-04-28T00:58:11+00:00",
-      "age_hours": 14.90240851,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Pausing and regulating; Next with Kyle Clark full show (4/27/26)",
-      "link": "https://www.9news.com/video/next-with-kyle-clark/pausing-and-regulating-next-with-kyle-clark-full-show-42726/73-7791df94-94b4-4298-aadd-e02e8a185b62",
-      "source": "9News",
-      "pub_date": "2026-04-28T00:53:23+00:00",
-      "age_hours": 14.982408517777777,
+      "age_hours": 14.410232575833332,
       "breaking": false,
       "time_ago": "14 hrs ago"
     }
