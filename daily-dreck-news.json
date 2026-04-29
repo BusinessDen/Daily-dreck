@@ -1,15 +1,24 @@
 {
   "fetched_date": "2026-04-29",
-  "fetched_at": "2026-04-29 09:46:34",
+  "fetched_at": "2026-04-29 10:40:38",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "The museums and landmarks keeping a mosaic of Colorado\u2019s histories alive",
+      "link": "https://coloradosun.com/2026/04/29/colorado-150-state-history-museums-landmarks/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-04-29T10:25:00+00:00",
+      "age_hours": 0.2555765827777778,
+      "breaking": true,
+      "time_ago": "15 min ago"
+    },
     {
       "title": "Denver Public Schools considers bell-to-bell cellphone ban to boost learning",
       "link": "https://www.9news.com/article/news/local/denver-public-schools-considers-student-cellphone-ban/73-0afbd89e-1f2d-4304-b088-879678143eca",
       "source": "9News",
       "pub_date": "2026-04-29T03:46:04+00:00",
-      "age_hours": 6.003859757777778,
+      "age_hours": 6.904656681944444,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -18,61 +27,61 @@
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/superheroes-visit-pediatric-patients-at-denver-health/73-f9a4cb15-2046-4cf3-b2d9-b83842cfcd6b",
       "source": "9News",
       "pub_date": "2026-04-29T01:37:47+00:00",
-      "age_hours": 8.141915363055555,
+      "age_hours": 9.042712286944445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Smokey Bones reportedly closes all locations",
       "link": "https://www.9news.com/article/news/nation-world/smokey-bones-closes-locations/507-b71d2525-41e8-4a90-ad47-a92de150d49d",
       "source": "9News",
       "pub_date": "2026-04-29T00:48:04+00:00",
-      "age_hours": 8.970526513888888,
+      "age_hours": 9.871323432777778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Costco debuts change to its famous $1.50 hot dog combo",
       "link": "https://www.9news.com/article/news/nation-world/costco-hot-dog-combo-change-bottleed-water/507-d5ff0ae1-12cf-4827-9300-1c4d1ec05302",
       "source": "9News",
       "pub_date": "2026-04-28T23:16:44+00:00",
-      "age_hours": 10.492748770555556,
+      "age_hours": 11.393545691111111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Businesses along South Santa Fe get back to work after deadly tanker fire",
       "link": "https://kdvr.com/news/local/businesses-along-south-santa-fe-get-back-to-work-after-deadly-tanker-fire/",
       "source": "Fox31",
       "pub_date": "2026-04-28T22:39:01+00:00",
-      "age_hours": 11.121754805,
+      "age_hours": 12.02236752888889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver\u2019s new scooter company offers 10-day 'free ride' transition window for low-income riders",
       "link": "https://www.9news.com/article/news/local/denvers-new-scooter-company-offers-10-day-free-ride-transition-window-low-income-riders/73-d1084f40-97b9-4d20-a3a6-176979d012f6",
       "source": "9News",
       "pub_date": "2026-04-28T22:04:50+00:00",
-      "age_hours": 11.691082142777777,
+      "age_hours": 12.591879065,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Aurora man faces attempted murder charge for truck theft, shooting at owner",
       "link": "https://sentinelcolorado.com/metro/aurora-man-faces-attempted-murder-charge-for-truck-theft-shooting-at-owner/",
       "source": "Sentinel",
       "pub_date": "2026-04-28T20:52:40+00:00",
-      "age_hours": 12.894820105,
+      "age_hours": 13.795389899166668,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Loveland, corporate leaders hail start of Avenue South",
       "link": "https://bizwest.com/2026/04/28/loveland-corporate-leaders-hail-start-of-avenue-south/",
       "source": "BizWest",
       "pub_date": "2026-04-28T20:45:51+00:00",
-      "age_hours": 13.006823909722224,
+      "age_hours": 13.907578326944444,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/04/28/ceo-roundtable-survey-execs-more-pessimistic-looking-ahead/",
       "source": "BizWest",
       "pub_date": "2026-04-28T20:42:27+00:00",
-      "age_hours": 13.063490590555555,
+      "age_hours": 13.964245009444445,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -90,61 +99,61 @@
       "link": "https://bizwest.com/2026/04/28/new-venture-challenge-pitch-contest-awards-336k-in-prizes/",
       "source": "BizWest",
       "pub_date": "2026-04-28T20:40:00+00:00",
-      "age_hours": 13.104324428333333,
+      "age_hours": 14.0050788425,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Boulder quantum incubator launching open-access timing testbed",
       "link": "https://bizwest.com/2026/04/28/boulder-quantum-incubator-launching-open-access-timing-testbed/",
       "source": "BizWest",
       "pub_date": "2026-04-28T20:32:23+00:00",
-      "age_hours": 13.231268904166667,
+      "age_hours": 14.132023322777778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado\u2019s $46.8 billion budget nears finish line. Here\u2019s what changed",
       "link": "https://www.coloradopolitics.com/2026/04/28/colorados-46-8-billion-budget-nears-finish-line-heres-what-changed/",
       "source": "CO Politics",
       "pub_date": "2026-04-28T20:15:47+00:00",
-      "age_hours": 13.509488642222223,
+      "age_hours": 14.410063675,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Nedra Talley Ross, the last surviving member of the 1960s bee-hived pop trio the Ronettes, dies",
       "link": "https://sentinelcolorado.com/uncategorized/nedra-talley-ross-the-last-surviving-member-of-the-1960s-bee-hived-pop-trio-the-ronettes-dies/",
       "source": "Sentinel",
       "pub_date": "2026-04-28T20:03:54+00:00",
-      "age_hours": 13.70759791611111,
+      "age_hours": 14.608167708333333,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado whiskey named 'Whisky of the Year' in international competition",
       "link": "https://kdvr.com/denver-guide/colorado-whiskey-named-whisky-of-the-year-in-international-competition/",
       "source": "Fox31",
       "pub_date": "2026-04-28T19:30:27+00:00",
-      "age_hours": 14.264532623055555,
+      "age_hours": 15.165145336111111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Retail Core of 140-Acre Mixed-Use District\u00a0Rises at Centerra",
       "link": "https://milehighcre.com/retail-core-of-140-acre-mixed-use-district-rises-at-centerra/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-28T19:24:34+00:00",
-      "age_hours": 14.36193535888889,
+      "age_hours": 15.262681035833333,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "2 taken to hospital after broad daylight stabbing, suspect arrested",
       "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-broad-daylight-stabbing-on-logan/",
       "source": "Fox31",
       "pub_date": "2026-04-28T18:45:02+00:00",
-      "age_hours": 15.0214769825,
+      "age_hours": 15.922089702222221,
       "breaking": false,
       "time_ago": "15 hrs ago"
     },
@@ -153,34 +162,25 @@
       "link": "https://bizwest.com/2026/04/28/canyon-concert-ballet-faces-final-curtain/",
       "source": "BizWest",
       "pub_date": "2026-04-28T18:09:18+00:00",
-      "age_hours": 15.615991155555557,
+      "age_hours": 16.5167455775,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Opus Completes Catalyst Industrial in Centennial",
       "link": "https://milehighcre.com/opus-completes-catalyst-industrial-in-centennial/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-28T18:00:00+00:00",
-      "age_hours": 15.771379832222221,
+      "age_hours": 16.672125499444444,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Community rallies to support historic Asian-American market",
       "link": "https://kdvr.com/news/local/community-rallies-to-support-historic-asian-american-market/",
       "source": "Fox31",
       "pub_date": "2026-04-28T17:20:57+00:00",
-      "age_hours": 16.42286603222222,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Shaboozey announces Red Rocks tour stop: Here's the summer concert schedule",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/shaboozey-red-rocks-concert-summer-schedule/73-2450556a-7149-4048-985f-98e124eb40e0",
-      "source": "9News",
-      "pub_date": "2026-04-28T16:13:26+00:00",
-      "age_hours": 17.5477489075,
+      "age_hours": 17.3234787425,
       "breaking": false,
       "time_ago": "17 hrs ago"
     }
