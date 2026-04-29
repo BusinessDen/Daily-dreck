@@ -1,51 +1,60 @@
 {
   "fetched_date": "2026-04-29",
-  "fetched_at": "2026-04-29 12:40:26",
+  "fetched_at": "2026-04-29 13:38:38",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Boulder, Hazelbrook to partner on substance-use recovery services",
+      "link": "https://bizwest.com/2026/04/29/boulder-hazelbrook-to-partner-on-substance-use-recovery-services/",
+      "source": "BizWest",
+      "pub_date": "2026-04-29T13:24:17+00:00",
+      "age_hours": 0.23441712805555556,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Is TMI really such a bad thing? Here\u2019s the case for oversharing",
+      "link": "https://sentinelcolorado.com/uncategorized/is-tmi-really-such-a-bad-thing-heres-the-case-for-oversharing/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-29T13:02:28+00:00",
+      "age_hours": 0.5992765888888889,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
+    {
+      "title": "Kaiser Permanente elevates new Colorado prez",
+      "link": "https://bizwest.com/2026/04/29/kaiser-permanente-elevates-new-colorado-prez/",
+      "source": "BizWest",
+      "pub_date": "2026-04-29T12:49:25+00:00",
+      "age_hours": 0.8155286969444444,
+      "breaking": true,
+      "time_ago": "48 min ago"
+    },
     {
       "title": "Proposal exempting some IT equipment from Colorado\u2019s \u2018right to repair\u2019 law fails",
       "link": "https://www.coloradopolitics.com/2026/04/29/proposal-exempting-some-it-equipment-from-colorados-right-to-repair-law-fails/",
       "source": "CO Politics",
       "pub_date": "2026-04-29T12:31:23+00:00",
-      "age_hours": 0.14680020666666665,
+      "age_hours": 1.1173039144444445,
       "breaking": true,
-      "time_ago": "8 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Costco debuts change to its famous $1.50 hot dog combo",
       "link": "https://www.9news.com/article/news/nation-world/costco-hot-dog-combo-change-bottleed-water/507-d5ff0ae1-12cf-4827-9300-1c4d1ec05302",
       "source": "9News",
       "pub_date": "2026-04-29T12:16:27+00:00",
-      "age_hours": 0.39509854666666666,
+      "age_hours": 1.3654945919444446,
       "breaking": true,
-      "time_ago": "23 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver looking to update licensing and extend nightlife through proposal",
       "link": "https://www.denver7.com/news/front-range/denver/denver-looking-to-update-licensing-and-extend-nightlife-through-proposal",
       "source": "Denver7",
       "pub_date": "2026-04-29T11:46:17+00:00",
-      "age_hours": 0.898020161388889,
-      "breaking": true,
-      "time_ago": "53 min ago"
-    },
-    {
-      "title": "Interviews slated for 12 Aurora Colfax DDA board finalists. Six will be chosen",
-      "link": "https://sentinelcolorado.com/metro/interviews-slated-for-12-aurora-colfax-dda-board-finalists-six-will-be-chosen/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-29T11:42:20+00:00",
-      "age_hours": 0.9644170841666667,
-      "breaking": true,
-      "time_ago": "57 min ago"
-    },
-    {
-      "title": "Aurora police investigate fatal shooting between brothers",
-      "link": "https://sentinelcolorado.com/metro/aurora-police-investigate-fatal-shooting-between-brothers/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-29T11:39:39+00:00",
-      "age_hours": 1.0091396311111112,
+      "age_hours": 1.8683907244444447,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -54,70 +63,70 @@
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/iran-war-economy/507-ee549675-03b7-4db9-adca-ea2ee2886c8c",
       "source": "9News",
       "pub_date": "2026-04-29T11:29:15+00:00",
-      "age_hours": 1.1817652577777777,
+      "age_hours": 2.152161304722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado Pint Day: Where to get a collectible pint glass",
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-pint-day-collectible-glass-2026/73-1f146d0d-f308-4f40-986b-968934734f9b",
       "source": "9News",
       "pub_date": "2026-04-29T11:19:20+00:00",
-      "age_hours": 1.3470430899999999,
+      "age_hours": 2.3174391241666665,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "The museums and landmarks keeping a mosaic of Colorado\u2019s histories alive",
       "link": "https://coloradosun.com/2026/04/29/colorado-150-state-history-museums-landmarks/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-29T10:25:00+00:00",
-      "age_hours": 2.2524539391666667,
+      "age_hours": 3.222955743333334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Public Schools considers bell-to-bell cellphone ban to boost learning",
       "link": "https://www.9news.com/article/news/local/denver-public-schools-considers-student-cellphone-ban/73-0afbd89e-1f2d-4304-b088-879678143eca",
       "source": "9News",
       "pub_date": "2026-04-29T03:46:04+00:00",
-      "age_hours": 8.901487600555555,
+      "age_hours": 9.871883631944444,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Superheroes visit pediatric patients at Denver Health",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/superheroes-visit-pediatric-patients-at-denver-health/73-f9a4cb15-2046-4cf3-b2d9-b83842cfcd6b",
       "source": "9News",
       "pub_date": "2026-04-29T01:37:47+00:00",
-      "age_hours": 11.039543193888887,
+      "age_hours": 12.009939223611111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Drivers search for savings as Denver metro gas prices jump 60 cents in a day",
       "link": "https://www.denver7.com/news/local-news/drivers-search-for-savings-as-denver-metro-gas-prices-jump-60-cents-in-a-day",
       "source": "Denver7",
       "pub_date": "2026-04-29T01:06:52+00:00",
-      "age_hours": 11.554964663055555,
+      "age_hours": 12.5253352275,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Smokey Bones reportedly closes all locations",
       "link": "https://www.9news.com/article/news/nation-world/smokey-bones-closes-locations/507-b71d2525-41e8-4a90-ad47-a92de150d49d",
       "source": "9News",
       "pub_date": "2026-04-29T00:48:04+00:00",
-      "age_hours": 11.868154338888889,
+      "age_hours": 12.838550365833333,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Businesses along South Santa Fe get back to work after deadly tanker fire",
       "link": "https://kdvr.com/news/local/businesses-along-south-santa-fe-get-back-to-work-after-deadly-tanker-fire/",
       "source": "Fox31",
       "pub_date": "2026-04-28T22:39:01+00:00",
-      "age_hours": 14.019283016666666,
+      "age_hours": 14.989637065277778,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -126,52 +135,43 @@
       "link": "https://www.9news.com/article/news/local/denvers-new-scooter-company-offers-10-day-free-ride-transition-window-low-income-riders/73-d1084f40-97b9-4d20-a3a6-176979d012f6",
       "source": "9News",
       "pub_date": "2026-04-28T22:04:50+00:00",
-      "age_hours": 14.588709936111112,
+      "age_hours": 15.559105964166667,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Young people in Denver who work at least 100 hours this summer can earn a $250 bonus",
       "link": "https://www.denver7.com/news/local-news/young-people-in-denver-who-work-at-least-100-hours-this-summer-can-earn-a-250-bonus",
       "source": "Denver7",
       "pub_date": "2026-04-28T21:23:55+00:00",
-      "age_hours": 15.27079803388889,
+      "age_hours": 16.241168596944444,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Aurora man faces attempted murder charge for truck theft, shooting at owner",
-      "link": "https://sentinelcolorado.com/metro/aurora-man-faces-attempted-murder-charge-for-truck-theft-shooting-at-owner/",
-      "source": "Sentinel",
-      "pub_date": "2026-04-28T20:52:40+00:00",
-      "age_hours": 15.792195401666666,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Loveland, corporate leaders hail start of Avenue South",
       "link": "https://bizwest.com/2026/04/28/loveland-corporate-leaders-hail-start-of-avenue-south/",
       "source": "BizWest",
       "pub_date": "2026-04-28T20:45:51+00:00",
-      "age_hours": 15.904398686666665,
+      "age_hours": 16.874973171666667,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "CEO Roundtable survey: Execs more pessimistic looking ahead",
       "link": "https://bizwest.com/2026/04/28/ceo-roundtable-survey-execs-more-pessimistic-looking-ahead/",
       "source": "BizWest",
       "pub_date": "2026-04-28T20:42:27+00:00",
-      "age_hours": 15.961065370277778,
+      "age_hours": 16.931639844166668,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "New Venture Challenge pitch contest awards $336K in prizes",
       "link": "https://bizwest.com/2026/04/28/new-venture-challenge-pitch-contest-awards-336k-in-prizes/",
       "source": "BizWest",
       "pub_date": "2026-04-28T20:40:00+00:00",
-      "age_hours": 16.001899575555555,
+      "age_hours": 16.972473208055558,
       "breaking": false,
       "time_ago": "16 hrs ago"
     },
@@ -180,9 +180,9 @@
       "link": "https://bizwest.com/2026/04/28/boulder-quantum-incubator-launching-open-access-timing-testbed/",
       "source": "BizWest",
       "pub_date": "2026-04-28T20:32:23+00:00",
-      "age_hours": 16.128844072777778,
+      "age_hours": 17.099417680555554,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
