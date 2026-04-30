@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-30",
-  "fetched_at": "2026-04-30 03:13:09",
+  "fetched_at": "2026-04-30 05:12:26",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat",
+      "link": "https://www.9news.com/article/news/nation-world/brent-crude-tops-125-barrel-iran-war-stocks-retreat/507-3c45eec2-b859-45fb-b432-b67879fd6e7f",
+      "source": "9News",
+      "pub_date": "2026-04-30T04:58:00+00:00",
+      "age_hours": 0.23515540499999998,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
     {
       "title": "Colorado bans pet store sales of dogs and cats, sparking debate over 'puppy mill' law",
       "link": "https://www.9news.com/article/news/local/local-politics/colorado-bans-pet-store-sales-of-dogs-and-cats/73-00568833-937c-4ab8-b850-c409392ad8ad",
       "source": "9News",
-      "pub_date": "2026-04-30T02:42:30+00:00",
-      "age_hours": 0.5061885502777778,
+      "pub_date": "2026-04-30T03:42:34+00:00",
+      "age_hours": 1.4923776836111111,
       "breaking": true,
-      "time_ago": "30 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Firehouse Subs is giving free sandwiches to anyone with this name",
       "link": "https://www.9news.com/article/news/nation-world/firehouse-subs-free-sandwiches-named-mike/507-c60b7fa3-ee80-4fa1-b32a-ac9a557e94a8",
       "source": "9News",
       "pub_date": "2026-04-30T02:02:32+00:00",
-      "age_hours": 1.1722996808333332,
+      "age_hours": 3.159599935833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Developers hope to ease concerns over redevelopment of Asia Center",
       "link": "https://kdvr.com/news/local/developers-hope-to-ease-concerns-over-redevelopment-of-asia-center/",
       "source": "Fox31",
       "pub_date": "2026-04-29T23:31:27+00:00",
-      "age_hours": 3.690636317222222,
+      "age_hours": 5.678539503611112,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Recruit dies during Denver Sheriff Department academy training",
       "link": "https://kdvr.com/news/local/recruit-dies-during-denver-sheriff-department-academy-training/",
       "source": "Fox31",
       "pub_date": "2026-04-29T21:29:00+00:00",
-      "age_hours": 5.7314695872222226,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.719372764166667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Lafayette Chamber leader departing to launch events biz",
       "link": "https://bizwest.com/2026/04/29/lafayette-chamber-leader-departing-to-launch-events-biz/",
       "source": "BizWest",
       "pub_date": "2026-04-29T21:27:00+00:00",
-      "age_hours": 5.763831757222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.7511227852777775,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Judge prevents Future Legends owner from being defense attorney in civil case",
       "link": "https://bizwest.com/2026/04/29/judge-prevents-future-legends-owner-from-being-defense-attorney-in-civil-case/",
       "source": "BizWest",
       "pub_date": "2026-04-29T21:20:50+00:00",
-      "age_hours": 5.8666100822222225,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.853901073055555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Longmont, Lyons officials gird for Sundance impacts",
       "link": "https://bizwest.com/2026/04/29/longmont-lyons-officials-gird-for-sundance-impacts/",
       "source": "BizWest",
       "pub_date": "2026-04-29T21:15:10+00:00",
-      "age_hours": 5.9610545352777775,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.9483455266666665,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "True Food Kitchen coming to Boulder\u2019s Twenty Ninth Street",
       "link": "https://bizwest.com/2026/04/29/true-food-kitchen-coming-to-boulders-twenty-ninth-street/",
       "source": "BizWest",
       "pub_date": "2026-04-29T21:09:18+00:00",
-      "age_hours": 6.0588323455555555,
+      "age_hours": 8.0461233375,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Bald eagle wounded by slingshot released back into Colorado wild",
       "link": "https://coloradosun.com/2026/04/29/on-fixed-wings-of-eagles-a-colorado-rescue-story-takes-flight/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-29T20:42:50+00:00",
-      "age_hours": 6.500449062222222,
+      "age_hours": 8.487819123055555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Selling dogs, cats in pet stores now banned in Colorado",
       "link": "https://www.coloradopolitics.com/2026/04/29/selling-dogs-cats-in-pet-stores-now-banned-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-04-29T20:23:33+00:00",
-      "age_hours": 6.822578918333333,
+      "age_hours": 8.810562586388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "CITY DESK: City officials looking for bridge talk on Peoria Street",
       "link": "https://sentinelcolorado.com/sentinel-blogs/sentinel-city-desk/city-desk-briefing-for-and-about-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-04-29T20:19:49+00:00",
-      "age_hours": 6.884948834999999,
+      "age_hours": 8.87281985611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Boys Volleyball: 2026 Class 4A regional tournament pairings, matchups",
       "link": "https://sentinelcolorado.com/sports/preps/boys-volleyball/boys-volleyball-2026-class-4a-regional-tournament-pairings-matchups/",
       "source": "Sentinel",
       "pub_date": "2026-04-29T19:55:19+00:00",
-      "age_hours": 7.293282282222222,
+      "age_hours": 9.2811533075,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Lightning strikes giant dinosaur animatronic in Kansas, leaves only skeleton behind",
       "link": "https://www.9news.com/article/news/nation-world/lightning-fire-dinosaur-burned-kansas-theme-park/507-1a1d761e-42a7-4937-9fa8-f52ffeff8328",
       "source": "9News",
       "pub_date": "2026-04-29T19:51:01+00:00",
-      "age_hours": 7.364244283333333,
+      "age_hours": 9.351544516666666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Smokey Bones suddenly closes all locations",
       "link": "https://www.9news.com/article/news/nation-world/smokey-bones-closes-locations/507-b71d2525-41e8-4a90-ad47-a92de150d49d",
       "source": "9News",
       "pub_date": "2026-04-29T19:15:45+00:00",
-      "age_hours": 7.952022117499999,
+      "age_hours": 9.939322345277779,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado bill allowing THC beverages to be sold at grocery stores, restaurants pulled by sponsor",
       "link": "https://www.coloradopolitics.com/2026/04/29/colorado-bill-allowing-thc-beverages-to-be-sold-at-grocery-stores-restaurants-pulled-by-sponsor/",
       "source": "CO Politics",
       "pub_date": "2026-04-29T18:03:33+00:00",
-      "age_hours": 9.155912268333333,
+      "age_hours": 11.143895935277778,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Exemptions to Colorado\u2019s right-to-repair laws shot down in House committee",
       "link": "https://coloradosun.com/2026/04/29/colorado-anti-repair-bill-shot-down/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-29T17:48:16+00:00",
-      "age_hours": 9.409893524444445,
+      "age_hours": 11.39726358861111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Livestream of Colorado rattlesnake 'mega den' is back: Here's when to catch a sighting",
       "link": "https://kdvr.com/denver-guide/livestream-of-colorado-rattlesnake-mega-den-is-back-heres-when-to-catch-a-sighting/",
       "source": "Fox31",
       "pub_date": "2026-04-29T17:18:14+00:00",
-      "age_hours": 9.910914113055554,
+      "age_hours": 11.8988173075,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado lawmakers abandon effort to limit police use of Flock cameras, surveillance data",
       "link": "https://coloradosun.com/2026/04/29/senate-bill-70-lay-over-colorado-surveillance-technology/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-29T15:44:11+00:00",
-      "age_hours": 11.477949101666667,
+      "age_hours": 13.465319166944443,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Former Broncos player selling $1.79M house in Denver",
       "link": "https://kdvr.com/news/local/former-broncos-player-selling-1-79m-house-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-04-29T15:33:33+00:00",
-      "age_hours": 11.655636212777779,
+      "age_hours": 13.643539383333332,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver couple shocked after car slams through their bedroom wall",
-      "link": "https://kdvr.com/news/local/denver-couple-shocked-after-car-slams-through-their-bedroom-wall/",
-      "source": "Fox31",
-      "pub_date": "2026-04-29T14:23:51+00:00",
-      "age_hours": 12.817303063055556,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     }
   ]
 }
