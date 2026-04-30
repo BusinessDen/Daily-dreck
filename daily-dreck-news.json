@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-30",
-  "fetched_at": "2026-04-30 21:25:29",
+  "fetched_at": "2026-04-30 22:23:04",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Colorado space startup secures $650 million for expansion",
+      "link": "https://www.coloradopolitics.com/2026/04/30/colorado-space-startup-secures-650-million-for-expansion/",
+      "source": "CO Politics",
+      "pub_date": "2026-04-30T21:48:14+00:00",
+      "age_hours": 0.5771825513888889,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
+    {
+      "title": "Aurora Mental Health to lay off 111 employees, citing Medicaid funding cuts",
+      "link": "https://sentinelcolorado.com/metro/aurora-mental-health-to-lay-off-111-employees-citing-medicaid-funding-cuts/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-30T21:48:03+00:00",
+      "age_hours": 0.5802598236111111,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
+    {
+      "title": "Schematic raises $6.5M, partners with Stripe",
+      "link": "https://bizwest.com/2026/04/30/schematic-raises-6-5m-partners-with-stripe/",
+      "source": "BizWest",
+      "pub_date": "2026-04-30T21:44:07+00:00",
+      "age_hours": 0.6449009313888888,
+      "breaking": true,
+      "time_ago": "38 min ago"
+    },
+    {
+      "title": "Confluence: Energy patch uses new technology to streamline operations, meet regulations",
+      "link": "https://bizwest.com/2026/04/30/confluence-energy-patch-uses-new-technology-to-streamline-operations-meet-regulations/",
+      "source": "BizWest",
+      "pub_date": "2026-04-30T21:37:47+00:00",
+      "age_hours": 0.7504565025,
+      "breaking": true,
+      "time_ago": "45 min ago"
+    },
+    {
+      "title": "Californian sues Katofsky over unpaid $1M loan",
+      "link": "https://bizwest.com/2026/04/30/californian-sues-katofsky-over-unpaid-1m-loan/",
+      "source": "BizWest",
+      "pub_date": "2026-04-30T21:23:57+00:00",
+      "age_hours": 0.981012571388889,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
+    {
+      "title": "Drought may trigger water curbs in Fort Collins, Boulder",
+      "link": "https://bizwest.com/2026/04/30/drought-may-trigger-water-curbs-in-fort-collins-boulder/",
+      "source": "BizWest",
+      "pub_date": "2026-04-30T21:16:59+00:00",
+      "age_hours": 1.09712369,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver Announces Progress on 2026 Citywide Goals",
       "link": "https://milehighcre.com/denver-announces-progress-on-2026-citywide-goals/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-30T21:15:23+00:00",
-      "age_hours": 0.1632394397222222,
+      "age_hours": 1.1241219716666666,
       "breaking": true,
-      "time_ago": "9 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Crocs ups 2026 sales guidance despite Q1 revenue dip",
       "link": "https://bizwest.com/2026/04/30/crocs-ups-2026-sales-guidance-despite-q1-revenue-dip/",
       "source": "BizWest",
       "pub_date": "2026-04-30T21:07:32+00:00",
-      "age_hours": 0.2936760830555556,
+      "age_hours": 1.2546237205555555,
       "breaking": true,
-      "time_ago": "17 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aurora Community Campus helps justice-engaged students complete high school",
       "link": "https://sentinelcolorado.com/metro/aurora-community-campus-helps-justice-engaged-students-complete-high-school/",
       "source": "Sentinel",
       "pub_date": "2026-04-30T20:37:52+00:00",
-      "age_hours": 0.7894312186111111,
+      "age_hours": 1.749982183888889,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado bill prohibits credit card companies from charging \u2018swipe fees\u2019 on sales taxes",
       "link": "https://www.coloradopolitics.com/2026/04/30/colorado-bill-prohibits-credit-card-companies-from-charging-swipe-fees-on-sales-taxes/",
       "source": "CO Politics",
       "pub_date": "2026-04-30T20:11:28+00:00",
-      "age_hours": 1.2293689855555554,
+      "age_hours": 2.189960348888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Movers and Shakers Week Ending 05.01.26",
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-05-01-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-30T20:06:15+00:00",
-      "age_hours": 1.3154616769444445,
+      "age_hours": 2.276344210833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "CSU Advanced Laser Research Facility Tops Out",
       "link": "https://milehighcre.com/csu-advanced-laser-research-facility-tops-out/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-30T17:46:41+00:00",
-      "age_hours": 3.6415727958333335,
+      "age_hours": 4.602455330000001,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "New scooters roll out in Denver, replacing Lime and Bird",
       "link": "https://kdvr.com/news/local/new-scooters-roll-out-in-denver-replacing-lime-and-bird/",
       "source": "Fox31",
       "pub_date": "2026-04-30T17:27:57+00:00",
-      "age_hours": 3.9544110983333334,
+      "age_hours": 4.915010417777777,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver Multifamily: Surge in Absorption Boosts Occupancy",
       "link": "https://milehighcre.com/denver-multifamily-surge-in-absorption-boosts-occupancy/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-30T17:13:25+00:00",
-      "age_hours": 4.196017265277778,
+      "age_hours": 5.156899784166667,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "United flight from Denver makes emergency landing due to 'odor' on board",
       "link": "https://kdvr.com/news/local/united-flight-from-denver-makes-emergency-landing-due-to-odor-on-board/",
       "source": "Fox31",
       "pub_date": "2026-04-30T16:20:15+00:00",
-      "age_hours": 5.082744347499999,
+      "age_hours": 6.043343663333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Big Trouble in Little Saigon: Asia Center Redevelopment Proposal Stirs Community Into Action",
+      "link": "https://www.westword.com/food-drink/asia-center-redevelopment-controversy-spurs-community-action-40879566/",
+      "source": "Westword",
+      "pub_date": "2026-04-30T16:17:24-06:00",
+      "age_hours": 0.09095588888888888,
       "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "5 min ago"
     },
     {
       "title": "Two Multifamily Properties Sell in Competitive Denver Market",
       "link": "https://milehighcre.com/two-multifamily-properties-sell-in-competitive-denver-market/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-30T15:36:21+00:00",
-      "age_hours": 5.813795052222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.7746775702777775,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Clubhouse Work & Golf Unveils First Look of Cherry Creek Location",
       "link": "https://milehighcre.com/clubhouse-work-golf-unveils-first-look-of-cherry-creek-location/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-30T15:03:49+00:00",
-      "age_hours": 6.356017286666666,
+      "age_hours": 7.316899805833334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "What\u2019s Happening: Fort Collins Art Week",
       "link": "https://coloradosun.com/2026/04/30/whats-happening-colorado-fort-collins-art-week/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-30T14:00:00+00:00",
-      "age_hours": 7.419719697222222,
+      "age_hours": 8.380557396944445,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "These local spots are collaborating on an 'unexpected' sandwich",
       "link": "https://kdvr.com/denver-guide/food-drink/these-local-spots-are-collaborating-on-an-unexpected-sandwich/",
       "source": "Fox31",
       "pub_date": "2026-04-30T13:00:48+00:00",
-      "age_hours": 8.406911149722223,
+      "age_hours": 9.367510461111111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "NoCo manufacturing fellowship program launches",
-      "link": "https://bizwest.com/2026/04/30/noco-manufacturing-fellowship-program-launches/",
-      "source": "BizWest",
-      "pub_date": "2026-04-30T10:38:51+00:00",
-      "age_hours": 10.771731652222222,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Greeley council hopes to give oversight committee more clarity",
-      "link": "https://bizwest.com/2026/04/30/greeley-council-hopes-to-give-oversight-committee-more-clarity/",
-      "source": "BizWest",
-      "pub_date": "2026-04-30T10:33:01+00:00",
-      "age_hours": 10.86895442,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "CU-born Forge Nano going public with unicorn valuation",
-      "link": "https://bizwest.com/2026/04/30/cu-born-forge-nano-going-public-with-unicorn-valuation/",
-      "source": "BizWest",
-      "pub_date": "2026-04-30T10:27:56+00:00",
-      "age_hours": 10.953676675555556,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "License swap gives Scripps broadcasting control of TV news in Colorado Springs, Pueblo and Grand Junction",
-      "link": "https://coloradosun.com/2026/04/30/tv-news-merger-scripps-colorado-springs-pueblo-grand-junction/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-04-30T10:10:00+00:00",
-      "age_hours": 11.253053427777777,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat",
-      "link": "https://www.9news.com/article/news/nation-world/brent-crude-tops-125-barrel-iran-war-stocks-retreat/507-3c45eec2-b859-45fb-b432-b67879fd6e7f",
-      "source": "9News",
-      "pub_date": "2026-04-30T08:23:51+00:00",
-      "age_hours": 13.022353775277779,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Colorado bans pet store sales of dogs and cats, sparking debate over 'puppy mill' law",
-      "link": "https://www.9news.com/article/news/local/local-politics/colorado-bans-pet-store-sales-of-dogs-and-cats/73-00568833-937c-4ab8-b850-c409392ad8ad",
-      "source": "9News",
-      "pub_date": "2026-04-30T03:42:34+00:00",
-      "age_hours": 17.710409377222224,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Firehouse Subs is giving free sandwiches to anyone with this name",
-      "link": "https://www.9news.com/article/news/nation-world/firehouse-subs-free-sandwiches-named-mike/507-c60b7fa3-ee80-4fa1-b32a-ac9a557e94a8",
-      "source": "9News",
-      "pub_date": "2026-04-30T02:02:32+00:00",
-      "age_hours": 19.377631624444444,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "9 hrs ago"
     }
   ]
 }
