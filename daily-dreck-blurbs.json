@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-04-29",
-  "lead_headline": "Five restaurant leads today \u2014 Port of Subs in Littleton Square, El Pollo Loco converting Arby's in Lakewood, Reunion relocating to Platt Park, Cafecito kiosk at Colfax High, and Genna Rae Wings closing after a decade in Whittier",
+  "generated_date": "2026-04-30",
+  "lead_headline": "Hell or High Water Tiki relocates to RiNo after LoDo closure, joining six other openings today including Olive & Finch's largest location yet in Golden Triangle",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 leads today</strong>: Port of Subs (Littleton Square), El Pollo Loco (ex-Arby's, Lakewood), Reunion Bakery (Platt Park relocation), Cafecito kiosk (Colfax High), Genna Rae Wings closure (Whittier).",
+      "blurb": "<strong>6 opening leads, 4 closure leads today</strong>: Hell or High Water Tiki (RiNo relocation), Olive & Finch (Golden Triangle), Bandar Grill (Sunnyside), HOTDOG & JUICY (Southwest Plaza), Maryjane's Hideaway (Edgewater), The Flaming Grill (downtown). Closures: Mighty Colorado Burger (Arvada), Mojo-99 Burgers (Regis), two Dairy Queen repeats.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+4",
+        "value1": "+6",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "\u22124",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "68",
+        "value1": "+69",
         "label2": "closed",
-        "value2": "59",
+        "value2": "\u221262",
         "period": "all leads"
       }
     },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong> following Monday's 189-count surge \u2014 the 7-day total holds at 2,392 licenses, marking April's final trading days after last week's historic flood. Yesterday's batch included The Flaming Grill (891 14th St, downtown Indian fusion), Red Lotus Den (Westminster food hall targeting June), and Ultra Lounge West (Westminster karaoke venue). The 2,392-count represents an unprecedented 11,860% surge versus last week's 20 filings, confirming the event as a mass database sync or renewal wave that has fundamentally reshaped April's liquor license landscape in its closing stretch.",
+      "blurb": "<strong>Zero new applications today</strong>, holding the 7-day total at 2,386 licenses after Monday's database flood subsides. The week's unprecedented 2,386-count (up 13,156% from prior week's 18) confirms a mass renewal sync or system event rather than organic filings. No meaningful individual applications detected in Tuesday's batch \u2014 the liquor license landscape remains in post-surge cleanup mode as April closes, with May likely to reset to historical ~20-30 weekly baselines once the database stabilizes.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -53,41 +53,41 @@
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "2392",
+        "value1": "2386",
         "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>9 mentions yesterday</strong> from Google News RSS lifts the 7-day count to 50 across 13 sources \u2014 up 16% from last week's 43 and extending April's late-month momentum into the final trading days. Facebook and Instagram (10 each) tie as top weekly sources, followed by Reddit and Denver Post (6 each), then Hoodline (4). Notable Monday coverage included Reddit thread on LoDo business closures, Hoodline's Marczyk Market piece, Denver Post's Re/Max headquarters departure story, and Facebook/Instagram buzz about Asian-American market support and late-night venue proposals. The 50-mention pace confirms media interest has stabilized above Q1 baselines, with social platforms driving week-over-week growth as April closes.",
+      "blurb": "<strong>7 mentions yesterday</strong> extends the 7-day count to 47 across 14 sources \u2014 up 7% from last week's 44 and sustaining April's closing momentum above Q1 baselines. Instagram (11) edges out Facebook (10) as the week's top source, followed by Reddit (6), Denver Post (4), and Hoodline (3). Tuesday's coverage included City Cast Denver's LoDo nightlife piece, Hoodline's Greenwood Village office tower seizure story, and social chatter about Temple Denver's evolution and new scooter contracts. The steady 47-mention pace confirms media interest has plateaued near monthly averages as April wraps, with social platforms maintaining their dominance over traditional outlets.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "9",
+        "value1": "7",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "50",
+        "value1": "47",
         "class1": "up",
         "label2": "sources",
-        "value2": "13",
+        "value2": "14",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) sustains MTD at +23 (+0.8/day) with 90-day net climbing to +121. Monday's modest gain follows Sunday's brutal \u221213 churn spike (4 new, 17 canceled) that wiped out much of the prior week's momentum \u2014 the 7-day total now stands at +7 net (28 new, 21 canceled), down sharply from last week's +14 and confirming April's late-month rally has stalled. Recent pattern shows Sunday's cancellation wave reversing two weeks of steady +1-2 daily gains, with MTD's +0.8/day pace now trailing YTD's +1.3/day baseline by 38%. One volatile weekend suggests April will close below March's conversion rate unless the final two days deliver outsized gains.",
+      "blurb": "<strong>Net +1 yesterday</strong> (3 new, 2 canceled) nudges MTD to +23 (+0.8/day) with 90-day net at +117. Tuesday's modest gain follows Monday's +1 recovery from Sunday's \u221213 churn spike that erased the prior week's momentum \u2014 the 7-day total now stands at \u22121 net (21 new, 22 canceled), down sharply from last week's +13 and confirming April's late-month rally has stalled. The recent two-week pattern shows Sunday's 17-cancellation wave reversed 10 days of steady growth, with MTD's +0.8/day pace now trailing YTD's +1.3/day baseline by 38%. Barring a surprise Wednesday surge, April will close below March's conversion rate as volatility replaces the quarter's earlier stability.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "23",
       "net_ytd": "154",
       "net_mtd_per_day": "0.8",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "0",
-      "annual_ytd": "0",
-      "monthly_mtd": "0",
-      "monthly_ytd": "0"
+      "annual_mtd": "18",
+      "annual_ytd": "125",
+      "monthly_mtd": "5",
+      "monthly_ytd": "29"
     }
   }
 }
