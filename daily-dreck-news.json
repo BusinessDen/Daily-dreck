@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-04-30",
-  "fetched_at": "2026-04-30 16:36:14",
+  "fetched_at": "2026-04-30 17:35:07",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "New scooters roll out in Denver, replacing Lime and Bird",
+      "link": "https://kdvr.com/news/local/new-scooters-roll-out-in-denver-replacing-lime-and-bird/",
+      "source": "Fox31",
+      "pub_date": "2026-04-30T17:27:57+00:00",
+      "age_hours": 0.11514531888888889,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
+    {
+      "title": "Signing Day: Aurora honorees, April 2026",
+      "link": "https://sentinelcolorado.com/sports/preps/signing-day-aurora-honorees-april-2026/",
+      "source": "Sentinel",
+      "pub_date": "2026-04-30T17:20:33+00:00",
+      "age_hours": 0.238825675,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Denver Multifamily: Surge in Absorption Boosts Occupancy",
+      "link": "https://milehighcre.com/denver-multifamily-surge-in-absorption-boosts-occupancy/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-04-30T17:13:25+00:00",
+      "age_hours": 0.3570518138888889,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
     {
       "title": "United flight from Denver makes emergency landing due to 'odor' on board",
       "link": "https://kdvr.com/news/local/united-flight-from-denver-makes-emergency-landing-due-to-odor-on-board/",
       "source": "Fox31",
       "pub_date": "2026-04-30T16:20:15+00:00",
-      "age_hours": 0.26216041055555556,
+      "age_hours": 1.2434785916666666,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Two Multifamily Properties Sell in Competitive Denver Market",
       "link": "https://milehighcre.com/two-multifamily-properties-sell-in-competitive-denver-market/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-30T15:36:21+00:00",
-      "age_hours": 0.9934250341666667,
+      "age_hours": 1.97482961,
       "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Clubhouse Work & Golf Unveils First Look of Cherry Creek Location",
       "link": "https://milehighcre.com/clubhouse-work-golf-unveils-first-look-of-cherry-creek-location/",
       "source": "Mile High CRE",
       "pub_date": "2026-04-30T15:03:49+00:00",
-      "age_hours": 1.535647277222222,
+      "age_hours": 2.5170518466666665,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "What\u2019s Happening: Fort Collins Art Week",
       "link": "https://coloradosun.com/2026/04/30/whats-happening-colorado-fort-collins-art-week/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-30T14:00:00+00:00",
-      "age_hours": 2.599324218611111,
+      "age_hours": 3.5807297152777777,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "These local spots are collaborating on an 'unexpected' sandwich",
       "link": "https://kdvr.com/denver-guide/food-drink/these-local-spots-are-collaborating-on-an-unexpected-sandwich/",
       "source": "Fox31",
       "pub_date": "2026-04-30T13:00:48+00:00",
-      "age_hours": 3.5863271283333336,
+      "age_hours": 4.567645351388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "NoCo manufacturing fellowship program launches",
       "link": "https://bizwest.com/2026/04/30/noco-manufacturing-fellowship-program-launches/",
       "source": "BizWest",
       "pub_date": "2026-04-30T10:38:51+00:00",
-      "age_hours": 5.951001415833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.932808306111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Greeley council hopes to give oversight committee more clarity",
       "link": "https://bizwest.com/2026/04/30/greeley-council-hopes-to-give-oversight-committee-more-clarity/",
       "source": "BizWest",
       "pub_date": "2026-04-30T10:33:01+00:00",
-      "age_hours": 6.0482241341666665,
+      "age_hours": 7.030031343888889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "CU-born Forge Nano going public with unicorn valuation",
       "link": "https://bizwest.com/2026/04/30/cu-born-forge-nano-going-public-with-unicorn-valuation/",
       "source": "BizWest",
       "pub_date": "2026-04-30T10:27:56+00:00",
-      "age_hours": 6.1329463877777775,
+      "age_hours": 7.114753624166666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "License swap gives Scripps broadcasting control of TV news in Colorado Springs, Pueblo and Grand Junction",
       "link": "https://coloradosun.com/2026/04/30/tv-news-merger-scripps-colorado-springs-pueblo-grand-junction/",
       "source": "Colorado Sun",
       "pub_date": "2026-04-30T10:10:00+00:00",
-      "age_hours": 6.432657917499999,
+      "age_hours": 7.414063489444445,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat",
       "link": "https://www.9news.com/article/news/nation-world/brent-crude-tops-125-barrel-iran-war-stocks-retreat/507-3c45eec2-b859-45fb-b432-b67879fd6e7f",
       "source": "9News",
       "pub_date": "2026-04-30T08:23:51+00:00",
-      "age_hours": 8.201913390833333,
+      "age_hours": 9.183287439444443,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado bans pet store sales of dogs and cats, sparking debate over 'puppy mill' law",
       "link": "https://www.9news.com/article/news/local/local-politics/colorado-bans-pet-store-sales-of-dogs-and-cats/73-00568833-937c-4ab8-b850-c409392ad8ad",
       "source": "9News",
       "pub_date": "2026-04-30T03:42:34+00:00",
-      "age_hours": 12.889968989444444,
+      "age_hours": 13.8713430425,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Firehouse Subs is giving free sandwiches to anyone with this name",
       "link": "https://www.9news.com/article/news/nation-world/firehouse-subs-free-sandwiches-named-mike/507-c60b7fa3-ee80-4fa1-b32a-ac9a557e94a8",
       "source": "9News",
       "pub_date": "2026-04-30T02:02:32+00:00",
-      "age_hours": 14.557191235555555,
+      "age_hours": 15.53856529,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Colorado space startup secures $650 million for expansion",
       "link": "https://www.coloradopolitics.com/2026/04/29/colorado-space-startup-secures-650-million-for-expansion/",
       "source": "CO Politics",
       "pub_date": "2026-04-29T23:45:33+00:00",
-      "age_hours": 16.840714098611112,
+      "age_hours": 17.822071833055556,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Developers hope to ease concerns over redevelopment of Asia Center",
       "link": "https://kdvr.com/news/local/developers-hope-to-ease-concerns-over-redevelopment-of-asia-center/",
       "source": "Fox31",
       "pub_date": "2026-04-29T23:31:27+00:00",
-      "age_hours": 17.075494040555554,
+      "age_hours": 18.056812274722223,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Recruit dies during Denver Sheriff Department academy training",
       "link": "https://kdvr.com/news/local/recruit-dies-during-denver-sheriff-department-academy-training/",
       "source": "Fox31",
       "pub_date": "2026-04-29T21:29:00+00:00",
-      "age_hours": 19.116327280555556,
+      "age_hours": 20.09764550583333,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Lafayette Chamber leader departing to launch events biz",
       "link": "https://bizwest.com/2026/04/29/lafayette-chamber-leader-departing-to-launch-events-biz/",
       "source": "BizWest",
       "pub_date": "2026-04-29T21:27:00+00:00",
-      "age_hours": 19.148501949722224,
+      "age_hours": 20.130309190277778,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Judge prevents Future Legends owner from being defense attorney in civil case",
       "link": "https://bizwest.com/2026/04/29/judge-prevents-future-legends-owner-from-being-defense-attorney-in-civil-case/",
       "source": "BizWest",
       "pub_date": "2026-04-29T21:20:50+00:00",
-      "age_hours": 19.251279754722223,
+      "age_hours": 20.233087016666666,
       "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "12 finalists selected to interview for Aurora Colfax revitalization board",
-      "link": "https://www.coloradopolitics.com/2026/04/29/12-finalists-selected-to-interview-for-aurora-colfax-revitalization-board/",
-      "source": "CO Politics",
-      "pub_date": "2026-04-29T21:16:50+00:00",
-      "age_hours": 19.319325236666668,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Longmont, Lyons officials gird for Sundance impacts",
-      "link": "https://bizwest.com/2026/04/29/longmont-lyons-officials-gird-for-sundance-impacts/",
-      "source": "BizWest",
-      "pub_date": "2026-04-29T21:15:10+00:00",
-      "age_hours": 19.34572420472222,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "True Food Kitchen coming to Boulder\u2019s Twenty Ninth Street",
-      "link": "https://bizwest.com/2026/04/29/true-food-kitchen-coming-to-boulders-twenty-ninth-street/",
-      "source": "BizWest",
-      "pub_date": "2026-04-29T21:09:18+00:00",
-      "age_hours": 19.443502009444444,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     }
   ]
 }
