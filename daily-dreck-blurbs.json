@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-04-30",
-  "lead_headline": "Hell or High Water Tiki relocates to RiNo after LoDo closure, joining six other openings today including Olive & Finch's largest location yet in Golden Triangle",
+  "generated_date": "2026-05-01",
+  "lead_headline": "Noble Steakhouse debuts in LoDo, Vaultaire opens subterranean HiFi bar at La For\u00eat, and Ash & Agave launches at Cherry Creek on day one of May's restaurant wave",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>6 opening leads, 4 closure leads today</strong>: Hell or High Water Tiki (RiNo relocation), Olive & Finch (Golden Triangle), Bandar Grill (Sunnyside), HOTDOG & JUICY (Southwest Plaza), Maryjane's Hideaway (Edgewater), The Flaming Grill (downtown). Closures: Mighty Colorado Burger (Arvada), Mojo-99 Burgers (Regis), two Dairy Queen repeats.",
+      "blurb": "<strong>8 opening leads, 1 closure lead today</strong>: Noble Steakhouse (LoDo), Vaultaire listening bar (Speer), Ariel's Cafe (Montbello), Vintage Himalayan (Rosedale reopening). Closure: The Pearl lesbian bar after one-year run.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+6",
+        "value1": "+8",
         "label2": "closed",
-        "value2": "\u22124",
+        "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+69",
+        "value1": "+72",
         "label2": "closed",
-        "value2": "\u221262",
+        "value2": "\u221263",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "18",
+        "value1": "42",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong>, holding the 7-day total at 2,386 licenses after Monday's database flood subsides. The week's unprecedented 2,386-count (up 13,156% from prior week's 18) confirms a mass renewal sync or system event rather than organic filings. No meaningful individual applications detected in Tuesday's batch \u2014 the liquor license landscape remains in post-surge cleanup mode as April closes, with May likely to reset to historical ~20-30 weekly baselines once the database stabilizes.",
+      "blurb": "<strong>Zero new applications today</strong>, maintaining the 7-day total at 2,386 licenses as the week-old database surge continues its washout. The massive count \u2014 up 14,813% from the prior week's 16 filings \u2014 represents a clear system event (mass renewals or batch processing) rather than legitimate new business activity. May 1st brings no individual applications of note, confirming the liquor license tracker has entered a post-flood quiet period with organic weekly volumes likely to normalize to historical 20-30 baselines once backend cleanup concludes.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,18 +59,18 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>7 mentions yesterday</strong> extends the 7-day count to 47 across 14 sources \u2014 up 7% from last week's 44 and sustaining April's closing momentum above Q1 baselines. Instagram (11) edges out Facebook (10) as the week's top source, followed by Reddit (6), Denver Post (4), and Hoodline (3). Tuesday's coverage included City Cast Denver's LoDo nightlife piece, Hoodline's Greenwood Village office tower seizure story, and social chatter about Temple Denver's evolution and new scooter contracts. The steady 47-mention pace confirms media interest has plateaued near monthly averages as April wraps, with social platforms maintaining their dominance over traditional outlets.",
+      "blurb": "<strong>Zero mentions yesterday</strong> drops the 7-day count to 40 across 14 sources \u2014 down 17% from last week's 48 and marking April's weakest daily showing in three weeks. Instagram (10) leads Wednesday's weekly tally ahead of Facebook (9), Reddit (6), and a three-way tie between Hoodline, Denver Post, and City Cast (3 each). Recent pickups include City Cast's LoDo nightlife ordinance coverage, Hoodline's Greenwood Village office seizure story, and social chatter about Temple Denver's evolution and scooter contract changes. The 40-mention pace lands 4% below April's 42-count monthly average, with Wednesday's zero suggesting end-of-month editorial slowdown ahead of May's reset.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "7",
-        "class1": "",
+        "value1": "0",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "47",
-        "class1": "up",
+        "value1": "40",
+        "class1": "down",
         "label2": "sources",
         "value2": "14",
         "class2": "",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (3 new, 2 canceled) nudges MTD to +23 (+0.8/day) with 90-day net at +117. Tuesday's modest gain follows Monday's +1 recovery from Sunday's \u221213 churn spike that erased the prior week's momentum \u2014 the 7-day total now stands at \u22121 net (21 new, 22 canceled), down sharply from last week's +13 and confirming April's late-month rally has stalled. The recent two-week pattern shows Sunday's 17-cancellation wave reversed 10 days of steady growth, with MTD's +0.8/day pace now trailing YTD's +1.3/day baseline by 38%. Barring a surprise Wednesday surge, April will close below March's conversion rate as volatility replaces the quarter's earlier stability.",
+      "blurb": "<strong>Net +3 yesterday</strong> (3 new, 0 canceled) pushes MTD to +0 (+0.0/day) with 90-day net at +119. Wednesday's clean gain follows Tuesday's +1 crawl after Monday's \u221213 churn event that erased two weeks of momentum \u2014 the 7-day total now stands at \u22123 net (17 new, 20 canceled), down from last week's +16 and confirming April's final stretch has turned choppy. The past fortnight shows April 28th's 17-cancellation spike reversed 10 days of steady growth, leaving May's opening day with MTD flat at exactly zero net despite Wednesday's uptick. Current pace trails YTD's +1.3/day baseline by 100% as volatility replaces Q1's conversion stability, with May needing sustained daily gains to recover April's lost ground.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "23",
-      "net_ytd": "154",
-      "net_mtd_per_day": "0.8",
+      "net_mtd": "0",
+      "net_ytd": "157",
+      "net_mtd_per_day": "0.0",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "18",
-      "annual_ytd": "125",
-      "monthly_mtd": "5",
-      "monthly_ytd": "29"
+      "annual_mtd": "0",
+      "annual_ytd": "157",
+      "monthly_mtd": "0",
+      "monthly_ytd": "0"
     }
   }
 }
