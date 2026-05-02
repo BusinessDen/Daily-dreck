@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-05-02",
-  "fetched_at": "2026-05-02 16:20:14",
+  "fetched_at": "2026-05-02 17:20:16",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Spirit Airlines says it\u2019s going out of business after 34 years and is ending operations immediately",
+      "link": "https://kdvr.com/news/nationalworld-news/spirit-airlines-says-its-going-out-of-business-after-34-years-and-is-ending-operations-immediately/",
+      "source": "Fox31",
+      "pub_date": "2026-05-02T17:09:11+00:00",
+      "age_hours": 0.18069757083333335,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "REP. CARTER: I voted yes on farm worker overtime bill. I would do it again.",
+      "link": "https://sentinelcolorado.com/opinion/rep-carter-i-voted-yes-on-farm-worker-overtime-bill-i-would-do-it-again/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-02T16:42:58+00:00",
+      "age_hours": 0.6179039775,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
     {
       "title": "Refrigeration truck company offering $1K in hit-and-run case",
       "link": "https://kdvr.com/news/local/refrigeration-truck-company-offering-1k-in-hit-and-run-case/",
       "source": "Fox31",
       "pub_date": "2026-05-02T15:58:23+00:00",
-      "age_hours": 0.3602078913888889,
+      "age_hours": 1.3606973716666668,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Gas prices 35 cents higher than a week ago",
       "link": "https://www.9news.com/article/news/nation-world/gas-fuel-diesel-prices-national-average-per-gallon/507-b6679223-206c-47ca-a393-d06e29430c10",
       "source": "9News",
       "pub_date": "2026-05-02T11:55:56+00:00",
-      "age_hours": 4.400732212222222,
+      "age_hours": 5.401309586666667,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Nexstar Tegna antitrust lawsuit now bipartisan, Nexstar fires back",
       "link": "https://coloradosun.com/2026/05/02/nexstar-tegna-antitrust-attorneys-general-bipartisan/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-02T10:12:00+00:00",
-      "age_hours": 6.132844280277778,
+      "age_hours": 7.133401854166666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Restaurant Roll Call: Every Opening and Closing in April",
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-outpace-closings-two-to-one-40879801/",
       "source": "Westword",
       "pub_date": "2026-05-02T07:03:00-06:00",
-      "age_hours": 3.2833685869444444,
+      "age_hours": 4.283850306388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Spirit Airlines shuts down overnight, canceling all flights and ending customer service",
       "link": "https://www.9news.com/article/news/nation-world/reports-spirit-airlines-preparing-cease-operations/507-dc162a80-89a5-4ffc-9aba-e50bdd09e4a4",
       "source": "9News",
       "pub_date": "2026-05-02T06:42:32+00:00",
-      "age_hours": 9.624065594722223,
+      "age_hours": 10.624642969444444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 5.1.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-5-1-26/",
       "source": "Sentinel",
       "pub_date": "2026-05-02T05:41:00+00:00",
-      "age_hours": 10.650283276388889,
+      "age_hours": 11.650681781666666,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver's La Raza Park reopens after $2 million renovation",
       "link": "https://www.9news.com/article/news/community/race-and-culture/la-raza-park-reopens-renovation/73-e0ade782-a7a6-4566-bf67-7fbbfac49898",
       "source": "9News",
       "pub_date": "2026-05-02T03:22:02+00:00",
-      "age_hours": 12.96573233,
+      "age_hours": 13.966309701666667,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Hundreds show up to Denver court after convincing traffic ticket text scam",
       "link": "https://kdvr.com/news/local/hundreds-show-up-to-denver-court-after-convincing-traffic-ticket-text-scam/",
       "source": "Fox31",
       "pub_date": "2026-05-02T02:38:59+00:00",
-      "age_hours": 13.683541289444443,
+      "age_hours": 14.684030749722222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "European Wax Center $5M settlement: How to find out if you qualify and file a claim",
       "link": "https://www.9news.com/article/news/nation-world/european-wax-center-settlement-qualify-file-claim/507-09604480-8120-4c10-9651-069d1fe8149b",
       "source": "9News",
       "pub_date": "2026-05-02T02:18:27+00:00",
-      "age_hours": 14.0254545575,
+      "age_hours": 15.026031928888889,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Major roads reopen in Denver metro, Castle Rock",
       "link": "https://kdvr.com/news/local/crashes-impacting-major-roads-in-denver-metro-castle-rock/",
       "source": "Fox31",
       "pub_date": "2026-05-02T00:12:48+00:00",
-      "age_hours": 16.11993024222222,
+      "age_hours": 17.120419690277778,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Open valve results in sprinklers running for hours on Denver median",
       "link": "https://www.9news.com/article/news/open-valve-leaves-sprinklers-running-hours-denver-median/73-5ea40341-3322-4bd2-b9ec-88720486a032",
       "source": "9News",
       "pub_date": "2026-05-02T00:04:50+00:00",
-      "age_hours": 16.252399092222223,
+      "age_hours": 17.252976459166668,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado to get $75 million from opioid settlement with Purdue Pharma",
       "link": "https://www.coloradopolitics.com/2026/05/01/colorado-to-get-75-million-from-opioid-settlement-with-purdue-pharma/",
       "source": "CO Politics",
       "pub_date": "2026-05-01T23:22:18+00:00",
-      "age_hours": 16.961805501944443,
+      "age_hours": 17.96231523888889,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado\u2019s AI compromise would focus regulations on informing consumers when the technology is used",
       "link": "https://coloradosun.com/2026/05/01/colorado-ai-law-change-bill-introduced/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-01T22:58:29+00:00",
-      "age_hours": 17.35812245138889,
+      "age_hours": 18.358680200277778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Hundreds arrive at Denver courthouse after fake summons texted to Denver-area phones",
-      "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/hundreds-denver-court-fake-court-order-texted-denver-area-phones/73-aebee8fd-1b43-4795-b8de-09efdff7260b",
-      "source": "9News",
-      "pub_date": "2026-05-01T22:53:47+00:00",
-      "age_hours": 17.436565814722222,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Aurora man convicted in 2024 fatal injuries of 10-day-old daughter",
       "link": "https://sentinelcolorado.com/metro/aurora-man-convicted-in-2024-fatal-injuries-of-10-day-old-daughter/",
       "source": "Sentinel",
       "pub_date": "2026-05-01T22:27:19+00:00",
-      "age_hours": 17.878339170277776,
+      "age_hours": 18.878737686944447,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Confluence: Infrastructure, storage, regs challenge power, water providers",
       "link": "https://bizwest.com/2026/05/01/confluence-infrastructure-storage-regs-challenge-power-water-providers/",
       "source": "BizWest",
       "pub_date": "2026-05-01T22:05:21+00:00",
-      "age_hours": 18.24307747166667,
+      "age_hours": 19.243738449444443,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Confluence: For overburdened Colorado River, \u2018you can\u2019t make new water\u2019",
       "link": "https://bizwest.com/2026/05/01/confluence-for-overburdened-colorado-river-you-cant-make-new-water/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:57:52+00:00",
-      "age_hours": 18.36780026583333,
+      "age_hours": 19.368461181944443,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Colorado pro-union bill faces potential veto from Gov. Polis, again",
       "link": "https://sentinelcolorado.com/sentinel-biz-news/colorado-pro-union-bill-faces-potential-veto-from-gov-polis-again/",
       "source": "Sentinel",
       "pub_date": "2026-05-01T21:51:30+00:00",
-      "age_hours": 18.47528388222222,
+      "age_hours": 19.475682397777778,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Middle East conflicts added to Q1 headwinds for DMC Global",
       "link": "https://bizwest.com/2026/05/01/middle-east-conflicts-added-to-q1-headwinds-for-dmc-global/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:48:02+00:00",
-      "age_hours": 18.531689194444443,
+      "age_hours": 19.532350110833335,
       "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Aurora Mental Health cutting 111 jobs, citing Medicaid cuts. State officials push back",
-      "link": "https://sentinelcolorado.com/metro/aurora-mental-health-to-lay-off-111-employees-citing-medicaid-funding-cuts/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-01T21:43:11+00:00",
-      "age_hours": 18.61389509388889,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     }
   ]
 }
