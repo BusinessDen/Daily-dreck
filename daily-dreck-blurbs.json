@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-05-02",
-  "lead_headline": "Two Lazy Dogs dive bar opens downtown, Beard Papa's shutters after 5-year run, while Vintage Himalayan resurfaces under new detection",
+  "generated_date": "2026-05-03",
+  "lead_headline": "138 active restaurant leads tracked \u2014 74 openings, 64 closures \u2014 with new spots in Rosedale, CBD, and Montbello emerging this week",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>7 new leads today</strong>: Two Lazy Dogs dive bar (CBD), Vintage Himalayan reopening (Rosedale), both detected this morning. Closure: Beard Papa's dessert shop after 5 years.",
+      "blurb": "<strong>3 new leads today</strong>: Noble Steakhouse (Union Station), Ariel's Cafe (Montbello), The Pearl lesbian bar closure (Five Points). Active: 138 leads total.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+5",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+74",
+        "value1": "74",
         "label2": "closed",
-        "value2": "\u221264",
+        "value2": "64",
         "period": "all leads"
       }
     },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong>, holding the 7-day count at 2,386 licenses as the mass-filing event continues its decay. The database anomaly \u2014 up 14,813% from the prior week's 16 filings \u2014 remains a system event (batch renewals or backend processing) rather than organic business activity. Friday's silence confirms the post-flood normalization, with weekly volumes expected to settle back to historical 20-30 baselines once the April surge fully clears from rolling counts.",
+      "blurb": "<strong>Zero new applications today</strong>, freezing the 7-day total at 2,386 licenses \u2014 up 39,667% from last week's 6 filings \u2014 as the database anomaly enters its third consecutive day of silence. Saturday's zero extends Friday's quiet, confirming the mass-filing event has fully exhausted itself after flooding the system mid-week. The 2,386-count spike represents batch renewals or backend processing, not organic business activity. Expect next week's rolling 7-day window to begin shedding this surge as the April flood exits the count, with weekly volumes forecast to revert to historical 20-30 baselines once the anomaly clears completely.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -53,41 +53,41 @@
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "2,386",
-        "class1": "",
+        "value1": "2386",
+        "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention yesterday</strong> lifts the 7-day total to 43 across 14 sources \u2014 down 12% from last week's 49 and marking the slowest weekly pace since mid-April. Instagram (14) dominates this week's tally, trailed by Denver Post and Facebook (5 each), Reddit (4), and X (3). Thursday's lone pickup \u2014 an Instagram post about Harvey Park's new farmers market \u2014 underscores the week's social-heavy mix as traditional news outlets scale back April coverage. The 43-count pace runs 5% above April's 41-mention weekly average, but Thursday's anemic single-mention day signals May's opening has yet to spark editorial velocity.",
+      "blurb": "<strong>1 mention yesterday</strong> holds the 7-day count at 44 across 13 sources \u2014 down 15% from last week's 52 mentions and extending the slowdown that began mid-April. Instagram dominates with 16 pickups (36% of weekly total), followed by Denver Post (6), Facebook (5), X (4), and Reddit (3). Saturday's single mention \u2014 an Instagram post about a Centennial multifamily development \u2014 mirrors Friday's lone pickup and confirms the weekend editorial lull. The 44-mention pace runs 7% above April's 41-weekly average, but back-to-back single-mention days signal May's opening momentum has stalled, with traditional news outlets continuing their post-April scale-back while social channels sustain baseline chatter.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "1",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "43",
+        "value1": "44",
         "class1": "down",
         "label2": "sources",
-        "value2": "14",
+        "value2": "13",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) advances MTD to +4 (+4.0/day), with 90-day net at +121. Thursday's modest gain continues the post-April 28th recovery, but the past week's \u22121 net (19 new, 20 canceled) reveals persistent churn undermining May's opening momentum \u2014 down from last week's +16 and confirming the April 28th cancellation spike's lingering drag. The 14-day view shows three consecutive positive days (May 1-2 contributing +4 combined) stabilizing after the 17-cancellation event, though the 7-day deficit means MTD's +4.0/day rate still trails YTD's +1.3/day baseline by 208%. May needs sustained low-churn conversion to reclaim Q1's stability.",
+      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) pushes MTD to +5 (+2.5/day), with 90-day net at +123. Friday's modest gain marks the third consecutive positive day, accumulating +9 across May 1-3 and stabilizing after the April 28th cancellation shock (17 cancellations). But the past week's \u22121 net (19 new, 20 canceled) continues eroding May's opening momentum \u2014 down sharply from last week's +15 \u2014 as persistent churn offsets new subscriber gains. MTD's +2.5/day rate runs 92% above YTD's +1.3/day baseline, suggesting May's opening burst is masking underlying volatility. The 14-day view shows recovery taking hold, but sustaining low-churn conversion remains critical to reclaim Q1's stability and validate May's pace.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": 4,
-      "net_ytd": 161,
-      "net_mtd_per_day": 4.0,
-      "net_ytd_per_day": 1.3,
-      "annual_mtd": 3,
-      "annual_ytd": 134,
-      "monthly_mtd": 1,
-      "monthly_ytd": 27
+      "net_mtd": "5",
+      "net_ytd": "162",
+      "net_mtd_per_day": "2.5",
+      "net_ytd_per_day": "1.3",
+      "annual_mtd": "4",
+      "annual_ytd": "140",
+      "monthly_mtd": "1",
+      "monthly_ytd": "22"
     }
   }
 }
