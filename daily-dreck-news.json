@@ -1,87 +1,105 @@
 {
   "fetched_date": "2026-05-04",
-  "fetched_at": "2026-05-04 10:44:41",
+  "fetched_at": "2026-05-04 11:38:46",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Freeze leaves Colorado farm with no fruit left to harvest",
+      "link": "https://www.9news.com/article/money/business/small-business/mid-april-freeze-leaves-one-colorado-farm-with-no-fruit-left-to-harvest/73-12cc69d1-57fe-402b-8cd3-5ab99ed7bf70",
+      "source": "9News",
+      "pub_date": "2026-05-04T11:26:56+00:00",
+      "age_hours": 0.19266692138888888,
+      "breaking": true,
+      "time_ago": "11 min ago"
+    },
     {
       "title": "Does Colorado recycle less than 20% of the waste it produces?",
       "link": "https://coloradosun.com/2026/05/04/does-colorado-recycle-less-than-20/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-04T09:45:00+00:00",
-      "age_hours": 0.9894585630555556,
+      "age_hours": 1.8915059297222223,
       "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Drought-stressed Colorado communities getting $40M infusion in state water grants",
       "link": "https://coloradosun.com/2026/05/04/colorado-drought-state-grant-water-projects/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-04T09:18:00+00:00",
-      "age_hours": 1.4394589047222222,
+      "age_hours": 2.341506274722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "U-Haul crashes into Denver restaurant while employees and customers are inside",
       "link": "https://kdvr.com/news/local/u-haul-crashes-into-denver-restaurant-while-employees-and-customers-are-inside/",
       "source": "Fox31",
       "pub_date": "2026-05-04T02:51:02+00:00",
-      "age_hours": 7.890672524166666,
+      "age_hours": 8.7911983075,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver Zoo closes temporarily following phone call threat",
       "link": "https://kdvr.com/news/local/denver-zoo-closes-temporarily-following-phone-call-threat/",
       "source": "Fox31",
       "pub_date": "2026-05-04T01:02:26+00:00",
-      "age_hours": 9.700672579722221,
+      "age_hours": 10.601198379444444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Multiple zoos across the US, including Denver Zoo, targeted by threats",
       "link": "https://www.9news.com/article/news/nation-world/zoo-active-shooter-bomb-threat-calls/507-57bea3b5-9c3c-4f2a-81bf-d56321611048",
       "source": "9News",
       "pub_date": "2026-05-04T00:15:14+00:00",
-      "age_hours": 10.4856186625,
+      "age_hours": 11.387667013055555,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "1 taken to hospital after stabbing in Denver on Sunday",
       "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-stabbing-in-denver-on-sunday/",
       "source": "Fox31",
       "pub_date": "2026-05-03T23:55:52+00:00",
-      "age_hours": 10.810117118055556,
+      "age_hours": 11.710642925555554,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
+    },
+    {
+      "title": "Boulder considers changes to tipped earnings as minimum wage set to increase",
+      "link": "https://www.denver7.com/news/local-news/boulder-considers-changes-to-tipped-wages-as-minimum-wage-set-to-increase",
+      "source": "Denver7",
+      "pub_date": "2026-05-03T20:50:18+00:00",
+      "age_hours": 14.80330790888889,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Brewers grapple with extra capacity as craft sales slow",
       "link": "https://bizwest.com/2026/05/03/brewers-grapple-with-extra-capacity-as-craft-sales-slow/",
       "source": "BizWest",
       "pub_date": "2026-05-03T17:07:03+00:00",
-      "age_hours": 17.62159321972222,
+      "age_hours": 18.52321987722222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Denver police: Officers shoot armed suspect in overnight 16th Street shooting",
       "link": "https://kdvr.com/news/local/denver-police-officers-shoot-armed-suspect-in-overnight-16th-street-shooting/",
       "source": "Fox31",
       "pub_date": "2026-05-03T15:18:49+00:00",
-      "age_hours": 19.427617178055556,
+      "age_hours": 20.328142979722223,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Trump order aims to help more people get retirement savings plans in time for new federal match",
       "link": "https://www.coloradopolitics.com/2026/05/02/trump-order-aims-to-help-more-people-get-retirement-savings-plans-in-time-for-new-federal-match/",
       "source": "CO Politics",
       "pub_date": "2026-05-02T21:06:37+00:00",
-      "age_hours": 37.631149300277784,
+      "age_hours": 38.53189814416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://kdvr.com/news/local/refrigeration-truck-company-offering-1k-in-hit-and-run-case/",
       "source": "Fox31",
       "pub_date": "2026-05-02T15:58:23+00:00",
-      "age_hours": 42.76817279416667,
+      "age_hours": 43.66869860027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +117,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-outpace-closings-two-to-one-40879801/",
       "source": "Westword",
       "pub_date": "2026-05-02T07:03:00-06:00",
-      "age_hours": 45.69130584138889,
+      "age_hours": 46.59192170111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +126,7 @@
       "link": "https://kdvr.com/news/local/hundreds-show-up-to-denver-court-after-convincing-traffic-ticket-text-scam/",
       "source": "Fox31",
       "pub_date": "2026-05-02T02:38:59+00:00",
-      "age_hours": 56.09150616638889,
+      "age_hours": 56.99203197944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +135,7 @@
       "link": "https://kdvr.com/news/local/crashes-impacting-major-roads-in-denver-metro-castle-rock/",
       "source": "Fox31",
       "pub_date": "2026-05-02T00:12:48+00:00",
-      "age_hours": 58.527895105,
+      "age_hours": 59.42842091916667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/05/01/colorado-to-get-75-million-from-opioid-settlement-with-purdue-pharma/",
       "source": "CO Politics",
       "pub_date": "2026-05-01T23:22:18+00:00",
-      "age_hours": 59.36976044777778,
+      "age_hours": 60.27050929194445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://bizwest.com/2026/05/01/confluence-infrastructure-storage-regs-challenge-power-water-providers/",
       "source": "BizWest",
       "pub_date": "2026-05-01T22:05:21+00:00",
-      "age_hours": 60.64992656944444,
+      "age_hours": 61.55155322666666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://bizwest.com/2026/05/01/confluence-for-overburdened-colorado-river-you-cant-make-new-water/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:57:52+00:00",
-      "age_hours": 60.77464935416667,
+      "age_hours": 61.676276013333336,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://bizwest.com/2026/05/01/middle-east-conflicts-added-to-q1-headwinds-for-dmc-global/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:48:02+00:00",
-      "age_hours": 60.93853828722222,
+      "age_hours": 61.84016494166667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://bizwest.com/2026/05/01/aclarion-reports-cash-runway-to-ops-into-late-2027/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:42:07+00:00",
-      "age_hours": 61.03714943083333,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Pilgrim\u2019s Pride boosts top-line results in Q1 while bottom line faltered",
-      "link": "https://bizwest.com/2026/05/01/pilgrims-pride-boosts-top-line-results-in-q1-while-bottom-line-faltered/",
-      "source": "BizWest",
-      "pub_date": "2026-05-01T21:34:16+00:00",
-      "age_hours": 61.16798279388888,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Woodward boosts 2026 sales projection after strong quarter",
-      "link": "https://bizwest.com/2026/05/01/woodward-boosts-2026-sales-projection-after-strong-quarter/",
-      "source": "BizWest",
-      "pub_date": "2026-05-01T21:27:33+00:00",
-      "age_hours": 61.27992727444444,
+      "age_hours": 61.93877608444445,
       "breaking": false,
       "time_ago": "2 days ago"
     }

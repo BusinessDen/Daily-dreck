@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-05-03",
-  "lead_headline": "138 active restaurant leads tracked \u2014 74 openings, 64 closures \u2014 with new spots in Rosedale, CBD, and Montbello emerging this week",
+  "generated_date": "2026-05-04",
+  "lead_headline": "Lost Coffee debuts sixth Colorado location in Arvada today, capping a weekend that saw 9 new restaurant leads including FiNO's Mediterranean opening at the All Inn Hotel and multiple closures across Cherry Creek and Westminster",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 new leads today</strong>: Noble Steakhouse (Union Station), Ariel's Cafe (Montbello), The Pearl lesbian bar closure (Five Points). Active: 138 leads total.",
+      "blurb": "<strong>9 new leads since Friday</strong>: FiNO (City Park), Lost Coffee (Arvada), Ash and Agave (Cherry Creek), Paperboy Denver (Highlands), Dumplin' closure (Highlands), Mojo-99 Burgers closure (Westminster). Active: 140 total.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+6",
         "label2": "closed",
-        "value2": "\u22121",
-        "period": "today"
+        "value2": "\u22123",
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "74",
+        "value1": "75",
         "label2": "closed",
-        "value2": "64",
+        "value2": "65",
         "period": "all leads"
       }
     },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong>, freezing the 7-day total at 2,386 licenses \u2014 up 39,667% from last week's 6 filings \u2014 as the database anomaly enters its third consecutive day of silence. Saturday's zero extends Friday's quiet, confirming the mass-filing event has fully exhausted itself after flooding the system mid-week. The 2,386-count spike represents batch renewals or backend processing, not organic business activity. Expect next week's rolling 7-day window to begin shedding this surge as the April flood exits the count, with weekly volumes forecast to revert to historical 20-30 baselines once the anomaly clears completely.",
+      "blurb": "<strong>Zero applications today</strong> extends the post-flood silence to four consecutive days, keeping the 7-day total frozen at 2,144 licenses \u2014 still running 764% above last week's 248 filings \u2014 as the backend processing surge that peaked mid-week continues its slow decay. The anomaly now represents 99.4% of this week's volume, with the rolling window set to begin shedding the spike as April's batch renewals exit the count. Historical baselines of 20-30 weekly filings should return by mid-May once the mass-filing event fully clears the seven-day window.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -53,23 +53,23 @@
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "2386",
+        "value1": "2144",
         "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention yesterday</strong> holds the 7-day count at 44 across 13 sources \u2014 down 15% from last week's 52 mentions and extending the slowdown that began mid-April. Instagram dominates with 16 pickups (36% of weekly total), followed by Denver Post (6), Facebook (5), X (4), and Reddit (3). Saturday's single mention \u2014 an Instagram post about a Centennial multifamily development \u2014 mirrors Friday's lone pickup and confirms the weekend editorial lull. The 44-mention pace runs 7% above April's 41-weekly average, but back-to-back single-mention days signal May's opening momentum has stalled, with traditional news outlets continuing their post-April scale-back while social channels sustain baseline chatter.",
+      "blurb": "<strong>Zero mentions yesterday</strong> drops the 7-day count to 43 across 13 sources \u2014 down 16% from last week's 51 mentions \u2014 as Sunday's complete editorial blackout confirms the weekend slowdown that began Saturday. The 43-mention pace still tracks 5% above April's 41-weekly average, but three consecutive days of minimal activity (1 mention Friday, 1 Saturday, 0 Sunday) marks May's sharpest deceleration yet. Instagram maintains its grip with 16 pickups (37% of weekly volume), followed by Denver Post (6), Facebook (5), X (4), and Reddit (3). Monday typically brings a news cycle reset, but the sustained weekend silence suggests traditional outlets remain in post-April coast mode while social channels provide baseline coverage.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
-        "class1": "",
+        "value1": "0",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "44",
+        "value1": "43",
         "class1": "down",
         "label2": "sources",
         "value2": "13",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) pushes MTD to +5 (+2.5/day), with 90-day net at +123. Friday's modest gain marks the third consecutive positive day, accumulating +9 across May 1-3 and stabilizing after the April 28th cancellation shock (17 cancellations). But the past week's \u22121 net (19 new, 20 canceled) continues eroding May's opening momentum \u2014 down sharply from last week's +15 \u2014 as persistent churn offsets new subscriber gains. MTD's +2.5/day rate runs 92% above YTD's +1.3/day baseline, suggesting May's opening burst is masking underlying volatility. The 14-day view shows recovery taking hold, but sustaining low-churn conversion remains critical to reclaim Q1's stability and validate May's pace.",
+      "blurb": "<strong>Net +5 since Friday</strong> (6 new, 1 canceled) lifts MTD to +5 (+1.7/day), with 90-day net holding at +123. The weekend's steady gains \u2014 zero activity Saturday, +2 Friday, +3 Thursday \u2014 temporarily mask the underlying churn crisis: this week's \u22122 net (18 new, 20 canceled) marks a sharp reversal from last week's +17 and exposes persistent cancellation pressure that's now neutralizing new subscriber momentum. MTD's +1.7/day rate runs 31% above YTD's +1.3/day baseline, but the April 28th mass-cancellation event (17 losses in one day) continues rippling through the data. Until daily churn returns to single digits and conversion stabilizes, May's opening gains remain fragile despite Friday-Sunday's brief respite.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "5",
       "net_ytd": "162",
-      "net_mtd_per_day": "2.5",
+      "net_mtd_per_day": "1.7",
       "net_ytd_per_day": "1.3",
       "annual_mtd": "4",
-      "annual_ytd": "140",
+      "annual_ytd": "128",
       "monthly_mtd": "1",
-      "monthly_ytd": "22"
+      "monthly_ytd": "34"
     }
   }
 }
