@@ -1,69 +1,87 @@
 {
   "fetched_date": "2026-05-04",
-  "fetched_at": "2026-05-04 08:55:51",
+  "fetched_at": "2026-05-04 09:53:07",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Does Colorado recycle less than 20% of the waste it produces?",
+      "link": "https://coloradosun.com/2026/05/04/does-colorado-recycle-less-than-20/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-05-04T09:45:00+00:00",
+      "age_hours": 0.13106615638888888,
+      "breaking": true,
+      "time_ago": "7 min ago"
+    },
+    {
+      "title": "Drought-stressed Colorado communities getting $40M infusion in state water grants",
+      "link": "https://coloradosun.com/2026/05/04/colorado-drought-state-grant-water-projects/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-05-04T09:18:00+00:00",
+      "age_hours": 0.5810665052777777,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
     {
       "title": "U-Haul crashes into Denver restaurant while employees and customers are inside",
       "link": "https://kdvr.com/news/local/u-haul-crashes-into-denver-restaurant-while-employees-and-customers-are-inside/",
       "source": "Fox31",
       "pub_date": "2026-05-04T02:51:02+00:00",
-      "age_hours": 6.0762060572222225,
+      "age_hours": 7.030740394722223,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver Zoo closes temporarily following phone call threat",
       "link": "https://kdvr.com/news/local/denver-zoo-closes-temporarily-following-phone-call-threat/",
       "source": "Fox31",
       "pub_date": "2026-05-04T01:02:26+00:00",
-      "age_hours": 7.886206109722222,
+      "age_hours": 8.84074044111111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Multiple zoos across the US, including Denver Zoo, targeted by threats",
       "link": "https://www.9news.com/article/news/nation-world/zoo-active-shooter-bomb-threat-calls/507-57bea3b5-9c3c-4f2a-81bf-d56321611048",
       "source": "9News",
       "pub_date": "2026-05-04T00:15:14+00:00",
-      "age_hours": 8.672574320277779,
+      "age_hours": 9.62721084861111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "1 taken to hospital after stabbing in Denver on Sunday",
       "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-stabbing-in-denver-on-sunday/",
       "source": "Fox31",
       "pub_date": "2026-05-03T23:55:52+00:00",
-      "age_hours": 8.995650640833333,
+      "age_hours": 9.95018497861111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Brewers grapple with extra capacity as craft sales slow",
       "link": "https://bizwest.com/2026/05/03/brewers-grapple-with-extra-capacity-as-craft-sales-slow/",
       "source": "BizWest",
       "pub_date": "2026-05-03T17:07:03+00:00",
-      "age_hours": 15.80840738138889,
+      "age_hours": 16.763116276666665,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Denver police: Officers shoot armed suspect in overnight 16th Street shooting",
       "link": "https://kdvr.com/news/local/denver-police-officers-shoot-armed-suspect-in-overnight-16th-street-shooting/",
       "source": "Fox31",
       "pub_date": "2026-05-03T15:18:49+00:00",
-      "age_hours": 17.613150689166666,
+      "age_hours": 18.56768502861111,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Trump order aims to help more people get retirement savings plans in time for new federal match",
       "link": "https://www.coloradopolitics.com/2026/05/02/trump-order-aims-to-help-more-people-get-retirement-savings-plans-in-time-for-new-federal-match/",
       "source": "CO Politics",
       "pub_date": "2026-05-02T21:06:37+00:00",
-      "age_hours": 35.81671019638889,
+      "age_hours": 36.771480277222224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +90,7 @@
       "link": "https://www.9news.com/article/news/nation-world/reports-spirit-airlines-preparing-cease-operations/507-dc162a80-89a5-4ffc-9aba-e50bdd09e4a4",
       "source": "9News",
       "pub_date": "2026-05-02T19:47:49+00:00",
-      "age_hours": 37.129518911666665,
+      "age_hours": 38.084155431666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,16 +99,7 @@
       "link": "https://kdvr.com/news/local/refrigeration-truck-company-offering-1k-in-hit-and-run-case/",
       "source": "Fox31",
       "pub_date": "2026-05-02T15:58:23+00:00",
-      "age_hours": 40.95370630611111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Nexstar Tegna antitrust lawsuit now bipartisan, Nexstar fires back",
-      "link": "https://coloradosun.com/2026/05/02/nexstar-tegna-antitrust-attorneys-general-bipartisan/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-02T10:12:00+00:00",
-      "age_hours": 46.72631592861111,
+      "age_hours": 41.908240648611105,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-outpace-closings-two-to-one-40879801/",
       "source": "Westword",
       "pub_date": "2026-05-02T07:03:00-06:00",
-      "age_hours": 43.876845276944444,
+      "age_hours": 44.83137126555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://kdvr.com/news/local/hundreds-show-up-to-denver-court-after-convincing-traffic-ticket-text-scam/",
       "source": "Fox31",
       "pub_date": "2026-05-02T02:38:59+00:00",
-      "age_hours": 54.27703967666667,
+      "age_hours": 55.2315740225,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://kdvr.com/news/local/crashes-impacting-major-roads-in-denver-metro-castle-rock/",
       "source": "Fox31",
       "pub_date": "2026-05-02T00:12:48+00:00",
-      "age_hours": 56.713428613888894,
+      "age_hours": 57.66796296305556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,16 +135,7 @@
       "link": "https://www.coloradopolitics.com/2026/05/01/colorado-to-get-75-million-from-opioid-settlement-with-purdue-pharma/",
       "source": "CO Politics",
       "pub_date": "2026-05-01T23:22:18+00:00",
-      "age_hours": 57.555321344999996,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado\u2019s AI compromise would focus regulations on informing consumers when the technology is used",
-      "link": "https://coloradosun.com/2026/05/01/colorado-ai-law-change-bill-introduced/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-01T22:58:29+00:00",
-      "age_hours": 57.951594113888895,
+      "age_hours": 58.510091423055556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://bizwest.com/2026/05/01/confluence-infrastructure-storage-regs-challenge-power-water-providers/",
       "source": "BizWest",
       "pub_date": "2026-05-01T22:05:21+00:00",
-      "age_hours": 58.836740739166665,
+      "age_hours": 59.791449624444446,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/05/01/confluence-for-overburdened-colorado-river-you-cant-make-new-water/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:57:52+00:00",
-      "age_hours": 58.9614634725,
+      "age_hours": 59.91617243555555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://bizwest.com/2026/05/01/middle-east-conflicts-added-to-q1-headwinds-for-dmc-global/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:48:02+00:00",
-      "age_hours": 59.12535240444444,
+      "age_hours": 60.08006136333333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/05/01/aclarion-reports-cash-runway-to-ops-into-late-2027/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:42:07+00:00",
-      "age_hours": 59.22396354666667,
+      "age_hours": 60.17867250611111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/05/01/pilgrims-pride-boosts-top-line-results-in-q1-while-bottom-line-faltered/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:34:16+00:00",
-      "age_hours": 59.354796909166666,
+      "age_hours": 60.309505871666666,
       "breaking": false,
       "time_ago": "2 days ago"
     }
