@@ -1,51 +1,60 @@
 {
   "fetched_date": "2026-05-04",
-  "fetched_at": "2026-05-04 00:50:30",
+  "fetched_at": "2026-05-04 01:40:42",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver Zoo closes temporarily following phone call threat",
+      "link": "https://kdvr.com/news/local/denver-zoo-closes-temporarily-following-phone-call-threat/",
+      "source": "Fox31",
+      "pub_date": "2026-05-04T01:02:26+00:00",
+      "age_hours": 0.6340883147222222,
+      "breaking": true,
+      "time_ago": "38 min ago"
+    },
     {
       "title": "Multiple zoos across the US, including Denver Zoo, targeted by threats",
       "link": "https://www.9news.com/article/news/nation-world/zoo-active-shooter-bomb-threat-calls/507-57bea3b5-9c3c-4f2a-81bf-d56321611048",
       "source": "9News",
       "pub_date": "2026-05-04T00:15:14+00:00",
-      "age_hours": 0.5828509838888889,
+      "age_hours": 1.4205411586111112,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "1 taken to hospital after stabbing in Denver on Sunday",
       "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-stabbing-in-denver-on-sunday/",
       "source": "Fox31",
       "pub_date": "2026-05-03T23:55:52+00:00",
-      "age_hours": 0.9058703391666667,
+      "age_hours": 1.743532856388889,
       "breaking": true,
-      "time_ago": "54 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Brewers grapple with extra capacity as craft sales slow",
       "link": "https://bizwest.com/2026/05/03/brewers-grapple-with-extra-capacity-as-craft-sales-slow/",
       "source": "BizWest",
       "pub_date": "2026-05-03T17:07:03+00:00",
-      "age_hours": 7.718177111388889,
+      "age_hours": 8.556459171666667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver police: Officers shoot armed suspect in overnight 16th Street shooting",
       "link": "https://kdvr.com/news/local/denver-police-officers-shoot-armed-suspect-in-overnight-16th-street-shooting/",
       "source": "Fox31",
       "pub_date": "2026-05-03T15:18:49+00:00",
-      "age_hours": 9.523370389166667,
+      "age_hours": 10.361032901944444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Trump order aims to help more people get retirement savings plans in time for new federal match",
       "link": "https://www.coloradopolitics.com/2026/05/02/trump-order-aims-to-help-more-people-get-retirement-savings-plans-in-time-for-new-federal-match/",
       "source": "CO Politics",
       "pub_date": "2026-05-02T21:06:37+00:00",
-      "age_hours": 27.72706696777778,
+      "age_hours": 28.56461202722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.9news.com/article/news/nation-world/reports-spirit-airlines-preparing-cease-operations/507-dc162a80-89a5-4ffc-9aba-e50bdd09e4a4",
       "source": "9News",
       "pub_date": "2026-05-02T19:47:49+00:00",
-      "age_hours": 29.039795587222223,
+      "age_hours": 29.877485747222224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://kdvr.com/news/local/refrigeration-truck-company-offering-1k-in-hit-and-run-case/",
       "source": "Fox31",
       "pub_date": "2026-05-02T15:58:23+00:00",
-      "age_hours": 32.86392602916667,
+      "age_hours": 33.701588524444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://coloradosun.com/2026/05/02/nexstar-tegna-antitrust-attorneys-general-bipartisan/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-02T10:12:00+00:00",
-      "age_hours": 38.63659620027778,
+      "age_hours": 39.47437708694444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-outpace-closings-two-to-one-40879801/",
       "source": "Westword",
       "pub_date": "2026-05-02T07:03:00-06:00",
-      "age_hours": 35.78709298416666,
+      "age_hours": 36.62472376444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://kdvr.com/news/local/hundreds-show-up-to-denver-court-after-convincing-traffic-ticket-text-scam/",
       "source": "Fox31",
       "pub_date": "2026-05-02T02:38:59+00:00",
-      "age_hours": 46.18725940861111,
+      "age_hours": 47.02492189777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://kdvr.com/news/local/crashes-impacting-major-roads-in-denver-metro-castle-rock/",
       "source": "Fox31",
       "pub_date": "2026-05-02T00:12:48+00:00",
-      "age_hours": 48.623648351944446,
+      "age_hours": 49.46131083666666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/05/01/colorado-to-get-75-million-from-opioid-settlement-with-purdue-pharma/",
       "source": "CO Politics",
       "pub_date": "2026-05-01T23:22:18+00:00",
-      "age_hours": 49.46567811722222,
+      "age_hours": 50.303223175,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://coloradosun.com/2026/05/01/colorado-ai-law-change-bill-introduced/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-01T22:58:29+00:00",
-      "age_hours": 49.86187437666666,
+      "age_hours": 50.69965526777778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://bizwest.com/2026/05/01/confluence-infrastructure-storage-regs-challenge-power-water-providers/",
       "source": "BizWest",
       "pub_date": "2026-05-01T22:05:21+00:00",
-      "age_hours": 50.746510460555555,
+      "age_hours": 51.58479252388889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/05/01/confluence-for-overburdened-colorado-river-you-cant-make-new-water/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:57:52+00:00",
-      "age_hours": 50.871233234444446,
+      "age_hours": 51.70951532611111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/05/01/middle-east-conflicts-added-to-q1-headwinds-for-dmc-global/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:48:02+00:00",
-      "age_hours": 51.03512216166666,
+      "age_hours": 51.873404254166665,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/05/01/aclarion-reports-cash-runway-to-ops-into-late-2027/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:42:07+00:00",
-      "age_hours": 51.13373330444444,
+      "age_hours": 51.9720153975,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/05/01/pilgrims-pride-boosts-top-line-results-in-q1-while-bottom-line-faltered/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:34:16+00:00",
-      "age_hours": 51.2645666675,
+      "age_hours": 52.10284876083333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/05/01/woodward-boosts-2026-sales-projection-after-strong-quarter/",
       "source": "BizWest",
       "pub_date": "2026-05-01T21:27:33+00:00",
-      "age_hours": 51.376511148055556,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Committee approves reworked version of previously vetoed rideshare bill",
-      "link": "https://www.coloradopolitics.com/2026/05/01/committee-approves-reworked-version-of-previously-vetoed-rideshare-bill/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-01T20:21:21+00:00",
-      "age_hours": 52.481511458611116,
+      "age_hours": 52.2147932475,
       "breaking": false,
       "time_ago": "2 days ago"
     }
