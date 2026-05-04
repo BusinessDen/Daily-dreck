@@ -1,60 +1,105 @@
 {
   "fetched_date": "2026-05-04",
-  "fetched_at": "2026-05-04 11:38:46",
+  "fetched_at": "2026-05-04 12:41:44",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Multiple zoos across the US, including Denver Zoo, targeted by threats",
+      "link": "https://www.9news.com/article/news/nation-world/zoo-active-shooter-bomb-threat-calls/507-57bea3b5-9c3c-4f2a-81bf-d56321611048",
+      "source": "9News",
+      "pub_date": "2026-05-04T12:36:42+00:00",
+      "age_hours": 0.07928752250000001,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "Family struggles to locate missing bags amid Spirit Airlines shutdown",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/missing-bags-no-help-after-spirit-airlines-closure/507-0a562539-07c0-461b-9bdb-ca1b26c16e4d",
+      "source": "9News",
+      "pub_date": "2026-05-04T12:20:00+00:00",
+      "age_hours": 0.3576209069444445,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Denver Zoo to reopen after threats targeting US zoos",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/denver-zoo-reopen-threats-targeting-us-zoos/73-b34b4534-611a-4dca-bc3f-3dbfc83eea35",
+      "source": "9News",
+      "pub_date": "2026-05-04T12:17:53+00:00",
+      "age_hours": 0.3928987338888889,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
+    {
+      "title": "Gas prices continue to climb, with Colorado drivers finding ways to stretch their budgets",
+      "link": "https://www.denver7.com/money/gas-prices-continue-to-climb-with-colorado-drivers-finding-ways-to-stretch-their-budgets",
+      "source": "Denver7",
+      "pub_date": "2026-05-04T12:15:37+00:00",
+      "age_hours": 0.4308156269444445,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
+    {
+      "title": "Automatic payments could be costing you more: Money Saving Monday",
+      "link": "https://www.denver7.com/money/automatic-payments-could-be-costing-you-more-money-saving-monday",
+      "source": "Denver7",
+      "pub_date": "2026-05-04T11:54:51+00:00",
+      "age_hours": 0.7769267966666666,
+      "breaking": true,
+      "time_ago": "46 min ago"
+    },
     {
       "title": "Freeze leaves Colorado farm with no fruit left to harvest",
       "link": "https://www.9news.com/article/money/business/small-business/mid-april-freeze-leaves-one-colorado-farm-with-no-fruit-left-to-harvest/73-12cc69d1-57fe-402b-8cd3-5ab99ed7bf70",
       "source": "9News",
       "pub_date": "2026-05-04T11:26:56+00:00",
-      "age_hours": 0.19266692138888888,
+      "age_hours": 1.2420654630555554,
       "breaking": true,
-      "time_ago": "11 min ago"
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "US denies Iran struck a military vessel during new effort to reopen Strait of Hormuz",
+      "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/task-force-ships-reroute-effort-reopen-strait-of-hormuz/507-4ebc8710-8622-488c-97b9-58a73bac2090",
+      "source": "9News",
+      "pub_date": "2026-05-04T10:01:49+00:00",
+      "age_hours": 2.660676585833333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Does Colorado recycle less than 20% of the waste it produces?",
       "link": "https://coloradosun.com/2026/05/04/does-colorado-recycle-less-than-20/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-04T09:45:00+00:00",
-      "age_hours": 1.8915059297222223,
+      "age_hours": 2.940800548611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Drought-stressed Colorado communities getting $40M infusion in state water grants",
       "link": "https://coloradosun.com/2026/05/04/colorado-drought-state-grant-water-projects/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-04T09:18:00+00:00",
-      "age_hours": 2.341506274722222,
+      "age_hours": 3.390800919166667,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "U-Haul crashes into Denver restaurant while employees and customers are inside",
       "link": "https://kdvr.com/news/local/u-haul-crashes-into-denver-restaurant-while-employees-and-customers-are-inside/",
       "source": "Fox31",
       "pub_date": "2026-05-04T02:51:02+00:00",
-      "age_hours": 8.7911983075,
+      "age_hours": 9.840662098055555,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver Zoo closes temporarily following phone call threat",
       "link": "https://kdvr.com/news/local/denver-zoo-closes-temporarily-following-phone-call-threat/",
       "source": "Fox31",
       "pub_date": "2026-05-04T01:02:26+00:00",
-      "age_hours": 10.601198379444444,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Multiple zoos across the US, including Denver Zoo, targeted by threats",
-      "link": "https://www.9news.com/article/news/nation-world/zoo-active-shooter-bomb-threat-calls/507-57bea3b5-9c3c-4f2a-81bf-d56321611048",
-      "source": "9News",
-      "pub_date": "2026-05-04T00:15:14+00:00",
-      "age_hours": 11.387667013055555,
+      "age_hours": 11.65066215138889,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -63,43 +108,43 @@
       "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-stabbing-in-denver-on-sunday/",
       "source": "Fox31",
       "pub_date": "2026-05-03T23:55:52+00:00",
-      "age_hours": 11.710642925555554,
+      "age_hours": 12.760106683333332,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Boulder considers changes to tipped earnings as minimum wage set to increase",
       "link": "https://www.denver7.com/news/local-news/boulder-considers-changes-to-tipped-wages-as-minimum-wage-set-to-increase",
       "source": "Denver7",
       "pub_date": "2026-05-03T20:50:18+00:00",
-      "age_hours": 14.80330790888889,
+      "age_hours": 15.85276017611111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Brewers grapple with extra capacity as craft sales slow",
       "link": "https://bizwest.com/2026/05/03/brewers-grapple-with-extra-capacity-as-craft-sales-slow/",
       "source": "BizWest",
       "pub_date": "2026-05-03T17:07:03+00:00",
-      "age_hours": 18.52321987722222,
+      "age_hours": 19.572407805277777,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Denver police: Officers shoot armed suspect in overnight 16th Street shooting",
       "link": "https://kdvr.com/news/local/denver-police-officers-shoot-armed-suspect-in-overnight-16th-street-shooting/",
       "source": "Fox31",
       "pub_date": "2026-05-03T15:18:49+00:00",
-      "age_hours": 20.328142979722223,
+      "age_hours": 21.377606731944446,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Trump order aims to help more people get retirement savings plans in time for new federal match",
       "link": "https://www.coloradopolitics.com/2026/05/02/trump-order-aims-to-help-more-people-get-retirement-savings-plans-in-time-for-new-federal-match/",
       "source": "CO Politics",
       "pub_date": "2026-05-02T21:06:37+00:00",
-      "age_hours": 38.53189814416667,
+      "age_hours": 39.5814144475,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +153,7 @@
       "link": "https://kdvr.com/news/local/refrigeration-truck-company-offering-1k-in-hit-and-run-case/",
       "source": "Fox31",
       "pub_date": "2026-05-02T15:58:23+00:00",
-      "age_hours": 43.66869860027778,
+      "age_hours": 44.718162345555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +162,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-outpace-closings-two-to-one-40879801/",
       "source": "Westword",
       "pub_date": "2026-05-02T07:03:00-06:00",
-      "age_hours": 46.59192170111111,
+      "age_hours": 47.64142607416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,61 +171,16 @@
       "link": "https://kdvr.com/news/local/hundreds-show-up-to-denver-court-after-convincing-traffic-ticket-text-scam/",
       "source": "Fox31",
       "pub_date": "2026-05-02T02:38:59+00:00",
-      "age_hours": 56.99203197944445,
+      "age_hours": 58.04149572055556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
     {
-      "title": "Major roads reopen in Denver metro, Castle Rock",
-      "link": "https://kdvr.com/news/local/crashes-impacting-major-roads-in-denver-metro-castle-rock/",
-      "source": "Fox31",
-      "pub_date": "2026-05-02T00:12:48+00:00",
-      "age_hours": 59.42842091916667,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado to get $75 million from opioid settlement with Purdue Pharma",
-      "link": "https://www.coloradopolitics.com/2026/05/01/colorado-to-get-75-million-from-opioid-settlement-with-purdue-pharma/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-01T23:22:18+00:00",
-      "age_hours": 60.27050929194445,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Confluence: Infrastructure, storage, regs challenge power, water providers",
-      "link": "https://bizwest.com/2026/05/01/confluence-infrastructure-storage-regs-challenge-power-water-providers/",
-      "source": "BizWest",
-      "pub_date": "2026-05-01T22:05:21+00:00",
-      "age_hours": 61.55155322666666,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Confluence: For overburdened Colorado River, \u2018you can\u2019t make new water\u2019",
-      "link": "https://bizwest.com/2026/05/01/confluence-for-overburdened-colorado-river-you-cant-make-new-water/",
-      "source": "BizWest",
-      "pub_date": "2026-05-01T21:57:52+00:00",
-      "age_hours": 61.676276013333336,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Middle East conflicts added to Q1 headwinds for DMC Global",
-      "link": "https://bizwest.com/2026/05/01/middle-east-conflicts-added-to-q1-headwinds-for-dmc-global/",
-      "source": "BizWest",
-      "pub_date": "2026-05-01T21:48:02+00:00",
-      "age_hours": 61.84016494166667,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Aclarion reports cash runway to ops into late 2027",
-      "link": "https://bizwest.com/2026/05/01/aclarion-reports-cash-runway-to-ops-into-late-2027/",
-      "source": "BizWest",
-      "pub_date": "2026-05-01T21:42:07+00:00",
-      "age_hours": 61.93877608444445,
+      "title": "East Colfax BRT construction begins final leg in Aurora with new approach to protect businesses",
+      "link": "https://www.denver7.com/news/local-news/east-colfax-brt-construction-begins-final-leg-in-aurora-with-new-approach-to-protect-businesses",
+      "source": "Denver7",
+      "pub_date": "2026-05-02T00:35:42+00:00",
+      "age_hours": 60.09609356138889,
       "breaking": false,
       "time_ago": "2 days ago"
     }
