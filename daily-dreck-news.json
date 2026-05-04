@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-05-04",
-  "fetched_at": "2026-05-04 21:27:58",
+  "fetched_at": "2026-05-04 22:24:50",
   "article_count": 20,
-  "breaking_count": 15,
+  "breaking_count": 17,
   "articles": [
+    {
+      "title": "Avalanche watch party canceled as snow returns to Denver",
+      "link": "https://www.9news.com/article/sports/nhl/colorado-avalanche/avalanche-avs-alley-watch-party-canceled-snow/73-a5d4c60a-768e-46d8-ae5f-1a86b8eb1d70",
+      "source": "9News",
+      "pub_date": "2026-05-04T22:01:28+00:00",
+      "age_hours": 0.3854190452777778,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
+    {
+      "title": "Denver police investigating serious crash involving motorcycle",
+      "link": "https://kdvr.com/news/local/denver-police-investigating-serious-crash-involving-motorcycle/",
+      "source": "Fox31",
+      "pub_date": "2026-05-04T21:37:17+00:00",
+      "age_hours": 0.7886749011111112,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
+    {
+      "title": "Alterra IOS Acquires 5 Industrial Outdoor Storage Properties",
+      "link": "https://milehighcre.com/alterra-ios-acquires-5-industrial-outdoor-storage-properties/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-05-04T21:33:34+00:00",
+      "age_hours": 0.8502429072222223,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
+    {
+      "title": "Brinkmann seeks final payment on Core Boulder project",
+      "link": "https://bizwest.com/2026/05/04/brinkmann-seeks-final-payment-on-core-boulder-project/",
+      "source": "BizWest",
+      "pub_date": "2026-05-04T21:16:39+00:00",
+      "age_hours": 1.1318081052777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Colorado legislature enters final 10 days with hundreds of bills still unresolved",
       "link": "https://www.coloradopolitics.com/2026/05/04/colorado-legislature-enters-final-10-days-with-hundreds-of-bills-still-unresolved/",
       "source": "CO Politics",
       "pub_date": "2026-05-04T21:06:06+00:00",
-      "age_hours": 0.36088128722222224,
+      "age_hours": 1.3087434469444443,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Landlord sues Boulder Roadhouse over unpaid rent, expenses",
       "link": "https://bizwest.com/2026/05/04/landlord-sues-boulder-roadhouse-over-unpaid-rent-expenses/",
       "source": "BizWest",
       "pub_date": "2026-05-04T21:02:38+00:00",
-      "age_hours": 0.41728790722222225,
+      "age_hours": 1.3654197916666666,
       "breaking": true,
-      "time_ago": "25 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "2 killed in crash involving vehicle and go-kart",
       "link": "https://www.9news.com/article/news/local/go-kart-crash-2-killed/73-ba891c95-bae2-46b1-b6e8-7c50301ae266",
       "source": "9News",
       "pub_date": "2026-05-04T20:03:39+00:00",
-      "age_hours": 1.4009751383333333,
+      "age_hours": 2.3490302019444447,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Go-kart crash leaves two dead in Denver",
       "link": "https://kdvr.com/news/local/go-kart-crash-leaves-two-dead-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-04T19:59:05+00:00",
-      "age_hours": 1.4774329091666667,
+      "age_hours": 2.4253414513888885,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Wildfire-prone Western states are using AI for early detection, including in Aurora",
       "link": "https://sentinelcolorado.com/1gridhome/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection/",
       "source": "Sentinel",
       "pub_date": "2026-05-04T19:51:56+00:00",
-      "age_hours": 1.5970129747222221,
+      "age_hours": 2.544890720833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "CU and DU Advance to NCAA Women\u2019s Lacrosse Tournament",
       "link": "https://kdvr.com/news/cu-and-du-advance-to-ncaa-womens-lacrosse-tournament/",
       "source": "Fox31",
       "pub_date": "2026-05-04T19:51:15+00:00",
-      "age_hours": 1.60798865,
+      "age_hours": 2.5558973111111114,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Private equity firms trade Peak Utility Services",
       "link": "https://bizwest.com/2026/05/04/private-equity-firms-trade-peak-utility-services/",
       "source": "BizWest",
       "pub_date": "2026-05-04T19:43:03+00:00",
-      "age_hours": 1.7436768130555556,
+      "age_hours": 2.691808689444444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Gloo absorbs Workday services partner",
       "link": "https://bizwest.com/2026/05/04/gloo-absorbs-workday-services-partner/",
       "source": "BizWest",
       "pub_date": "2026-05-04T19:40:29+00:00",
-      "age_hours": 1.7864551288888888,
+      "age_hours": 2.7345865008333337,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Louisville looks to update incentives program with new small biz benefits",
       "link": "https://bizwest.com/2026/05/04/louisville-looks-to-update-incentives-program-with-new-small-biz-benefits/",
       "source": "BizWest",
       "pub_date": "2026-05-04T19:37:57+00:00",
-      "age_hours": 1.8286773813888888,
+      "age_hours": 2.7768087505555554,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Confluence: Cities, developers work to mitigate high water costs",
       "link": "https://bizwest.com/2026/05/04/confluence-cities-developers-work-to-mitigate-high-water-costs/",
       "source": "BizWest",
       "pub_date": "2026-05-04T19:34:34+00:00",
-      "age_hours": 1.8850663072222222,
+      "age_hours": 2.8331976758333335,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver tells DOJ it wont repeal longstanding 'assault weapons' ban",
       "link": "https://kdvr.com/news/local/denver-tells-doj-it-wont-repeal-longstanding-assault-weapons-ban/",
       "source": "Fox31",
       "pub_date": "2026-05-04T19:14:13+00:00",
-      "age_hours": 2.2252106202777777,
+      "age_hours": 3.173119285,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Business Buzz: The myth of the 3.5-day workweek and the business of Colfax green space",
       "link": "https://www.9news.com/article/money/business-brief/business-buzz-myth-35-day-workweek-business-colfax-green-space/73-26caee2c-a725-4568-99a7-2b2b0b71def0",
       "source": "9News",
       "pub_date": "2026-05-04T17:59:33+00:00",
-      "age_hours": 3.4693085497222222,
+      "age_hours": 4.417363623611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado justices confirm water-related enterprises may condemn private property",
       "link": "https://www.coloradopolitics.com/2026/05/04/colorado-justices-confirm-water-related-enterprises-may-condemn-private-property/",
       "source": "CO Politics",
       "pub_date": "2026-05-04T17:56:20+00:00",
-      "age_hours": 3.523659203888889,
+      "age_hours": 4.471521346944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "UMB Bank to Anchor BMC Investments\u2019 Cherry Lane Project",
       "link": "https://milehighcre.com/umb-bank-to-anchor-bmc-investments-cherry-lane-project/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-04T16:04:27+00:00",
-      "age_hours": 5.387414969166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.335521013611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver real estate: Rising mortgage rates don't deter buyers",
       "link": "https://www.9news.com/article/money/markets/real-estate/homebuyers-mortgage-rates-sales-rise/73-b2cdd85e-e5d5-4063-a1e6-e89d0021c6ca",
       "source": "9News",
       "pub_date": "2026-05-04T15:32:56+00:00",
-      "age_hours": 5.912919731666666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.860974801666667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Gryffin, Foster the People, Taking Back Sunday announce Red Rocks concerts",
       "link": "https://www.9news.com/article/life/style/colorado-guide/shaboozey-red-rocks-concert-summer-schedule/73-2450556a-7149-4048-985f-98e124eb40e0",
       "source": "9News",
       "pub_date": "2026-05-04T15:26:05+00:00",
-      "age_hours": 6.027086411388889,
+      "age_hours": 6.975141481666666,
       "breaking": false,
       "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "This new-to-Colorado fast food restaurant is opening several locations across Denver",
-      "link": "https://kdvr.com/denver-guide/this-new-to-colorado-fast-food-restaurant-is-opening-several-locations-across-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-05-04T15:21:29+00:00",
-      "age_hours": 6.104099619166667,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Michelin-Recognized Soda Club Opening in Denver",
-      "link": "https://milehighcre.com/michelin-recognized-soda-club-opening-in-denver/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-04T14:42:49+00:00",
-      "age_hours": 6.747970546111111,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver gas pumps near $5: Here's where gas is the cheapest",
-      "link": "https://kdvr.com/news/local/denver-gas-pumps-near-5-heres-where-gas-is-the-cheapest/",
-      "source": "Fox31",
-      "pub_date": "2026-05-04T14:41:35+00:00",
-      "age_hours": 6.769099723888889,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "GameStop trying to buy eBay in effort to rival online retail giants like Amazon",
-      "link": "https://www.9news.com/article/news/nation-world/gamestop-amazon-buy-ebay-bidding-war-stock-cash-deal-offer-takeover-bid/507-ef242a6a-1427-478c-8e9d-6d5e7708ee14",
-      "source": "9News",
-      "pub_date": "2026-05-04T14:00:31+00:00",
-      "age_hours": 7.45319754138889,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
     }
   ]
 }
