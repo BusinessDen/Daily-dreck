@@ -1,114 +1,141 @@
 {
   "fetched_date": "2026-05-05",
-  "fetched_at": "2026-05-05 09:42:28",
+  "fetched_at": "2026-05-05 10:37:29",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Avalanche watch party canceled as snow returns to Denver",
+      "link": "https://www.9news.com/article/sports/nhl/colorado-avalanche/avalanche-avs-alley-watch-party-canceled-snow/73-a5d4c60a-768e-46d8-ae5f-1a86b8eb1d70",
+      "source": "9News",
+      "pub_date": "2026-05-05T10:08:13+00:00",
+      "age_hours": 0.48302011361111113,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "As Colorado gas prices near $4.50 per gallon, driving to work is like taking a pay cut",
+      "link": "https://coloradosun.com/2026/05/05/colorado-gas-prices-truckers-ride-sharing-drivers-uber-lyft/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-05-05T10:00:00+00:00",
+      "age_hours": 0.6198135633333334,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Colorado state lawmakers abandon efforts to legalize smaller lots for single-family homes",
+      "link": "https://coloradosun.com/2026/05/05/colorado-lawmakers-abandon-smaller-lots-housing-hb-1114-hb-1308/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-05-05T10:00:00+00:00",
+      "age_hours": 0.6198141386111111,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
     {
       "title": "Basic income programs remain popular in Colorado despite steep challenges",
       "link": "https://coloradosun.com/2026/05/05/colorado-basic-income-programs-popular-budget-challenges/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-05T09:20:00+00:00",
-      "age_hours": 0.36981667444444444,
+      "age_hours": 1.2864813544444444,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "US attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+      "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/strait-of-hormuz-united-arab-emirates-iran-war/507-16ef0ae2-604e-4b2f-91fd-0ac752a64c6b",
+      "source": "9News",
+      "pub_date": "2026-05-05T08:24:15+00:00",
+      "age_hours": 2.2157978997222223,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 5.4.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-5-4-26/",
       "source": "Sentinel",
       "pub_date": "2026-05-05T05:49:43+00:00",
-      "age_hours": 3.875274175555556,
+      "age_hours": 4.792410028333333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Could the May snowstorm be good for farmers? 1 fruit farm thinks so.",
       "link": "https://www.9news.com/article/weather/weather-colorado/snowstorm-may-be-good-for-colorado-farmers/73-47770a36-c9f8-436e-ab37-60b4b477b396",
       "source": "9News",
       "pub_date": "2026-05-05T03:58:44+00:00",
-      "age_hours": 5.724571969166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.6410757302777785,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Cyclist taken to hospital following crash in Denver",
       "link": "https://kdvr.com/news/local/cyclist-taken-to-hospital-following-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-05T00:50:01+00:00",
-      "age_hours": 8.870067810555556,
+      "age_hours": 9.787139300000002,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "City of Denver, state defy Trump DOJ demands to repeal gun laws",
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/denver-state-trump-doj-gun-laws/73-0e844124-32b2-4e75-8354-cc30ebda8d5f",
       "source": "9News",
       "pub_date": "2026-05-05T00:11:04+00:00",
-      "age_hours": 9.519016491944443,
+      "age_hours": 10.435520226111112,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Columbine Health sells 8 communities to healthcare REIT",
       "link": "https://bizwest.com/2026/05/04/columbine-health-sells-8-communities-to-healthcare-reit/",
       "source": "BizWest",
       "pub_date": "2026-05-04T23:50:05+00:00",
-      "age_hours": 9.86723687611111,
+      "age_hours": 10.784664360833334,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Colorado lawmakers advance rewrite of 2024 law to regulate artificial intelligence",
       "link": "https://www.coloradopolitics.com/2026/05/04/colorado-lawmakers-advance-rewrite-of-2024-law-to-regulate-artificial-intelligence/",
       "source": "CO Politics",
       "pub_date": "2026-05-04T23:31:40+00:00",
-      "age_hours": 10.176071706111111,
+      "age_hours": 11.093218675277777,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Doris Fisher, co-founder of iconic Gap chain, dies at 94",
       "link": "https://www.9news.com/article/news/nation-world/doris-fisher-gap-co-founder-dies/507-5b7f2e42-c92a-4ff5-bf94-27f41ee76439",
       "source": "9News",
       "pub_date": "2026-05-04T23:14:55+00:00",
-      "age_hours": 10.454849898333332,
+      "age_hours": 11.371353626111112,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "After Denver's Odyssey eatery shuts down from fire, owner dealing with a truck through his other restaurant",
       "link": "https://www.denver7.com/news/front-range/denver/after-denvers-odyssey-eatery-shuts-down-from-fire-owner-dealing-with-a-truck-through-his-other-restaurant",
       "source": "Denver7",
       "pub_date": "2026-05-04T23:05:07+00:00",
-      "age_hours": 10.618258891111111,
+      "age_hours": 11.535439833611113,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Road-funding amendment divides Colorado over $539M general fund shift",
       "link": "https://www.coloradopolitics.com/2026/05/04/road-funding-amendment-divides-colorado-over-539m-general-fund-shift/",
       "source": "CO Politics",
       "pub_date": "2026-05-04T22:26:28+00:00",
-      "age_hours": 11.262738471666667,
+      "age_hours": 12.179885427222223,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Avalanche watch party canceled as snow returns to Denver",
-      "link": "https://www.9news.com/article/sports/nhl/colorado-avalanche/avalanche-avs-alley-watch-party-canceled-snow/73-a5d4c60a-768e-46d8-ae5f-1a86b8eb1d70",
-      "source": "9News",
-      "pub_date": "2026-05-04T22:01:28+00:00",
-      "age_hours": 11.679016615277778,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver police investigating serious crash involving motorcycle",
       "link": "https://kdvr.com/news/local/denver-police-investigating-serious-crash-involving-motorcycle/",
       "source": "Fox31",
       "pub_date": "2026-05-04T21:37:17+00:00",
-      "age_hours": 12.082290133055556,
+      "age_hours": 12.9993616125,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -117,70 +144,43 @@
       "link": "https://milehighcre.com/alterra-ios-acquires-5-industrial-outdoor-storage-properties/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-04T21:33:34+00:00",
-      "age_hours": 12.143660506666667,
+      "age_hours": 13.060292629722221,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Brinkmann seeks final payment on Core Boulder project",
       "link": "https://bizwest.com/2026/05/04/brinkmann-seeks-final-payment-on-core-boulder-project/",
       "source": "BizWest",
       "pub_date": "2026-05-04T21:16:39+00:00",
-      "age_hours": 12.42445961027778,
+      "age_hours": 13.34188713638889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Colorado legislature enters final 10 days with hundreds of bills still unresolved",
       "link": "https://www.coloradopolitics.com/2026/05/04/colorado-legislature-enters-final-10-days-with-hundreds-of-bills-still-unresolved/",
       "source": "CO Politics",
       "pub_date": "2026-05-04T21:06:06+00:00",
-      "age_hours": 12.60218293611111,
+      "age_hours": 13.519329891666667,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Landlord sues Boulder Roadhouse over unpaid rent, expenses",
       "link": "https://bizwest.com/2026/05/04/landlord-sues-boulder-roadhouse-over-unpaid-rent-expenses/",
       "source": "BizWest",
       "pub_date": "2026-05-04T21:02:38+00:00",
-      "age_hours": 12.658070753888888,
+      "age_hours": 13.575498279722222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Key labor bill clears Colorado legislature, faces governor\u2019s veto for second year in a row",
       "link": "https://coloradosun.com/2026/05/04/labor-bill-faces-likely-polis-veto-for-second-year/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-04T20:37:28+00:00",
-      "age_hours": 13.078705993055555,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "2 killed in crash involving vehicle and go-kart",
-      "link": "https://www.9news.com/article/news/local/go-kart-crash-2-killed/73-ba891c95-bae2-46b1-b6e8-7c50301ae266",
-      "source": "9News",
-      "pub_date": "2026-05-04T20:03:39+00:00",
-      "age_hours": 13.64262775138889,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Go-kart crash leaves two dead in Denver",
-      "link": "https://kdvr.com/news/local/go-kart-crash-leaves-two-dead-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-05-04T19:59:05+00:00",
-      "age_hours": 13.718956624166665,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Private equity firms trade Peak Utility Services",
-      "link": "https://bizwest.com/2026/05/04/private-equity-firms-trade-peak-utility-services/",
-      "source": "BizWest",
-      "pub_date": "2026-05-04T19:43:03+00:00",
-      "age_hours": 13.984459648888889,
+      "age_hours": 13.995370661666668,
       "breaking": false,
       "time_ago": "13 hrs ago"
     }
