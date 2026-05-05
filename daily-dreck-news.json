@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-05-05",
-  "fetched_at": "2026-05-05 19:36:48",
+  "fetched_at": "2026-05-05 20:29:40",
   "article_count": 20,
-  "breaking_count": 19,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "FACT FOCUS: Why nearly 4.3 million people are no longer receiving food stamps",
+      "link": "https://sentinelcolorado.com/uncategorized/fact-focus-why-nearly-4-3-million-people-are-no-longer-receiving-food-stamps/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-05T20:24:54+00:00",
+      "age_hours": 0.07576800416666667,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
     {
       "title": "Trump administration sues Denver over its 1989 assault weapons ban",
       "link": "https://coloradosun.com/2026/05/05/denver-assault-weapons-ban/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-05T19:10:05+00:00",
-      "age_hours": 0.4404189272222222,
+      "age_hours": 1.321954683888889,
       "breaking": true,
-      "time_ago": "26 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "DOJ follows through on threat to sue Denver over 'assault weapons' ban",
       "link": "https://kdvr.com/news/local/doj-follows-through-on-threat-to-sue-denver-over-assault-weapons-ban/",
       "source": "Fox31",
       "pub_date": "2026-05-05T19:01:24+00:00",
-      "age_hours": 0.5855283405555556,
+      "age_hours": 1.4669872630555556,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado Construction Insurance is Reshaping the Market",
       "link": "https://milehighcre.com/colorado-construction-insurance-is-reshaping-the-market/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-05T18:54:08+00:00",
-      "age_hours": 0.7061462569444444,
+      "age_hours": 1.5877495219444444,
       "breaking": true,
-      "time_ago": "42 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Giant picks Walnut Street space for bike firm\u2019s new Boulder HQ",
       "link": "https://bizwest.com/2026/05/05/giant-picks-walnut-street-space-for-bike-firms-new-boulder-hq/",
       "source": "BizWest",
       "pub_date": "2026-05-05T18:51:59+00:00",
-      "age_hours": 0.7415536311111112,
+      "age_hours": 1.6227230825,
       "breaking": true,
-      "time_ago": "44 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Gaia to shift customer-acquisition focus from third-party video streaming platforms",
       "link": "https://bizwest.com/2026/05/05/gaia-to-shift-customer-acquisition-focus-from-third-party-video-streaming-platforms/",
       "source": "BizWest",
       "pub_date": "2026-05-05T18:38:58+00:00",
-      "age_hours": 0.9584980908333334,
+      "age_hours": 1.8396675436111112,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Biodesix touts \u2018clear path toward profitability\u2019",
       "link": "https://bizwest.com/2026/05/05/biodesix-touts-clear-path-toward-profitability/",
       "source": "BizWest",
       "pub_date": "2026-05-05T18:35:03+00:00",
-      "age_hours": 1.0237762683333334,
+      "age_hours": 1.9049459125000001,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -63,43 +72,34 @@
       "link": "https://milehighcre.com/cushing-terrell-expands-downtown-denver-office/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-05T18:17:46+00:00",
-      "age_hours": 1.3122573858333335,
+      "age_hours": 2.1938606519444446,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "From social media trusts to 3D-gun restrictions: How Colorado\u2019s latest laws affect residents",
       "link": "https://www.coloradopolitics.com/2026/05/05/from-social-media-trusts-to-3d-gun-restrictions-how-colorados-latest-laws-affect-residents/",
       "source": "CO Politics",
       "pub_date": "2026-05-05T17:04:10+00:00",
-      "age_hours": 2.5400534794444445,
+      "age_hours": 3.4212989505555558,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "McDonald's is phasing out self-service drink stations as it aims to remove feature by 2032",
       "link": "https://www.9news.com/article/news/nation-world/mcdonalds-self-service-drink-stations-removal/507-3f912c45-2369-4c70-a57e-b99517932a07",
       "source": "9News",
       "pub_date": "2026-05-05T16:07:08+00:00",
-      "age_hours": 3.4897082891666664,
+      "age_hours": 4.3712408675,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Weaving on northern Colorado express lanes will now get you a fine",
       "link": "https://www.9news.com/article/traffic/fines-express-lane-weaving-violations-interstate-25/73-63325dc0-6e4a-4996-ba6a-6a6accff9e89",
       "source": "9News",
       "pub_date": "2026-05-05T15:56:25+00:00",
-      "age_hours": 3.668319433888889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports schedule, 5.5.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-5-5-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-05T15:12:00+00:00",
-      "age_hours": 4.409591434444445,
+      "age_hours": 4.549852019166667,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -108,16 +108,16 @@
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/nuggets-face-franchise-shifting-questions-after-a-first-round-flop-vs-timberwolves/616-358e23e8-add2-444b-8d87-dd8afbd737ee",
       "source": "9News",
       "pub_date": "2026-05-05T15:06:36+00:00",
-      "age_hours": 4.498597246388889,
+      "age_hours": 5.380129841944445,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "US says ceasefire with Iran is holding despite attacks in the Strait of Hormuz",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/strait-of-hormuz-united-arab-emirates-iran-war/507-16ef0ae2-604e-4b2f-91fd-0ac752a64c6b",
       "source": "9News",
       "pub_date": "2026-05-05T14:31:47+00:00",
-      "age_hours": 5.078875037222222,
+      "age_hours": 5.9604076361111105,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -126,63 +126,63 @@
       "link": "https://www.9news.com/article/travel/denver-international-airport/spirit-airlines-shut-down-what-to-do-to-get-home-and-get-refunds/616-8183f45e-f245-47cf-9e3f-3a577b8f7083",
       "source": "9News",
       "pub_date": "2026-05-05T14:17:00+00:00",
-      "age_hours": 5.325263964166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.2067965688888895,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "'Project Freedom is underway': Hegseth reveals plan to support safe shipping through Strait of Hormuz",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/pentagon-press-briefing-defense-secretary-pete-hegseth-iran-war-strait-of-hormuz-military/507-01d3e217-da98-4b1b-a6a4-b04f43a87a07",
       "source": "9News",
       "pub_date": "2026-05-05T14:04:31+00:00",
-      "age_hours": 5.533319543611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.414852154444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Gryffin, Foster the People, Taking Back Sunday announce Red Rocks concerts",
       "link": "https://www.9news.com/article/life/style/colorado-guide/shaboozey-red-rocks-concert-summer-schedule/73-2450556a-7149-4048-985f-98e124eb40e0",
       "source": "9News",
       "pub_date": "2026-05-05T14:03:31+00:00",
-      "age_hours": 5.549986243888888,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.43151887,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "REMINDER: Firehouse Subs is giving out a free sandwich tomorrow to anyone with this name",
       "link": "https://www.9news.com/article/news/nation-world/reminder-firehouse-subs-giving-free-sandwiches-tomorrow-may-6-anyone-with-this-name-id-locations/507-19a668aa-c6c2-47ce-9f75-45054aecc447",
       "source": "9News",
       "pub_date": "2026-05-05T13:56:33+00:00",
-      "age_hours": 5.666097359166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "New downtown safety plan credited with faster crime response times",
-      "link": "https://kdvr.com/news/local/new-downtown-safety-plan-credited-with-faster-crime-response-times/",
-      "source": "Fox31",
-      "pub_date": "2026-05-05T13:49:50+00:00",
-      "age_hours": 5.778306246388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.5476299875,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "On A Dumpling Kick? Try Nepali Momos at This Englewood Restaurant",
       "link": "https://www.westword.com/food-drink/aurora-restaurant-rocky-mountain-momo-features-nepali-dumplings-40881897/",
       "source": "Westword",
       "pub_date": "2026-05-05T12:35:12-06:00",
-      "age_hours": 1.0224025841666666,
+      "age_hours": 1.9038566055555557,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
     {
-      "title": "Iran\u2019s monthslong internet shutdown is crushing businesses in an already battered economy",
-      "link": "https://sentinelcolorado.com/uncategorized/irans-monthslong-internet-shutdown-is-crushing-businesses-in-an-already-battered-economy/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-05T12:28:36+00:00",
-      "age_hours": 7.132925062777778,
+      "title": "Longtime Elway's restaurant demolished as redevelopment project kicks off",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/elways-restaurant-demolished-redevelopment-cherry-creek-west/73-197029c1-05f0-408d-a658-9d57afac7952",
+      "source": "9News",
+      "pub_date": "2026-05-05T11:59:30+00:00",
+      "age_hours": 8.498463385555555,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Techstars, CU hope closer ties reinvigorate Boulder\u2019s startup status",
+      "link": "https://bizwest.com/2026/05/05/techstars-cu-hope-closer-ties-reinvigorate-boulders-startup-status/",
+      "source": "BizWest",
+      "pub_date": "2026-05-05T11:04:08+00:00",
+      "age_hours": 9.420223726944446,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     }
   ]
 }
