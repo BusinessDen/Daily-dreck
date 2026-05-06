@@ -1,123 +1,159 @@
 {
   "fetched_date": "2026-05-06",
-  "fetched_at": "2026-05-06 20:35:31",
+  "fetched_at": "2026-05-06 21:28:26",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 16,
   "articles": [
+    {
+      "title": "Colorado adds 1,400 jobs in March, but state still on track for annual job losses",
+      "link": "https://www.coloradopolitics.com/2026/05/06/colorado-adds-1400-jobs-in-march-but-state-still-on-track-for-annual-job-losses/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-06T21:14:09+00:00",
+      "age_hours": 0.2341710325,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Colorado enacts new laws on nursing home staffing and affordable housing eligibility",
+      "link": "https://www.coloradopolitics.com/2026/05/06/colorado-enacts-new-laws-on-nursing-home-staffing-and-affordable-housing-eligibility/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-06T20:55:03+00:00",
+      "age_hours": 0.5525043927777779,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
+    {
+      "title": "What happens if a tree falls on your property? Here's what to know",
+      "link": "https://kdvr.com/news/local/what-happens-if-a-tree-falls-on-your-property-heres-what-to-know/",
+      "source": "Fox31",
+      "pub_date": "2026-05-06T20:46:21+00:00",
+      "age_hours": 0.6970086680555556,
+      "breaking": true,
+      "time_ago": "41 min ago"
+    },
+    {
+      "title": "Colorado lawmakers to get automatic pay increase as $1.5B shortfall forces cuts to Medicaid, other services",
+      "link": "https://www.coloradopolitics.com/2026/05/06/colorado-lawmakers-to-get-automatic-pay-increase-as-1-5b-shortfall-forces-cuts-to-medicaid-other-services/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-06T20:27:32+00:00",
+      "age_hours": 1.0111155138888888,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "OnKure Therapeutics war chest nears $200M following spring stock sale",
       "link": "https://bizwest.com/2026/05/06/onkure-therapeutics-war-chest-nears-200m-following-spring-stock-sale/",
       "source": "BizWest",
       "pub_date": "2026-05-06T20:13:35+00:00",
-      "age_hours": 0.3591701202777778,
+      "age_hours": 1.2421943111111111,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "DOJ targets Colorado\u2019s gun magazine limits prompted by Aurora theater shooting",
       "link": "https://sentinelcolorado.com/metro/doj-targets-colorados-gun-magazine-limits-prompted-by-aurora-theater-shooting/",
       "source": "Sentinel",
       "pub_date": "2026-05-06T20:06:24+00:00",
-      "age_hours": 0.4802801727777778,
+      "age_hours": 1.3634302122222224,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Fight over road funding intensifies as Colorado Democrats look to offset prospective $700M ballot measure",
       "link": "https://www.coloradopolitics.com/2026/05/06/fight-over-road-funding-intensifies-as-colorado-democrats-look-to-offset-prospective-700m-ballot-measure/",
       "source": "CO Politics",
       "pub_date": "2026-05-06T20:05:37+00:00",
-      "age_hours": 0.4932687725,
+      "age_hours": 1.3763933069444445,
       "breaking": true,
-      "time_ago": "29 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Trimble: 2026 sales could top $3.9B",
       "link": "https://bizwest.com/2026/05/06/trimble-2026-sales-could-top-3-9b/",
       "source": "BizWest",
       "pub_date": "2026-05-06T19:55:08+00:00",
-      "age_hours": 0.6666701377777777,
+      "age_hours": 1.549694323888889,
       "breaking": true,
-      "time_ago": "40 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado Premium buys meat brand Old Hickory Smokehouse",
       "link": "https://bizwest.com/2026/05/06/colorado-premium-buys-meat-brand-old-hickory-smokehouse/",
       "source": "BizWest",
       "pub_date": "2026-05-06T19:52:13+00:00",
-      "age_hours": 0.7152812569444444,
+      "age_hours": 1.5983054416666667,
       "breaking": true,
-      "time_ago": "42 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "'Hocus Pocus 3' officially in development with fan favorites to return",
       "link": "https://www.9news.com/article/news/nation-world/hocus-pocus-3-in-development-disney/507-777b6c84-ad73-42c7-8759-8515e2be5041",
       "source": "9News",
       "pub_date": "2026-05-06T19:40:06+00:00",
-      "age_hours": 0.917919166111111,
-      "breaking": true,
-      "time_ago": "55 min ago"
-    },
-    {
-      "title": "Colorad wolf-depredation claims exceed $1.07 million, far exceeding budget estimates",
-      "link": "https://www.coloradopolitics.com/2026/05/06/colorad-wolf-depredation-claims-exceed-1-07-million-far-exceeding-budget-estimates/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-06T19:05:55+00:00",
-      "age_hours": 1.488268791388889,
+      "age_hours": 1.800880235,
       "breaking": true,
       "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado wolf-depredation claims exceed $1.07 million, far exceeding budget estimates",
+      "link": "https://www.coloradopolitics.com/2026/05/06/colorado-wolf-depredation-claims-exceed-1-07-million-far-exceeding-budget-estimates/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-06T19:05:55+00:00",
+      "age_hours": 2.3713933155555553,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "This DJ who identifies as a horse is coming to Denver",
       "link": "https://kdvr.com/denver-guide/this-dj-who-identifies-as-a-horse-is-coming-to-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-06T17:45:39+00:00",
-      "age_hours": 2.825751468611111,
+      "age_hours": 3.7086753794444443,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Sports Castle renovation plan pitches new feature",
       "link": "https://www.9news.com/article/money/markets/real-estate/denver-sports-castle-renovation/73-841b5c19-85dd-42d5-a8d0-46ab9258af23",
       "source": "9News",
       "pub_date": "2026-05-06T15:43:58+00:00",
-      "age_hours": 4.853474775555556,
+      "age_hours": 5.736435838055556,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Ore-Ida unveils new tater tot shapes for the first time in nearly two decades",
       "link": "https://www.9news.com/article/news/nation-world/tater-tots-new-shape-dino-stars-ore-ida/507-0143e5ac-c9b4-4b18-8726-6834dca3b323",
       "source": "9News",
       "pub_date": "2026-05-06T15:41:09+00:00",
-      "age_hours": 4.900419254722222,
+      "age_hours": 5.7833803175,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Gryffin, Yandel among new Red Rocks concerts this summer",
       "link": "https://www.9news.com/article/life/style/colorado-guide/shaboozey-red-rocks-concert-summer-schedule/73-2450556a-7149-4048-985f-98e124eb40e0",
       "source": "9News",
       "pub_date": "2026-05-06T15:35:19+00:00",
-      "age_hours": 4.997641481388889,
+      "age_hours": 5.880602544444445,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "CNN founder Ted Turner, a brash and outspoken television pioneer, has died at age 87",
       "link": "https://coloradosun.com/2026/05/06/cnn-founder-ted-turner-dies/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-06T15:12:42+00:00",
-      "age_hours": 5.37446393,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.2574395097222215,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "ICM Recognized by AGC for Construction Safety Excellence",
       "link": "https://milehighcre.com/icm-recognized-by-agc-for-construction-safety-excellence/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-06T14:31:13+00:00",
-      "age_hours": 6.065761599722222,
+      "age_hours": 6.948706528611111,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -126,63 +162,27 @@
       "link": "https://kdvr.com/news/colorado-man-claims-walmarts-take-and-bake-bread-caused-hospitalization-lawsuit-alleges/",
       "source": "Fox31",
       "pub_date": "2026-05-06T14:16:57+00:00",
-      "age_hours": 6.304084920833334,
+      "age_hours": 7.187008835,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Civic Center EATS Will Return May 13, and We Have the Full Lineup",
       "link": "https://www.westword.com/food-drink/civic-center-eats-will-return-may-13-and-we-have-the-full-lineup-40882178/",
       "source": "Westword",
       "pub_date": "2026-05-06T13:19:06-06:00",
-      "age_hours": 1.2683379227777778,
+      "age_hours": 2.1513937066666666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Solid Power reports revenue drop, lower net loss",
       "link": "https://bizwest.com/2026/05/06/solid-power-reports-revenue-drop-lower-net-loss/",
       "source": "BizWest",
       "pub_date": "2026-05-06T13:17:03+00:00",
-      "age_hours": 7.301392967777778,
+      "age_hours": 8.184417113611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Greeley Council offers city manager $300k annual salary",
-      "link": "https://bizwest.com/2026/05/06/greeley-council-offers-city-manager-300k-annual-salary/",
-      "source": "BizWest",
-      "pub_date": "2026-05-06T12:54:07+00:00",
-      "age_hours": 7.683615197777778,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Greeley Council approves land swap to make way for new downtown civic campus",
-      "link": "https://bizwest.com/2026/05/06/greeley-council-approves-land-swap-to-make-way-for-new-downtown-civic-campus/",
-      "source": "BizWest",
-      "pub_date": "2026-05-06T12:50:22+00:00",
-      "age_hours": 7.746115226666666,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "REMINDER: Firehouse Subs is giving out a free sandwich today to anyone with this name",
-      "link": "https://www.9news.com/article/news/nation-world/reminder-firehouse-subs-giving-free-sandwiches-tomorrow-may-6-anyone-with-this-name-id-locations/507-19a668aa-c6c2-47ce-9f75-45054aecc447",
-      "source": "9News",
-      "pub_date": "2026-05-06T11:00:47+00:00",
-      "age_hours": 9.573197068055556,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "The food and flavors that make up Colorado\u2019s culinary landscape",
-      "link": "https://coloradosun.com/2026/05/06/colorado-150-food/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-06T10:15:00+00:00",
-      "age_hours": 10.336130972222222,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
