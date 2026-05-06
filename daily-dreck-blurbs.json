@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-05-05",
-  "lead_headline": "Mendocino Farms opens third Denver location at Union Station today while Reunion Bread's James Beard-nominated bakery lands on South Pearl",
+  "generated_date": "2026-05-06",
+  "lead_headline": "Encanto Taqueria debuts in Eastbridge while Machete Tequila closes after 8 years on Colfax \u2014 7 new leads tracked today",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>6 new leads today</strong>: Reunion Bread (Platt Park), Mendocino Farms (Union Station), Monarch pizza (Capitol Hill), CAWA Coffee closure (Virginia Village).",
+      "blurb": "<strong>7 new leads today</strong>: Encanto Taqueria (Eastbridge), Borama Mexican Brunch (Westminster), Machete Tequila closure (Colfax).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+4",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "78",
+        "value1": "80",
         "label2": "closed",
-        "value2": "66",
+        "value2": "67",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "24",
+        "value1": "35",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,33 +43,33 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Second consecutive zero-application day</strong> extends the post-flood silence to five straight days, holding the 7-day total at 2,144 licenses \u2014 still 764% above last week's 248-filing baseline. The backend processing anomaly that dumped mass renewals mid-week now represents 99.5% of weekly volume. As April's batch filings exit the rolling window over the next 48 hours, expect the count to crater toward historical norms of 20-30 weekly applications by Thursday.",
+      "blurb": "<strong>Zero applications for the third straight day</strong> \u2014 the post-flood flatline continues unbroken, holding the 7-day total at 0 licenses versus last week's 2,392-filing anomaly. The backend batch-processing event that dumped 2,144 mass renewals April 29-30 has now fully exited the rolling window, exposing the underlying desert: six consecutive days without a single filing. This unprecedented drought runs 100% below the pre-flood baseline of 20-30 weekly applications and suggests either a backend freeze or delayed May processing that hasn't yet surfaced in the feed.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "2,144",
-        "class1": "up",
+        "value1": "0",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> \u2014 an Instagram post about Elyria-Swansea rezoning \u2014 keeps the 7-day count at 44 across 10 sources, down 6% from last week's 47. Monday's single pickup confirms the weekend editorial drought that began Saturday (1 mention) and bottomed Sunday (0). Instagram dominates with 18 weekly pickups (41% share), followed by Denver Post (7), Facebook (5), X (4). The 44-mention pace runs 7% above April's 41-weekly average, but three consecutive days of minimal activity suggest outlets remain in post-April coast mode while social channels carry baseline coverage.",
+      "blurb": "<strong>1 mention today</strong> \u2014 Houston Chronicle covering a San Antonio foreclosure story \u2014 holds the 7-day total at 40 across 10 sources, down 26% from last week's 54. Four consecutive days of minimal pickup activity (Sunday: 0, Monday: 1, Tuesday: 1, today: 1) confirms the post-weekend editorial drought, with Instagram carrying the weekly load at 16 mentions (40% share), followed by Facebook (8), Denver Post (5), X (3). The 40-mention pace runs 19% below last week's baseline and signals outlets remain in coast mode while social channels maintain baseline coverage \u2014 April's 51-weekly average now looks like an outlier rather than a new normal.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "1",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "44",
+        "value1": "40",
         "class1": "down",
         "label2": "sources",
         "value2": "10",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) pushes MTD to +11 (+2.8/day) and 90-day net to +128. The single-subscriber gain maintains May's opening momentum but underscores persistent volatility: this week's +2 net (24 new, 22 canceled) reflects near-parity between acquisitions and churn, a sharp comedown from last week's +5. MTD's +2.8/day rate runs 100% above YTD's +1.4/day baseline, yet the April 28th mass-cancellation event (17 losses) continues casting shadows. Last two weeks show whipsaw action \u2014 April 22's +8 surge followed by April 28's \u221213 crater \u2014 with May opening on steadier footing but still vulnerable to daily churn spikes.",
+      "blurb": "<strong>Net +4 yesterday</strong> (4 new, 0 canceled) pushes MTD to +14 (+2.8/day) and 90-day net to +135. The four-subscriber gain matches May 4th's performance and extends the month's clean opening run \u2014 five straight days without cancellations builds MTD momentum. This week's +18 net (23 new, 5 canceled) runs 157% ahead of last week's +7 and shows acquisition velocity picking up (23 vs 30 weekly adds, but churn collapsing from 23 to 5). MTD's +2.8/day rate doubles the YTD +1.4/day baseline, and the last 14 days show stabilizing patterns post-April 28th's \u221213 crater: May opened with steady +2 to +5 daily gains while churn events have grown scarcer and smaller.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "11",
-      "net_ytd": "168",
+      "net_mtd": "14",
+      "net_ytd": "171",
       "net_mtd_per_day": "2.8",
       "net_ytd_per_day": "1.4",
-      "annual_mtd": "9",
-      "annual_ytd": "134",
-      "monthly_mtd": "2",
-      "monthly_ytd": "34"
+      "annual_mtd": "11",
+      "annual_ytd": "138",
+      "monthly_mtd": "3",
+      "monthly_ytd": "33"
     }
   }
 }
