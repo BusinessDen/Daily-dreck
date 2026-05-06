@@ -1,150 +1,168 @@
 {
   "fetched_date": "2026-05-06",
-  "fetched_at": "2026-05-06 18:40:50",
+  "fetched_at": "2026-05-06 19:37:01",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Colorad wolf-depredation claims exceed $1.07 million, far exceeding budget estimates",
+      "link": "https://www.coloradopolitics.com/2026/05/06/colorad-wolf-depredation-claims-exceed-1-07-million-far-exceeding-budget-estimates/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-06T19:05:55+00:00",
+      "age_hours": 0.5147556777777778,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
     {
       "title": "This DJ who identifies as a horse is coming to Denver",
       "link": "https://kdvr.com/denver-guide/this-dj-who-identifies-as-a-horse-is-coming-to-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-06T17:45:39+00:00",
-      "age_hours": 0.915431118888889,
+      "age_hours": 1.8522798380555554,
       "breaking": true,
-      "time_ago": "54 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver Sports Castle renovation plan pitches new feature",
       "link": "https://www.9news.com/article/money/markets/real-estate/denver-sports-castle-renovation/73-841b5c19-85dd-42d5-a8d0-46ab9258af23",
       "source": "9News",
       "pub_date": "2026-05-06T15:43:58+00:00",
-      "age_hours": 2.9432719541666668,
+      "age_hours": 3.8800622644444447,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Ore-Ida unveils new tater tot shapes for the first time in nearly two decades",
       "link": "https://www.9news.com/article/news/nation-world/tater-tots-new-shape-dino-stars-ore-ida/507-0143e5ac-c9b4-4b18-8726-6834dca3b323",
       "source": "9News",
       "pub_date": "2026-05-06T15:41:09+00:00",
-      "age_hours": 2.990216433888889,
+      "age_hours": 3.9270067519444445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Gryffin, Yandel among new Red Rocks concerts this summer",
       "link": "https://www.9news.com/article/life/style/colorado-guide/shaboozey-red-rocks-concert-summer-schedule/73-2450556a-7149-4048-985f-98e124eb40e0",
       "source": "9News",
       "pub_date": "2026-05-06T15:35:19+00:00",
-      "age_hours": 3.0874386613888887,
+      "age_hours": 4.024228979444445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "CNN founder Ted Turner, a brash and outspoken television pioneer, has died at age 87",
       "link": "https://coloradosun.com/2026/05/06/cnn-founder-ted-turner-dies/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-06T15:12:42+00:00",
-      "age_hours": 3.4643200580555553,
+      "age_hours": 4.400987927222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "ICM Recognized by AGC for Construction Safety Excellence",
       "link": "https://milehighcre.com/icm-recognized-by-agc-for-construction-safety-excellence/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-06T14:31:13+00:00",
-      "age_hours": 4.155649327777778,
+      "age_hours": 5.0923167905555555,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado man claims Walmart's take-and-bake bread caused hospitalization, lawsuit alleges",
       "link": "https://kdvr.com/news/colorado-man-claims-walmarts-take-and-bake-bread-caused-hospitalization-lawsuit-alleges/",
       "source": "Fox31",
       "pub_date": "2026-05-06T14:16:57+00:00",
-      "age_hours": 4.393764583611111,
+      "age_hours": 5.330613328055556,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Civic Center EATS Will Return May 13, and We Have the Full Lineup",
+      "link": "https://www.westword.com/food-drink/civic-center-eats-will-return-may-13-and-we-have-the-full-lineup-40882178/",
+      "source": "Westword",
+      "pub_date": "2026-05-06T13:19:06-06:00",
+      "age_hours": 0.2948994972222222,
+      "breaking": true,
+      "time_ago": "17 min ago"
     },
     {
       "title": "Solid Power reports revenue drop, lower net loss",
       "link": "https://bizwest.com/2026/05/06/solid-power-reports-revenue-drop-lower-net-loss/",
       "source": "BizWest",
       "pub_date": "2026-05-06T13:17:03+00:00",
-      "age_hours": 5.391333928333333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.3274308425,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Greeley Council offers city manager $300k annual salary",
       "link": "https://bizwest.com/2026/05/06/greeley-council-offers-city-manager-300k-annual-salary/",
       "source": "BizWest",
       "pub_date": "2026-05-06T12:54:07+00:00",
-      "age_hours": 5.773556163333334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.7096530802777785,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Greeley Council approves land swap to make way for new downtown civic campus",
       "link": "https://bizwest.com/2026/05/06/greeley-council-approves-land-swap-to-make-way-for-new-downtown-civic-campus/",
       "source": "BizWest",
       "pub_date": "2026-05-06T12:50:22+00:00",
-      "age_hours": 5.836056707777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.7721536519444445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "REMINDER: Firehouse Subs is giving out a free sandwich today to anyone with this name",
       "link": "https://www.9news.com/article/news/nation-world/reminder-firehouse-subs-giving-free-sandwiches-tomorrow-may-6-anyone-with-this-name-id-locations/507-19a668aa-c6c2-47ce-9f75-45054aecc447",
       "source": "9News",
       "pub_date": "2026-05-06T11:00:47+00:00",
-      "age_hours": 7.66299425,
+      "age_hours": 8.599784568333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "The food and flavors that make up Colorado\u2019s culinary landscape",
       "link": "https://coloradosun.com/2026/05/06/colorado-150-food/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-06T10:15:00+00:00",
-      "age_hours": 8.425987107777777,
+      "age_hours": 9.362655021944445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Can an Aurora golf course become a responsible wildlife mecca?",
       "link": "https://coloradosun.com/2026/05/06/commonground-golf-aurora-wildlife-habitat-botanic-gardens/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-06T10:08:00+00:00",
-      "age_hours": 8.542654224444444,
+      "age_hours": 9.479322142777779,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado Issues Eleventh Marijuana Recall of 2026",
       "link": "https://www.westword.com/news/colorado-issues-magnolia-road-pot-recall-40882020/",
       "source": "Westword",
       "pub_date": "2026-05-06T06:02:00-06:00",
-      "age_hours": 6.643023495,
+      "age_hours": 7.579899547777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "DigitalOcean stock price rides AI wave, adds 40% on strong Q1 financials",
       "link": "https://bizwest.com/2026/05/05/digitalocean-stock-price-rides-ai-wave-adds-40-on-strong-q1-financials/",
       "source": "BizWest",
       "pub_date": "2026-05-05T20:43:26+00:00",
-      "age_hours": 21.95161229916667,
+      "age_hours": 22.88770924361111,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Can giant Ball Corp. saw sales crack $3.6B in first quarter",
       "link": "https://bizwest.com/2026/05/05/can-giant-ball-corp-saw-sales-crack-3-6b-in-first-quarter/",
       "source": "BizWest",
       "pub_date": "2026-05-05T20:38:58+00:00",
-      "age_hours": 22.02605677722222,
+      "age_hours": 22.962153721388887,
       "breaking": false,
       "time_ago": "22 hrs ago"
     },
@@ -153,36 +171,18 @@
       "link": "https://bizwest.com/2026/05/05/healthcare-execs-grapple-with-what-problem-to-tackle-first/",
       "source": "BizWest",
       "pub_date": "2026-05-05T20:34:56+00:00",
-      "age_hours": 22.093279005277775,
+      "age_hours": 23.029375949722223,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "DOJ follows through on threat to sue Denver over 'assault weapons' ban",
       "link": "https://kdvr.com/news/local/doj-follows-through-on-threat-to-sue-denver-over-assault-weapons-ban/",
       "source": "Fox31",
       "pub_date": "2026-05-05T19:01:24+00:00",
-      "age_hours": 23.652931197500003,
+      "age_hours": 24.58977993111111,
       "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Colorado Construction Insurance is Reshaping the Market",
-      "link": "https://milehighcre.com/colorado-construction-insurance-is-reshaping-the-market/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-05T18:54:08+00:00",
-      "age_hours": 23.773704902777776,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Giant picks Walnut Street space for bike firm\u2019s new Boulder HQ",
-      "link": "https://bizwest.com/2026/05/05/giant-picks-walnut-street-space-for-bike-firms-new-boulder-hq/",
-      "source": "BizWest",
-      "pub_date": "2026-05-05T18:51:59+00:00",
-      "age_hours": 23.80911237305556,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     }
   ]
 }
