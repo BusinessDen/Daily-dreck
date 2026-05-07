@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-05-06",
-  "lead_headline": "Encanto Taqueria debuts in Eastbridge while Machete Tequila closes after 8 years on Colfax \u2014 7 new leads tracked today",
+  "generated_date": "2026-05-07",
+  "lead_headline": "Madeline opens upscale dining on 6th Ave while Mukja Cafe brings food truck roots to brick-and-mortar \u2014 8 new restaurant leads detected",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>7 new leads today</strong>: Encanto Taqueria (Eastbridge), Borama Mexican Brunch (Westminster), Machete Tequila closure (Colfax).",
+      "blurb": "<strong>8 new leads today</strong>: Madeline (upscale 6th Ave), Mukja Cafe (RiNo food truck goes permanent), Lost Coffee (sixth Colorado location in Arvada), R\u014dmy\u014d (Bonanno's Japanese-Italian fusion coming July).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+6",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "\u22122",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "80",
+        "value1": "84",
         "label2": "closed",
-        "value2": "67",
+        "value2": "68",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "35",
+        "value1": "36",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications for the third straight day</strong> \u2014 the post-flood flatline continues unbroken, holding the 7-day total at 0 licenses versus last week's 2,392-filing anomaly. The backend batch-processing event that dumped 2,144 mass renewals April 29-30 has now fully exited the rolling window, exposing the underlying desert: six consecutive days without a single filing. This unprecedented drought runs 100% below the pre-flood baseline of 20-30 weekly applications and suggests either a backend freeze or delayed May processing that hasn't yet surfaced in the feed.",
+      "blurb": "<strong>Zero applications for the fourth straight day</strong> \u2014 the post-flood silence stretches into Thursday, cementing seven consecutive filing-free days since the backend dumped 2,144 mass renewals April 29-30. The rolling 7-day total remains frozen at 0 versus last week's 2,386-application tsunami, exposing a 100% drop from the normal 20-30 weekly baseline. This weeklong drought now suggests either a backend processing freeze or a deliberate pause following the flood \u2014 May filings may be queued offline awaiting release.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> \u2014 Houston Chronicle covering a San Antonio foreclosure story \u2014 holds the 7-day total at 40 across 10 sources, down 26% from last week's 54. Four consecutive days of minimal pickup activity (Sunday: 0, Monday: 1, Tuesday: 1, today: 1) confirms the post-weekend editorial drought, with Instagram carrying the weekly load at 16 mentions (40% share), followed by Facebook (8), Denver Post (5), X (3). The 40-mention pace runs 19% below last week's baseline and signals outlets remain in coast mode while social channels maintain baseline coverage \u2014 April's 51-weekly average now looks like an outlier rather than a new normal.",
+      "blurb": "<strong>1 mention today</strong> (Instagram business feature) lifts the 7-day total to 38 across 8 sources, down 21% from last week's 48. Five straight days of minimal activity (Sunday: 0, Monday: 1, Tuesday: 1, Wednesday: 1, today: 1) confirms the post-weekend editorial lull persists. Instagram dominates with 15 mentions (39% share), followed by Facebook (7), Denver Post (6), X (5), with Houston Chronicle's foreclosure story marking the only traditional outlet coverage today. The 38-mention pace runs 21% below April's 48-weekly average and 13% below the 30-day baseline \u2014 outlets remain in coast mode while social platforms carry baseline traffic.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,25 +69,25 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "40",
+        "value1": "38",
         "class1": "down",
         "label2": "sources",
-        "value2": "10",
+        "value2": "8",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +4 yesterday</strong> (4 new, 0 canceled) pushes MTD to +14 (+2.8/day) and 90-day net to +135. The four-subscriber gain matches May 4th's performance and extends the month's clean opening run \u2014 five straight days without cancellations builds MTD momentum. This week's +18 net (23 new, 5 canceled) runs 157% ahead of last week's +7 and shows acquisition velocity picking up (23 vs 30 weekly adds, but churn collapsing from 23 to 5). MTD's +2.8/day rate doubles the YTD +1.4/day baseline, and the last 14 days show stabilizing patterns post-April 28th's \u221213 crater: May opened with steady +2 to +5 daily gains while churn events have grown scarcer and smaller.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) inches MTD to +17 (+2.8/day) and holds 90-day net at +135. The single-subscriber gain marks the sixth consecutive cancellation-free day to open May \u2014 an unusual stretch of zero churn that's building cushion. This week's +20 net (24 new, 4 canceled) runs 900% ahead of last week's +2 and shows acquisition velocity stabilizing (24 adds both weeks, but churn collapsing from 22 to 4). MTD's +2.8/day rate doubles the YTD +1.4/day baseline, and the recent pattern suggests May's opening clean streak is absorbing the April 28th \u221213 crater impact while establishing a steadier rhythm.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "14",
-      "net_ytd": "171",
+      "net_mtd": "17",
+      "net_ytd": "174",
       "net_mtd_per_day": "2.8",
       "net_ytd_per_day": "1.4",
-      "annual_mtd": "11",
-      "annual_ytd": "138",
+      "annual_mtd": "14",
+      "annual_ytd": "156",
       "monthly_mtd": "3",
-      "monthly_ytd": "33"
+      "monthly_ytd": "18"
     }
   }
 }
