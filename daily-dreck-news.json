@@ -1,78 +1,87 @@
 {
   "fetched_date": "2026-05-07",
-  "fetched_at": "2026-05-07 12:45:47",
+  "fetched_at": "2026-05-07 13:39:27",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 7,
   "articles": [
     {
-      "title": "Aurora\u2019s Colfax BRT project aims to improve bus capacity and frequency",
-      "link": "https://sentinelcolorado.com/metro/auroras-colfax-brt-project-aims-to-improve-bus-capacity-and-frequency/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-07T12:27:14+00:00",
-      "age_hours": 0.3053674791666667,
+      "title": "Company behind Ford Amphitheater looking to expand in northern Colorado",
+      "link": "https://www.denver7.com/news/state-news/company-behind-ford-amphitheater-looking-to-expand-in-northern-colorado",
+      "source": "Denver7",
+      "pub_date": "2026-05-07T13:19:00+00:00",
+      "age_hours": 0.33591710305555555,
       "breaking": true,
-      "time_ago": "18 min ago"
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Colorado unemployment rate flat in March",
+      "link": "https://bizwest.com/2026/05/07/colorado-unemployment-rate-flat-in-march/",
+      "source": "BizWest",
+      "pub_date": "2026-05-07T13:04:41+00:00",
+      "age_hours": 0.5731768675,
+      "breaking": true,
+      "time_ago": "34 min ago"
     },
     {
       "title": "Colorado lawmakers to get automatic pay increase as $1.5B shortfall forces cuts",
       "link": "https://www.9news.com/article/news/local/local-politics/colorado-lawmakers-pay-increase/73-b2a50e30-95b1-4569-bff8-b1083457264b",
       "source": "9News",
       "pub_date": "2026-05-07T12:10:25+00:00",
-      "age_hours": 0.5852555819444444,
+      "age_hours": 1.4788447949999999,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Frontier chases Spirit customer boost",
       "link": "https://www.9news.com/article/travel/denver-international-airport/frontier-airlines-spirit-customers-boost/73-33b9d997-a767-4f4c-9ced-8d6737985ba4",
       "source": "9News",
       "pub_date": "2026-05-07T12:05:31+00:00",
-      "age_hours": 0.6669222655555556,
+      "age_hours": 1.5605114736111112,
       "breaking": true,
-      "time_ago": "40 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Woman who faced months-long wait with Denver permitting now part of company using AI to solve backlog",
       "link": "https://www.denver7.com/follow-up/one-womans-months-long-wait-with-denver-permitting-now-part-of-company-using-ai-to-solve-backlog",
       "source": "Denver7",
       "pub_date": "2026-05-07T11:53:31+00:00",
-      "age_hours": 0.8670283763888889,
+      "age_hours": 1.760639338611111,
       "breaking": true,
-      "time_ago": "52 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado\u2019s labor force shrinks again in March to fourth-lowest participation rate since 1976",
       "link": "https://coloradosun.com/2026/05/07/colorado-labor-force-decline-unemployment-jobs/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-07T10:00:00+00:00",
-      "age_hours": 2.758718629444444,
+      "age_hours": 3.652235583611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver diners can sample new dishes this week, created to reduce food waste",
       "link": "https://coloradosun.com/2026/05/07/denver-diners-can-sample-new-dishes-this-week-created-to-reduce-food-waste/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-07T09:55:00+00:00",
-      "age_hours": 2.8420524236111113,
+      "age_hours": 3.7355693594444443,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "6 weeks after Denver garage collapse, drivers say they're still waiting for cars",
       "link": "https://kdvr.com/news/local/6-weeks-after-denver-garage-collapse-drivers-say-theyre-still-waiting-for-cars/",
       "source": "Fox31",
       "pub_date": "2026-05-07T02:20:42+00:00",
-      "age_hours": 10.414000169722222,
+      "age_hours": 11.307728076388889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colleges step up to meet students\u2019 unique mental-health needs",
       "link": "https://bizwest.com/2026/05/06/colleges-step-up-to-meet-students-unique-mental-health-needs/",
       "source": "BizWest",
       "pub_date": "2026-05-06T22:40:18+00:00",
-      "age_hours": 14.086607905555557,
+      "age_hours": 14.979566363888889,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -81,70 +90,61 @@
       "link": "https://www.9news.com/article/news/nation-world/gambling-addiction-prediction-markets-concern-clinicians/507-01db4fd3-83ed-47b1-a932-e40b313e4d3a",
       "source": "9News",
       "pub_date": "2026-05-06T22:38:03+00:00",
-      "age_hours": 14.1247001675,
+      "age_hours": 15.018289373055556,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "The HIVE adds family justice center to safehouse offerings",
       "link": "https://bizwest.com/2026/05/06/the-hive-adds-family-justice-center-to-safehouse-offerings/",
       "source": "BizWest",
       "pub_date": "2026-05-06T22:34:14+00:00",
-      "age_hours": 14.187719535000001,
+      "age_hours": 15.080677508333334,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Wells: A healthy market at two speeds",
       "link": "https://bizwest.com/2026/05/06/wells-a-healthy-market-at-two-speeds/",
       "source": "BizWest",
       "pub_date": "2026-05-06T22:29:10+00:00",
-      "age_hours": 14.272164012222222,
+      "age_hours": 15.165121983611112,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "A sweet deal in Estes",
       "link": "https://bizwest.com/2026/05/06/a-sweet-deal-in-estes/",
       "source": "BizWest",
       "pub_date": "2026-05-06T22:25:36+00:00",
-      "age_hours": 14.33160848611111,
+      "age_hours": 15.224566463055556,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Downtown on the move",
       "link": "https://bizwest.com/2026/05/06/downtown-on-the-move/",
       "source": "BizWest",
       "pub_date": "2026-05-06T22:20:56+00:00",
-      "age_hours": 14.409386292222223,
+      "age_hours": 15.302344267499999,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Colorado bill redirecting $300M in TABOR refunds raises legal concerns, sparks budget committee dispute",
       "link": "https://www.coloradopolitics.com/2026/05/06/colorado-bill-redirecting-300m-in-tabor-refunds-raises-legal-concerns-sparks-budget-committee-dispute/",
       "source": "CO Politics",
       "pub_date": "2026-05-06T22:10:20+00:00",
-      "age_hours": 14.587018373055555,
+      "age_hours": 15.481134342777779,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "National Small Business Week: Small biz consultant shares practical tips for starting, sustaining a company",
       "link": "https://www.denver7.com/news/local-news/national-small-business-week-small-biz-consultant-shares-practical-tips-for-starting-maintaining-a-company",
       "source": "Denver7",
       "pub_date": "2026-05-06T21:58:14+00:00",
-      "age_hours": 14.788417284444444,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Aurora\u2019s February sales tax revenue drops as restaurant, clothing sales rise",
-      "link": "https://sentinelcolorado.com/metro/auroras-february-sales-tax-revenue-drops-as-restaurant-clothing-sales-rise/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-06T21:36:18+00:00",
-      "age_hours": 15.154256774444445,
+      "age_hours": 15.682028236666667,
       "breaking": false,
       "time_ago": "15 hrs ago"
     },
@@ -153,36 +153,36 @@
       "link": "https://www.coloradopolitics.com/2026/05/06/colorado-adds-1400-jobs-in-march-but-state-still-on-track-for-annual-job-losses/",
       "source": "CO Politics",
       "pub_date": "2026-05-06T21:14:09+00:00",
-      "age_hours": 15.523407276111111,
+      "age_hours": 16.417523244166667,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado enacts new laws on nursing home staffing, housing eligibility",
       "link": "https://www.coloradopolitics.com/2026/05/06/colorado-enacts-new-laws-on-nursing-home-staffing-housing-eligibility/",
       "source": "CO Politics",
       "pub_date": "2026-05-06T20:55:03+00:00",
-      "age_hours": 15.84174063638889,
+      "age_hours": 16.735856603333332,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "What happens if a tree falls on your property? Here's what to know",
       "link": "https://kdvr.com/news/local/what-happens-if-a-tree-falls-on-your-property-heres-what-to-know/",
       "source": "Fox31",
       "pub_date": "2026-05-06T20:46:21+00:00",
-      "age_hours": 15.986500185555556,
+      "age_hours": 16.880228093055557,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "OnKure Therapeutics war chest nears $200M following spring stock sale",
       "link": "https://bizwest.com/2026/05/06/onkure-therapeutics-war-chest-nears-200m-following-spring-stock-sale/",
       "source": "BizWest",
       "pub_date": "2026-05-06T20:13:35+00:00",
-      "age_hours": 16.531886298333333,
+      "age_hours": 17.42484427333333,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
