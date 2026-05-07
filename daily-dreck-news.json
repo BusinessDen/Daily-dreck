@@ -1,87 +1,96 @@
 {
   "fetched_date": "2026-05-07",
-  "fetched_at": "2026-05-07 22:26:47",
+  "fetched_at": "2026-05-07 23:22:20",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Colorado\u2019s wolf reintroduction hits \u2018inflection point\u2019 as program leader steps down, population dwindles and conflicts increase",
+      "link": "https://coloradosun.com/2026/05/07/colorados-wolf-reintroduction-hits-inflection-point-as-program-leader-retires-and-conflicts-increase/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-05-07T22:55:38+00:00",
+      "age_hours": 0.4409542691666667,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
     {
       "title": "Where might Venu build a $350M entertainment venue?",
       "link": "https://bizwest.com/2026/05/07/where-might-venu-build-a-350m-entertainment-venue/",
       "source": "BizWest",
       "pub_date": "2026-05-07T22:16:07+00:00",
-      "age_hours": 0.1725534586111111,
+      "age_hours": 1.0991729925,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
-      "title": "Colorado Gov. Polis faces intense lobbying blitz after legislature sends \u2018swipe-fee\u2019 bill to his desk",
-      "link": "https://www.coloradopolitics.com/2026/05/07/colorado-gov-polis-faces-intense-lobbying-blitz-after-legislature-sends-swipe-fee-bill-to-his-desk/",
+      "title": "Colorado Gov. Polis faces intense lobbying blitz from DC-based groups over credit card \u2018swipe-fee\u2019 bill",
+      "link": "https://www.coloradopolitics.com/2026/05/07/colorado-gov-polis-faces-intense-lobbying-blitz-from-dc-based-groups-over-credit-card-swipe-fee-bill/",
       "source": "CO Politics",
       "pub_date": "2026-05-07T22:15:19+00:00",
-      "age_hours": 0.18713568944444445,
+      "age_hours": 1.1136708233333332,
       "breaking": true,
-      "time_ago": "11 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aurora Council seeks to oversee GEO ICE detention center via contracts, inspections",
       "link": "https://sentinelcolorado.com/metro/aurora-council-seeks-to-oversee-geo-ice-detention-center-via-contracts-inspections/",
       "source": "Sentinel",
       "pub_date": "2026-05-07T21:56:31+00:00",
-      "age_hours": 0.5005461897222222,
+      "age_hours": 1.4270142572222222,
       "breaking": true,
-      "time_ago": "30 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado bill exempts credit card fees on sales tax to save businesses money",
       "link": "https://sentinelcolorado.com/state-and-region-news/colorado-legislature/colorado-bill-exempts-credit-card-fees-on-sales-tax-to-save-businesses-money/",
       "source": "Sentinel",
       "pub_date": "2026-05-07T21:01:18+00:00",
-      "age_hours": 1.4208242672222222,
+      "age_hours": 2.347292347222222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Gogo grows profit even as sales slipped slightly in first quarter",
       "link": "https://bizwest.com/2026/05/07/gogo-grows-profit-even-as-sales-slipped-slightly-in-first-quarter/",
       "source": "BizWest",
       "pub_date": "2026-05-07T20:15:02+00:00",
-      "age_hours": 2.19060957,
+      "age_hours": 3.1172290658333335,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Games Ahoy! opens Longmont location as retro video game retailer diversifies",
       "link": "https://bizwest.com/2026/05/07/games-ahoy-opens-longmont-location-as-retro-video-game-retailer-diversifies/",
       "source": "BizWest",
       "pub_date": "2026-05-07T20:12:30+00:00",
-      "age_hours": 2.2328318005555556,
+      "age_hours": 3.1594512969444444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "NoCo Foundation issues \u2018call to action\u2019 on housing shortage, affordability",
       "link": "https://bizwest.com/2026/05/07/noco-foundation-issues-call-to-action-on-housing-shortage-affordability/",
       "source": "BizWest",
       "pub_date": "2026-05-07T20:07:06+00:00",
-      "age_hours": 2.3228318347222223,
+      "age_hours": 3.249451331388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado wolves were in several areas near Denver metro cities this year: Report",
       "link": "https://kdvr.com/news/local/colorado-wolves-were-in-several-areas-near-denver-metro-cities-this-year-report/",
       "source": "Fox31",
       "pub_date": "2026-05-07T18:42:21+00:00",
-      "age_hours": 3.736110085,
+      "age_hours": 4.662768358055556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "This Michelin-recognized restaurant is replacing Super Mega Bien in RiNo",
       "link": "https://kdvr.com/news/local/this-michelin-recognized-restaurant-is-replacing-super-mega-bien-in-rino/",
       "source": "Fox31",
       "pub_date": "2026-05-07T18:23:58+00:00",
-      "age_hours": 4.042499036111111,
+      "age_hours": 4.969157319444444,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -90,34 +99,34 @@
       "link": "https://bizwest.com/2026/05/07/tavern-at-st-michaels-to-close-on-may-24/",
       "source": "BizWest",
       "pub_date": "2026-05-07T17:57:53+00:00",
-      "age_hours": 4.4764429825,
+      "age_hours": 5.40306248,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado bill exempting sales tax from credit card swipe fees advances to governor after big Capitol showdown",
       "link": "https://coloradosun.com/2026/05/07/colorado-bill-targeting-credit-card-swipe-fees-advances-to-governor/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-07T17:18:22+00:00",
-      "age_hours": 5.135485253888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.062065950277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver shelter\u2019s housing success threatened by potential federal funding cuts",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-shelter-funding-threatened-federal-cuts/73-1091baad-949e-4aa3-b4dd-d166ec1e176f",
       "source": "9News",
       "pub_date": "2026-05-07T17:14:57+00:00",
-      "age_hours": 5.192518262222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.119159053333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "The Tavern closing northern Colorado restaurant after 16 years",
       "link": "https://www.9news.com/article/life/style/colorado-guide/the-tavern-st-michaels-square-closes/73-175e85f6-2236-4007-85f8-77427482ca7f",
       "source": "9News",
       "pub_date": "2026-05-07T16:24:33+00:00",
-      "age_hours": 6.03251832,
+      "age_hours": 6.959159120277778,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -126,61 +135,52 @@
       "link": "https://www.9news.com/article/news/nation-world/snap-changes-require-retailers-carry-more-nutritious-food-supplemental-nutrition-assistance-program-perishable-items-requirements-sales/507-1c20835d-ef76-4e1f-82ef-9e6a21d135a3",
       "source": "9News",
       "pub_date": "2026-05-07T15:37:16+00:00",
-      "age_hours": 6.820573947500001,
+      "age_hours": 7.747214736388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Local pet shop owner speaks out against new pet store sales ban",
       "link": "https://kdvr.com/news/local-pet-shop-owner-speaks-out-against-new-pet-store-sales-ban/",
       "source": "Fox31",
       "pub_date": "2026-05-07T15:03:57+00:00",
-      "age_hours": 7.376110193333333,
+      "age_hours": 8.30276847638889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Broncos welcome Burnham Yard community coalition",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-burnham-yard-community-coaltion/73-1a64f1fd-2abc-49f8-a77b-9ba219504857",
       "source": "9News",
       "pub_date": "2026-05-07T14:45:34+00:00",
-      "age_hours": 7.682240666388889,
+      "age_hours": 8.60888146111111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Venu eyes Northern Colorado for $350M entertainment venue",
       "link": "https://bizwest.com/2026/05/07/venu-eyes-northern-colorado-for-350m-entertainment-venue/",
       "source": "BizWest",
       "pub_date": "2026-05-07T14:05:30+00:00",
-      "age_hours": 8.349498578055556,
+      "age_hours": 9.276118073055557,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "What\u2019s Happening: The Cookie Factory turns 1",
       "link": "https://coloradosun.com/2026/05/07/whats-happening-colorado-denver-cookie-factory-art-space-birthday-party/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-07T14:00:00+00:00",
-      "age_hours": 8.441596397222222,
+      "age_hours": 9.36817709138889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Road funding fight roils Colorado Capitol with days left in legislative session",
       "link": "https://coloradosun.com/2026/05/07/road-funding-fight-colorado-initiative-175-house-bill-1430/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-07T13:55:52+00:00",
-      "age_hours": 8.510485695277778,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Company behind Ford Amphitheater looking to expand in northern Colorado",
-      "link": "https://www.denver7.com/news/state-news/company-behind-ford-amphitheater-looking-to-expand-in-northern-colorado",
-      "source": "Denver7",
-      "pub_date": "2026-05-07T13:19:00+00:00",
-      "age_hours": 9.125141422222223,
+      "age_hours": 9.43706641388889,
       "breaking": false,
       "time_ago": "9 hrs ago"
     }
