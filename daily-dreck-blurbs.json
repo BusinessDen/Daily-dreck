@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-05-07",
-  "lead_headline": "Madeline opens upscale dining on 6th Ave while Mukja Cafe brings food truck roots to brick-and-mortar \u2014 8 new restaurant leads detected",
+  "generated_date": "2026-05-08",
+  "lead_headline": "Lost Coffee opens sixth Colorado shop in Arvada while Heretik debuts French-Spanish rotisserie in RiNo \u2014 11 new restaurant leads tracked",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>8 new leads today</strong>: Madeline (upscale 6th Ave), Mukja Cafe (RiNo food truck goes permanent), Lost Coffee (sixth Colorado location in Arvada), R\u014dmy\u014d (Bonanno's Japanese-Italian fusion coming July).",
+      "blurb": "<strong>11 new leads today</strong>: Heretik (Adley's French-Spanish rotisserie in RiNo), Petunia Bakeshop (Sunnyside relocation), Flaming Grill (Indian fusion downtown), Pelican Bay closure at Cherry Creek.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+6",
+        "value1": "+8",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "\u22123",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "84",
+        "value1": "87",
         "label2": "closed",
-        "value2": "68",
+        "value2": "71",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "36",
+        "value1": "57",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications for the fourth straight day</strong> \u2014 the post-flood silence stretches into Thursday, cementing seven consecutive filing-free days since the backend dumped 2,144 mass renewals April 29-30. The rolling 7-day total remains frozen at 0 versus last week's 2,386-application tsunami, exposing a 100% drop from the normal 20-30 weekly baseline. This weeklong drought now suggests either a backend processing freeze or a deliberate pause following the flood \u2014 May filings may be queued offline awaiting release.",
+      "blurb": "<strong>Zero applications for the fifth straight day</strong> \u2014 the post-flood freeze extends through Friday, now marking eight consecutive filing-free days since the April 29-30 backend dumped 2,144 mass renewals. The 7-day rolling total remains locked at 0 versus last week's 2,386-application deluge, exposing a 100% collapse from the normal 20-30 weekly baseline. This eight-day drought now points to either sustained backend processing delays or a deliberate hold following the flood. State licensing officials have offered no public comment on the pause, leaving May's pipeline status unclear \u2014 applications may be queued offline awaiting batch release, or the system could be undergoing post-flood cleanup. The silence grows more conspicuous with each passing day.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,18 +59,18 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention today</strong> (Instagram business feature) lifts the 7-day total to 38 across 8 sources, down 21% from last week's 48. Five straight days of minimal activity (Sunday: 0, Monday: 1, Tuesday: 1, Wednesday: 1, today: 1) confirms the post-weekend editorial lull persists. Instagram dominates with 15 mentions (39% share), followed by Facebook (7), Denver Post (6), X (5), with Houston Chronicle's foreclosure story marking the only traditional outlet coverage today. The 38-mention pace runs 21% below April's 48-weekly average and 13% below the 30-day baseline \u2014 outlets remain in coast mode while social platforms carry baseline traffic.",
+      "blurb": "<strong>4 mentions today</strong> (Facebook, Instagram business features) push the 7-day total to 53 across 8 sources, up 18% from last week's 45 and breaking the five-day lull. Instagram leads with 15 mentions (28% share), followed by Denver Post (17), Facebook (11), and X (4), while Broomfield downtown development coverage drove today's activity. The 53-mention pace runs 18% above last week and 8% above the 30-day rolling average of 49 \u2014 outlets are emerging from mid-week coast mode. Social platforms still dominate discovery (52 via Google News RSS, 1 via Reddit), but traditional outlet pickups are creeping back into rotation. The week's momentum shift suggests Friday editorial desks are returning to normal cadence.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
-        "class1": "down",
+        "value1": "4",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "38",
-        "class1": "down",
+        "value1": "53",
+        "class1": "up",
         "label2": "sources",
         "value2": "8",
         "class2": "",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) inches MTD to +17 (+2.8/day) and holds 90-day net at +135. The single-subscriber gain marks the sixth consecutive cancellation-free day to open May \u2014 an unusual stretch of zero churn that's building cushion. This week's +20 net (24 new, 4 canceled) runs 900% ahead of last week's +2 and shows acquisition velocity stabilizing (24 adds both weeks, but churn collapsing from 22 to 4). MTD's +2.8/day rate doubles the YTD +1.4/day baseline, and the recent pattern suggests May's opening clean streak is absorbing the April 28th \u221213 crater impact while establishing a steadier rhythm.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) extends MTD to +17 (+2.4/day) and holds 90-day net at +133. The single-add day marks the seventh consecutive cancellation-free session to open May \u2014 the longest zero-churn streak in recent memory. This week's +17 net (21 new, 4 canceled) dwarfs last week's +0 (21 new, 21 canceled), with acquisition volume matching but churn collapsing 81%. MTD's +2.4/day rate runs 71% ahead of the YTD +1.4/day baseline, and the pattern shows May absorbing April 28th's \u221213 crater while establishing cleaner momentum. The seven-day churn freeze is building unusual cushion \u2014 either retention mechanisms are clicking or we're entering a seasonal calm before renewal cycles resume.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "17",
       "net_ytd": "174",
-      "net_mtd_per_day": "2.8",
+      "net_mtd_per_day": "2.4",
       "net_ytd_per_day": "1.4",
       "annual_mtd": "14",
-      "annual_ytd": "156",
+      "annual_ytd": "145",
       "monthly_mtd": "3",
-      "monthly_ytd": "18"
+      "monthly_ytd": "29"
     }
   }
 }
