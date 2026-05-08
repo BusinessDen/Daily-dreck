@@ -1,96 +1,132 @@
 {
   "fetched_date": "2026-05-08",
-  "fetched_at": "2026-05-08 12:36:32",
+  "fetched_at": "2026-05-08 13:38:29",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "SENTINEL MUSE: Take an emotional roller coaster ride with \u2018Angels\u2019 in Aurora",
+      "link": "https://sentinelcolorado.com/metro/sentinel-muse-take-an-emotional-roller-coaster-ride-with-angels-in-aurora/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-08T13:19:08+00:00",
+      "age_hours": 0.31869708944444447,
+      "breaking": true,
+      "time_ago": "19 min ago"
+    },
+    {
+      "title": "Edgewise boosts R&D spending as drug trials bear promising results",
+      "link": "https://bizwest.com/2026/05/08/edgewise-boosts-rd-spending-as-drug-trials-bear-promising-results/",
+      "source": "BizWest",
+      "pub_date": "2026-05-08T13:14:38+00:00",
+      "age_hours": 0.39196787555555557,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
+    {
+      "title": "Boulder Creek Festival, Sundance to co-host free movie nights",
+      "link": "https://bizwest.com/2026/05/08/boulder-creek-festival-sundance-to-co-host-free-movie-nights/",
+      "source": "BizWest",
+      "pub_date": "2026-05-08T13:11:52+00:00",
+      "age_hours": 0.4380794844444445,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
+    {
+      "title": "East & Co. market hall, events venue opens in Flatiron Park",
+      "link": "https://bizwest.com/2026/05/08/east-co-market-hall-events-venue-opens-in-flatiron-park/",
+      "source": "BizWest",
+      "pub_date": "2026-05-08T13:07:45+00:00",
+      "age_hours": 0.5066906261111112,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "Gated community coming to Greenwood Village with 90 homes",
+      "link": "https://www.9news.com/article/money/markets/real-estate/gated-community-greenwood-village/73-97f0da01-7b3a-49fc-841c-516802a58c9d",
+      "source": "9News",
+      "pub_date": "2026-05-08T13:06:06+00:00",
+      "age_hours": 0.5349676425,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
+    {
+      "title": "92 animals adopted at Humane Colorado's Furry Scurry",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/humane-colorado-furry-scurry-animal-adoptions/73-0a20911a-65cb-41bf-b151-1d23bfd3f135",
+      "source": "9News",
+      "pub_date": "2026-05-08T12:56:20+00:00",
+      "age_hours": 0.6977454283333333,
+      "breaking": true,
+      "time_ago": "41 min ago"
+    },
+    {
+      "title": "Twin brothers plead guilty to string of armed robberies across Denver metro",
+      "link": "https://kdvr.com/news/local/twin-brothers-plead-guilty-to-string-of-armed-robberies-across-denver-metro/",
+      "source": "Fox31",
+      "pub_date": "2026-05-08T12:43:12+00:00",
+      "age_hours": 0.9169518916666666,
+      "breaking": true,
+      "time_ago": "55 min ago"
+    },
     {
       "title": "Nearly half of Coloradans experiencing food insecurity don\u2019t qualify for SNAP",
       "link": "https://coloradosun.com/2026/05/08/nearly-half-of-coloradans-experiencing-food-insecurity-dont-qualify-for-snap/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-08T09:47:00+00:00",
-      "age_hours": 2.821440989722222,
+      "age_hours": 3.853075036388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Legislature\u2019s budget footnote punishes students who need help most | GUEST COLUMN",
       "link": "https://www.coloradopolitics.com/2026/05/08/legislatures-budget-footnote-punishes-students-who-need-help-most-guest-column/",
       "source": "CO Politics",
       "pub_date": "2026-05-08T06:45:00+00:00",
-      "age_hours": 5.855542699722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.887429465555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "New DIA train cars linked to half of recent outages",
       "link": "https://www.9news.com/article/travel/denver-international-airport/new-dia-train-cars-linked-to-recent-outages/73-26c52b1d-f439-4d7b-a48f-51d373eef89f",
       "source": "9News",
       "pub_date": "2026-05-08T04:22:06+00:00",
-      "age_hours": 8.236640580277777,
+      "age_hours": 9.268301072222222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver appears to admit liability in court filing as trial over police actions during George Floyd protests starts Monday",
       "link": "https://kdvr.com/news/local/denver-appears-to-admit-liability-in-court-filing-as-trial-over-police-actions-during-george-floyd-protests-starts-monday/",
       "source": "Fox31",
       "pub_date": "2026-05-08T01:57:53+00:00",
-      "age_hours": 10.640579602222221,
+      "age_hours": 11.672229708888889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports scoreboard, 5.7.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-5-7-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-07T23:00:00+00:00",
-      "age_hours": 13.605559289444445,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado\u2019s wolf reintroduction hits \u201cinflection point\u201d as program leader steps down, population dwindles and conflicts increase",
       "link": "https://coloradosun.com/2026/05/07/colorados-wolf-reintroduction-hits-inflection-point-as-program-leader-retires-and-conflicts-increase/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-07T22:55:38+00:00",
-      "age_hours": 13.677552564444444,
+      "age_hours": 14.709186535,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Where might Venu build a $350M entertainment venue?",
       "link": "https://bizwest.com/2026/05/07/where-might-venu-build-a-350m-entertainment-venue/",
       "source": "BizWest",
       "pub_date": "2026-05-07T22:16:07+00:00",
-      "age_hours": 14.335784730555556,
+      "age_hours": 15.367246215555555,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Colorado Gov. Polis faces intense lobbying blitz from DC-based groups over credit card \u2018swipe-fee\u2019 bill",
       "link": "https://www.coloradopolitics.com/2026/05/07/colorado-gov-polis-faces-intense-lobbying-blitz-from-dc-based-groups-over-credit-card-swipe-fee-bill/",
       "source": "CO Politics",
       "pub_date": "2026-05-07T22:15:19+00:00",
-      "age_hours": 14.35026494611111,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Aurora Council seeks to oversee GEO ICE detention center via contracts, inspections",
-      "link": "https://sentinelcolorado.com/metro/aurora-council-seeks-to-oversee-geo-ice-detention-center-via-contracts-inspections/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-07T21:56:31+00:00",
-      "age_hours": 14.66361519638889,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Colorado bill exempts credit card fees on sales tax to save businesses money",
-      "link": "https://sentinelcolorado.com/state-and-region-news/colorado-legislature/colorado-bill-exempts-credit-card-fees-on-sales-tax-to-save-businesses-money/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-07T21:01:18+00:00",
-      "age_hours": 15.583893250000001,
+      "age_hours": 15.382151708333334,
       "breaking": false,
       "time_ago": "15 hrs ago"
     },
@@ -99,90 +135,54 @@
       "link": "https://bizwest.com/2026/05/07/gogo-grows-profit-even-as-sales-slipped-slightly-in-first-quarter/",
       "source": "BizWest",
       "pub_date": "2026-05-07T20:15:02+00:00",
-      "age_hours": 16.353840791944442,
+      "age_hours": 17.385301800833332,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Games Ahoy! opens Longmont location as retro video game retailer diversifies",
       "link": "https://bizwest.com/2026/05/07/games-ahoy-opens-longmont-location-as-retro-video-game-retailer-diversifies/",
       "source": "BizWest",
       "pub_date": "2026-05-07T20:12:30+00:00",
-      "age_hours": 16.396063022777778,
+      "age_hours": 17.42752402888889,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "NoCo Foundation issues \u2018call to action\u2019 on housing shortage, affordability",
       "link": "https://bizwest.com/2026/05/07/noco-foundation-issues-call-to-action-on-housing-shortage-affordability/",
       "source": "BizWest",
       "pub_date": "2026-05-07T20:07:06+00:00",
-      "age_hours": 16.48606306083333,
+      "age_hours": 17.517524057499998,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado wolves were in several areas near Denver metro cities this year: Report",
       "link": "https://kdvr.com/news/local/colorado-wolves-were-in-several-areas-near-denver-metro-cities-this-year-report/",
       "source": "Fox31",
       "pub_date": "2026-05-07T18:42:21+00:00",
-      "age_hours": 17.89946841,
+      "age_hours": 18.93111848638889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "This Michelin-recognized restaurant is replacing Super Mega Bien in RiNo",
       "link": "https://kdvr.com/news/local/this-michelin-recognized-restaurant-is-replacing-super-mega-bien-in-rino/",
       "source": "Fox31",
       "pub_date": "2026-05-07T18:23:58+00:00",
-      "age_hours": 18.205857434722223,
+      "age_hours": 19.237507533888888,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Tavern at St. Michael\u2019s to close on May 24",
       "link": "https://bizwest.com/2026/05/07/tavern-at-st-michaels-to-close-on-may-24/",
       "source": "BizWest",
       "pub_date": "2026-05-07T17:57:53+00:00",
-      "age_hours": 18.639674209444443,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Colorado bill exempting sales tax from credit card swipe fees advances to governor after big Capitol showdown",
-      "link": "https://coloradosun.com/2026/05/07/colorado-bill-targeting-credit-card-swipe-fees-advances-to-governor/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-07T17:18:22+00:00",
-      "age_hours": 19.298664249444446,
+      "age_hours": 19.671135200277778,
       "breaking": false,
       "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Denver shelter\u2019s housing success threatened by potential federal funding cuts",
-      "link": "https://www.9news.com/article/news/local/local-politics/denver-shelter-funding-threatened-federal-cuts/73-1091baad-949e-4aa3-b4dd-d166ec1e176f",
-      "source": "9News",
-      "pub_date": "2026-05-07T17:14:57+00:00",
-      "age_hours": 19.355807384166667,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Venu eyes Northern Colorado for $350M entertainment venue",
-      "link": "https://bizwest.com/2026/05/07/venu-eyes-northern-colorado-for-350m-entertainment-venue/",
-      "source": "BizWest",
-      "pub_date": "2026-05-07T14:05:30+00:00",
-      "age_hours": 22.51272980222222,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "What\u2019s Happening: The Cookie Factory turns 1",
-      "link": "https://coloradosun.com/2026/05/07/whats-happening-colorado-denver-cookie-factory-art-space-birthday-party/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-07T14:00:00+00:00",
-      "age_hours": 22.60477539027778,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
     }
   ]
 }
