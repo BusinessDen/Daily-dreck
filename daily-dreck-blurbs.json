@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-05-08",
-  "lead_headline": "Lost Coffee opens sixth Colorado shop in Arvada while Heretik debuts French-Spanish rotisserie in RiNo \u2014 11 new restaurant leads tracked",
+  "generated_date": "2026-05-09",
+  "lead_headline": "Denver Caf\u00e9 & Kava opens Park Hill kava bar as Mukja Cafe launches first brick-and-mortar in RiNo \u2014 8 new leads today",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>11 new leads today</strong>: Heretik (Adley's French-Spanish rotisserie in RiNo), Petunia Bakeshop (Sunnyside relocation), Flaming Grill (Indian fusion downtown), Pelican Bay closure at Cherry Creek.",
+      "blurb": "<strong>8 new leads today</strong>: Denver Caf\u00e9 & Kava (Park Hill kava bar), Mukja Cafe (first brick-and-mortar after 7 years as food truck, Assembly RiNo), Tacos el Comando closure in Aurora.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+8",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "\u22123",
+        "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "87",
+        "value1": "88",
         "label2": "closed",
-        "value2": "71",
+        "value2": "72",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "57",
+        "value1": "26",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications for the fifth straight day</strong> \u2014 the post-flood freeze extends through Friday, now marking eight consecutive filing-free days since the April 29-30 backend dumped 2,144 mass renewals. The 7-day rolling total remains locked at 0 versus last week's 2,386-application deluge, exposing a 100% collapse from the normal 20-30 weekly baseline. This eight-day drought now points to either sustained backend processing delays or a deliberate hold following the flood. State licensing officials have offered no public comment on the pause, leaving May's pipeline status unclear \u2014 applications may be queued offline awaiting batch release, or the system could be undergoing post-flood cleanup. The silence grows more conspicuous with each passing day.",
+      "blurb": "<strong>Zero applications for the sixth consecutive day</strong> \u2014 the post-flood drought hits nine total days since April 29-30's 2,144-renewal deluge. The 7-day window remains pinned at 0 versus last week's 2,386-application flood, marking a 100% collapse from the normal 20-30 weekly baseline. State licensing remains silent on the pause, which now extends through Saturday with no queue visibility. Either applications are held offline awaiting batch release, or backend cleanup from the flood continues \u2014 but the nine-day freeze with zero official comment grows increasingly conspicuous. May's pipeline status remains opaque as the silence deepens.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>4 mentions today</strong> (Facebook, Instagram business features) push the 7-day total to 53 across 8 sources, up 18% from last week's 45 and breaking the five-day lull. Instagram leads with 15 mentions (28% share), followed by Denver Post (17), Facebook (11), and X (4), while Broomfield downtown development coverage drove today's activity. The 53-mention pace runs 18% above last week and 8% above the 30-day rolling average of 49 \u2014 outlets are emerging from mid-week coast mode. Social platforms still dominate discovery (52 via Google News RSS, 1 via Reddit), but traditional outlet pickups are creeping back into rotation. The week's momentum shift suggests Friday editorial desks are returning to normal cadence.",
+      "blurb": "<strong>7 mentions yesterday</strong> (Gates Enterprises bankruptcy, Broomfield development) lift the 7-day total to 51 across 7 sources, up 13% from last week's 45. Denver Post leads with 18 mentions (35% share), followed by Instagram (13), Facebook (6), and X (5), with bankruptcy and golf aggregator coverage driving Thursday's activity. The 51-mention week runs 13% above last week's pace and 4% above the 30-day rolling average of 49 \u2014 outlets are sustaining mid-week momentum into Friday. Social platforms dominate discovery (50 via Google News RSS, 1 via Reddit), while traditional media pickups remain steady. Week-over-week growth holds as editorial desks maintain normal cadence heading into the weekend.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "4",
-        "class1": "up",
+        "value1": "7",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "53",
+        "value1": "51",
         "class1": "up",
         "label2": "sources",
-        "value2": "8",
+        "value2": "7",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) extends MTD to +17 (+2.4/day) and holds 90-day net at +133. The single-add day marks the seventh consecutive cancellation-free session to open May \u2014 the longest zero-churn streak in recent memory. This week's +17 net (21 new, 4 canceled) dwarfs last week's +0 (21 new, 21 canceled), with acquisition volume matching but churn collapsing 81%. MTD's +2.4/day rate runs 71% ahead of the YTD +1.4/day baseline, and the pattern shows May absorbing April 28th's \u221213 crater while establishing cleaner momentum. The seven-day churn freeze is building unusual cushion \u2014 either retention mechanisms are clicking or we're entering a seasonal calm before renewal cycles resume.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) trims MTD to +16 (+2.0/day) but holds 90-day net at +135. The single cancellation breaks an eight-day zero-churn streak \u2014 the longest clean run since tracking began \u2014 and marks May's first subscription loss after 16 consecutive adds. This week still delivers +13 net (17 new, 4 canceled), outpacing last week's flat performance (+0: 20 new, 20 canceled) as acquisition holds while churn remains suppressed 80%. MTD's +2.0/day rate runs 43% ahead of YTD's +1.4/day baseline, absorbing yesterday's lone cancel without derailing May's momentum. The pattern shows retention mechanisms still engaged despite the streak break.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "17",
-      "net_ytd": "174",
-      "net_mtd_per_day": "2.4",
+      "net_mtd": "16",
+      "net_ytd": "173",
+      "net_mtd_per_day": "2.0",
       "net_ytd_per_day": "1.4",
-      "annual_mtd": "14",
-      "annual_ytd": "145",
+      "annual_mtd": "13",
+      "annual_ytd": "139",
       "monthly_mtd": "3",
-      "monthly_ytd": "29"
+      "monthly_ytd": "34"
     }
   }
 }
