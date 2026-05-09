@@ -1,186 +1,186 @@
 {
   "fetched_date": "2026-05-09",
-  "fetched_at": "2026-05-09 15:23:20",
+  "fetched_at": "2026-05-09 16:22:26",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Frontier Airlines flight aborts takeoff after hitting pedestrian, catching fire at DIA",
+      "link": "https://sentinelcolorado.com/noapple/frontier-airlines-flight-aborts-takeoff-after-hitting-pedestrian-catching-fire-at-dia/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-09T16:15:39+00:00",
+      "age_hours": 0.10909816444444445,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
     {
       "title": "Frontier flight evacuated after person hit, killed by plane on runway at Denver airport",
       "link": "https://www.9news.com/article/news/local/plane-evacuated-person-on-runway-denver-airport/73-2a4966a4-d318-41b6-94fa-f3fbffc2702a",
       "source": "9News",
-      "pub_date": "2026-05-09T14:46:05+00:00",
-      "age_hours": 0.6167904222222222,
+      "pub_date": "2026-05-09T16:07:06+00:00",
+      "age_hours": 0.2509227766666667,
       "breaking": true,
-      "time_ago": "37 min ago"
-    },
-    {
-      "title": "White House scrambles to tame AI fears",
-      "link": "https://kdvr.com/hill-politics/white-house-scrambles-to-tame-ai-fears/",
-      "source": "Fox31",
-      "pub_date": "2026-05-09T14:37:19+00:00",
-      "age_hours": 0.7630581980555555,
-      "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "15 min ago"
     },
     {
       "title": "Frontier plane hits, kills person on runway during takeoff at Denver airport",
       "link": "https://coloradosun.com/2026/05/09/denver-airport-runway-pedestrian-frontier-airlines/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-09T13:24:24+00:00",
-      "age_hours": 1.9780686922222224,
+      "age_hours": 2.962551824444444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Flight from DIA aborts takeoff after hitting pedestrian on runway",
       "link": "https://kdvr.com/news/local/flight-from-dia-aborts-takeoff-after-hitting-pedestrian-on-runway/",
       "source": "Fox31",
       "pub_date": "2026-05-09T13:05:10+00:00",
-      "age_hours": 2.2988912627777776,
+      "age_hours": 3.2833310044444444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "\u2018Micro\u2019 nuclear power generator, wildfire resources focus of annual Buckley Space Force review",
       "link": "https://sentinelcolorado.com/metro/micro-nuclear-power-generator-wildfire-resources-focus-of-annual-buckley-space-force-review/",
       "source": "Sentinel",
       "pub_date": "2026-05-09T12:46:45+00:00",
-      "age_hours": 2.606185390277778,
+      "age_hours": 3.5907651041666666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado needs a sane, viable opposition party | SONDERMANN",
       "link": "https://www.coloradopolitics.com/2026/05/09/colorado-needs-a-sane-viable-opposition-party-sondermann/",
       "source": "CO Politics",
       "pub_date": "2026-05-09T11:00:00+00:00",
-      "age_hours": 4.385334487777778,
+      "age_hours": 5.369901136944444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Colorado Should Get Credit Card Reform Across the Finish Line",
+      "link": "https://www.westword.com/opinion/colorado-should-get-credit-card-reform-across-the-finish-line-40882868/",
+      "source": "Westword",
+      "pub_date": "2026-05-09T09:25:00-06:00",
+      "age_hours": 0.9530458230555555,
+      "breaking": true,
+      "time_ago": "57 min ago"
     },
     {
       "title": "Every Opening and Closing This Week: Three Chef-Driven Restaurants Make Their Debut",
       "link": "https://www.westword.com/food-drink/three-chef-driven-restaurants-make-their-denver-debuts-40882747/",
       "source": "Westword",
       "pub_date": "2026-05-09T07:29:51-06:00",
-      "age_hours": 1.8876774291666667,
+      "age_hours": 2.8722126205555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver Police policy proposal would expand when officers can deploy Tasers",
       "link": "https://www.9news.com/article/news/local/denver-police-policy-proposal-would-expand-when-officers-can-deploy-tasers/73-3da1d311-7169-4979-8a12-3b06cecfc630",
       "source": "9News",
       "pub_date": "2026-05-09T04:01:42+00:00",
-      "age_hours": 11.356512710555556,
+      "age_hours": 12.340922877777777,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Zoo baby alert! Two bighorn sheep lambs born at Denver Zoo",
       "link": "https://www.9news.com/article/life/animals/baby-bighorn-sheep-denver-zoo/73-f2450eae-28d1-427e-8b12-9965133ff8c2",
       "source": "9News",
       "pub_date": "2026-05-09T03:08:19+00:00",
-      "age_hours": 12.246234985555557,
+      "age_hours": 13.230645157500001,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Mother\u2019s Day weekend marks unofficial start to gardening season in Colorado",
       "link": "https://kdvr.com/news/local/mothers-day-weekend-marks-unofficial-start-to-gardening-season-in-colorado/",
       "source": "Fox31",
       "pub_date": "2026-05-09T02:51:05+00:00",
-      "age_hours": 12.533613694166666,
+      "age_hours": 13.51805344611111,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Broomfield\u2019s Quantinuum registers to go public with IPO",
       "link": "https://bizwest.com/2026/05/08/broomfields-quantinuum-registers-to-go-public-with-ipo/",
       "source": "BizWest",
       "pub_date": "2026-05-09T02:48:51+00:00",
-      "age_hours": 12.57016340611111,
+      "age_hours": 13.55457086611111,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver police investigate crash involving a cyclist near Civic Center Park",
       "link": "https://kdvr.com/news/local/denver-police-investigate-crash-involving-a-cyclist-near-civic-center-park/",
       "source": "Fox31",
       "pub_date": "2026-05-09T02:46:15+00:00",
-      "age_hours": 12.61416915888889,
+      "age_hours": 13.598608905833332,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Growing Good News",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/growing-good-news/73-2959c0b2-c868-4a07-9c00-c119cd3447fd",
       "source": "9News",
       "pub_date": "2026-05-09T01:08:29+00:00",
-      "age_hours": 14.243457255833334,
+      "age_hours": 15.2278674325,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "'Groaning, yelling and struggling': Denver neighbors sue gym over early-morning noises",
       "link": "https://www.9news.com/article/news/local/groaning-yelling-struggling-denver-neighbors-sue-gym/73-0efff541-534d-4a13-bc40-8f05c20f1160",
       "source": "9News",
       "pub_date": "2026-05-09T00:47:10+00:00",
-      "age_hours": 14.59873507222222,
+      "age_hours": 15.58314524861111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver Public Schools celebrates teachers with first-ever 'Tag In' initiative during Appreciation Week",
       "link": "https://www.9news.com/article/news/education/denver-public-schools-teacher-tag-in-appreciation-week/73-3ce1e5df-53b7-460e-ad79-46c457a16272",
       "source": "9News",
       "pub_date": "2026-05-09T00:43:47+00:00",
-      "age_hours": 14.655123998333332,
+      "age_hours": 15.639534172222223,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver to offer small business loans up to $350K from marijuana sales tax fund",
       "link": "https://www.9news.com/article/news/denver-to-offer-small-business-loans-up-to-350k-from-marijuana-sales-tax-fund/73-81c3b22d-4614-4001-9ff8-6cf2c60b9d60",
       "source": "9News",
       "pub_date": "2026-05-09T00:38:30+00:00",
-      "age_hours": 14.743179594166666,
+      "age_hours": 15.727589773333333,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver students get a surprise visit from two Broncos and a donated pair of shoes",
       "link": "https://kdvr.com/news/local/denver-students-get-a-surprise-visit-from-two-broncos-and-a-donated-pair-of-shoes/",
       "source": "Fox31",
       "pub_date": "2026-05-09T00:04:31+00:00",
-      "age_hours": 15.309724758611111,
+      "age_hours": 16.29416450777778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "2 teens killed in crash involving vehicle and go-kart",
       "link": "https://www.9news.com/article/news/local/go-kart-crash-2-killed/73-ba891c95-bae2-46b1-b6e8-7c50301ae266",
       "source": "9News",
       "pub_date": "2026-05-08T23:58:37+00:00",
-      "age_hours": 15.407901831944445,
+      "age_hours": 16.39231201277778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado lawmakers eye  5% fee on online gaming \u2018skins,\u2019 other game features",
       "link": "https://www.coloradopolitics.com/2026/05/08/colorado-lawmakers-eye-5-fee-on-online-gaming-skins-other-game-features/",
       "source": "CO Politics",
       "pub_date": "2026-05-08T23:51:09+00:00",
-      "age_hours": 15.532834581944444,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Company behind Ford Amphitheater looking to expand in northern Colorado",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/venu-ford-northern-colorado-entertainment-amphitheater/73-2c376dcb-abdd-4cde-9c68-e1488518455e",
-      "source": "9News",
-      "pub_date": "2026-05-08T22:25:24+00:00",
-      "age_hours": 16.9615129825,
+      "age_hours": 16.517401238333335,
       "breaking": false,
       "time_ago": "16 hrs ago"
     }
