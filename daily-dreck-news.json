@@ -1,60 +1,123 @@
 {
   "fetched_date": "2026-05-11",
-  "fetched_at": "2026-05-11 19:36:43",
+  "fetched_at": "2026-05-11 20:39:15",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Delta Dental exec takes over leadership of OneTogether Solutions",
+      "link": "https://bizwest.com/2026/05/11/delta-dental-exec-takes-over-leadership-of-onetogether-solutions/",
+      "source": "BizWest",
+      "pub_date": "2026-05-11T19:57:40+00:00",
+      "age_hours": 0.687767945,
+      "breaking": true,
+      "time_ago": "41 min ago"
+    },
+    {
+      "title": "Boulder Valley, Northern Colorado home prices fell in April",
+      "link": "https://bizwest.com/2026/05/11/boulder-valley-northern-colorado-home-prices-fell-in-april/",
+      "source": "BizWest",
+      "pub_date": "2026-05-11T19:54:57+00:00",
+      "age_hours": 0.7330462161111111,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
+    {
+      "title": "CSU environmental economist elected to National Academy of Sciences",
+      "link": "https://bizwest.com/2026/05/11/csu-environmental-economist-elected-to-national-academy-of-sciences/",
+      "source": "BizWest",
+      "pub_date": "2026-05-11T19:51:51+00:00",
+      "age_hours": 0.784712916111111,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
+    {
+      "title": "Louisville officials to review AdventHealth\u2019s Redtail hospital plans",
+      "link": "https://bizwest.com/2026/05/11/louisville-officials-to-review-adventhealths-redtail-hospital-plans/",
+      "source": "BizWest",
+      "pub_date": "2026-05-11T19:48:56+00:00",
+      "age_hours": 0.8333240608333333,
+      "breaking": true,
+      "time_ago": "49 min ago"
+    },
+    {
+      "title": "Black smoke visible in Denver due to fire at Suncor oil refinery",
+      "link": "https://kdvr.com/news/local/black-smoke-visible-in-denver-due-to-fire-at-suncor-oil-refinery/",
+      "source": "Fox31",
+      "pub_date": "2026-05-11T19:47:38+00:00",
+      "age_hours": 0.8556911205555555,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
+    {
+      "title": "Colorado lawmakers reject environmentalist-backed effort to regulate data centers",
+      "link": "https://coloradosun.com/2026/05/11/colorado-lawmakers-reject-data-center-environmental-regulations/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-05-11T19:46:23+00:00",
+      "age_hours": 0.8762037775,
+      "breaking": true,
+      "time_ago": "52 min ago"
+    },
+    {
+      "title": "Older Americans say it\u2019s a good time to find a job. Younger people aren\u2019t buying it, new poll finds",
+      "link": "https://sentinelcolorado.com/uncategorized/older-americans-say-its-a-good-time-to-find-a-job-younger-people-arent-buying-it-new-poll-finds/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-11T19:45:56+00:00",
+      "age_hours": 0.8842850002777777,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
     {
       "title": "Denver to test sirens and wireless emergency alerts on Wednesday",
       "link": "https://www.9news.com/article/news/local/denver-test-sirens-wireless-emergency-alerts-wednesday/73-b23a42ba-8f40-4fcc-a7c4-18b607260c59",
       "source": "9News",
       "pub_date": "2026-05-11T19:16:50+00:00",
-      "age_hours": 0.32670120861111107,
+      "age_hours": 1.3688843786111111,
       "breaking": true,
-      "time_ago": "19 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Business Buzz: Colorado\u2019s energy paradox and 3D printing the future of housing",
       "link": "https://www.9news.com/article/money/business-brief/colorados-energy-paradox-and-3d-printing-the-future-of-housing/73-5d4ca736-f867-4aa2-986a-352a3e961d30",
       "source": "9News",
       "pub_date": "2026-05-11T18:22:12+00:00",
-      "age_hours": 1.2372568091666667,
+      "age_hours": 2.27944001,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Food truck event returns to Civic Center Park this week",
       "link": "https://www.9news.com/article/news/food-truck-event-civic-center-park/73-d9251fa3-bfbd-497c-9d34-139143fb8e7d",
       "source": "9News",
       "pub_date": "2026-05-11T17:44:59+00:00",
-      "age_hours": 1.8575346383333333,
+      "age_hours": 2.8997178686111114,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado's first Taco Bell Cantina is now open",
       "link": "https://kdvr.com/denver-guide/food-drink/colorados-first-taco-bell-cantina-is-now-open/",
       "source": "Fox31",
       "pub_date": "2026-05-11T17:32:49+00:00",
-      "age_hours": 2.060585478333333,
+      "age_hours": 3.1026355988888885,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Trump calls to pause federal gas tax in bid to ease prices at the pump",
+      "link": "https://www.coloradopolitics.com/2026/05/11/trump-calls-to-pause-federal-gas-tax-in-bid-to-ease-prices-at-the-pump/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-11T16:49:43+00:00",
+      "age_hours": 3.8211891711111114,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver's Japantown asks city to help save its last block",
       "link": "https://www.9news.com/article/news/community/asian-pacific-american-heritage/sakura-square-japantown-downtown-denver/73-731bda69-95c1-4b08-aed1-4b22d41edf60",
       "source": "9News",
       "pub_date": "2026-05-11T15:58:57+00:00",
-      "age_hours": 3.624756907777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Aurora man charged with assault after accidental shooting injures neighbor",
-      "link": "https://sentinelcolorado.com/metro/aurora-man-charged-with-assault-after-accidental-shooting-injures-neighbor/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-11T15:32:35+00:00",
-      "age_hours": 4.065039285277778,
+      "age_hours": 4.666940182777778,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -63,126 +126,63 @@
       "link": "https://kdvr.com/denver-guide/food-drink/harry-potter-themed-pop-up-bar-opens-in-downtown-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-11T15:05:34+00:00",
-      "age_hours": 4.514752119722222,
+      "age_hours": 5.5568023025,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "New report shows shift in who is buying homes right now",
       "link": "https://www.9news.com/article/money/markets/real-estate/baby-boomers-lead-homebuying-real-estate/73-37bce404-9fc2-4d29-bca4-966b95d95646",
       "source": "9News",
       "pub_date": "2026-05-11T14:58:43+00:00",
-      "age_hours": 4.6286458322222215,
+      "age_hours": 5.670829133611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Savannah Guthrie to host 'Wordle' game show, produced by Jimmy Fallon",
       "link": "https://www.9news.com/article/news/nation-world/jimmy-fallon-savannah-guthrie-wordle-game-show/507-ceb3fbc2-9ab8-4c25-b3fc-86646fa6c052",
       "source": "9News",
       "pub_date": "2026-05-11T14:22:38+00:00",
-      "age_hours": 5.230034751944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.272218079166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Frontier says gun magazine found on plane at DIA left by officer on previous flight",
       "link": "https://kdvr.com/news/local/gun-magazine-found-on-frontier-flight-at-denver-international-airport/",
       "source": "Fox31",
       "pub_date": "2026-05-11T13:49:20+00:00",
-      "age_hours": 5.7853076325,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.827357890277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "DIA CEO, pilot airline security experts speak out about deadly pedestrian collision",
       "link": "https://kdvr.com/news/local/dia-ceo-pilot-airline-security-experts-speak-out-about-deadly-pedestrian-collision/",
       "source": "Fox31",
       "pub_date": "2026-05-11T13:39:19+00:00",
-      "age_hours": 5.952252032222223,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.994302173333334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "NTSB gathering details on Frontier Airlines evacuation after plane hit, killed person in Denver",
       "link": "https://coloradosun.com/2026/05/11/frontier-airlines-evacuation-denver-ntsb-review/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-11T12:59:41+00:00",
-      "age_hours": 6.612391210555556,
+      "age_hours": 7.654537138888888,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colfax Marathon to cause detours, delays for RTD bus, light rail",
       "link": "https://www.9news.com/article/traffic/colfax-marathon-detours-delays-rtd-bus-light-rail/73-9d79052a-4349-4781-8fcc-4dc09c2c9e89",
       "source": "9News",
       "pub_date": "2026-05-11T12:38:20+00:00",
-      "age_hours": 6.968368141666667,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Updated AI regulation bill clears Colorado House and Senate, heads to governor\u2019s desk",
-      "link": "https://www.coloradopolitics.com/2026/05/11/updated-ai-regulation-bill-clears-colorado-house-and-senate-heads-to-governors-desk/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-11T12:01:00+00:00",
-      "age_hours": 7.591368592777777,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Healthcare giant buys 44 acres in Parker",
-      "link": "https://www.9news.com/article/news/health/advent-health-colorado-land-purchase/73-b4612dd0-2cf3-46ae-994f-0649e473c07b",
-      "source": "9News",
-      "pub_date": "2026-05-11T11:23:45+00:00",
-      "age_hours": 8.211423731666667,
+      "age_hours": 8.010551502777778,
       "breaking": false,
       "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Video shows person walking onto DIA runway before being hit, killed by plane",
-      "link": "https://kdvr.com/news/local/video-shows-person-walking-onto-dia-runway-before-being-hit-killed-by-plane/",
-      "source": "Fox31",
-      "pub_date": "2026-05-10T23:25:25+00:00",
-      "age_hours": 20.183918849444446,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "CSU\u2019s new ATLAS facility aims to accelerate fusion-energy breakthrough",
-      "link": "https://bizwest.com/2026/05/10/csus-new-atlas-facility-aims-to-accelerate-fusion-energy-breakthrough/",
-      "source": "BizWest",
-      "pub_date": "2026-05-10T15:53:12+00:00",
-      "age_hours": 27.719981095277777,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Vantor inks $70M contract with intel agency",
-      "link": "https://bizwest.com/2026/05/10/vantor-inks-70m-contract-with-intel-agency/",
-      "source": "BizWest",
-      "pub_date": "2026-05-10T13:56:58+00:00",
-      "age_hours": 29.65720333138889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Flight from DIA aborts takeoff after hitting, killing pedestrian on runway",
-      "link": "https://kdvr.com/news/local/flight-from-dia-aborts-takeoff-after-hitting-pedestrian-on-runway/",
-      "source": "Fox31",
-      "pub_date": "2026-05-09T13:05:10+00:00",
-      "age_hours": 54.52141887388889,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado needs a sane, viable opposition party | SONDERMANN",
-      "link": "https://www.coloradopolitics.com/2026/05/09/colorado-needs-a-sane-viable-opposition-party-sondermann/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-09T11:00:00+00:00",
-      "age_hours": 56.60803530916667,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
