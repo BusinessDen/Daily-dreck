@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-05-11",
-  "lead_headline": "Taco John's closure confirmed after 20+ years in Globeville \u2014 final lead in weekend's 11-lead sweep",
+  "generated_date": "2026-05-12",
+  "lead_headline": "Lost Coffee opens sixth Colorado shop in Arvada \u2014 zero filings exceed $4M threshold as foreclosure pipeline cools",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>11 new leads since Friday</strong>: Lost Coffee (Arvada), Moore. Cafe (Lakewood), Taco John's (Globeville closure confirmed), Denver Caf\u00e9 & Kava (Park Hill kava bar), Tacos el Comando (Aurora shuttered), Petunia Bakeshop (Sunnyside relocation).",
+      "blurb": "<strong>1 new lead today</strong>: Taco John's (Globeville) \u2014 closure confirmed from August 2024 after 20+ years at Logan St location.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+6",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22125",
-        "period": "since Friday"
+        "value2": "1",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -43,12 +43,12 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>The blackout completes its eleventh day</strong> with zero new applications since the April 29-30 flood dumped 2,144 renewals into the system. The 7-day window remains flatlined at 0 versus last week's 2,386-application deluge \u2014 a complete collapse from the typical 20-30 weekly baseline. No official communication from state licensing on queue restoration or whether backend reconciliation continues. The freeze now stretches across two full weeks with no pipeline visibility, suggesting applications remain held offline awaiting batch release or caught in post-flood cleanup. May's licensing calendar stays completely dark as the Monday workweek opens with no sign of system recovery.",
+      "blurb": "<strong>Zero applications for the twelfth consecutive day</strong> as the state licensing blackout extends deeper into May with no communication on system restoration. The 7-day window holds at absolute zero versus last Tuesday's identical flatline, marking two full weeks since the April 29-30 surge dumped 2,144 renewals and collapsed the pipeline. No new filings, no status updates, no backend activity \u2014 the freeze persists across all license types with May's calendar completely dark. Backend reconciliation or batch processing delays appear systemic, not transactional, as Monday's workweek opens with no visibility into queue restoration timelines.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention yesterday</strong> (Jay's Garage classic car feature in Denver Post) keeps the weekend quiet, but the 7-day total climbs to 51 across 7 sources \u2014 up 19% from last week's 43. Denver Post commands 35% share with 18 mentions, followed by Instagram (13) and Facebook (6), with real estate and social coverage anchoring the week. The 51-mention tally runs 19% above last week and 8% ahead of the 30-day rolling average \u2014 outlets sustain elevated engagement heading into the Monday news cycle. Google News RSS drives 50 of 51 discoveries, maintaining baseline pickup consistency despite weekend lull. Week-over-week growth accelerates as editorial momentum builds from last week's 43-mention floor.",
+      "blurb": "<strong>1 mention yesterday</strong> (Instagram post on Colorado Blvd retail redevelopment) extends the Monday-morning lull, but the 7-day tally surges to 53 across 9 sources \u2014 up 23% from last week's 43 and 11% above the 30-day rolling average. Denver Post dominates with 18 mentions (34% share), followed by Instagram (14) and a mix of Facebook/X cross-posts. Real estate and development coverage anchors the week's pickup, with Google News RSS driving all 53 discoveries. Week-over-week momentum accelerates as outlets sustain elevated engagement heading into mid-May \u2014 the 53-mention floor now establishes a new weekly baseline 23% ahead of last Tuesday's 43-mention comparison point.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,25 +69,25 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "51",
+        "value1": "53",
         "class1": "up",
         "label2": "sources",
-        "value2": "7",
+        "value2": "9",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22122 since Friday</strong> (0 new, 2 canceled) pulls MTD to +15 (+1.5/day) while 90-day net holds at +134. The weekend flatlined on acquisition with zero new subscribers across Saturday and Sunday, while two Friday cancellations marked the only churn. This week's +10 net (15 new, 5 canceled) still reverses last week's +3 (25 new, 22 canceled), but the pattern shifts \u2014 acquisition volumes compress 40% week-over-week (15 vs 25) even as churn improves 77% (5 vs 22). MTD's +1.5/day rate runs 15% ahead of YTD's +1.3/day baseline, absorbing the weekend's zero-growth stall without structural damage. The trend suggests tighter inbound flow replacing last week's high-churn volume model, with retention stabilizing at lower absolute subscriber counts.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) nudges MTD to +12 (+1.1/day) while 90-day net holds at +134. Sunday delivered the week's cleanest conversion \u2014 single new subscriber, zero churn \u2014 following Saturday's identical pattern. This week's +2 net (15 new, 13 canceled) compresses sharply from last week's +5 (27 new, 22 canceled), with acquisition volumes down 44% (15 vs 27) even as cancellations improve 41% (13 vs 22). MTD's +1.1/day rate runs 15% below YTD's +1.3/day baseline, signaling tighter inbound flow replacing last week's high-volume churn model. The pattern shifts toward lower-velocity acquisition with retention stabilizing \u2014 weekend's back-to-back +1 days suggest steadier conversion rhythm despite compressed absolute counts.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "15",
-      "net_ytd": "172",
-      "net_mtd_per_day": "1.5",
+      "net_mtd": "12",
+      "net_ytd": "169",
+      "net_mtd_per_day": "1.1",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "12",
-      "annual_ytd": "138",
+      "annual_mtd": "9",
+      "annual_ytd": "128",
       "monthly_mtd": "3",
-      "monthly_ytd": "34"
+      "monthly_ytd": "41"
     }
   }
 }
