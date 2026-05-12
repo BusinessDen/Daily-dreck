@@ -1,51 +1,78 @@
 {
   "fetched_date": "2026-05-12",
-  "fetched_at": "2026-05-12 12:48:23",
+  "fetched_at": "2026-05-12 13:41:08",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Industrious leases former WeWork space in Denver",
+      "link": "https://bizwest.com/2026/05/12/industrious-leases-former-wework-space-in-denver/",
+      "source": "BizWest",
+      "pub_date": "2026-05-12T13:35:02+00:00",
+      "age_hours": 0.09687574055555555,
+      "breaking": true,
+      "time_ago": "5 min ago"
+    },
+    {
+      "title": "DTJ Design returns to downtown Boulder",
+      "link": "https://bizwest.com/2026/05/12/dtj-design-returns-to-downtown-boulder/",
+      "source": "BizWest",
+      "pub_date": "2026-05-12T13:09:24+00:00",
+      "age_hours": 0.5240979827777777,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "Savannah Guthrie to host 'Wordle' game show, produced by Jimmy Fallon",
+      "link": "https://www.9news.com/article/news/nation-world/jimmy-fallon-savannah-guthrie-wordle-game-show/507-ceb3fbc2-9ab8-4c25-b3fc-86646fa6c052",
+      "source": "9News",
+      "pub_date": "2026-05-12T12:59:53+00:00",
+      "age_hours": 0.6833359419444445,
+      "breaking": true,
+      "time_ago": "41 min ago"
+    },
     {
       "title": "Denver airport to provide update after person killed by Frontier plane on runway",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-frontier-plane-killed-runway/73-c8005432-44a3-4693-90d2-3e170ad9bc43",
       "source": "9News",
       "pub_date": "2026-05-12T12:12:46+00:00",
-      "age_hours": 0.5894012919444445,
+      "age_hours": 1.4686137572222222,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Starbucks' summer menu arrives this week: See what's new and returning for the season",
       "link": "https://www.9news.com/article/news/nation-world/starbucks-summer-menu-tropical-butterfly-refresher-horchata-beverages/507-16a78b59-47df-4b86-b448-918544f67dd0",
       "source": "9News",
       "pub_date": "2026-05-12T10:27:32+00:00",
-      "age_hours": 2.343290273611111,
+      "age_hours": 3.2225027291666666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado\u2019s fierce two-year fight over AI regulation ends with watered-down law, little fanfare",
       "link": "https://coloradosun.com/2026/05/12/colorado-ai-law-rewrite-passes/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-12T10:21:00+00:00",
-      "age_hours": 2.4519930844444446,
+      "age_hours": 3.331270871388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Bill reauthorizing Public Utilities Commission races through state Capitol. The story is what\u2019s not included.",
       "link": "https://coloradosun.com/2026/05/12/colorado-public-utilities-commission-sunset-bill-five-members/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-12T10:20:00+00:00",
-      "age_hours": 2.4686602233333335,
+      "age_hours": 3.347937998888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Parts of Federal closed due to bus, motorcycle crash",
       "link": "https://kdvr.com/news/local/parts-of-federal-closed-due-to-bus-motorcycle-crash/",
       "source": "Fox31",
       "pub_date": "2026-05-12T03:41:27+00:00",
-      "age_hours": 9.111557143888888,
+      "age_hours": 9.990784517222222,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -54,34 +81,34 @@
       "link": "https://www.9news.com/article/news/local/colorado-news/frontier-flight-able-to-abort-takeoff-after-person-walked-in-front-of-plane/73-4e0a4fa7-92c8-4665-8dc3-d6ac54c3b82a",
       "source": "9News",
       "pub_date": "2026-05-12T02:24:14+00:00",
-      "age_hours": 10.3982903425,
+      "age_hours": 11.27750278861111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Runway intruder at DIA sparks questions about security at the country's largest airport",
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/runway-intruder-dia-security/73-334d7fbe-0f75-4bc6-a6c4-f20925d6ef81",
       "source": "9News",
       "pub_date": "2026-05-12T00:58:21+00:00",
-      "age_hours": 11.82967928138889,
+      "age_hours": 12.708891721666667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "DPD releases body camera video of moments officers shot suspect in downtown Denver shooting",
       "link": "https://www.9news.com/article/news/crime/dpd-body-camera-video-shooting-injured-suspect-downtown-denver/73-5a330110-b822-44d2-b49f-62ccd6b381ab",
       "source": "9News",
       "pub_date": "2026-05-11T23:35:41+00:00",
-      "age_hours": 13.207457130555555,
+      "age_hours": 14.086669571666667,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "DPD releases body camera footage of officer-involved shooting on 16th\u00a0Street",
       "link": "https://kdvr.com/news/local/dpd-releases-body-camera-footage-of-officer-involved-shooting-on-16th-street/",
       "source": "Fox31",
       "pub_date": "2026-05-11T22:41:13+00:00",
-      "age_hours": 14.115446163888889,
+      "age_hours": 14.994673521388888,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -90,99 +117,72 @@
       "link": "https://bizwest.com/2026/05/11/state-upholds-one-complaint-linked-to-catalyst-foes-dismisses-others/",
       "source": "BizWest",
       "pub_date": "2026-05-11T21:18:32+00:00",
-      "age_hours": 15.4921687375,
+      "age_hours": 16.3718767675,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "DIA will review perimeter security program after person hit, killed by plane",
-      "link": "https://kdvr.com/news/dia-will-review-perimeter-security-program-after-person-hit-killed-by-plane/",
+      "link": "https://kdvr.com/news/local/dia-will-review-perimeter-security-program-after-person-hit-killed-by-plane/",
       "source": "Fox31",
       "pub_date": "2026-05-11T21:03:45+00:00",
-      "age_hours": 15.739890764166667,
+      "age_hours": 16.61911809388889,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado legislature pushes AI rules targeting health care, therapy and chatbots",
       "link": "https://www.coloradopolitics.com/2026/05/11/colorado-legislature-pushes-ai-rules-targeting-health-care-therapy-and-chatbots/",
       "source": "CO Politics",
       "pub_date": "2026-05-11T20:58:50+00:00",
-      "age_hours": 15.822168188055556,
+      "age_hours": 16.701389714166666,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Delta Dental exec takes over leadership of OneTogether Solutions",
       "link": "https://bizwest.com/2026/05/11/delta-dental-exec-takes-over-leadership-of-onetogether-solutions/",
       "source": "BizWest",
       "pub_date": "2026-05-11T19:57:40+00:00",
-      "age_hours": 16.839947549722222,
+      "age_hours": 17.719654607222225,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Boulder Valley, Northern Colorado home prices fell in April",
       "link": "https://bizwest.com/2026/05/11/boulder-valley-northern-colorado-home-prices-fell-in-april/",
       "source": "BizWest",
       "pub_date": "2026-05-11T19:54:57+00:00",
-      "age_hours": 16.885225386944445,
+      "age_hours": 17.764932443611112,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "CSU environmental economist elected to National Academy of Sciences",
       "link": "https://bizwest.com/2026/05/11/csu-environmental-economist-elected-to-national-academy-of-sciences/",
       "source": "BizWest",
       "pub_date": "2026-05-11T19:51:51+00:00",
-      "age_hours": 16.936892111944445,
+      "age_hours": 17.81659917861111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Louisville officials to review AdventHealth\u2019s Redtail hospital plans",
       "link": "https://bizwest.com/2026/05/11/louisville-officials-to-review-adventhealths-redtail-hospital-plans/",
       "source": "BizWest",
       "pub_date": "2026-05-11T19:48:56+00:00",
-      "age_hours": 16.98550328,
+      "age_hours": 17.86521034638889,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Increased flaring at Suncor due to power outage operations",
       "link": "https://kdvr.com/news/local/black-smoke-visible-in-denver-due-to-fire-at-suncor-oil-refinery/",
       "source": "Fox31",
       "pub_date": "2026-05-11T19:47:38+00:00",
-      "age_hours": 17.008501731666666,
+      "age_hours": 17.887729087222223,
       "breaking": false,
       "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Colorado lawmakers reject environmentalist-backed effort to regulate data centers",
-      "link": "https://coloradosun.com/2026/05/11/colorado-lawmakers-reject-data-center-environmental-regulations/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-11T19:46:23+00:00",
-      "age_hours": 17.02893824138889,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Colorado's first Taco Bell Cantina is now open",
-      "link": "https://kdvr.com/denver-guide/food-drink/colorados-first-taco-bell-cantina-is-now-open/",
-      "source": "Fox31",
-      "pub_date": "2026-05-11T17:32:49+00:00",
-      "age_hours": 19.25544622361111,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Trump calls to pause federal gas tax in bid to ease prices at the pump",
-      "link": "https://www.coloradopolitics.com/2026/05/11/trump-calls-to-pause-federal-gas-tax-in-bid-to-ease-prices-at-the-pump/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-11T16:49:43+00:00",
-      "age_hours": 19.974112730277778,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
     }
   ]
 }
