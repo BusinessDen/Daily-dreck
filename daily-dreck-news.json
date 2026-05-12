@@ -1,42 +1,33 @@
 {
   "fetched_date": "2026-05-12",
-  "fetched_at": "2026-05-12 20:37:17",
+  "fetched_at": "2026-05-12 21:32:02",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 13,
   "articles": [
-    {
-      "title": "Girls Golf: Thirteen Aurora area golfers earn spots in 5A state tournament",
-      "link": "https://sentinelcolorado.com/sports/preps/girls-golf/girls-golf-thirteen-aurora-area-golfers-earn-spots-in-5a-state-tournament/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-12T20:31:28+00:00",
-      "age_hours": 0.09379676,
-      "breaking": true,
-      "time_ago": "5 min ago"
-    },
     {
       "title": "Startup Colorado plans Demo Day for accelerator",
       "link": "https://bizwest.com/2026/05/12/startup-colorado-plans-demo-day-for-accelerator/",
       "source": "BizWest",
       "pub_date": "2026-05-12T20:24:16+00:00",
-      "age_hours": 0.21255589416666668,
+      "age_hours": 1.124078886111111,
       "breaking": true,
-      "time_ago": "12 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Brighton concrete plant sells for $42 million",
       "link": "https://bizwest.com/2026/05/12/brighton-concrete-plant-sells-for-42-million/",
       "source": "BizWest",
       "pub_date": "2026-05-12T20:21:32+00:00",
-      "age_hours": 0.2581120069444444,
+      "age_hours": 1.1696350011111112,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Quantum company IonQ opens R&D lab in Boulder",
       "link": "https://bizwest.com/2026/05/12/quantum-company-ionq-opens-rd-lab-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-05-12T19:35:12+00:00",
-      "age_hours": 1.0303342375,
+      "age_hours": 1.9418572319444443,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,43 +36,43 @@
       "link": "https://kdvr.com/news/local/denver-to-test-outdoor-sirens-on-wednesday/",
       "source": "Fox31",
       "pub_date": "2026-05-12T19:27:49+00:00",
-      "age_hours": 1.1541765372222221,
+      "age_hours": 2.0663861199999998,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Arapahoe County approves short-term rental regulations",
       "link": "https://www.9news.com/article/money/markets/real-estate/arapahoe-county-short-term-rental-regulations/73-256b9ade-e9d0-4806-8e11-a06ee9a70c7b",
       "source": "9News",
       "pub_date": "2026-05-12T18:10:03+00:00",
-      "age_hours": 2.4500048574999997,
+      "age_hours": 3.3621040869444445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Man hit by plane on Denver airport runway died by suicide, coroner says",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-frontier-plane-killed-runway/73-c8005432-44a3-4693-90d2-3e170ad9bc43",
       "source": "9News",
       "pub_date": "2026-05-12T17:46:12+00:00",
-      "age_hours": 2.8475049052777774,
+      "age_hours": 3.7596041408333334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Loose cow corralled overnight at Denver park",
       "link": "https://www.9news.com/article/life/animals/loose-cow-corralled-overnight-at-denver-park/73-31502384-29ac-4a40-9de6-c6535bd2445e",
       "source": "9News",
       "pub_date": "2026-05-12T17:37:54+00:00",
-      "age_hours": 2.985838282777778,
+      "age_hours": 3.897937509722222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "ICE must retrain officers who make arrests in Colorado, federal judge rules",
       "link": "https://coloradosun.com/2026/05/12/ice-must-retrain-arresting-officers-in-colorado-federal-judge-rules/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-12T17:35:24+00:00",
-      "age_hours": 3.0274586075,
+      "age_hours": 3.939475992777778,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -90,79 +81,70 @@
       "link": "https://coloradosun.com/2026/05/12/dia-pedestrian-killed-on-runway/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-12T16:46:51+00:00",
-      "age_hours": 3.836625670833333,
+      "age_hours": 4.74864308,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "BizWest seeks nominations for \u2018Startups to Watch\u2019",
       "link": "https://bizwest.com/2026/05/12/bizwest-seeks-nominations-for-startups-to-watch/",
       "source": "BizWest",
       "pub_date": "2026-05-12T16:39:31+00:00",
-      "age_hours": 3.958389822777778,
+      "age_hours": 4.869912818055555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Man hit, killed by plane at DIA identified by medical examiner",
       "link": "https://kdvr.com/news/local/man-hit-killed-by-plane-at-dia-identified-by-medical-examiner/",
       "source": "Fox31",
       "pub_date": "2026-05-12T15:57:43+00:00",
-      "age_hours": 4.655843030833333,
+      "age_hours": 5.568052615277778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "New $300 million resort coming to base of Keystone",
       "link": "https://www.9news.com/article/life/style/colorado-guide/kindred-resort-keystone/73-12af58d5-c3cb-4208-813b-0924663e4926",
       "source": "9News",
       "pub_date": "2026-05-12T15:10:17+00:00",
-      "age_hours": 5.446116115277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports schedule, 5.12.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-5-12-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-12T15:00:00+00:00",
-      "age_hours": 5.618241628888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.3582153408333335,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Mental health needs of pilots in spotlight after pedestrian hit, killed at DIA",
       "link": "https://kdvr.com/news/local/mental-health-needs-of-pilots-in-spotlight-after-pedestrian-hit-killed-at-dia/",
       "source": "Fox31",
       "pub_date": "2026-05-12T14:23:16+00:00",
-      "age_hours": 6.230009759444445,
+      "age_hours": 7.142219343611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado is getting its second drive-thru-focused Chick-fil-A",
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-drive-thru-chick-fil-a/73-a48c2911-2f09-4983-b44c-f0f19c8aceef",
       "source": "9News",
       "pub_date": "2026-05-12T14:21:41+00:00",
-      "age_hours": 6.256116128333333,
+      "age_hours": 7.168215353333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Ball Arena announces its first concert in 2027",
       "link": "https://kdvr.com/denver-guide/ball-arena-announces-its-first-concert-in-2027/",
       "source": "Fox31",
       "pub_date": "2026-05-12T13:57:12+00:00",
-      "age_hours": 6.6644544027777775,
+      "age_hours": 7.576663961944444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Industrious leases former WeWork space in Denver",
       "link": "https://bizwest.com/2026/05/12/industrious-leases-former-wework-space-in-denver/",
       "source": "BizWest",
       "pub_date": "2026-05-12T13:35:02+00:00",
-      "age_hours": 7.033112078888889,
+      "age_hours": 7.944635074722223,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -171,18 +153,36 @@
       "link": "https://bizwest.com/2026/05/12/dtj-design-returns-to-downtown-boulder/",
       "source": "BizWest",
       "pub_date": "2026-05-12T13:09:24+00:00",
-      "age_hours": 7.460334306666667,
+      "age_hours": 8.371857302777778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Savannah Guthrie to host 'Wordle' game show, produced by Jimmy Fallon",
       "link": "https://www.9news.com/article/news/nation-world/jimmy-fallon-savannah-guthrie-wordle-game-show/507-ceb3fbc2-9ab8-4c25-b3fc-86646fa6c052",
       "source": "9News",
       "pub_date": "2026-05-12T12:59:53+00:00",
-      "age_hours": 7.619449522777778,
+      "age_hours": 8.531548743888889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Meet the Family Behind Colorado\u2019s Stained Glass Empire",
+      "link": "https://www.westword.com/arts-culture/inside-watkins-stained-glass-a-cherished-longtime-denver-business-40882515/",
+      "source": "Westword",
+      "pub_date": "2026-05-12T11:30:00-06:00",
+      "age_hours": 4.030160959722222,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Lucile\u2019s Creole Cafe in Littleton to Close After 15 Years",
+      "link": "https://www.westword.com/food-drink/luciles-creole-cafe-in-littleton-closing-40884601/",
+      "source": "Westword",
+      "pub_date": "2026-05-12T10:53:19-06:00",
+      "age_hours": 4.6415499925,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     }
   ]
 }
