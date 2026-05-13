@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-05-13",
-  "fetched_at": "2026-05-13 11:46:58",
+  "fetched_at": "2026-05-13 12:52:03",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Colorado bill would require quick release of police-shooting videos to families",
+      "link": "https://sentinelcolorado.com/metro/colorado-bill-would-require-quick-release-of-police-shooting-videos-to-families/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-13T12:42:48+00:00",
+      "age_hours": 0.15073324999999999,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Tax cuts collide with inflation as voters weigh Trump\u2019s economy in the midterms",
+      "link": "https://sentinelcolorado.com/nation-world/nation/tax-cuts-collide-with-inflation-as-voters-weigh-trumps-economy-in-the-midterms/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-13T12:23:02+00:00",
+      "age_hours": 0.4801777213888889,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
     {
       "title": "Democrats abandon rollback of business tax breaks to fund family tax credit after Colorado governor\u2019s veto threat",
       "link": "https://coloradosun.com/2026/05/13/colorado-tax-policy-bills-fail/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-13T10:00:00+00:00",
-      "age_hours": 1.7779594608333333,
+      "age_hours": 2.863092871666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver to test sirens and wireless emergency alerts",
       "link": "https://www.9news.com/article/news/local/denver-test-sirens-wireless-emergency-alerts-wednesday/73-b23a42ba-8f40-4fcc-a7c4-18b607260c59",
       "source": "9News",
       "pub_date": "2026-05-13T04:28:06+00:00",
-      "age_hours": 7.3097403100000005,
+      "age_hours": 8.394891055277778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Passengers file notice of possible lawsuit after plane hits, kills man on runway of DIA",
       "link": "https://kdvr.com/news/local/passengers-file-notice-of-possible-lawsuit-after-plane-hits-kills-man-on-runway-of-dia/",
       "source": "Fox31",
       "pub_date": "2026-05-13T03:31:42+00:00",
-      "age_hours": 8.249985843888888,
+      "age_hours": 9.335208022222222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Investigation underway into fire that forced a Castle Rock restaurant to close its doors",
       "link": "https://kdvr.com/news/local/investigation-underway-into-fire-that-forced-a-castle-rock-restaurant-to-close-its-doors/",
       "source": "Fox31",
       "pub_date": "2026-05-13T02:58:14+00:00",
-      "age_hours": 8.807763689722222,
+      "age_hours": 9.892985869166667,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "State capitol exhibit aims to locate relatives of Colorado WWII soldiers buried overseas",
       "link": "https://kdvr.com/news/local/state-capitol-exhibit-aims-to-locate-relatives-of-colorado-wwii-soldiers-buried-overseas/",
       "source": "Fox31",
       "pub_date": "2026-05-13T02:22:55+00:00",
-      "age_hours": 9.396374895555557,
+      "age_hours": 10.481597071388888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Colorado nonprofit study calls for protections to preserve Denver's Little Saigon amid displacement threats",
       "link": "https://www.9news.com/article/news/local/colorado-nonprofit-study-protections-denver-little-saigon/73-bc28dca1-b8f2-4c41-b66f-4764f4dd22fe",
       "source": "9News",
       "pub_date": "2026-05-13T00:52:31+00:00",
-      "age_hours": 10.90279594138889,
+      "age_hours": 11.987946689166666,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado lawmakers pass ballot measure asking voters to trade TABOR refunds to increase school spending",
       "link": "https://www.coloradopolitics.com/2026/05/12/colorado-lawmakers-pass-ballot-measure-asking-voters-to-trade-tabor-refunds-to-increase-school-spending/",
       "source": "CO Politics",
       "pub_date": "2026-05-12T22:53:46+00:00",
-      "age_hours": 12.882461991944444,
+      "age_hours": 13.96780146388889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Arapahoe County approves short-term rental regulations",
       "link": "https://www.9news.com/article/money/markets/real-estate/arapahoe-county-short-term-rental-regulations/73-256b9ade-e9d0-4806-8e11-a06ee9a70c7b",
       "source": "9News",
       "pub_date": "2026-05-12T22:51:06+00:00",
-      "age_hours": 12.926407127777777,
+      "age_hours": 14.01155787,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Man hit by plane on Denver airport runway died by suicide, coroner says",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-frontier-plane-killed-runway/73-c8005432-44a3-4693-90d2-3e170ad9bc43",
-      "source": "9News",
-      "pub_date": "2026-05-12T22:11:11+00:00",
-      "age_hours": 13.59168494888889,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Indian cuisine expanding in Longmont, Fort Collins",
       "link": "https://bizwest.com/2026/05/12/indian-cuisine-expanding-in-longmont-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-05-12T21:32:15+00:00",
-      "age_hours": 14.240033449722223,
+      "age_hours": 15.325084381111111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Colorado lawmakers kill both major data center bills",
+      "link": "https://www.coloradopolitics.com/2026/05/12/colorado-lawmakers-kill-both-major-data-center-bills/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-12T21:02:31+00:00",
+      "age_hours": 15.8219681675,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Startup Colorado plans Demo Day for accelerator",
       "link": "https://bizwest.com/2026/05/12/startup-colorado-plans-demo-day-for-accelerator/",
       "source": "BizWest",
       "pub_date": "2026-05-12T20:24:16+00:00",
-      "age_hours": 15.373089521111112,
+      "age_hours": 16.458140435833332,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Brighton concrete plant sells for $42 million",
       "link": "https://bizwest.com/2026/05/12/brighton-concrete-plant-sells-for-42-million/",
       "source": "BizWest",
       "pub_date": "2026-05-12T20:21:32+00:00",
-      "age_hours": 15.418645108055555,
+      "age_hours": 16.503696022499998,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Quantum company IonQ opens R&D lab in Boulder",
       "link": "https://bizwest.com/2026/05/12/quantum-company-ionq-opens-rd-lab-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-05-12T19:35:12+00:00",
-      "age_hours": 16.190867336388887,
+      "age_hours": 17.27591825111111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver to test outdoor sirens on Wednesday",
       "link": "https://kdvr.com/news/local/denver-to-test-outdoor-sirens-on-wednesday/",
       "source": "Fox31",
       "pub_date": "2026-05-12T19:27:49+00:00",
-      "age_hours": 16.31470823861111,
+      "age_hours": 17.399930414444444,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "ICE must retrain officers who make arrests in Colorado, federal judge rules",
       "link": "https://coloradosun.com/2026/05/12/ice-must-retrain-arresting-officers-in-colorado-federal-judge-rules/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-12T17:35:24+00:00",
-      "age_hours": 18.187959511944445,
+      "age_hours": 19.273092921944443,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Denver airport radar system triggered alarm before Frontier plane struck trespasser, officials say",
       "link": "https://coloradosun.com/2026/05/12/dia-pedestrian-killed-on-runway/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-12T16:46:51+00:00",
-      "age_hours": 18.99712657277778,
+      "age_hours": 20.082259982777778,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "BizWest seeks nominations for \u2018Startups to Watch\u2019",
       "link": "https://bizwest.com/2026/05/12/bizwest-seeks-nominations-for-startups-to-watch/",
       "source": "BizWest",
       "pub_date": "2026-05-12T16:39:31+00:00",
-      "age_hours": 19.11892292111111,
+      "age_hours": 20.20397383583333,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Man hit, killed by plane at DIA identified by medical examiner",
       "link": "https://kdvr.com/news/local/man-hit-killed-by-plane-at-dia-identified-by-medical-examiner/",
       "source": "Fox31",
       "pub_date": "2026-05-12T15:57:43+00:00",
-      "age_hours": 19.816374681388886,
+      "age_hours": 20.90159684888889,
       "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Mental health needs of pilots in spotlight after pedestrian hit, killed at DIA",
-      "link": "https://kdvr.com/news/local/mental-health-needs-of-pilots-in-spotlight-after-pedestrian-hit-killed-at-dia/",
-      "source": "Fox31",
-      "pub_date": "2026-05-12T14:23:16+00:00",
-      "age_hours": 21.390541519722223,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Industrious leases former WeWork space in Denver",
-      "link": "https://bizwest.com/2026/05/12/industrious-leases-former-wework-space-in-denver/",
-      "source": "BizWest",
-      "pub_date": "2026-05-12T13:35:02+00:00",
-      "age_hours": 22.193645185833333,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "20 hrs ago"
     }
   ]
 }
