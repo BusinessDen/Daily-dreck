@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-05-13",
-  "fetched_at": "2026-05-13 20:38:34",
+  "fetched_at": "2026-05-13 21:35:28",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Two Denver police vehicles hit by separate drivers during traffic stop",
+      "link": "https://kdvr.com/news/local/two-denver-police-vehicles-hit-by-separate-drivers-during-traffic-stop/",
+      "source": "Fox31",
+      "pub_date": "2026-05-13T21:26:20+00:00",
+      "age_hours": 0.1485305611111111,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "BCH buys Longmont building for nearly $12.5M",
+      "link": "https://bizwest.com/2026/05/13/bch-buys-longmont-building-for-nearly-12-5m/",
+      "source": "BizWest",
+      "pub_date": "2026-05-13T21:17:59+00:00",
+      "age_hours": 0.2867942594444444,
+      "breaking": true,
+      "time_ago": "17 min ago"
+    },
+    {
+      "title": "Apartment building in south Denver catches fire",
+      "link": "https://www.9news.com/article/news/local/hampden-willow-apartment-fire-denver/73-d6890d81-bd8e-4b5c-b31f-8e37ec4dd2f9",
+      "source": "9News",
+      "pub_date": "2026-05-13T21:01:45+00:00",
+      "age_hours": 0.5579068680555556,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
+    {
+      "title": "Structure fire erupts in Denver near Cherry Creek Reservoir",
+      "link": "https://kdvr.com/news/local/structure-fire-erupts-in-denver-near-cherry-creek-reservoir/",
+      "source": "Fox31",
+      "pub_date": "2026-05-13T20:55:32+00:00",
+      "age_hours": 0.6618638294444444,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
     {
       "title": "Gun scare at Overland High School ends in student\u2019s arrest, no injuries reported",
       "link": "https://sentinelcolorado.com/metro/gun-scare-at-overland-high-school-ends-in-arrest-no-injuries-reported/",
       "source": "Sentinel",
       "pub_date": "2026-05-13T18:30:30+00:00",
-      "age_hours": 2.1303930369444446,
+      "age_hours": 3.079359313888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Second fire reported at Castle Rock bar and grill in two days",
       "link": "https://www.9news.com/article/news/local/castle-rock-business-fire/73-28fb7fde-a0e1-4d18-85e4-12b797644782",
       "source": "9News",
       "pub_date": "2026-05-13T18:12:36+00:00",
-      "age_hours": 2.428285303888889,
+      "age_hours": 3.3770736563888892,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Former CCA President Betsy Oudenhoven honored as president emeritus",
       "link": "https://sentinelcolorado.com/metro/former-cca-president-betsy-oudenhoven-honored-as-president-emeritus/",
       "source": "Sentinel",
       "pub_date": "2026-05-13T17:25:14+00:00",
-      "age_hours": 3.218171084444444,
+      "age_hours": 4.167137517222223,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "HOLD THE PHONE: Aurora schools scrolling through student phone policies",
       "link": "https://sentinelcolorado.com/metro/hold-the-phone-aurora-schools-scrolling-through-student-phone-policies/",
       "source": "Sentinel",
       "pub_date": "2026-05-13T16:45:23+00:00",
-      "age_hours": 3.8823379022222224,
+      "age_hours": 4.831304381388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado conservation organization turns to solar power after funding cuts",
       "link": "https://www.9news.com/article/tech/science/environment/cloud-city-conservation-solar-power/73-cbf570a5-1ff7-4755-96d4-27d6a23ca280",
       "source": "9News",
       "pub_date": "2026-05-13T16:27:27+00:00",
-      "age_hours": 4.1807853858333335,
+      "age_hours": 5.129573768888889,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Law firm to sue Denver over 'preventable' runway death involving Frontier flight",
       "link": "https://www.9news.com/article/travel/denver-international-airport/austin-law-firm-frontier-passengers-denver/269-4406d01a-1080-4f77-8829-304c8c903e2d",
       "source": "9News",
       "pub_date": "2026-05-13T15:45:43+00:00",
-      "age_hours": 4.8763410036111114,
+      "age_hours": 5.825129415833333,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Owners reeling after restaurant destroyed by second fire nearly 24 hours later",
       "link": "https://kdvr.com/news/local/owners-reeling-after-restaurant-destroyed-by-second-fire-nearly-24-hours-later/",
       "source": "Fox31",
       "pub_date": "2026-05-13T14:12:33+00:00",
-      "age_hours": 6.429262237500001,
+      "age_hours": 7.378252776111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Food truck event returns to Civic Center Park this week",
       "link": "https://www.9news.com/article/news/food-truck-event-civic-center-park/73-d9251fa3-bfbd-497c-9d34-139143fb8e7d",
       "source": "9News",
       "pub_date": "2026-05-13T13:50:26+00:00",
-      "age_hours": 6.7977299575000005,
+      "age_hours": 7.746518401111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Everything We Ate at Chef Theo Adley\u2019s Highly-Anticipated New Restaurant, Heretik",
       "link": "https://www.westword.com/food-drink/heretik-rino-new-restaurant-preview-40884973/",
       "source": "Westword",
       "pub_date": "2026-05-13T13:34:09-06:00",
-      "age_hours": 1.069381526111111,
+      "age_hours": 2.018363030833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver airport security missed trespasser who was killed by plane on runway",
       "link": "https://kdvr.com/news/local/denver-airport-security-missed-trespasser-who-was-killed-by-plane-on-runway/",
       "source": "Fox31",
       "pub_date": "2026-05-13T13:28:42+00:00",
-      "age_hours": 7.160095713333334,
+      "age_hours": 8.109086312777778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado is getting its second drive-thru-focused Chick-fil-A",
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-drive-thru-chick-fil-a/73-a48c2911-2f09-4983-b44c-f0f19c8aceef",
       "source": "9News",
       "pub_date": "2026-05-13T13:25:35+00:00",
-      "age_hours": 7.2118966605555554,
+      "age_hours": 8.160685129722221,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Nadora Healthcare to manage The Center at CenterPlace in Greeley",
       "link": "https://bizwest.com/2026/05/13/nadora-healthcare-to-manage-the-center-at-centerplace-in-greeley/",
       "source": "BizWest",
       "pub_date": "2026-05-13T12:58:21+00:00",
-      "age_hours": 7.665281704722222,
+      "age_hours": 8.614016586944444,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Erie launches micro-transit service",
       "link": "https://bizwest.com/2026/05/13/erie-launches-micro-transit-service/",
       "source": "BizWest",
       "pub_date": "2026-05-13T12:52:54+00:00",
-      "age_hours": 7.756115054166667,
+      "age_hours": 8.704849934166667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Democrats abandon rollback of business tax breaks to fund family tax credit after Colorado governor\u2019s veto threat",
       "link": "https://coloradosun.com/2026/05/13/colorado-tax-policy-bills-fail/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-13T10:00:00+00:00",
-      "age_hours": 10.638191877777778,
+      "age_hours": 11.586944791944445,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Marijuana Recall Hits Fort Collins Dispensary",
       "link": "https://www.westword.com/news/legal-weed-recall-fort-collins-dispensary-40884771/",
       "source": "Westword",
       "pub_date": "2026-05-13T08:39:40-06:00",
-      "age_hours": 5.9774372174999995,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.926418789166666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Passengers file notice of possible lawsuit after plane hits, kills man on runway of DIA",
       "link": "https://kdvr.com/news/local/passengers-file-notice-of-possible-lawsuit-after-plane-hits-kills-man-on-runway-of-dia/",
       "source": "Fox31",
       "pub_date": "2026-05-13T03:31:42+00:00",
-      "age_hours": 17.110095584444444,
+      "age_hours": 18.059086161944446,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Investigation underway into fire that forced a Castle Rock restaurant to close its doors",
-      "link": "https://kdvr.com/news/local/investigation-underway-into-fire-that-forced-a-castle-rock-restaurant-to-close-its-doors/",
-      "source": "Fox31",
-      "pub_date": "2026-05-13T02:58:14+00:00",
-      "age_hours": 17.66787355361111,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Colorado lawmakers pass ballot measure asking voters to trade TABOR refunds to increase school spending",
-      "link": "https://www.coloradopolitics.com/2026/05/12/colorado-lawmakers-pass-ballot-measure-asking-voters-to-trade-tabor-refunds-to-increase-school-spending/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-12T22:53:46+00:00",
-      "age_hours": 21.742583168055553,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Colorado legislators ask voters to forfeit thousands in TABOR refunds, redirect money to school spending",
-      "link": "https://www.coloradopolitics.com/2026/05/12/colorado-legislators-ask-voters-to-forfeit-thousands-in-tabor-refunds-redirect-money-to-school-spending/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-12T22:53:46+00:00",
-      "age_hours": 21.742583181944443,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Indian cuisine expanding in Longmont, Fort Collins",
-      "link": "https://bizwest.com/2026/05/12/indian-cuisine-expanding-in-longmont-fort-collins/",
-      "source": "BizWest",
-      "pub_date": "2026-05-12T21:32:15+00:00",
-      "age_hours": 23.100282272222223,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
