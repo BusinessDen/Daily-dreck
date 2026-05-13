@@ -1,33 +1,33 @@
 {
   "fetched_date": "2026-05-13",
-  "fetched_at": "2026-05-13 00:53:02",
+  "fetched_at": "2026-05-13 01:42:07",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Colorado nonprofit study calls for protections to preserve Denver's Little Saigon amid displacement threats",
+      "link": "https://www.9news.com/article/news/local/colorado-nonprofit-study-protections-denver-little-saigon/73-bc28dca1-b8f2-4c41-b66f-4764f4dd22fe",
+      "source": "9News",
+      "pub_date": "2026-05-13T00:52:31+00:00",
+      "age_hours": 0.8225167444444444,
+      "breaking": true,
+      "time_ago": "49 min ago"
+    },
     {
       "title": "Colorado lawmakers pass ballot measure asking voters to trade TABOR refunds to increase school spending",
       "link": "https://www.coloradopolitics.com/2026/05/12/colorado-lawmakers-pass-ballot-measure-asking-voters-to-trade-tabor-refunds-to-increase-school-spending/",
       "source": "CO Politics",
       "pub_date": "2026-05-12T22:53:46+00:00",
-      "age_hours": 1.9837339436111112,
+      "age_hours": 2.802185836944444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Colorado legislators ask voters to forfeit thousands in TABOR refunds, redirect money to school spending",
-      "link": "https://www.coloradopolitics.com/2026/05/12/colorado-legislators-ask-voters-to-forfeit-thousands-in-tabor-refunds-redirect-money-to-school-spending/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-12T22:53:46+00:00",
-      "age_hours": 1.9837339919444446,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Arapahoe County approves short-term rental regulations",
       "link": "https://www.9news.com/article/money/markets/real-estate/arapahoe-county-short-term-rental-regulations/73-256b9ade-e9d0-4806-8e11-a06ee9a70c7b",
       "source": "9News",
       "pub_date": "2026-05-12T22:51:06+00:00",
-      "age_hours": 2.027795760277778,
+      "age_hours": 2.846127951388889,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -36,79 +36,79 @@
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-frontier-plane-killed-runway/73-c8005432-44a3-4693-90d2-3e170ad9bc43",
       "source": "9News",
       "pub_date": "2026-05-12T22:11:11+00:00",
-      "age_hours": 2.6930736002777778,
+      "age_hours": 3.511405785277778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Indian cuisine expanding in Longmont, Fort Collins",
       "link": "https://bizwest.com/2026/05/12/indian-cuisine-expanding-in-longmont-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-05-12T21:32:15+00:00",
-      "age_hours": 3.3413927719444443,
+      "age_hours": 4.159811701111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Startup Colorado plans Demo Day for accelerator",
       "link": "https://bizwest.com/2026/05/12/startup-colorado-plans-demo-day-for-accelerator/",
       "source": "BizWest",
       "pub_date": "2026-05-12T20:24:16+00:00",
-      "age_hours": 4.474448840277778,
+      "age_hours": 5.292867827777778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Brighton concrete plant sells for $42 million",
       "link": "https://bizwest.com/2026/05/12/brighton-concrete-plant-sells-for-42-million/",
       "source": "BizWest",
       "pub_date": "2026-05-12T20:21:32+00:00",
-      "age_hours": 4.520004426388889,
+      "age_hours": 5.3384234147222225,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Quantum company IonQ opens R&D lab in Boulder",
       "link": "https://bizwest.com/2026/05/12/quantum-company-ionq-opens-rd-lab-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-05-12T19:35:12+00:00",
-      "age_hours": 5.292226655,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.110645643611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver to test outdoor sirens on Wednesday",
       "link": "https://kdvr.com/news/local/denver-to-test-outdoor-sirens-on-wednesday/",
       "source": "Fox31",
       "pub_date": "2026-05-12T19:27:49+00:00",
-      "age_hours": 5.416001081666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.234374772222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Loose cow corralled overnight at Denver park",
       "link": "https://www.9news.com/article/life/animals/loose-cow-corralled-overnight-at-denver-park/73-31502384-29ac-4a40-9de6-c6535bd2445e",
       "source": "9News",
       "pub_date": "2026-05-12T17:37:54+00:00",
-      "age_hours": 7.2477959019444445,
+      "age_hours": 8.066128091666666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "ICE must retrain officers who make arrests in Colorado, federal judge rules",
       "link": "https://coloradosun.com/2026/05/12/ice-must-retrain-arresting-officers-in-colorado-federal-judge-rules/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-12T17:35:24+00:00",
-      "age_hours": 7.289315833888889,
+      "age_hours": 8.107735979722221,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver airport radar system triggered alarm before Frontier plane struck trespasser, officials say",
       "link": "https://coloradosun.com/2026/05/12/dia-pedestrian-killed-on-runway/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-12T16:46:51+00:00",
-      "age_hours": 8.098482904444444,
+      "age_hours": 8.916903044722222,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -117,72 +117,72 @@
       "link": "https://bizwest.com/2026/05/12/bizwest-seeks-nominations-for-startups-to-watch/",
       "source": "BizWest",
       "pub_date": "2026-05-12T16:39:31+00:00",
-      "age_hours": 8.220282239444444,
+      "age_hours": 9.03870123611111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Man hit, killed by plane at DIA identified by medical examiner",
       "link": "https://kdvr.com/news/local/man-hit-killed-by-plane-at-dia-identified-by-medical-examiner/",
       "source": "Fox31",
       "pub_date": "2026-05-12T15:57:43+00:00",
-      "age_hours": 8.917667573055557,
+      "age_hours": 9.736041265555555,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Mental health needs of pilots in spotlight after pedestrian hit, killed at DIA",
       "link": "https://kdvr.com/news/local/mental-health-needs-of-pilots-in-spotlight-after-pedestrian-hit-killed-at-dia/",
       "source": "Fox31",
       "pub_date": "2026-05-12T14:23:16+00:00",
-      "age_hours": 10.491834360833334,
+      "age_hours": 11.310208048055555,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Ball Arena announces its first concert in 2027",
       "link": "https://kdvr.com/denver-guide/ball-arena-announces-its-first-concert-in-2027/",
       "source": "Fox31",
       "pub_date": "2026-05-12T13:57:12+00:00",
-      "age_hours": 10.926278920833333,
+      "age_hours": 11.744652621944445,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Industrious leases former WeWork space in Denver",
       "link": "https://bizwest.com/2026/05/12/industrious-leases-former-wework-space-in-denver/",
       "source": "BizWest",
       "pub_date": "2026-05-12T13:35:02+00:00",
-      "age_hours": 11.295004495277778,
+      "age_hours": 12.113423492222221,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "DTJ Design returns to downtown Boulder",
       "link": "https://bizwest.com/2026/05/12/dtj-design-returns-to-downtown-boulder/",
       "source": "BizWest",
       "pub_date": "2026-05-12T13:09:24+00:00",
-      "age_hours": 11.722226722222223,
+      "age_hours": 12.540645719999999,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Meet the Family Behind Colorado\u2019s Stained Glass Empire",
       "link": "https://www.westword.com/arts-culture/inside-watkins-stained-glass-a-cherished-longtime-denver-business-40882515/",
       "source": "Westword",
       "pub_date": "2026-05-12T11:30:00-06:00",
-      "age_hours": 7.379709205555556,
+      "age_hours": 8.19816355138889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Lucile\u2019s Creole Cafe in Littleton to Close After 15 Years",
       "link": "https://www.westword.com/food-drink/luciles-creole-cafe-in-littleton-closing-40884601/",
       "source": "Westword",
       "pub_date": "2026-05-12T10:53:19-06:00",
-      "age_hours": 7.991098246388889,
+      "age_hours": 8.809552572222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
