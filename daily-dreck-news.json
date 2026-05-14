@@ -1,15 +1,24 @@
 {
   "fetched_date": "2026-05-14",
-  "fetched_at": "2026-05-14 03:12:49",
+  "fetched_at": "2026-05-14 05:22:21",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "From Buc-ee\u2019s to boomtown: Johnstown\u2019s growth goes national",
+      "link": "https://bizwest.com/2026/05/13/from-buc-ees-to-boomtown-johnstowns-growth-goes-national/",
+      "source": "BizWest",
+      "pub_date": "2026-05-14T04:01:05+00:00",
+      "age_hours": 1.3485726155555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver's $9 million plan to house the unhoused sits empty years after city promised a novel approach",
       "link": "https://www.9news.com/article/news/investigations/denver-plan-to-house-unhoused-sits-empty/73-1ef280ef-5aef-47ac-9416-5eac3457f9f1",
       "source": "9News",
-      "pub_date": "2026-05-14T01:30:00+00:00",
-      "age_hours": 1.7096048672222222,
+      "pub_date": "2026-05-14T03:47:58+00:00",
+      "age_hours": 1.5677424969444445,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -18,171 +27,162 @@
       "link": "https://www.coloradopolitics.com/2026/05/13/colorado-legislature-wraps-up-tough-budget-year-8/",
       "source": "CO Politics",
       "pub_date": "2026-05-14T01:18:57+00:00",
-      "age_hours": 1.8941023027777777,
+      "age_hours": 4.053205775555555,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "As VEO replaces Lime and Bird, thousands sign up for Denver low-income ride program",
       "link": "https://www.9news.com/article/news/local/veo-denver-scooters-mobility-program/73-dab5da0b-13b5-4075-bd09-bc1c8914bc07",
       "source": "9News",
       "pub_date": "2026-05-14T01:03:43+00:00",
-      "age_hours": 2.1476604363888887,
+      "age_hours": 4.3052425350000005,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver to pay $225K settlement after police detained the wrong people at gunpoint",
       "link": "https://www.9news.com/article/news/local/denver-to-pay-225k-settlement-after-police-detained-the-wrong-people-at-gunpoint/73-acb22f91-64dc-4a93-84e5-4b9b7713032b",
       "source": "9News",
       "pub_date": "2026-05-14T00:08:06+00:00",
-      "age_hours": 3.0746049402777778,
+      "age_hours": 5.232187042222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Apartment building in south Denver catches fire",
       "link": "https://www.9news.com/article/news/local/hampden-willow-apartment-fire-denver/73-d6890d81-bd8e-4b5c-b31f-8e37ec4dd2f9",
       "source": "9News",
       "pub_date": "2026-05-13T23:02:36+00:00",
-      "age_hours": 4.166271672222223,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.323853771666666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "AI\u2019s rapid growth spurs regulatory reaction in Colorado",
       "link": "https://www.coloradopolitics.com/2026/05/13/ais-rapid-growth-spurs-regulatory-reaction-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-05-13T22:34:08+00:00",
-      "age_hours": 4.641047014166667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.8001504675,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Columbine Health real estate sales total $154M",
       "link": "https://bizwest.com/2026/05/13/columbine-health-real-estate-sales-total-154m/",
       "source": "BizWest",
       "pub_date": "2026-05-13T21:49:54+00:00",
-      "age_hours": 5.377309719166666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.534962069722223,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Flex building in 2534 Business Park sells for $7.3M",
       "link": "https://bizwest.com/2026/05/13/flex-building-in-2534-business-park-sells-for-7-3m/",
       "source": "BizWest",
       "pub_date": "2026-05-13T21:37:21+00:00",
-      "age_hours": 5.586476405,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.744128747222222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Two Denver police vehicles hit by separate drivers during traffic stop",
       "link": "https://kdvr.com/news/local/two-denver-police-vehicles-hit-by-separate-drivers-during-traffic-stop/",
       "source": "Fox31",
       "pub_date": "2026-05-13T21:26:20+00:00",
-      "age_hours": 5.770845655555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.929708616944445,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "BCH buys Longmont building for nearly $12.5M",
       "link": "https://bizwest.com/2026/05/13/bch-buys-longmont-building-for-nearly-12-5m/",
       "source": "BizWest",
       "pub_date": "2026-05-13T21:17:59+00:00",
-      "age_hours": 5.909254688888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.066906562777778,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "1 transported after apartment fire erupts in Denver near Cherry Creek Reservoir",
       "link": "https://kdvr.com/news/local/structure-fire-erupts-in-denver-near-cherry-creek-reservoir/",
       "source": "Fox31",
       "pub_date": "2026-05-13T20:55:32+00:00",
-      "age_hours": 6.284179045,
+      "age_hours": 8.443041989444446,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Gun scare at Overland High School ends in student\u2019s arrest, no injuries reported",
       "link": "https://sentinelcolorado.com/metro/gun-scare-at-overland-high-school-ends-in-arrest-no-injuries-reported/",
       "source": "Sentinel",
       "pub_date": "2026-05-13T18:30:30+00:00",
-      "age_hours": 8.7016320225,
+      "age_hours": 10.860729503333333,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Second fire reported at Castle Rock bar and grill in two days",
       "link": "https://www.9news.com/article/news/local/castle-rock-business-fire/73-28fb7fde-a0e1-4d18-85e4-12b797644782",
       "source": "9News",
       "pub_date": "2026-05-13T18:12:36+00:00",
-      "age_hours": 8.999605076666667,
+      "age_hours": 11.157187179444445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Former CCA President Betsy Oudenhoven honored as president emeritus",
       "link": "https://sentinelcolorado.com/metro/former-cca-president-betsy-oudenhoven-honored-as-president-emeritus/",
       "source": "Sentinel",
       "pub_date": "2026-05-13T17:25:14+00:00",
-      "age_hours": 9.789410086666667,
+      "age_hours": 11.948507551388888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "HOLD THE PHONE: Aurora schools scrolling through student phone policies",
       "link": "https://sentinelcolorado.com/metro/hold-the-phone-aurora-schools-scrolling-through-student-phone-policies/",
       "source": "Sentinel",
       "pub_date": "2026-05-13T16:45:23+00:00",
-      "age_hours": 10.453576901944444,
+      "age_hours": 12.612674358333333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Colorado conservation organization turns to solar power after funding cuts",
-      "link": "https://www.9news.com/article/tech/science/environment/cloud-city-conservation-solar-power/73-cbf570a5-1ff7-4755-96d4-27d6a23ca280",
-      "source": "9News",
-      "pub_date": "2026-05-13T16:27:27+00:00",
-      "age_hours": 10.752105139722222,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Owners reeling after restaurant destroyed by second fire nearly 24 hours later",
       "link": "https://kdvr.com/news/local/owners-reeling-after-restaurant-destroyed-by-second-fire-nearly-24-hours-later/",
       "source": "Fox31",
       "pub_date": "2026-05-13T14:12:33+00:00",
-      "age_hours": 13.000567975555557,
+      "age_hours": 15.15943090861111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Everything We Ate at Chef Theo Adley\u2019s Highly-Anticipated New Restaurant, Heretik",
       "link": "https://www.westword.com/food-drink/heretik-rino-new-restaurant-preview-40884973/",
       "source": "Westword",
       "pub_date": "2026-05-13T13:34:09-06:00",
-      "age_hours": 7.640643770277777,
+      "age_hours": 9.799598436944445,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver airport security missed trespasser who was killed by plane on runway",
       "link": "https://kdvr.com/news/local/denver-airport-security-missed-trespasser-who-was-killed-by-plane-on-runway/",
       "source": "Fox31",
       "pub_date": "2026-05-13T13:28:42+00:00",
-      "age_hours": 13.731401417499999,
+      "age_hours": 15.890264366944443,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Nadora Healthcare to manage The Center at CenterPlace in Greeley",
       "link": "https://bizwest.com/2026/05/13/nadora-healthcare-to-manage-the-center-at-centerplace-in-greeley/",
       "source": "BizWest",
       "pub_date": "2026-05-13T12:58:21+00:00",
-      "age_hours": 14.236476926666667,
+      "age_hours": 16.39412879777778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     }
   ]
 }
