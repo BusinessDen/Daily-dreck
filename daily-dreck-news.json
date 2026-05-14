@@ -1,51 +1,78 @@
 {
   "fetched_date": "2026-05-14",
-  "fetched_at": "2026-05-14 18:43:07",
+  "fetched_at": "2026-05-14 19:35:44",
   "article_count": 20,
-  "breaking_count": 17,
+  "breaking_count": 16,
   "articles": [
+    {
+      "title": "New Harry Potter exhibit coming to Denver this summer",
+      "link": "https://kdvr.com/news/local/new-harry-potter-exhibit-coming-to-denver-this-summer/",
+      "source": "Fox31",
+      "pub_date": "2026-05-14T19:19:49+00:00",
+      "age_hours": 0.26142779833333335,
+      "breaking": true,
+      "time_ago": "15 min ago"
+    },
+    {
+      "title": "Sweet Bloom Coffee Roasters to Open Location at Clayworks",
+      "link": "https://milehighcre.com/sweet-bloom-coffee-roasters-to-open-location-at-clayworks/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-05-14T19:13:19+00:00",
+      "age_hours": 0.3692881983333333,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
+    {
+      "title": "Historic 1950s Hospital to Become Mixed-Use Community",
+      "link": "https://milehighcre.com/historic-1950s-hospital-to-become-mixed-use-community/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-05-14T18:54:06+00:00",
+      "age_hours": 0.6895659955555555,
+      "breaking": true,
+      "time_ago": "41 min ago"
+    },
     {
       "title": "Chance the Rapper coming to Denver for 10th anniversary of history-making mixtape",
       "link": "https://kdvr.com/denver-guide/things-to-do/chance-the-rapper-coming-to-denver-for-10th-anniversary-of-history-making-mixtape/",
       "source": "Fox31",
       "pub_date": "2026-05-14T18:35:09+00:00",
-      "age_hours": 0.12850217583333334,
+      "age_hours": 1.0058722847222223,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Utility pole snapped just before fire at Denver apartment complex",
       "link": "https://www.9news.com/article/news/local/hampden-willow-apartment-fire-denver/73-d6890d81-bd8e-4b5c-b31f-8e37ec4dd2f9",
       "source": "9News",
       "pub_date": "2026-05-14T18:13:48+00:00",
-      "age_hours": 0.4839894361111111,
+      "age_hours": 1.3613634255555556,
       "breaking": true,
-      "time_ago": "29 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "FWC reports 31 imported sloths died at the wildlife facility in Orlando before the business opens to the public",
       "link": "https://www.9news.com/article/news/regional/florida/fwc-report-31-sloths-died-wildlife-facility-orlando-sloth-world/67-fa4089b3-d6bf-4da6-889a-66008a6c8bec",
       "source": "9News",
       "pub_date": "2026-05-14T17:43:06+00:00",
-      "age_hours": 0.9956561541666666,
+      "age_hours": 1.8730301472222222,
       "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Arby's closes northern Colorado location",
       "link": "https://www.9news.com/article/money/business/arbys-closes-fort-collins/73-62320c48-8ab2-4fe3-bc41-cc3316f9c15e",
       "source": "9News",
       "pub_date": "2026-05-14T16:17:24+00:00",
-      "age_hours": 2.423989576111111,
+      "age_hours": 3.3013635527777776,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver runway fatality reveals a weakness in airport security",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-runway-fatality-reveals-a-weakness-in-airport-security/616-ae52b23f-2b83-4ae9-bffa-f5e3bd4c3bf3",
       "source": "9News",
       "pub_date": "2026-05-14T15:38:12+00:00",
-      "age_hours": 3.077322958055556,
+      "age_hours": 3.9546969330555557,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -54,61 +81,61 @@
       "link": "https://milehighcre.com/qa-with-will-bate-ktgys-new-ceo/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-14T15:27:45+00:00",
-      "age_hours": 3.2512938330555556,
+      "age_hours": 4.128732670277778,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "FDA warns consumers about eczema cream recall due to dangerous bacteria contamination",
       "link": "https://www.9news.com/article/news/nation-world/eczema-cream-recalled-nationwide-mg217-microbial-contamination-pharmacal-staphylococcus-aureus-multi-symptom-treatment-cream-skin-protectant/507-bcdc2ea8-6842-4627-afd9-bb53ab29b888",
       "source": "9News",
       "pub_date": "2026-05-14T15:20:12+00:00",
-      "age_hours": 3.377322996111111,
+      "age_hours": 4.2546969755555555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Dad DJ hosting 'baby rave' at Red Rocks",
       "link": "https://kdvr.com/denver-guide/dad-dj-hosting-baby-rave-at-red-rocks/",
       "source": "Fox31",
       "pub_date": "2026-05-14T14:50:39+00:00",
-      "age_hours": 3.870168942222222,
+      "age_hours": 4.747538992499999,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Brennan Adds 64,020 SF Industrial Property in Montbello",
       "link": "https://milehighcre.com/brennan-adds-64020-sf-industrial-property-in-montbello/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-14T14:48:38+00:00",
-      "age_hours": 3.9032385494444446,
+      "age_hours": 4.780677405,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Recess Beer Garden shuts down anti-vax mixer after 'safety concerns'",
       "link": "https://kdvr.com/news/local/recess-beer-garden-shuts-down-anti-vax-mixer-after-safety-concerns/",
       "source": "Fox31",
       "pub_date": "2026-05-14T14:28:15+00:00",
-      "age_hours": 4.243502224444444,
+      "age_hours": 5.120872172222223,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "What\u2019s Happening: A virtual artist talk about the women of escaramurza",
       "link": "https://coloradosun.com/2026/05/14/whats-happening-colorado-photographic-arts-center-artist-talk/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-14T14:00:00+00:00",
-      "age_hours": 4.713901282777778,
+      "age_hours": 5.591294565277778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "This Denver spot is considered the second-best restaurant in the US",
       "link": "https://kdvr.com/news/local/this-denver-spot-is-considered-the-second-best-restaurant-in-the-us/",
       "source": "Fox31",
       "pub_date": "2026-05-14T13:40:06+00:00",
-      "age_hours": 5.0460021575,
+      "age_hours": 5.923372161111112,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -117,70 +144,43 @@
       "link": "https://sentinelcolorado.com/uncategorized/do-these-four-things-before-buying-a-hybrid-in-2026/",
       "source": "Sentinel",
       "pub_date": "2026-05-14T13:32:41+00:00",
-      "age_hours": 5.169989139166666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.047278269444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Home Instead plans Alzheimer\u2019s benefit Sunday",
       "link": "https://bizwest.com/2026/05/14/home-instead-plans-alzheimers-benefit-sunday/",
       "source": "BizWest",
       "pub_date": "2026-05-14T13:10:35+00:00",
-      "age_hours": 5.53646793138889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.414427852777777,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Little Man Ice Cream rebrands three Colorado shops",
       "link": "https://www.9news.com/article/life/style/colorado-guide/little-man-ice-cream-rebranding/73-b9f6be17-6b66-4caf-ad1a-119fcc14d6fa",
       "source": "9News",
       "pub_date": "2026-05-14T12:57:47+00:00",
-      "age_hours": 5.750934151111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.628308130555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Fire Closes Another Popular Italian Restaurant in Denver",
       "link": "https://www.westword.com/food-drink/fire-closes-another-popular-italian-restaurant-in-denver-40885314/",
       "source": "Westword",
       "pub_date": "2026-05-14T11:48:58-06:00",
-      "age_hours": 0.8984505669444444,
+      "age_hours": 1.7756855930555555,
       "breaking": true,
-      "time_ago": "53 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "101 bills that passed and failed in Colorado\u2019s legislature this year that you need to know about",
       "link": "https://coloradosun.com/2026/05/14/top-bills-colorado-2026-legislative-session/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-14T10:23:00+00:00",
-      "age_hours": 8.330568361666666,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "How microplastic research in Denver\u2019s South Platte River can help a first-of-its-kind study",
-      "link": "https://coloradosun.com/2026/05/14/colorado-school-of-mines-south-platte-microplastics-research/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-14T10:05:00+00:00",
-      "age_hours": 8.630568835277778,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Yup, Another BRT Construction Project Is Coming to Denver",
-      "link": "https://www.westword.com/news/denver-residents-brt-construction-options-colorado-blvd-40885066/",
-      "source": "Westword",
-      "pub_date": "2026-05-14T09:22:13-06:00",
-      "age_hours": 3.3442840194444443,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "US - China summit focuses on business links as Xi issues Taiwan warning",
-      "link": "https://www.9news.com/article/news/nation-world/china-xi-warning-taiwan-iran/507-02610f94-8f66-4817-a94d-7785c242b13e",
-      "source": "9News",
-      "pub_date": "2026-05-14T08:50:16+00:00",
-      "age_hours": 9.876211989444444,
+      "age_hours": 9.207961681666667,
       "breaking": false,
       "time_ago": "9 hrs ago"
     }
