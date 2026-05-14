@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-05-13",
-  "lead_headline": "The Perfect Crumb cottage bakery surfaces in Thornton \u2014 subscriber net flatlines at zero for second time this week",
+  "generated_date": "2026-05-14",
+  "lead_headline": "Odde's Lounge closes in Westminster after 5-year run \u2014 subscriber churn ticks up with net -1 yesterday",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today</strong>: The Perfect Crumb cottage bakery (Elyria Swansea/Thornton) confirmed as home-based operation active at farmers markets and pop-ups across metro.",
+      "blurb": "<strong>1 new lead today</strong>: Odde's Lounge (Regis/Westminster) shuttered permanently after 5-year speakeasy run alongside its Mojo-99 Burgers sibling, marking the end of the family's dual-concept operation.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "0",
         "label2": "closed",
-        "value2": "0",
+        "value2": "1",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "92",
         "label2": "closed",
-        "value2": "73",
+        "value2": "74",
         "period": "all leads"
       }
     },
@@ -35,7 +35,7 @@
       "ticker_weekly": {
         "label1": "filings",
         "value1": "41",
-        "class1": "",
+        "class1": "up",
         "label2": "sold",
         "value2": "0",
         "class2": "",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications for the thirteenth straight day</strong> as the state licensing freeze extends into its third week post-collapse with no system restoration timeline. The 7-day window flatlines at absolute zero versus last Wednesday's identical void, now marking 13 consecutive days since the April 29-30 renewal surge dumped 2,144 applications and froze the pipeline. No new filings, no status changes, no backend movement \u2014 the blackout persists across all license types with May's calendar remaining completely dark through mid-month. Backend system reconciliation appears structural rather than transactional as the workweek opens with zero visibility into queue restoration.",
+      "blurb": "<strong>Zero applications for the fourteenth consecutive day</strong> as Colorado's licensing blackout stretches through mid-May with no restoration target. The 7-day window remains frozen at absolute zero versus last Thursday's identical void, now marking two full weeks since the April 29-30 renewal deluge deposited 2,144 applications and crashed the queue. No new filings, no status updates, no backend movement \u2014 the system paralysis persists across all license types with May's calendar completely dark through the 14th. State officials remain silent on timeline or root cause as the two-week mark passes without triage visibility.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,23 +54,23 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>6 mentions yesterday</strong> led by Denver Post HOA coverage and Colorado Blvd retail plans, lifting the 7-day total to 48 across 9 sources \u2014 up 17% from last week's 41 and 2% above the prior comparison window. Denver Post commands 44% share with 21 mentions, followed by Instagram (10) and scattered X/Facebook cross-posts. Google News RSS drives 98% of discoveries (47 of 48) as real estate and development stories sustain elevated pickup. Week-over-week momentum builds modestly heading toward mid-month, with the 48-mention floor establishing a new weekly baseline 17% ahead of last Wednesday's 41-mention benchmark.",
+      "blurb": "<strong>1 mention yesterday</strong> \u2014 a Romyo Denver R&D pop-up sellout on Instagram \u2014 collapses the 7-day total to 52 across 9 sources, up 30% from last week's 40 but down sharply from Wednesday's 48-mention peak. Denver Post still dominates with 20 mentions (38% share), followed by Instagram (11) and scattered social cross-posts. The single-mention Thursday marks the week's slowest day after Sunday-Tuesday averaged 8 mentions daily, suggesting midweek fatigue before the Friday news cycle. Google News RSS continues driving 96% of discoveries (50 of 52) as the week's momentum concentrates in early-week real estate and development stories.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "6",
-        "class1": "",
+        "value1": "1",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "48",
-        "class1": "",
+        "value1": "52",
+        "class1": "up",
         "label2": "sources",
         "value2": "9",
         "class2": "",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (1 new, 1 canceled) holds MTD at +16 (+1.3/day) while 90-day net advances to +136. Monday's balanced equation \u2014 matching acquisition with churn \u2014 follows Sunday's identical +1 net, compressing this week's momentum to +2 versus last week's +20. This week's softer +2 net (18 new, 16 canceled) runs 90% below last week's +20 (26 new, 6 canceled), with acquisition down 31% even as cancellations surge 167%. MTD's +1.3/day rate matches YTD baseline but masks recent volatility \u2014 the last 7 days show tighter conversion amid elevated churn. The pattern shifts from last week's strong acquisition/low-churn model to compressed inbound flow with retention pressure building through the month's second week.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) nudges MTD to +17 (+1.3/day) while 90-day net holds at +139. Tuesday's single cancellation with zero acquisition marks the second net-negative day this week after Sunday's \u22122, compressing the 7-day tally to +1 (17 new, 16 canceled) \u2014 down 95% from last week's +20 (24 new, 4 canceled). Acquisition collapsed 29% week-over-week while cancellations quadrupled, flipping the model from strong inbound flow to elevated churn pressure. MTD's +1.3/day rate still matches YTD baseline but masks recent volatility \u2014 the last three days averaged \u22121 net versus the prior four-day stretch that delivered +2/day. Retention strain builds through mid-month even as longer-term fundamentals remain steady.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "16",
-      "net_ytd": "173",
+      "net_mtd": "17",
+      "net_ytd": "174",
       "net_mtd_per_day": "1.3",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "13",
-      "annual_ytd": "138",
+      "annual_mtd": "14",
+      "annual_ytd": "142",
       "monthly_mtd": "3",
-      "monthly_ytd": "35"
+      "monthly_ytd": "32"
     }
   }
 }
