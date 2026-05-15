@@ -1,51 +1,60 @@
 {
   "fetched_date": "2026-05-15",
-  "fetched_at": "2026-05-15 21:26:59",
+  "fetched_at": "2026-05-15 22:24:38",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Car crashes into Denver home, catches fire; Driver taken to hospital",
+      "link": "https://kdvr.com/news/local/car-crashes-into-denver-home-catches-fire-driver-taken-to-hospital/",
+      "source": "Fox31",
+      "pub_date": "2026-05-15T21:48:08+00:00",
+      "age_hours": 0.6036670708333333,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
     {
       "title": "Webinar series to spotlight Longmont\u2019s semiconductor growth",
       "link": "https://bizwest.com/2026/05/15/webinar-series-to-spotlight-longmonts-semiconductor-growth/",
       "source": "BizWest",
       "pub_date": "2026-05-15T20:53:24+00:00",
-      "age_hours": 0.5501043247222223,
+      "age_hours": 1.5149613936111113,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Texas Roadhouse closing its first-ever restaurant location",
       "link": "https://www.9news.com/article/news/nation-world/texas-roadhouse-closing-first-restaurant-location-clarksville-indiana/507-f6d6515f-8d57-4e74-8dde-9f42caa18fa4",
       "source": "9News",
       "pub_date": "2026-05-15T20:53:09+00:00",
-      "age_hours": 0.559005675,
+      "age_hours": 1.5198192222222222,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado governor cuts Tina Peters\u2019 prison sentence in half, will release her on parole June 1",
       "link": "https://coloradosun.com/2026/05/15/tina-peters-sentence-reduced-by-colorado-governor-jared-polis/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-15T20:45:00+00:00",
-      "age_hours": 0.6946888041666667,
+      "age_hours": 1.6554998672222223,
       "breaking": true,
-      "time_ago": "41 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Powell\u2019s tenure as Fed chair marked by fight for independence while trying to tame inflation",
       "link": "https://sentinelcolorado.com/uncategorized/powells-tenure-as-fed-chair-marked-by-fight-for-independence-while-trying-to-tame-inflation/",
       "source": "Sentinel",
       "pub_date": "2026-05-15T20:40:50+00:00",
-      "age_hours": 0.7654468347222222,
+      "age_hours": 1.7258204030555557,
       "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Laird sales boosted by Navitas acquisition",
       "link": "https://bizwest.com/2026/05/15/laird-sales-boosted-by-navitas-acquisition/",
       "source": "BizWest",
       "pub_date": "2026-05-15T20:25:06+00:00",
-      "age_hours": 1.0217710080555555,
+      "age_hours": 1.986628078611111,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -54,34 +63,43 @@
       "link": "https://bizwest.com/2026/05/15/charlottes-web-optimistic-about-bat-transaction/",
       "source": "BizWest",
       "pub_date": "2026-05-15T20:09:46+00:00",
-      "age_hours": 1.2773265702777779,
+      "age_hours": 2.2421836408333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Taco Bell Cantina debuts first Colorado location",
       "link": "https://www.9news.com/article/travel/denver-international-airport/taco-bell-cantina-first-colorado-denver-airport/73-a8b2b062-691b-418d-b72d-f037bf8636b5",
       "source": "9News",
       "pub_date": "2026-05-15T15:24:09+00:00",
-      "age_hours": 6.042339139444445,
+      "age_hours": 7.003152670277777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "The Stockman, Auberge Collection Names Exclusive Sales Team",
+      "link": "https://milehighcre.com/the-stockman-auberge-collection-names-exclusive-sales-team/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-05-15T13:59:46+00:00",
+      "age_hours": 8.409286175277778,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "CU under contract to buy Independence Plaza",
       "link": "https://bizwest.com/2026/05/15/cu-under-contract-to-buy-independence-plaza/",
       "source": "BizWest",
       "pub_date": "2026-05-15T13:34:39+00:00",
-      "age_hours": 7.862604846388889,
+      "age_hours": 8.827461908611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Habitat opens new Longmont ReStore",
       "link": "https://bizwest.com/2026/05/15/habitat-opens-new-longmont-restore/",
       "source": "BizWest",
       "pub_date": "2026-05-15T13:25:07+00:00",
-      "age_hours": 8.021493767499999,
+      "age_hours": 8.986350826111112,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -90,79 +108,61 @@
       "link": "https://www.9news.com/article/money/business/this-arizona-company-repossessed-spirit-airlines-planes-flew-them-to-arizona-desert-nomadic-aviation/75-e1ec2a11-95fb-4bc3-be15-a4308d2a8e10",
       "source": "9News",
       "pub_date": "2026-05-15T12:16:32+00:00",
-      "age_hours": 9.169283643333333,
+      "age_hours": 10.13009717138889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Colorado lawmakers debated education bills over teacher housing, state testing and more. Here\u2019s where they landed.",
       "link": "https://coloradosun.com/2026/05/15/colorado-legislature-schools-education-bills/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-15T09:58:00+00:00",
-      "age_hours": 11.478022196944446,
+      "age_hours": 12.438833255555556,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Jelli or Jelly? DU Brunch Spot Rebranding and Revamping Under New Ownership",
-      "link": "https://www.westword.com/food-drink/university-jelly-cafe-rebrands-as-jelli-indian-restaurant-40884715/",
-      "source": "Westword",
-      "pub_date": "2026-05-15T08:00:00-06:00",
-      "age_hours": 7.445761393333333,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Road closures planned for Denver Colfax Marathon: Here's what drivers should expect",
       "link": "https://kdvr.com/news/local/road-closures-planned-for-denver-colfax-marathon-heres-what-drivers-should-expect/",
       "source": "Fox31",
       "pub_date": "2026-05-15T00:39:32+00:00",
-      "age_hours": 20.786579267222223,
+      "age_hours": 21.747000484444445,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Denver Broncos 2026 schedule released",
       "link": "https://kdvr.com/sports/denver-broncos/schedule-release-2026/",
       "source": "Fox31",
       "pub_date": "2026-05-14T23:53:29+00:00",
-      "age_hours": 21.554079121388888,
+      "age_hours": 22.514500472222224,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Colorado Democrats tout 2026 session wins; Republicans criticize budget choices",
       "link": "https://www.coloradopolitics.com/2026/05/14/colorado-democrats-tout-2026-session-wins-republicans-criticize-budget-choices/",
       "source": "CO Politics",
       "pub_date": "2026-05-14T23:13:17+00:00",
-      "age_hours": 22.22454768833333,
+      "age_hours": 23.1849191325,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Session wrap-up: Colorado legislators pass 120 bills in 2026 session",
       "link": "https://www.coloradopolitics.com/2026/05/14/session-wrap-up-colorado-legislators-pass-120-bills-in-2026-session/",
       "source": "CO Politics",
       "pub_date": "2026-05-14T22:16:53+00:00",
-      "age_hours": 23.164547804722222,
+      "age_hours": 24.124919234722224,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Daly to leave Loveland chamber May 29",
       "link": "https://bizwest.com/2026/05/14/daly-to-leave-loveland-chamber-may-29/",
       "source": "BizWest",
       "pub_date": "2026-05-14T20:38:56+00:00",
-      "age_hours": 24.791216019444445,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver Water moves supply out of Antero Reservoir amid drought conditions",
-      "link": "https://kdvr.com/news/local/denver-water-moves-supply-out-of-antero-reservoir-amid-drought-conditions/",
-      "source": "Fox31",
-      "pub_date": "2026-05-14T20:31:22+00:00",
-      "age_hours": 24.92269034,
+      "age_hours": 25.7560730775,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/05/14/aclarion-sees-net-loss-but-strengthens-cash-position/",
       "source": "BizWest",
       "pub_date": "2026-05-14T20:14:28+00:00",
-      "age_hours": 25.19899382638889,
+      "age_hours": 26.163850880833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/05/14/greeley-facing-18m-deficit-turns-to-voluntary-separations/",
       "source": "BizWest",
       "pub_date": "2026-05-14T19:58:36+00:00",
-      "age_hours": 25.463438300277776,
+      "age_hours": 26.428295350833334,
       "breaking": false,
       "time_ago": "1 day ago"
     }
