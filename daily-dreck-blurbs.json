@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-05-15",
-  "lead_headline": "Dairy Queen's Westminster location closure confirmed as Blazing Bird settles in \u2014 subscriber net flatlines at \u22121 for second day",
+  "generated_date": "2026-05-16",
+  "lead_headline": "Sultan Turkish Bakery opens wholesale operation in Aurora as Post Oak Barbecue eyes October launch near DU",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>2 new leads today</strong>: Dairy Queen Grill & Chill closures hardening across Westminster and Littleton as Blazing Bird cements its Sheridan Boulevard replacement, while The Perfect Crumb cottage bakery emerges in Elyria Swansea.",
+      "blurb": "<strong>2 new leads today</strong>: Sultan Turkish Bakery debuts wholesale bakery operation at Birchtree Shopping Center in Aurora, while Post Oak Barbecue targets October opening near DU campus \u2014 both joining ongoing Dairy Queen closure confirmations in Westminster and Littleton.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "\u22122",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "92",
+        "value1": "95",
         "label2": "closed",
-        "value2": "76",
+        "value2": "77",
         "period": "all leads"
       }
     },
@@ -34,8 +34,8 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "51",
-        "class1": "up",
+        "value1": "10",
+        "class1": "",
         "label2": "sold",
         "value2": "0",
         "class2": "",
@@ -43,51 +43,51 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications for the fifteenth consecutive day</strong> as Colorado's liquor license system remains frozen through mid-May with no state communication on restoration timeline. The two-week blackout since April 29-30's 2,144-application renewal flood continues unabated \u2014 no new filings, no status changes, no backend movement across all license types. May's calendar stays completely dark through the 15th with officials offering no triage visibility or root cause analysis. The 7-day window holds at absolute zero for the third straight week.",
+      "blurb": "<strong>Zero applications for the sixteenth consecutive day</strong> as Colorado's liquor license blackout extends deeper into May with no state explanation. The system freeze since April 30's 2,144-application renewal surge continues without movement \u2014 no new filings, status changes, or backend activity across all license types. May's first half closes completely dark as officials maintain radio silence on recovery timelines or systemic diagnosis. The 7-day window holds at absolute zero for the fourth straight week with no departmental communication.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>2 mentions yesterday</strong> \u2014 Facebook property sale commentary and a team-building post \u2014 hold the 7-day total at 42 across 10 sources, down 19% from last week's 52. Denver Post maintains dominance with 13 mentions (31% share), followed by Instagram (9) and Facebook (7). The two-mention Thursday matches Wednesday's trough before the week's earlier 8-mention daily peak, suggesting consistent midweek slowdown patterns. Google News RSS drives 95% of discoveries (40 of 42) as the week wraps with softer pickup than last Thursday's cycle. Monthly trajectory holds at 203 mentions with steady institutional sourcing.",
+      "blurb": "<strong>9 mentions yesterday</strong> \u2014 led by Facebook sharing on East & Co.'s Workiva opening and Denver Post coverage of Benihana's 16th Street Mall plans \u2014 push the 7-day total to 44 across 12 sources, down 15% from last week's 52. Denver Post dominates with 13 mentions (30% share), followed by Facebook (11) and Instagram (8). Thursday's 9-mention day rebounds from Wednesday's 2-mention trough, breaking the midweek slowdown pattern. Google News RSS drives 93% of discoveries (41 of 44) as the week closes with stronger pickup than last Thursday. Monthly trajectory advances to 201 mentions with stable institutional distribution.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "2",
-        "class1": "down",
+        "value1": "9",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "42",
+        "value1": "44",
         "class1": "down",
         "label2": "sources",
-        "value2": "10",
+        "value2": "12",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) holds MTD at +15 (+1.1/day) while 90-day net edges down to +135. Wednesday's single cancellation with zero acquisition marks the third net-negative or flat day this week after Sunday and Tuesday, compressing the 7-day window to \u22122 (17 new, 19 canceled) \u2014 a 112% reversal from last week's +17 (21 new, 4 canceled). Acquisition dropped 19% week-over-week while cancellations quintupled, flipping from strong inbound momentum to sustained churn pressure. The last four days averaged \u22121 net versus the prior three-day stretch that delivered +3/day, exposing midweek retention strain even as MTD's +1.1/day rate tracks just below YTD's +1.3 baseline.",
+      "blurb": "<strong>Net +4 yesterday</strong> (5 new, 1 canceled) lifts MTD to +20 (+1.3/day) while 90-day net holds at +136. Thursday's strong performance \u2014 matching the month's best single-day haul \u2014 reverses Wednesday's \u22122 slide and stabilizes the volatile midweek pattern. The 7-day window compresses to +3 (22 new, 19 canceled), down 75% from last week's +12 as cancellations quadrupled week-over-week (19 vs 5). Acquisition dropped just 14% but churn pressure quintupled, exposing retention fragility despite yesterday's rebound. The last three days averaged +2 net versus the prior four-day stretch that delivered flat performance, showing late-week recovery momentum even as the 7-day rate (+0.4/day) runs 69% below MTD's +1.3 pace.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "15",
-      "net_ytd": "172",
-      "net_mtd_per_day": "1.1",
+      "net_mtd": "20",
+      "net_ytd": "177",
+      "net_mtd_per_day": "1.3",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "12",
-      "annual_ytd": "138",
-      "monthly_mtd": "3",
-      "monthly_ytd": "34"
+      "annual_mtd": "16",
+      "annual_ytd": "142",
+      "monthly_mtd": "4",
+      "monthly_ytd": "35"
     }
   }
 }
