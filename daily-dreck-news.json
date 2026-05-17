@@ -1,132 +1,141 @@
 {
-  "fetched_date": "2026-05-16",
-  "fetched_at": "2026-05-16 23:21:29",
+  "fetched_date": "2026-05-17",
+  "fetched_at": "2026-05-17 00:54:27",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Sakura Square seeks city funding to preserve one of Denver\u2019s last pieces of Japantown",
+      "link": "https://www.9news.com/article/news/community/aapi-heritage/sakura-square-seeks-city-funding-to-preserve-one-of-denvers-last-pieces-of-japantown/73-93a8a67e-d13c-45c3-9f69-e67ad9fff6f2",
+      "source": "9News",
+      "pub_date": "2026-05-16T23:39:49+00:00",
+      "age_hours": 1.2398482325,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver weather: Storms likely Sunday then soggy, cooler start to work week",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-storms-likely-sunday-then-soggy-cooler-start-to-work-week/",
       "source": "Fox31",
       "pub_date": "2026-05-16T22:44:53+00:00",
-      "age_hours": 0.6057687330555556,
+      "age_hours": 2.1555855844444443,
       "breaking": true,
-      "time_ago": "36 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Recall: Ice cream sold in Colorado may contain metal fragments",
       "link": "https://kdvr.com/news/recall-ice-cream-sold-in-colorado-may-contain-metal-fragments/",
       "source": "Fox31",
       "pub_date": "2026-05-16T22:03:37+00:00",
-      "age_hours": 1.2935465033333333,
+      "age_hours": 2.8433633527777777,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado ranks high on list of states where seniors are most often scammed",
       "link": "https://kdvr.com/news/money/colorado-ranks-high-on-list-of-states-where-seniors-are-most-often-scammed/",
       "source": "Fox31",
       "pub_date": "2026-05-16T21:40:00+00:00",
-      "age_hours": 1.687157687222222,
+      "age_hours": 3.236974535,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "ENT Credit Union awards $300K in YES grants",
       "link": "https://bizwest.com/2026/05/16/ent-credit-union-awards-300k-in-yes-grants/",
       "source": "BizWest",
       "pub_date": "2026-05-16T17:36:20+00:00",
-      "age_hours": 5.747277495277777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.297197541944445,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Broomfield Community Foundation expands behavioral health initiative",
       "link": "https://bizwest.com/2026/05/16/broomfield-community-foundation-expands-behavioral-health-initiative/",
       "source": "BizWest",
       "pub_date": "2026-05-16T17:26:18+00:00",
-      "age_hours": 5.914500757222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.464420275277778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Conexus Insurance wins award for work with F.R.I.E.N.D.S. of Broomfield",
       "link": "https://bizwest.com/2026/05/16/conexus-insurance-wins-award-for-work-with-f-r-i-e-n-d-s-of-broomfield/",
       "source": "BizWest",
       "pub_date": "2026-05-16T17:14:03+00:00",
-      "age_hours": 6.118667493611111,
+      "age_hours": 7.668586973333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Nonprofit Spotlight: Light Root Farm & Learning Center",
       "link": "https://bizwest.com/2026/05/16/nonprofit-spotlight-light-root-farm-learning-center/",
       "source": "BizWest",
       "pub_date": "2026-05-16T17:03:20+00:00",
-      "age_hours": 6.297278674999999,
+      "age_hours": 7.847198120555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Development fees not limited to brand new construction, Colorado  court rules",
       "link": "https://www.coloradopolitics.com/2026/05/16/development-fees-not-limited-to-brand-new-construction-colorado-court-rules/",
       "source": "CO Politics",
       "pub_date": "2026-05-16T13:30:40+00:00",
-      "age_hours": 9.842920323333335,
+      "age_hours": 11.392766830000001,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado justices consider whether fraud claims belong in corporate dispute",
       "link": "https://www.coloradopolitics.com/2026/05/16/colorado-justices-consider-whether-fraud-claims-belong-in-corporate-dispute/",
       "source": "CO Politics",
       "pub_date": "2026-05-16T13:26:03+00:00",
-      "age_hours": 9.919864779444445,
+      "age_hours": 11.469711290833333,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "What\u2019s Working: Distributors trade tips on artificial intelligence during Denver event",
       "link": "https://coloradosun.com/2026/05/16/distributors-artificial-intelligence-adoption/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-16T10:00:00+00:00",
-      "age_hours": 13.353292577500001,
+      "age_hours": 14.903327685833334,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Watch: Basic income programs in Denver and beyond at Colorado SunFest 2026",
       "link": "https://coloradosun.com/2026/05/16/watch-basic-income-programs-in-denver-and-beyond-at-colorado-sunfest-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-16T09:21:00+00:00",
-      "age_hours": 14.00329263361111,
+      "age_hours": 15.553327744444443,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Every Opening and Closing This Week: Three Fires Temporarily Close Two Restaurants",
       "link": "https://www.westword.com/food-drink/denver-restaurant-fires-parisi-hideway-milpero-opens-40886101/",
       "source": "Westword",
       "pub_date": "2026-05-16T07:03:00-06:00",
-      "age_hours": 10.303910841944445,
+      "age_hours": 11.853745972222223,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver Colfax Marathon: What to know about road closures, detours, RTD bus and light rail impacts",
       "link": "https://www.9news.com/article/news/community/transportation/denver-colfax-marathon-road-closures-rtd-impacts/73-87d0369e-2e83-47b7-bc05-3622dd55250b",
       "source": "9News",
       "pub_date": "2026-05-16T00:13:02+00:00",
-      "age_hours": 23.136140150555555,
+      "age_hours": 24.68623726166667,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Target is remodeling more than 130 stores in its 'biggest transformation in a decade'",
       "link": "https://www.9news.com/article/news/nation-world/target-remodel-stores-open-new-stores/507-5ed196a9-6b1d-4d3a-a6ff-fed976cd6b08",
       "source": "9News",
       "pub_date": "2026-05-15T22:40:09+00:00",
-      "age_hours": 24.684195773333332,
+      "age_hours": 26.234292870555553,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://kdvr.com/news/local/car-crashes-into-denver-home-catches-fire-driver-taken-to-hospital/",
       "source": "Fox31",
       "pub_date": "2026-05-15T21:48:08+00:00",
-      "age_hours": 25.55160221111111,
+      "age_hours": 27.101419039444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,16 +153,7 @@
       "link": "https://bizwest.com/2026/05/15/webinar-series-to-spotlight-longmonts-semiconductor-growth/",
       "source": "BizWest",
       "pub_date": "2026-05-15T20:53:24+00:00",
-      "age_hours": 26.462834289722224,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Texas Roadhouse closing its first-ever restaurant location",
-      "link": "https://www.9news.com/article/news/nation-world/texas-roadhouse-closing-first-restaurant-location-clarksville-indiana/507-f6d6515f-8d57-4e74-8dde-9f42caa18fa4",
-      "source": "9News",
-      "pub_date": "2026-05-15T20:53:09+00:00",
-      "age_hours": 26.467529129444443,
+      "age_hours": 28.01275370666667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://sentinelcolorado.com/uncategorized/powells-tenure-as-fed-chair-marked-by-fight-for-independence-while-trying-to-tame-inflation/",
       "source": "Sentinel",
       "pub_date": "2026-05-15T20:40:50+00:00",
-      "age_hours": 26.673500584722223,
+      "age_hours": 28.223361701944444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/05/15/laird-sales-boosted-by-navitas-acquisition/",
       "source": "BizWest",
       "pub_date": "2026-05-15T20:25:06+00:00",
-      "age_hours": 26.93450096861111,
+      "age_hours": 28.484420379444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/05/15/charlottes-web-optimistic-about-bat-transaction/",
       "source": "BizWest",
       "pub_date": "2026-05-15T20:09:46+00:00",
-      "age_hours": 27.190056532777778,
+      "age_hours": 28.73997593916667,
       "breaking": false,
       "time_ago": "1 day ago"
     }
