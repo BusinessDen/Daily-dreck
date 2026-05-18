@@ -1,150 +1,177 @@
 {
   "fetched_date": "2026-05-18",
-  "fetched_at": "2026-05-18 17:02:59",
+  "fetched_at": "2026-05-18 18:42:40",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "Business Buzz: The mountain market whiplash and the 6th graders beating Wall Street",
+      "link": "https://www.9news.com/article/money/business-brief/the-mountain-market-whiplash-and-6th-graders-beating-wall-street/73-241433b1-ab11-41ff-9ce7-a8b640d5841d",
+      "source": "9News",
+      "pub_date": "2026-05-18T18:22:11+00:00",
+      "age_hours": 0.33736153888888887,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Tayer: Boulder City Council clears flight path for safety, vitality, innovation",
+      "link": "https://bizwest.com/2026/05/18/tayer-boulder-city-council-clears-flight-path-for-safety-vitality-innovation/",
+      "source": "BizWest",
+      "pub_date": "2026-05-18T17:59:10+00:00",
+      "age_hours": 0.7195935202777778,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
     {
       "title": "Italian Restaurant Opening This Summer at The Westin Riverfront",
       "link": "https://milehighcre.com/italian-restaurant-opening-this-summer-at-the-westin-riverfront/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-18T16:46:09+00:00",
-      "age_hours": 0.2763644702777778,
+      "age_hours": 1.937702616111111,
       "breaking": true,
-      "time_ago": "16 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Person killed by RTD train in Denver, police say",
       "link": "https://www.9news.com/article/traffic/train-hits-pedestrian-denver/73-21d4898e-89a6-421b-bd97-0f29515ca82a",
       "source": "9News",
       "pub_date": "2026-05-18T16:27:29+00:00",
-      "age_hours": 0.5876335577777777,
+      "age_hours": 2.249028313333333,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver County Court judge dies 'unexpectedly' at 59 years old",
       "link": "https://kdvr.com/news/local/denver-county-court-judge-dies-unexpectedly-at-59-years-old/",
       "source": "Fox31",
       "pub_date": "2026-05-18T15:25:46+00:00",
-      "age_hours": 1.6165497966666669,
+      "age_hours": 3.2778446900000002,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Dan + Shay to bring 'The Young Tour' to Denver arena",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/dan-shay-usa-tour/73-2386739f-f1b8-474d-88cd-36cdfd63650f",
       "source": "9News",
       "pub_date": "2026-05-18T15:09:52+00:00",
-      "age_hours": 1.8812447355555555,
+      "age_hours": 3.54263949,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Impello Biosciences expands to Forge Campus",
       "link": "https://bizwest.com/2026/05/18/impello-biosciences-expands-to-forge-campus/",
       "source": "BizWest",
       "pub_date": "2026-05-18T14:15:58+00:00",
-      "age_hours": 2.7786620425,
+      "age_hours": 4.439594075833333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Marshall Fire recovery support applications open through June 2027",
       "link": "https://bizwest.com/2026/05/18/marshall-fire-recovery-support-applications-open-through-june-2027/",
       "source": "BizWest",
       "pub_date": "2026-05-18T13:43:18+00:00",
-      "age_hours": 3.323106986388889,
+      "age_hours": 4.984038548611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "NextEra Energy to buy Dominion Energy, combining two of the country's largest utilities",
       "link": "https://www.9news.com/article/news/nation-world/nextera-energy-to-buy-dominion-energy-largest-regulated-electric-utility/507-96d876ed-2906-4cfb-bead-f68dda9146a8",
       "source": "9News",
       "pub_date": "2026-05-18T13:25:44+00:00",
-      "age_hours": 3.6168003172222223,
+      "age_hours": 5.278195071388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Cuisine of Jalisco coming to Fort Collins",
       "link": "https://bizwest.com/2026/05/18/cuisine-of-jalisco-coming-to-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-05-18T13:13:38+00:00",
-      "age_hours": 3.817551465555556,
+      "age_hours": 5.478483025555556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aurora man faces murder charges in death of 4-year-old boy",
       "link": "https://sentinelcolorado.com/metro/aurora-man-faces-murder-charges-in-death-of-4-year-old-boy/",
       "source": "Sentinel",
       "pub_date": "2026-05-18T12:27:01+00:00",
-      "age_hours": 4.596097877777778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.257363271388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Pedestrian killed in crash with train: Police",
       "link": "https://kdvr.com/news/local/pedestrian-killed-in-crash-with-train-police/",
       "source": "Fox31",
       "pub_date": "2026-05-18T12:14:47+00:00",
-      "age_hours": 4.799605407222222,
+      "age_hours": 6.460900295833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Cannabis calendar: High tea and summer showcases",
+      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
+      "source": "Westword",
+      "pub_date": "2026-05-18T11:15:00-06:00",
+      "age_hours": 1.4574991355555555,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Northeastern Colorado has a lot to brag about, but also big socioeconomic challenges that will take many hands to solve",
       "link": "https://coloradosun.com/2026/05/18/northeastern-colorado-neco-research-poverty-hunger-housing-agriculture-water/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-18T10:00:00+00:00",
-      "age_hours": 7.045579329166667,
+      "age_hours": 8.706942339722222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Push for cannabis pop-up events extinguished in Colorado",
       "link": "https://www.westword.com/news/colorado-weed-special-events-bill-dies-legislature-40884615/",
       "source": "Westword",
       "pub_date": "2026-05-18T08:49:16-06:00",
-      "age_hours": 2.225116283611111,
+      "age_hours": 3.886388137222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Track & Field: Two-event winner Cameron Bell of Eaglecrest leads parade of six Aurora area 5A boys state titles",
       "link": "https://sentinelcolorado.com/sports/preps/track-field/track-field-two-event-winner-cameron-bell-of-eaglecrest-leads-parade-of-six-aurora-area-5a-boys-state-titles/",
       "source": "Sentinel",
       "pub_date": "2026-05-18T04:15:00+00:00",
-      "age_hours": 12.796375947500001,
+      "age_hours": 14.457641343611112,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver police investigating 3-vehicle crash with injuries",
       "link": "https://kdvr.com/news/local/denver-police-investigating-3-vehicle-crash-with-injuries/",
       "source": "Fox31",
       "pub_date": "2026-05-17T21:59:50+00:00",
-      "age_hours": 19.048772163333336,
+      "age_hours": 20.710067049722223,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "For Psychedelics, The Pharmaceutical And Natural Medicine Pathways Are Both Legitimate\u2014And Compatible (Op-Ed)",
       "link": "https://www.marijuanamoment.net/for-psychedelics-the-pharmaceutical-and-natural-medicine-pathways-are-both-legitimate-and-compatible-op-ed/",
       "source": "MJ Moment",
       "pub_date": "2026-05-17T17:15:10+00:00",
-      "age_hours": 23.794812009999998,
+      "age_hours": 25.45605435138889,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Public media filling the funding gap",
       "link": "https://bizwest.com/2026/05/17/public-media-filling-the-funding-gap/",
       "source": "BizWest",
       "pub_date": "2026-05-17T15:50:54+00:00",
-      "age_hours": 25.196440388055553,
+      "age_hours": 26.857371943333334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://www.westword.com/opinion/dish-taking-over-luciles-space-in-littleton-40887676/",
       "source": "Westword",
       "pub_date": "2026-05-17T12:05:45-06:00",
-      "age_hours": 22.950394185277776,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "If this is sad, we don\u2019t want to be happy: An ice cream story",
-      "link": "https://coloradosun.com/2026/05/17/sadboys-creamery-ice-cream-denver-colorado/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-17T10:00:00+00:00",
-      "age_hours": 31.045579767222222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "The rumors of Colfax\u2019s devastation are greatly exaggerated\u2026and holding Denver back",
-      "link": "https://www.westword.com/opinion/rumors-of-colfax-devastation-are-greatly-exaggerated-40882825/",
-      "source": "Westword",
-      "pub_date": "2026-05-17T07:32:01-06:00",
-      "age_hours": 27.51261654111111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado Cost of Living: Moving closer to downtown Denver",
-      "link": "https://www.coloradopolitics.com/2026/05/16/colorado-cost-of-living-moving-closer-to-downtown-denver/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-16T18:00:00+00:00",
-      "age_hours": 47.046346730833335,
+      "age_hours": 24.61166604027778,
       "breaking": false,
       "time_ago": "1 day ago"
     }
