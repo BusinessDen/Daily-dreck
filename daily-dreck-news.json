@@ -1,141 +1,168 @@
 {
   "fetched_date": "2026-05-18",
-  "fetched_at": "2026-05-18 15:09:48",
+  "fetched_at": "2026-05-18 17:02:59",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Italian Restaurant Opening This Summer at The Westin Riverfront",
+      "link": "https://milehighcre.com/italian-restaurant-opening-this-summer-at-the-westin-riverfront/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-05-18T16:46:09+00:00",
+      "age_hours": 0.2763644702777778,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
+    {
+      "title": "Person killed by RTD train in Denver, police say",
+      "link": "https://www.9news.com/article/traffic/train-hits-pedestrian-denver/73-21d4898e-89a6-421b-bd97-0f29515ca82a",
+      "source": "9News",
+      "pub_date": "2026-05-18T16:27:29+00:00",
+      "age_hours": 0.5876335577777777,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
+    {
+      "title": "Denver County Court judge dies 'unexpectedly' at 59 years old",
+      "link": "https://kdvr.com/news/local/denver-county-court-judge-dies-unexpectedly-at-59-years-old/",
+      "source": "Fox31",
+      "pub_date": "2026-05-18T15:25:46+00:00",
+      "age_hours": 1.6165497966666669,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Dan + Shay to bring 'The Young Tour' to Denver arena",
+      "link": "https://www.9news.com/article/entertainment/music/colorado-music/dan-shay-usa-tour/73-2386739f-f1b8-474d-88cd-36cdfd63650f",
+      "source": "9News",
+      "pub_date": "2026-05-18T15:09:52+00:00",
+      "age_hours": 1.8812447355555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Impello Biosciences expands to Forge Campus",
       "link": "https://bizwest.com/2026/05/18/impello-biosciences-expands-to-forge-campus/",
       "source": "BizWest",
       "pub_date": "2026-05-18T14:15:58+00:00",
-      "age_hours": 0.8928181855555556,
+      "age_hours": 2.7786620425,
       "breaking": true,
-      "time_ago": "53 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Marshall Fire recovery support applications open through June 2027",
       "link": "https://bizwest.com/2026/05/18/marshall-fire-recovery-support-applications-open-through-june-2027/",
       "source": "BizWest",
       "pub_date": "2026-05-18T13:43:18+00:00",
-      "age_hours": 1.4372634922222223,
+      "age_hours": 3.323106986388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "NextEra Energy to buy Dominion Energy, combining two of the country's largest utilities",
       "link": "https://www.9news.com/article/news/nation-world/nextera-energy-to-buy-dominion-energy-largest-regulated-electric-utility/507-96d876ed-2906-4cfb-bead-f68dda9146a8",
       "source": "9News",
       "pub_date": "2026-05-18T13:25:44+00:00",
-      "age_hours": 1.7305565591666667,
+      "age_hours": 3.6168003172222223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Person killed by light rail train in Denver, police say",
-      "link": "https://www.9news.com/article/traffic/train-hits-pedestrian-denver/73-21d4898e-89a6-421b-bd97-0f29515ca82a",
-      "source": "9News",
-      "pub_date": "2026-05-18T13:23:46+00:00",
-      "age_hours": 1.7633343841666667,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Cuisine of Jalisco coming to Fort Collins",
       "link": "https://bizwest.com/2026/05/18/cuisine-of-jalisco-coming-to-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-05-18T13:13:38+00:00",
-      "age_hours": 1.9317079975,
+      "age_hours": 3.817551465555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Aurora man faces murder charges in death of 4-year-old boy",
       "link": "https://sentinelcolorado.com/metro/aurora-man-faces-murder-charges-in-death-of-4-year-old-boy/",
       "source": "Sentinel",
       "pub_date": "2026-05-18T12:27:01+00:00",
-      "age_hours": 2.709683873611111,
+      "age_hours": 4.596097877777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Pedestrian killed in crash with train: Police",
       "link": "https://kdvr.com/news/local/pedestrian-killed-in-crash-with-train-police/",
       "source": "Fox31",
       "pub_date": "2026-05-18T12:14:47+00:00",
-      "age_hours": 2.913286398888889,
+      "age_hours": 4.799605407222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Northeastern Colorado has a lot to brag about, but also big socioeconomic challenges that will take many hands to solve",
       "link": "https://coloradosun.com/2026/05/18/northeastern-colorado-neco-research-poverty-hunger-housing-agriculture-water/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-18T10:00:00+00:00",
-      "age_hours": 5.159342705555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.045579329166667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Push for cannabis pop-up events extinguished in Colorado",
       "link": "https://www.westword.com/news/colorado-weed-special-events-bill-dies-legislature-40884615/",
       "source": "Westword",
       "pub_date": "2026-05-18T08:49:16-06:00",
-      "age_hours": 0.3386588597222222,
+      "age_hours": 2.225116283611111,
       "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Track & Field: Two-event winner Cameron Bell of Eaglecrest leads parade of six Aurora area 5A boys state titles",
       "link": "https://sentinelcolorado.com/sports/preps/track-field/track-field-two-event-winner-cameron-bell-of-eaglecrest-leads-parade-of-six-aurora-area-5a-boys-state-titles/",
       "source": "Sentinel",
       "pub_date": "2026-05-18T04:15:00+00:00",
-      "age_hours": 10.90996194888889,
+      "age_hours": 12.796375947500001,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver police investigating 3-vehicle crash with injuries",
       "link": "https://kdvr.com/news/local/denver-police-investigating-3-vehicle-crash-with-injuries/",
       "source": "Fox31",
       "pub_date": "2026-05-17T21:59:50+00:00",
-      "age_hours": 17.162453136944446,
+      "age_hours": 19.048772163333336,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "For Psychedelics, The Pharmaceutical And Natural Medicine Pathways Are Both Legitimate\u2014And Compatible (Op-Ed)",
       "link": "https://www.marijuanamoment.net/for-psychedelics-the-pharmaceutical-and-natural-medicine-pathways-are-both-legitimate-and-compatible-op-ed/",
       "source": "MJ Moment",
       "pub_date": "2026-05-17T17:15:10+00:00",
-      "age_hours": 21.9084016975,
+      "age_hours": 23.794812009999998,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Public media filling the funding gap",
       "link": "https://bizwest.com/2026/05/17/public-media-filling-the-funding-gap/",
       "source": "BizWest",
       "pub_date": "2026-05-17T15:50:54+00:00",
-      "age_hours": 23.310596939444444,
+      "age_hours": 25.196440388055553,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "\u201cThe Service at This Lucile\u2019s Was Always Better Than I\u2019ve Gotten From DISH\u201d",
       "link": "https://www.westword.com/opinion/dish-taking-over-luciles-space-in-littleton-40887676/",
       "source": "Westword",
       "pub_date": "2026-05-17T12:05:45-06:00",
-      "age_hours": 21.063936766666664,
+      "age_hours": 22.950394185277776,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "If this is sad, we don\u2019t want to be happy: An ice cream story",
       "link": "https://coloradosun.com/2026/05/17/sadboys-creamery-ice-cream-denver-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-17T10:00:00+00:00",
-      "age_hours": 29.159343146666668,
+      "age_hours": 31.045579767222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,43 +171,16 @@
       "link": "https://www.westword.com/opinion/rumors-of-colfax-devastation-are-greatly-exaggerated-40882825/",
       "source": "Westword",
       "pub_date": "2026-05-17T07:32:01-06:00",
-      "age_hours": 25.626159131666665,
+      "age_hours": 27.51261654111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
     {
-      "title": "Sun Valley celebrates resilience amid neighborhood's transformation at night market",
-      "link": "https://www.9news.com/article/news/community/race-and-culture/sun-valley-night-market-celebrates-resilience-amid-neighborhoods-transformation/73-e4aedf2e-d451-427c-a9c2-fc75f6063eeb",
-      "source": "9News",
-      "pub_date": "2026-05-17T02:46:33+00:00",
-      "age_hours": 36.38361230527778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Recall: Ice cream sold in Colorado may contain metal fragments",
-      "link": "https://kdvr.com/news/recall-ice-cream-sold-in-colorado-may-contain-metal-fragments/",
-      "source": "Fox31",
-      "pub_date": "2026-05-16T22:03:37+00:00",
-      "age_hours": 41.09939762527778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "ENT Credit Union awards $300K in YES grants",
-      "link": "https://bizwest.com/2026/05/16/ent-credit-union-awards-300k-in-yes-grants/",
-      "source": "BizWest",
-      "pub_date": "2026-05-16T17:36:20+00:00",
-      "age_hours": 45.55337476527777,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Broomfield Community Foundation expands behavioral health initiative",
-      "link": "https://bizwest.com/2026/05/16/broomfield-community-foundation-expands-behavioral-health-initiative/",
-      "source": "BizWest",
-      "pub_date": "2026-05-16T17:26:18+00:00",
-      "age_hours": 45.72059703944444,
+      "title": "Colorado Cost of Living: Moving closer to downtown Denver",
+      "link": "https://www.coloradopolitics.com/2026/05/16/colorado-cost-of-living-moving-closer-to-downtown-denver/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-16T18:00:00+00:00",
+      "age_hours": 47.046346730833335,
       "breaking": false,
       "time_ago": "1 day ago"
     }
