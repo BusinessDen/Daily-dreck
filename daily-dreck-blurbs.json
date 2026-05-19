@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-05-18",
-  "lead_headline": "Six new restaurant leads over the weekend \u2014 Mendocino Farms hits Union Station, Paperboy debuts in West Highland, plus DiFranco's Westminster opening",
+  "generated_date": "2026-05-19",
+  "lead_headline": "Zero new restaurant leads overnight as weekend data settles \u2014 active tracker holds at 172 (95 openings, 77 closures) with no movement since Friday",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>6 new leads since Friday</strong> \u2014 Mendocino Farms opened its third Denver location in Union Station, Austin brunch darling Paperboy landed in West Highland, and DiFranco's launched its second outpost in Westminster. Closures: Dumplin' shuttered mid-April after 18 months, Mojo-99 Burgers closed in late April.",
+      "blurb": "<strong>No new leads today</strong> \u2014 tracker flat at 172 active (95 openings, 77 closures). Weekend additions included Lost Coffee's Arvada debut and Monarch's wood-fired pizza launch inside Urban Cowboy Public House.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22123",
-        "period": "since Friday"
+        "value2": "0",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications for the eighteenth consecutive day</strong> as Colorado's liquor license blackout stretches into its third week with no state communication. The freeze since April 30's renewal surge continues \u2014 no new filings, no status updates, no database activity across any license class. System remains completely dark as officials maintain radio silence on timeline or cause. May on track to close with perfect zero across all metrics and zero departmental accountability.",
+      "blurb": "<strong>Nineteen days without a pulse</strong> \u2014 Colorado's liquor license database remains completely frozen since April 30's renewal spike with zero applications, zero status changes, zero activity across all license classes statewide. The blackout now spans nearly three weeks as May barrels toward a perfect zero close with no official explanation, no timeline, no departmental acknowledgment of the shutdown. System dead quiet as industry waits in the dark.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>2 mentions yesterday</strong> \u2014 Instagram restaurant post plus Reddit dating-advice citation \u2014 lifts the 7-day total to 48 across 14 sources, down 8% from last week's 52. Facebook and Denver Post tie at 11 mentions each (23% share apiece), followed by Instagram with 10. Weekend bounce from Friday's single-mention low still leaves the week trailing prior period as Google News RSS drives 92% of discoveries (44 of 48). Monthly tally now 201 with flat week-over-week trend.",
+      "blurb": "<strong>2 mentions yesterday</strong> \u2014 Instagram Colfax BRT discussion plus RiNo ArtPark residency announcement \u2014 holds the 7-day total at 44 across 11 sources, down 17% from prior week's 53. Instagram leads at 11 mentions (25% share), followed by Facebook and Denver Post tied at 10 each. Google News RSS continues dominance at 91% of discoveries (40 of 44). Monthly total 198 as week-over-week decline steepens heading into Tuesday.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,25 +69,25 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "48",
-        "class1": "",
+        "value1": "44",
+        "class1": "down",
         "label2": "sources",
-        "value2": "14",
+        "value2": "11",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +5 since Friday</strong> (6 new, 1 canceled) pushes MTD to +21 (+1.2/day) while 90-day net advances to +134. Weekend delivered solid acquisition with minimal churn after Thursday's +4 and Friday's +1. The 7-day window closes at +6 (23 new, 17 canceled) \u2014 matching last week's net despite cancellations tripling (17 vs 5) and acquisitions climbing 53% (23 vs 15). Recent pattern shows late-week strength: last four days averaged +2.8 net versus prior three-day stretch at \u22120.7, though elevated weekly churn (2.4/day) keeps the 7-day rate (+0.9/day) running 25% below MTD pace.",
+      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled) leaves MTD at +21 (+1.2/day) with 90-day net at +134. The weekend stall follows Friday's +5 surge as acquisition dries up entirely \u2014 last two days delivered zero new subs versus prior five-day stretch averaging 3.4 daily. The 7-day window closes at +10 (17 new, 7 canceled), up from prior period's +6 but masking the recent freeze: last 48 hours show complete inactivity after mid-week momentum delivered +9 across three days.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "21",
       "net_ytd": "178",
       "net_mtd_per_day": "1.2",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "15",
-      "annual_ytd": "142",
-      "monthly_mtd": "6",
-      "monthly_ytd": "36"
+      "annual_mtd": "0",
+      "annual_ytd": "0",
+      "monthly_mtd": "0",
+      "monthly_ytd": "0"
     }
   }
 }
