@@ -1,114 +1,123 @@
 {
   "fetched_date": "2026-05-21",
-  "fetched_at": "2026-05-21 20:40:05",
+  "fetched_at": "2026-05-21 21:35:19",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Denver unveils Acoma Street revamp as part of '5280 Trail' project",
+      "link": "https://www.9news.com/article/news/local/colorado-news/denver-unveils-acoma-street-revamp-5280-trail-project/73-61e7a7b0-85d6-4013-ad58-ce9bbe29e0cd",
+      "source": "9News",
+      "pub_date": "2026-05-21T21:18:37+00:00",
+      "age_hours": 0.2736861816666667,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
     {
       "title": "Officer sees 2 street races in same day, vehicles impounded",
       "link": "https://kdvr.com/news/local/officer-sees-2-street-races-in-same-day-vehicles-impounded/",
       "source": "Fox31",
       "pub_date": "2026-05-21T20:23:34+00:00",
-      "age_hours": 0.2701233444444444,
+      "age_hours": 1.1913595750000001,
       "breaking": true,
-      "time_ago": "16 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Polis signs executive order banning sugary drinks at state functions",
       "link": "https://coloradosun.com/2026/05/21/polis-soda-ban-healthy-eating-executive-order/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-21T19:52:55+00:00",
-      "age_hours": 0.7806823055555555,
+      "age_hours": 1.701858687222222,
       "breaking": true,
-      "time_ago": "46 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Design Within Reach to open Saturday in long-vacant Boulder Macy\u2019s",
       "link": "https://bizwest.com/2026/05/21/design-within-reach-to-open-saturday-in-long-vacant-boulder-macys/",
       "source": "BizWest",
       "pub_date": "2026-05-21T19:45:12+00:00",
-      "age_hours": 0.9088548161111111,
+      "age_hours": 1.8295094847222224,
       "breaking": true,
-      "time_ago": "54 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Some consumers, advocacy groups push Colorado regulators to reject Xcel Energy's $356M rate hike",
       "link": "https://www.denver7.com/news/state-news/some-consumers-advocacy-groups-push-colorado-regulators-to-reject-xcel-energys-356m-rate-hike",
       "source": "Denver7",
       "pub_date": "2026-05-21T19:24:18+00:00",
-      "age_hours": 1.2578831961111112,
+      "age_hours": 2.1791045391666666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Mount Blue Sky reopens following over a year and half of construction",
       "link": "https://kdvr.com/news/mount-blue-sky-reopens-following-over-a-year-and-half-of-construction/",
       "source": "Fox31",
       "pub_date": "2026-05-21T18:07:17+00:00",
-      "age_hours": 2.541512276388889,
+      "age_hours": 3.462748536111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Saunders Construction Completes Renovation of Emich Kia Dealership",
       "link": "https://milehighcre.com/saunders-construction-completes-renovation-of-emich-kia-dealership/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-21T17:10:44+00:00",
-      "age_hours": 3.4836809180555557,
+      "age_hours": 4.4048320019444445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "1 killed in overnight shooting in Denver",
       "link": "https://kdvr.com/news/local/1-killed-in-overnight-shooting-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-21T16:14:07+00:00",
-      "age_hours": 4.427623436944445,
+      "age_hours": 5.348859696111112,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aerospace firm could add 400+ jobs at planned HQ, factory, testing facility",
       "link": "https://bizwest.com/2026/05/21/aerospace-firm-could-add-400-jobs-at-planned-hq-factory-testing-facility/",
       "source": "BizWest",
       "pub_date": "2026-05-21T15:58:53+00:00",
-      "age_hours": 4.6807997652777775,
+      "age_hours": 5.601454444444444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Report: Mountain West \u2018uniquely positioned\u2019 to commercialize quantum research",
       "link": "https://bizwest.com/2026/05/21/report-highlights-mountain-wests-strategic-position-in-quantum-sensing/",
       "source": "BizWest",
       "pub_date": "2026-05-21T15:34:38+00:00",
-      "age_hours": 5.084966440833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.0056211202777785,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Mile High Dine and Recline: Hotel Maverick, Grand Junction",
       "link": "https://milehighcre.com/mile-high-dine-and-recline-hotel-maverick-grand-junction/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-21T15:29:17+00:00",
-      "age_hours": 5.174514269166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.095665352777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Movers and Shakers Week Ending 05.22.26",
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-05-22-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-21T15:22:28+00:00",
-      "age_hours": 5.288125680833334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.209276769722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Nearly $1.8 million historic Denver home for sale in Five Points neighborhood",
       "link": "https://kdvr.com/news/local/nearly-1-8-million-historic-denver-home-for-sale-in-five-points-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-05-21T14:35:45+00:00",
-      "age_hours": 6.0670677675,
+      "age_hours": 6.988304073055556,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -117,25 +126,25 @@
       "link": "https://coloradosun.com/2026/05/21/whats-happening-colorado-mountain-words-literary-festival-crested-butte/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-21T14:00:00+00:00",
-      "age_hours": 6.662627128055556,
+      "age_hours": 7.583803516666666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Whole Foods liquor license dispute draws second lawsuit",
       "link": "https://bizwest.com/2026/05/21/whole-foods-liquor-license-dispute-draws-second-lawsuit/",
       "source": "BizWest",
       "pub_date": "2026-05-21T13:45:07+00:00",
-      "age_hours": 6.910244254722222,
+      "age_hours": 7.830898933888889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Stanley Marketplace in Aurora likely to change hands",
       "link": "https://bizwest.com/2026/05/21/stanley-marketplace-in-aurora-likely-to-change-hands/",
       "source": "BizWest",
       "pub_date": "2026-05-21T13:36:19+00:00",
-      "age_hours": 7.056910952777778,
+      "age_hours": 7.977565630833333,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -144,25 +153,7 @@
       "link": "https://bizwest.com/2026/05/21/svp-boulder-county-records-2025-impact/",
       "source": "BizWest",
       "pub_date": "2026-05-21T13:10:29+00:00",
-      "age_hours": 7.487466538333334,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Colorado lawmakers demand answers on lost Air National Guard assignments",
-      "link": "https://sentinelcolorado.com/metro/colorado-lawmakers-demand-answers-on-lost-air-national-guard-assignments/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-21T12:50:05+00:00",
-      "age_hours": 7.829403228611111,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "A new Swatch model is introduced, and a case study in overexcited \u2018drop culture\u2019 plays out",
-      "link": "https://sentinelcolorado.com/uncategorized/a-new-swatch-model-is-introduced-and-a-case-study-in-overexcited-drop-culture-plays-out/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-21T12:25:35+00:00",
-      "age_hours": 8.2377368975,
+      "age_hours": 8.408121215277777,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -171,18 +162,27 @@
       "link": "https://coloradosun.com/2026/05/21/boulder-county-reverses-allows-cemex-to-keep-operating-kiln/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-21T10:08:00+00:00",
-      "age_hours": 10.529294299444445,
+      "age_hours": 11.45047071722222,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "How Colorado veterans are harvesting benefits with Goodwill farming program",
       "link": "https://coloradosun.com/2026/05/21/colorado-veterans-are-harvesting-benefits-with-goodwill-farming-program/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-21T09:55:00+00:00",
-      "age_hours": 10.745961321666668,
+      "age_hours": 11.66713773861111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
+    },
+    {
+      "title": "Kids access Veo scooters despite age restrictions, parents say",
+      "link": "https://www.9news.com/article/news/latest-news-ott/kids-access-veo-scooters-age-restrictions/73-46c87c08-f403-4008-8ec9-41b303295e4f",
+      "source": "9News",
+      "pub_date": "2026-05-21T04:14:19+00:00",
+      "age_hours": 17.345352998888888,
+      "breaking": false,
+      "time_ago": "17 hrs ago"
     }
   ]
 }
