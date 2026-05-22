@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-05-22",
-  "fetched_at": "2026-05-22 21:29:03",
+  "fetched_at": "2026-05-22 22:26:17",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Local quantum firms look to cash in on federal largesse",
+      "link": "https://bizwest.com/2026/05/22/local-quantum-firms-look-to-cash-in-on-federal-largesse/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T22:06:25+00:00",
+      "age_hours": 0.3263640502777778,
+      "breaking": true,
+      "time_ago": "19 min ago"
+    },
+    {
+      "title": "Broomfield clinic among Intermountain Health facilities closing",
+      "link": "https://bizwest.com/2026/05/22/broomfield-clinic-among-intermountain-health-facilities-closing/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T22:00:36+00:00",
+      "age_hours": 0.42330850888888893,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
+    {
+      "title": "One Greeley campaign-finance complaint settled; others pending",
+      "link": "https://bizwest.com/2026/05/22/one-greeley-campaign-finance-complaint-settled-others-pending/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T21:51:43+00:00",
+      "age_hours": 0.5713646338888889,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
+    {
+      "title": "Colorado: \u2018Cracks\u2019 or \u2018competitive\u2019?",
+      "link": "https://www.coloradopolitics.com/2026/05/22/colorado-cracks-or-competitive/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-22T21:51:34+00:00",
+      "age_hours": 0.5747740716666667,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
+    {
+      "title": "Larimer completes last connection of Poudre River Trail",
+      "link": "https://bizwest.com/2026/05/22/larimer-completes-last-connection-of-poudre-river-trail/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T21:43:31+00:00",
+      "age_hours": 0.7080313324999999,
+      "breaking": true,
+      "time_ago": "42 min ago"
+    },
+    {
+      "title": "Loveland-based whiskey named world\u2019s best",
+      "link": "https://bizwest.com/2026/05/22/loveland-based-whiskey-named-worlds-best/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T21:37:58+00:00",
+      "age_hours": 0.8005313613888889,
+      "breaking": true,
+      "time_ago": "48 min ago"
+    },
+    {
+      "title": "Larimer County posts lowest local jobless rate in April",
+      "link": "https://bizwest.com/2026/05/22/larimer-county-posts-lowest-local-jobless-rate-in-april/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T21:32:56+00:00",
+      "age_hours": 0.8844202852777778,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
     {
       "title": "Shake Shack moves up Fort Collins opening date",
       "link": "https://bizwest.com/2026/05/22/shake-shack-moves-up-fort-collins-opening-date/",
       "source": "BizWest",
       "pub_date": "2026-05-22T21:27:57+00:00",
-      "age_hours": 0.0134461775,
+      "age_hours": 0.9674758755555556,
       "breaking": true,
-      "time_ago": "0 min ago"
+      "time_ago": "58 min ago"
+    },
+    {
+      "title": "VIDEO: Denver woman reunites with dog that was stolen outside Denver bookstore",
+      "link": "https://kdvr.com/news/local/video-denver-woman-reunites-with-dog-that-was-stolen-outside-denver-bookstore/",
+      "source": "Fox31",
+      "pub_date": "2026-05-22T21:27:31+00:00",
+      "age_hours": 0.9754343499999999,
+      "breaking": true,
+      "time_ago": "58 min ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 5.22.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-5-22-26/",
       "source": "Sentinel",
       "pub_date": "2026-05-22T21:23:12+00:00",
-      "age_hours": 0.09396130805555557,
+      "age_hours": 1.0475811008333333,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Trump veers off-topic during speech in New York that was supposed to be on the economy",
+      "link": "https://kdvr.com/news/politics/ap-trump-heads-to-a-competitive-new-york-district-to-sell-his-tax-law-as-voters-sour-on-the-economy/",
+      "source": "Fox31",
+      "pub_date": "2026-05-22T21:09:57+00:00",
+      "age_hours": 1.268212271388889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Woman killed by RTD train in Denver, police say",
       "link": "https://www.9news.com/article/traffic/train-hits-pedestrian-denver/73-21d4898e-89a6-421b-bd97-0f29515ca82a",
       "source": "9News",
       "pub_date": "2026-05-22T20:03:01+00:00",
-      "age_hours": 1.4295046863888887,
+      "age_hours": 2.383541173055556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado restaurants among Yelp Elites' top 100 BBQ restaurants in the US",
       "link": "https://kdvr.com/news/nationalworld-news/colorado-restaurants-among-yelp-elites-top-100-bbq-restaurants-in-the-us/",
       "source": "Fox31",
       "pub_date": "2026-05-22T18:59:41+00:00",
-      "age_hours": 2.4852780980555553,
+      "age_hours": 3.439323251388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Missing child found",
       "link": "https://www.9news.com/article/news/local/missing-denver-3-year-old/73-2088e3b6-6ee3-43bc-bc4d-b69ce1e17a00",
       "source": "9News",
       "pub_date": "2026-05-22T16:36:16+00:00",
-      "age_hours": 4.875338131388888,
+      "age_hours": 5.829374623888889,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Local Investor Buys Former John Fielder Studio Building On Santa Fe",
       "link": "https://www.bisnow.com/denver/news/retail/former-john-fielder-studio-along-santa-fe-drive-sells-for-nearly-19m-134711",
       "source": "Bisnow",
       "pub_date": "2026-05-22T15:41:12-04:00",
-      "age_hours": 1.7927467233333334,
+      "age_hours": 2.7467546169444446,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado roads and skies expected to be busy this Memorial Day; CDOT advises early travel",
       "link": "https://www.9news.com/article/traffic/memorial-day-summer-travel-colorado/73-2f22e0ad-59d6-4d13-88c3-6d524bc4367c",
       "source": "9News",
       "pub_date": "2026-05-22T14:19:40+00:00",
-      "age_hours": 7.152004849722222,
+      "age_hours": 8.106041357222223,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "UCHealth buys land east of Berthoud",
       "link": "https://bizwest.com/2026/05/22/uchealth-buys-land-east-of-berthoud/",
       "source": "BizWest",
       "pub_date": "2026-05-22T14:06:13+00:00",
-      "age_hours": 7.375668955277778,
+      "age_hours": 8.329698136666668,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Infleqtion deal with Dept. of Commerce could be worth $100M",
       "link": "https://bizwest.com/2026/05/22/infleqtion-deal-with-dept-of-commerce-could-be-worth-100m/",
       "source": "BizWest",
       "pub_date": "2026-05-22T14:02:11+00:00",
-      "age_hours": 7.4428912075,
+      "age_hours": 8.396920384722222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Survey finds most Boulder residents satisfied with quality of life",
       "link": "https://bizwest.com/2026/05/22/survey-finds-most-boulder-residents-satisfied-with-quality-of-life/",
       "source": "BizWest",
       "pub_date": "2026-05-22T13:54:51+00:00",
-      "age_hours": 7.565113466666666,
+      "age_hours": 8.519142642222223,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "As street camera use surges, Colorado legislators grapple with law enforcement, privacy implications",
       "link": "https://www.coloradopolitics.com/2026/05/22/as-street-camera-use-surges-colorado-legislators-grapple-with-law-enforcement-privacy-implications/",
       "source": "CO Politics",
       "pub_date": "2026-05-22T11:00:00+00:00",
-      "age_hours": 10.480260892777777,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "3 Colorado quantum-computing makers swap some equity for $100 million each in federal funding",
-      "link": "https://coloradosun.com/2026/05/22/colorado-quantum-computing-equity-federal-funding/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-22T10:00:00+00:00",
-      "age_hours": 11.47967786638889,
+      "age_hours": 11.43421865861111,
       "breaking": false,
       "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Low Arkansas River flows have Colorado rafting outfitters, communities bracing for a rocky summer",
-      "link": "https://coloradosun.com/2026/05/22/arkansas-river-rafting-low-flows/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-22T10:00:00+00:00",
-      "age_hours": 11.479677894444444,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Marijuana cultivator files class-action lawsuit over state \u2018distortions\u2019 in excise tax collections",
-      "link": "https://www.coloradopolitics.com/2026/05/21/marijuana-cultivator-files-class-action-lawsuit-over-state-distortions-in-excise-tax-collections/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-22T01:36:54+00:00",
-      "age_hours": 19.86526098722222,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "'Who are they?' Estes Park candy shop searching for couple after Taffy Cam catches proposal",
-      "link": "https://kdvr.com/news/local/who-are-they-estes-park-candy-shop-searching-for-couple-after-taffy-cam-catches-proposal/",
-      "source": "Fox31",
-      "pub_date": "2026-05-22T01:05:25+00:00",
-      "age_hours": 20.389722642499997,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "70-acre annexation plan advances in east Fort Collins",
-      "link": "https://bizwest.com/2026/05/21/70-acre-annexation-plan-advances-in-east-fort-collins/",
-      "source": "BizWest",
-      "pub_date": "2026-05-21T21:44:38+00:00",
-      "age_hours": 23.735391275833333,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Boulder County admin leaving for gov leadership role in Santa Barbara",
-      "link": "https://bizwest.com/2026/05/21/boulder-county-admin-leaving-for-gov-leadership-role-in-santa-barbara/",
-      "source": "BizWest",
-      "pub_date": "2026-05-21T21:37:27+00:00",
-      "age_hours": 23.855113504166663,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Officer sees 2 street races in same day, vehicles impounded",
-      "link": "https://kdvr.com/news/local/officer-sees-2-street-races-in-same-day-vehicles-impounded/",
-      "source": "Fox31",
-      "pub_date": "2026-05-21T20:23:34+00:00",
-      "age_hours": 25.087222596388887,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado governor signs executive order banning sugary drinks at state functions",
-      "link": "https://coloradosun.com/2026/05/21/polis-soda-ban-healthy-eating-executive-order/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-21T19:52:55+00:00",
-      "age_hours": 25.597733860555554,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Design Within Reach to open Saturday in long-vacant Boulder Macy\u2019s",
-      "link": "https://bizwest.com/2026/05/21/design-within-reach-to-open-saturday-in-long-vacant-boulder-macys/",
-      "source": "BizWest",
-      "pub_date": "2026-05-21T19:45:12+00:00",
-      "age_hours": 25.725946873333335,
-      "breaking": false,
-      "time_ago": "1 day ago"
     }
   ]
 }
