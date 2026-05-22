@@ -1,150 +1,168 @@
 {
   "fetched_date": "2026-05-22",
-  "fetched_at": "2026-05-22 20:36:57",
+  "fetched_at": "2026-05-22 21:29:03",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Shake Shack moves up Fort Collins opening date",
+      "link": "https://bizwest.com/2026/05/22/shake-shack-moves-up-fort-collins-opening-date/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T21:27:57+00:00",
+      "age_hours": 0.0134461775,
+      "breaking": true,
+      "time_ago": "0 min ago"
+    },
+    {
+      "title": "Aurora prep sports scoreboard, 5.22.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-5-22-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-22T21:23:12+00:00",
+      "age_hours": 0.09396130805555557,
+      "breaking": true,
+      "time_ago": "5 min ago"
+    },
     {
       "title": "Woman killed by RTD train in Denver, police say",
       "link": "https://www.9news.com/article/traffic/train-hits-pedestrian-denver/73-21d4898e-89a6-421b-bd97-0f29515ca82a",
       "source": "9News",
       "pub_date": "2026-05-22T20:03:01+00:00",
-      "age_hours": 0.5605711730555556,
+      "age_hours": 1.4295046863888887,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado restaurants among Yelp Elites' top 100 BBQ restaurants in the US",
       "link": "https://kdvr.com/news/nationalworld-news/colorado-restaurants-among-yelp-elites-top-100-bbq-restaurants-in-the-us/",
       "source": "Fox31",
       "pub_date": "2026-05-22T18:59:41+00:00",
-      "age_hours": 1.6164183894444444,
+      "age_hours": 2.4852780980555553,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Missing child found",
       "link": "https://www.9news.com/article/news/local/missing-denver-3-year-old/73-2088e3b6-6ee3-43bc-bc4d-b69ce1e17a00",
       "source": "9News",
       "pub_date": "2026-05-22T16:36:16+00:00",
-      "age_hours": 4.006404618055555,
+      "age_hours": 4.875338131388888,
       "breaking": true,
       "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Local Investor Buys Former John Fielder Studio Building On Santa Fe",
+      "link": "https://www.bisnow.com/denver/news/retail/former-john-fielder-studio-along-santa-fe-drive-sells-for-nearly-19m-134711",
+      "source": "Bisnow",
+      "pub_date": "2026-05-22T15:41:12-04:00",
+      "age_hours": 1.7927467233333334,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado roads and skies expected to be busy this Memorial Day; CDOT advises early travel",
       "link": "https://www.9news.com/article/traffic/memorial-day-summer-travel-colorado/73-2f22e0ad-59d6-4d13-88c3-6d524bc4367c",
       "source": "9News",
       "pub_date": "2026-05-22T14:19:40+00:00",
-      "age_hours": 6.283071335833334,
+      "age_hours": 7.152004849722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "UCHealth buys land east of Berthoud",
       "link": "https://bizwest.com/2026/05/22/uchealth-buys-land-east-of-berthoud/",
       "source": "BizWest",
       "pub_date": "2026-05-22T14:06:13+00:00",
-      "age_hours": 6.506300400555556,
+      "age_hours": 7.375668955277778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Infleqtion deal with Dept. of Commerce could be worth $100M",
       "link": "https://bizwest.com/2026/05/22/infleqtion-deal-with-dept-of-commerce-could-be-worth-100m/",
       "source": "BizWest",
       "pub_date": "2026-05-22T14:02:11+00:00",
-      "age_hours": 6.573523112777778,
+      "age_hours": 7.4428912075,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Survey finds most Boulder residents satisfied with quality of life",
       "link": "https://bizwest.com/2026/05/22/survey-finds-most-boulder-residents-satisfied-with-quality-of-life/",
       "source": "BizWest",
       "pub_date": "2026-05-22T13:54:51+00:00",
-      "age_hours": 6.695745376944445,
+      "age_hours": 7.565113466666666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Open-air plaza reopens at Denver's airport",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/park-on-the-plaza-denver-international-airport/73-ed542a2b-1644-4352-9787-00f02d561f5a",
-      "source": "9News",
-      "pub_date": "2026-05-22T12:22:35+00:00",
-      "age_hours": 8.234460303333334,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "As street camera use surges, Colorado legislators grapple with law enforcement, privacy implications",
       "link": "https://www.coloradopolitics.com/2026/05/22/as-street-camera-use-surges-colorado-legislators-grapple-with-law-enforcement-privacy-implications/",
       "source": "CO Politics",
       "pub_date": "2026-05-22T11:00:00+00:00",
-      "age_hours": 9.611570254722222,
+      "age_hours": 10.480260892777777,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "3 Colorado quantum-computing makers swap some equity for $100 million each in federal funding",
       "link": "https://coloradosun.com/2026/05/22/colorado-quantum-computing-equity-federal-funding/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-22T10:00:00+00:00",
-      "age_hours": 10.610742447222222,
+      "age_hours": 11.47967786638889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Low Arkansas River flows have Colorado rafting outfitters, communities bracing for a rocky summer",
       "link": "https://coloradosun.com/2026/05/22/arkansas-river-rafting-low-flows/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-22T10:00:00+00:00",
-      "age_hours": 10.610742475833334,
+      "age_hours": 11.479677894444444,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Marijuana cultivator files class-action lawsuit over state \u2018distortions\u2019 in excise tax collections",
       "link": "https://www.coloradopolitics.com/2026/05/21/marijuana-cultivator-files-class-action-lawsuit-over-state-distortions-in-excise-tax-collections/",
       "source": "CO Politics",
       "pub_date": "2026-05-22T01:36:54+00:00",
-      "age_hours": 18.99657034777778,
+      "age_hours": 19.86526098722222,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "'Who are they?' Estes Park candy shop searching for couple after Taffy Cam catches proposal",
       "link": "https://kdvr.com/news/local/who-are-they-estes-park-candy-shop-searching-for-couple-after-taffy-cam-catches-proposal/",
       "source": "Fox31",
       "pub_date": "2026-05-22T01:05:25+00:00",
-      "age_hours": 19.52086293611111,
+      "age_hours": 20.389722642499997,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "70-acre annexation plan advances in east Fort Collins",
       "link": "https://bizwest.com/2026/05/21/70-acre-annexation-plan-advances-in-east-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-05-21T21:44:38+00:00",
-      "age_hours": 22.86602318388889,
+      "age_hours": 23.735391275833333,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Boulder County admin leaving for gov leadership role in Santa Barbara",
       "link": "https://bizwest.com/2026/05/21/boulder-county-admin-leaving-for-gov-leadership-role-in-santa-barbara/",
       "source": "BizWest",
       "pub_date": "2026-05-21T21:37:27+00:00",
-      "age_hours": 22.985745412222222,
+      "age_hours": 23.855113504166663,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Officer sees 2 street races in same day, vehicles impounded",
       "link": "https://kdvr.com/news/local/officer-sees-2-street-races-in-same-day-vehicles-impounded/",
       "source": "Fox31",
       "pub_date": "2026-05-21T20:23:34+00:00",
-      "age_hours": 24.21836288888889,
+      "age_hours": 25.087222596388887,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://coloradosun.com/2026/05/21/polis-soda-ban-healthy-eating-executive-order/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-21T19:52:55+00:00",
-      "age_hours": 24.728798435,
+      "age_hours": 25.597733860555554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://bizwest.com/2026/05/21/design-within-reach-to-open-saturday-in-long-vacant-boulder-macys/",
       "source": "BizWest",
       "pub_date": "2026-05-21T19:45:12+00:00",
-      "age_hours": 24.856578778333336,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Some consumers, advocacy groups push Colorado regulators to reject Xcel Energy's $356M rate hike",
-      "link": "https://www.denver7.com/news/state-news/some-consumers-advocacy-groups-push-colorado-regulators-to-reject-xcel-energys-356m-rate-hike",
-      "source": "Denver7",
-      "pub_date": "2026-05-21T19:24:18+00:00",
-      "age_hours": 25.20598672638889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Saunders Construction Completes Renovation of Emich Kia Dealership",
-      "link": "https://milehighcre.com/saunders-construction-completes-renovation-of-emich-kia-dealership/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-21T17:10:44+00:00",
-      "age_hours": 27.43177065111111,
+      "age_hours": 25.725946873333335,
       "breaking": false,
       "time_ago": "1 day ago"
     }
