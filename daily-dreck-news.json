@@ -1,33 +1,24 @@
 {
   "fetched_date": "2026-05-22",
-  "fetched_at": "2026-05-22 18:42:26",
+  "fetched_at": "2026-05-22 19:35:56",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 6,
   "articles": [
     {
-      "title": "Girls Tennis: 2026 All-Colorado League teams",
-      "link": "https://sentinelcolorado.com/sports/preps/girls-tennis/girls-tennis-2026-all-colorado-league-teams/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-22T17:18:07+00:00",
-      "age_hours": 1.4015372830555557,
+      "title": "Colorado restaurants among Yelp Elites' top 100 BBQ restaurants in the US",
+      "link": "https://kdvr.com/news/nationalworld-news/colorado-restaurants-among-yelp-elites-top-100-bbq-restaurants-in-the-us/",
+      "source": "Fox31",
+      "pub_date": "2026-05-22T18:59:41+00:00",
+      "age_hours": 0.6013996675,
       "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Saturday forum in Aurora offers in-depth look at local Democratic primary candidates",
-      "link": "https://sentinelcolorado.com/metro/saturday-forum-in-aurora-offers-in-depth-look-at-local-democratic-primary-candidates/",
-      "source": "Sentinel",
-      "pub_date": "2026-05-22T16:43:37+00:00",
-      "age_hours": 1.9765375683333335,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "36 min ago"
     },
     {
       "title": "Missing child found",
       "link": "https://www.9news.com/article/news/local/missing-denver-3-year-old/73-2088e3b6-6ee3-43bc-bc4d-b69ce1e17a00",
       "source": "9News",
       "pub_date": "2026-05-22T16:36:16+00:00",
-      "age_hours": 2.098364848611111,
+      "age_hours": 2.9914697075,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -36,61 +27,88 @@
       "link": "https://www.9news.com/article/traffic/memorial-day-summer-travel-colorado/73-2f22e0ad-59d6-4d13-88c3-6d524bc4367c",
       "source": "9News",
       "pub_date": "2026-05-22T14:19:40+00:00",
-      "age_hours": 4.375031578333333,
+      "age_hours": 5.268136454444445,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "UCHealth buys land east of Berthoud",
+      "link": "https://bizwest.com/2026/05/22/uchealth-buys-land-east-of-berthoud/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T14:06:13+00:00",
+      "age_hours": 5.487851467222223,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Infleqtion deal with Dept. of Commerce could be worth $100M",
+      "link": "https://bizwest.com/2026/05/22/infleqtion-deal-with-dept-of-commerce-could-be-worth-100m/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T14:02:11+00:00",
+      "age_hours": 5.555074292777778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Survey finds most Boulder residents satisfied with quality of life",
+      "link": "https://bizwest.com/2026/05/22/survey-finds-most-boulder-residents-satisfied-with-quality-of-life/",
+      "source": "BizWest",
+      "pub_date": "2026-05-22T13:54:51+00:00",
+      "age_hours": 5.677296554166667,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Open-air plaza reopens at Denver's airport",
       "link": "https://www.9news.com/article/travel/denver-international-airport/park-on-the-plaza-denver-international-airport/73-ed542a2b-1644-4352-9787-00f02d561f5a",
       "source": "9News",
       "pub_date": "2026-05-22T12:22:35+00:00",
-      "age_hours": 6.326420555277778,
+      "age_hours": 7.219525428333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "As street camera use surges, Colorado legislators grapple with law enforcement, privacy implications",
       "link": "https://www.coloradopolitics.com/2026/05/22/as-street-camera-use-surges-colorado-legislators-grapple-with-law-enforcement-privacy-implications/",
       "source": "CO Politics",
       "pub_date": "2026-05-22T11:00:00+00:00",
-      "age_hours": 7.7033917625,
+      "age_hours": 8.596351320277778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Business owners in the new Broadway General Improvement District say it has yet to deliver promised cleanup",
       "link": "https://www.9news.com/article/news/local/new-broadway-general-improvement-district-cleanup/73-61591559-60a4-4be1-9a00-4dc0269b18ce",
       "source": "9News",
       "pub_date": "2026-05-22T10:33:41+00:00",
-      "age_hours": 8.141420592222222,
+      "age_hours": 9.034525465277778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "3 Colorado quantum-computing makers swap some equity for $100 million each in federal funding",
       "link": "https://coloradosun.com/2026/05/22/colorado-quantum-computing-equity-federal-funding/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-22T10:00:00+00:00",
-      "age_hours": 8.702657476666667,
+      "age_hours": 9.595801605,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Low Arkansas River flows have Colorado rafting outfitters, communities bracing for a rocky summer",
       "link": "https://coloradosun.com/2026/05/22/arkansas-river-rafting-low-flows/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-22T10:00:00+00:00",
-      "age_hours": 8.702657507777777,
+      "age_hours": 9.595801632222223,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Marijuana cultivator files class-action lawsuit over state \u2018distortions\u2019 in excise tax collections",
       "link": "https://www.coloradopolitics.com/2026/05/21/marijuana-cultivator-files-class-action-lawsuit-over-state-distortions-in-excise-tax-collections/",
       "source": "CO Politics",
       "pub_date": "2026-05-22T01:36:54+00:00",
-      "age_hours": 17.08839187111111,
+      "age_hours": 17.98135142222222,
       "breaking": false,
       "time_ago": "17 hrs ago"
     },
@@ -99,88 +117,70 @@
       "link": "https://kdvr.com/news/local/who-are-they-estes-park-candy-shop-searching-for-couple-after-taffy-cam-catches-proposal/",
       "source": "Fox31",
       "pub_date": "2026-05-22T01:05:25+00:00",
-      "age_hours": 17.612738140833333,
+      "age_hours": 18.50584421722222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
+    },
+    {
+      "title": "70-acre annexation plan advances in east Fort Collins",
+      "link": "https://bizwest.com/2026/05/21/70-acre-annexation-plan-advances-in-east-fort-collins/",
+      "source": "BizWest",
+      "pub_date": "2026-05-21T21:44:38+00:00",
+      "age_hours": 21.847574363611113,
+      "breaking": false,
+      "time_ago": "21 hrs ago"
+    },
+    {
+      "title": "Boulder County admin leaving for gov leadership role in Santa Barbara",
+      "link": "https://bizwest.com/2026/05/21/boulder-county-admin-leaving-for-gov-leadership-role-in-santa-barbara/",
+      "source": "BizWest",
+      "pub_date": "2026-05-21T21:37:27+00:00",
+      "age_hours": 21.9672965925,
+      "breaking": false,
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Officer sees 2 street races in same day, vehicles impounded",
       "link": "https://kdvr.com/news/local/officer-sees-2-street-races-in-same-day-vehicles-impounded/",
       "source": "Fox31",
       "pub_date": "2026-05-21T20:23:34+00:00",
-      "age_hours": 22.31023807777778,
+      "age_hours": 23.20334416861111,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Colorado governor signs executive order banning sugary drinks at state functions",
       "link": "https://coloradosun.com/2026/05/21/polis-soda-ban-healthy-eating-executive-order/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-21T19:52:55+00:00",
-      "age_hours": 22.820713500833335,
+      "age_hours": 23.71385760305556,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
+    },
+    {
+      "title": "Design Within Reach to open Saturday in long-vacant Boulder Macy\u2019s",
+      "link": "https://bizwest.com/2026/05/21/design-within-reach-to-open-saturday-in-long-vacant-boulder-macys/",
+      "source": "BizWest",
+      "pub_date": "2026-05-21T19:45:12+00:00",
+      "age_hours": 23.83812996138889,
+      "breaking": false,
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Some consumers, advocacy groups push Colorado regulators to reject Xcel Energy's $356M rate hike",
       "link": "https://www.denver7.com/news/state-news/some-consumers-advocacy-groups-push-colorado-regulators-to-reject-xcel-energys-356m-rate-hike",
       "source": "Denver7",
       "pub_date": "2026-05-21T19:24:18+00:00",
-      "age_hours": 23.29789569638889,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Saunders Construction Completes Renovation of Emich Kia Dealership",
-      "link": "https://milehighcre.com/saunders-construction-completes-renovation-of-emich-kia-dealership/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-21T17:10:44+00:00",
-      "age_hours": 25.5236556775,
+      "age_hours": 24.191014673333335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
     {
-      "title": "Mile High Dine and Recline: Hotel Maverick, Grand Junction",
-      "link": "https://milehighcre.com/mile-high-dine-and-recline-hotel-maverick-grand-junction/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-21T15:29:17+00:00",
-      "age_hours": 27.214489028611112,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 05.22.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-05-22-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-21T15:22:28+00:00",
-      "age_hours": 27.32810044083333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Nearly $1.8 million historic Denver home for sale in Five Points neighborhood",
-      "link": "https://kdvr.com/news/local/nearly-1-8-million-historic-denver-home-for-sale-in-five-points-neighborhood/",
-      "source": "Fox31",
-      "pub_date": "2026-05-21T14:35:45+00:00",
-      "age_hours": 28.107182646111113,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "'He lives it and breathes it:' Dedicated Berthoud firefighter hospitalized after I-25 collision",
-      "link": "https://kdvr.com/news/local/he-lives-it-and-breathes-it-dedicated-berthoud-firefighter-hospitalized-after-i-25-collision/",
-      "source": "Fox31",
-      "pub_date": "2026-05-21T03:39:44+00:00",
-      "age_hours": 39.040793765277776,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Respite Care Celebrates Grand Opening of New Facility",
-      "link": "https://milehighcre.com/respite-care-celebrates-grand-opening-of-new-facility/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-21T01:33:54+00:00",
-      "age_hours": 41.137544903055556,
+      "title": "Aerospace firm could add 400+ jobs at planned HQ, factory, testing facility",
+      "link": "https://bizwest.com/2026/05/21/aerospace-firm-could-add-400-jobs-at-planned-hq-factory-testing-facility/",
+      "source": "BizWest",
+      "pub_date": "2026-05-21T15:58:53+00:00",
+      "age_hours": 27.610074445833334,
       "breaking": false,
       "time_ago": "1 day ago"
     }
