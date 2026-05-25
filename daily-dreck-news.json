@@ -1,60 +1,60 @@
 {
   "fetched_date": "2026-05-25",
-  "fetched_at": "2026-05-25 07:43:28",
+  "fetched_at": "2026-05-25 09:27:34",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 0,
   "articles": [
     {
       "title": "Specialty drinks in 25 states recalled due to salmonella concerns",
       "link": "https://www.9news.com/article/news/nation-world/specialty-drinks-recalled-salmonella-concerns/507-a7c6c4aa-80ed-4863-9d5d-6457269800ad",
       "source": "9News",
       "pub_date": "2026-05-25T02:43:30+00:00",
-      "age_hours": 4.995326333055556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.730451104722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver police investigating shooting near Sloan's Lake Park",
       "link": "https://kdvr.com/news/local/denver-police-investigating-shooting-near-sloans-lake-park/",
       "source": "Fox31",
       "pub_date": "2026-05-25T01:50:45+00:00",
-      "age_hours": 5.874729920277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.609892043333334,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Demolition planned at collapsed Denver parking garage, with cars still inside",
       "link": "https://kdvr.com/news/local/demolition-planned-at-collapsed-denver-parking-garage-with-cars-still-inside/",
       "source": "Fox31",
       "pub_date": "2026-05-24T23:27:27+00:00",
-      "age_hours": 8.2630633,
+      "age_hours": 9.998225422222221,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "When thrifting isn\u2019t thrifty: A look at the market trends making secondhand buying unaffordable",
       "link": "https://coloradosun.com/2026/05/24/boulder-colorado-thrifting-shopping-economy-high-costs/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-24T09:30:00+00:00",
-      "age_hours": 22.220201774444444,
+      "age_hours": 23.955341176666664,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "\u201cTake that idealism and put it into some real dollars to support these shops and restaurants.\u201d",
       "link": "https://www.westword.com/opinion/colfax-brt-opinions-collide-over-denver-business-impact-40889262/",
       "source": "Westword",
       "pub_date": "2026-05-24T07:20:17-06:00",
-      "age_hours": 18.382636074444445,
+      "age_hours": 20.117744138055556,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Red Cross volunteers install free smoke alarms in dozens of Denver homes",
       "link": "https://kdvr.com/news/local/red-cross-volunteers-install-free-smoke-alarms-in-dozens-of-denver-homes/",
       "source": "Fox31",
       "pub_date": "2026-05-23T23:14:25+00:00",
-      "age_hours": 32.480285566388886,
+      "age_hours": 34.21544769027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +63,7 @@
       "link": "https://www.coloradopolitics.com/2026/05/23/gazette-centennial-institute-cosponsoring-republican-gubernatorial-debate-tuesday/",
       "source": "CO Politics",
       "pub_date": "2026-05-23T15:00:00+00:00",
-      "age_hours": 40.720890571944445,
+      "age_hours": 42.45595081555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://coloradosun.com/2026/05/23/colorado-front-range-foreclosures-housing/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-23T10:00:00+00:00",
-      "age_hours": 45.720202299722224,
+      "age_hours": 47.455341652222224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://sentinelcolorado.com/metro/police-arrest-mother-of-4-year-old-aurora-boy-in-connection-with-his-beating-death/",
       "source": "Sentinel",
       "pub_date": "2026-05-23T03:36:39+00:00",
-      "age_hours": 52.11019538638889,
+      "age_hours": 53.84514964611111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://bizwest.com/2026/05/22/local-quantum-firms-look-to-cash-in-on-federal-largesse/",
       "source": "BizWest",
       "pub_date": "2026-05-22T22:06:25+00:00",
-      "age_hours": 57.61243361888889,
+      "age_hours": 59.347271477777774,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://bizwest.com/2026/05/22/broomfield-clinic-among-intermountain-health-facilities-closing/",
       "source": "BizWest",
       "pub_date": "2026-05-22T22:00:36+00:00",
-      "age_hours": 57.7093780775,
+      "age_hours": 59.444215936388886,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://bizwest.com/2026/05/22/one-greeley-campaign-finance-complaint-settled-others-pending/",
       "source": "BizWest",
       "pub_date": "2026-05-22T21:51:43+00:00",
-      "age_hours": 57.857434179444446,
+      "age_hours": 59.59227198277778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/05/22/colorado-cracks-or-competitive/",
       "source": "CO Politics",
       "pub_date": "2026-05-22T21:51:34+00:00",
-      "age_hours": 57.861446185,
+      "age_hours": 59.59650642361111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://bizwest.com/2026/05/22/larimer-completes-last-connection-of-poudre-river-trail/",
       "source": "BizWest",
       "pub_date": "2026-05-22T21:43:31+00:00",
-      "age_hours": 57.99410087861111,
+      "age_hours": 59.72893867944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/05/22/loveland-based-whiskey-named-worlds-best/",
       "source": "BizWest",
       "pub_date": "2026-05-22T21:37:58+00:00",
-      "age_hours": 58.08660090861111,
+      "age_hours": 59.82143870638889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://bizwest.com/2026/05/22/larimer-county-posts-lowest-local-jobless-rate-in-april/",
       "source": "BizWest",
       "pub_date": "2026-05-22T21:32:56+00:00",
-      "age_hours": 58.17048983166667,
+      "age_hours": 59.90532762638889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/05/22/shake-shack-moves-up-fort-collins-opening-date/",
       "source": "BizWest",
       "pub_date": "2026-05-22T21:27:57+00:00",
-      "age_hours": 58.25354542694444,
+      "age_hours": 59.98838321222222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.bisnow.com/denver/news/retail/former-john-fielder-studio-along-santa-fe-drive-sells-for-nearly-19m-134711",
       "source": "Bisnow",
       "pub_date": "2026-05-22T15:41:12-04:00",
-      "age_hours": 60.03322231111111,
+      "age_hours": 61.768481790555555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/05/22/uchealth-buys-land-east-of-berthoud/",
       "source": "BizWest",
       "pub_date": "2026-05-22T14:06:13+00:00",
-      "age_hours": 65.61576768138889,
+      "age_hours": 67.35060546194444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/05/22/infleqtion-deal-with-dept-of-commerce-could-be-worth-100m/",
       "source": "BizWest",
       "pub_date": "2026-05-22T14:02:11+00:00",
-      "age_hours": 65.68298992944445,
+      "age_hours": 67.41782770638889,
       "breaking": false,
       "time_ago": "2 days ago"
     }
