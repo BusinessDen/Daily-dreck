@@ -1,159 +1,168 @@
 {
   "fetched_date": "2026-05-27",
-  "fetched_at": "2026-05-27 18:53:05",
+  "fetched_at": "2026-05-27 19:44:22",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 6,
   "articles": [
     {
-      "title": "Price of 1-Bedroom in Denver Down 7.6% YoY",
-      "link": "https://milehighcre.com/price-of-1-bedroom-in-denver-down-7-6-yoy/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-27T18:50:50+00:00",
-      "age_hours": 0.03296467861111111,
+      "title": "Dry Dock opens pub in Denver\u2019s Wash Park",
+      "link": "https://bizwest.com/2026/05/27/dry-dock-opens-pub-in-denvers-wash-park/",
+      "source": "BizWest",
+      "pub_date": "2026-05-27T19:19:09+00:00",
+      "age_hours": 0.4110863911111111,
       "breaking": true,
-      "time_ago": "1 min ago"
+      "time_ago": "24 min ago"
+    },
+    {
+      "title": "Colorado overhauls state IT office, lays off 173 employees after negative feedback",
+      "link": "https://coloradosun.com/2026/05/27/colorado-overhauls-state-it-office-lays-off-employees/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-05-27T19:15:00+00:00",
+      "age_hours": 0.48489716888888884,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
+    {
+      "title": "Boulder\u2019s TissueForm selected for MedTech Innovator accelerator",
+      "link": "https://bizwest.com/2026/05/27/boulders-tissueform-selected-for-medtech-innovator-accelerator/",
+      "source": "BizWest",
+      "pub_date": "2026-05-27T19:14:06+00:00",
+      "age_hours": 0.4952535691666667,
+      "breaking": true,
+      "time_ago": "29 min ago"
     },
     {
       "title": "Morgan Wallen arrives in Denver: What to know for the stadium concerts",
       "link": "https://www.9news.com/article/life/style/colorado-guide/morgan-wallen-denver-stadium-tour-concerts/73-e5c7ab13-1c21-4b0e-ae82-433ab94a00bd",
       "source": "9News",
       "pub_date": "2026-05-27T16:04:03+00:00",
-      "age_hours": 2.8129081527777777,
+      "age_hours": 3.6677134088888885,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "9Things to do in Colorado this weekend: May 29-31",
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-denver-events-guide/73-57995146-1719-431f-9d45-622cd5571ec5",
       "source": "9News",
       "pub_date": "2026-05-27T15:39:18+00:00",
-      "age_hours": 3.2254081758333335,
+      "age_hours": 4.080213429166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Why 2026 Could Mark a Turning Point for CRE Deal Activity",
-      "link": "https://milehighcre.com/why-2026-could-mark-a-turning-point-for-cre-deal-activity/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-05-27T15:26:15+00:00",
-      "age_hours": 3.4426869224999996,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver's Elyria-Swansea celebrates new indoor pool after decade-long wait",
       "link": "https://www.9news.com/article/life/style/colorado-guide/elyria-swansea-neighborhood-new-pool/73-36e321d7-e832-41a7-99bf-7174e4c4ae32",
       "source": "9News",
       "pub_date": "2026-05-27T14:25:48+00:00",
-      "age_hours": 4.450408194722222,
+      "age_hours": 5.305213448055556,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver bar makes prestigious list for worldwide bar awards",
       "link": "https://kdvr.com/denver-guide/food-drink/denver-bar-makes-prestigious-list-for-worldwide-bar-awards/",
       "source": "Fox31",
       "pub_date": "2026-05-27T13:42:47+00:00",
-      "age_hours": 5.167466646388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.022356716388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Stoney\u2019s to take over former Oskar Blues location in Colorado Springs",
       "link": "https://bizwest.com/2026/05/27/stoneys-to-take-over-former-oskar-blues-location-in-colorado-springs/",
       "source": "BizWest",
       "pub_date": "2026-05-27T13:30:54+00:00",
-      "age_hours": 5.364215073055556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.215253616111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Tapped: Worst winter in memory triggers cascading economic strain in Colorado mountain towns",
       "link": "https://www.coloradopolitics.com/2026/05/27/tapped-worst-winter-in-memory-triggers-cascading-economic-strain-in-colorado-mountain-towns/",
       "source": "CO Politics",
       "pub_date": "2026-05-27T11:00:00+00:00",
-      "age_hours": 7.8806948127777785,
+      "age_hours": 8.735839942222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Cargill\u2019s lockout of 1,700 workers stopped beef production, sending ripples through the supply chain",
       "link": "https://coloradosun.com/2026/05/27/cargills-lockout-of-workers-sends-ripples-through-supply-chain/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-27T10:01:00+00:00",
-      "age_hours": 8.863592659166667,
+      "age_hours": 9.718230923611111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado mountain town real estate slowing down after heady post-pandemic surge",
       "link": "https://coloradosun.com/2026/05/27/colorado-mountain-town-real-estate/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-27T10:01:00+00:00",
-      "age_hours": 8.863593216388889,
+      "age_hours": 9.718231474722222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Cotter Corp claims it is running out of money and can\u2019t post a bond to assure uranium mill cleanup in Ca\u00f1on City",
       "link": "https://coloradosun.com/2026/05/27/canon-city-uranium-cleanup-cotter-corp-money-issues/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-27T10:00:00+00:00",
-      "age_hours": 8.880259895833333,
+      "age_hours": 9.734898153333333,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Here are 10 festivals and celebrations that define Colorado culture",
       "link": "https://coloradosun.com/2026/05/27/colorado-150-festivals-celebrations/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-27T10:00:00+00:00",
-      "age_hours": 8.880259913888889,
+      "age_hours": 9.73489817111111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "The view of Pikes Peak from the new Tava House in Woodland Park is better than your view. Plus, feel like an auntie at Stix and Soul in Colorado Springs",
       "link": "https://www.cpr.org/2026/05/27/the-view-pikes-peak-tava-house-woodland-park-auntie-stix-soul-colorado-springs/",
       "source": "CPR",
       "pub_date": "2026-05-27T10:00:00+00:00",
-      "age_hours": 8.880358778055555,
+      "age_hours": 9.735085743333334,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Copper thefts threaten 911, emergency communications in Colorado",
       "link": "https://www.coloradopolitics.com/2026/05/26/copper-thefts-threaten-911-emergency-communications-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-05-27T00:29:21+00:00",
-      "age_hours": 18.391528271111113,
+      "age_hours": 19.246673408333333,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Quantinuum IPO pricing values Broomfield firm at upwards of $13B",
       "link": "https://bizwest.com/2026/05/26/quantinuum-ipo-pricing-values-broomfield-firm-at-upwards-of-13b/",
       "source": "BizWest",
       "pub_date": "2026-05-27T00:10:25+00:00",
-      "age_hours": 18.705603979166668,
+      "age_hours": 19.556642513055554,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Colorado lunar rover picked by NASA to provide transport for Artemis moon missions",
       "link": "https://coloradosun.com/2026/05/26/colorado-lunar-rover-nasa-artemis-moon/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-26T23:43:36+00:00",
-      "age_hours": 19.153593793611112,
+      "age_hours": 20.008232047499998,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "City moves to suspend East Colfax smoke shop\u2019s license for selling products to underage kids",
       "link": "https://denverite.com/2026/05/26/city-moves-to-suspend-east-colfax-smoke-shops-license-for-selling-products-to-underage-kids/",
       "source": "Denverite",
       "pub_date": "2026-05-26T22:52:33+00:00",
-      "age_hours": 20.004461827222222,
+      "age_hours": 20.85915714277778,
       "breaking": false,
       "time_ago": "20 hrs ago"
     },
@@ -162,25 +171,16 @@
       "link": "https://www.coloradopolitics.com/2026/05/26/colorado-business-groups-host-gubernatorial-forum-thursday/",
       "source": "CO Politics",
       "pub_date": "2026-05-26T21:55:37+00:00",
-      "age_hours": 20.953750508888888,
+      "age_hours": 21.808895645833335,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "FNL runway widening project to begin Monday",
       "link": "https://bizwest.com/2026/05/26/fnl-runway-widening-project-to-begin-monday/",
       "source": "BizWest",
       "pub_date": "2026-05-26T21:23:08+00:00",
-      "age_hours": 21.493659541944442,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "CDLE: Software developers outnumber fast-food workers in Boulder metro",
-      "link": "https://bizwest.com/2026/05/26/cdle-software-developers-outnumber-fast-food-workers-in-boulder-metro/",
-      "source": "BizWest",
-      "pub_date": "2026-05-26T19:57:07+00:00",
-      "age_hours": 22.927271156666666,
+      "age_hours": 22.34469807416667,
       "breaking": false,
       "time_ago": "22 hrs ago"
     }
