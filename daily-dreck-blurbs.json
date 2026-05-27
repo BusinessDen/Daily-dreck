@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-05-25",
-  "lead_headline": "Weekend recap: seven new restaurant leads detected since Friday, including Snarf's Hampden grand opening, Black Rock Coffee drive-thru conversion, and Spitz RiNo launch",
+  "generated_date": "2026-05-27",
+  "lead_headline": "Restaurant tracker enters day two of total silence\u2014zero new leads detected across all metro channels as Memorial Day freeze persists",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Seven opening leads since Friday</strong>: Snarf's Sandwiches Hampden (opened 5/19), Black Rock Coffee Hampden (Panera conversion), Spitz Mediterranean RiNo, Sundae ice cream flagship downtown, plus El Pollo Loco Lakewood, Denver Caf\u00e9 & Kava Park Hill, Port of Subs Littleton. <strong>Two closures</strong>: Taco John's Thornton, California Pizza Kitchen Cherry Creek (confirmed summer 2025 shutdown after 25 years).",
+      "blurb": "<strong>Zero new leads today</strong>\u2014complete detection blackout continues from Monday as post-holiday dormancy extends into Tuesday. Active pipeline holds at 188 total (106 openings, 82 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+7",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22122",
-        "period": "since Friday"
+        "value2": "0",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 25 of regulatory blackout</strong> \u2014 Colorado's liquor license apparatus remains in total suspended animation with zero applications processed, zero status updates logged, zero administrative movement since the April 30 cutoff. The database freeze now spans the entire May calendar as the state's regulatory machinery sits in complete paralysis with no official acknowledgment of the outage, no contingency protocols activated, no timeline communicated to licensees whose business expansion plans remain frozen indefinitely. All 12,396 tracked licenses locked in bureaucratic stasis as the invisible application backlog compounds daily behind administrative walls while officials maintain absolute silence on restoration plans or even basic acknowledgment that normal operations have ceased for nearly a full month.",
+      "blurb": "<strong>Day 26 of total regulatory shutdown</strong>\u2014Colorado's liquor licensing system remains in complete suspended animation with zero applications filed, zero status updates processed, zero administrative activity recorded since April 30. The database freeze now extends across the entire May calendar as the state's regulatory apparatus maintains absolute paralysis with no official acknowledgment, no contingency protocols, no timeline communicated to licensees whose expansion plans remain indefinitely frozen. All 12,396 tracked licenses locked in bureaucratic stasis as the invisible application backlog compounds behind administrative walls while officials sustain their month-long silence on restoration plans or even basic recognition that normal operations ceased 26 days ago.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>One mention yesterday</strong>, sustaining the single-digit daily baseline that defines late May \u2014 weekly total hits 62 across 11 sources, up 29% from prior week's 48 as momentum continues building toward month-end. Instagram dominates with 25 mentions (40% of weekly volume), Reddit delivers 11, Denver Post contributes 7, Facebook adds 6, X/Twitter rounds out the top five with 4. Google News RSS drives 98% of discovery (61 of 62 mentions). The week-over-week acceleration persists as May tracking nears completion with 212 monthly mentions accumulated, well above typical run rates as pickup velocity holds steady through the final stretch despite the Memorial Day weekend lull.",
+      "blurb": "<strong>Three mentions yesterday</strong>, maintaining the single-digit daily cadence that has defined the post-Memorial Day period\u2014weekly total climbs to 48 across 10 unique sources, down 14% from prior week's 56 as the holiday weekend suppresses pickup velocity. Instagram commands 19 mentions (40% of weekly volume), Reddit delivers 9, Facebook contributes 6, Denver Post adds 5, Hoodline rounds out the top five with 3. Google News RSS drives 100% of discovery (all 48 mentions). The week-over-week decline reverses the late-May acceleration pattern as Memorial Day weekend creates predictable slowdown in media citation activity, though monthly tracking remains elevated at 213 total mentions as May approaches its final days.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "3",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "62",
-        "class1": "up",
+        "value1": "48",
+        "class1": "",
         "label2": "sources",
-        "value2": "11",
+        "value2": "10",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +2 since Friday</strong> (4 new, 2 canceled) as the weekend window delivers modest gains following the single-subscriber trickle on May 24. MTD advances to +23 (+1.0/day average), 90-day net holds at +135. The seven-day window shows net +1 (15 new, 14 canceled), effectively flat as churn matches acquisition velocity in near-perfect equilibrium. Pattern remains unchanged: May's concentrated mid-month surge (May 12-15) generated the bulk of monthly progress, then activity compressed to minimal levels through a sustained drought that persists into Memorial Day weekend. YTD pace of +1.2/day continues outpacing the anemic MTD crawl, underscoring how thoroughly momentum evaporated after the brief May 12-15 spike as daily flow stabilizes at dormant levels.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) as Memorial Day flatline extends into Tuesday\u2014zero subscriber movement for second consecutive day. MTD holds at +23 (+0.9/day), 90-day net stands at +135. The seven-day window shows net +2 (6 new, 4 canceled) as churn ratio stays favorable but volume remains anemic. Pattern crystallizes: May's concentrated mid-month surge (May 12-15) generated the bulk of monthly progress, then activity collapsed to near-dormant levels through a sustained 12-day drought that now encompasses the holiday weekend and beyond. YTD pace of +1.2/day continues outpacing the sluggish MTD crawl, highlighting how thoroughly momentum evaporated after the brief May spike as daily flow stabilizes at minimal-to-zero levels.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "23",
       "net_ytd": "180",
-      "net_mtd_per_day": "1.0",
+      "net_mtd_per_day": "0.9",
       "net_ytd_per_day": "1.2",
       "annual_mtd": "18",
-      "annual_ytd": "144",
+      "annual_ytd": "142",
       "monthly_mtd": "5",
-      "monthly_ytd": "36"
+      "monthly_ytd": "38"
     }
   }
 }
