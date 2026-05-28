@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-05-27",
-  "lead_headline": "Restaurant tracker enters day two of total silence\u2014zero new leads detected across all metro channels as Memorial Day freeze persists",
+  "generated_date": "2026-05-28",
+  "lead_headline": "Restaurant tracker breaks two-day silence with zero new leads but 188 active leads in pipeline\u2014liquor licensing freeze enters day 28",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads today</strong>\u2014complete detection blackout continues from Monday as post-holiday dormancy extends into Tuesday. Active pipeline holds at 188 total (106 openings, 82 closures).",
+      "blurb": "<strong>Zero new leads Wednesday</strong>\u2014detection drought extends to day three as post-holiday silence continues. Active pipeline unchanged: 188 total (106 openings, 82 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 26 of total regulatory shutdown</strong>\u2014Colorado's liquor licensing system remains in complete suspended animation with zero applications filed, zero status updates processed, zero administrative activity recorded since April 30. The database freeze now extends across the entire May calendar as the state's regulatory apparatus maintains absolute paralysis with no official acknowledgment, no contingency protocols, no timeline communicated to licensees whose expansion plans remain indefinitely frozen. All 12,396 tracked licenses locked in bureaucratic stasis as the invisible application backlog compounds behind administrative walls while officials sustain their month-long silence on restoration plans or even basic recognition that normal operations ceased 26 days ago.",
+      "blurb": "<strong>Day 28 of complete regulatory paralysis</strong>\u2014Colorado's liquor licensing apparatus now frozen for full four weeks with zero applications filed, zero status updates processed, zero administrative movement since April 30. The May blackout enters its final days with no indication of impending thaw as all 12,396 tracked licenses remain locked in bureaucratic deep freeze. State officials maintain absolute radio silence on restoration timeline while the invisible application backlog accumulates behind sealed administrative doors. Memorial Day week passes with no disruption to the disruption as the licensing system sustains its unprecedented month-long suspension.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,17 +59,17 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Three mentions yesterday</strong>, maintaining the single-digit daily cadence that has defined the post-Memorial Day period\u2014weekly total climbs to 48 across 10 unique sources, down 14% from prior week's 56 as the holiday weekend suppresses pickup velocity. Instagram commands 19 mentions (40% of weekly volume), Reddit delivers 9, Facebook contributes 6, Denver Post adds 5, Hoodline rounds out the top five with 3. Google News RSS drives 100% of discovery (all 48 mentions). The week-over-week decline reverses the late-May acceleration pattern as Memorial Day weekend creates predictable slowdown in media citation activity, though monthly tracking remains elevated at 213 total mentions as May approaches its final days.",
+      "blurb": "<strong>One mention Wednesday</strong>\u2014the third consecutive day of single-digit pickup volume as post-Memorial Day lethargy persists. Weekly total reaches 37 mentions across 10 sources, down 45% from prior week's 67 as the holiday hangover depresses citation velocity. Instagram leads with 13 mentions (35% of weekly volume), Facebook and Denver Post tied at 6 each, Reddit contributes 4, Hoodline adds 3. Google News RSS exclusively drives all discovery (100% of 37 mentions). The sharp week-over-week decline confirms Memorial Day weekend's dampening effect on media pickup patterns, though monthly tracking remains elevated at 215 total mentions as May approaches its close.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "48",
+        "value1": "37",
         "class1": "",
         "label2": "sources",
         "value2": "10",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) as Memorial Day flatline extends into Tuesday\u2014zero subscriber movement for second consecutive day. MTD holds at +23 (+0.9/day), 90-day net stands at +135. The seven-day window shows net +2 (6 new, 4 canceled) as churn ratio stays favorable but volume remains anemic. Pattern crystallizes: May's concentrated mid-month surge (May 12-15) generated the bulk of monthly progress, then activity collapsed to near-dormant levels through a sustained 12-day drought that now encompasses the holiday weekend and beyond. YTD pace of +1.2/day continues outpacing the sluggish MTD crawl, highlighting how thoroughly momentum evaporated after the brief May spike as daily flow stabilizes at minimal-to-zero levels.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled)\u2014Memorial Day flatline stretches to third consecutive day of zero movement. MTD holds at +23 (+0.9/day), 90-day net stands at +135. Seven-day window shows net +3 (6 new, 3 canceled) as the sustained post-surge drought enters week three. May's pattern now unmistakable: concentrated mid-month burst (May 12-15) drove the bulk of monthly gains, followed by 13-day near-blackout through holiday weekend and beyond. YTD pace of +1.2/day continues outpacing the anemic MTD crawl, underscoring how thoroughly momentum collapsed after the brief spike as daily flow settles into minimal-to-zero equilibrium.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "23",
       "net_ytd": "180",
       "net_mtd_per_day": "0.9",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "18",
-      "annual_ytd": "142",
-      "monthly_mtd": "5",
-      "monthly_ytd": "38"
+      "annual_mtd": "20",
+      "annual_ytd": "155",
+      "monthly_mtd": "3",
+      "monthly_ytd": "25"
     }
   }
 }
