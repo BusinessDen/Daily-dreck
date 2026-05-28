@@ -1,150 +1,159 @@
 {
-  "fetched_date": "2026-05-27",
-  "fetched_at": "2026-05-27 23:31:32",
+  "fetched_date": "2026-05-28",
+  "fetched_at": "2026-05-28 00:52:25",
   "article_count": 20,
   "breaking_count": 12,
   "articles": [
+    {
+      "title": "Here's where the Denver-to-Fort Collins passenger train will stop and why",
+      "link": "https://www.9news.com/article/travel/where-the-denver-to-fort-collins-passenger-train-will-stop/73-3b5d289f-5fa5-406f-8d15-f64ace390d39",
+      "source": "9News",
+      "pub_date": "2026-05-27T23:46:16+00:00",
+      "age_hours": 1.0981864994444446,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Indoor Go-Kart Racing\u00a0Opens in Thornton",
       "link": "https://milehighcre.com/indoor-go-kart-racing-opens-in-thornton/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-27T23:00:24+00:00",
-      "age_hours": 0.5139662880555556,
+      "age_hours": 1.86239744,
       "breaking": true,
-      "time_ago": "30 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado renewable electricity production has skyrocketed over past decade",
       "link": "https://www.cpr.org/2026/05/27/colorado-renewable-electricity/",
       "source": "CPR",
       "pub_date": "2026-05-27T21:25:44+00:00",
-      "age_hours": 2.0919593125000002,
+      "age_hours": 3.440361508888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Construction begins on downtown Wellington facelift",
       "link": "https://bizwest.com/2026/05/27/construction-begins-on-downtown-wellington-facelift/",
       "source": "BizWest",
       "pub_date": "2026-05-27T20:53:22+00:00",
-      "age_hours": 2.6308251336111113,
+      "age_hours": 3.978843066388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "State forces Fort Collins smoke shop to close",
       "link": "https://bizwest.com/2026/05/27/state-forces-fort-collins-smoke-shop-to-close/",
       "source": "BizWest",
       "pub_date": "2026-05-27T20:15:29+00:00",
-      "age_hours": 3.2622140375,
+      "age_hours": 4.610231978055555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado River\u2019s dire state demands action from urban water users, experts say \u2014 few are",
       "link": "https://sentinelcolorado.com/metro/colorado-rivers-dire-state-demands-action-from-urban-water-users-experts-say-few-are/",
       "source": "Sentinel",
       "pub_date": "2026-05-27T20:02:07+00:00",
-      "age_hours": 3.4861568883333334,
+      "age_hours": 4.834701570277777,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "180,000 signatures submitted to put Colorado road funding initiative on November ballot",
+      "link": "https://www.coloradopolitics.com/2026/05/27/180000-signatures-submitted-to-put-colorado-road-funding-initiative-on-november-ballot/",
+      "source": "CO Politics",
+      "pub_date": "2026-05-27T19:58:35+00:00",
+      "age_hours": 4.893555296111111,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "These are the five least expensive new cars you can buy in 2026, according to Edmunds",
       "link": "https://sentinelcolorado.com/uncategorized/these-are-the-five-least-expensive-new-cars-you-can-buy-in-2026-according-to-edmunds/",
       "source": "Sentinel",
       "pub_date": "2026-05-27T19:55:33+00:00",
-      "age_hours": 3.595601653333333,
+      "age_hours": 4.944146314166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Dry Dock opens pub in Denver\u2019s Wash Park",
       "link": "https://bizwest.com/2026/05/27/dry-dock-opens-pub-in-denvers-wash-park/",
       "source": "BizWest",
       "pub_date": "2026-05-27T19:19:09+00:00",
-      "age_hours": 4.201103462777778,
+      "age_hours": 5.549121902777777,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado overhauls state IT office, lays off 173 employees after negative feedback",
       "link": "https://coloradosun.com/2026/05/27/colorado-overhauls-state-it-office-lays-off-employees/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-27T19:15:00+00:00",
-      "age_hours": 4.2707263441666665,
+      "age_hours": 5.619134421666667,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Boulder\u2019s TissueForm selected for MedTech Innovator accelerator",
       "link": "https://bizwest.com/2026/05/27/boulders-tissueform-selected-for-medtech-innovator-accelerator/",
       "source": "BizWest",
       "pub_date": "2026-05-27T19:14:06+00:00",
-      "age_hours": 4.285270201944445,
+      "age_hours": 5.6332886391666674,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Gov. Polis signs bill to overhaul RTD board and governance",
       "link": "https://sentinelcolorado.com/metro/gov-polis-signs-bill-to-overhaul-rtd-board-and-governance/",
       "source": "Sentinel",
       "pub_date": "2026-05-27T18:58:02+00:00",
-      "age_hours": 4.554212799444444,
+      "age_hours": 5.902757465833334,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Price of 1-Bedroom in Denver Down 7.6% YoY",
       "link": "https://milehighcre.com/price-of-1-bedroom-in-denver-down-7-6-yoy/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-27T18:50:50+00:00",
-      "age_hours": 4.673410986388888,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.0218421075,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Trump says Vance\u2019s anti-fraud efforts will save Social Security and lead to \u2018balanced budget\u2019",
       "link": "https://www.coloradopolitics.com/2026/05/27/trump-says-vances-anti-fraud-efforts-will-save-social-security-and-lead-to-balanced-budget/",
       "source": "CO Politics",
       "pub_date": "2026-05-27T17:47:34+00:00",
-      "age_hours": 5.728632130277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.077166435555556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Morgan Wallen arrives in Denver: What to know for the stadium concerts",
       "link": "https://www.9news.com/article/life/style/colorado-guide/morgan-wallen-denver-stadium-tour-concerts/73-e5c7ab13-1c21-4b0e-ae82-433ab94a00bd",
       "source": "9News",
       "pub_date": "2026-05-27T16:04:03+00:00",
-      "age_hours": 7.453443983055555,
+      "age_hours": 8.801797754444443,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "9Things to do in Colorado this weekend: May 29-31",
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-denver-events-guide/73-57995146-1719-431f-9d45-622cd5571ec5",
       "source": "9News",
       "pub_date": "2026-05-27T15:39:18+00:00",
-      "age_hours": 7.865944003888889,
+      "age_hours": 9.214297769722222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Why 2026 Could Mark a Turning Point for CRE Deal Activity",
       "link": "https://milehighcre.com/why-2026-could-mark-a-turning-point-for-cre-deal-activity/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-27T15:26:15+00:00",
-      "age_hours": 8.083133221944445,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver's Elyria-Swansea celebrates new indoor pool after decade-long wait",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/elyria-swansea-neighborhood-new-pool/73-36e321d7-e832-41a7-99bf-7174e4c4ae32",
-      "source": "9News",
-      "pub_date": "2026-05-27T14:25:48+00:00",
-      "age_hours": 9.090944022222223,
+      "age_hours": 9.431564342222222,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -153,34 +162,25 @@
       "link": "https://kdvr.com/denver-guide/food-drink/denver-bar-makes-prestigious-list-for-worldwide-bar-awards/",
       "source": "Fox31",
       "pub_date": "2026-05-27T13:42:47+00:00",
-      "age_hours": 9.808185381944444,
+      "age_hours": 11.156524756388889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Stoney\u2019s to take over former Oskar Blues location in Colorado Springs",
       "link": "https://bizwest.com/2026/05/27/stoneys-to-take-over-former-oskar-blues-location-in-colorado-springs/",
       "source": "BizWest",
       "pub_date": "2026-05-27T13:30:54+00:00",
-      "age_hours": 10.005270268055556,
+      "age_hours": 11.353288705555554,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Tapped: Worst winter in memory triggers cascading economic strain in Colorado mountain towns",
       "link": "https://www.coloradopolitics.com/2026/05/27/tapped-worst-winter-in-memory-triggers-cascading-economic-strain-in-colorado-mountain-towns/",
       "source": "CO Politics",
       "pub_date": "2026-05-27T11:00:00+00:00",
-      "age_hours": 12.521410022777777,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Cargill\u2019s lockout of 1,700 workers stopped beef production, sending ripples through the supply chain",
-      "link": "https://coloradosun.com/2026/05/27/cargills-lockout-of-workers-sends-ripples-through-supply-chain/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-27T10:01:00+00:00",
-      "age_hours": 13.5040600925,
+      "age_hours": 13.869944314722222,
       "breaking": false,
       "time_ago": "13 hrs ago"
     }
