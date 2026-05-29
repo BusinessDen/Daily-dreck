@@ -1,87 +1,105 @@
 {
-  "fetched_date": "2026-05-28",
-  "fetched_at": "2026-05-28 23:32:36",
+  "fetched_date": "2026-05-29",
+  "fetched_at": "2026-05-29 00:59:48",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "Overdose deaths in US drop, but climb high again in Denver, state",
+      "link": "https://www.9news.com/article/news/health/denver-colorado-overdose-death-increase-2026/73-19d34b96-d633-4854-9aae-994416caee0a",
+      "source": "9News",
+      "pub_date": "2026-05-29T00:43:38+00:00",
+      "age_hours": 0.2646219733333333,
+      "breaking": true,
+      "time_ago": "15 min ago"
+    },
+    {
+      "title": "Denver airport ditching its TSA reservation system",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/den-reserve-dia-travel-security-ending/73-22828578-0b60-42a0-8460-26f596d97bac",
+      "source": "9News",
+      "pub_date": "2026-05-29T00:31:32+00:00",
+      "age_hours": 0.46628870055555555,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "Dolly Parton to launch Tennessee travel center with more planned nationwide",
+      "link": "https://www.9news.com/article/news/nation-world/dolly-parton-travel-stop-gas-station/507-f27392fc-764b-43e9-a5c2-ffd8d2ac6043",
+      "source": "9News",
+      "pub_date": "2026-05-29T00:16:36+00:00",
+      "age_hours": 0.7151776288888888,
+      "breaking": true,
+      "time_ago": "42 min ago"
+    },
     {
       "title": "DIA ending reservations to skip TSA line: Here's what to know",
       "link": "https://kdvr.com/news/local/dia-ending-reservations-to-skip-tsa-line-heres-what-to-know/",
       "source": "Fox31",
       "pub_date": "2026-05-28T22:22:51+00:00",
-      "age_hours": 1.157890525,
+      "age_hours": 2.6112621911111114,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
-      "title": "Colorado governor candidates confront business climate, housing affordability at Glendale forum",
-      "link": "https://www.coloradopolitics.com/2026/05/28/colorado-governor-candidates-confront-business-climate-housing-affordability-at-glendale-forum/",
+      "title": "Colorado governor candidates confront business climate, housing affordability woes",
+      "link": "https://www.coloradopolitics.com/2026/05/28/colorado-governor-candidates-confront-business-climate-housing-affordability-woes/",
       "source": "CO Politics",
       "pub_date": "2026-05-28T21:47:09+00:00",
-      "age_hours": 1.7532470841666665,
+      "age_hours": 3.206606673611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Fort Collins URA may expand redevelopment site through eminent domain",
       "link": "https://bizwest.com/2026/05/28/fort-collins-ura-may-expand-redevelopment-site-through-eminent-domain/",
       "source": "BizWest",
       "pub_date": "2026-05-28T20:36:33+00:00",
-      "age_hours": 2.9285379080555556,
+      "age_hours": 4.381561525277777,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Yamaha grant to support state bike group",
       "link": "https://bizwest.com/2026/05/28/yamaha-grant-to-support-state-bike-group/",
       "source": "BizWest",
       "pub_date": "2026-05-28T20:26:58+00:00",
-      "age_hours": 3.088260143611111,
+      "age_hours": 4.541283763611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "New outbreak in pine beetles on Front Range causes dramatic increase in damage between 2024 and 2025",
       "link": "https://www.denver7.com/news/environment/new-outbreak-in-pine-beetles-on-front-range-causes-dramatic-increase-in-damage-between-2024-and-2025",
       "source": "Denver7",
       "pub_date": "2026-05-28T20:26:16+00:00",
-      "age_hours": 3.1008160061111107,
+      "age_hours": 4.554192109166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Nutrien wins grant for U.S.-Israeli ag project",
       "link": "https://bizwest.com/2026/05/28/nutrien-wins-grant-for-u-s-israeli-ag-project/",
       "source": "BizWest",
       "pub_date": "2026-05-28T20:23:46+00:00",
-      "age_hours": 3.1415939783333333,
+      "age_hours": 4.594617656111112,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Girls Golf: 2026 All-Colorado League teams",
       "link": "https://sentinelcolorado.com/sports/preps/girls-golf/girls-golf-2026-all-colorado-league-teams/",
       "source": "Sentinel",
       "pub_date": "2026-05-28T20:21:11+00:00",
-      "age_hours": 3.1860801194444446,
+      "age_hours": 4.639418172222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver Summit\u2019s Centennial stadium opening pushed back",
       "link": "https://www.9news.com/article/sports/soccer/denver-summit/denver-summit-centennial-stadium-opening-delayed/73-daa6a507-5a45-4be1-ab9c-7fe74361c71f",
       "source": "9News",
       "pub_date": "2026-05-28T20:05:24+00:00",
-      "age_hours": 3.4484478544444443,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Denver airport ditching its TSA reservation system",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/den-reserve-dia-travel-security-ending/73-22828578-0b60-42a0-8460-26f596d97bac",
-      "source": "9News",
-      "pub_date": "2026-05-28T18:52:29+00:00",
-      "age_hours": 4.663725642777778,
+      "age_hours": 4.9018444174999996,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -90,97 +108,79 @@
       "link": "https://www.9news.com/article/news/politics/vance-cancels-denver-event/73-b7e55c11-8e13-4386-8986-651367767a96",
       "source": "9News",
       "pub_date": "2026-05-28T17:54:27+00:00",
-      "age_hours": 5.630947921111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.084344443888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver Pride will take over 16th Street with expanded festivities and events all June long",
       "link": "https://www.9news.com/article/news/local/lgbtq/denver-pride-2026/73-122132ca-fd61-47f9-8dff-60ec9a07d018",
       "source": "9News",
       "pub_date": "2026-05-28T17:27:46+00:00",
-      "age_hours": 6.075670188888889,
+      "age_hours": 7.529066719999999,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Stout Street Hospitality Secures Refinancing for Magnolia Hotel Denver",
       "link": "https://milehighcre.com/stout-street-hospitality-secures-refinancing-for-magnolia-hotel-denver/",
       "source": "Mile High CRE",
       "pub_date": "2026-05-28T17:09:15+00:00",
-      "age_hours": 6.383958830833333,
+      "age_hours": 7.837234734444444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Walmart recalls 165,000 fabric dressers over tip-over hazard",
-      "link": "https://www.9news.com/article/news/nation-world/fabric-dresser-walmart-recall/507-d308644d-1fff-46a0-bd81-1feca81c8a75",
-      "source": "9News",
-      "pub_date": "2026-05-28T16:53:02+00:00",
-      "age_hours": 6.654559131944445,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Listen: Denver sees improvement in homelessness, but a worrying trend for kids",
       "link": "https://www.cpr.org/2026/05/28/denver-homeless-data-families-2025-2026/",
       "source": "CPR",
       "pub_date": "2026-05-28T16:29:35+00:00",
-      "age_hours": 7.045338564166666,
+      "age_hours": 8.498652833333333,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Listen: Denver airport\u2019s solution to train frustrations: $300 million of walkways through old baggage tunnels",
       "link": "https://www.cpr.org/2026/05/28/denver-airport-walkways-tunnels-train/",
       "source": "CPR",
       "pub_date": "2026-05-28T16:20:23+00:00",
-      "age_hours": 7.198672002222222,
+      "age_hours": 8.651986275277778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "DHS threatens to stop international flight processing at 'sanctuary' cities like Denver",
       "link": "https://kdvr.com/news/nationalworld-news/dhs-threatens-to-stop-international-flight-processing-at-sanctuary-cities-like-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-28T16:15:48+00:00",
-      "age_hours": 7.275390691666667,
+      "age_hours": 8.728762296111112,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Bear spotted in Eastern Plains town as sightings increase across state",
       "link": "https://kdvr.com/news/local/bear-spotted-in-eastern-plains-town-as-sightings-increase-across-state/",
       "source": "Fox31",
       "pub_date": "2026-05-28T15:53:21+00:00",
-      "age_hours": 7.649557286944445,
+      "age_hours": 9.102928797777778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Madeline wants to bring a touch of elegance back to Denver\u2019s dining scene",
       "link": "https://www.westword.com/food-drink/madeline-denver-replaces-fruition-in-cherry-creek-40891392/",
       "source": "Westword",
       "pub_date": "2026-05-28T15:49:38-06:00",
-      "age_hours": 1.7116486663888888,
+      "age_hours": 3.1649633355555555,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "'The Lord of the Rings' cast among star-studded celebrities in Denver for FAN EXPO",
       "link": "https://kdvr.com/news/local/the-lord-of-the-rings-cast-among-star-studded-celebrities-in-denver-for-fan-expo/",
       "source": "Fox31",
       "pub_date": "2026-05-28T15:28:34+00:00",
-      "age_hours": 8.062612783333332,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Greeley Chamber graduates Leadership Weld County class",
-      "link": "https://bizwest.com/2026/05/28/greeley-chamber-graduates-leadership-weld-county-class/",
-      "source": "BizWest",
-      "pub_date": "2026-05-28T14:03:52+00:00",
-      "age_hours": 9.473260653055556,
+      "age_hours": 9.5159843,
       "breaking": false,
       "time_ago": "9 hrs ago"
     }
