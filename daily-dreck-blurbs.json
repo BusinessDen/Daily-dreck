@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-05-28",
-  "lead_headline": "Restaurant tracker breaks two-day silence with zero new leads but 188 active leads in pipeline\u2014liquor licensing freeze enters day 28",
+  "generated_date": "2026-05-29",
+  "lead_headline": "Restaurant tracker breaks three-day silence with zero new leads\u2014licensing freeze enters day 29 as Memorial Day hangover persists across all tracking systems",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads Wednesday</strong>\u2014detection drought extends to day three as post-holiday silence continues. Active pipeline unchanged: 188 total (106 openings, 82 closures).",
+      "blurb": "<strong>Day four of detection drought</strong>\u2014zero new leads Thursday as post-holiday silence stretches into fourth consecutive day. Active pipeline frozen at 188 (106 openings, 82 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "38",
+        "value1": "52",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 28 of complete regulatory paralysis</strong>\u2014Colorado's liquor licensing apparatus now frozen for full four weeks with zero applications filed, zero status updates processed, zero administrative movement since April 30. The May blackout enters its final days with no indication of impending thaw as all 12,396 tracked licenses remain locked in bureaucratic deep freeze. State officials maintain absolute radio silence on restoration timeline while the invisible application backlog accumulates behind sealed administrative doors. Memorial Day week passes with no disruption to the disruption as the licensing system sustains its unprecedented month-long suspension.",
+      "blurb": "<strong>Day 29 of absolute regulatory silence</strong>\u2014Colorado's liquor licensing apparatus sustains unprecedented freeze with zero applications, zero status changes, zero administrative movement since April 30. The May blackout enters final 48 hours as all 12,396 tracked licenses remain locked in month-long bureaucratic paralysis. Memorial Day week closes with no disruption to the disruption\u2014state officials maintain radio silence on restoration timeline while invisible application backlog accumulates. The licensing system's complete suspension extends deeper into record territory as month-end approaches with no thaw signals detected.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,40 +54,40 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>One mention Wednesday</strong>\u2014the third consecutive day of single-digit pickup volume as post-Memorial Day lethargy persists. Weekly total reaches 37 mentions across 10 sources, down 45% from prior week's 67 as the holiday hangover depresses citation velocity. Instagram leads with 13 mentions (35% of weekly volume), Facebook and Denver Post tied at 6 each, Reddit contributes 4, Hoodline adds 3. Google News RSS exclusively drives all discovery (100% of 37 mentions). The sharp week-over-week decline confirms Memorial Day weekend's dampening effect on media pickup patterns, though monthly tracking remains elevated at 215 total mentions as May approaches its close.",
+      "blurb": "<strong>3 mentions yesterday</strong>\u2014pickup velocity remains suppressed at single-digit levels for fourth straight day. Weekly total climbs to 32 across 8 sources, down 54% from prior week's 69 as Memorial Day hangover depresses citation flow. Instagram dominates with 11 mentions (34%), Facebook contributes 6, Reddit and Denver Post add 5 and 4 respectively. Google News RSS exclusively drives all discovery (100% of weekly volume). The sharp week-over-week collapse confirms extended post-holiday lethargy in media pickup patterns, though monthly tracking holds elevated at 208 total mentions as May enters final days.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "3",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "37",
-        "class1": "",
+        "value1": "32",
+        "class1": "down",
         "label2": "sources",
-        "value2": "10",
+        "value2": "8",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled)\u2014Memorial Day flatline stretches to third consecutive day of zero movement. MTD holds at +23 (+0.9/day), 90-day net stands at +135. Seven-day window shows net +3 (6 new, 3 canceled) as the sustained post-surge drought enters week three. May's pattern now unmistakable: concentrated mid-month burst (May 12-15) drove the bulk of monthly gains, followed by 13-day near-blackout through holiday weekend and beyond. YTD pace of +1.2/day continues outpacing the anemic MTD crawl, underscoring how thoroughly momentum collapsed after the brief spike as daily flow settles into minimal-to-zero equilibrium.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled)\u2014Memorial Day flatline extends to fourth consecutive day of zero movement. MTD holds at +23 (+0.8/day), 90-day net stands at +135. Seven-day window shows net +2 (4 new, 2 canceled) as sustained post-surge drought deepens. May's pattern crystallizes: mid-month burst (May 12-15) delivered the month's gains, followed by 14-day near-blackout through holiday and beyond. Recent fortnight shows dramatic collapse from prior period's +6 net, confirming momentum evaporation. YTD pace of +1.2/day continues outpacing anemic MTD rate as daily flow settles into zero-movement equilibrium through month's close.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "23",
       "net_ytd": "180",
-      "net_mtd_per_day": "0.9",
+      "net_mtd_per_day": "0.8",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "20",
-      "annual_ytd": "155",
-      "monthly_mtd": "3",
-      "monthly_ytd": "25"
+      "annual_mtd": "18",
+      "annual_ytd": "135",
+      "monthly_mtd": "5",
+      "monthly_ytd": "45"
     }
   }
 }
