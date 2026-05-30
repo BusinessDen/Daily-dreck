@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-05-29",
-  "lead_headline": "Restaurant tracker breaks three-day silence with zero new leads\u2014licensing freeze enters day 29 as Memorial Day hangover persists across all tracking systems",
+  "generated_date": "2026-05-30",
+  "lead_headline": "Restaurant tracker confirms five-day drought continues\u2014zero new leads Friday as post-holiday freeze hardens into full week of silence",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Day four of detection drought</strong>\u2014zero new leads Thursday as post-holiday silence stretches into fourth consecutive day. Active pipeline frozen at 188 (106 openings, 82 closures).",
+      "blurb": "<strong>Fifth consecutive day without new leads</strong>\u2014detection silence extends through Friday as Memorial Day week closes with complete vacancy. Active pipeline remains frozen at 188 leads (106 openings, 82 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "52",
+        "value1": "14",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 29 of absolute regulatory silence</strong>\u2014Colorado's liquor licensing apparatus sustains unprecedented freeze with zero applications, zero status changes, zero administrative movement since April 30. The May blackout enters final 48 hours as all 12,396 tracked licenses remain locked in month-long bureaucratic paralysis. Memorial Day week closes with no disruption to the disruption\u2014state officials maintain radio silence on restoration timeline while invisible application backlog accumulates. The licensing system's complete suspension extends deeper into record territory as month-end approaches with no thaw signals detected.",
+      "blurb": "<strong>Day 30: Month-long freeze reaches terminal day</strong>\u2014Colorado's liquor licensing system completes unprecedented 30-day blackout as May closes with zero applications, zero status changes, zero administrative activity since April 30. All 12,396 tracked licenses remain locked in regulatory paralysis through month's final hours. The May freeze enters record books as longest documented suspension since tracking began\u2014no restoration signals detected as June approaches with invisible backlog implications mounting. State officials maintain complete silence on timeline while the licensing apparatus sits dormant through entire calendar month.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,40 +54,40 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>3 mentions yesterday</strong>\u2014pickup velocity remains suppressed at single-digit levels for fourth straight day. Weekly total climbs to 32 across 8 sources, down 54% from prior week's 69 as Memorial Day hangover depresses citation flow. Instagram dominates with 11 mentions (34%), Facebook contributes 6, Reddit and Denver Post add 5 and 4 respectively. Google News RSS exclusively drives all discovery (100% of weekly volume). The sharp week-over-week collapse confirms extended post-holiday lethargy in media pickup patterns, though monthly tracking holds elevated at 208 total mentions as May enters final days.",
+      "blurb": "<strong>2 mentions yesterday</strong>\u2014citation flow bottoms out at minimal Friday volume as Memorial Day hangover completes full week of suppression. Week closes at 44 total mentions across 10 sources, down 29% from prior week's 62 as holiday lethargy persists. Instagram leads with 13 mentions (30%), Denver Post contributes 11, Facebook adds 8, Reddit delivers 5. Top recent pickups: Broncos' $45.8M Burnham Yard purchase agreement, Avalanche prospect coverage, Belleview Station residential opening. Google News RSS exclusively drives all discovery (100% weekly volume). The week-over-week decline confirms extended post-holiday drag on media pickup velocity, though monthly total holds elevated at 218 mentions as May concludes.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
+        "value1": "2",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "32",
+        "value1": "44",
         "class1": "down",
         "label2": "sources",
-        "value2": "8",
+        "value2": "10",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled)\u2014Memorial Day flatline extends to fourth consecutive day of zero movement. MTD holds at +23 (+0.8/day), 90-day net stands at +135. Seven-day window shows net +2 (4 new, 2 canceled) as sustained post-surge drought deepens. May's pattern crystallizes: mid-month burst (May 12-15) delivered the month's gains, followed by 14-day near-blackout through holiday and beyond. Recent fortnight shows dramatic collapse from prior period's +6 net, confirming momentum evaporation. YTD pace of +1.2/day continues outpacing anemic MTD rate as daily flow settles into zero-movement equilibrium through month's close.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled)\u2014Memorial Day week closes with fifth consecutive day of zero-or-negative movement. MTD net advances to +31 (+1.1/day), 90-day net stands at +138. Seven-day window shows net +9 (15 new, 6 canceled) as May's final week salvages modest gains after mid-month drought. Recent fortnight reveals split pattern: May 16-25 delivered only +2 net across ten days, then May 26-29 surged with +7 in four days before yesterday's pullback. YTD pace of +1.3/day continues outperforming MTD rate as daily flow oscillates between zero-movement stretches and concentrated bursts. Month closes with momentum uncertain\u2014brief late-May revival interrupted by Friday's negative print.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "23",
-      "net_ytd": "180",
-      "net_mtd_per_day": "0.8",
-      "net_ytd_per_day": "1.2",
-      "annual_mtd": "18",
-      "annual_ytd": "135",
-      "monthly_mtd": "5",
-      "monthly_ytd": "45"
+      "net_mtd": "31",
+      "net_ytd": "188",
+      "net_mtd_per_day": "1.1",
+      "net_ytd_per_day": "1.3",
+      "annual_mtd": "25",
+      "annual_ytd": "152",
+      "monthly_mtd": "6",
+      "monthly_ytd": "36"
     }
   }
 }
