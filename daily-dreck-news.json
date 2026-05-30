@@ -1,42 +1,60 @@
 {
   "fetched_date": "2026-05-30",
-  "fetched_at": "2026-05-30 00:55:40",
+  "fetched_at": "2026-05-30 01:42:03",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Aurora police release video of fatal police shooting during mental health crisis",
+      "link": "https://sentinelcolorado.com/metro/aurora-police-release-video-of-fatal-police-shooting-during-mental-health-crisis/",
+      "source": "Sentinel",
+      "pub_date": "2026-05-30T01:25:03+00:00",
+      "age_hours": 0.2795405094444444,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
+    {
+      "title": "'He did not deserve to die' | Widow seeks answers after husband killed near Denver skatepark",
+      "link": "https://www.9news.com/article/news/local/denver-skatepark-shooting-latest/73-5d0a785a-01eb-4128-ba4c-b2a5b0f0541b",
+      "source": "9News",
+      "pub_date": "2026-05-30T00:56:52+00:00",
+      "age_hours": 0.7488091875,
+      "breaking": true,
+      "time_ago": "44 min ago"
+    },
+    {
+      "title": "Outdoorsy Good News",
+      "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/outdoorsy-good-news/73-0326f4a7-f3fb-4164-a598-f06bd204dd90",
+      "source": "9News",
+      "pub_date": "2026-05-30T00:49:52+00:00",
+      "age_hours": 0.8654758972222222,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
     {
       "title": "Denver high school for pregnant, parenting teens cuts ribbon on new community garden",
       "link": "https://www.9news.com/article/news/local/denver-high-school-pregnant-parenting-teens-community-garden/73-c5f0c495-a089-4c6f-be6f-9e2e750e47c8",
       "source": "9News",
       "pub_date": "2026-05-30T00:27:05+00:00",
-      "age_hours": 0.4725939211111111,
+      "age_hours": 1.2451981633333333,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "A mother warns about the danger of magnetic toy blocks after her daughter is hospitalized in Colorado",
       "link": "https://www.denver7.com/news/local-news/a-mother-warns-about-the-danger-of-magnetic-toy-blocks-after-her-daughter-is-hospitalized-in-colorado",
       "source": "Denver7",
       "pub_date": "2026-05-30T00:21:08+00:00",
-      "age_hours": 0.5718637291666667,
+      "age_hours": 1.344478393611111,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Northern Colorado targets end of 2027 for commercial flights; starting runway widening project",
       "link": "https://www.9news.com/article/travel/northern-colorado-airport-widening-project/73-b275c3ce-390a-4062-b59d-1dd1e51770d7",
       "source": "9News",
       "pub_date": "2026-05-29T23:43:59+00:00",
-      "age_hours": 1.1909272966666669,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "'He did not deserve to die' | Widow seeks answers after husband killed near Denver skatepark",
-      "link": "https://www.9news.com/article/news/local/denver-skatepark-shooting-latest/73-5d0a785a-01eb-4128-ba4c-b2a5b0f0541b",
-      "source": "9News",
-      "pub_date": "2026-05-29T23:16:15+00:00",
-      "age_hours": 1.6531495825,
+      "age_hours": 1.963531533611111,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,16 +63,16 @@
       "link": "https://www.coloradopolitics.com/2026/05/29/colorado-governor-vetoes-union-dues-bill-again/",
       "source": "CO Politics",
       "pub_date": "2026-05-29T23:14:00+00:00",
-      "age_hours": 1.6911941944444444,
+      "age_hours": 2.46367347,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Jared Polis once again vetoes bill that would make it easier for Colorado unions to organize",
       "link": "https://coloradosun.com/2026/05/29/jared-polis-vetoes-colorado-labor-bill/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-29T22:52:32+00:00",
-      "age_hours": 2.048204321111111,
+      "age_hours": 2.820860204722222,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -63,25 +81,25 @@
       "link": "https://kdvr.com/news/local/report-your-neighbor-denver-water-drought-tool-stirs-controversy-across-metro/",
       "source": "Fox31",
       "pub_date": "2026-05-29T22:25:22+00:00",
-      "age_hours": 2.5014140833333336,
+      "age_hours": 3.2740577241666666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Broncos finalize $45.8M purchase agreement for Burnham Yard stadium site",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-cdot-finalize-burnham-yard-agreement/73-89e43562-d26c-48a6-861f-2e1699e03f45",
       "source": "9News",
       "pub_date": "2026-05-29T21:04:46+00:00",
-      "age_hours": 3.844538524722222,
+      "age_hours": 4.6171427113888885,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Erie-based property manager seeks Chapter 11 protection",
       "link": "https://bizwest.com/2026/05/29/erie-based-property-manager-seeks-chapter-11-protection/",
       "source": "BizWest",
       "pub_date": "2026-05-29T20:43:36+00:00",
-      "age_hours": 4.196702674722222,
+      "age_hours": 4.9693531377777775,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -90,25 +108,25 @@
       "link": "https://bizwest.com/2026/05/29/restaurant-vet-elevated-to-lead-ops-for-300-noodles-co-locations/",
       "source": "BizWest",
       "pub_date": "2026-05-29T20:16:47+00:00",
-      "age_hours": 4.643647699722223,
+      "age_hours": 5.416298089722222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Summit to tackle middle-income housing needs",
       "link": "https://bizwest.com/2026/05/29/summit-to-tackle-middle-income-housing-needs-2/",
       "source": "BizWest",
       "pub_date": "2026-05-29T20:14:04+00:00",
-      "age_hours": 4.688925513333333,
+      "age_hours": 5.4615759030555555,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "SENTINEL MUSE: Summer\u2019s back and so are Havana Street Night Markets",
       "link": "https://sentinelcolorado.com/metro/sentinel-muse-summers-back-and-so-are-havana-street-night-markets/",
       "source": "Sentinel",
       "pub_date": "2026-05-29T19:54:15+00:00",
-      "age_hours": 5.020385871111111,
+      "age_hours": 5.792873916666666,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -117,25 +135,25 @@
       "link": "https://www.cpr.org/2026/05/29/montbello-rec-center-closed-indefinitely-after-a-shocking-youth-killing/",
       "source": "CPR",
       "pub_date": "2026-05-29T17:01:03+00:00",
-      "age_hours": 7.906456876111111,
+      "age_hours": 8.679021395,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Pinnacol modernization deal revives legislative route, sidelines Colorado ballot fight",
       "link": "https://www.coloradopolitics.com/2026/05/29/pinnacol-modernization-deal-revives-legislative-route-sidelines-colorado-ballot-fight/",
       "source": "CO Politics",
       "pub_date": "2026-05-29T16:57:40+00:00",
-      "age_hours": 7.963416545,
+      "age_hours": 8.73589582111111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Rocky Mountain National Park's 'highway to the sky' is open for the season",
       "link": "https://kdvr.com/denver-guide/rocky-mountain-national-parks-highway-to-the-sky-is-open-for-the-season/",
       "source": "Fox31",
       "pub_date": "2026-05-29T16:44:36+00:00",
-      "age_hours": 8.1808585925,
+      "age_hours": 8.953502230277778,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -144,43 +162,25 @@
       "link": "https://www.9news.com/article/tech/science/aerospace/colorado-company-nasa-contract-moon-rover/73-a0d02b07-86e2-47e6-9d41-eaccb7b1bedd",
       "source": "9News",
       "pub_date": "2026-05-29T16:02:03+00:00",
-      "age_hours": 8.889816335555556,
+      "age_hours": 9.662420522500001,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "9Things to do in Colorado this weekend: May 29-31",
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-denver-events-guide/73-57995146-1719-431f-9d45-622cd5571ec5",
       "source": "9News",
       "pub_date": "2026-05-29T16:00:00+00:00",
-      "age_hours": 8.923983044722222,
+      "age_hours": 9.696587229444445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Burger chain sells 30 restaurants to pay down debt",
       "link": "https://www.9news.com/article/money/business/red-robin-burgers-sells-restaurants/73-a06513b4-087a-4561-a0a2-925e33bd83b3",
       "source": "9News",
       "pub_date": "2026-05-29T15:39:51+00:00",
-      "age_hours": 9.25981638388889,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Northern Colorado arena, fairgrounds installing weapons detection tech",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/ranch-events-complex-weapons-detection-system-blue-arena/73-c0db64a8-e89a-438a-9787-601c962c3c97",
-      "source": "9News",
-      "pub_date": "2026-05-29T15:16:56+00:00",
-      "age_hours": 9.641760843611111,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Opening of Denver Summit's new stadium in Centennial delayed after ongoing rain",
-      "link": "https://kdvr.com/sports/denver-summit-fc/opening-of-denver-summits-new-stadium-in-centennial-delayed-after-ongoing-rain/",
-      "source": "Fox31",
-      "pub_date": "2026-05-29T14:38:13+00:00",
-      "age_hours": 10.287247528888889,
+      "age_hours": 10.032420568333334,
       "breaking": false,
       "time_ago": "10 hrs ago"
     }
