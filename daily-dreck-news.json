@@ -1,60 +1,78 @@
 {
   "fetched_date": "2026-05-31",
-  "fetched_at": "2026-05-31 21:24:37",
+  "fetched_at": "2026-05-31 22:25:24",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Target opening huge Thornton distribution\u00a0hub",
+      "link": "https://bizwest.com/2026/05/31/target-opening-huge-thornton-distribution-hub/",
+      "source": "BizWest",
+      "pub_date": "2026-05-31T22:16:23+00:00",
+      "age_hours": 0.14517711222222224,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "Wheat Ridge limits car wash hours after ongoing noise complaints from neighbors",
+      "link": "https://kdvr.com/news/local/wheat-ridge-limits-car-wash-hours-after-ongoing-noise-complaints-from-neighbors/",
+      "source": "Fox31",
+      "pub_date": "2026-05-31T22:01:28+00:00",
+      "age_hours": 0.3950378130555556,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
     {
       "title": "Denver Pavilions getting $2.7 million in improvements",
       "link": "https://www.9news.com/article/money/business/denver-pavilions-2-million-improvements/73-2fa0debe-da61-452e-aa88-d3e4f27205cc",
       "source": "9News",
       "pub_date": "2026-05-31T16:48:42+00:00",
-      "age_hours": 4.593703410000001,
+      "age_hours": 5.607663868888889,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Green goes gray",
       "link": "https://bizwest.com/2026/05/31/green-goes-gray/",
       "source": "BizWest",
       "pub_date": "2026-05-31T15:37:09+00:00",
-      "age_hours": 5.785263324722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.799066552222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Meet the Denver musician who was a Tiny Desk Contest finalist this year",
       "link": "https://www.cpr.org/2026/05/31/denver-musician-tiny-desk-contest-finalist/",
       "source": "CPR",
       "pub_date": "2026-05-31T10:00:00+00:00",
-      "age_hours": 11.405315268333332,
+      "age_hours": 12.4192897825,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Golden tubing season starts weeks early after dry winter",
       "link": "https://www.9news.com/article/news/local/golden-tubing-season-starts-weeks-early-after-dry-winter/73-7f7e828f-344b-4d2c-a3eb-5fb3aa019b15",
       "source": "9News",
       "pub_date": "2026-05-30T23:41:17+00:00",
-      "age_hours": 21.717314593333334,
+      "age_hours": 22.731275040277776,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "DPS celebrates parents earning GEDs through family education program",
       "link": "https://kdvr.com/news/local/dps-celebrates-parents-earning-geds-through-family-education-program/",
       "source": "Fox31",
       "pub_date": "2026-05-30T22:48:10+00:00",
-      "age_hours": 22.602854447499997,
+      "age_hours": 23.616704390833334,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Pedestrian struck, killed by A Line train in Denver",
       "link": "https://www.9news.com/article/news/local/pedestrian-killed-rtd-train-denver/73-d4ec6026-e8b7-4595-8a8b-2d9797bdd0af",
       "source": "9News",
       "pub_date": "2026-05-30T20:19:23+00:00",
-      "age_hours": 25.082314645,
+      "age_hours": 26.0962750925,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +81,7 @@
       "link": "https://kdvr.com/news/local/pedestrian-killed-after-rtd-train-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-30T19:59:31+00:00",
-      "age_hours": 25.413687739444445,
+      "age_hours": 26.427537671666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +90,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/aurora-prep-sports-scoreboard-5-30-26/",
       "source": "Sentinel",
       "pub_date": "2026-05-30T17:00:39+00:00",
-      "age_hours": 28.39508672388889,
+      "age_hours": 29.40880382861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +99,7 @@
       "link": "https://kdvr.com/news/nationalworld-news/inflation-gauge-hits-multiyear-high-as-american-consumer-confidence-slides/",
       "source": "Fox31",
       "pub_date": "2026-05-30T16:52:37+00:00",
-      "age_hours": 28.528688007499998,
+      "age_hours": 29.54253802138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://bizwest.com/2026/05/30/united-way-of-weld-county-opens-latest-grant-cycle/",
       "source": "BizWest",
       "pub_date": "2026-05-30T16:17:05+00:00",
-      "age_hours": 29.11970833722222,
+      "age_hours": 30.133511034166666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +117,7 @@
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/us-says-it-disabled-another-commercial-ship-trying-to-breach-blockade-and-reach-iran/507-46f4fade-76b2-4f0a-afce-4b35eb4de150",
       "source": "9News",
       "pub_date": "2026-05-30T16:14:41+00:00",
-      "age_hours": 29.160648031944447,
+      "age_hours": 30.17460848111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +126,7 @@
       "link": "https://bizwest.com/2026/05/30/cu-coach-tad-boyle-to-headline-tlc-learning-center-fundraiser/",
       "source": "BizWest",
       "pub_date": "2026-05-30T15:58:38+00:00",
-      "age_hours": 29.42720835361111,
+      "age_hours": 30.441011055277777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +135,7 @@
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-denver-events-guide/73-57995146-1719-431f-9d45-622cd5571ec5",
       "source": "9News",
       "pub_date": "2026-05-30T11:47:12+00:00",
-      "age_hours": 33.61870363777778,
+      "age_hours": 34.63266409416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +144,7 @@
       "link": "https://coloradosun.com/2026/05/30/jamestown-mercantile-community-historic/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-30T10:00:00+00:00",
-      "age_hours": 35.4052090625,
+      "age_hours": 36.41920856777777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://sentinelcolorado.com/metro/aurora-police-release-video-of-fatal-police-shooting-during-mental-health-crisis/",
       "source": "Sentinel",
       "pub_date": "2026-05-30T01:25:03+00:00",
-      "age_hours": 43.988420465833336,
+      "age_hours": 45.00213755666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://www.denver7.com/news/local-news/a-mother-warns-about-the-danger-of-magnetic-toy-blocks-after-her-daughter-is-hospitalized-in-colorado",
       "source": "Denver7",
       "pub_date": "2026-05-30T00:21:08+00:00",
-      "age_hours": 45.053253178611115,
+      "age_hours": 46.067247611111114,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/05/29/colorado-governor-vetoes-union-dues-bill-again/",
       "source": "CO Politics",
       "pub_date": "2026-05-29T23:14:00+00:00",
-      "age_hours": 46.17255199583333,
+      "age_hours": 47.18628857472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,27 +180,9 @@
       "link": "https://coloradosun.com/2026/05/29/jared-polis-vetoes-colorado-labor-bill/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-29T22:52:32+00:00",
-      "age_hours": 46.52965394555555,
+      "age_hours": 47.543653453333334,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "Report your neighbor? Denver Water drought tool stirs controversy across metro",
-      "link": "https://kdvr.com/news/local/report-your-neighbor-denver-water-drought-tool-stirs-controversy-across-metro/",
-      "source": "Fox31",
-      "pub_date": "2026-05-29T22:25:22+00:00",
-      "age_hours": 46.982854576111116,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Erie-based property manager seeks Chapter 11 protection",
-      "link": "https://bizwest.com/2026/05/29/erie-based-property-manager-seeks-chapter-11-protection/",
-      "source": "BizWest",
-      "pub_date": "2026-05-29T20:43:36+00:00",
-      "age_hours": 48.677763946666666,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
