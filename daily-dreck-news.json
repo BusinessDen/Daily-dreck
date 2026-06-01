@@ -1,132 +1,159 @@
 {
   "fetched_date": "2026-06-01",
-  "fetched_at": "2026-06-01 12:07:34",
+  "fetched_at": "2026-06-01 15:09:38",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 9,
   "articles": [
     {
-      "title": "Colorado\u2019s war over oil and gas is a never-ending story. New political players have upended a fragile peace.",
-      "link": "https://coloradosun.com/2026/06/01/right-to-natural-gas-colorado-ballot-measure-environmentalists/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-01T10:10:00+00:00",
-      "age_hours": 1.9567147322222223,
+      "title": "Gas prices drop nearly half a dollar as potential U.S.-Iran agreement looms",
+      "link": "https://kdvr.com/news/local/gas-prices-drop-nearly-half-a-dollar-as-potential-u-s-iran-agreement-looms/",
+      "source": "Fox31",
+      "pub_date": "2026-06-01T15:07:49+00:00",
+      "age_hours": 0.026782700833333332,
+      "breaking": true,
+      "time_ago": "1 min ago"
+    },
+    {
+      "title": "French pharma giant Servier buys Edgewise muscular dystrophy biz",
+      "link": "https://bizwest.com/2026/06/01/french-pharma-giant-servier-buys-edgewise-muscular-dystrophy-biz/",
+      "source": "BizWest",
+      "pub_date": "2026-06-01T15:01:13+00:00",
+      "age_hours": 0.1359291747222222,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "New 'Voice' coach announces Denver amphitheatre concert",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/riley-green-fiddlers-green-concerts/73-0e5c3839-884e-455a-b453-e2ab1de3a8d4",
+      "source": "9News",
+      "pub_date": "2026-06-01T14:09:49+00:00",
+      "age_hours": 0.993164016111111,
+      "breaking": true,
+      "time_ago": "59 min ago"
+    },
+    {
+      "title": "Grocery chain buys land in eastern Aurora",
+      "link": "https://www.9news.com/article/money/business/small-business/king-soopers-aurora-east-green-valley-ranch/73-0275aad1-5e75-4c0f-a256-fea9a3dc7c79",
+      "source": "9News",
+      "pub_date": "2026-06-01T13:39:45+00:00",
+      "age_hours": 1.494275139722222,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
     {
-      "title": "Where John Hickenlooper, Julie Gonzales stand on the issues in Colorado\u2019s Democratic U.S. Senate primary",
-      "link": "https://coloradosun.com/2026/06/01/john-hickenlooper-julie-gonzales-us-senate-colorado-primary-issue-guide/",
+      "title": "New political players have upended a fragile peace in Colorado\u2019s oil and gas wars",
+      "link": "https://coloradosun.com/2026/06/01/right-to-natural-gas-colorado-ballot-measure-environmentalists/",
       "source": "Colorado Sun",
-      "pub_date": "2026-06-01T10:01:00+00:00",
-      "age_hours": 2.1067152452777775,
+      "pub_date": "2026-06-01T10:12:00+00:00",
+      "age_hours": 4.956618876944445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado outdoor recreation office wraps up $3.6 million in federal grants to 50 projects",
       "link": "https://coloradosun.com/2026/06/01/colorado-outdoor-recreation-office-grants/",
       "source": "Colorado Sun",
-      "pub_date": "2026-06-01T10:00:00+00:00",
-      "age_hours": 2.1233823772222222,
+      "pub_date": "2026-06-01T10:11:00+00:00",
+      "age_hours": 4.97328594,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Where John Hickenlooper, Julie Gonzales stand on the issues in Colorado\u2019s Democratic US Senate primary",
+      "link": "https://coloradosun.com/2026/06/01/john-hickenlooper-julie-gonzales-us-senate-colorado-primary-issue-guide/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-06-01T10:10:00+00:00",
+      "age_hours": 4.989952621666667,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver startup gets $4 million to analyze psychedelic therapy for vets in Mexico",
       "link": "https://denverite.com/2026/06/01/denver-psychedelic-startup-veterans-therapy-study/",
       "source": "Denverite",
       "pub_date": "2026-06-01T10:00:00+00:00",
-      "age_hours": 2.123436828888889,
+      "age_hours": 5.156721264166667,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Does Fort Collins have a ban on electronic billboards?",
       "link": "https://coloradosun.com/2026/06/01/fort-collins-billboard-ban/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-01T09:45:00+00:00",
-      "age_hours": 2.373382415277778,
+      "age_hours": 5.406619653888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Independent bookstores are multiplying, although many people still think they\u2019re dying out",
       "link": "https://sentinelcolorado.com/uncategorized/independent-bookstores-are-multiplying-although-many-people-still-think-theyre-dying-out/",
       "source": "Sentinel",
       "pub_date": "2026-06-01T05:04:19+00:00",
-      "age_hours": 7.051968963611111,
+      "age_hours": 10.085288216666665,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver church hosts 'Taste of Korea' after rebuilding from 2025 fire",
       "link": "https://www.9news.com/article/news/community/denver-church-hosts-taste-of-korea-after-rebuilding-from-2025-fire/73-7e5f05aa-c578-4174-82eb-f559b01d80f4",
       "source": "9News",
       "pub_date": "2026-06-01T03:55:33+00:00",
-      "age_hours": 8.197721897222221,
+      "age_hours": 11.230941848333334,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Non-profit helping cool homes this summer with free A/C units for seniors",
       "link": "https://kdvr.com/news/local/non-profit-helping-cool-homes-this-summer-with-free-a-c-units-for-seniors/",
       "source": "Fox31",
       "pub_date": "2026-06-01T02:54:49+00:00",
-      "age_hours": 9.210154150833334,
+      "age_hours": 12.243449481388888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Target opening huge Thornton distribution\u00a0hub",
       "link": "https://bizwest.com/2026/05/31/target-opening-huge-thornton-distribution-hub/",
       "source": "BizWest",
       "pub_date": "2026-05-31T22:16:23+00:00",
-      "age_hours": 13.849949776388888,
+      "age_hours": 16.88315180138889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Wheat Ridge limits car wash hours after ongoing noise complaints from neighbors",
       "link": "https://kdvr.com/news/local/wheat-ridge-limits-car-wash-hours-after-ongoing-noise-complaints-from-neighbors/",
       "source": "Fox31",
       "pub_date": "2026-05-31T22:01:28+00:00",
-      "age_hours": 14.09932070638889,
+      "age_hours": 17.132616093055557,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver Pavilions getting $2.7 million in improvements",
       "link": "https://www.9news.com/article/money/business/denver-pavilions-2-million-improvements/73-2fa0debe-da61-452e-aa88-d3e4f27205cc",
       "source": "9News",
       "pub_date": "2026-05-31T16:48:42+00:00",
-      "age_hours": 19.311888669444443,
+      "age_hours": 22.345108585555558,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Green goes gray",
       "link": "https://bizwest.com/2026/05/31/green-goes-gray/",
       "source": "BizWest",
       "pub_date": "2026-05-31T15:37:09+00:00",
-      "age_hours": 20.503839244722222,
+      "age_hours": 23.537040718333333,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Meet the Denver musician who was a Tiny Desk Contest finalist this year",
       "link": "https://www.cpr.org/2026/05/31/denver-musician-tiny-desk-contest-finalist/",
       "source": "CPR",
       "pub_date": "2026-05-31T10:00:00+00:00",
-      "age_hours": 26.12349797611111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Golden tubing season starts weeks early after dry winter",
-      "link": "https://www.9news.com/article/news/local/golden-tubing-season-starts-weeks-early-after-dry-winter/73-7f7e828f-344b-4d2c-a3eb-5fb3aa019b15",
-      "source": "9News",
-      "pub_date": "2026-05-30T23:41:17+00:00",
-      "age_hours": 36.435499830000005,
+      "age_hours": 29.156736119999998,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,16 +162,7 @@
       "link": "https://kdvr.com/news/local/dps-celebrates-parents-earning-geds-through-family-education-program/",
       "source": "Fox31",
       "pub_date": "2026-05-30T22:48:10+00:00",
-      "age_hours": 37.32098754444444,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Pedestrian struck, killed by A Line train in Denver",
-      "link": "https://www.9news.com/article/news/local/pedestrian-killed-rtd-train-denver/73-d4ec6026-e8b7-4595-8a8b-2d9797bdd0af",
-      "source": "9News",
-      "pub_date": "2026-05-30T20:19:23+00:00",
-      "age_hours": 39.80049988388889,
+      "age_hours": 40.354282850000004,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://kdvr.com/news/local/pedestrian-killed-after-rtd-train-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-30T19:59:31+00:00",
-      "age_hours": 40.13182077055555,
+      "age_hours": 43.165116125555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,27 +180,9 @@
       "link": "https://bizwest.com/2026/05/30/united-way-of-weld-county-opens-latest-grant-cycle/",
       "source": "BizWest",
       "pub_date": "2026-05-30T16:17:05+00:00",
-      "age_hours": 43.83828372305556,
+      "age_hours": 46.87148519611112,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "CU coach Tad Boyle to headline TLC Learning Center fundraiser",
-      "link": "https://bizwest.com/2026/05/30/cu-coach-tad-boyle-to-headline-tlc-learning-center-fundraiser/",
-      "source": "BizWest",
-      "pub_date": "2026-05-30T15:58:38+00:00",
-      "age_hours": 44.145783736944445,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "A mother warns about the danger of magnetic toy blocks after her daughter is hospitalized in Colorado",
-      "link": "https://www.denver7.com/news/local-news/a-mother-warns-about-the-danger-of-magnetic-toy-blocks-after-her-daughter-is-hospitalized-in-colorado",
-      "source": "Denver7",
-      "pub_date": "2026-05-30T00:21:08+00:00",
-      "age_hours": 59.77151735861111,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
