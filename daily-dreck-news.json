@@ -1,87 +1,123 @@
 {
   "fetched_date": "2026-06-01",
-  "fetched_at": "2026-06-01 10:00:14",
+  "fetched_at": "2026-06-01 12:07:34",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Colorado\u2019s war over oil and gas is a never-ending story. New political players have upended a fragile peace.",
+      "link": "https://coloradosun.com/2026/06/01/right-to-natural-gas-colorado-ballot-measure-environmentalists/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-06-01T10:10:00+00:00",
+      "age_hours": 1.9567147322222223,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Where John Hickenlooper, Julie Gonzales stand on the issues in Colorado\u2019s Democratic U.S. Senate primary",
+      "link": "https://coloradosun.com/2026/06/01/john-hickenlooper-julie-gonzales-us-senate-colorado-primary-issue-guide/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-06-01T10:01:00+00:00",
+      "age_hours": 2.1067152452777775,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Colorado outdoor recreation office wraps up $3.6 million in federal grants to 50 projects",
+      "link": "https://coloradosun.com/2026/06/01/colorado-outdoor-recreation-office-grants/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-06-01T10:00:00+00:00",
+      "age_hours": 2.1233823772222222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver startup gets $4 million to analyze psychedelic therapy for vets in Mexico",
+      "link": "https://denverite.com/2026/06/01/denver-psychedelic-startup-veterans-therapy-study/",
+      "source": "Denverite",
+      "pub_date": "2026-06-01T10:00:00+00:00",
+      "age_hours": 2.123436828888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Does Fort Collins have a ban on electronic billboards?",
       "link": "https://coloradosun.com/2026/06/01/fort-collins-billboard-ban/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-01T09:45:00+00:00",
-      "age_hours": 0.2501341525,
+      "age_hours": 2.373382415277778,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Independent bookstores are multiplying, although many people still think they\u2019re dying out",
       "link": "https://sentinelcolorado.com/uncategorized/independent-bookstores-are-multiplying-although-many-people-still-think-theyre-dying-out/",
       "source": "Sentinel",
       "pub_date": "2026-06-01T05:04:19+00:00",
-      "age_hours": 4.9286959433333335,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.051968963611111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver church hosts 'Taste of Korea' after rebuilding from 2025 fire",
       "link": "https://www.9news.com/article/news/community/denver-church-hosts-taste-of-korea-after-rebuilding-from-2025-fire/73-7e5f05aa-c578-4174-82eb-f559b01d80f4",
       "source": "9News",
       "pub_date": "2026-06-01T03:55:33+00:00",
-      "age_hours": 6.074461306111111,
+      "age_hours": 8.197721897222221,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Non-profit helping cool homes this summer with free A/C units for seniors",
       "link": "https://kdvr.com/news/local/non-profit-helping-cool-homes-this-summer-with-free-a-c-units-for-seniors/",
       "source": "Fox31",
       "pub_date": "2026-06-01T02:54:49+00:00",
-      "age_hours": 7.086839715000001,
+      "age_hours": 9.210154150833334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Target opening huge Thornton distribution\u00a0hub",
       "link": "https://bizwest.com/2026/05/31/target-opening-huge-thornton-distribution-hub/",
       "source": "BizWest",
       "pub_date": "2026-05-31T22:16:23+00:00",
-      "age_hours": 11.726441887222222,
+      "age_hours": 13.849949776388888,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Wheat Ridge limits car wash hours after ongoing noise complaints from neighbors",
       "link": "https://kdvr.com/news/local/wheat-ridge-limits-car-wash-hours-after-ongoing-noise-complaints-from-neighbors/",
       "source": "Fox31",
       "pub_date": "2026-05-31T22:01:28+00:00",
-      "age_hours": 11.976006301666667,
+      "age_hours": 14.09932070638889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver Pavilions getting $2.7 million in improvements",
       "link": "https://www.9news.com/article/money/business/denver-pavilions-2-million-improvements/73-2fa0debe-da61-452e-aa88-d3e4f27205cc",
       "source": "9News",
       "pub_date": "2026-05-31T16:48:42+00:00",
-      "age_hours": 17.18862806388889,
+      "age_hours": 19.311888669444443,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Green goes gray",
       "link": "https://bizwest.com/2026/05/31/green-goes-gray/",
       "source": "BizWest",
       "pub_date": "2026-05-31T15:37:09+00:00",
-      "age_hours": 18.380331282777778,
+      "age_hours": 20.503839244722222,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Meet the Denver musician who was a Tiny Desk Contest finalist this year",
       "link": "https://www.cpr.org/2026/05/31/denver-musician-tiny-desk-contest-finalist/",
       "source": "CPR",
       "pub_date": "2026-05-31T10:00:00+00:00",
-      "age_hours": 24.00022992555556,
+      "age_hours": 26.12349797611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +126,7 @@
       "link": "https://www.9news.com/article/news/local/golden-tubing-season-starts-weeks-early-after-dry-winter/73-7f7e828f-344b-4d2c-a3eb-5fb3aa019b15",
       "source": "9News",
       "pub_date": "2026-05-30T23:41:17+00:00",
-      "age_hours": 34.31223922527778,
+      "age_hours": 36.435499830000005,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +135,7 @@
       "link": "https://kdvr.com/news/local/dps-celebrates-parents-earning-geds-through-family-education-program/",
       "source": "Fox31",
       "pub_date": "2026-05-30T22:48:10+00:00",
-      "age_hours": 35.19767309444444,
+      "age_hours": 37.32098754444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +144,7 @@
       "link": "https://www.9news.com/article/news/local/pedestrian-killed-rtd-train-denver/73-d4ec6026-e8b7-4595-8a8b-2d9797bdd0af",
       "source": "9News",
       "pub_date": "2026-05-30T20:19:23+00:00",
-      "age_hours": 37.677239274444446,
+      "age_hours": 39.80049988388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +153,7 @@
       "link": "https://kdvr.com/news/local/pedestrian-killed-after-rtd-train-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-30T19:59:31+00:00",
-      "age_hours": 38.008506350277784,
+      "age_hours": 40.13182077055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +162,7 @@
       "link": "https://bizwest.com/2026/05/30/united-way-of-weld-county-opens-latest-grant-cycle/",
       "source": "BizWest",
       "pub_date": "2026-05-30T16:17:05+00:00",
-      "age_hours": 41.71477576,
+      "age_hours": 43.83828372305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,52 +171,16 @@
       "link": "https://bizwest.com/2026/05/30/cu-coach-tad-boyle-to-headline-tlc-learning-center-fundraiser/",
       "source": "BizWest",
       "pub_date": "2026-05-30T15:58:38+00:00",
-      "age_hours": 42.022275772777775,
+      "age_hours": 44.145783736944445,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "What\u2019s Working: Saving Jamestown\u2019s historic Mercantile, where everybody knows your name",
-      "link": "https://coloradosun.com/2026/05/30/jamestown-mercantile-community-historic/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-30T10:00:00+00:00",
-      "age_hours": 48.00013459611111,
-      "breaking": false,
-      "time_ago": "2 days ago"
     },
     {
       "title": "A mother warns about the danger of magnetic toy blocks after her daughter is hospitalized in Colorado",
       "link": "https://www.denver7.com/news/local-news/a-mother-warns-about-the-danger-of-magnetic-toy-blocks-after-her-daughter-is-hospitalized-in-colorado",
       "source": "Denver7",
       "pub_date": "2026-05-30T00:21:08+00:00",
-      "age_hours": 57.64822036277778,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado governor vetoes union dues bill \u2014 again",
-      "link": "https://www.coloradopolitics.com/2026/05/29/colorado-governor-vetoes-union-dues-bill-again/",
-      "source": "CO Politics",
-      "pub_date": "2026-05-29T23:14:00+00:00",
-      "age_hours": 58.76727790222222,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Jared Polis once again vetoes bill that would make it easier for Colorado unions to organize",
-      "link": "https://coloradosun.com/2026/05/29/jared-polis-vetoes-colorado-labor-bill/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-05-29T22:52:32+00:00",
-      "age_hours": 59.12457951416666,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Report your neighbor? Denver Water drought tool stirs controversy across metro",
-      "link": "https://kdvr.com/news/local/report-your-neighbor-denver-water-drought-tool-stirs-controversy-across-metro/",
-      "source": "Fox31",
-      "pub_date": "2026-05-29T22:25:22+00:00",
-      "age_hours": 59.57767321972222,
+      "age_hours": 59.77151735861111,
       "breaking": false,
       "time_ago": "2 days ago"
     }
