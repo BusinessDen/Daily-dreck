@@ -1,69 +1,78 @@
 {
   "fetched_date": "2026-06-01",
-  "fetched_at": "2026-06-01 01:03:36",
+  "fetched_at": "2026-06-01 03:17:30",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Non-profit helping cool homes this summer with free A/C units for seniors",
+      "link": "https://kdvr.com/news/local/non-profit-helping-cool-homes-this-summer-with-free-a-c-units-for-seniors/",
+      "source": "Fox31",
+      "pub_date": "2026-06-01T02:54:49+00:00",
+      "age_hours": 0.3744465461111111,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
     {
       "title": "Stolen motorcycle collision Saturday leaves driver dead, passenger injured in Aurora",
       "link": "https://sentinelcolorado.com/metro/stolen-motorcycle-collision-saturday-leaves-driver-dead-passenger-injured-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-05-31T22:38:14+00:00",
-      "age_hours": 2.4202681916666666,
+      "age_hours": 4.651210005833334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Target opening huge Thornton distribution\u00a0hub",
       "link": "https://bizwest.com/2026/05/31/target-opening-huge-thornton-distribution-hub/",
       "source": "BizWest",
       "pub_date": "2026-05-31T22:16:23+00:00",
-      "age_hours": 2.7834207091666667,
+      "age_hours": 5.014102840277777,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Wheat Ridge limits car wash hours after ongoing noise complaints from neighbors",
       "link": "https://kdvr.com/news/local/wheat-ridge-limits-car-wash-hours-after-ongoing-noise-complaints-from-neighbors/",
       "source": "Fox31",
       "pub_date": "2026-05-31T22:01:28+00:00",
-      "age_hours": 3.032706295277778,
+      "age_hours": 5.263613128888889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver Pavilions getting $2.7 million in improvements",
       "link": "https://www.9news.com/article/money/business/denver-pavilions-2-million-improvements/73-2fa0debe-da61-452e-aa88-d3e4f27205cc",
       "source": "9News",
       "pub_date": "2026-05-31T16:48:42+00:00",
-      "age_hours": 8.245216296944445,
+      "age_hours": 10.47610685138889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Green goes gray",
       "link": "https://bizwest.com/2026/05/31/green-goes-gray/",
       "source": "BizWest",
       "pub_date": "2026-05-31T15:37:09+00:00",
-      "age_hours": 9.437309993888888,
+      "age_hours": 11.667992390555556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Meet the Denver musician who was a Tiny Desk Contest finalist this year",
       "link": "https://www.cpr.org/2026/05/31/denver-musician-tiny-desk-contest-finalist/",
       "source": "CPR",
       "pub_date": "2026-05-31T10:00:00+00:00",
-      "age_hours": 15.056856546666667,
+      "age_hours": 17.287690809444445,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Golden tubing season starts weeks early after dry winter",
       "link": "https://www.9news.com/article/news/local/golden-tubing-season-starts-weeks-early-after-dry-winter/73-7f7e828f-344b-4d2c-a3eb-5fb3aa019b15",
       "source": "9News",
       "pub_date": "2026-05-30T23:41:17+00:00",
-      "age_hours": 25.368827449166666,
+      "age_hours": 27.599718026666665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://kdvr.com/news/local/dps-celebrates-parents-earning-geds-through-family-education-program/",
       "source": "Fox31",
       "pub_date": "2026-05-30T22:48:10+00:00",
-      "age_hours": 26.25437302888889,
+      "age_hours": 28.48527992611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.9news.com/article/news/local/pedestrian-killed-rtd-train-denver/73-d4ec6026-e8b7-4595-8a8b-2d9797bdd0af",
       "source": "9News",
       "pub_date": "2026-05-30T20:19:23+00:00",
-      "age_hours": 28.733827490555555,
+      "age_hours": 30.964718083055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://kdvr.com/news/local/pedestrian-killed-after-rtd-train-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-05-30T19:59:31+00:00",
-      "age_hours": 29.06520633722222,
+      "age_hours": 31.296113180833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,16 +108,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/aurora-prep-sports-scoreboard-5-30-26/",
       "source": "Sentinel",
       "pub_date": "2026-05-30T17:00:39+00:00",
-      "age_hours": 32.046657260555556,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Inflation gauge hits multiyear high as American consumer confidence slides",
-      "link": "https://kdvr.com/news/nationalworld-news/inflation-gauge-hits-multiyear-high-as-american-consumer-confidence-slides/",
-      "source": "Fox31",
-      "pub_date": "2026-05-30T16:52:37+00:00",
-      "age_hours": 32.18020653888889,
+      "age_hours": 34.27759911444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://bizwest.com/2026/05/30/united-way-of-weld-county-opens-latest-grant-cycle/",
       "source": "BizWest",
       "pub_date": "2026-05-30T16:17:05+00:00",
-      "age_hours": 32.771754468333334,
+      "age_hours": 35.002436868333334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/us-says-it-disabled-another-commercial-ship-trying-to-breach-blockade-and-reach-iran/507-46f4fade-76b2-4f0a-afce-4b35eb4de150",
       "source": "9News",
       "pub_date": "2026-05-30T16:14:41+00:00",
-      "age_hours": 32.81216086916667,
+      "age_hours": 35.04305147027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/05/30/cu-coach-tad-boyle-to-headline-tlc-learning-center-fundraiser/",
       "source": "BizWest",
       "pub_date": "2026-05-30T15:58:38+00:00",
-      "age_hours": 33.07925447861111,
+      "age_hours": 35.30993689472223,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://coloradosun.com/2026/05/30/jamestown-mercantile-community-historic/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-30T10:00:00+00:00",
-      "age_hours": 39.056705218888894,
+      "age_hours": 41.287517645,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,16 +153,16 @@
       "link": "https://sentinelcolorado.com/metro/aurora-police-release-video-of-fatal-police-shooting-during-mental-health-crisis/",
       "source": "Sentinel",
       "pub_date": "2026-05-30T01:25:03+00:00",
-      "age_hours": 47.639990920277775,
+      "age_hours": 49.87093283888889,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "A mother warns about the danger of magnetic toy blocks after her daughter is hospitalized in Colorado",
       "link": "https://www.denver7.com/news/local-news/a-mother-warns-about-the-danger-of-magnetic-toy-blocks-after-her-daughter-is-hospitalized-in-colorado",
       "source": "Denver7",
       "pub_date": "2026-05-30T00:21:08+00:00",
-      "age_hours": 48.70474729722222,
+      "age_hours": 50.935678339166664,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/05/29/colorado-governor-vetoes-union-dues-bill-again/",
       "source": "CO Politics",
       "pub_date": "2026-05-29T23:14:00+00:00",
-      "age_hours": 49.824133510555555,
+      "age_hours": 52.055077446388886,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://coloradosun.com/2026/05/29/jared-polis-vetoes-colorado-labor-bill/",
       "source": "Colorado Sun",
       "pub_date": "2026-05-29T22:52:32+00:00",
-      "age_hours": 50.18115002611111,
+      "age_hours": 52.41196253361111,
       "breaking": false,
       "time_ago": "2 days ago"
     }
