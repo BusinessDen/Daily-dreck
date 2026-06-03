@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-06-02",
-  "lead_headline": "June opens flat: Restaurant tracker enters second week of detection silence as pipeline holds at 196 leads with zero Monday movement",
+  "generated_date": "2026-06-03",
+  "lead_headline": "Eight straight days: Restaurant tracker extends June freeze through Wednesday with pipeline locked at 196 leads\u2014zero new activity for 192 consecutive hours",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Seventh consecutive day without new leads</strong>\u2014Monday extends detection blackout into June as active pipeline remains frozen at 196 leads (108 openings, 88 closures). No neighborhood activity detected.",
+      "blurb": "<strong>Eighth consecutive day without new leads</strong>\u2014detection apparatus remains frozen through midweek as June blackout enters ninth calendar day. Active pipeline unchanged at 196 leads (108 openings, 88 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 32: June opens with licensing freeze intact</strong>\u2014Colorado's liquor apparatus enters second month of complete regulatory blackout. Zero applications filed Monday, zero status changes processed, zero administrative movement across all 12,396 tracked licenses. The May paralysis now extends 32 consecutive days with no signals of resumed operations. State authorities maintain silence on restoration timeline while invisible backlog presumably grows. Monday brings no change to the historic licensing shutdown as the system enters June exactly as it left May\u2014entirely dormant with unknown restart date.",
+      "blurb": "<strong>Day 33: Licensing freeze stretches into mid-week June</strong>\u2014Wednesday marks 33rd consecutive day of Colorado's regulatory blackout with zero applications filed, zero status changes, zero administrative signals across 12,396 tracked licenses. The May paralysis now dominates June's first full week as authorities maintain complete silence on restoration timeline. The invisible backlog continues accumulating while the system posts its longest recorded shutdown in modern history. No movement detected Wednesday as the licensing apparatus remains entirely dormant with no indication when normal operations resume.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions yesterday</strong>\u2014Monday opens June with complete citation silence as Memorial Day hangover fully suppresses media flow. The 7-day window now shows 41 mentions across 9 sources (down 27% from prior week's 56). Facebook leads with 11 citations, Denver Post matches with 11, Instagram contributes 10. Notable pickups include Zaidy's Deli feature and Broncos' Burnham Yard purchase hitting social platforms. Google News RSS exclusively drives all discovery (100%). The sustained post-holiday drag extends through Monday as media velocity remains 35% below normal pace heading into June's first full week.",
+      "blurb": "<strong>Week-over-week drop accelerates</strong>\u2014BusinessDen citations fell to 32 mentions across 8 sources in the past 7 days, down 41% from prior week's 54. Denver Post leads with 9 citations, Instagram contributes 8, Facebook adds 7. Notable pickups include Zaidy's Deli feature and Broncos Burnham Yard coverage. The post-Memorial Day slowdown deepens through Wednesday as media velocity remains 40% below normal pace. Google News RSS drives 100% of discovery. The sustained June weakness continues third day as citation flow tracks well below typical volume heading toward mid-month.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "41",
+        "value1": "32",
         "class1": "down",
         "label2": "sources",
-        "value2": "9",
+        "value2": "8",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled)\u2014seventh consecutive day without positive movement as June opens with subscriber machinery completely idle. MTD net stands at +0 (+0.0/day), 90-day net holds at +135. The recent two-week pattern shows extreme volatility: May 26-28 delivered net +11 in three days, then May 29-June 1 posted flat zeros across four consecutive days, erasing all late-May momentum. YTD pace of +1.2/day continues outperforming June's stalled MTD rate. The month-end stall now extends into June's first trading day with no acquisition activity as daily flow remains trapped in zero-movement pattern following brief late-May surge.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled)\u2014eighth consecutive flat day extends June's subscriber freeze through midweek as acquisition machinery remains completely idle. MTD net holds at +0 (+0.0/day), 90-day net stands at +135. The past two weeks show whiplash volatility: May 26-28 posted net +11 in 72 hours, then May 29-June 2 delivered eight straight zeros, completely erasing late-May momentum. YTD pace of +1.2/day continues outperforming June's stalled MTD rate by infinite margin. The month-opening paralysis now extends through Wednesday's third trading day with zero acquisition signals as daily flow remains trapped in unprecedented eight-day flatline following brief late-May surge that briefly suggested recovery momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "0",
       "net_ytd": "188",
       "net_mtd_per_day": "0.0",
       "net_ytd_per_day": "1.2",
       "annual_mtd": "0",
-      "annual_ytd": "151",
+      "annual_ytd": "188",
       "monthly_mtd": "0",
-      "monthly_ytd": "37"
+      "monthly_ytd": "0"
     }
   }
 }
