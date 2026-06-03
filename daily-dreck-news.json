@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-06-03",
-  "fetched_at": "2026-06-03 22:46:28",
+  "fetched_at": "2026-06-03 23:36:20",
   "article_count": 20,
   "breaking_count": 13,
   "articles": [
+    {
+      "title": "Fewer openings, more competition: Teens struggle to find summer work",
+      "link": "https://www.9news.com/article/news/nation-world/teen-job-market-worst-in-decades/507-9740edaf-e978-4588-acc7-20cc541520bd",
+      "source": "9News",
+      "pub_date": "2026-06-03T23:18:20+00:00",
+      "age_hours": 0.29734151305555556,
+      "breaking": true,
+      "time_ago": "17 min ago"
+    },
     {
       "title": "House votes to halt US military action in Iran, rebuking Trump\u2019s war strategy",
       "link": "https://sentinelcolorado.com/nation-world/nation/house-votes-to-halt-us-military-action-in-iran-rebuking-trumps-war-strategy/",
       "source": "Sentinel",
       "pub_date": "2026-06-03T22:28:41+00:00",
-      "age_hours": 0.2941565236111111,
+      "age_hours": 1.1251664797222223,
       "breaking": true,
-      "time_ago": "17 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "DPS eyes 'bell-to-bell' full-day cellphone restriction",
       "link": "https://kdvr.com/news/local/dps-eyes-bell-to-bell-full-day-cellphone-restriction/",
       "source": "Fox31",
       "pub_date": "2026-06-03T22:11:25+00:00",
-      "age_hours": 0.5816512272222223,
+      "age_hours": 1.4127776972222221,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Red Lobster closing its Times Square restaurant after 23 years",
       "link": "https://www.9news.com/article/news/nation-world/red-lobster-closing-times-square-restaurant-new-york-city/507-8495152f-7b08-4539-a3b0-abdce124a9bf",
       "source": "9News",
       "pub_date": "2026-06-03T21:56:45+00:00",
-      "age_hours": 0.8259271258333334,
+      "age_hours": 1.657063803888889,
       "breaking": true,
-      "time_ago": "49 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "CU researchers, startups awarded Advanced Industries Accelerator funds",
       "link": "https://bizwest.com/2026/06/03/cu-researchers-startups-awarded-advanced-industries-accelerator-funds/",
       "source": "BizWest",
       "pub_date": "2026-06-03T21:40:07+00:00",
-      "age_hours": 1.1025121944444445,
+      "age_hours": 1.933855491111111,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://bizwest.com/2026/06/03/friends-of-broomfield-gets-10k-to-create-opportunities-for-adults-with-idd/",
       "source": "BizWest",
       "pub_date": "2026-06-03T21:38:09+00:00",
-      "age_hours": 1.1352904841666667,
+      "age_hours": 1.9666338319444445,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -54,43 +63,43 @@
       "link": "https://denverite.com/2026/06/03/denver-housing-market-may-2026/",
       "source": "Denverite",
       "pub_date": "2026-06-03T21:15:43+00:00",
-      "age_hours": 1.5094969255555555,
+      "age_hours": 2.340845133888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Loveland resident sues again over Centerra audit",
       "link": "https://bizwest.com/2026/06/03/loveland-resident-sues-again-over-centerra-audit/",
       "source": "BizWest",
       "pub_date": "2026-06-03T20:57:37+00:00",
-      "age_hours": 1.8108460769444443,
+      "age_hours": 2.642189423611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Elevations elevates new lending chief",
       "link": "https://bizwest.com/2026/06/03/elevations-elevates-new-lending-chief/",
       "source": "BizWest",
       "pub_date": "2026-06-03T20:55:14+00:00",
-      "age_hours": 1.8505683308333334,
+      "age_hours": 2.681911676666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Construction begins on 1,600-home Prairie Point development in southeast Aurora",
       "link": "https://sentinelcolorado.com/metro/construction-begins-on-1600-home-prairie-point-development-in-southeast-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-06-03T20:51:33+00:00",
-      "age_hours": 1.9130457536111112,
+      "age_hours": 2.7440556716666666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Wing Shack owner has plan for major expansion",
       "link": "https://bizwest.com/2026/06/03/wing-shack-owner-plans-has-big-plans-for-denver-metro-expansion-in-next-three-years/",
       "source": "BizWest",
       "pub_date": "2026-06-03T19:41:00+00:00",
-      "age_hours": 3.087790575833333,
+      "age_hours": 3.9191339213888887,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -99,16 +108,16 @@
       "link": "https://denverite.com/2026/06/03/affordable-housing-capitol-hill-vibrant-denver-bond/",
       "source": "Denverite",
       "pub_date": "2026-06-03T18:14:46+00:00",
-      "age_hours": 4.525330289166667,
+      "age_hours": 5.356678483333333,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado governor rejects bill to ban individualized pricing, wages based on personal data",
       "link": "https://www.coloradopolitics.com/2026/06/03/colorado-governor-rejects-bill-to-ban-individualized-pricing-wages-based-on-personal-data/",
       "source": "CO Politics",
       "pub_date": "2026-06-03T17:44:40+00:00",
-      "age_hours": 5.027735013055556,
+      "age_hours": 5.858762843055556,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://kdvr.com/denver-guide/geodesic-dome-glamping-resort-now-open-in-black-hawk/",
       "source": "Fox31",
       "pub_date": "2026-06-03T16:43:57+00:00",
-      "age_hours": 6.039428960555555,
+      "age_hours": 6.870555433611111,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/denver-broncos-give-pat-surtain-a-5-million-raise-with-good-chance-for-10-million-bump/73-4f4b56ec-1348-440b-b721-d510e05cb1d3",
       "source": "9News",
       "pub_date": "2026-06-03T16:39:56+00:00",
-      "age_hours": 6.106205044444445,
+      "age_hours": 6.937341696666667,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -135,54 +144,45 @@
       "link": "https://kdvr.com/news/local/rising-beef-prices-affecting-local-barbecue-restaurants/",
       "source": "Fox31",
       "pub_date": "2026-06-03T16:12:31+00:00",
-      "age_hours": 6.563317952777778,
+      "age_hours": 7.394444423055555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Frontier flight diverted after passenger tried to open door, choke off-duty flight attendant, police say",
       "link": "https://www.9news.com/article/travel/denver-international-airport/frontier-flight-diverted-passenger-tried-opening-door-choke-off-duty-flight-attendant/507-897b814a-73df-44c2-ba82-951a33daae95",
       "source": "9News",
       "pub_date": "2026-06-03T16:01:59+00:00",
-      "age_hours": 6.738705056944444,
+      "age_hours": 7.569841705555556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Miniso opening 8th location in Colorado",
       "link": "https://www.9news.com/article/money/business/miniso-northfield-denver/73-45ff2a45-57c1-4800-b86a-431897f8ffc4",
       "source": "9News",
       "pub_date": "2026-06-03T15:33:14+00:00",
-      "age_hours": 7.217871775833334,
+      "age_hours": 8.049008428333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Colorado's first drive-thru-only Dunkin' is here",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/drive-thru-only-dunkin/73-892836c6-f678-4d57-a3aa-6a50fe248fc3",
-      "source": "9News",
-      "pub_date": "2026-06-03T14:58:00+00:00",
-      "age_hours": 7.805094035833333,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Tavern on Blake Street set to open after year-long delays",
       "link": "https://kdvr.com/denver-guide/food-drink/tavern-on-blake-street-set-to-open-after-year-long-delays/",
       "source": "Fox31",
       "pub_date": "2026-06-03T13:57:52+00:00",
-      "age_hours": 8.807484608055555,
+      "age_hours": 9.638611078055556,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Former Bubba Gump Property Near Colorado Convention Center Sells",
       "link": "https://www.bisnow.com/denver/news/retail/former-bubba-gump-location-near-colorado-convention-center-sells-134853",
       "source": "Bisnow",
       "pub_date": "2026-06-03T12:56:23-04:00",
-      "age_hours": 5.831515169166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.662888886944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     }
   ]
 }
