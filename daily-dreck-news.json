@@ -1,42 +1,15 @@
 {
   "fetched_date": "2026-06-04",
-  "fetched_at": "2026-06-04 18:53:36",
+  "fetched_at": "2026-06-04 19:44:51",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 9,
   "articles": [
-    {
-      "title": "Mile High Transactions Report Week Ending 06.05.26",
-      "link": "https://milehighcre.com/mile-high-transactions-report-week-ending-06-05-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-04T18:44:50+00:00",
-      "age_hours": 0.1419969402777778,
-      "breaking": true,
-      "time_ago": "8 min ago"
-    },
-    {
-      "title": "Target Opens $367M Food Distribution Center in Thornton",
-      "link": "https://milehighcre.com/target-opens-367m-food-distribution-center-in-thornton/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-04T18:34:14+00:00",
-      "age_hours": 0.31866362666666664,
-      "breaking": true,
-      "time_ago": "19 min ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 06.05.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-06-05-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-04T18:22:20+00:00",
-      "age_hours": 0.5169969711111111,
-      "breaking": true,
-      "time_ago": "31 min ago"
-    },
     {
       "title": "Your medical records, your kids' brains and why you should know CPR",
       "link": "https://www.9news.com/article/news/nation-world/medical-records-kids-brains-why-you-should-know-cpr/507-4bb27cc8-5de6-4ec5-a7f0-06c48f47a0c4",
       "source": "9News",
       "pub_date": "2026-06-04T17:49:45+00:00",
-      "age_hours": 1.0603726752777778,
+      "age_hours": 1.9149240780555556,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,79 +18,88 @@
       "link": "https://denverite.com/2026/06/04/denver-housing-authority-ceo-fired/",
       "source": "Denverite",
       "pub_date": "2026-06-04T17:10:41+00:00",
-      "age_hours": 1.711314986388889,
+      "age_hours": 2.5659363,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Oversubscribed Quantinuum IPO raises $1.68B",
       "link": "https://bizwest.com/2026/06/04/oversubscribed-quantinuum-ipo-raises-1-68b/",
       "source": "BizWest",
       "pub_date": "2026-06-04T15:55:45+00:00",
-      "age_hours": 2.9596933113888886,
+      "age_hours": 3.813997731666667,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "4 crashes involving pedestrians reported in Denver area during Thursday morning commute",
       "link": "https://www.9news.com/article/traffic/crashes-pedestrians-denver-thursday/73-a0fc1cbb-9536-4fd1-b300-248203013fe9",
       "source": "9News",
       "pub_date": "2026-06-04T15:25:17+00:00",
-      "age_hours": 3.468150520277778,
+      "age_hours": 4.322701901944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Proctor's Garden Tour: Explore an expert garden in Denver",
       "link": "https://www.9news.com/article/life/home-garden/proctors-tips/proctors-garden-tour/73-aa96df9e-782e-4ff5-991f-048a432dfc19",
       "source": "9News",
       "pub_date": "2026-06-04T15:24:13+00:00",
-      "age_hours": 3.4859283577777775,
+      "age_hours": 4.340479723333333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver drops case to revoke downtown cabaret's licenses amid wage theft allegations",
       "link": "https://kdvr.com/news/local/denver-drops-case-to-revoke-downtown-cabarets-licenses-amid-wage-theft-allegations/",
       "source": "Fox31",
       "pub_date": "2026-06-04T14:08:38+00:00",
-      "age_hours": 4.745951351388889,
+      "age_hours": 5.600544006111111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Formativ Breaks Ground on\u00a0358-Unit Multifamily Development in RiNo",
-      "link": "https://milehighcre.com/formativ-breaks-ground-on-358-unit-multifamily-development-in-rino/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-04T14:04:36+00:00",
-      "age_hours": 4.812552540555556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "What to do in Colorado this week: Pride parades and doggy drag shows in Denver and beyond",
       "link": "https://coloradosun.com/2026/06/04/what-to-do-in-colorado-pride-parade-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-04T14:00:00+00:00",
-      "age_hours": 4.8892706466666676,
+      "age_hours": 5.743868513611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Troubled waters: An uncertain rafting season gets underway in Colorado",
+      "link": "https://www.coloradopolitics.com/2026/06/04/troubled-waters-an-uncertain-rafting-season-gets-underway-in-colorado/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-04T13:59:51+00:00",
+      "age_hours": 5.747338605833333,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "E-470 SB closed for hours after man \"jumps in front\" of vehicle, dies: CSP",
       "link": "https://kdvr.com/news/local/e-470-sb-closed-in-aurora-after-deadly-auto-pedestrian-crash/",
       "source": "Fox31",
       "pub_date": "2026-06-04T13:18:00+00:00",
-      "age_hours": 5.589840154722221,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.444432817777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Denver airport's CEO announces retirement",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-international-airport-phil-washington-retirement/73-037f446f-fc0b-4447-be08-bd6305ce7438",
+      "source": "9News",
+      "pub_date": "2026-06-04T12:58:19+00:00",
+      "age_hours": 6.772146461666667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Jared Polis signs bill giving Colorado artists creative control with new business structure",
       "link": "https://www.cpr.org/2026/06/04/artist-corp-bill-signed/",
       "source": "CPR",
       "pub_date": "2026-06-04T12:52:32+00:00",
-      "age_hours": 6.0138643641666665,
+      "age_hours": 6.8684746980555555,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -126,63 +108,81 @@
       "link": "https://www.coloradopolitics.com/2026/06/04/the-program-on-going-hhc-roots-deeply-intertwined-with-others/",
       "source": "CO Politics",
       "pub_date": "2026-06-04T12:00:00+00:00",
-      "age_hours": 6.890093178611111,
+      "age_hours": 7.7448386875,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "\u2018The program\u2019: Medicaid for home health in Colorado is complex setup",
       "link": "https://www.coloradopolitics.com/2026/06/04/the-program-medicaid-for-home-health-in-colorado-is-complex-setup/",
       "source": "CO Politics",
       "pub_date": "2026-06-04T12:00:00+00:00",
-      "age_hours": 6.890093267777778,
+      "age_hours": 7.744838780277778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Using housing and cash, \u2018the program\u2019 exploits Colorado\u2019s homeless for Medicaid millions",
       "link": "https://www.coloradopolitics.com/2026/06/04/using-housing-and-cash-the-program-exploits-colorados-homeless-for-medicaid-millions/",
       "source": "CO Politics",
       "pub_date": "2026-06-04T12:00:00+00:00",
-      "age_hours": 6.890093348888889,
+      "age_hours": 7.7448388688888885,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Xcel Energy customers may be hit with the largest electric rate increase ever",
       "link": "https://coloradosun.com/2026/06/04/xcel-energy-electric-rate-increase-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-04T10:20:00+00:00",
-      "age_hours": 8.555937533611111,
+      "age_hours": 9.410535412777778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "RTD is about to improve service for Arvada, Aurora and Westminster, but some lines will see cuts",
       "link": "https://denverite.com/2026/06/04/rtd-schedule-change-bus-rail/",
       "source": "Denverite",
       "pub_date": "2026-06-04T10:00:00+00:00",
-      "age_hours": 8.889370591944445,
+      "age_hours": 9.743991904166666,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Uruguayan restaurant sizzles on Aurora\u2019s famed South Havana food strip",
       "link": "https://www.cpr.org/2026/06/04/uruguayan-restaurant-aurora/",
       "source": "CPR",
       "pub_date": "2026-06-04T10:00:00+00:00",
-      "age_hours": 8.889420006944444,
+      "age_hours": 9.744030326944445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Parisi owner reflects on the restaurant\u2019s destructive fire\u2026and its future",
       "link": "https://www.westword.com/food-drink/interview-christine-parisi-italian-restaurant-owner-40894146/",
       "source": "Westword",
       "pub_date": "2026-06-04T08:36:00-06:00",
-      "age_hours": 4.28998961,
+      "age_hours": 5.144685358333333,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Car-free study brings more foot traffic to Wynkoop Street, causes minimal traffic impacts",
+      "link": "https://www.9news.com/article/news/local/car-free-study-brings-more-foot-traffic-to-wynkoop-street-causes-minimal-traffic-impacts/73-92fbc3b5-ca43-49ef-8106-edd4924c758b",
+      "source": "9News",
+      "pub_date": "2026-06-04T04:31:47+00:00",
+      "age_hours": 15.214368746944444,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Sellers are pulling homes off the market at near-record rates as buyers balk at high prices",
+      "link": "https://www.9news.com/article/news/nation-world/sellers-pulling-homes-off-market-record-highs/507-39ebd326-d746-4802-b0a3-a21c83bd6a68",
+      "source": "9News",
+      "pub_date": "2026-06-04T03:13:23+00:00",
+      "age_hours": 16.5210354675,
+      "breaking": false,
+      "time_ago": "16 hrs ago"
     }
   ]
 }
