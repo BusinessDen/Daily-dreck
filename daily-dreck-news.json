@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-06-04",
-  "fetched_at": "2026-06-04 11:09:15",
+  "fetched_at": "2026-06-04 13:14:21",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Denver airport's CEO announces retirement",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-international-airport-phil-washington-retirement/73-037f446f-fc0b-4447-be08-bd6305ce7438",
+      "source": "9News",
+      "pub_date": "2026-06-04T12:58:19+00:00",
+      "age_hours": 0.2634683580555556,
+      "breaking": true,
+      "time_ago": "15 min ago"
+    },
+    {
+      "title": "Jared Polis signs bill giving Colorado artists creative control with new business structure",
+      "link": "https://www.cpr.org/2026/06/04/artist-corp-bill-signed/",
+      "source": "CPR",
+      "pub_date": "2026-06-04T12:52:32+00:00",
+      "age_hours": 0.3597712052777778,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players",
+      "link": "https://sentinelcolorado.com/sentinel-biz-news/ai-companies-are-barreling-toward-huge-wall-street-debuts-a-look-at-the-biggest-players/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-04T12:42:59+00:00",
+      "age_hours": 0.519795321388889,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "\u2018The program\u2019: On Going HHC roots deeply intertwined with others",
+      "link": "https://www.coloradopolitics.com/2026/06/04/the-program-on-going-hhc-roots-deeply-intertwined-with-others/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-04T12:00:00+00:00",
+      "age_hours": 1.236085657222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "\u2018The program\u2019: Medicaid for home health in Colorado is complex setup",
+      "link": "https://www.coloradopolitics.com/2026/06/04/the-program-medicaid-for-home-health-in-colorado-is-complex-setup/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-04T12:00:00+00:00",
+      "age_hours": 1.2360857575,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Using housing and cash, \u2018the program\u2019 exploits Colorado\u2019s homeless for Medicaid millions",
+      "link": "https://www.coloradopolitics.com/2026/06/04/using-housing-and-cash-the-program-exploits-colorados-homeless-for-medicaid-millions/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-04T12:00:00+00:00",
+      "age_hours": 1.2360857680555557,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Xcel Energy customers may be hit with the largest electric rate increase ever",
       "link": "https://coloradosun.com/2026/06/04/xcel-energy-electric-rate-increase-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-04T10:20:00+00:00",
-      "age_hours": 0.815073235,
+      "age_hours": 2.9018434877777777,
       "breaking": true,
-      "time_ago": "48 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "RTD is about to improve service for Arvada, Aurora and Westminster, but some lines will see cuts",
       "link": "https://denverite.com/2026/06/04/rtd-schedule-change-bus-rail/",
       "source": "Denverite",
       "pub_date": "2026-06-04T10:00:00+00:00",
-      "age_hours": 1.1485154608333334,
+      "age_hours": 3.235276862222222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Uruguayan restaurant sizzles on Aurora\u2019s famed South Havana food strip",
       "link": "https://www.cpr.org/2026/06/04/uruguayan-restaurant-aurora/",
       "source": "CPR",
       "pub_date": "2026-06-04T10:00:00+00:00",
-      "age_hours": 1.1485548647222223,
+      "age_hours": 3.2353268369444446,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Car-free study brings more foot traffic to Wynkoop Street, causes minimal traffic impacts",
       "link": "https://www.9news.com/article/news/local/car-free-study-brings-more-foot-traffic-to-wynkoop-street-causes-minimal-traffic-impacts/73-92fbc3b5-ca43-49ef-8106-edd4924c758b",
       "source": "9News",
       "pub_date": "2026-06-04T04:31:47+00:00",
-      "age_hours": 6.618930421666666,
+      "age_hours": 8.70569066638889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Sellers are pulling homes off the market at near-record rates as buyers balk at high prices",
       "link": "https://www.9news.com/article/news/nation-world/sellers-pulling-homes-off-market-record-highs/507-39ebd326-d746-4802-b0a3-a21c83bd6a68",
       "source": "9News",
       "pub_date": "2026-06-04T03:13:23+00:00",
-      "age_hours": 7.9255971502777784,
+      "age_hours": 10.012357391111111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Polis vetoes bill that would have ended credit card fees on sales tax",
       "link": "https://www.cpr.org/2026/06/03/polis-vetoes-bill-that-would-have-ended-credit-card-fees-on-sales-tax/",
       "source": "CPR",
       "pub_date": "2026-06-04T02:07:56+00:00",
-      "age_hours": 9.016332684166667,
+      "age_hours": 11.103104649722223,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Bow Mar wants to gate off its public streets, but Denver and Littleton are threatening to fight back",
       "link": "https://www.9news.com/article/news/local/bow-mar-public-streets-gated-off-denver-and-littleton-threatening-fight-back/73-9d0df000-8142-425b-a9b4-2bef990c624f",
       "source": "9News",
       "pub_date": "2026-06-04T00:31:50+00:00",
-      "age_hours": 10.618097182222224,
+      "age_hours": 12.704857423888889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
+    },
+    {
+      "title": "'Smelled like a clogged toilet': Colo. family experienced travel horror story aboard Turkish Airlines flight",
+      "link": "https://www.denver7.com/news/local-news/smelled-like-a-clogged-toilet-colo-familys-turkish-airlines-plane-filled-with-sewage-smell-toilet-leaking-onto-cabin",
+      "source": "Denver7",
+      "pub_date": "2026-06-04T00:19:43+00:00",
+      "age_hours": 12.906906962499999,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Colorado governor sets personal veto record in rejecting bills limiting credit card swipe fees, helping firefighters who get cancer",
       "link": "https://coloradosun.com/2026/06/03/jared-polis-vetoes-swipe-fees-firefighter-bills/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-03T23:50:12+00:00",
-      "age_hours": 11.311739958611112,
+      "age_hours": 13.398510216666667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Woman sues Outback Steakhouse for $1.5M after allegedly slipping on mashed potatoes",
       "link": "https://www.9news.com/article/news/nation-world/lawsuit-outback-steakhouse-mashed-potatoes-slip-and-fall/507-6ce8ef5c-34c2-4ae9-9e00-758c0047bef8",
       "source": "9News",
       "pub_date": "2026-06-03T23:39:04+00:00",
-      "age_hours": 11.497541688611111,
+      "age_hours": 13.584301932777779,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Fewer openings, more competition: Teens struggle to find summer work",
       "link": "https://www.9news.com/article/news/nation-world/teen-job-market-worst-in-decades/507-9740edaf-e978-4588-acc7-20cc541520bd",
       "source": "9News",
       "pub_date": "2026-06-03T23:18:20+00:00",
-      "age_hours": 11.843097275833333,
+      "age_hours": 13.929857521944443,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "House votes to halt US military action in Iran, rebuking Trump\u2019s war strategy",
-      "link": "https://sentinelcolorado.com/nation-world/nation/house-votes-to-halt-us-military-action-in-iran-rebuking-trumps-war-strategy/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-03T22:28:41+00:00",
-      "age_hours": 12.671522696111111,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "DPS eyes 'bell-to-bell' full-day cellphone restriction",
       "link": "https://kdvr.com/news/local/dps-eyes-bell-to-bell-full-day-cellphone-restriction/",
       "source": "Fox31",
       "pub_date": "2026-06-03T22:11:25+00:00",
-      "age_hours": 12.95877997638889,
+      "age_hours": 15.045387625000002,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Red Lobster closing its Times Square restaurant after 23 years",
       "link": "https://www.9news.com/article/news/nation-world/red-lobster-closing-times-square-restaurant-new-york-city/507-8495152f-7b08-4539-a3b0-abdce124a9bf",
       "source": "9News",
       "pub_date": "2026-06-03T21:56:45+00:00",
-      "age_hours": 13.202819545,
+      "age_hours": 15.289579793333333,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "CU researchers, startups awarded Advanced Industries Accelerator funds",
       "link": "https://bizwest.com/2026/06/03/cu-researchers-startups-awarded-advanced-industries-accelerator-funds/",
       "source": "BizWest",
       "pub_date": "2026-06-03T21:40:07+00:00",
-      "age_hours": 13.479213055,
+      "age_hours": 15.566142783055556,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "FRIENDS of Broomfield gets $10K to create opportunities for adults with IDD",
-      "link": "https://bizwest.com/2026/06/03/friends-of-broomfield-gets-10k-to-create-opportunities-for-adults-with-idd/",
-      "source": "BizWest",
-      "pub_date": "2026-06-03T21:38:09+00:00",
-      "age_hours": 13.511991342222222,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Whether it\u2019s a buyers\u2019 or sellers\u2019 market, home sales are dropping",
-      "link": "https://denverite.com/2026/06/03/denver-housing-market-may-2026/",
-      "source": "Denverite",
-      "pub_date": "2026-06-03T21:15:43+00:00",
-      "age_hours": 13.886571031944445,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Denver International Airport CEO Phil Washington to retire",
-      "link": "https://www.coloradopolitics.com/2026/06/03/denver-international-airport-ceo-phil-washington-to-retire/",
-      "source": "CO Politics",
-      "pub_date": "2026-06-03T21:10:49+00:00",
-      "age_hours": 13.969201188055557,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Loveland resident sues again over Centerra audit",
-      "link": "https://bizwest.com/2026/06/03/loveland-resident-sues-again-over-centerra-audit/",
-      "source": "BizWest",
-      "pub_date": "2026-06-03T20:57:37+00:00",
-      "age_hours": 14.187546938055556,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Elevations elevates new lending chief",
-      "link": "https://bizwest.com/2026/06/03/elevations-elevates-new-lending-chief/",
-      "source": "BizWest",
-      "pub_date": "2026-06-03T20:55:14+00:00",
-      "age_hours": 14.2272692,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Construction begins on 1,600-home Prairie Point development in southeast Aurora",
-      "link": "https://sentinelcolorado.com/metro/construction-begins-on-1600-home-prairie-point-development-in-southeast-aurora/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-03T20:51:33+00:00",
-      "age_hours": 14.290411867777777,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     }
   ]
 }
