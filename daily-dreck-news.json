@@ -1,186 +1,186 @@
 {
   "fetched_date": "2026-06-05",
-  "fetched_at": "2026-06-05 11:11:58",
+  "fetched_at": "2026-06-05 13:09:27",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "\u2018The program\u2019 meant free housing and medication for the homeless \u2014 and millions in Medicaid dollars for their caretakers",
+      "link": "https://www.coloradopolitics.com/2026/06/05/the-program-meant-free-housing-and-medication-for-the-homeless-and-millions-in-medicaid-dollars-for-their-caretakers/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-05T12:00:00+00:00",
+      "age_hours": 1.153718013888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "\u2018The program\u2019: Using the homeless to reap Medicaid millions is not new",
+      "link": "https://www.coloradopolitics.com/2026/06/05/the-program-using-the-homeless-to-reap-medicaid-millions-is-not-new/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-05T12:00:00+00:00",
+      "age_hours": 1.1537180333333334,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "\u2018The program\u2019: Church\u2019s cash \u2018donations\u2019 are an anomaly; requests to attend services were ignored",
+      "link": "https://www.coloradopolitics.com/2026/06/05/the-program-churchs-cash-donations-are-an-anomaly-requests-to-attend-services-were-ignored/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-05T12:00:00+00:00",
+      "age_hours": 1.1537180433333334,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver\u2019s Greek festival celebrates 60 years with food, traditional dancing and local family band",
       "link": "https://www.cpr.org/2026/06/05/greek-festival-denver-60-years/",
       "source": "CPR",
       "pub_date": "2026-06-05T10:00:00+00:00",
-      "age_hours": 1.1949627425,
+      "age_hours": 3.1529051769444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Straight from the horse\u2019s mouth: What voters in Colorado\u2019s newest and most competitive congressional district are thinking about right now",
       "link": "https://www.cpr.org/2026/06/05/8th-district-voters-feelings/",
       "source": "CPR",
       "pub_date": "2026-06-05T10:00:00+00:00",
-      "age_hours": 1.1949627999999999,
+      "age_hours": 3.1529052305555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Democratic gubernatorial candidates Sen. Michael Bennet and AG Phil Weiser face off in debate",
       "link": "https://www.cpr.org/2026/06/04/colorado-democrats-governor-primary-candidates-debate/",
       "source": "CPR",
       "pub_date": "2026-06-05T03:29:12+00:00",
-      "age_hours": 7.708296190555556,
+      "age_hours": 9.666238624444444,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "9NEWS hosts Democratic, Republican Gubernatorial Primary debates",
       "link": "https://www.9news.com/article/news/politics/elections/colorado-governor-candidates-9news-debates/73-abb6e925-070c-4eb4-83dc-6c99d15b3182",
       "source": "9News",
       "pub_date": "2026-06-05T01:14:01+00:00",
-      "age_hours": 9.961415808333333,
+      "age_hours": 11.919407826111112,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Asia Center gets a reprieve, but redevelopment plans could still move ahead. What\u2019s next?",
       "link": "https://denverite.com/2026/06/04/asia-center-redevelopment-plans-withdrawn-whats-next/",
       "source": "Denverite",
       "pub_date": "2026-06-04T23:27:55+00:00",
-      "age_hours": 11.729617849999999,
+      "age_hours": 13.687583633888888,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Colorado approves first-in-the-nation plan to require EV battery recycling",
       "link": "https://www.cpr.org/2026/06/04/colorado-ev-battery-recycling/",
       "source": "CPR",
       "pub_date": "2026-06-04T22:09:51+00:00",
-      "age_hours": 13.030796256666665,
+      "age_hours": 14.988738691666667,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "4 crashes involving pedestrians reported in Denver area during Thursday morning commute",
       "link": "https://www.9news.com/article/traffic/crashes-pedestrians-denver-thursday/73-a0fc1cbb-9536-4fd1-b300-248203013fe9",
       "source": "9News",
       "pub_date": "2026-06-04T22:06:00+00:00",
-      "age_hours": 13.095026989722221,
+      "age_hours": 15.05301901,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Weld educators among Colorado Teacher of the Year finalists",
       "link": "https://bizwest.com/2026/06/04/weld-educators-among-colorado-teacher-of-the-year-finalists/",
       "source": "BizWest",
       "pub_date": "2026-06-04T22:03:16+00:00",
-      "age_hours": 13.140007391944446,
+      "age_hours": 15.097843474444446,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Hampton Inn in Louisville trades",
       "link": "https://bizwest.com/2026/06/04/hampton-inn-in-louisville-trades/",
       "source": "BizWest",
       "pub_date": "2026-06-04T22:00:43+00:00",
-      "age_hours": 13.1825079125,
+      "age_hours": 15.140344078055556,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Colorado will soon require age-bracket verification for online platforms",
       "link": "https://www.coloradopolitics.com/2026/06/04/colorado-will-soon-require-age-bracket-verification-for-online-platforms/",
       "source": "CO Politics",
       "pub_date": "2026-06-04T21:47:05+00:00",
-      "age_hours": 13.410725692222222,
+      "age_hours": 15.368995858333335,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Writing community in thought-leader group\u2019s focus",
       "link": "https://bizwest.com/2026/06/04/writing-community-in-thought-leader-groups-focus/",
       "source": "BizWest",
       "pub_date": "2026-06-04T21:38:14+00:00",
-      "age_hours": 13.557230165833332,
+      "age_hours": 15.515066340555556,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "PFAS testing company Biota opens Longmont facility",
       "link": "https://bizwest.com/2026/06/04/pfas-testing-company-biota-opens-longmont-facility/",
       "source": "BizWest",
       "pub_date": "2026-06-04T21:36:33+00:00",
-      "age_hours": 13.585285758055555,
+      "age_hours": 15.543121940833332,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Horizons International sells apartment complex near CU",
       "link": "https://bizwest.com/2026/06/04/horizons-international-sells-apartment-complex-near-cu/",
       "source": "BizWest",
       "pub_date": "2026-06-04T21:34:28+00:00",
-      "age_hours": 13.620008012777777,
+      "age_hours": 15.577844207777778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Polis declares statewide drought emergency",
       "link": "https://www.coloradopolitics.com/2026/06/04/polis-declares-statewide-drought-emergency/",
       "source": "CO Politics",
       "pub_date": "2026-06-04T21:23:49+00:00",
-      "age_hours": 13.798503485555555,
+      "age_hours": 15.75677364638889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Appeals court overturns paramedics convictions in Elijah McClain case",
       "link": "https://sentinelcolorado.com/metro/appeals-court-overturns-paramedics-convictions-in-elijah-mcclain-case/",
       "source": "Sentinel",
       "pub_date": "2026-06-04T21:17:00+00:00",
-      "age_hours": 13.912155533333333,
+      "age_hours": 15.870518693888888,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Mile High Transactions Report Week Ending 06.05.26",
       "link": "https://milehighcre.com/mile-high-transactions-report-week-ending-06-05-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-04T18:44:50+00:00",
-      "age_hours": 16.447563066666667,
+      "age_hours": 18.405453939999997,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Target Opens $367M Food Distribution Center in Thornton",
       "link": "https://milehighcre.com/target-opens-367m-food-distribution-center-in-thornton/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-04T18:34:14+00:00",
-      "age_hours": 16.624229755833333,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 06.05.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-06-05-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-04T18:22:20+00:00",
-      "age_hours": 16.822563098333333,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Your medical records, your kids' brains and why you should know CPR",
-      "link": "https://www.9news.com/article/news/nation-world/medical-records-kids-brains-why-you-should-know-cpr/507-4bb27cc8-5de6-4ec5-a7f0-06c48f47a0c4",
-      "source": "9News",
-      "pub_date": "2026-06-04T17:49:45+00:00",
-      "age_hours": 17.3658603975,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Denver Housing Authority CEO ousted by its board following administrative leave",
-      "link": "https://denverite.com/2026/06/04/denver-housing-authority-ceo-fired/",
-      "source": "Denverite",
-      "pub_date": "2026-06-04T17:10:41+00:00",
-      "age_hours": 18.0168400825,
+      "age_hours": 18.58212062666667,
       "breaking": false,
       "time_ago": "18 hrs ago"
     }
