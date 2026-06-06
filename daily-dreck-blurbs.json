@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-06-05",
-  "lead_headline": "Ten days frozen: Restaurant detection extends June blackout through Friday\u2014pipeline locked at 196 leads for 240 consecutive hours as liquor licensing enters day 35",
+  "generated_date": "2026-06-06",
+  "lead_headline": "Aurora industrial property hits $4.9M foreclosure\u2014largest filing since May as subscribers notch net +4 yesterday",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Tenth consecutive day without new leads</strong>\u2014Friday marks 240 hours since last detection as June freeze solidifies into second full week. Active pipeline remains locked at 196 leads (108 openings, 88 closures).",
+      "blurb": "<strong>Eleventh consecutive day without new leads</strong>\u2014Saturday marks 264 hours since last detection as June freeze solidifies into nearly two full weeks. Active pipeline remains locked at 196 leads (108 openings, 88 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -21,20 +21,20 @@
       }
     },
     "foreclosure": {
-      "blurb": "<strong>Airport Road industrial property in Aurora posted $4.9M foreclosure filing</strong>\u2014Arapahoe County listing scheduled for June 5 auction marks first $4M+ filing since May 23.",
+      "blurb": "<strong>Airport Road and Hughes Road industrial site in Aurora filed $4.9M foreclosure</strong>\u2014Arapahoe County property scheduled for June 5 auction remains week's only $4M+ filing.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "5",
+        "value2": "1",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "36",
+        "value1": "14",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 35: June freeze reaches second Friday</strong>\u2014Colorado's licensing shutdown extends 35th consecutive day with zero applications filed, zero status changes, zero administrative movement across 12,396 tracked licenses. The May paralysis now controls June's opening five business days as state authorities maintain complete silence on restoration timeline. The invisible backlog compounds while the apparatus posts its longest documented freeze in modern Colorado history. Friday closes first full week of June with zero regulatory signals as licensing machinery remains entirely dormant heading into second weekend.",
+      "blurb": "<strong>Day 36: June freeze reaches first Saturday</strong>\u2014Colorado's licensing shutdown extends 36th consecutive day with zero applications filed, zero status changes across 12,396 tracked licenses. The May paralysis now controls June's opening six calendar days as state apparatus maintains complete radio silence. The invisible backlog grows while machinery posts longest documented freeze in modern Colorado regulatory history. Saturday marks first weekend day of month with zero movement as licensing shutdown extends into second full weekend.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Fifth consecutive day of elevated activity</strong>\u2014BusinessDen logged 33 mentions across 7 sources in past 7 days, down 18% from prior week's 40 but holding above May baseline. Facebook and Denver Post each delivered 8 pickups, Instagram contributed 7. Notable coverage includes Denver Central Market vendor dispute (Reddit, Hoodline), Bubba Gump $1.8M sale (Hoodline), King Soopers opening, and 38th & Blake development progress. The week shows sustained citation velocity despite slight dip from Memorial Day peak. Google News RSS drives 100% of discovery as media attention maintains steady Friday drumbeat through early June.",
+      "blurb": "<strong>Six mentions yesterday hold Friday momentum</strong>\u2014BusinessDen logged 41 pickups across 10 sources in past 7 days, down 2% from prior week's 42 mentions, effectively flat. Denver Post led with 10 citations, Facebook contributed 9, Instagram 6. Notable Saturday coverage: Tenth Circuit rental car fee case (Kim Monson Show), Denver Housing CEO dismissal (Hoodline), Dick's Sporting Goods 'House of Sport' Thornton opening (Denver Post). Week shows stable citation velocity as media attention maintains plateau through first June weekend. Google News RSS continues driving 100% of discovery.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "5",
+        "value1": "6",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "33",
+        "value1": "41",
         "class1": "",
         "label2": "sources",
-        "value2": "7",
+        "value2": "10",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled)\u2014tenth consecutive flat day extends June's subscriber freeze through Friday as acquisition remains completely paralyzed. MTD net stuck at +0 (+0.0/day), 90-day net holds at +135. The past two weeks reveal sharp reversal: May 26-28 produced net +11 in 72 hours, then May 29-June 4 delivered ten straight zeros, fully erasing late-May burst. YTD pace of +1.2/day continues massively outperforming June's frozen MTD. The month-opening paralysis now spans ten consecutive trading days with zero acquisition activity as daily flow remains trapped in historic flatline following brief late-May recovery that collapsed immediately into June's blackout.",
+      "blurb": "<strong>Net +4 yesterday</strong> (6 new, 2 canceled)\u2014Friday breaks ten-day flatline with strongest single-day gain since May 28's net +6. MTD net climbs to +8 (+1.6/day), 90-day net rises to +134. The past two weeks reveal whipsaw pattern: May 26-28 produced net +11, then May 29-June 4 delivered ten straight zeros, now June 5 posts net +4 to finally crack month-opening freeze. YTD pace of +1.3/day sits below Friday's MTD rate as June shows first acquisition pulse after brutal opening-week paralysis that fully erased late-May momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "0",
-      "net_ytd": "188",
-      "net_mtd_per_day": "0.0",
-      "net_ytd_per_day": "1.2",
-      "annual_mtd": "0",
-      "annual_ytd": "188",
-      "monthly_mtd": "0",
-      "monthly_ytd": "0"
+      "net_mtd": "8",
+      "net_ytd": "197",
+      "net_mtd_per_day": "1.6",
+      "net_ytd_per_day": "1.3",
+      "annual_mtd": "6",
+      "annual_ytd": "151",
+      "monthly_mtd": "2",
+      "monthly_ytd": "46"
     }
   }
 }
