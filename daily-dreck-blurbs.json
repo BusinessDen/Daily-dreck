@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-06-06",
-  "lead_headline": "Aurora industrial property hits $4.9M foreclosure\u2014largest filing since May as subscribers notch net +4 yesterday",
+  "generated_date": "2026-06-07",
+  "lead_headline": "Restaurant tracker posts twelfth consecutive zero-lead day as June shutdown extends into second full weekend",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Eleventh consecutive day without new leads</strong>\u2014Saturday marks 264 hours since last detection as June freeze solidifies into nearly two full weeks. Active pipeline remains locked at 196 leads (108 openings, 88 closures).",
+      "blurb": "<strong>Twelfth straight day without new leads</strong>\u2014Sunday extends June freeze to 288 hours as detection machinery logs second consecutive weekend with zero activity across all Denver neighborhoods.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -21,7 +21,7 @@
       }
     },
     "foreclosure": {
-      "blurb": "<strong>Airport Road and Hughes Road industrial site in Aurora filed $4.9M foreclosure</strong>\u2014Arapahoe County property scheduled for June 5 auction remains week's only $4M+ filing.",
+      "blurb": "Nothing new to report today.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "14",
+        "value1": "37",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 36: June freeze reaches first Saturday</strong>\u2014Colorado's licensing shutdown extends 36th consecutive day with zero applications filed, zero status changes across 12,396 tracked licenses. The May paralysis now controls June's opening six calendar days as state apparatus maintains complete radio silence. The invisible backlog grows while machinery posts longest documented freeze in modern Colorado regulatory history. Saturday marks first weekend day of month with zero movement as licensing shutdown extends into second full weekend.",
+      "blurb": "<strong>Day 37: Sunday extends June licensing blackout</strong>\u2014Colorado's application freeze reaches 37th consecutive day with zero filings, zero status changes across 12,396 tracked licenses. The unprecedented regulatory shutdown now owns June's first full week as state machinery maintains complete silence through second weekend. May's paralysis hardened into June gridlock with no signs of thaw as Sunday posts month's seventh straight zero-activity day. The invisible backlog compounds while licensing apparatus logs longest documented freeze in modern Colorado history.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,18 +59,18 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Six mentions yesterday hold Friday momentum</strong>\u2014BusinessDen logged 41 pickups across 10 sources in past 7 days, down 2% from prior week's 42 mentions, effectively flat. Denver Post led with 10 citations, Facebook contributed 9, Instagram 6. Notable Saturday coverage: Tenth Circuit rental car fee case (Kim Monson Show), Denver Housing CEO dismissal (Hoodline), Dick's Sporting Goods 'House of Sport' Thornton opening (Denver Post). Week shows stable citation velocity as media attention maintains plateau through first June weekend. Google News RSS continues driving 100% of discovery.",
+      "blurb": "<strong>Three mentions yesterday</strong> as Saturday coverage included 76ers president hire (Facebook), Aurora apartment query (Reddit), $9.5M Cherry Hills sale (Denver Post). Weekly total: 37 pickups across 10 sources, down 16% from prior week's 44 mentions. Denver Post led with 8 citations, Facebook contributed 7, Reddit and Instagram tied at 5 each. Week-over-week decline snaps multi-week plateau as media attention cools entering second June weekend. Google News RSS continues driving 100% of discovery.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "6",
+        "value1": "3",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "41",
-        "class1": "",
+        "value1": "37",
+        "class1": "down",
         "label2": "sources",
         "value2": "10",
         "class2": "",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +4 yesterday</strong> (6 new, 2 canceled)\u2014Friday breaks ten-day flatline with strongest single-day gain since May 28's net +6. MTD net climbs to +8 (+1.6/day), 90-day net rises to +134. The past two weeks reveal whipsaw pattern: May 26-28 produced net +11, then May 29-June 4 delivered ten straight zeros, now June 5 posts net +4 to finally crack month-opening freeze. YTD pace of +1.3/day sits below Friday's MTD rate as June shows first acquisition pulse after brutal opening-week paralysis that fully erased late-May momentum.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled)\u2014Saturday's modest gain lifts MTD net to +10 (+1.7/day), 90-day net to +129. Past two weeks show volatile pattern: May 26-28 delivered net +11, May 29-June 4 posted ten-day freeze, then June 5-6 recovered with net +5 across two days. Recent 7-day span (+11) outpaces prior week (+9) as June shakes off opening paralysis, though Saturday's single-subscriber gain suggests cooling momentum after Friday's net +4 surge. YTD pace (+1.3/day) trails current MTD velocity as month enters first full weekend with uneven but positive trajectory.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "8",
-      "net_ytd": "197",
-      "net_mtd_per_day": "1.6",
+      "net_mtd": "10",
+      "net_ytd": "199",
+      "net_mtd_per_day": "1.7",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "6",
-      "annual_ytd": "151",
+      "annual_mtd": "8",
+      "annual_ytd": "159",
       "monthly_mtd": "2",
-      "monthly_ytd": "46"
+      "monthly_ytd": "40"
     }
   }
 }
