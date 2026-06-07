@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-06-07",
-  "fetched_at": "2026-06-07 14:40:13",
+  "fetched_at": "2026-06-07 15:34:14",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "BizWest launches on Apple News",
+      "link": "https://bizwest.com/2026/06/07/bizwest-launches-on-apple-news/",
+      "source": "BizWest",
+      "pub_date": "2026-06-07T14:59:24+00:00",
+      "age_hours": 0.5747349052777777,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
     {
       "title": "Are less-thirsty crops a solution to Colorado\u2019s growing water problems?",
       "link": "https://coloradosun.com/2026/06/07/colorado-water-saving-crops-versus-market-demand/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-07T10:00:00+00:00",
-      "age_hours": 4.666469815277778,
+      "age_hours": 5.565644353333334,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Larger-than-life fiberglass horse sculpture from Boulder artist is in one of the world\u2019s most prestigious art shows",
       "link": "https://www.cpr.org/2026/06/07/boulder-artist-scupltor-at-whitney-biennial/",
       "source": "CPR",
       "pub_date": "2026-06-07T10:00:00+00:00",
-      "age_hours": 4.666590686388889,
+      "age_hours": 5.565846430833333,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver weather: More hot weather Sunday",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-more-hot-weather-sunday/",
       "source": "Fox31",
       "pub_date": "2026-06-07T01:34:45+00:00",
-      "age_hours": 13.087671377222222,
+      "age_hours": 13.987035089722223,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -36,52 +45,52 @@
       "link": "https://kdvr.com/news/local/crowds-flock-to-chatfield-reservoir-as-temperatures-soar-into-the-90s/",
       "source": "Fox31",
       "pub_date": "2026-06-07T01:30:53+00:00",
-      "age_hours": 13.152115878333333,
+      "age_hours": 14.051479596666667,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Alcohol suspected in fatal Aurora crash that killed 1 early Saturday, police say",
       "link": "https://sentinelcolorado.com/metro/alcohol-suspected-in-fatal-aurora-crash-that-killed-1-early-sunday-police-say/",
       "source": "Sentinel",
       "pub_date": "2026-06-07T00:55:22+00:00",
-      "age_hours": 13.744231304444444,
+      "age_hours": 14.643859793055556,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Watch: The Colorado Sun discusses childcare at Colorado SunFest 2026",
       "link": "https://coloradosun.com/2026/06/06/watch-the-colorado-sun-discusses-childcare-at-colorado-sunfest-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-06T21:25:00+00:00",
-      "age_hours": 17.24980402138889,
+      "age_hours": 18.148978480277776,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Watch: The Colorado Sun discusses the challenges and solutions for an aging population at Colorado SunFest 2026",
       "link": "https://coloradosun.com/2026/06/06/watch-the-colorado-sun-discusses-the-challenges-and-solutions-for-an-aging-population-at-colorado-sunfest-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-06T21:19:00+00:00",
-      "age_hours": 17.34980464138889,
+      "age_hours": 18.248979052499998,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "What to know about new trials ordered for two paramedics in the death of Elijah McClain",
       "link": "https://kdvr.com/news/local/what-to-know-about-new-trials-ordered-for-two-paramedics-in-the-death-of-elijah-mcclain/",
       "source": "Fox31",
       "pub_date": "2026-06-06T17:17:35+00:00",
-      "age_hours": 21.37378258777778,
+      "age_hours": 22.273146311666665,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Fuel prices are shaping summer plans as boaters get ready to hit the water",
       "link": "https://kdvr.com/news/money/ap-fuel-prices-are-shaping-summer-plans-as-us-boaters-get-ready-to-hit-the-water/",
       "source": "Fox31",
       "pub_date": "2026-06-06T13:45:03+00:00",
-      "age_hours": 24.916004926666666,
+      "age_hours": 25.815368659444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.cpr.org/2026/06/06/sapphire-golf-black-women/",
       "source": "CPR",
       "pub_date": "2026-06-06T10:00:00+00:00",
-      "age_hours": 28.666590779166665,
+      "age_hours": 29.565846522777775,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://www.westword.com/food-drink/sundae-and-every-restaurant-opening-and-closing-this-week-in-denver-40894507/",
       "source": "Westword",
       "pub_date": "2026-06-06T05:58:59-06:00",
-      "age_hours": 26.683814101666666,
+      "age_hours": 27.583363986944445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/06/05/boulder-dda-plans-proceed-apace-but-some-leaders-remain-skeptical/",
       "source": "BizWest",
       "pub_date": "2026-06-06T02:00:00+00:00",
-      "age_hours": 36.66615980416667,
+      "age_hours": 37.564735471111106,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://www.9news.com/article/news/local/local-politics/denver-bond-money-office-building-affordable-housing-feasibility-study/73-57c6fb4e-bd08-4b76-b703-d7de317bf85a",
       "source": "9News",
       "pub_date": "2026-06-06T01:11:35+00:00",
-      "age_hours": 37.473599533611115,
+      "age_hours": 38.372848661666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://www.9news.com/video/next-with-kyle-clark/big-purchase-little-planning-next-with-kyle-clark-full-show-6526/73-e284710a-66da-47eb-a1eb-89d43e0b4f26",
       "source": "9News",
       "pub_date": "2026-06-06T01:05:47+00:00",
-      "age_hours": 37.570266208611116,
+      "age_hours": 38.46951533722223,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.cpr.org/2026/06/05/aurora-report-review-behavioral-health-crisis-system/",
       "source": "CPR",
       "pub_date": "2026-06-05T23:28:51+00:00",
-      "age_hours": 39.18575745305556,
+      "age_hours": 40.085013196944445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://sentinelcolorado.com/uncategorized/australian-cockroach-kingpin-caught-with-100000-illegal-insects-in-record-bug-bust/",
       "source": "Sentinel",
       "pub_date": "2026-06-05T21:04:49+00:00",
-      "age_hours": 41.58673154694444,
+      "age_hours": 42.48636003388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/06/05/eco-devo-expert-mehle-on-move-again-this-time-to-adams/",
       "source": "BizWest",
       "pub_date": "2026-06-05T20:53:19+00:00",
-      "age_hours": 41.777548708333335,
+      "age_hours": 42.67612436833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/06/05/svp-chooses-childhood-education-group-for-catapult-program-support/",
       "source": "BizWest",
       "pub_date": "2026-06-05T20:14:17+00:00",
-      "age_hours": 42.42810427027778,
+      "age_hours": 43.326679929166666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/06/05/lowes-secures-land-for-planned-frederick-home-improvement-store/",
       "source": "BizWest",
       "pub_date": "2026-06-05T19:55:54+00:00",
-      "age_hours": 42.734493666111106,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Craft-beer production contracted 4% in 2025",
-      "link": "https://bizwest.com/2026/06/05/craft-beer-production-contracted-4-in-2025/",
-      "source": "BizWest",
-      "pub_date": "2026-06-05T19:53:46+00:00",
-      "age_hours": 42.77004925944445,
+      "age_hours": 43.63306885722222,
       "breaking": false,
       "time_ago": "1 day ago"
     }
