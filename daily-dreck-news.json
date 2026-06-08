@@ -1,96 +1,141 @@
 {
   "fetched_date": "2026-06-08",
-  "fetched_at": "2026-06-08 20:56:51",
+  "fetched_at": "2026-06-08 21:38:34",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 16,
   "articles": [
+    {
+      "title": "Former University Inn reopens as Buxton Hotel",
+      "link": "https://bizwest.com/2026/06/08/former-university-inn-reopens-as-buxton-hotel/",
+      "source": "BizWest",
+      "pub_date": "2026-06-08T21:21:18+00:00",
+      "age_hours": 0.28336896055555555,
+      "breaking": true,
+      "time_ago": "17 min ago"
+    },
+    {
+      "title": "Girls Soccer: 2026 All-Colorado League teams",
+      "link": "https://sentinelcolorado.com/sports/preps/girls-soccer/girls-soccer-2026-all-colorado-league-teams/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-08T21:16:56+00:00",
+      "age_hours": 0.3569635583333333,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "NAIOP Selects Ryan Companies as 2026 North American Developer of the Year",
+      "link": "https://milehighcre.com/naiop-selects-ryan-companies-as-2026-north-american-developer-of-the-year/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-08T21:15:32+00:00",
+      "age_hours": 0.37978471472222225,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
+    {
+      "title": "Owner seeks DDA funding for redevelopment of Fort Collins building",
+      "link": "https://bizwest.com/2026/06/08/owner-seeks-dda-funding-for-redevelopment-of-fort-collins-building/",
+      "source": "BizWest",
+      "pub_date": "2026-06-08T21:12:34+00:00",
+      "age_hours": 0.4289250975,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
+    {
+      "title": "Law aims to help residents get hail and wind-resistant roofs",
+      "link": "https://kdvr.com/news/local/law-aims-to-help-residents-get-hail-and-wind-resistant-roofs/",
+      "source": "Fox31",
+      "pub_date": "2026-06-08T21:02:43+00:00",
+      "age_hours": 0.5936997547222223,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
     {
       "title": "CIGNA to pull out of individual health market, affecting thousands in Colorado",
       "link": "https://www.coloradopolitics.com/2026/06/08/cigna-to-pull-out-of-individual-health-market-affecting-thousands-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-06-08T20:42:33+00:00",
-      "age_hours": 0.23488369972222223,
+      "age_hours": 0.9299630627777777,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "55 min ago"
     },
     {
       "title": "Apple unveils new AI features with privacy focus at developers conference",
       "link": "https://sentinelcolorado.com/a-town-magazine/techknow/apple-unveils-new-ai-features-with-privacy-focus-at-developers-conference/",
       "source": "Sentinel",
       "pub_date": "2026-06-08T20:37:13+00:00",
-      "age_hours": 0.32389669972222224,
+      "age_hours": 1.0189084552777778,
       "breaking": true,
-      "time_ago": "19 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "From unfilled gas tanks to fewer frills, retailers see US consumers rethink their spending",
       "link": "https://sentinelcolorado.com/uncategorized/from-unfilled-gas-tanks-to-fewer-frills-retailers-see-us-consumers-rethink-their-spending/",
       "source": "Sentinel",
       "pub_date": "2026-06-08T20:33:08+00:00",
-      "age_hours": 0.3919524583333333,
+      "age_hours": 1.086964241388889,
       "breaking": true,
-      "time_ago": "23 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Pedestrian struck, killed by A Line train in Denver",
       "link": "https://www.9news.com/article/news/local/pedestrian-killed-rtd-train-denver/73-d4ec6026-e8b7-4595-8a8b-2d9797bdd0af",
       "source": "9News",
       "pub_date": "2026-06-08T20:06:34+00:00",
-      "age_hours": 0.8328322888888889,
+      "age_hours": 1.5293845680555556,
       "breaking": true,
-      "time_ago": "49 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver neighborhood named one of the best gayborhoods in the US: Lonely Planet",
       "link": "https://kdvr.com/denver-guide/denver-neighborhood-named-one-of-the-best-gayborhoods-in-the-us-lonely-planet/",
       "source": "Fox31",
       "pub_date": "2026-06-08T19:20:24+00:00",
-      "age_hours": 1.6037381480555557,
+      "age_hours": 2.2989775791666665,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver outdoor pools open for the summer",
       "link": "https://kdvr.com/news/denver-outdoor-pools-open-for-the-summer/",
       "source": "Fox31",
       "pub_date": "2026-06-08T19:15:16+00:00",
-      "age_hours": 1.6892937574999998,
+      "age_hours": 2.3845332530555554,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "A Celebration of Creativity, Community, and Leadership at the 2026 SMPS Colorado Marketing Excellence Awards",
       "link": "https://milehighcre.com/a-celebration-of-creativity-community-and-leadership-at-the-2026-smps-colorado-marketing-excellence-awards/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-08T18:35:51+00:00",
-      "age_hours": 2.344515358611111,
+      "age_hours": 3.041173621388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Business Buzz: Commerce City\u2019s national business push and the swipe fee debate",
       "link": "https://www.9news.com/article/money/business-brief/commerce-citys-national-business-push-and-main-streets-swipe-fee-debate/73-e08cb55f-22a4-49c6-be4e-ac0b5beecb95",
       "source": "9News",
       "pub_date": "2026-06-08T18:04:20+00:00",
-      "age_hours": 2.8700545777777777,
+      "age_hours": 3.5666068669444444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "VENU Closes $49.7M Sale-Leaseback on Ford Amphitheater Land",
       "link": "https://milehighcre.com/venu-closes-49-7m-sale-leaseback-on-ford-amphitheater-land/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-08T17:12:33+00:00",
-      "age_hours": 3.732848954444444,
+      "age_hours": 4.429507288611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Phase 1 of Crossroads 25 Breaks Ground in Thornton",
       "link": "https://milehighcre.com/phase-1-of-crossroads-25-breaks-ground-in-thornton/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-08T15:45:00+00:00",
-      "age_hours": 5.192015631666666,
+      "age_hours": 5.8886739675,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -99,90 +144,45 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/taste-of-fort-collins-moves-september/73-061ee002-faf1-402a-af3f-4a47c3c5fb4e",
       "source": "9News",
       "pub_date": "2026-06-08T15:38:15+00:00",
-      "age_hours": 5.304776859444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.0013291650000005,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "3 in custody after vehicle stolen at gunpoint in Denver",
       "link": "https://kdvr.com/news/local/3-in-custody-after-vehicle-stolen-at-gunpoint-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-08T15:24:37+00:00",
-      "age_hours": 5.533460333611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.228699856944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Homeownership challenges and creative solutions for millennials and Gen Z",
       "link": "https://www.9news.com/article/money/markets/real-estate/first-time-buyers-housing-market/73-5c87ca04-1158-400d-a9a3-27cf1ac2afdd",
       "source": "9News",
       "pub_date": "2026-06-08T15:12:50+00:00",
-      "age_hours": 5.728387978611111,
+      "age_hours": 6.424940286388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Trammell Crow Buys Thornton Site To Build 1.1M SF Industrial Park",
+      "link": "https://www.bisnow.com/denver/news/industrial/developer-buys-thornton-site-to-build-11m-sf-industrial-park-134913",
+      "source": "Bisnow",
+      "pub_date": "2026-06-08T14:34:03-04:00",
+      "age_hours": 3.0709930730555555,
       "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Camp Pickle site sells at foreclosure auction",
       "link": "https://www.9news.com/article/money/business/camp-pickle-sells-foreclosure-auction/73-8e0494b1-2e53-482a-ba9a-a7b3d799fb8f",
       "source": "9News",
       "pub_date": "2026-06-08T13:57:00+00:00",
-      "age_hours": 6.992276885,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Gogo firm wins $7.5M NOAA contract for hurricane hunters",
-      "link": "https://bizwest.com/2026/06/08/gogo-firm-wins-7-5m-noaa-contract-for-hurricane-hunters/",
-      "source": "BizWest",
-      "pub_date": "2026-06-08T13:46:19+00:00",
-      "age_hours": 7.169686280277778,
+      "age_hours": 7.688829194444445,
       "breaking": false,
       "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Hoedown Hill to host free live music on Tuesday nights",
-      "link": "https://bizwest.com/2026/06/08/hoedown-hill-to-host-free-live-music-on-tuesday-nights/",
-      "source": "BizWest",
-      "pub_date": "2026-06-08T13:40:18+00:00",
-      "age_hours": 7.269964458611111,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "BizWest launches on Apple News",
-      "link": "https://bizwest.com/2026/06/08/bizwest-launches-on-apple-news-2/",
-      "source": "BizWest",
-      "pub_date": "2026-06-08T13:33:02+00:00",
-      "age_hours": 7.3910756125,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Cicis Pizza returns to Colorado",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/cicis-pizza-buffet-aurora-colorado-opening/73-680646ff-0578-4b07-b67a-a8b1227c9230",
-      "source": "9News",
-      "pub_date": "2026-06-08T12:32:21+00:00",
-      "age_hours": 8.403110265277778,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Medical marijuana has been rescheduled. Does that mean I can fly out of Denver with it?",
-      "link": "https://www.westword.com/news/can-i-fly-with-medical-marijuana-now-40895016/",
-      "source": "Westword",
-      "pub_date": "2026-06-08T11:42:43-06:00",
-      "age_hours": 3.2319786602777776,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "As retiree pensions shrank, Colorado PERA paid its staff millions of dollars in bonuses",
-      "link": "https://coloradosun.com/2026/06/08/colorado-pera-staff-bonuses-shrinking-pension-fund-analysis/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-08T10:29:00+00:00",
-      "age_hours": 10.458735096388889,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
     }
   ]
 }
