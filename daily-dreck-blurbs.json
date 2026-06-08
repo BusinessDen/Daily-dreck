@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-06-07",
-  "lead_headline": "Restaurant tracker posts twelfth consecutive zero-lead day as June shutdown extends into second full weekend",
+  "generated_date": "2026-06-08",
+  "lead_headline": "Weekend freeze persists as restaurant tracker logs three more dead days while Aurora filing hits $4.9M",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Twelfth straight day without new leads</strong>\u2014Sunday extends June freeze to 288 hours as detection machinery logs second consecutive weekend with zero activity across all Denver neighborhoods.",
+      "blurb": "<strong>Three-day weekend silence extends June freeze to 14 days</strong>\u2014detection machinery logged zero new leads Friday through Sunday as metropolitan Denver restaurant scene remains frozen, no openings or closures detected across all neighborhoods.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
         "value2": "0",
-        "period": "today"
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -21,14 +21,14 @@
       }
     },
     "foreclosure": {
-      "blurb": "Nothing new to report today.",
+      "blurb": "Airport Road and Hughes Road property in Aurora filed at <strong>$4.9 million</strong> in Arapahoe County, auction scheduled June 5.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "1",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 37: Sunday extends June licensing blackout</strong>\u2014Colorado's application freeze reaches 37th consecutive day with zero filings, zero status changes across 12,396 tracked licenses. The unprecedented regulatory shutdown now owns June's first full week as state machinery maintains complete silence through second weekend. May's paralysis hardened into June gridlock with no signs of thaw as Sunday posts month's seventh straight zero-activity day. The invisible backlog compounds while licensing apparatus logs longest documented freeze in modern Colorado history.",
+      "blurb": "<strong>Weekend blackout extends June paralysis to 38 consecutive days</strong>\u2014Colorado's licensing machinery remained frozen Friday through Sunday with zero applications, zero status changes across 12,396 tracked licenses. The three-day weekend silence deepens month's regulatory gridlock as state apparatus logs eighth, ninth, and tenth straight zero-activity days. June's opening fortnight now mirrors May's unprecedented shutdown pattern with no filing activity whatsoever. The invisible backlog swells while licensing infrastructure posts longest documented freeze in modern state history, weekend silence offering no hint of thaw as apparatus enters third full week of complete inactivity.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Three mentions yesterday</strong> as Saturday coverage included 76ers president hire (Facebook), Aurora apartment query (Reddit), $9.5M Cherry Hills sale (Denver Post). Weekly total: 37 pickups across 10 sources, down 16% from prior week's 44 mentions. Denver Post led with 8 citations, Facebook contributed 7, Reddit and Instagram tied at 5 each. Week-over-week decline snaps multi-week plateau as media attention cools entering second June weekend. Google News RSS continues driving 100% of discovery.",
+      "blurb": "<strong>One mention yesterday</strong> as Sunday coverage included Traffic Turbo analysis on Reddit. <strong>Weekly tally: 35 pickups across 9 sources</strong>, down 22% from prior week's 45 mentions as June weekend wraps second consecutive week of declining media attention. Denver Post led weekend with 8 citations, Facebook contributed 6, Reddit logged 5 including Saturday's moving-to-Denver apartment query and Sunday's traffic discussion. Notable Saturday pickups: $9.5M Cherry Hills sale (Denver Post), 76ers president hire (Facebook). Week-over-week slide accelerates from prior period's 16% drop as media interest cools entering second full June week, Google News RSS driving 97% of discovery while Reddit RSS contributed single organic mention.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "37",
+        "value1": "35",
         "class1": "down",
         "label2": "sources",
-        "value2": "10",
+        "value2": "9",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled)\u2014Saturday's modest gain lifts MTD net to +10 (+1.7/day), 90-day net to +129. Past two weeks show volatile pattern: May 26-28 delivered net +11, May 29-June 4 posted ten-day freeze, then June 5-6 recovered with net +5 across two days. Recent 7-day span (+11) outpaces prior week (+9) as June shakes off opening paralysis, though Saturday's single-subscriber gain suggests cooling momentum after Friday's net +4 surge. YTD pace (+1.3/day) trails current MTD velocity as month enters first full weekend with uneven but positive trajectory.",
+      "blurb": "<strong>Net +6 since Friday</strong> (9 new, 3 canceled) lifts MTD net to +10 (+1.4/day), 90-day net stands at +129. Weekend delivered modest net +2 Friday through Sunday after prior week's Thursday-Friday surge posted net +5 across two days, recent three-week pattern shows pronounced volatility with multi-day freezes punctuated by burst activity. Current 7-day window (+10) matches prior period (+11) as June stabilizes around +1.4/day pace, modestly outpacing YTD velocity (+1.3/day) while trailing May's stronger back-half momentum that averaged +2.1/day in month's final two weeks.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "10",
       "net_ytd": "199",
-      "net_mtd_per_day": "1.7",
+      "net_mtd_per_day": "1.4",
       "net_ytd_per_day": "1.3",
       "annual_mtd": "8",
-      "annual_ytd": "159",
+      "annual_ytd": "162",
       "monthly_mtd": "2",
-      "monthly_ytd": "40"
+      "monthly_ytd": "37"
     }
   }
 }
