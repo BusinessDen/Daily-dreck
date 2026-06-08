@@ -1,114 +1,150 @@
 {
   "fetched_date": "2026-06-08",
-  "fetched_at": "2026-06-08 15:12:40",
+  "fetched_at": "2026-06-08 17:12:14",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Taste of Fort Collins shifts to autumn with two music headliners",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/taste-of-fort-collins-moves-september/73-061ee002-faf1-402a-af3f-4a47c3c5fb4e",
+      "source": "9News",
+      "pub_date": "2026-06-08T15:38:15+00:00",
+      "age_hours": 1.5623746413888888,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "3 in custody after vehicle stolen at gunpoint in Denver",
+      "link": "https://kdvr.com/news/local/3-in-custody-after-vehicle-stolen-at-gunpoint-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-06-08T15:24:37+00:00",
+      "age_hours": 1.7898951405555554,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Homeownership challenges and creative solutions for millennials and Gen Z",
+      "link": "https://www.9news.com/article/money/markets/real-estate/first-time-buyers-housing-market/73-5c87ca04-1158-400d-a9a3-27cf1ac2afdd",
+      "source": "9News",
+      "pub_date": "2026-06-08T15:12:50+00:00",
+      "age_hours": 1.9859857808333332,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Camp Pickle site sells at foreclosure auction",
       "link": "https://www.9news.com/article/money/business/camp-pickle-sells-foreclosure-auction/73-8e0494b1-2e53-482a-ba9a-a7b3d799fb8f",
       "source": "9News",
       "pub_date": "2026-06-08T13:57:00+00:00",
-      "age_hours": 1.2569067975,
+      "age_hours": 3.2498746991666665,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Gogo firm wins $7.5M NOAA contract for hurricane hunters",
       "link": "https://bizwest.com/2026/06/08/gogo-firm-wins-7-5m-noaa-contract-for-hurricane-hunters/",
       "source": "BizWest",
       "pub_date": "2026-06-08T13:46:19+00:00",
-      "age_hours": 1.4338546655555555,
+      "age_hours": 3.4270374922222224,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Hoedown Hill to host free live music on Tuesday nights",
       "link": "https://bizwest.com/2026/06/08/hoedown-hill-to-host-free-live-music-on-tuesday-nights/",
       "source": "BizWest",
       "pub_date": "2026-06-08T13:40:18+00:00",
-      "age_hours": 1.534133005,
+      "age_hours": 3.527315834444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "BizWest launches on Apple News",
       "link": "https://bizwest.com/2026/06/08/bizwest-launches-on-apple-news-2/",
       "source": "BizWest",
       "pub_date": "2026-06-08T13:33:02+00:00",
-      "age_hours": 1.6552441511111111,
+      "age_hours": 3.648426980277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Cicis Pizza returns to Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/cicis-pizza-buffet-aurora-colorado-opening/73-680646ff-0578-4b07-b67a-a8b1227c9230",
       "source": "9News",
       "pub_date": "2026-06-08T12:32:21+00:00",
-      "age_hours": 2.6677402169444444,
+      "age_hours": 4.660708094166666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Green goes gray: Older folks in Colorado trying weed in record numbers for help with pain, sleep",
       "link": "https://sentinelcolorado.com/metro/green-goes-gray-older-folks-in-colorado-trying-weed-in-record-numbers-for-help-with-pain-sleep/",
       "source": "Sentinel",
       "pub_date": "2026-06-08T12:30:32+00:00",
-      "age_hours": 2.698622180277778,
+      "age_hours": 4.691784098333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Fishermen prepared for the longest red snapper season in recent memory. A court order stopped it",
       "link": "https://sentinelcolorado.com/uncategorized/fishermen-prepared-for-the-longest-red-snapper-season-in-recent-memory-a-court-order-stopped-it/",
       "source": "Sentinel",
       "pub_date": "2026-06-08T12:15:56+00:00",
-      "age_hours": 2.941955616944444,
+      "age_hours": 4.935117537777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "RTD reinstates former Littleton light rail line, adding temporary T Line",
       "link": "https://www.9news.com/article/life/style/colorado-guide/rtd-light-rail-line-c-line-returns/73-5d1e9e5a-a8d1-45e1-a37a-12d3c2195884",
       "source": "9News",
       "pub_date": "2026-06-08T10:53:52+00:00",
-      "age_hours": 4.309129155277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.302097029722223,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "As retiree pensions shrank, Colorado PERA paid its staff millions of dollars in bonuses",
       "link": "https://coloradosun.com/2026/06/08/colorado-pera-staff-bonuses-shrinking-pension-fund-analysis/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-08T10:29:00+00:00",
-      "age_hours": 4.723413318055556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.716243831666667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "More than 40,000 Coloradans will need a new health insurance carrier next year. Here\u2019s who is affected.",
       "link": "https://coloradosun.com/2026/06/08/cigna-health-insurance-individual-market/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-08T10:20:00+00:00",
-      "age_hours": 4.873413353055556,
+      "age_hours": 6.8662438691666665,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Seven LGBTQ+ groups and businesses creating community around Denver",
+      "link": "https://www.westword.com/arts-culture/seven-lgbtq-groups-and-businesses-creating-community-around-denver-40895116/",
+      "source": "Westword",
+      "pub_date": "2026-06-08T09:30:00-06:00",
+      "age_hours": 1.7003962913888888,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Police investigating 4 separate overnight shootings in Denver",
       "link": "https://kdvr.com/news/local/police-investigating-4-separate-overnight-shootings-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-07T21:10:21+00:00",
-      "age_hours": 18.0346800875,
+      "age_hours": 20.027672971111112,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Are less-thirsty crops a solution to Colorado\u2019s growing water problems?",
       "link": "https://coloradosun.com/2026/06/07/colorado-water-saving-crops-versus-market-demand/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-07T10:00:00+00:00",
-      "age_hours": 29.206747408333335,
+      "age_hours": 31.199577900833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,16 +153,7 @@
       "link": "https://www.cpr.org/2026/06/07/boulder-artist-scupltor-at-whitney-biennial/",
       "source": "CPR",
       "pub_date": "2026-06-07T10:00:00+00:00",
-      "age_hours": 29.20686990472222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Crowds flock to Chatfield Reservoir as temperatures soar into the 90s",
-      "link": "https://kdvr.com/news/local/crowds-flock-to-chatfield-reservoir-as-temperatures-soar-into-the-90s/",
-      "source": "Fox31",
-      "pub_date": "2026-06-07T01:30:53+00:00",
-      "age_hours": 37.69245793166667,
+      "age_hours": 31.199764834722224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +162,7 @@
       "link": "https://kdvr.com/news/local/what-to-know-about-new-trials-ordered-for-two-paramedics-in-the-death-of-elijah-mcclain/",
       "source": "Fox31",
       "pub_date": "2026-06-06T17:17:35+00:00",
-      "age_hours": 45.91412464194445,
+      "age_hours": 47.90711748611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,16 +171,7 @@
       "link": "https://www.cpr.org/2026/06/06/sapphire-golf-black-women/",
       "source": "CPR",
       "pub_date": "2026-06-06T10:00:00+00:00",
-      "age_hours": 53.20686998861111,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Denver City Council preparing to boot businesses that don\u2019t comply with local laws, like immigration enforcement",
-      "link": "https://www.westword.com/news/denver-council-boot-key-lime-from-airport-ice-flights-40894811/",
-      "source": "Westword",
-      "pub_date": "2026-06-06T08:59:30-06:00",
-      "age_hours": 48.215719467499994,
+      "age_hours": 55.19976493194444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://bizwest.com/2026/06/05/boulder-dda-plans-proceed-apace-but-some-leaders-remain-skeptical/",
       "source": "BizWest",
       "pub_date": "2026-06-06T02:00:00+00:00",
-      "age_hours": 61.2057997375,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Eco-devo expert Mehle on move again, this time to Adams",
-      "link": "https://bizwest.com/2026/06/05/eco-devo-expert-mehle-on-move-again-this-time-to-adams/",
-      "source": "BizWest",
-      "pub_date": "2026-06-05T20:53:19+00:00",
-      "age_hours": 66.31718863249999,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "SVP chooses childhood education group for Catapult program support",
-      "link": "https://bizwest.com/2026/06/05/svp-chooses-childhood-education-group-for-catapult-program-support/",
-      "source": "BizWest",
-      "pub_date": "2026-06-05T20:14:17+00:00",
-      "age_hours": 66.96774419305555,
+      "age_hours": 63.19898257944444,
       "breaking": false,
       "time_ago": "2 days ago"
     }
