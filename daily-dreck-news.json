@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-06-08",
-  "fetched_at": "2026-06-08 03:17:00",
+  "fetched_at": "2026-06-08 05:41:17",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Lawsuit seeks to stop the UFC fight on the White House South Lawn for Trump\u2019s birthday",
+      "link": "https://sentinelcolorado.com/nation-world/nation/lawsuit-seeks-to-stop-the-ufc-fight-on-the-white-house-south-lawn-for-trumps-birthday/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-08T03:25:03+00:00",
+      "age_hours": 2.2677677055555554,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Police investigating 4 separate overnight shootings in Denver",
       "link": "https://kdvr.com/news/local/police-investigating-4-separate-overnight-shootings-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-07T21:10:21+00:00",
-      "age_hours": 6.107355857222222,
+      "age_hours": 8.512554857222222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Cicis Pizza returns to Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/cicis-pizza-buffet-aurora-colorado-opening/73-680646ff-0578-4b07-b67a-a8b1227c9230",
       "source": "9News",
       "pub_date": "2026-06-07T18:16:42+00:00",
-      "age_hours": 9.001218501666667,
+      "age_hours": 11.405330111388889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "BizWest launches on Apple News",
       "link": "https://bizwest.com/2026/06/07/bizwest-launches-on-apple-news/",
       "source": "BizWest",
       "pub_date": "2026-06-07T14:59:24+00:00",
-      "age_hours": 12.289101043333334,
+      "age_hours": 14.688986467777777,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Are less-thirsty crops a solution to Colorado\u2019s growing water problems?",
       "link": "https://coloradosun.com/2026/06/07/colorado-water-saving-crops-versus-market-demand/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-07T10:00:00+00:00",
-      "age_hours": 17.27939229277778,
+      "age_hours": 19.683450780833333,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Larger-than-life fiberglass horse sculpture from Boulder artist is in one of the world\u2019s most prestigious art shows",
       "link": "https://www.cpr.org/2026/06/07/boulder-artist-scupltor-at-whitney-biennial/",
       "source": "CPR",
       "pub_date": "2026-06-07T10:00:00+00:00",
-      "age_hours": 17.279515271666664,
+      "age_hours": 19.683584024166667,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Crowds flock to Chatfield Reservoir as temperatures soar into the 90s",
       "link": "https://kdvr.com/news/local/crowds-flock-to-chatfield-reservoir-as-temperatures-soar-into-the-90s/",
       "source": "Fox31",
       "pub_date": "2026-06-07T01:30:53+00:00",
-      "age_hours": 25.765133714166666,
+      "age_hours": 28.17033271888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://sentinelcolorado.com/metro/alcohol-suspected-in-fatal-aurora-crash-that-killed-1-early-sunday-police-say/",
       "source": "Sentinel",
       "pub_date": "2026-06-07T00:55:22+00:00",
-      "age_hours": 26.35752461,
+      "age_hours": 28.76249034583333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://coloradosun.com/2026/06/06/watch-the-colorado-sun-discusses-childcare-at-colorado-sunfest-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-06T21:25:00+00:00",
-      "age_hours": 29.86272642638889,
+      "age_hours": 32.26678499083334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://coloradosun.com/2026/06/06/watch-the-colorado-sun-discusses-the-challenges-and-solutions-for-an-aging-population-at-colorado-sunfest-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-06T21:19:00+00:00",
-      "age_hours": 29.96272701722222,
+      "age_hours": 32.36678560833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://kdvr.com/news/local/what-to-know-about-new-trials-ordered-for-two-paramedics-in-the-death-of-elijah-mcclain/",
       "source": "Fox31",
       "pub_date": "2026-06-06T17:17:35+00:00",
-      "age_hours": 33.98680042833333,
+      "age_hours": 36.39199942611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://kdvr.com/news/money/ap-fuel-prices-are-shaping-summer-plans-as-us-boaters-get-ready-to-hit-the-water/",
       "source": "Fox31",
       "pub_date": "2026-06-06T13:45:03+00:00",
-      "age_hours": 37.5290227725,
+      "age_hours": 39.934221747500004,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.cpr.org/2026/06/06/sapphire-golf-black-women/",
       "source": "CPR",
       "pub_date": "2026-06-06T10:00:00+00:00",
-      "age_hours": 41.27951536194445,
+      "age_hours": 43.68358412805556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://www.westword.com/news/denver-council-boot-key-lime-from-airport-ice-flights-40894811/",
       "source": "Westword",
       "pub_date": "2026-06-06T08:59:30-06:00",
-      "age_hours": 36.28829960527778,
+      "age_hours": 38.69343283416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://www.westword.com/food-drink/sundae-and-every-restaurant-opening-and-closing-this-week-in-denver-40894507/",
       "source": "Westword",
       "pub_date": "2026-06-06T05:58:59-06:00",
-      "age_hours": 39.296910865,
+      "age_hours": 41.70204409916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/06/05/boulder-dda-plans-proceed-apace-but-some-leaders-remain-skeptical/",
       "source": "BizWest",
       "pub_date": "2026-06-06T02:00:00+00:00",
-      "age_hours": 49.27910164194444,
+      "age_hours": 51.67898731638889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://www.cpr.org/2026/06/05/aurora-report-review-behavioral-health-crisis-system/",
       "source": "CPR",
       "pub_date": "2026-06-05T23:28:51+00:00",
-      "age_hours": 51.79868203611112,
+      "age_hours": 54.2027508025,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/06/05/eco-devo-expert-mehle-on-move-again-this-time-to-adams/",
       "source": "BizWest",
       "pub_date": "2026-06-05T20:53:19+00:00",
-      "age_hours": 54.39049053972222,
+      "age_hours": 56.790376217777776,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/06/05/svp-chooses-childhood-education-group-for-catapult-program-support/",
       "source": "BizWest",
       "pub_date": "2026-06-05T20:14:17+00:00",
-      "age_hours": 55.041046100833334,
+      "age_hours": 57.440931781111104,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/06/05/lowes-secures-land-for-planned-frederick-home-improvement-store/",
       "source": "BizWest",
       "pub_date": "2026-06-05T19:55:54+00:00",
-      "age_hours": 55.34743502,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Craft-beer production contracted 4% in 2025",
-      "link": "https://bizwest.com/2026/06/05/craft-beer-production-contracted-4-in-2025/",
-      "source": "BizWest",
-      "pub_date": "2026-06-05T19:53:46+00:00",
-      "age_hours": 55.38299061055555,
+      "age_hours": 57.74732072472222,
       "breaking": false,
       "time_ago": "2 days ago"
     }
