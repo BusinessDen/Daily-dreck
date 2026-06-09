@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-06-08",
-  "lead_headline": "Weekend freeze persists as restaurant tracker logs three more dead days while Aurora filing hits $4.9M",
+  "generated_date": "2026-06-09",
+  "lead_headline": "Restaurant detection machinery remains frozen\u201415 straight days without a single lead as June paralysis deepens",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Three-day weekend silence extends June freeze to 14 days</strong>\u2014detection machinery logged zero new leads Friday through Sunday as metropolitan Denver restaurant scene remains frozen, no openings or closures detected across all neighborhoods.",
+      "blurb": "<strong>Zero leads detected today</strong>\u2014tracker's June freeze now spans 15 consecutive days with no openings or closures registered across metropolitan Denver, extending unprecedented detection drought into third full week.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
         "value2": "0",
-        "period": "since Friday"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -28,7 +28,7 @@
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "0",
+        "value2": "1",
         "class2": "",
         "period": "today"
       },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Weekend blackout extends June paralysis to 38 consecutive days</strong>\u2014Colorado's licensing machinery remained frozen Friday through Sunday with zero applications, zero status changes across 12,396 tracked licenses. The three-day weekend silence deepens month's regulatory gridlock as state apparatus logs eighth, ninth, and tenth straight zero-activity days. June's opening fortnight now mirrors May's unprecedented shutdown pattern with no filing activity whatsoever. The invisible backlog swells while licensing infrastructure posts longest documented freeze in modern state history, weekend silence offering no hint of thaw as apparatus enters third full week of complete inactivity.",
+      "blurb": "<strong>Zero applications detected today</strong>\u2014licensing machinery posts eleventh consecutive day of inactivity as June's regulatory freeze extends into third week. Statewide apparatus logged no filings, no status changes across 12,396 tracked licenses as Monday silence matches weekend paralysis. June's opening 11 days now mirror May's unprecedented shutdown pattern with detection infrastructure frozen solid. The invisible backlog compounds while licensing system remains completely dormant, Monday offering no relief from month's deepening gridlock as apparatus logs longest documented freeze in state licensing history.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>One mention yesterday</strong> as Sunday coverage included Traffic Turbo analysis on Reddit. <strong>Weekly tally: 35 pickups across 9 sources</strong>, down 22% from prior week's 45 mentions as June weekend wraps second consecutive week of declining media attention. Denver Post led weekend with 8 citations, Facebook contributed 6, Reddit logged 5 including Saturday's moving-to-Denver apartment query and Sunday's traffic discussion. Notable Saturday pickups: $9.5M Cherry Hills sale (Denver Post), 76ers president hire (Facebook). Week-over-week slide accelerates from prior period's 16% drop as media interest cools entering second full June week, Google News RSS driving 97% of discovery while Reddit RSS contributed single organic mention.",
+      "blurb": "<strong>One mention yesterday</strong> as Monday coverage included Auraria apartment groundbreaking story in Denver Post. <strong>Weekly tally: 36 pickups across 9 sources</strong>, down 12% from prior week's 41 mentions as early June trend continues downward slide. Denver Post dominated with 9 citations, Facebook logged 6, Reddit contributed 5 including apartment query and traffic analysis. Notable Monday pickup: Auraria campus housing project breaks ground in downtown development (Denver Post). Week-over-week decline follows prior period's 16% drop as media attention cools entering second full June week, Google News RSS driving 97% of discovery.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,7 +69,7 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "35",
+        "value1": "36",
         "class1": "down",
         "label2": "sources",
         "value2": "9",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +6 since Friday</strong> (9 new, 3 canceled) lifts MTD net to +10 (+1.4/day), 90-day net stands at +129. Weekend delivered modest net +2 Friday through Sunday after prior week's Thursday-Friday surge posted net +5 across two days, recent three-week pattern shows pronounced volatility with multi-day freezes punctuated by burst activity. Current 7-day window (+10) matches prior period (+11) as June stabilizes around +1.4/day pace, modestly outpacing YTD velocity (+1.3/day) while trailing May's stronger back-half momentum that averaged +2.1/day in month's final two weeks.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) leaves MTD net at +10 (+1.2/day), 90-day net holds at +129. Monday silence breaks weekend's modest momentum after Friday-Sunday posted net +6 across three days. Recent fortnight shows erratic pattern: four zero-net days punctuated by burst activity including June 5's net +4 spike. Current 7-day window (+8) trails prior period (+14) by 43% as June pace (+1.2/day) slips slightly below YTD velocity (+1.3/day), signaling modest cooling from May's stronger finish that averaged +2.1/day in month's final two weeks.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "10",
       "net_ytd": "199",
-      "net_mtd_per_day": "1.4",
+      "net_mtd_per_day": "1.2",
       "net_ytd_per_day": "1.3",
       "annual_mtd": "8",
-      "annual_ytd": "162",
+      "annual_ytd": "175",
       "monthly_mtd": "2",
-      "monthly_ytd": "37"
+      "monthly_ytd": "24"
     }
   }
 }
