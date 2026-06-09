@@ -1,51 +1,60 @@
 {
   "fetched_date": "2026-06-09",
-  "fetched_at": "2026-06-09 18:49:51",
+  "fetched_at": "2026-06-09 19:44:39",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Cigna to pull out of individual health market, affecting thousands in Colorado",
+      "link": "https://www.coloradopolitics.com/2026/06/09/cigna-to-pull-out-of-individual-health-market-affecting-thousands-in-colorado/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-09T19:17:51+00:00",
+      "age_hours": 0.44423961777777776,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
     {
       "title": "Blucifer\u2019s First Rodeo: A New South Broadway Summer Music Festival",
       "link": "https://www.cpr.org/2026/06/09/blucifers-first-rodeo-by-artists-for-everybody/",
       "source": "CPR",
       "pub_date": "2026-06-09T18:38:03+00:00",
-      "age_hours": 0.1932467936111111,
+      "age_hours": 1.1072054761111112,
       "breaking": true,
-      "time_ago": "11 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver Pride announces grand marshals for the annual parade",
       "link": "https://www.9news.com/article/news/local/2026-denver-pride-parade-grand-marshals/73-e03d0677-17c9-4c6e-b600-79319323b2ed",
       "source": "9News",
       "pub_date": "2026-06-09T17:44:15+00:00",
-      "age_hours": 1.0899928877777778,
+      "age_hours": 2.003911533333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "New restaurant taking Guard and Grace 'to the next level' in Denver",
       "link": "https://kdvr.com/news/local/new-restaurant-taking-guard-and-grace-to-the-next-level-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-09T17:05:08+00:00",
-      "age_hours": 1.74206292,
+      "age_hours": 2.655994125,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "'Human error' caused Denver's tornado sirens to falsely go off",
       "link": "https://kdvr.com/news/local/human-error-caused-denvers-tornado-sirens-to-falsely-go-off/",
       "source": "Fox31",
       "pub_date": "2026-06-09T16:56:59+00:00",
-      "age_hours": 1.877896191388889,
+      "age_hours": 2.7918274083333334,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "New food hall opening in Westminster",
       "link": "https://www.9news.com/article/life/style/colorado-guide/district-pour-provisions/73-f569a0bd-22f1-4904-8a23-55db3ba8920a",
       "source": "9News",
       "pub_date": "2026-06-09T16:46:13+00:00",
-      "age_hours": 2.057215186944444,
+      "age_hours": 2.9711338241666665,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -54,25 +63,25 @@
       "link": "https://coloradosun.com/2026/06/09/colorado-initiative-175-road-funding-state-legislature-no-deal/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-09T16:44:01+00:00",
-      "age_hours": 2.09370548,
+      "age_hours": 3.0076496805555557,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Fort Collins Board of Realtors CEO takes Alabama post",
       "link": "https://bizwest.com/2026/06/09/fort-collins-board-of-realtors-ceo-takes-alabama-post/",
       "source": "BizWest",
       "pub_date": "2026-06-09T13:49:45+00:00",
-      "age_hours": 4.99782607,
+      "age_hours": 5.9107612025,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Summit Tacos plans Hill location",
       "link": "https://bizwest.com/2026/06/09/summit-tacos-plans-hill-location/",
       "source": "BizWest",
       "pub_date": "2026-06-09T13:44:47+00:00",
-      "age_hours": 5.080604362777779,
+      "age_hours": 5.993539491666667,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -81,108 +90,99 @@
       "link": "https://bizwest.com/2026/06/09/fort-collins-ura-wants-to-acquire-motel-through-eminent-domain/",
       "source": "BizWest",
       "pub_date": "2026-06-09T13:40:41+00:00",
-      "age_hours": 5.148937726944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.061872855277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "3,000-square-foot makerspace opens in Grand Lake",
       "link": "https://www.9news.com/article/life/style/colorado-guide/grand-spirit-makerspace/73-20a58923-64a9-4e67-8250-a986f80f01e0",
       "source": "9News",
       "pub_date": "2026-06-09T13:35:15+00:00",
-      "age_hours": 5.2399930333333335,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.1539116711111115,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Fort Collins Mexican restaurant closes after 24 years",
       "link": "https://www.9news.com/article/life/food/inca-mexican-restaurant-closed/73-31b9834c-a940-4d33-b902-099d93c22f73",
       "source": "9News",
       "pub_date": "2026-06-09T13:28:09+00:00",
-      "age_hours": 5.358326400833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.272245038888888,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military",
       "link": "https://sentinelcolorado.com/nation-world/world/pentagon-labels-tech-giant-alibaba-and-electric-car-maker-byd-as-aiding-chinese-military/",
       "source": "Sentinel",
       "pub_date": "2026-06-09T11:31:26+00:00",
-      "age_hours": 7.304260649166667,
+      "age_hours": 8.21788278388889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Former aide alleges Denver council member discriminated and retaliated",
       "link": "https://denverite.com/2026/06/09/denver-council-flor-alvidrez-lawsuit-aide/",
       "source": "Denverite",
       "pub_date": "2026-06-09T10:00:00+00:00",
-      "age_hours": 8.827385529722223,
+      "age_hours": 9.741307281666666,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver Public Schools passes bell-to-bell ban on cell phones",
       "link": "https://www.9news.com/article/news/education/denver-public-schools-cell-phone-electronics-ban/73-37f4d8b5-99db-4932-b124-a98f47a5ff32",
       "source": "9News",
       "pub_date": "2026-06-09T03:41:30+00:00",
-      "age_hours": 15.135826445000001,
+      "age_hours": 16.049745082222223,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Crews respond to large structure fire in Highlands area",
       "link": "https://kdvr.com/news/local/structure-fire-in-highlands-area/",
       "source": "Fox31",
       "pub_date": "2026-06-08T21:54:27+00:00",
-      "age_hours": 20.920118518333332,
+      "age_hours": 21.834049732222223,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Aclarion waves off investor\u2019s acquisition offer",
       "link": "https://bizwest.com/2026/06/08/aclarion-waves-off-investors-acquisition-offer/",
       "source": "BizWest",
       "pub_date": "2026-06-08T21:42:15+00:00",
-      "age_hours": 21.122826647222222,
+      "age_hours": 22.035761775833333,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Former University Inn reopens as Buxton Hotel",
       "link": "https://bizwest.com/2026/06/08/former-university-inn-reopens-as-buxton-hotel/",
       "source": "BizWest",
       "pub_date": "2026-06-08T21:21:18+00:00",
-      "age_hours": 21.47199334722222,
+      "age_hours": 22.384928479166664,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Owner seeks DDA funding for redevelopment of Fort Collins building",
       "link": "https://bizwest.com/2026/06/08/owner-seeks-dda-funding-for-redevelopment-of-fort-collins-building/",
       "source": "BizWest",
       "pub_date": "2026-06-08T21:12:34+00:00",
-      "age_hours": 21.617548931388885,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Law aims to help residents get hail and wind-resistant roofs",
-      "link": "https://kdvr.com/news/local/law-aims-to-help-residents-get-hail-and-wind-resistant-roofs/",
-      "source": "Fox31",
-      "pub_date": "2026-06-08T21:02:43+00:00",
-      "age_hours": 21.782340806388888,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Cigna to pull out of individual health market, affecting thousands in Colorado",
-      "link": "https://www.coloradopolitics.com/2026/06/08/cigna-to-pull-out-of-individual-health-market-affecting-thousands-in-colorado/",
-      "source": "CO Politics",
-      "pub_date": "2026-06-08T20:42:33+00:00",
-      "age_hours": 22.118958921388888,
+      "age_hours": 22.530484063333336,
       "breaking": false,
       "time_ago": "22 hrs ago"
+    },
+    {
+      "title": "Trammell Crow Buys Thornton Site To Build 1.1M SF Industrial Park",
+      "link": "https://www.bisnow.com/denver/news/industrial/developer-buys-thornton-site-to-build-11m-sf-industrial-park-134913",
+      "source": "Bisnow",
+      "pub_date": "2026-06-08T14:34:03-04:00",
+      "age_hours": 25.173583184166667,
+      "breaking": false,
+      "time_ago": "1 day ago"
     }
   ]
 }
