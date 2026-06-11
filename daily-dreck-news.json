@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-06-11",
-  "fetched_at": "2026-06-11 03:13:27",
+  "fetched_at": "2026-06-11 05:40:37",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "HD 42: Two Dems seeking the nomination align on policies but differ on approach",
+      "link": "https://sentinelcolorado.com/1gridelex/hd-42-two-dems-seeking-the-nomination-align-on-policies-but-differ-on-approach/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-11T04:38:30+00:00",
+      "age_hours": 1.0326446072222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Union for idled Fort Morgan beef plant workers accuses company of multiple labor law violations",
+      "link": "https://www.9news.com/article/money/business/union-for-fort-morgan-beef-plant-workers-accused-cargill-of-violations-of-federal-labor-laws/73-17e0183b-8aef-4dc6-a7cf-1780316273b7",
+      "source": "9News",
+      "pub_date": "2026-06-11T04:07:37+00:00",
+      "age_hours": 1.5467263877777777,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "All you need to know to vote in the 2026 Primary Election",
+      "link": "https://sentinelcolorado.com/voter-guide/all-you-need-to-know-to-vote/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-11T04:05:08+00:00",
+      "age_hours": 1.5887559072222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "HD 41: Primary voters choose between two local experienced elected leaders for Dem nominee",
+      "link": "https://sentinelcolorado.com/voter-guide/hd-41-primary-voters-choose-between-two-local-experienced-elected-leaders-for-dem-nominee/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-11T03:52:40+00:00",
+      "age_hours": 1.7965338997222224,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Colorado drought cuts bookings 40% at Wheat Ridge fly shop",
       "link": "https://www.9news.com/article/news/local/colorado-news/colorado-drought-cuts-fly-fishing-bookings/73-ed898266-d13a-46e3-954a-b12c6cc6af94",
       "source": "9News",
       "pub_date": "2026-06-11T02:35:31+00:00",
-      "age_hours": 0.6290106491666667,
+      "age_hours": 3.081726450277778,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "United Airlines connects young girls to aviation, STEM careers",
       "link": "https://www.9news.com/article/news/education/united-airlines-connects-young-girls-aviation-stem-careers/73-cb31b629-6d6b-4edf-8b15-d4b0d27a3211",
       "source": "9News",
       "pub_date": "2026-06-10T23:35:45+00:00",
-      "age_hours": 3.6251218069444446,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.077837590277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver bars gear up for World Cup surge",
       "link": "https://www.denver7.com/news/local-news/denver-bars-gear-up-for-world-cup-surge",
       "source": "Denver7",
       "pub_date": "2026-06-10T22:38:40+00:00",
-      "age_hours": 4.576619672222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.0293239175,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Flat or graduated income tax? Colorado groups push  dueling measures for November election",
       "link": "https://www.coloradopolitics.com/2026/06/10/flat-or-graduated-income-tax-colorado-groups-push-dueling-measures-for-november-election/",
       "source": "CO Politics",
       "pub_date": "2026-06-10T22:01:19+00:00",
-      "age_hours": 5.1993030227777774,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.6522848847222225,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Aurora closer to creating internal police, fire oversight office in wake of consent decree",
       "link": "https://sentinelcolorado.com/metro/aurora-closer-to-creating-internal-police-fire-oversight-office-in-wake-of-consent-decree/",
       "source": "Sentinel",
       "pub_date": "2026-06-10T20:50:09+00:00",
-      "age_hours": 6.385443746111111,
+      "age_hours": 8.838478521111112,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Catalyst oversight panel to Greeley: Keep looking for partner",
       "link": "https://bizwest.com/2026/06/10/catalyst-oversight-panel-to-greeley-keep-looking-for-partner/",
       "source": "BizWest",
       "pub_date": "2026-06-10T20:48:36+00:00",
-      "age_hours": 6.406094380833333,
+      "age_hours": 8.862623742777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Solar power hits new milestones in the US even as Trump boosts coal over clean energy",
       "link": "https://sentinelcolorado.com/uncategorized/solar-power-hits-new-milestones-in-the-us-even-as-trump-boosts-coal-over-clean-energy/",
       "source": "Sentinel",
       "pub_date": "2026-06-10T20:01:36+00:00",
-      "age_hours": 7.194610570555555,
+      "age_hours": 9.647645292222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Hong Kong charges 7 people and 2 firms over massive fire that killed 168",
-      "link": "https://sentinelcolorado.com/uncategorized/hong-kong-charges-7-people-and-2-firms-over-massive-fire-that-killed-168/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-10T19:59:21+00:00",
-      "age_hours": 7.232110886944444,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado women cite cost of living and inequality as top election issues",
       "link": "https://coloradosun.com/2026/06/10/colorado-women-cite-cost-of-living-as-election-issue/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-10T19:23:45+00:00",
-      "age_hours": 7.82497009,
+      "age_hours": 10.277561934166666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver-area inflation increases to 5%. Blame energy costs.",
       "link": "https://coloradosun.com/2026/06/10/denver-area-inflation-increases-5-percent-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-10T19:14:23+00:00",
-      "age_hours": 7.981081854444445,
+      "age_hours": 10.433673549166668,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Juneteenth Music Festival expanding to 3-day celebration",
       "link": "https://kdvr.com/news/local/juneteenth-music-festival-expanding-to-3-day-celebration/",
       "source": "Fox31",
       "pub_date": "2026-06-10T18:51:43+00:00",
-      "age_hours": 8.3591377475,
+      "age_hours": 10.811954173055554,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Outlying shops\u2019 sale may revive Foothills redo",
       "link": "https://bizwest.com/2026/06/10/sale-of-outlying-shops-may-revive-foothills-mall-redo/",
       "source": "BizWest",
       "pub_date": "2026-06-10T18:47:53+00:00",
-      "age_hours": 8.41803967111111,
+      "age_hours": 10.874568594444446,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "City gives restaurant group millions to build Peyton Manning-inspired restaurant, venue",
       "link": "https://www.9news.com/article/money/littleton-restaurant-build-peyton-manning-inspired-restaurant-event-venue/73-1606a5d6-83c9-4b89-af32-805006ccf8ca",
       "source": "9News",
       "pub_date": "2026-06-10T18:18:17+00:00",
-      "age_hours": 8.916233033611112,
+      "age_hours": 11.368948786666666,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Need a U.S. visa faster? New program will let some travelers pay $750 to skip long waits",
-      "link": "https://www.9news.com/article/news/nation-world/new-visa-program-will-let-some-travelers-pay-750-skip-long-waits/507-fb76bd56-e924-4ca0-8d69-50848f50fb5b",
-      "source": "9News",
-      "pub_date": "2026-06-10T17:58:24+00:00",
-      "age_hours": 9.2476219275,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Tom Brady partners with GoPuff to launch coconut water line",
-      "link": "https://www.9news.com/article/news/nation-world/tom-brady-coconut-water-brand-good-nut-go-puff/507-4befdb22-bf15-4317-a0c4-0aba505704ec",
-      "source": "9News",
-      "pub_date": "2026-06-10T17:07:29+00:00",
-      "age_hours": 10.096233090833334,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Manufacturers embrace growth, plan for potential downturn",
       "link": "https://bizwest.com/2026/06/10/manufacturers-embrace-growth-plan-for-potential-downturn/",
       "source": "BizWest",
       "pub_date": "2026-06-10T13:34:29+00:00",
-      "age_hours": 13.641373023888889,
+      "age_hours": 16.097901936388887,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Inaugural pizza fest set Sept. 5 in Longmont",
       "link": "https://bizwest.com/2026/06/10/inaugural-pizza-fest-set-sept-5-in-longmont/",
       "source": "BizWest",
       "pub_date": "2026-06-10T13:15:15+00:00",
-      "age_hours": 13.96192864388889,
+      "age_hours": 16.41845751916667,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "DU restructuring will close departments",
       "link": "https://bizwest.com/2026/06/10/du-restructuring-will-close-departments/",
       "source": "BizWest",
       "pub_date": "2026-06-10T12:52:26+00:00",
-      "age_hours": 14.34220647861111,
+      "age_hours": 16.798735321944445,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "BMC Investments Sells Cherry Creek Building For $92.5M",
       "link": "https://www.bisnow.com/denver/news/mixed-use/bmc-investments-sells-cherry-creek-building-for-925m-134960",
       "source": "Bisnow",
       "pub_date": "2026-06-10T10:46:31-04:00",
-      "age_hours": 12.441268250277778,
+      "age_hours": 14.89792287,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Dynamic pricing: Which retailers change their prices most often",
-      "link": "https://www.denver7.com/dont-waste-your-money/dynamic-pricing-which-retailers-change-their-prices-most-often",
-      "source": "Denver7",
-      "pub_date": "2026-06-10T10:34:04+00:00",
-      "age_hours": 16.653286388888887,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "14 hrs ago"
     }
   ]
 }
