@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-06-11",
-  "fetched_at": "2026-06-11 21:44:10",
+  "fetched_at": "2026-06-11 22:38:57",
   "article_count": 20,
   "breaking_count": 13,
   "articles": [
+    {
+      "title": "Denver man found dead in Yellowstone Park",
+      "link": "https://www.9news.com/article/news/local/denver-man-dies-yellowstone-park/73-7fe64f04-64c0-4ce9-9796-857b7ab4e560",
+      "source": "9News",
+      "pub_date": "2026-06-11T22:02:43+00:00",
+      "age_hours": 0.5999350747222223,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
     {
       "title": "Hotel Longmont to open Friday",
       "link": "https://bizwest.com/2026/06/11/hotel-longmont-to-open-friday/",
       "source": "BizWest",
       "pub_date": "2026-06-11T21:13:06+00:00",
-      "age_hours": 0.5124156336111111,
+      "age_hours": 1.426288155,
       "breaking": true,
-      "time_ago": "30 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Gloo takes full stake in Midwestern Interactive",
       "link": "https://bizwest.com/2026/06/11/gloo-takes-full-stake-in-midwestern-interactive/",
       "source": "BizWest",
       "pub_date": "2026-06-11T21:06:53+00:00",
-      "age_hours": 0.6160273494444444,
+      "age_hours": 1.529899798888889,
       "breaking": true,
-      "time_ago": "36 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "1 hospitalized after afternoon stabbing in Denver's Five Points neighborhood",
       "link": "https://kdvr.com/news/local/1-hospitalized-after-afternoon-stabbing-in-denvers-five-points-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-06-11T21:06:42+00:00",
-      "age_hours": 0.62046641,
+      "age_hours": 1.5336889461111112,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aurora fire officials say fireworks OK to sizzle after drought threatens a citywide fizzle",
       "link": "https://sentinelcolorado.com/metro/aurora-fire-officials-say-fireworks-ok-to-sizzle-after-drought-threatens-a-citywide-fizzle/",
       "source": "Sentinel",
       "pub_date": "2026-06-11T20:53:17+00:00",
-      "age_hours": 0.8446284158333333,
+      "age_hours": 1.7575297330555557,
       "breaking": true,
-      "time_ago": "50 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Summit to eye housing solutions cities rarely adopt",
       "link": "https://bizwest.com/2026/06/11/summit-to-eye-housing-solutions-cities-rarely-adopt/",
       "source": "BizWest",
       "pub_date": "2026-06-11T20:49:33+00:00",
-      "age_hours": 0.9049162911111112,
+      "age_hours": 1.818788728611111,
       "breaking": true,
-      "time_ago": "54 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Watch: Democratic candidate forum for Colorado Attorney General",
       "link": "https://coloradosun.com/2026/06/11/watch-democratic-candidate-forum-for-colorado-attorney-general/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-11T20:42:18+00:00",
-      "age_hours": 1.026583011388889,
+      "age_hours": 1.9400191119444445,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -63,70 +72,70 @@
       "link": "https://milehighcre.com/a-new-wave-of-retail-momentum-at-flatiron-crossing/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-11T20:19:29+00:00",
-      "age_hours": 1.406731885,
+      "age_hours": 2.3202351105555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Safe2Tell tip, corroborated details provided grounds to search backpack, Colorado justices rule",
       "link": "https://www.coloradopolitics.com/2026/06/11/safe2tell-tip-corroborated-details-provided-grounds-to-search-backpack-colorado-justices-rule/",
       "source": "CO Politics",
       "pub_date": "2026-06-11T20:14:31+00:00",
-      "age_hours": 1.4906639902777779,
+      "age_hours": 2.4036253588888887,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Aurora lawmakers OK oversight for GEO Group immigration detention center",
       "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-ok-oversight-for-geo-group-immigration-detention-center/",
       "source": "Sentinel",
       "pub_date": "2026-06-11T20:04:20+00:00",
-      "age_hours": 1.6604619958333335,
+      "age_hours": 2.5733633102777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Motorcycle crash claims life of rider in Aurora early Thursday",
       "link": "https://sentinelcolorado.com/metro/motorcycle-crash-claims-life-of-rider-in-aurora-early-thursday/",
       "source": "Sentinel",
       "pub_date": "2026-06-11T18:57:31+00:00",
-      "age_hours": 2.7740734583333335,
+      "age_hours": 3.6869747983333334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "The skills people still perform better than AI, according to workplace experts",
       "link": "https://sentinelcolorado.com/uncategorized/the-skills-people-still-perform-better-than-ai-according-to-workplace-experts/",
       "source": "Sentinel",
       "pub_date": "2026-06-11T18:46:52+00:00",
-      "age_hours": 2.9515736422222223,
+      "age_hours": 3.8644749838888885,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Poll: Economic inequality tops Colorado women voters\u2019 concerns ahead of midterms",
       "link": "https://www.cpr.org/2026/06/11/inequality-colorado-women-voters-concerns/",
       "source": "CPR",
       "pub_date": "2026-06-11T16:58:12+00:00",
-      "age_hours": 4.76175450638889,
+      "age_hours": 5.675094359444444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Paralyzed pup gets new wheels after going viral for wheelchair stolen from front porch",
       "link": "https://kdvr.com/news/local/paralyzed-pup-gets-new-wheels-after-going-viral-for-wheelchair-stolen-from-front-porch/",
       "source": "Fox31",
       "pub_date": "2026-06-11T16:01:21+00:00",
-      "age_hours": 5.709633134166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.6228555600000005,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Gearing up for the 2026 Proctor's Garden Tour",
       "link": "https://www.9news.com/article/life/home-garden/proctors-tips/2026-proctors-garden-tour/73-d81eb923-5eac-4e09-b3a3-91391fd06526",
       "source": "9News",
       "pub_date": "2026-06-11T15:38:51+00:00",
-      "age_hours": 6.084284224722222,
+      "age_hours": 6.997712987222222,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -135,54 +144,45 @@
       "link": "https://milehighcre.com/ridgegate-marks-25-years-of-progress/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-11T15:00:53+00:00",
-      "age_hours": 6.716732193055556,
+      "age_hours": 7.6302354347222225,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Former Blake Street Tavern sets reopening date under new ownership",
       "link": "https://www.9news.com/article/life/style/colorado-guide/blake-street-tavern-reopening-date/73-027a930a-0288-4025-8064-d0d47d797cb3",
       "source": "9News",
       "pub_date": "2026-06-11T14:59:41+00:00",
-      "age_hours": 6.737062060277778,
+      "age_hours": 7.650490810555556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Shopping Center in Fort Collins Trades for $12M",
       "link": "https://milehighcre.com/shopping-center-in-fort-collins-trades-for-12m/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-11T14:56:36+00:00",
-      "age_hours": 6.788121093888889,
+      "age_hours": 7.701624335,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "What to do in Colorado this week: The Colorado Renaissance Festival is upon us",
       "link": "https://coloradosun.com/2026/06/11/whats-happening-colorado-renaissance-festival-larkspur/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-11T14:00:00+00:00",
-      "age_hours": 7.731583699722222,
+      "age_hours": 8.645019762222223,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "West Greeley might be on Venu\u2019s venue menu",
       "link": "https://bizwest.com/2026/06/11/west-greeley-might-be-on-venus-venue-menu/",
       "source": "BizWest",
       "pub_date": "2026-06-11T12:57:23+00:00",
-      "age_hours": 8.774360768611112,
+      "age_hours": 9.688233206666666,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "X Games, Aspen Snowmass ink new 3-year hosting pact",
-      "link": "https://bizwest.com/2026/06/11/x-games-aspen-snowmass-ink-new-3-year-hosting-pact/",
-      "source": "BizWest",
-      "pub_date": "2026-06-11T12:46:04+00:00",
-      "age_hours": 8.962971913333334,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     }
   ]
 }
