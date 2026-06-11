@@ -1,168 +1,159 @@
 {
   "fetched_date": "2026-06-11",
-  "fetched_at": "2026-06-11 17:20:21",
+  "fetched_at": "2026-06-11 19:05:53",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Motorcycle crash claims life of rider in Aurora early Thursday",
+      "link": "https://sentinelcolorado.com/metro/motorcycle-crash-claims-life-of-rider-in-aurora-early-thursday/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-11T18:57:31+00:00",
+      "age_hours": 0.13581922472222221,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "The skills people still perform better than AI, according to workplace experts",
+      "link": "https://sentinelcolorado.com/uncategorized/the-skills-people-still-perform-better-than-ai-according-to-workplace-experts/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-11T18:46:52+00:00",
+      "age_hours": 0.31331942416666664,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
     {
       "title": "Poll: Economic inequality tops Colorado women voters\u2019 concerns ahead of midterms",
       "link": "https://www.cpr.org/2026/06/11/inequality-colorado-women-voters-concerns/",
       "source": "CPR",
       "pub_date": "2026-06-11T16:58:12+00:00",
-      "age_hours": 0.3640119402777778,
+      "age_hours": 2.123267170277778,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Paralyzed pup gets new wheels after going viral for wheelchair stolen from front porch",
       "link": "https://kdvr.com/news/local/paralyzed-pup-gets-new-wheels-after-going-viral-for-wheelchair-stolen-from-front-porch/",
       "source": "Fox31",
       "pub_date": "2026-06-11T16:01:21+00:00",
-      "age_hours": 1.3117933311111112,
+      "age_hours": 3.071387988333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Gearing up for the 2026 Proctor's Garden Tour",
       "link": "https://www.9news.com/article/life/home-garden/proctors-tips/2026-proctors-garden-tour/73-d81eb923-5eac-4e09-b3a3-91391fd06526",
       "source": "9News",
       "pub_date": "2026-06-11T15:38:51+00:00",
-      "age_hours": 1.6865757430555555,
+      "age_hours": 3.4458707830555557,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "RidgeGate Marks 25 Years of Progress",
       "link": "https://milehighcre.com/ridgegate-marks-25-years-of-progress/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-11T15:00:53+00:00",
-      "age_hours": 2.3190129333333336,
+      "age_hours": 4.07831174,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Former Blake Street Tavern sets reopening date under new ownership",
       "link": "https://www.9news.com/article/life/style/colorado-guide/blake-street-tavern-reopening-date/73-027a930a-0288-4025-8064-d0d47d797cb3",
       "source": "9News",
       "pub_date": "2026-06-11T14:59:41+00:00",
-      "age_hours": 2.339353580277778,
+      "age_hours": 4.0986486172222225,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Shopping Center in Fort Collins Trades for $12M",
       "link": "https://milehighcre.com/shopping-center-in-fort-collins-trades-for-12m/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-11T14:56:36+00:00",
-      "age_hours": 2.3904018424999998,
+      "age_hours": 4.149700648055556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "What to do in Colorado this week: The Colorado Renaissance Festival is upon us",
       "link": "https://coloradosun.com/2026/06/11/whats-happening-colorado-renaissance-festival-larkspur/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-11T14:00:00+00:00",
-      "age_hours": 3.3337828291666667,
+      "age_hours": 5.093152008333333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Trump has a new, surprising take on the higher cost of living: \u2018I love the inflation\u2019",
-      "link": "https://sentinelcolorado.com/nation-world/nation/trump-has-a-new-surprising-take-on-the-higher-cost-of-living-i-love-the-inflation/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-11T13:16:13+00:00",
-      "age_hours": 4.064295001944444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "West Greeley might be on Venu\u2019s venue menu",
       "link": "https://bizwest.com/2026/06/11/west-greeley-might-be-on-venus-venue-menu/",
       "source": "BizWest",
       "pub_date": "2026-06-11T12:57:23+00:00",
-      "age_hours": 4.376990885833333,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Activist leaders vie for 2 Dem primary nods for Arapahoe County commission",
-      "link": "https://sentinelcolorado.com/metro/activist-leaders-vie-for-2-dem-primary-nods-for-arapahoe-county-commission/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-11T12:48:58+00:00",
-      "age_hours": 4.518461994444444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.136128473055556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "X Games, Aspen Snowmass ink new 3-year hosting pact",
       "link": "https://bizwest.com/2026/06/11/x-games-aspen-snowmass-ink-new-3-year-hosting-pact/",
       "source": "BizWest",
       "pub_date": "2026-06-11T12:46:04+00:00",
-      "age_hours": 4.565602895277777,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.324740103333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "DigitalOcean onboards trio of new execs",
       "link": "https://bizwest.com/2026/06/11/digitalocean-onboards-trio-of-new-execs/",
       "source": "BizWest",
       "pub_date": "2026-06-11T12:40:03+00:00",
-      "age_hours": 4.665880731111112,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.425017918333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Iowa-based pizza buffet chain opening new Colorado location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/pizza-ranch-colorado-springs-buffet/73-d066683e-0d76-43cb-ae7c-1726ba502f17",
       "source": "9News",
       "pub_date": "2026-06-11T12:31:29+00:00",
-      "age_hours": 4.809353625277779,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.56864866,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "As more people use scooters, off-highway vehicles on public roads, Douglas County seeks new rules for riders",
       "link": "https://coloradosun.com/2026/06/11/douglas-county-ordinance-scooters-off-highway-vehicles/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-11T10:01:00+00:00",
-      "age_hours": 7.317116625833333,
+      "age_hours": 9.076485796944445,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "3 Democrats make their cases for Colorado attorney general while Jena Griswold skips another debate",
       "link": "https://coloradosun.com/2026/06/11/democratic-attorney-general-forum-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-11T10:00:00+00:00",
-      "age_hours": 7.333783898333333,
+      "age_hours": 9.093153099166667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Aurora\u2019s Mango House provides a restaurant incubator and space for food from across the world",
       "link": "https://www.cpr.org/2026/06/11/mango-house-community-aurora/",
       "source": "CPR",
       "pub_date": "2026-06-11T10:00:00+00:00",
-      "age_hours": 7.334012018333333,
+      "age_hours": 9.093267235555556,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Union for idled Fort Morgan beef plant workers accuses company of multiple labor law violations",
       "link": "https://www.9news.com/article/money/business/union-for-fort-morgan-beef-plant-workers-accused-cargill-of-violations-of-federal-labor-laws/73-17e0183b-8aef-4dc6-a7cf-1780316273b7",
       "source": "9News",
       "pub_date": "2026-06-11T04:07:37+00:00",
-      "age_hours": 13.207131467499998,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Colorado drought cuts bookings 40% at Wheat Ridge fly shop",
-      "link": "https://www.9news.com/article/news/local/colorado-news/colorado-drought-cuts-fly-fishing-bookings/73-ed898266-d13a-46e3-954a-b12c6cc6af94",
-      "source": "9News",
-      "pub_date": "2026-06-11T02:35:31+00:00",
-      "age_hours": 14.742131532777778,
+      "age_hours": 14.966426493055556,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -171,18 +162,27 @@
       "link": "https://www.denver7.com/news/local-news/denver-bars-gear-up-for-world-cup-surge",
       "source": "Denver7",
       "pub_date": "2026-06-10T22:38:40+00:00",
-      "age_hours": 18.68982871,
+      "age_hours": 20.44925959638889,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Flat or graduated income tax? Colorado groups push  dueling measures for November election",
       "link": "https://www.coloradopolitics.com/2026/06/10/flat-or-graduated-income-tax-colorado-groups-push-dueling-measures-for-november-election/",
       "source": "CO Politics",
       "pub_date": "2026-06-10T22:01:19+00:00",
-      "age_hours": 19.312610641388886,
+      "age_hours": 21.07238418833333,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "21 hrs ago"
+    },
+    {
+      "title": "Catalyst oversight panel to Greeley: Keep looking for partner",
+      "link": "https://bizwest.com/2026/06/10/catalyst-oversight-panel-to-greeley-keep-looking-for-partner/",
+      "source": "BizWest",
+      "pub_date": "2026-06-10T20:48:36+00:00",
+      "age_hours": 22.282517944722223,
+      "breaking": false,
+      "time_ago": "22 hrs ago"
     }
   ]
 }
