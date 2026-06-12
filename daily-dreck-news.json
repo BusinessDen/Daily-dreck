@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-06-12",
-  "fetched_at": "2026-06-12 11:21:39",
+  "fetched_at": "2026-06-12 13:17:32",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users",
+      "link": "https://sentinelcolorado.com/uncategorized/visa-plugs-its-payment-network-into-chatgpt-letting-ai-agents-shop-and-pay-for-users/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-12T13:01:11+00:00",
+      "age_hours": 0.2687474411111111,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
+    {
+      "title": "Direct bus would connect Longmont, DIA",
+      "link": "https://bizwest.com/2026/06/12/direct-bus-would-connect-longmont-dia/",
+      "source": "BizWest",
+      "pub_date": "2026-06-12T13:01:01+00:00",
+      "age_hours": 0.2695592172222222,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
     {
       "title": "Lyons mountain bikers, business owners blast Boulder County proposal to limit bikes at some parks",
       "link": "https://coloradosun.com/2026/06/12/lyons-mountain-bikers-boulder-county-proposal/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-12T10:00:00+00:00",
-      "age_hours": 1.3562380316666667,
+      "age_hours": 3.287497871111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Inside the Denver airport tunnels (and the huge plan to reuse them)",
       "link": "https://denverite.com/2026/06/12/inside-denver-airport-tunnels-walkway-plan-train/",
       "source": "Denverite",
       "pub_date": "2026-06-12T10:00:00+00:00",
-      "age_hours": 1.3562682591666668,
+      "age_hours": 3.2875866058333334,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Drew Litton: The  Nuggets\u2019 rebuild begins",
       "link": "https://coloradosun.com/2026/06/12/drew-litton-kroenke-nuggets-scapegoats-announcers/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-12T08:10:00+00:00",
-      "age_hours": 3.189571402777778,
+      "age_hours": 5.120831242222223,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Westbound Interstate 70 reopened after crash involving e-bike",
       "link": "https://www.9news.com/article/traffic/westbound-interstate-70-closed-crash/73-944af494-31ef-4302-ba6a-adc7dff1ce17",
       "source": "9News",
       "pub_date": "2026-06-12T03:56:50+00:00",
-      "age_hours": 7.409151709722223,
+      "age_hours": 9.340528496388888,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Former Blake Street Tavern sets reopening date under new ownership",
       "link": "https://www.9news.com/article/life/style/colorado-guide/blake-street-tavern-reopening-date/73-027a930a-0288-4025-8064-d0d47d797cb3",
       "source": "9News",
       "pub_date": "2026-06-12T03:25:56+00:00",
-      "age_hours": 7.924151759166667,
+      "age_hours": 9.855528550555555,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Weld County\u2019s options may be limited on judicial-center vote",
       "link": "https://bizwest.com/2026/06/11/weld-countys-options-may-be-limited-on-judicial-center-vote/",
       "source": "BizWest",
       "pub_date": "2026-06-12T02:57:28+00:00",
-      "age_hours": 8.397636662222222,
+      "age_hours": 10.328726439166665,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "1 transported after e-bike crash on I-70 in Denver",
       "link": "https://kdvr.com/news/local/1-transported-after-e-bike-crash-on-i-70-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-12T02:17:41+00:00",
-      "age_hours": 9.061920976388889,
+      "age_hours": 10.993308091944444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver's DMV is running about half-staffed most days, wait times top 90 minutes",
       "link": "https://www.9news.com/article/news/local/denver-dmv-half-staffed-wait-times/73-8a470eb4-66a7-4eb2-8508-c8e0fe444931",
       "source": "9News",
       "pub_date": "2026-06-12T01:15:01+00:00",
-      "age_hours": 10.106096226388889,
+      "age_hours": 12.037473016944444,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Confronting mortality; Next with Kyle Clark full show (6/11/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/confronting-mortality-next-with-kyle-clark-full-show-61126/73-838d7c07-1122-4996-b9ac-3e1e01b03c3e",
       "source": "9News",
       "pub_date": "2026-06-12T01:09:56+00:00",
-      "age_hours": 10.190818489444444,
+      "age_hours": 12.122195280555555,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Small Colorado town selling old, empty buildings for $3,500 to attract new business",
       "link": "https://www.9news.com/article/news/local/colorado-town-selling-old-empty-buildings-business/73-a0d1e32d-8670-40bf-a3b6-f012206aff08",
       "source": "9News",
       "pub_date": "2026-06-12T01:00:54+00:00",
-      "age_hours": 10.341374100277777,
+      "age_hours": 12.272750884722223,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Petition calls for safer driving in Capitol Hill neighborhood, organizer says",
       "link": "https://kdvr.com/news/local/petition-calls-for-safer-driving-in-capitol-hill-neighborhood-organizer-says/",
       "source": "Fox31",
       "pub_date": "2026-06-12T00:54:55+00:00",
-      "age_hours": 10.441365479722222,
+      "age_hours": 12.372752600833334,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver man found dead in Yellowstone Park",
       "link": "https://www.9news.com/article/news/local/denver-man-dies-yellowstone-park/73-7fe64f04-64c0-4ce9-9796-857b7ab4e560",
       "source": "9News",
       "pub_date": "2026-06-11T22:02:43+00:00",
-      "age_hours": 13.311096401944445,
+      "age_hours": 15.242473193333334,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Hotel Longmont to open Friday",
       "link": "https://bizwest.com/2026/06/11/hotel-longmont-to-open-friday/",
       "source": "BizWest",
       "pub_date": "2026-06-11T21:13:06+00:00",
-      "age_hours": 14.137081666666667,
+      "age_hours": 16.068170921944443,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Gloo takes full stake in Midwestern Interactive",
       "link": "https://bizwest.com/2026/06/11/gloo-takes-full-stake-in-midwestern-interactive/",
       "source": "BizWest",
       "pub_date": "2026-06-11T21:06:53+00:00",
-      "age_hours": 14.240692808333334,
+      "age_hours": 16.171782068055556,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "1 hospitalized after afternoon stabbing in Denver's Five Points neighborhood",
       "link": "https://kdvr.com/news/local/1-hospitalized-after-afternoon-stabbing-in-denvers-five-points-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-06-11T21:06:42+00:00",
-      "age_hours": 14.244976638333332,
+      "age_hours": 16.17636377611111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Aurora fire officials say fireworks OK to sizzle after drought threatens a citywide fizzle",
-      "link": "https://sentinelcolorado.com/metro/aurora-fire-officials-say-fireworks-ok-to-sizzle-after-drought-threatens-a-citywide-fizzle/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-11T20:53:17+00:00",
-      "age_hours": 14.468751888611111,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Summit to eye housing solutions cities rarely adopt",
       "link": "https://bizwest.com/2026/06/11/summit-to-eye-housing-solutions-cities-rarely-adopt/",
       "source": "BizWest",
       "pub_date": "2026-06-11T20:49:33+00:00",
-      "age_hours": 14.529581733333334,
+      "age_hours": 16.460670994444445,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Watch: Democratic candidate forum for Colorado Attorney General",
       "link": "https://coloradosun.com/2026/06/11/watch-democratic-candidate-forum-for-colorado-attorney-general/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-11T20:42:18+00:00",
-      "age_hours": 14.651238114166667,
+      "age_hours": 16.582497959166666,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "A New Wave of Retail Momentum at FlatIron Crossing",
       "link": "https://milehighcre.com/a-new-wave-of-retail-momentum-at-flatiron-crossing/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-11T20:19:29+00:00",
-      "age_hours": 15.031452085000002,
+      "age_hours": 16.962687534166665,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Safe2Tell tip, corroborated details provided grounds to search backpack, Colorado justices rule",
-      "link": "https://www.coloradopolitics.com/2026/06/11/safe2tell-tip-corroborated-details-provided-grounds-to-search-backpack-colorado-justices-rule/",
-      "source": "CO Politics",
-      "pub_date": "2026-06-11T20:14:31+00:00",
-      "age_hours": 15.114834415,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     }
   ]
 }
