@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-06-11",
-  "lead_headline": "Restaurant tracker's June paralysis extends to 17 days\u2014still zero leads detected across all metro neighborhoods since May 25",
+  "generated_date": "2026-06-12",
+  "lead_headline": "Foreclosure slate clears above $4M threshold as Aurora's $4.9M filing exits auction schedule\u2014no new restaurant leads for 18th straight day",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>No leads detected today</strong>\u2014tracker's June silence now spans 17 consecutive days as detection infrastructure remains completely frozen across all metro neighborhoods.",
+      "blurb": "<strong>Zero leads detected today</strong>\u2014tracker's June shutdown now spans 18 consecutive days as detection infrastructure remains frozen across all metro neighborhoods entering mid-month.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -21,21 +21,21 @@
       }
     },
     "foreclosure": {
-      "blurb": "<strong>$4.9M Arapahoe filing</strong> at Airport Road and Hughes Road in Aurora heads Thursday's foreclosure auction slate, week's sole $4M+ property as 37 new filings otherwise cluster below threshold.",
+      "blurb": "Nothing new to report today.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "5",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "37",
-        "class1": "up",
+        "value1": "34",
+        "class1": "",
         "label2": "sold",
         "value2": "0",
         "class2": "",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications detected today</strong>\u2014licensing machinery posts thirteenth consecutive day of inactivity as June's unprecedented regulatory freeze extends past two full weeks. Statewide apparatus logged no new filings, no status changes across 12,396 tracked licenses as Wednesday silence compounds Tuesday's dormancy. June's opening 13 days now cement historic shutdown pattern with detection infrastructure completely paralyzed, dwarfing May's mysterious gridlock as invisible backlog compounds while system remains frozen entering mid-month.",
+      "blurb": "<strong>Zero applications detected today</strong>\u2014licensing apparatus extends June's regulatory freeze to 14th consecutive day as Thursday posts no new filings, no status changes across 12,396 tracked licenses. State machinery remains completely paralyzed entering mid-month with detection infrastructure frozen solid, compounding invisible backlog as June's first half now cements most prolonged shutdown period on record, surpassing May's mysterious gridlock as system dormancy continues uninterrupted.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,40 +54,40 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>One mention yesterday</strong> as Wednesday coverage featured Crossroads 25 industrial park story (Denver Post). <strong>Weekly tally: 35 pickups across 11 sources</strong>, down 12.5% from prior week's 40 mentions as early June momentum moderates. Denver Post led with 10 citations, Reddit contributed 5, Hoodline and Facebook each logged 4. Notable Wednesday pickup: 76-acre Thornton industrial development breaks ground. Week-over-week decline interrupts prior period's 18% surge as media attention normalizes entering mid-June, Google News RSS driving 94% of discovery.",
+      "blurb": "<strong>Zero mentions yesterday</strong> as Thursday coverage went dark following Wednesday's Crossroads 25 story. <strong>Weekly tally: 23 pickups across 9 sources</strong>, down 45% from prior week's 42 mentions as mid-June momentum collapses sharply. Denver Post led with 8 citations, Reddit contributed 3, Hoodline and X each logged 2. Notable week: downtown office tower foreclosure ruling, Guard and Grace DTC spinoff, Denver Pavilions mural replacement. Week-over-week plunge erases May's gains as media attention craters entering weekend, Google News RSS driving 91% of discovery.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "0",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "35",
+        "value1": "23",
         "class1": "down",
         "label2": "sources",
-        "value2": "11",
+        "value2": "9",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) holds MTD net at +10 (+1.0/day), 90-day net steady at +129. Wednesday marks third consecutive zero-net day as June's second week closes with flat activity. Recent fortnight shows choppy pattern: six flat days punctuated by June 5's net +4 peak and May 28's net +6 spike. Current 7-day window (+6) trails prior period (+10) by 40% as June pace (+1.0/day) slips further below YTD velocity (+1.2/day), confirming cooling from May's stronger finish.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) keeps MTD net at +10 (+0.9/day), 90-day net holding at +129. Thursday marks fourth straight zero-net day as June's second week closes with extended flat stretch. Recent two weeks reveal deteriorating pattern: seven flat days clustered with only June 5's net +4 spike breaking dormancy. Current 7-day window (+6) trails prior period (+8) by 25% as June pace (+0.9/day) slips further below YTD velocity (+1.2/day), confirming sustained cooling from May's stronger momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "10",
       "net_ytd": "199",
-      "net_mtd_per_day": "1.0",
+      "net_mtd_per_day": "0.9",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "8",
-      "annual_ytd": "165",
-      "monthly_mtd": "2",
-      "monthly_ytd": "34"
+      "annual_mtd": "7",
+      "annual_ytd": "141",
+      "monthly_mtd": "3",
+      "monthly_ytd": "58"
     }
   }
 }
