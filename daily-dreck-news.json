@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-06-13",
-  "fetched_at": "2026-06-13 03:14:16",
+  "fetched_at": "2026-06-13 05:36:27",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
+      "link": "https://www.9news.com/article/news/nation-world/anthropic-fable-mythos-offline-comply-new-export-controls/507-052e3003-12f3-421f-b57e-4cf446975882",
+      "source": "9News",
+      "pub_date": "2026-06-13T05:15:16+00:00",
+      "age_hours": 0.34891362916666663,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Denver Animal Protection is fielding more stray animal calls with fewer officers available",
+      "link": "https://www.9news.com/article/life/animals/denver-animal-protection-more-stray-animal-calls-fewer-officers/73-b43efa57-428d-4c0e-9e4a-aa0e5fde5543",
+      "source": "9News",
+      "pub_date": "2026-06-13T03:54:44+00:00",
+      "age_hours": 1.6911359225,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Push to open primaries; Next with Kyle Clark full show (6/12/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/push-to-open-primaries-next-with-kyle-clark-full-show-61226/73-f6160151-6b68-47b8-a8cb-ec3eb51a733d",
       "source": "9News",
       "pub_date": "2026-06-13T01:03:29+00:00",
-      "age_hours": 2.1750489791666667,
+      "age_hours": 4.5453026549999995,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Kicking around Good News",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/kicking-around-good-news/73-671ff5b7-cab3-481b-b12f-721079267375",
       "source": "9News",
       "pub_date": "2026-06-13T00:31:04+00:00",
-      "age_hours": 2.7153268280555554,
+      "age_hours": 5.085580494444444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Paramount's takeover of Warner Bros. approved by Justice Department",
       "link": "https://www.9news.com/article/news/nation-world/paramount-warner-bros-deal-approved-by-justice-department/507-53cf0bdc-49cd-4d00-a6e9-952099cc4471",
       "source": "9News",
       "pub_date": "2026-06-12T22:30:08+00:00",
-      "age_hours": 4.730882436111111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.101136105,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Auddia merger with CEO\u2019s holding company could close in July",
       "link": "https://bizwest.com/2026/06/12/auddia-merger-with-ceos-holding-company-could-close-in-july/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:33:41+00:00",
-      "age_hours": 5.670969318333333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.04119306,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Chicago investor buys Fort Collins\u2019 based CGRS",
       "link": "https://bizwest.com/2026/06/12/chicago-investor-buys-fort-collins-based-cgrs/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:26:56+00:00",
-      "age_hours": 5.783470258055556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.153693576111111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Left Hand\u2019s Leftapalooza to feature battle of tribute bands",
       "link": "https://bizwest.com/2026/06/12/left-hands-leftapalooza-to-feature-battle-of-tribute-bands/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:18:46+00:00",
-      "age_hours": 5.9195813852777786,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.28980469611111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colfax DDA board candidates set to be finalized by Aurora City Council",
       "link": "https://sentinelcolorado.com/metro/colfax-dda-board-candidates-set-to-be-finalized-by-aurora-city-council/",
       "source": "Sentinel",
       "pub_date": "2026-06-12T21:14:56+00:00",
-      "age_hours": 5.9853534816666665,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.355135883055556,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Saturday event to mark Poudre trail completion",
       "link": "https://bizwest.com/2026/06/12/saturday-event-to-mark-poudre-trail-completion/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:12:38+00:00",
-      "age_hours": 6.021803666111111,
+      "age_hours": 8.392026954166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "CSU prof wins international environment award",
       "link": "https://bizwest.com/2026/06/12/csu-prof-wins-international-environment-award/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:06:11+00:00",
-      "age_hours": 6.129303719722222,
+      "age_hours": 8.499526982777779,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Indy venue group to hold conference in Boulder",
       "link": "https://bizwest.com/2026/06/12/indy-venue-group-to-hold-conference-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-06-12T20:31:30+00:00",
-      "age_hours": 6.707359324444445,
+      "age_hours": 9.077582568055556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "A blind Ukrainian veteran turns pottery into a business and mentors others",
       "link": "https://sentinelcolorado.com/uncategorized/a-blind-ukrainian-veteran-turns-pottery-into-a-business-and-mentors-others/",
       "source": "Sentinel",
       "pub_date": "2026-06-12T20:09:38+00:00",
-      "age_hours": 7.073687082777777,
+      "age_hours": 9.443469534722222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "What to know about the growing opposition to Trump family-linked resort in Albania",
-      "link": "https://sentinelcolorado.com/uncategorized/what-to-know-about-the-growing-opposition-to-trump-family-linked-resort-in-albania-2/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-12T20:04:22+00:00",
-      "age_hours": 7.161465125277778,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "House District 14: Businesswoman, consultant square off in GOP primary",
       "link": "https://www.coloradopolitics.com/2026/06/12/house-district-14-businesswoman-consultant-square-off-in-gop-primary/",
       "source": "CO Politics",
       "pub_date": "2026-06-12T17:46:45+00:00",
-      "age_hours": 9.455050917222222,
+      "age_hours": 11.824779938055556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Body of Denver man recovered from Yellowstone Lake",
       "link": "https://kdvr.com/news/local/body-of-denver-man-recovered-from-yellowstone-lake/",
       "source": "Fox31",
       "pub_date": "2026-06-12T16:51:46+00:00",
-      "age_hours": 10.3710403425,
+      "age_hours": 12.740869396666666,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Movers and Shakers Week Ending 06.12.26",
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-06-12-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-12T14:14:57+00:00",
-      "age_hours": 12.983589785277777,
+      "age_hours": 15.35382967888889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Colorado's only 2-Michelin-star restaurant opening pop-up in Denver",
       "link": "https://kdvr.com/denver-guide/food-drink/colorados-only-2-michelin-star-restaurant-opening-pop-up-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-12T13:25:55+00:00",
-      "age_hours": 13.80187377361111,
+      "age_hours": 16.17170281972222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Circle Graphics renews 166,000-sf Longmont lease through 2038",
       "link": "https://bizwest.com/2026/06/12/circle-graphics-renews-166000-sf-longmont-lease-through-2038/",
       "source": "BizWest",
       "pub_date": "2026-06-12T13:18:33+00:00",
-      "age_hours": 13.92319271111111,
+      "age_hours": 16.293415938333336,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Direct bus would connect Longmont, DIA",
       "link": "https://bizwest.com/2026/06/12/direct-bus-would-connect-longmont-dia/",
       "source": "BizWest",
       "pub_date": "2026-06-12T13:01:01+00:00",
-      "age_hours": 14.215414943611112,
+      "age_hours": 16.585638165555554,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Lyons mountain bikers, business owners blast Boulder County proposal to limit bikes at some parks",
       "link": "https://coloradosun.com/2026/06/12/lyons-mountain-bikers-boulder-county-proposal/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-12T10:00:00+00:00",
-      "age_hours": 17.232864093333333,
+      "age_hours": 19.603118922777778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Inside the Denver airport tunnels (and the huge plan to reuse them)",
-      "link": "https://denverite.com/2026/06/12/inside-denver-airport-tunnels-walkway-plan-train/",
-      "source": "Denverite",
-      "pub_date": "2026-06-12T10:00:00+00:00",
-      "age_hours": 17.232987425833333,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     }
   ]
 }
