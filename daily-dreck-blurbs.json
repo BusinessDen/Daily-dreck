@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-06-12",
-  "lead_headline": "Foreclosure slate clears above $4M threshold as Aurora's $4.9M filing exits auction schedule\u2014no new restaurant leads for 18th straight day",
+  "generated_date": "2026-06-13",
+  "lead_headline": "Restaurant tracker emerges from 18-day freeze with zero new leads for Saturday\u2014foreclosure docket empties above $4M",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero leads detected today</strong>\u2014tracker's June shutdown now spans 18 consecutive days as detection infrastructure remains frozen across all metro neighborhoods entering mid-month.",
+      "blurb": "<strong>Zero new leads today</strong>\u2014tracker extends June shutdown to 19 consecutive days as Saturday detection infrastructure remains frozen across metro neighborhoods.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "34",
+        "value1": "5",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,51 +43,51 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications detected today</strong>\u2014licensing apparatus extends June's regulatory freeze to 14th consecutive day as Thursday posts no new filings, no status changes across 12,396 tracked licenses. State machinery remains completely paralyzed entering mid-month with detection infrastructure frozen solid, compounding invisible backlog as June's first half now cements most prolonged shutdown period on record, surpassing May's mysterious gridlock as system dormancy continues uninterrupted.",
+      "blurb": "<strong>350 new applications today</strong>\u2014Saturday surge breaks two-week freeze with massive licensing dump. Denver issuing approvals for Spitz Mediterranean (2615 Walnut), Dry Dock Pub on Pearl (1101 S Pearl), Madeline (1313 E 6th Ave), and Noble Steakhouse (1525 Blake). Hotel & Restaurant licenses dominate new filings, with RiNo, Capitol Hill, and LoDo neighborhoods leading approvals. Tobacco retailer permits jumped citywide, QuikTrip and 7-Eleven expanding convenience store footprint. Associated Person permits flooded docket as ownership shuffles accelerate across metro. No status changes or removals logged\u2014system processing backlog from June's two-week dormancy.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
-        "class1": "",
+        "value1": "350",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "0",
-        "class1": "",
+        "value1": "369",
+        "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions yesterday</strong> as Thursday coverage went dark following Wednesday's Crossroads 25 story. <strong>Weekly tally: 23 pickups across 9 sources</strong>, down 45% from prior week's 42 mentions as mid-June momentum collapses sharply. Denver Post led with 8 citations, Reddit contributed 3, Hoodline and X each logged 2. Notable week: downtown office tower foreclosure ruling, Guard and Grace DTC spinoff, Denver Pavilions mural replacement. Week-over-week plunge erases May's gains as media attention craters entering weekend, Google News RSS driving 91% of discovery.",
+      "blurb": "<strong>5 mentions yesterday</strong>\u2014Friday coverage surged from Thursday's zero with Denver Post Lakewood office tower sale and Lucky Bastard Saloon closure leading pickups. <strong>Weekly tally: 47 mentions across 11 sources</strong>, up 15% from prior week's 41 as mid-June momentum recovers sharply. Denver Post dominated with 19 citations (40% share), Reddit contributed 7, Facebook/X/Instagram each logged 4. Notable week: Lakewood's tallest office tower sold at 30% discount, Lucky Bastard finally closed after two years on market. Week-over-week gain reverses May's slide as media attention rebuilds entering weekend, Google News RSS driving 96% of discovery with Reddit RSS accounting for remaining 4%.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "0",
-        "class1": "",
+        "value1": "5",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "23",
-        "class1": "down",
+        "value1": "47",
+        "class1": "up",
         "label2": "sources",
-        "value2": "9",
+        "value2": "11",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) keeps MTD net at +10 (+0.9/day), 90-day net holding at +129. Thursday marks fourth straight zero-net day as June's second week closes with extended flat stretch. Recent two weeks reveal deteriorating pattern: seven flat days clustered with only June 5's net +4 spike breaking dormancy. Current 7-day window (+6) trails prior period (+8) by 25% as June pace (+0.9/day) slips further below YTD velocity (+1.2/day), confirming sustained cooling from May's stronger momentum.",
+      "blurb": "<strong>Net +3 yesterday</strong> (3 new, 0 canceled) lifts MTD net to +13 (+1.1/day), 90-day net now at +130. Friday's clean gain breaks Thursday's flat pattern as weekend approaches. Recent fortnight shows mixed signals: five zero-net days scattered among modest gains, with June 5's +4 spike and yesterday's +3 providing only meaningful upward pressure. Current 7-day window (+5) trails prior period (+9) by 44% as June's daily pace (+1.1) remains stubbornly below YTD velocity (+1.2), confirming persistent cooling from Q1's stronger run despite Friday's improvement.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "10",
-      "net_ytd": "199",
-      "net_mtd_per_day": "0.9",
+      "net_mtd": "13",
+      "net_ytd": "202",
+      "net_mtd_per_day": "1.1",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "7",
-      "annual_ytd": "141",
+      "annual_mtd": "10",
+      "annual_ytd": "155",
       "monthly_mtd": "3",
-      "monthly_ytd": "58"
+      "monthly_ytd": "47"
     }
   }
 }
