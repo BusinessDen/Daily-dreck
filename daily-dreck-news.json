@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-06-14",
-  "fetched_at": "2026-06-14 09:11:28",
+  "fetched_at": "2026-06-14 11:02:51",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "How a record and tinned-fish store has survived for three years in Del Norte",
+      "link": "https://www.cpr.org/2026/06/14/del-norte-record-tinned-fish-store-marks-three-years/",
+      "source": "CPR",
+      "pub_date": "2026-06-14T10:00:00+00:00",
+      "age_hours": 1.0435699416666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Michael Bennet, Phil Weiser clash over ambition and housing in last major debate before Democratic primary",
       "link": "https://coloradosun.com/2026/06/13/michael-bennet-phil-weiser-democratic-primary-debate-governor-colorado-sun-housing/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-13T19:20:59+00:00",
-      "age_hours": 13.837530027777778,
+      "age_hours": 15.693718096388888,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "What\u2019s Working: Uneven inflation still eroding affordability in Colorado",
       "link": "https://coloradosun.com/2026/06/13/inflation-affordability-denver-colorado-gas-prices/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-13T10:00:00+00:00",
-      "age_hours": 23.187252916944445,
+      "age_hours": 25.043440945555552,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Every opening and closing this week:\u00a0 One chain leaves, another reappears",
       "link": "https://www.westword.com/food-drink/national-restaurant-chains-come-and-go-in-denver-40898047/",
       "source": "Westword",
       "pub_date": "2026-06-13T07:12:00-06:00",
-      "age_hours": 19.987543410277777,
+      "age_hours": 21.843996682222222,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
       "link": "https://www.9news.com/article/news/nation-world/anthropic-fable-mythos-offline-comply-new-export-controls/507-052e3003-12f3-421f-b57e-4cf446975882",
       "source": "9News",
       "pub_date": "2026-06-13T05:15:16+00:00",
-      "age_hours": 27.932978885,
+      "age_hours": 29.789176364444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://www.9news.com/article/life/animals/denver-animal-protection-more-stray-animal-calls-fewer-officers/73-b43efa57-428d-4c0e-9e4a-aa0e5fde5543",
       "source": "9News",
       "pub_date": "2026-06-13T03:54:44+00:00",
-      "age_hours": 29.2752011575,
+      "age_hours": 31.131398643611114,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.9news.com/video/next-with-kyle-clark/push-to-open-primaries-next-with-kyle-clark-full-show-61226/73-f6160151-6b68-47b8-a8cb-ec3eb51a733d",
       "source": "9News",
       "pub_date": "2026-06-13T01:03:29+00:00",
-      "age_hours": 32.129367886388884,
+      "age_hours": 33.985565379722225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://bizwest.com/2026/06/12/auddia-merger-with-ceos-holding-company-could-close-in-july/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:33:41+00:00",
-      "age_hours": 35.62540739027778,
+      "age_hours": 37.481283285555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://bizwest.com/2026/06/12/chicago-investor-buys-fort-collins-based-cgrs/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:26:56+00:00",
-      "age_hours": 35.73790794861111,
+      "age_hours": 37.59378385555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/06/12/left-hands-leftapalooza-to-feature-battle-of-tribute-bands/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:18:46+00:00",
-      "age_hours": 35.874019068888884,
+      "age_hours": 37.72989497583334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://sentinelcolorado.com/metro/colfax-dda-board-candidates-set-to-be-finalized-by-aurora-city-council/",
       "source": "Sentinel",
       "pub_date": "2026-06-12T21:14:56+00:00",
-      "age_hours": 35.93879549305555,
+      "age_hours": 37.79525819888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/06/12/saturday-event-to-mark-poudre-trail-completion/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:12:38+00:00",
-      "age_hours": 35.9762413275,
+      "age_hours": 37.83211723472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/06/12/csu-prof-wins-international-environment-award/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:06:11+00:00",
-      "age_hours": 36.08374135583333,
+      "age_hours": 37.93961726305555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/06/12/indy-venue-group-to-hold-conference-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-06-12T20:31:30+00:00",
-      "age_hours": 36.66179694111111,
+      "age_hours": 38.517672848333326,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://sentinelcolorado.com/uncategorized/a-blind-ukrainian-veteran-turns-pottery-into-a-business-and-mentors-others/",
       "source": "Sentinel",
       "pub_date": "2026-06-12T20:09:38+00:00",
-      "age_hours": 37.02712912138889,
+      "age_hours": 38.88359182083333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/06/12/house-district-14-businesswoman-consultant-square-off-in-gop-primary/",
       "source": "CO Politics",
       "pub_date": "2026-06-12T17:46:45+00:00",
-      "age_hours": 39.40850837916667,
+      "age_hours": 41.264959186944445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://kdvr.com/news/local/body-of-denver-man-recovered-from-yellowstone-lake/",
       "source": "Fox31",
       "pub_date": "2026-06-12T16:51:46+00:00",
-      "age_hours": 40.32474839833333,
+      "age_hours": 42.18094776916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-06-12-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-12T14:14:57+00:00",
-      "age_hours": 42.938007435833335,
+      "age_hours": 44.794181968055554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://kdvr.com/denver-guide/food-drink/colorados-only-2-michelin-star-restaurant-opening-pop-up-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-12T13:25:55+00:00",
-      "age_hours": 43.75558184,
+      "age_hours": 45.61178119861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/06/12/circle-graphics-renews-166000-sf-longmont-lease-through-2038/",
       "source": "BizWest",
       "pub_date": "2026-06-12T13:18:33+00:00",
-      "age_hours": 43.87763030777778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Direct bus would connect Longmont, DIA",
-      "link": "https://bizwest.com/2026/06/12/direct-bus-would-connect-longmont-dia/",
-      "source": "BizWest",
-      "pub_date": "2026-06-12T13:01:01+00:00",
-      "age_hours": 44.169852535277776,
+      "age_hours": 45.733506215,
       "breaking": false,
       "time_ago": "1 day ago"
     }
