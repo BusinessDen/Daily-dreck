@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-06-14",
-  "fetched_at": "2026-06-14 14:49:54",
+  "fetched_at": "2026-06-14 15:37:17",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Morso rising Under the Sun",
+      "link": "https://bizwest.com/2026/06/14/morso-rising-under-the-sun/",
+      "source": "BizWest",
+      "pub_date": "2026-06-14T15:30:42+00:00",
+      "age_hours": 0.10437775722222223,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
     {
       "title": "How a record and tinned-fish store has survived for three years in Del Norte",
       "link": "https://www.cpr.org/2026/06/14/del-norte-record-tinned-fish-store-marks-three-years/",
       "source": "CPR",
       "pub_date": "2026-06-14T10:00:00+00:00",
-      "age_hours": 4.828317607777778,
+      "age_hours": 5.616771151388888,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Michael Bennet, Phil Weiser clash over ambition and housing in last major debate before Democratic primary",
       "link": "https://coloradosun.com/2026/06/13/michael-bennet-phil-weiser-democratic-primary-debate-governor-colorado-sun-housing/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-13T19:20:59+00:00",
-      "age_hours": 19.478443676111112,
+      "age_hours": 20.266871090555554,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "What\u2019s Working: Uneven inflation still eroding affordability in Colorado",
       "link": "https://coloradosun.com/2026/06/13/inflation-affordability-denver-colorado-gas-prices/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-13T10:00:00+00:00",
-      "age_hours": 28.82816650222222,
+      "age_hours": 29.616594006666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -36,7 +45,7 @@
       "link": "https://www.westword.com/food-drink/national-restaurant-chains-come-and-go-in-denver-40898047/",
       "source": "Westword",
       "pub_date": "2026-06-13T07:12:00-06:00",
-      "age_hours": 25.628981691944443,
+      "age_hours": 26.417259656666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://www.9news.com/article/news/nation-world/anthropic-fable-mythos-offline-comply-new-export-controls/507-052e3003-12f3-421f-b57e-4cf446975882",
       "source": "9News",
       "pub_date": "2026-06-13T05:15:16+00:00",
-      "age_hours": 33.5739267275,
+      "age_hours": 34.36243841833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.9news.com/article/life/animals/denver-animal-protection-more-stray-animal-calls-fewer-officers/73-b43efa57-428d-4c0e-9e4a-aa0e5fde5543",
       "source": "9News",
       "pub_date": "2026-06-13T03:54:44+00:00",
-      "age_hours": 34.91614901222222,
+      "age_hours": 35.70466071611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://bizwest.com/2026/06/12/auddia-merger-with-ceos-holding-company-could-close-in-july/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:33:41+00:00",
-      "age_hours": 41.26548930222222,
+      "age_hours": 42.05465617722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://bizwest.com/2026/06/12/chicago-investor-buys-fort-collins-based-cgrs/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:26:56+00:00",
-      "age_hours": 41.377990241111114,
+      "age_hours": 42.16715621722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/06/12/left-hands-leftapalooza-to-feature-battle-of-tribute-bands/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:18:46+00:00",
-      "age_hours": 41.514101368055556,
+      "age_hours": 42.30326733555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://sentinelcolorado.com/metro/colfax-dda-board-candidates-set-to-be-finalized-by-aurora-city-council/",
       "source": "Sentinel",
       "pub_date": "2026-06-12T21:14:56+00:00",
-      "age_hours": 41.580302253888895,
+      "age_hours": 42.36857483972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/06/12/saturday-event-to-mark-poudre-trail-completion/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:12:38+00:00",
-      "age_hours": 41.6163236525,
+      "age_hours": 42.40548960555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/06/12/csu-prof-wins-international-environment-award/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:06:11+00:00",
-      "age_hours": 41.72382370888889,
+      "age_hours": 42.51298963444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/06/12/indy-venue-group-to-hold-conference-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-06-12T20:31:30+00:00",
-      "age_hours": 42.301879315,
+      "age_hours": 43.091045219444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://sentinelcolorado.com/uncategorized/a-blind-ukrainian-veteran-turns-pottery-into-a-business-and-mentors-others/",
       "source": "Sentinel",
       "pub_date": "2026-06-12T20:09:38+00:00",
-      "age_hours": 42.668635860277774,
+      "age_hours": 43.456908544722225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/06/12/house-district-14-businesswoman-consultant-square-off-in-gop-primary/",
       "source": "CO Politics",
       "pub_date": "2026-06-12T17:46:45+00:00",
-      "age_hours": 45.04996291,
+      "age_hours": 45.83827218722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,16 +153,25 @@
       "link": "https://kdvr.com/news/local/body-of-denver-man-recovered-from-yellowstone-lake/",
       "source": "Fox31",
       "pub_date": "2026-06-12T16:51:46+00:00",
-      "age_hours": 45.965880670277784,
+      "age_hours": 46.75437376861111,
       "breaking": false,
       "time_ago": "1 day ago"
+    },
+    {
+      "title": "Movers and Shakers Week Ending 06.12.26",
+      "link": "https://milehighcre.com/movers-and-shakers-week-ending-06-12-26/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-12T14:14:57+00:00",
+      "age_hours": 49.367335922500004,
+      "breaking": false,
+      "time_ago": "2 days ago"
     },
     {
       "title": "Colorado's only 2-Michelin-star restaurant opening pop-up in Denver",
       "link": "https://kdvr.com/denver-guide/food-drink/colorados-only-2-michelin-star-restaurant-opening-pop-up-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-12T13:25:55+00:00",
-      "age_hours": 49.39671409305555,
+      "age_hours": 50.18520722583333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://bizwest.com/2026/06/12/circle-graphics-renews-166000-sf-longmont-lease-through-2038/",
       "source": "BizWest",
       "pub_date": "2026-06-12T13:18:33+00:00",
-      "age_hours": 49.51771270222222,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Direct bus would connect Longmont, DIA",
-      "link": "https://bizwest.com/2026/06/12/direct-bus-would-connect-longmont-dia/",
-      "source": "BizWest",
-      "pub_date": "2026-06-12T13:01:01+00:00",
-      "age_hours": 49.80993493361111,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Inside the Denver airport tunnels (and the huge plan to reuse them)",
-      "link": "https://denverite.com/2026/06/12/inside-denver-airport-tunnels-walkway-plan-train/",
-      "source": "Denverite",
-      "pub_date": "2026-06-12T10:00:00+00:00",
-      "age_hours": 52.82827484277778,
+      "age_hours": 50.30687858583334,
       "breaking": false,
       "time_ago": "2 days ago"
     }
