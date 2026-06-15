@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-06-15",
-  "fetched_at": "2026-06-15 01:07:10",
+  "fetched_at": "2026-06-15 03:17:15",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Woman struck by bullet in Aurora Sable Ridge neighborhood, police seeking information",
+      "link": "https://sentinelcolorado.com/metro/woman-struck-by-bullet-in-aurora-sable-ridge-neighborhood-police-seeking-information/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-15T03:12:25+00:00",
+      "age_hours": 0.07723162416666667,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
     {
       "title": "Morso rising Under the Sun",
       "link": "https://bizwest.com/2026/06/14/morso-rising-under-the-sun/",
       "source": "BizWest",
       "pub_date": "2026-06-14T15:30:42+00:00",
-      "age_hours": 9.602708387777778,
+      "age_hours": 11.770738719722223,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "How a record and tinned-fish store has survived for three years in Del Norte",
       "link": "https://www.cpr.org/2026/06/14/del-norte-record-tinned-fish-store-marks-three-years/",
       "source": "CPR",
       "pub_date": "2026-06-14T10:00:00+00:00",
-      "age_hours": 15.115105454166667,
+      "age_hours": 17.283183195833335,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Michael Bennet, Phil Weiser clash over ambition and housing in last major debate before Democratic primary",
       "link": "https://coloradosun.com/2026/06/13/michael-bennet-phil-weiser-democratic-primary-debate-governor-colorado-sun-housing/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-13T19:20:59+00:00",
-      "age_hours": 29.765272744166666,
+      "age_hours": 31.933186515833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -36,7 +45,7 @@
       "link": "https://coloradosun.com/2026/06/13/inflation-affordability-denver-colorado-gas-prices/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-13T10:00:00+00:00",
-      "age_hours": 39.11499562388889,
+      "age_hours": 41.28290942277778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://www.westword.com/food-drink/national-restaurant-chains-come-and-go-in-denver-40898047/",
       "source": "Westword",
       "pub_date": "2026-06-13T07:12:00-06:00",
-      "age_hours": 35.9153834325,
+      "age_hours": 38.08383753138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://bizwest.com/2026/06/12/auddia-merger-with-ceos-holding-company-could-close-in-july/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:33:41+00:00",
-      "age_hours": 51.552986669444444,
+      "age_hours": 53.72101700555556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://bizwest.com/2026/06/12/chicago-investor-buys-fort-collins-based-cgrs/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:26:56+00:00",
-      "age_hours": 51.66548670861111,
+      "age_hours": 53.83351704444444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://bizwest.com/2026/06/12/left-hands-leftapalooza-to-feature-battle-of-tribute-bands/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:18:46+00:00",
-      "age_hours": 51.801597826111106,
+      "age_hours": 53.96962816222222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/06/12/saturday-event-to-mark-poudre-trail-completion/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:12:38+00:00",
-      "age_hours": 51.90382008277778,
+      "age_hours": 54.071850419166665,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://bizwest.com/2026/06/12/csu-prof-wins-international-environment-award/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:06:11+00:00",
-      "age_hours": 52.01132011166667,
+      "age_hours": 54.17935045138889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/06/12/indy-venue-group-to-hold-conference-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-06-12T20:31:30+00:00",
-      "age_hours": 52.58937570027778,
+      "age_hours": 54.757406035277775,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/06/12/house-district-14-businesswoman-consultant-square-off-in-gop-primary/",
       "source": "CO Politics",
       "pub_date": "2026-06-12T17:46:45+00:00",
-      "age_hours": 55.3363699125,
+      "age_hours": 57.5049382575,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://kdvr.com/news/local/body-of-denver-man-recovered-from-yellowstone-lake/",
       "source": "Fox31",
       "pub_date": "2026-06-12T16:51:46+00:00",
-      "age_hours": 56.25256197638889,
+      "age_hours": 58.42081020972223,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-06-12-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-12T14:14:57+00:00",
-      "age_hours": 58.865724659444446,
+      "age_hours": 61.033620701111104,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://kdvr.com/denver-guide/food-drink/colorados-only-2-michelin-star-restaurant-opening-pop-up-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-12T13:25:55+00:00",
-      "age_hours": 59.683395394444446,
+      "age_hours": 61.851643628333335,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/06/12/circle-graphics-renews-166000-sf-longmont-lease-through-2038/",
       "source": "BizWest",
       "pub_date": "2026-06-12T13:18:33+00:00",
-      "age_hours": 59.80520906638889,
+      "age_hours": 61.97323940138889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/06/12/direct-bus-would-connect-longmont-dia/",
       "source": "BizWest",
       "pub_date": "2026-06-12T13:01:01+00:00",
-      "age_hours": 60.09743129361111,
+      "age_hours": 62.265461628055554,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://denverite.com/2026/06/12/inside-denver-airport-tunnels-walkway-plan-train/",
       "source": "Denverite",
       "pub_date": "2026-06-12T10:00:00+00:00",
-      "age_hours": 63.11504587138889,
+      "age_hours": 65.28301056805556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,18 +180,9 @@
       "link": "https://bizwest.com/2026/06/11/weld-countys-options-may-be-limited-on-judicial-center-vote/",
       "source": "BizWest",
       "pub_date": "2026-06-12T02:57:28+00:00",
-      "age_hours": 70.15659798888889,
+      "age_hours": 72.32462832166667,
       "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "1 dead after e-bike crash on I-70 in Denver",
-      "link": "https://kdvr.com/news/local/1-transported-after-e-bike-crash-on-i-70-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-06-12T02:17:41+00:00",
-      "age_hours": 70.8206175786111,
-      "breaking": false,
-      "time_ago": "2 days ago"
+      "time_ago": "3 days ago"
     }
   ]
 }
