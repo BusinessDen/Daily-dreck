@@ -1,78 +1,105 @@
 {
   "fetched_date": "2026-06-15",
-  "fetched_at": "2026-06-15 11:10:35",
+  "fetched_at": "2026-06-15 14:14:34",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Best Buy closing Aurora store, opening new location",
+      "link": "https://www.9news.com/article/money/business/best-buy-closing-opening-new-store/73-95df7b9b-3cbb-45fc-8022-e55ac586e200",
+      "source": "9News",
+      "pub_date": "2026-06-15T12:39:32+00:00",
+      "age_hours": 1.5789744191666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Firefighters say discarded cigarette sparks Aurora apartment fire early Monday. 1 hospitalized",
+      "link": "https://sentinelcolorado.com/metro/firefighters-say-discarded-cigarette-sparks-aurora-apartment-fire-early-monday-1-hospitalized/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-15T12:10:46+00:00",
+      "age_hours": 2.0592737963888887,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Fox buying streaming platform Roku in cash-and-stock deal worth about $22 billion",
+      "link": "https://www.9news.com/article/money/business/fox-buying-streaming-platform-roku/507-ca40e578-66db-4a4d-b335-0a0cb76a97e6",
+      "source": "9News",
+      "pub_date": "2026-06-15T12:02:27+00:00",
+      "age_hours": 2.1970300244444445,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Roan Plateau parcels proposed for oil and gas lease sales, undoing protections for iconic western Colorado mesa",
       "link": "https://coloradosun.com/2026/06/15/roan-plateau-blm-lease-sales-protections/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-15T10:20:00+00:00",
-      "age_hours": 0.8386434736111111,
+      "age_hours": 3.9043211897222223,
       "breaking": true,
-      "time_ago": "50 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado lawmakers look to limit PERA bonuses following Sun investigation",
       "link": "https://coloradosun.com/2026/06/15/colorado-lawmakers-limit-pera-bonuses-sun-investigation/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-15T10:00:00+00:00",
-      "age_hours": 1.1719768475,
+      "age_hours": 4.237654564722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "DIA CEO Phil Washington reflects on never-ending construction, federal threats and a career in transit",
       "link": "https://www.cpr.org/2026/06/15/dia-ceo-phil-washington-retiring/",
       "source": "CPR",
       "pub_date": "2026-06-15T10:00:00+00:00",
-      "age_hours": 1.1720825269444446,
+      "age_hours": 4.237811291944444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "How three Denver artists are spending $50,000 to fund their passions",
       "link": "https://coloradosun.com/2026/06/15/three-denver-artists-win-bonfils-stanton-grant-50000/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-15T09:55:00+00:00",
-      "age_hours": 1.2553102324999998,
+      "age_hours": 4.3209879525,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Juvenile boy struck by bullet Saturday in Aurora what police say was gunfire exchange",
       "link": "https://sentinelcolorado.com/metro/juvenile-boy-struck-by-bullet-saturday-in-aurora-what-police-say-was-gunfire-exchange/",
       "source": "Sentinel",
       "pub_date": "2026-06-15T03:29:33+00:00",
-      "age_hours": 7.680137792777778,
+      "age_hours": 10.746218582777777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Woman struck by bullet in Aurora Sable Ridge neighborhood, police seeking information",
       "link": "https://sentinelcolorado.com/metro/woman-struck-by-bullet-in-aurora-sable-ridge-neighborhood-police-seeking-information/",
       "source": "Sentinel",
       "pub_date": "2026-06-15T03:12:25+00:00",
-      "age_hours": 7.965693526666667,
+      "age_hours": 11.031774291388889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Morso rising Under the Sun",
       "link": "https://bizwest.com/2026/06/14/morso-rising-under-the-sun/",
       "source": "BizWest",
       "pub_date": "2026-06-14T15:30:42+00:00",
-      "age_hours": 19.65986878777778,
+      "age_hours": 22.725177245833333,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "How a record and tinned-fish store has survived for three years in Del Norte",
       "link": "https://www.cpr.org/2026/06/14/del-norte-record-tinned-fish-store-marks-three-years/",
       "source": "CPR",
       "pub_date": "2026-06-14T10:00:00+00:00",
-      "age_hours": 25.172082550000002,
+      "age_hours": 28.23781131222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,16 +108,16 @@
       "link": "https://www.westword.com/food-drink/national-restaurant-chains-come-and-go-in-denver-40898047/",
       "source": "Westword",
       "pub_date": "2026-06-13T07:12:00-06:00",
-      "age_hours": 45.972392675277774,
+      "age_hours": 49.03855759138889,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Auddia merger with CEO\u2019s holding company could close in July",
       "link": "https://bizwest.com/2026/06/12/auddia-merger-with-ceos-holding-company-could-close-in-july/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:33:41+00:00",
-      "age_hours": 61.61014713555556,
+      "age_hours": 64.67545552361112,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -99,7 +126,7 @@
       "link": "https://bizwest.com/2026/06/12/chicago-investor-buys-fort-collins-based-cgrs/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:26:56+00:00",
-      "age_hours": 61.72264717444445,
+      "age_hours": 64.78795556027778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -108,7 +135,7 @@
       "link": "https://bizwest.com/2026/06/12/left-hands-leftapalooza-to-feature-battle-of-tribute-bands/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:18:46+00:00",
-      "age_hours": 61.8587582925,
+      "age_hours": 64.92406667777777,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +144,7 @@
       "link": "https://bizwest.com/2026/06/12/saturday-event-to-mark-poudre-trail-completion/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:12:38+00:00",
-      "age_hours": 61.960980549999995,
+      "age_hours": 65.02628893194445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +153,7 @@
       "link": "https://bizwest.com/2026/06/12/csu-prof-wins-international-environment-award/",
       "source": "BizWest",
       "pub_date": "2026-06-12T21:06:11+00:00",
-      "age_hours": 62.06848057888889,
+      "age_hours": 65.1337889575,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +162,7 @@
       "link": "https://bizwest.com/2026/06/12/indy-venue-group-to-hold-conference-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-06-12T20:31:30+00:00",
-      "age_hours": 62.64653616361112,
+      "age_hours": 65.71184453916666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/06/12/house-district-14-businesswoman-consultant-square-off-in-gop-primary/",
       "source": "CO Politics",
       "pub_date": "2026-06-12T17:46:45+00:00",
-      "age_hours": 65.39346313333334,
+      "age_hours": 68.45952077055556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://kdvr.com/news/local/body-of-denver-man-recovered-from-yellowstone-lake/",
       "source": "Fox31",
       "pub_date": "2026-06-12T16:51:46+00:00",
-      "age_hours": 66.30954785777779,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 06.12.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-06-12-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-12T14:14:57+00:00",
-      "age_hours": 68.92273769166667,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado's only 2-Michelin-star restaurant opening pop-up in Denver",
-      "link": "https://kdvr.com/denver-guide/food-drink/colorados-only-2-michelin-star-restaurant-opening-pop-up-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-06-12T13:25:55+00:00",
-      "age_hours": 69.74038127749999,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Circle Graphics renews 166,000-sf Longmont lease through 2038",
-      "link": "https://bizwest.com/2026/06/12/circle-graphics-renews-166000-sf-longmont-lease-through-2038/",
-      "source": "BizWest",
-      "pub_date": "2026-06-12T13:18:33+00:00",
-      "age_hours": 69.86236953611112,
+      "age_hours": 69.3754902425,
       "breaking": false,
       "time_ago": "2 days ago"
     }
