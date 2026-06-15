@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-06-14",
-  "lead_headline": "Restaurant tracker completes 19th consecutive zero-lead day on Sunday as June detection shutdown extends across metro",
+  "generated_date": "2026-06-15",
+  "lead_headline": "BusinessDen citations jumped 40% week-over-week to 49 mentions as Denver Post Cherry Hills luxury coverage led Monday's rebound",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads today</strong>\u2014Sunday continues June's total detection freeze now spanning 19 consecutive days without openings or closures logged across all neighborhoods.",
+      "blurb": "<strong>Zero new leads since Friday</strong>\u2014three-day weekend closes with detection freeze now spanning 22 consecutive days without openings or closures logged metro-wide.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
         "value2": "0",
-        "period": "today"
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong>\u2014Sunday applications desk went dark after Saturday's 350-filing deluge. Weekend saw Spitz Mediterranean (2615 Walnut), Dry Dock Pub on Pearl (1101 S Pearl), and Madeline (1313 E 6th Ave) clear Denver approvals. Hotel & Restaurant licenses drove Saturday's backlog clearance, RiNo and Capitol Hill leading neighborhood activity. Zero status changes, zero removals logged\u2014system resting after weekend processing surge cleared June's two-week dormancy.",
+      "blurb": "<strong>Zero new applications today</strong>\u2014Monday applications desk stays dark following weekend's 350-filing Saturday clearance, bringing weekly total to 369 after June's two-week dormancy. Previous week logged zero applications for context. Spitz Mediterranean (2615 Walnut St, RiNo), Dry Dock Pub (1101 S Pearl St), and Madeline (1313 E 6th Ave) cleared Denver approvals over the weekend. Hotel & Restaurant licenses dominated Saturday's backlog processing, with RiNo and Capitol Hill leading neighborhood activity as system rested Sunday after clearing June's extended freeze.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,17 +59,17 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>3 mentions yesterday</strong>\u2014Saturday coverage landed from Denver Post (Warrior Sports founder's $12M Cherry Hills mansion listing), Facebook (Englewood romance bookstore opening), and Reddit community discussions. <strong>Weekly tally: 47 mentions across 11 sources</strong>, up 27% from prior week's 37 as mid-June momentum accelerates. Denver Post dominated with 20 citations (43% share), Reddit contributed 6, social platforms split remainder. Week showed strong recovery after May's drought\u2014Lakewood office tower discount sale, Cherry Hills luxury listings, local business launches driving coverage. Current week's gain (+10 vs prior period) reverses two-month slide as media attention rebuilds entering Father's Day weekend.",
+      "blurb": "<strong>1 mention yesterday</strong>\u2014Sunday logged single citation from Kygo.com covering Denver's last-place return-to-office ranking, capping week's 49 total mentions. <strong>Weekly tally: 49 mentions across 11 sources</strong>, up 40% from prior week's 35 as mid-June momentum extends May recovery. Denver Post led with 20 citations (41% share), Facebook contributed 6, Reddit matched with 6, Instagram added 5. Week's standout coverage: Warrior Sports founder's $12M Cherry Hills mansion listing, Lakewood's tallest office tower selling at 30% discount, Englewood romance bookstore opening. Current week's +14 gain vs prior period confirms media attention rebuilding after spring drought, with luxury real estate and local business launches driving Father's Day weekend traffic.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "47",
+        "value1": "49",
         "class1": "up",
         "label2": "sources",
         "value2": "11",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks Saturday sabbath, holding MTD net at +13 (+1.0/day) and 90-day net at +130. Zero-net Saturday follows Friday's +3 uptick as weekend subscription activity typically flatlines. Recent fortnight remains choppy: six zero-net days scattered among modest gains, with June 5's +4 and June 12's +3 providing only meaningful lift. Current 7-day window (+4 net) trails prior period (+11) by 64% as June's daily pace (+1.0) continues drifting below YTD velocity (+1.2), confirming persistent Q2 cooling despite sporadic Friday strength before weekend dormancy.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks Sunday's expected dormancy, holding MTD net at +13 (+0.9/day) and 90-day net at +130. Weekend flatlined after Friday's +3 uptick closed week at +3 net (16 new, 13 canceled), down from prior period's +8 as June churn intensifies. Recent fortnight shows erratic pattern: Thursday's \u22123 dip followed by Friday's +3 recovery, sandwiched between Saturday-Sunday zeros. Current 7-day pace (+0.4/day) trails both MTD velocity (+0.9) and YTD average (+1.2), confirming persistent Q2 headwinds despite sporadic Friday strength before weekend shutdowns.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "13",
       "net_ytd": "202",
-      "net_mtd_per_day": "1.0",
+      "net_mtd_per_day": "0.9",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "9",
-      "annual_ytd": "141",
-      "monthly_mtd": "4",
-      "monthly_ytd": "61"
+      "annual_mtd": "11",
+      "annual_ytd": "167",
+      "monthly_mtd": "2",
+      "monthly_ytd": "35"
     }
   }
 }
