@@ -1,42 +1,87 @@
 {
   "fetched_date": "2026-06-16",
-  "fetched_at": "2026-06-16 21:53:28",
+  "fetched_at": "2026-06-16 22:41:19",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Arapahoe County commissioners tout investments in public health and safety at State of the County event",
+      "link": "https://sentinelcolorado.com/metro/arapahoe-county-commissioners-tout-investments-in-public-health-and-safety-at-state-of-the-county-event/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-16T22:26:53+00:00",
+      "age_hours": 0.2376587963888889,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "New Colorado laws go into effect July 1, 2026",
+      "link": "https://www.9news.com/article/news/local/local-politics/new-colorado-laws-july-2026/73-ca37d727-c445-4be1-9563-98be59079a2a",
+      "source": "9News",
+      "pub_date": "2026-06-16T22:13:10+00:00",
+      "age_hours": 0.4653604,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "\u2018The Denver Post\u2019 sign to be removed from city building as part of $13.5M settlement",
+      "link": "https://denverite.com/2026/06/16/denver-post-building-settlement/",
+      "source": "Denverite",
+      "pub_date": "2026-06-16T22:00:17+00:00",
+      "age_hours": 0.67996899,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "These chefs and restaurants are the 2026 James Beard Award winners",
+      "link": "https://www.9news.com/article/news/nation-world/james-beard-award-winners-list-2026-chefs-restaurants-bars/507-5b27ecdb-fbeb-47a7-94b2-4506fc63a124",
+      "source": "9News",
+      "pub_date": "2026-06-16T21:53:10+00:00",
+      "age_hours": 0.7986937955555556,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
     {
       "title": "Owner of Denver Post agrees to $13.5 million settlement with city over unpaid rent, will remove sign",
       "link": "https://coloradosun.com/2026/06/16/denver-post-settlement-city-building-downtown/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-16T21:42:39+00:00",
-      "age_hours": 0.1759299436111111,
+      "age_hours": 0.9736993352777777,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "58 min ago"
+    },
+    {
+      "title": "Champ at 2025 TPC Colorado tourney teeing up U.S. Open run",
+      "link": "https://bizwest.com/2026/06/16/champ-at-2025-tpc-colorado-tourney-teeing-up-u-s-open-run/",
+      "source": "BizWest",
+      "pub_date": "2026-06-16T21:25:26+00:00",
+      "age_hours": 1.260154022222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "A Woman\u2019s Place opens safehouse, outreach facilities",
       "link": "https://bizwest.com/2026/06/16/a-womans-place-opens-safehouse-outreach-facilities/",
       "source": "BizWest",
       "pub_date": "2026-06-16T21:20:46+00:00",
-      "age_hours": 0.5402243205555556,
+      "age_hours": 1.3379326608333335,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "A graduated tax plan could undercut Colorado\u2019s business competitiveness, analysis warns",
       "link": "https://www.coloradopolitics.com/2026/06/16/a-graduated-tax-plan-could-undercut-colorados-business-competitiveness-analysis-warns/",
       "source": "CO Politics",
       "pub_date": "2026-06-16T21:08:36+00:00",
-      "age_hours": 0.7441421886111111,
+      "age_hours": 1.5423128527777776,
       "breaking": true,
-      "time_ago": "44 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Construction worker dies at Broncos training facility construction site",
       "link": "https://denverite.com/2026/06/16/construction-worker-dies-at-broncos-training-facility-construction-site/",
       "source": "Denverite",
       "pub_date": "2026-06-16T19:44:13+00:00",
-      "age_hours": 2.149916743611111,
+      "age_hours": 2.9477468252777776,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -45,70 +90,25 @@
       "link": "https://www.9news.com/article/news/nation-world/fda-approves-rextovy-naloxone-nasal-spray-combat-opioid-overdoses/507-6186d098-6f83-49c3-a49c-c4e8ff12bef4",
       "source": "9News",
       "pub_date": "2026-06-16T19:18:43+00:00",
-      "age_hours": 2.5750096533333333,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "How Flexible Office Design is Shaping the Future of Workplace Culture",
-      "link": "https://milehighcre.com/how-flexible-office-design-is-shaping-the-future-of-workplace-culture/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-16T18:27:22+00:00",
-      "age_hours": 3.430539496388889,
+      "age_hours": 3.372860518611111,
       "breaking": true,
       "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "New Colorado laws go into effect July 1, 2026",
-      "link": "https://www.9news.com/article/news/local/local-politics/new-colorado-laws-july-2026/73-ca37d727-c445-4be1-9563-98be59079a2a",
-      "source": "9News",
-      "pub_date": "2026-06-16T17:05:31+00:00",
-      "age_hours": 4.795009724444444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Pro Cabinet Solutions Earns M/WBE Certification",
-      "link": "https://milehighcre.com/pro-cabinet-solutions-earns-m-wbe-certification/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-16T17:02:29+00:00",
-      "age_hours": 4.8452617325,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Koelbel Closes on Spine Road Affordable Project in Boulder County",
-      "link": "https://milehighcre.com/koelbel-closes-on-spine-road-affordable-project-in-boulder-county/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-16T16:51:25+00:00",
-      "age_hours": 5.029706187777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
     },
     {
       "title": "Vegan farmers market stand opening new restaurant on South Broadway",
       "link": "https://kdvr.com/denver-guide/food-drink/vegan-farmers-market-stand-opening-new-restaurant-on-south-broadway/",
       "source": "Fox31",
       "pub_date": "2026-06-16T15:24:11+00:00",
-      "age_hours": 6.484125339444445,
+      "age_hours": 7.282118819166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver chef wins James Beard's best chef in mountain region award",
       "link": "https://kdvr.com/denver-guide/denver-chef-wins-james-beards-best-chef-in-mountain-region-award/",
       "source": "Fox31",
       "pub_date": "2026-06-16T14:48:57+00:00",
-      "age_hours": 7.071347515555556,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Arizona-Based HubStarr Logistics Establishes Colorado Operations",
-      "link": "https://milehighcre.com/arizona-based-hubstarr-logistics-establishes-colorado-operations/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-16T14:26:48+00:00",
-      "age_hours": 7.439983975,
+      "age_hours": 7.869340986388889,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -117,34 +117,34 @@
       "link": "https://kdvr.com/news/local/girl-shot-overnight-in-capitol-hill-police/",
       "source": "Fox31",
       "pub_date": "2026-06-16T13:53:15+00:00",
-      "age_hours": 7.99968082111111,
+      "age_hours": 8.797674293611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Pilgrim\u2019s Pride to close Tennessee facility, expand in Georgia",
       "link": "https://bizwest.com/2026/06/16/pilgrims-pride-to-close-tennessee-facility-expand-in-georgia/",
       "source": "BizWest",
       "pub_date": "2026-06-16T13:24:35+00:00",
-      "age_hours": 8.476613771111111,
+      "age_hours": 9.27432158638889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "JBS to close Pennsylvania, Tennessee facilities",
       "link": "https://bizwest.com/2026/06/16/jbs-to-close-pennsylvania-tennessee-facilities/",
       "source": "BizWest",
       "pub_date": "2026-06-16T13:10:05+00:00",
-      "age_hours": 8.718280480555556,
+      "age_hours": 9.515988286388888,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Intrepid Fiber expands California network",
       "link": "https://bizwest.com/2026/06/16/intrepid-fiber-expands-california-network/",
       "source": "BizWest",
       "pub_date": "2026-06-16T12:52:57+00:00",
-      "age_hours": 9.003836066111111,
+      "age_hours": 9.80154386888889,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -153,36 +153,36 @@
       "link": "https://coloradosun.com/2026/06/16/the-plan-for-reviving-civic-center-park-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-16T10:15:00+00:00",
-      "age_hours": 11.636763335555555,
+      "age_hours": 12.434532734444444,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
-      "title": "Troy Guard plans five new restaurants in next two years",
-      "link": "https://www.9news.com/article/money/business/troy-guard-new-restaurants/73-a0d95ae3-37de-4196-881c-77c85eafade4",
-      "source": "9News",
-      "pub_date": "2026-06-16T10:11:09+00:00",
-      "age_hours": 11.701120949166667,
+      "title": "Suspected DUI driver hits 3 women, drags 1 half a block: Police",
+      "link": "https://kdvr.com/news/local/suspected-dui-driver-hits-3-women-drags-1-half-a-block-police/",
+      "source": "Fox31",
+      "pub_date": "2026-06-15T23:55:57+00:00",
+      "age_hours": 22.752674221944442,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
-      "title": "Burger chain selling 86 more restaurants",
-      "link": "https://www.9news.com/article/money/business/burger-chain-selling-86-more-restaurants/73-18daf97c-bf59-44c6-9108-cdba4b848908",
-      "source": "9News",
-      "pub_date": "2026-06-16T10:05:12+00:00",
-      "age_hours": 11.800287655555554,
+      "title": "Project Taurus data center development takes a step forward in Colorado Springs with administrative approval",
+      "link": "https://www.cpr.org/2026/06/15/colorado-springs-data-center-administrative-approval/",
+      "source": "CPR",
+      "pub_date": "2026-06-15T21:44:23+00:00",
+      "age_hours": 24.94500655027778,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
-      "title": "Best Buy closes store after 32 years, opening new Aurora location",
-      "link": "https://www.9news.com/article/money/business/best-buy-closing-opening-new-store/73-95df7b9b-3cbb-45fc-8022-e55ac586e200",
-      "source": "9News",
-      "pub_date": "2026-06-16T10:01:57+00:00",
-      "age_hours": 11.854454355833333,
+      "title": "Can Colorado protect girls from genital cutting but not boys? A lawsuit says no.",
+      "link": "https://www.cpr.org/2026/06/15/colorado-lawsuit-circumcision/",
+      "source": "CPR",
+      "pub_date": "2026-06-15T21:31:35+00:00",
+      "age_hours": 25.15833989277778,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "1 day ago"
     }
   ]
 }
