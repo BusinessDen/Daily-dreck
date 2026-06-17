@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-06-15",
-  "lead_headline": "BusinessDen citations jumped 40% week-over-week to 49 mentions as Denver Post Cherry Hills luxury coverage led Monday's rebound",
+  "generated_date": "2026-06-17",
+  "lead_headline": "Restaurant detection system enters 24th consecutive day offline as metro hospitality tracking stalls indefinitely",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads since Friday</strong>\u2014three-day weekend closes with detection freeze now spanning 22 consecutive days without openings or closures logged metro-wide.",
+      "blurb": "<strong>Zero new leads today</strong>\u2014system malfunction extends to 24 consecutive days with no metro openings or closures logged.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
         "value2": "0",
-        "period": "since Friday"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "108",
+        "value1": "118",
         "label2": "closed",
-        "value2": "88",
+        "value2": "107",
         "period": "all leads"
       }
     },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong>\u2014Monday applications desk stays dark following weekend's 350-filing Saturday clearance, bringing weekly total to 369 after June's two-week dormancy. Previous week logged zero applications for context. Spitz Mediterranean (2615 Walnut St, RiNo), Dry Dock Pub (1101 S Pearl St), and Madeline (1313 E 6th Ave) cleared Denver approvals over the weekend. Hotel & Restaurant licenses dominated Saturday's backlog processing, with RiNo and Capitol Hill leading neighborhood activity as system rested Sunday after clearing June's extended freeze.",
+      "blurb": "<strong>Zero new applications today</strong>\u2014Tuesday sees continued applications freeze following Monday's dormancy and Saturday's 350-application backlog clearance, holding 7-day total at 369. Week's notable approvals included Spitz Mediterranean at 2615 Walnut St (RiNo), Dry Dock Pub at 1101 S Pearl St (Wash Park), and Madeline at 1313 E 6th Ave (Country Club). Hotel & Restaurant licenses dominated weekend processing, with RiNo corridor and Capitol Hill showing heaviest concentration as system cleared June's two-week dormancy before entering this week's sequential quiet period.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,40 +54,40 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "369",
-        "class1": "up",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention yesterday</strong>\u2014Sunday logged single citation from Kygo.com covering Denver's last-place return-to-office ranking, capping week's 49 total mentions. <strong>Weekly tally: 49 mentions across 11 sources</strong>, up 40% from prior week's 35 as mid-June momentum extends May recovery. Denver Post led with 20 citations (41% share), Facebook contributed 6, Reddit matched with 6, Instagram added 5. Week's standout coverage: Warrior Sports founder's $12M Cherry Hills mansion listing, Lakewood's tallest office tower selling at 30% discount, Englewood romance bookstore opening. Current week's +14 gain vs prior period confirms media attention rebuilding after spring drought, with luxury real estate and local business launches driving Father's Day weekend traffic.",
+      "blurb": "<strong>0 mentions yesterday</strong>\u2014Tuesday mirrored Monday's single-citation pace, closing Tuesday at zero as mid-week media attention drops off post-weekend. <strong>Weekly count holds at 37 mentions across 10 sources</strong>, down 18% from prior week's 45 as June momentum cools entering late-month doldrums. Denver Post maintained lead with 16 citations (43% share), Facebook contributed 6, Reddit and Instagram each added 4. Week's coverage highlights: Kygo.com Denver return-to-office ranking, Warrior Sports founder's Cherry Hills mansion listing, Lakewood office tower discount sale. Current week's \u22128 deficit vs prior period signals return to spring's quieter baseline after mid-June's brief recovery, with luxury real estate threads cooling as summer approaches.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "0",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "49",
-        "class1": "up",
+        "value1": "37",
+        "class1": "down",
         "label2": "sources",
-        "value2": "11",
+        "value2": "10",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks Sunday's expected dormancy, holding MTD net at +13 (+0.9/day) and 90-day net at +130. Weekend flatlined after Friday's +3 uptick closed week at +3 net (16 new, 13 canceled), down from prior period's +8 as June churn intensifies. Recent fortnight shows erratic pattern: Thursday's \u22123 dip followed by Friday's +3 recovery, sandwiched between Saturday-Sunday zeros. Current 7-day pace (+0.4/day) trails both MTD velocity (+0.9) and YTD average (+1.2), confirming persistent Q2 headwinds despite sporadic Friday strength before weekend shutdowns.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends Monday's dormancy, keeping MTD net at +13 (+0.8/day) and 90-day net at +130. Tuesday flatline follows four-day weekend drought (Sat-Tue zeros) after Friday's +3 close ended prior week at +2 net (7 new, 5 canceled). Recent two-week pattern shows volatility: June 5's +4 peak followed by June 8's \u22122 trough, then June 10's \u22123 before Thursday-Friday recovery to +5 combined\u2014now erased by five-day shutdown. Current 7-day pace (+0.3/day) continues trailing both MTD velocity (+0.8) and YTD average (+1.2), confirming persistent mid-Q2 headwinds as extended weekend dormancy offsets isolated weekday strength.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "13",
       "net_ytd": "202",
-      "net_mtd_per_day": "0.9",
+      "net_mtd_per_day": "0.8",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "11",
-      "annual_ytd": "167",
-      "monthly_mtd": "2",
-      "monthly_ytd": "35"
+      "annual_mtd": "8",
+      "annual_ytd": "120",
+      "monthly_mtd": "5",
+      "monthly_ytd": "82"
     }
   }
 }
