@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-06-17",
-  "fetched_at": "2026-06-17 23:37:19",
+  "fetched_date": "2026-06-18",
+  "fetched_at": "2026-06-18 01:07:15",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "KFC is cooking up big changes with new food, drink options",
+      "link": "https://www.9news.com/article/news/nation-world/kfc-new-menu-drinks-restaurant-formats/507-58024ddb-98ba-4c8f-8817-d395e0c6802c",
+      "source": "9News",
+      "pub_date": "2026-06-18T00:57:46+00:00",
+      "age_hours": 0.15399459055555556,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
     {
       "title": "Gov. Polis discusses next steps as FDA approves importing drugs from Canada",
       "link": "https://kdvr.com/news/local/governor-polis-optimistic-as-fda-approves-drug-imports-from-canada/",
       "source": "Fox31",
       "pub_date": "2026-06-17T22:56:15+00:00",
-      "age_hours": 0.6802508716666668,
+      "age_hours": 2.1795425458333333,
       "breaking": true,
-      "time_ago": "40 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Federal government seeks to halt the first U.S. reparations program for Black people",
       "link": "https://sentinelcolorado.com/uncategorized/federal-government-seeks-to-halt-the-first-u-s-reparations-program-for-black-people/",
       "source": "Sentinel",
       "pub_date": "2026-06-17T21:25:01+00:00",
-      "age_hours": 2.2012605144444444,
+      "age_hours": 3.7004499091666663,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Are banks, post offices and the stock market open on Juneteenth? Here's what you need to know",
       "link": "https://www.9news.com/article/news/nation-world/are-banks-post-offices-and-the-stock-market-open-on-juneteenth-heres-what-you-need-to-know/507-f709e6c7-5be7-45de-aeac-8c6012696d6b",
       "source": "9News",
       "pub_date": "2026-06-17T19:50:45+00:00",
-      "age_hours": 3.7711620822222223,
+      "age_hours": 5.270939213888889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Gas prices to remain unpredictable amid looming US & Iran agreement, expert says",
       "link": "https://www.9news.com/article/news/nation-world/gas-prices-outlook-us-iran-agreement-gas-buddy-expert-weighs-in/507-af0d6cf6-2c5c-4ebc-a48b-01d3d82d2dd0",
       "source": "9News",
       "pub_date": "2026-06-17T19:45:11+00:00",
-      "age_hours": 3.863939905,
+      "age_hours": 5.363717041388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "$228M FDA Lab Breaks Ground at the Denver Federal Center",
       "link": "https://milehighcre.com/228m-fda-lab-breaks-ground-at-the-denver-federal-center/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-17T18:25:36+00:00",
-      "age_hours": 5.189947871944445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.6898500275,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Financial Strategies: Exit planning is not really about exiting",
       "link": "https://bizwest.com/2026/06/17/financial-strategies-exit-planning-is-not-really-about-exiting/",
       "source": "BizWest",
       "pub_date": "2026-06-17T18:10:41+00:00",
-      "age_hours": 5.437914735555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.937799899444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "A 'Word of Thanks' from Next: Helping feed families in Denver's Sun Valley neighborhood",
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/word-of-thanks-next/73-c9bcc07a-7413-4074-88ad-f9fed07a1c72",
       "source": "9News",
       "pub_date": "2026-06-17T17:45:24+00:00",
-      "age_hours": 5.860328859166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.360106009722223,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Construction of Waldorf Astoria Residences Advances with Major Foundation Pour",
       "link": "https://milehighcre.com/construction-of-waldorf-astoria-residences-advances-with-major-foundation-pour/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-17T16:59:19+00:00",
-      "age_hours": 6.628003443333333,
+      "age_hours": 8.127905610277779,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Greeley Student Housing Asset Trades for $16.7M",
       "link": "https://milehighcre.com/greeley-student-housing-asset-trades-for-16-7m/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-17T16:10:00+00:00",
-      "age_hours": 7.4499479002777775,
+      "age_hours": 8.94985008,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "FDA, GSA Break Ground On $228M Food Lab In Denver Suburb",
       "link": "https://www.bisnow.com/denver/news/life-sciences/fda-gsa-to-build-228m-food-lab-denver-suburb-135065",
       "source": "Bisnow",
       "pub_date": "2026-06-17T15:07:32-04:00",
-      "age_hours": 4.490919088611111,
+      "age_hours": 5.9907892036111114,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Data-center startup Hydra Host raises $100M",
       "link": "https://bizwest.com/2026/06/17/data-center-startup-hydra-host-raises-100m/",
       "source": "BizWest",
       "pub_date": "2026-06-17T14:02:06+00:00",
-      "age_hours": 9.580970306944446,
+      "age_hours": 11.080855475277778,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "$5.5M home with new wellness technology on sale in Denver",
       "link": "https://kdvr.com/news/local/5-5m-home-with-new-wellness-technology-on-sale-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-17T13:52:39+00:00",
-      "age_hours": 9.740250960833334,
+      "age_hours": 11.239542649999999,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Outside Interactive expands Trail Runner brand, names new managing editor",
       "link": "https://bizwest.com/2026/06/17/outside-interactive-expands-trail-runner-brand-names-new-managing-editor/",
       "source": "BizWest",
       "pub_date": "2026-06-17T13:48:39+00:00",
-      "age_hours": 9.805136982499999,
+      "age_hours": 11.305022153055555,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Four takeaways from Georgia, DC, Alabama, and Oklahoma primary elections",
       "link": "https://www.coloradopolitics.com/2026/06/17/four-takeaways-from-georgia-dc-alabama-and-oklahoma-primary-elections/",
       "source": "CO Politics",
       "pub_date": "2026-06-17T13:42:05+00:00",
-      "age_hours": 9.916775645277777,
+      "age_hours": 11.4159441775,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "A new era for downtown Denver\u2019s biggest mall is beginning to take shape",
       "link": "https://coloradosun.com/2026/06/17/denver-pavilions-new-era/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-17T10:29:00+00:00",
-      "age_hours": 13.133355131944445,
+      "age_hours": 14.633268270277778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Looking for areas where Michael Bennet and Phil Weiser differ on policy? There aren\u2019t many.",
       "link": "https://coloradosun.com/2026/06/17/phil-weiser-michael-bennet-policy-stance-similarities/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-17T10:25:00+00:00",
-      "age_hours": 13.200022435,
+      "age_hours": 14.699935729444444,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Old La Quinta\u2019s falling down, falling down, falling down",
       "link": "https://denverite.com/2026/06/17/la-quinta-hotel-demolition-north-denver/",
       "source": "Denverite",
       "pub_date": "2026-06-17T10:00:00+00:00",
-      "age_hours": 13.61683213861111,
+      "age_hours": 15.116676484444445,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Visits to a Denver clinic for survivors of female genital mutilation and cutting have increased tenfold since it opened",
       "link": "https://www.cpr.org/2026/06/17/denver-female-genital-multilation-cutting-clinic/",
       "source": "CPR",
       "pub_date": "2026-06-17T10:00:00+00:00",
-      "age_hours": 13.616895657222223,
+      "age_hours": 15.116704583611112,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Truffle Cheese Shop to reopen in new location under new ownership",
       "link": "https://www.westword.com/food-drink/truffle-cheese-shop-to-reopen-in-new-location-under-new-ownership-40900463/",
       "source": "Westword",
       "pub_date": "2026-06-17T07:29:00-06:00",
-      "age_hours": 10.134658521111112,
+      "age_hours": 11.633825401666666,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "35 years later, questions remain in Father's Day massacre that gripped Colorado",
-      "link": "https://kdvr.com/news/colorado/35-years-later-questions-remain-in-fathers-day-bank-massacre-that-gripped-colorado/",
-      "source": "Fox31",
-      "pub_date": "2026-06-17T04:01:24+00:00",
-      "age_hours": 19.594417481111112,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "11 hrs ago"
     }
   ]
 }
