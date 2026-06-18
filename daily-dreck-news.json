@@ -1,132 +1,159 @@
 {
   "fetched_date": "2026-06-18",
-  "fetched_at": "2026-06-18 15:12:39",
+  "fetched_at": "2026-06-18 17:08:46",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Aerospace defense giant eyes 600 new manufacturing jobs in Broomfield",
+      "link": "https://bizwest.com/2026/06/18/aerospace-defense-giant-eyes-600-new-manufacturing-jobs-in-broomfield/",
+      "source": "BizWest",
+      "pub_date": "2026-06-18T15:34:55+00:00",
+      "age_hours": 1.5586012494444446,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "On the Border closes all company-owned restaurants after bankruptcy",
+      "link": "https://www.9news.com/article/news/nation-world/on-the-border-closes-company-owned-restaurants-after-bankruptcy/507-e538a92b-c144-41c2-9e53-a8f072b0f2f7",
+      "source": "9News",
+      "pub_date": "2026-06-18T15:26:12+00:00",
+      "age_hours": 1.7046789627777779,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "National Western Center names Kate Girotti as its next CEO",
+      "link": "https://denverite.com/2026/06/18/national-western-center-ceo-kate-girotti/",
+      "source": "Denverite",
+      "pub_date": "2026-06-18T15:15:00+00:00",
+      "age_hours": 1.8911452608333332,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "17-year-old sought after deadly hit and run in Denver",
       "link": "https://kdvr.com/news/local/17-year-old-sought-after-deadly-hit-and-run-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-18T14:04:34+00:00",
-      "age_hours": 1.1313399238888888,
+      "age_hours": 3.065568552222222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "What to do in Colorado this week: Juneteenth celebrations in Denver, Colorado Springs, Fort Collins and beyond",
       "link": "https://coloradosun.com/2026/06/18/whats-happening-juneteenth-denver-fort-collins-colorado-springs-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-18T14:00:00+00:00",
-      "age_hours": 1.2068511066666665,
+      "age_hours": 3.1410275025,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Hickenlooper skips debates with Democratic challenger, maintains lead in Senate primary",
       "link": "https://sentinelcolorado.com/voter-guide/hickenlooper-skips-debates-with-democratic-challenger-maintains-lead-in-senate-primary/",
       "source": "Sentinel",
       "pub_date": "2026-06-18T13:56:37+00:00",
-      "age_hours": 1.2641478225,
+      "age_hours": 3.1985525605555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "South Broadway Improvement District launches to tackle crime, cleanliness concerns",
       "link": "https://www.denver7.com/news/front-range/denver/south-broadway-improvement-district-launches-to-tackle-crime-cleanliness-concerns",
       "source": "Denver7",
       "pub_date": "2026-06-18T13:26:54+00:00",
-      "age_hours": 1.7590813894444444,
+      "age_hours": 3.6932041733333336,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "PERRY: The need for better rental inspections and accountability is clear. So is the solution",
       "link": "https://sentinelcolorado.com/opinion/perry-the-need-for-better-rental-inspections-and-accountability-is-clear-so-is-the-solution/",
       "source": "Sentinel",
       "pub_date": "2026-06-18T13:21:04+00:00",
-      "age_hours": 1.8566480925000002,
+      "age_hours": 3.7910528330555553,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Swisslog Healthcare names new VP of marketing",
       "link": "https://bizwest.com/2026/06/18/swisslog-healthcare-names-new-vp-of-marketing/",
       "source": "BizWest",
       "pub_date": "2026-06-18T11:33:48+00:00",
-      "age_hours": 3.643208294722222,
+      "age_hours": 5.577212874166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Reformation womenswear store opening this month in Boulder",
       "link": "https://bizwest.com/2026/06/18/reformation-womenswear-store-opening-this-month-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-06-18T11:14:17+00:00",
-      "age_hours": 3.968486606111111,
+      "age_hours": 5.902490681944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "What\u2019s the status of massive data centers in Colorado? Here\u2019s what you need to know.",
       "link": "https://coloradosun.com/2026/06/18/colorado-data-center-update-pollution-protests-moratoriums/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-18T10:08:00+00:00",
-      "age_hours": 5.073518184999999,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.007694568333333,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "At a Haitian restaurant in South Aurora, owners make diners feel they\u2019re on the island",
       "link": "https://www.cpr.org/2026/06/18/haitian-restaurant-aurora/",
       "source": "CPR",
       "pub_date": "2026-06-18T10:00:00+00:00",
-      "age_hours": 5.2070737975000005,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.141178170277778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Wine importers in Edwards try to get their tariff money back",
       "link": "https://www.cpr.org/2026/06/18/wine-importers-edwards-tariff-money-back/",
       "source": "CPR",
       "pub_date": "2026-06-18T10:00:00+00:00",
-      "age_hours": 5.207073811944444,
+      "age_hours": 7.141178188055555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "How to spend a delicious day on one block in Highland",
+      "link": "https://www.westword.com/food-drink/where-to-eat-denver-highlands-40900570/",
+      "source": "Westword",
+      "pub_date": "2026-06-18T09:35:00-06:00",
+      "age_hours": 1.5585952083333334,
       "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Family, investigators search for missing 63-year-old man last seen leaving Denver senior living facility",
       "link": "https://www.9news.com/article/news/arapahoe-investigators-missing-63-year-old-man-denver-senior-living-facility/73-53b6698c-36da-4fe7-af5a-fe4609c83f2e",
       "source": "9News",
       "pub_date": "2026-06-18T03:28:59+00:00",
-      "age_hours": 11.72409336861111,
+      "age_hours": 13.658290171666668,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "KFC is cooking up big changes with new food, drink options",
       "link": "https://www.9news.com/article/news/nation-world/kfc-new-menu-drinks-restaurant-formats/507-58024ddb-98ba-4c8f-8817-d395e0c6802c",
       "source": "9News",
       "pub_date": "2026-06-18T00:57:46+00:00",
-      "age_hours": 14.244371223333333,
+      "age_hours": 16.178568017499998,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Coloradans on fixed incomes struggle to afford cooling costs as Xcel Energy proposes rate hike",
       "link": "https://www.denver7.com/news/local-news/coloradans-on-fixed-incomes-struggle-to-afford-cooling-costs-as-xcel-energy-proposes-rate-hike",
       "source": "Denver7",
       "pub_date": "2026-06-18T00:12:35+00:00",
-      "age_hours": 14.99769251861111,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Gov. Polis discusses next steps as FDA approves importing drugs from Canada",
-      "link": "https://kdvr.com/news/local/governor-polis-optimistic-as-fda-approves-drug-imports-from-canada/",
-      "source": "Fox31",
-      "pub_date": "2026-06-17T22:56:15+00:00",
-      "age_hours": 16.269951189444445,
+      "age_hours": 16.93181530472222,
       "breaking": false,
       "time_ago": "16 hrs ago"
     },
@@ -135,54 +162,27 @@
       "link": "https://bizwest.com/2026/06/17/ags-administrative-lawsuit-targets-catalyst-cascadia-foes/",
       "source": "BizWest",
       "pub_date": "2026-06-17T22:09:53+00:00",
-      "age_hours": 17.041819975,
+      "age_hours": 18.975824046388887,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Enliven Therapeutics moves HQ from Boulder to California",
       "link": "https://bizwest.com/2026/06/17/enliven-therapeutics-moves-hq-from-boulder-to-california/",
       "source": "BizWest",
       "pub_date": "2026-06-17T20:33:08+00:00",
-      "age_hours": 18.654320009166668,
+      "age_hours": 20.588324080277776,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Demolition to begin at fire-ravaged Nederland shopping center",
       "link": "https://bizwest.com/2026/06/17/demolition-to-begin-at-fire-ravaged-nederland-shopping-center/",
       "source": "BizWest",
       "pub_date": "2026-06-17T20:25:19+00:00",
-      "age_hours": 18.784597815833337,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "University Hill apartments trade for $21 million",
-      "link": "https://bizwest.com/2026/06/17/university-hill-apartments-trade-for-21-million/",
-      "source": "BizWest",
-      "pub_date": "2026-06-17T18:48:15+00:00",
-      "age_hours": 20.402375623333334,
+      "age_hours": 20.718601887222224,
       "breaking": false,
       "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Atom Computing closes $100M Series C",
-      "link": "https://bizwest.com/2026/06/17/atom-computing-closes-100m-series-c/",
-      "source": "BizWest",
-      "pub_date": "2026-06-17T18:40:35+00:00",
-      "age_hours": 20.53015340638889,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Financial Strategies: Exit planning is not really about exiting",
-      "link": "https://bizwest.com/2026/06/17/financial-strategies-exit-planning-is-not-really-about-exiting/",
-      "source": "BizWest",
-      "pub_date": "2026-06-17T18:10:41+00:00",
-      "age_hours": 21.028486770833332,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
     }
   ]
 }
