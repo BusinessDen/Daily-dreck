@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-06-17",
-  "lead_headline": "Restaurant detection system enters 24th consecutive day offline as metro hospitality tracking stalls indefinitely",
+  "generated_date": "2026-06-18",
+  "lead_headline": "Zero restaurant leads for 25th straight day as detection system failure persists through mid-June",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads today</strong>\u2014system malfunction extends to 24 consecutive days with no metro openings or closures logged.",
+      "blurb": "<strong>Zero new leads today</strong>\u2014detection failure extends to 25 consecutive days as system remains offline through Wednesday, mid-June tracking collapse continues.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong>\u2014Tuesday sees continued applications freeze following Monday's dormancy and Saturday's 350-application backlog clearance, holding 7-day total at 369. Week's notable approvals included Spitz Mediterranean at 2615 Walnut St (RiNo), Dry Dock Pub at 1101 S Pearl St (Wash Park), and Madeline at 1313 E 6th Ave (Country Club). Hotel & Restaurant licenses dominated weekend processing, with RiNo corridor and Capitol Hill showing heaviest concentration as system cleared June's two-week dormancy before entering this week's sequential quiet period.",
+      "blurb": "<strong>Zero new applications today</strong>\u2014Wednesday continues this week's freeze following Saturday's 350-application backlog dump, 7-day total unchanged at 369. System processing now dormant four consecutive days (Sun-Wed) after weekend's mass clearance pushed June total beyond normal monthly pace. Prior week's zero applications suggests multi-week dormancy before Saturday's sudden release, leaving current 369-application week as outlier rather than trend. No status changes recorded as system enters mid-month quiet period following early June's two-week shutdown and weekend recovery spike.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>0 mentions yesterday</strong>\u2014Tuesday mirrored Monday's single-citation pace, closing Tuesday at zero as mid-week media attention drops off post-weekend. <strong>Weekly count holds at 37 mentions across 10 sources</strong>, down 18% from prior week's 45 as June momentum cools entering late-month doldrums. Denver Post maintained lead with 16 citations (43% share), Facebook contributed 6, Reddit and Instagram each added 4. Week's coverage highlights: Kygo.com Denver return-to-office ranking, Warrior Sports founder's Cherry Hills mansion listing, Lakewood office tower discount sale. Current week's \u22128 deficit vs prior period signals return to spring's quieter baseline after mid-June's brief recovery, with luxury real estate threads cooling as summer approaches.",
+      "blurb": "<strong>9 mentions yesterday</strong>\u2014Wednesday rebounds sharply from Mon-Tue's zero-citation drought, lifting 7-day total to 46 mentions across 11 sources, up 24% from prior week's 37. <strong>Denver Post drove recovery with 5 citations</strong> (56% of Wednesday volume), covering national law firm's Denver IP acquisition, Aurora apartments re-entering receivership, and 16th Street Mall immersive entertainment pitch. Week now tracking +9 vs prior period's comparable Wednesday position, signaling return to spring's stronger baseline after mid-June lull. Reddit added 2 mentions, Instagram and LinkedIn each contributed 1. Monthly pace (206 mentions) suggests June finishing near typical Q2 velocity as late-month pickup offsets early dormancy.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "0",
-        "class1": "",
+        "value1": "9",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "37",
-        "class1": "down",
+        "value1": "46",
+        "class1": "up",
         "label2": "sources",
-        "value2": "10",
+        "value2": "11",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends Monday's dormancy, keeping MTD net at +13 (+0.8/day) and 90-day net at +130. Tuesday flatline follows four-day weekend drought (Sat-Tue zeros) after Friday's +3 close ended prior week at +2 net (7 new, 5 canceled). Recent two-week pattern shows volatility: June 5's +4 peak followed by June 8's \u22122 trough, then June 10's \u22123 before Thursday-Friday recovery to +5 combined\u2014now erased by five-day shutdown. Current 7-day pace (+0.3/day) continues trailing both MTD velocity (+0.8) and YTD average (+1.2), confirming persistent mid-Q2 headwinds as extended weekend dormancy offsets isolated weekday strength.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends weekend shutdown to sixth consecutive day, holding MTD net at +13 (+0.8/day) and 90-day net at +130. Wednesday zero follows Sat-Tue dormancy after prior Friday's +3 close ended last 7-day period at +2 net. Current week's six-day freeze (+0 net through Wed) starkly contrasts comparable prior-week position (+7 through Wed), confirming June's persistent acquisition stall. Recent fortnight shows concentrated weekday spikes (June 5's +4, June 9's +3, June 12's +3) followed by multi-day voids\u2014pattern now threatening to drag MTD velocity (+0.8) further below YTD average (+1.2) as mid-month shutdown extends.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "13",
       "net_ytd": "202",
       "net_mtd_per_day": "0.8",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "8",
-      "annual_ytd": "120",
-      "monthly_mtd": "5",
-      "monthly_ytd": "82"
+      "annual_mtd": "11",
+      "annual_ytd": "178",
+      "monthly_mtd": "2",
+      "monthly_ytd": "24"
     }
   }
 }
