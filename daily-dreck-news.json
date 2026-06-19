@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-06-19",
-  "fetched_at": "2026-06-19 09:45:43",
+  "fetched_at": "2026-06-19 11:37:25",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "New homes and businesses in Denver will see major surge in water connection fees",
+      "link": "https://coloradosun.com/2026/06/19/denver-water-tap-fees-new-construction-homes-businesses/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-06-19T10:20:00+00:00",
+      "age_hours": 1.2859713627777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Super PACs drop $1.3M in last-minute spree to protect Diana DeGette in Denver\u2019s congressional district",
+      "link": "https://coloradosun.com/2026/06/19/diana-degette-melat-kiros-pac-spending/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-06-19T10:00:00+00:00",
+      "age_hours": 1.6193047313888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Rural is Rad champions small-town outdoor brands with a big debut at Outside Days festival",
+      "link": "https://coloradosun.com/2026/06/19/rural-is-rad-collective/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-06-19T10:00:00+00:00",
+      "age_hours": 1.6193053044444443,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Denver Police release body cam footage showing officers shooting at man accused of stealing traffic control vehicle",
       "link": "https://www.9news.com/article/news/crime/denver-police-release-body-cam-footage-showing-officers-shooting-man-accused-truck-theft/73-b998d4b8-03b2-4e20-b18d-50728e3229f9",
       "source": "9News",
       "pub_date": "2026-06-19T03:45:49+00:00",
-      "age_hours": 5.993658323888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.855950622777778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "The Transplant Games brings donor families and recipients together for community and competition",
       "link": "https://www.9news.com/video/news/local/the-transplant-games-brings-unique-connection/73-e8419c0c-d62c-4273-b323-ab73f9c2cf87",
       "source": "9News",
       "pub_date": "2026-06-19T00:30:52+00:00",
-      "age_hours": 9.242825061944444,
+      "age_hours": 11.105117327777778,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "WestJet flight evacuated at DIA after blown tires",
       "link": "https://www.9news.com/article/travel/denver-international-airport/westjet-flight-evacuated-dia/73-515c3a0a-a6ea-416a-a3dd-e3d85ee9f2d3",
       "source": "9News",
       "pub_date": "2026-06-18T22:47:15+00:00",
-      "age_hours": 10.96976962777778,
+      "age_hours": 12.832061846944445,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Aurora\u2019s mayor sleeps in the city\u2019s homeless shelter. It \u2018shifted\u2019 his view",
       "link": "https://denverite.com/2026/06/18/aurora-mayor-mike-coffman-sleeping-in-homeless-shelter/",
       "source": "Denverite",
       "pub_date": "2026-06-18T22:07:33+00:00",
-      "age_hours": 11.631310190833334,
+      "age_hours": 13.4936047775,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Colorado state budget picture improves \u2014 but not enough to reverse cuts to public services",
-      "link": "https://coloradosun.com/2026/06/18/colorado-state-budget-picture-improves-june-2026-quarterly-revenue-forecast/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-18T21:43:19+00:00",
-      "age_hours": 12.035149101388889,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Greeley apartment complex wins 2 Housing Colorado awards",
       "link": "https://bizwest.com/2026/06/18/greeley-apartment-complex-wins-2-housing-colorado-awards/",
       "source": "BizWest",
       "pub_date": "2026-06-18T21:31:26+00:00",
-      "age_hours": 12.232800135555555,
+      "age_hours": 14.095017645555554,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "New Buffs AD: CU, community \u2018aligned,\u2019 \u2018united\u2019 in push for success",
       "link": "https://bizwest.com/2026/06/18/new-buffs-ad-cu-community-aligned-united-in-push-for-success/",
       "source": "BizWest",
       "pub_date": "2026-06-18T21:26:00+00:00",
-      "age_hours": 12.323356482222223,
+      "age_hours": 14.185573783611112,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Advertising, PR execs: Human touch still reigns in an AI world",
       "link": "https://bizwest.com/2026/06/18/advertising-pr-execs-human-touch-still-reigns-in-an-ai-world/",
       "source": "BizWest",
       "pub_date": "2026-06-18T21:14:04+00:00",
-      "age_hours": 12.522245422777779,
+      "age_hours": 14.384462711388888,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "New Caf\u00e9 Signs Lease at Steel House in RiNo",
       "link": "https://milehighcre.com/new-cafe-signs-lease-at-steel-house-in-rino/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-18T20:54:32+00:00",
-      "age_hours": 12.84813827888889,
+      "age_hours": 14.710370335833332,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "The European Union has quietly sought to reopen communication with Russia",
       "link": "https://sentinelcolorado.com/uncategorized/the-european-union-has-quietly-sought-to-reopen-communication-with-russia/",
       "source": "Sentinel",
       "pub_date": "2026-06-18T20:20:29+00:00",
-      "age_hours": 13.41645808388889,
+      "age_hours": 15.27882548888889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Community engagement sought on Aurora data center concerns",
       "link": "https://sentinelcolorado.com/metro/community-engagement-sought-on-aurora-data-center-concerns/",
       "source": "Sentinel",
       "pub_date": "2026-06-18T20:16:52+00:00",
-      "age_hours": 13.476736398888889,
+      "age_hours": 15.33910357861111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "July 1 brings new Colorado rules on ammunition purchases, wildfire\u2011risk scoring and wildlife enforcement",
       "link": "https://www.coloradopolitics.com/2026/06/18/july-1-brings-new-colorado-rules-on-ammunition-purchases-wildfire-risk-scoring-and-wildlife-enforcement/",
       "source": "CO Politics",
       "pub_date": "2026-06-18T19:56:25+00:00",
-      "age_hours": 13.817538243333333,
+      "age_hours": 15.679915782222222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "WestJet passengers evacuated on Denver runway after blown tires",
       "link": "https://kdvr.com/news/local/buses-getting-passengers-after-incident-on-plane-leaving-dia/",
       "source": "Fox31",
       "pub_date": "2026-06-18T19:23:54+00:00",
-      "age_hours": 14.359209592500001,
+      "age_hours": 16.221506507222223,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado-Based Biomaterials Company Earns Sustainability Award",
       "link": "https://milehighcre.com/colorado-based-biomaterials-company-earns-sustainability-award/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-18T19:15:47+00:00",
-      "age_hours": 14.493971643333333,
+      "age_hours": 16.356203686944443,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Baby orangutan making public debut at Denver Zoo",
       "link": "https://kdvr.com/news/local/baby-orangutan-making-public-debut-at-denver-zoo/",
       "source": "Fox31",
       "pub_date": "2026-06-18T18:55:42+00:00",
-      "age_hours": 14.829209814166667,
+      "age_hours": 16.691506628888888,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "On the Border closes all company-owned restaurants after bankruptcy",
-      "link": "https://www.9news.com/article/news/nation-world/on-the-border-closes-company-owned-restaurants-after-bankruptcy/507-e538a92b-c144-41c2-9e53-a8f072b0f2f7",
-      "source": "9News",
-      "pub_date": "2026-06-18T18:13:02+00:00",
-      "age_hours": 15.540047518611113,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "The Stockman, Auberge Collection Launches Sales",
       "link": "https://milehighcre.com/the-stockman-auberge-collection-launches-sales/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-18T17:59:17+00:00",
-      "age_hours": 15.768972144166668,
+      "age_hours": 17.631203958055554,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "List: Juneteenth celebrations and events across Denver",
       "link": "https://kdvr.com/news/local/juneteenth-celebrations-and-events-across-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-18T17:43:33+00:00",
-      "age_hours": 16.031709861666666,
+      "age_hours": 17.894006658055556,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Aerospace defense giant eyes 600 new manufacturing jobs in Broomfield",
       "link": "https://bizwest.com/2026/06/18/aerospace-defense-giant-eyes-600-new-manufacturing-jobs-in-broomfield/",
       "source": "BizWest",
       "pub_date": "2026-06-18T15:34:55+00:00",
-      "age_hours": 18.1747454625,
+      "age_hours": 20.036962744444445,
       "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "National Western Center names Kate Girotti as its next CEO",
-      "link": "https://denverite.com/2026/06/18/national-western-center-ceo-kate-girotti/",
-      "source": "Denverite",
-      "pub_date": "2026-06-18T15:15:00+00:00",
-      "age_hours": 18.507143603333333,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     }
   ]
 }
