@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-06-19",
-  "lead_headline": "Restaurant tracker back online after 25-day outage\u20146 new leads today include BARna Global Soccer opening Colfax, Ichigo Matcha third location near DU",
+  "generated_date": "2026-06-20",
+  "lead_headline": "Tavern on Blake reopens today after $1M rebuild\u2014restaurant tracker flags 6 new openings this week across City Park, Cherry Creek, Five Points",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>6 new leads today</strong>\u2014BARna Global Soccer & Tapas opens 10,000 sq ft Colfax sports bar, Ichigo Matcha lands third location near DU, Blazing Bird takes former 7-Eleven on East Colfax. City Park West, University, Globeville neighborhoods active.",
+      "blurb": "<strong>6 new leads today</strong>\u2014Tavern on Blake reopens after year-long rebuild, L\u00e4derach Swiss chocolate debuts Cherry Creek, Miya Moon replaces Honey Basil on Broadway. Five Points, Cherry Creek, Baker neighborhoods active.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+5",
+        "value1": "+4",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "\u22122",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "123",
+        "value1": "+126",
         "label2": "closed",
-        "value2": "108",
+        "value2": "\u2212111",
         "period": "all leads"
       }
     },
@@ -28,13 +28,13 @@
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "5",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "28",
+        "value1": "20",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong>\u2014Thursday extends post-weekend dormancy to fifth consecutive day as system remains frozen following Saturday's 350-application backlog dump. <strong>7-day total holds at 369</strong>, all from June 14's mass clearance that followed two-week shutdown. Denver Post, Instagram, and Facebook drove prior-week citations; current 369-application spike represents outlier processing event rather than sustained trend, with Sun-Thu void (5 days, 0 apps) suggesting return to pre-weekend baseline. No status changes as mid-month quiet period continues.",
+      "blurb": "<strong>Zero applications today</strong>\u2014sixth straight day dormant as post-June 14 backlog freeze extends into second full week. <strong>7-day total remains frozen at 369 licenses</strong>, all processed during Saturday's mass clearance event. System shows no new submissions, status changes, or removals since weekend spike, with sustained void now matching longest drought on record. Prior week's 350-application dump represented database catch-up following two-week shutdown rather than organic filing surge.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,40 +54,40 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "369",
-        "class1": "up",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>1 mention yesterday</strong>\u2014Thursday collapses from Wednesday's 9-citation recovery, dragging 7-day total to 43 mentions across 15 sources, down 10% from prior week's 48. <strong>Denver Post dominates week with 14 citations</strong> (33% of volume), covering RiNo cafe lease, Flywheel Yale bankruptcy, criminal case dismissals. Instagram and Facebook tied at 6 mentions each, Reddit contributed 4. Week's sharp downturn from mid-week rebound signals return to Jun 16-17's lull pattern, threatening to push monthly total (202) below typical Q2 velocity as final third approaches. Google News RSS remains sole discovery channel.",
+      "blurb": "<strong>8 mentions yesterday</strong>\u2014Friday rebounds from Thursday's single-citation collapse, pushing <strong>7-day total to 55 mentions across 14 sources</strong>, up 12% week-over-week. Denver Post leads with 21 citations (38% of volume), covering Broomfield defense plant, RiNo lease battles, Southlake Whole Foods. Facebook contributed 9 mentions, Instagram 5, Reddit 4. Week's recovery from mid-period slump restores monthly pace (203 total) to Q2 baseline as final third approaches. Google News RSS remains sole discovery channel.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
-        "class1": "down",
+        "value1": "8",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "43",
-        "class1": "down",
+        "value1": "55",
+        "class1": "up",
         "label2": "sources",
-        "value2": "15",
+        "value2": "14",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks seventh consecutive shutdown day, freezing MTD at +13 (+0.7/day) while 90-day net holds at +130. <strong>Current week's 0 net through Thursday starkly contrasts prior period's +11 through comparable Thursday</strong>, confirming June's persistent acquisition freeze extends beyond weekend dormancy into full trading week. Recent fortnight's pattern\u2014concentrated weekday bursts (June 5: +4, June 9: +3, June 12: +3) followed by multi-day voids\u2014now threatens MTD velocity (+0.7) falling further below YTD baseline (+1.2) as seven-day shutdown drags mid-month performance toward March lows.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) breaks week-long dormancy, lifting <strong>MTD to +25 (+1.3/day)</strong> while <strong>90-day net holds at +131</strong>. Friday's single addition ends longest acquisition freeze since April, though current week's +12 net still trails prior period's +8 through comparable Friday, suggesting June's volatility persists. Recent fortnight shows clustering pattern\u2014five-day burst Jun 11-18 delivered +16 net before Thursday-Friday collapse\u2014matching MTD velocity (+1.3) to YTD baseline (+1.3) as mid-month volatility stabilizes around long-term trend.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "13",
-      "net_ytd": "202",
-      "net_mtd_per_day": "0.7",
-      "net_ytd_per_day": "1.2",
-      "annual_mtd": "11",
-      "annual_ytd": "167",
-      "monthly_mtd": "2",
-      "monthly_ytd": "35"
+      "net_mtd": "25",
+      "net_ytd": "214",
+      "net_mtd_per_day": "1.3",
+      "net_ytd_per_day": "1.3",
+      "annual_mtd": "18",
+      "annual_ytd": "156",
+      "monthly_mtd": "7",
+      "monthly_ytd": "58"
     }
   }
 }
