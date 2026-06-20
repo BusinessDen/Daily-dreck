@@ -1,123 +1,132 @@
 {
   "fetched_date": "2026-06-20",
-  "fetched_at": "2026-06-20 22:30:22",
+  "fetched_at": "2026-06-20 23:31:14",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Denver Police horse Maverick is heading to a 'well-earned retirement'",
+      "link": "https://www.9news.com/article/life/animals/denver-police-horse-maverick-retirement/73-f89392e9-fc80-46cb-83c6-1f3a9fa3c229",
+      "source": "9News",
+      "pub_date": "2026-06-20T22:35:47+00:00",
+      "age_hours": 0.9200173144444445,
+      "breaking": true,
+      "time_ago": "55 min ago"
+    },
     {
       "title": "Fire destroys home under construction in northwest Denver",
       "link": "https://kdvr.com/news/local/fire-destroys-home-under-construction-in-northwest-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-20T18:17:23+00:00",
-      "age_hours": 4.212055850555556,
+      "age_hours": 5.2268089077777775,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "State Farm donates $50,000 to Greeley-Weld Habitat for Humanity",
       "link": "https://bizwest.com/2026/06/20/state-farm-donates-50000-to-greeley-weld-habitat-for-humanity/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:27:19+00:00",
-      "age_hours": 6.045211701388889,
+      "age_hours": 7.0602395016666675,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Phillips 66 Midstream donates $54,000 to Colorado Youth Outdoors",
       "link": "https://bizwest.com/2026/06/20/phillips-66-midstream-donates-54000-to-colorado-youth-outdoors/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:15:10+00:00",
-      "age_hours": 6.247712215277779,
+      "age_hours": 7.262740014166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Greeley Creative Arts Center plans \u2018Micro Art Festival\u2019",
       "link": "https://bizwest.com/2026/06/20/greeley-creative-arts-center-plans-micro-art-festival/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:07:15+00:00",
-      "age_hours": 6.379656691666667,
+      "age_hours": 7.394684503333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Weld Trust awards $20.5M in grants in 18 months",
       "link": "https://bizwest.com/2026/06/20/weld-trust-awards-20-5m-in-grants-in-18-months/",
       "source": "BizWest",
       "pub_date": "2026-06-20T15:55:13+00:00",
-      "age_hours": 6.580212279722223,
+      "age_hours": 7.595240096111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Leadership Northern Colorado to graduate 2026 class",
       "link": "https://bizwest.com/2026/06/20/leadership-northern-colorado-to-graduate-2026-class/",
       "source": "BizWest",
       "pub_date": "2026-06-20T15:49:11+00:00",
-      "age_hours": 6.680767841388889,
+      "age_hours": 7.695795658055555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "What\u2019s Working: Why hamburgers cost more today",
       "link": "https://coloradosun.com/2026/06/20/beef-hamburgers-prices-inflation-agriculture/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-20T10:00:00+00:00",
-      "age_hours": 12.501260804722222,
+      "age_hours": 13.516293518333335,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Commentary: Lynn Bartels was everything good about Colorado politics",
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/commentary-lynn-bartels-political-reporter-dies/73-3cac466e-2214-4363-97a3-3367fbc8f745",
       "source": "9News",
       "pub_date": "2026-06-20T03:02:13+00:00",
-      "age_hours": 19.464500599444445,
+      "age_hours": 20.47946187,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Colorado Supreme Court ruling sparks debate over paused Cascadia development in Greeley",
       "link": "https://www.9news.com/article/news/local/greeley-cascadia-project-update/73-ef5eb73a-fc5e-447a-b79f-e8ee98b9ceef",
       "source": "9News",
       "pub_date": "2026-06-20T02:09:26+00:00",
-      "age_hours": 20.34422288388889,
+      "age_hours": 21.359184138055554,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Losing a legend; Next with Kyle Clark full show (6/19/26)",
       "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/losing-a-legend-next-with-kyle-clark-full-show-61926/73-004a18d3-a55f-4c00-909e-6803c05cc278",
       "source": "9News",
       "pub_date": "2026-06-20T02:00:15+00:00",
-      "age_hours": 20.49727844888889,
+      "age_hours": 21.512239700833334,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Your Good News from Denver's Juneteenth celebration",
       "link": "https://www.9news.com/video/holidays/your-good-news-from-denvers-juneteenth-celebration/73-818149b6-911c-47b3-bcd0-b7cf7ee5ce5c",
       "source": "9News",
       "pub_date": "2026-06-20T01:26:59+00:00",
-      "age_hours": 21.051722940833336,
+      "age_hours": 22.06668418583333,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Former state employee sues Colorado over Denver minimum wage pay",
       "link": "https://www.9news.com/article/money/former-state-employee-sues-colorado-denver-minimum-wage-pay/73-a3cfba0f-38a3-47f0-8e96-bb11b240c462",
       "source": "9News",
       "pub_date": "2026-06-20T01:21:55+00:00",
-      "age_hours": 21.13616743777778,
+      "age_hours": 22.151128678333336,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Lynn Bartels, reporter and \u201cGrand Dame\u201d of Colorado politics, dies at 69",
       "link": "https://coloradosun.com/2026/06/19/celebrated-colorado-political-reporter-dies/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-19T21:39:17+00:00",
-      "age_hours": 24.84653931833333,
+      "age_hours": 25.861572085,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://bizwest.com/2026/06/19/x-games-adjacent-owl-ai-hires-new-leader/",
       "source": "BizWest",
       "pub_date": "2026-06-19T20:01:48+00:00",
-      "age_hours": 26.470490089444446,
+      "age_hours": 27.485517908333332,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.cpr.org/2026/06/19/denvers-celebrated-political-reporter-lynn-bartels-has-died/",
       "source": "CPR",
       "pub_date": "2026-06-19T20:00:41+00:00",
-      "age_hours": 26.490004063333334,
+      "age_hours": 27.50497360388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/06/19/states-first-industrial-scale-manufacturer-of-mass-timber-products-eyes-longmont-area/",
       "source": "BizWest",
       "pub_date": "2026-06-19T18:05:33+00:00",
-      "age_hours": 28.40799011861111,
+      "age_hours": 29.423017940833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/06/19/defense-company-offered-2-7m-in-incentives-for-rd-project/",
       "source": "BizWest",
       "pub_date": "2026-06-19T17:59:03+00:00",
-      "age_hours": 28.51632345722222,
+      "age_hours": 29.531351279444443,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.westword.com/food-drink/end-of-an-era-original-rock-bottom-brewery-on-16th-street-closed-40901080/",
       "source": "Westword",
       "pub_date": "2026-06-19T15:11:06-06:00",
-      "age_hours": 25.316863491388887,
+      "age_hours": 26.33155052111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://kdvr.com/news/local/bodycam-shows-police-shooting-alleged-auto-theft-suspect-inside-denver-gas-station/",
       "source": "Fox31",
       "pub_date": "2026-06-19T13:37:05+00:00",
-      "age_hours": 32.88372254972222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "National Western Center names Girotti as new CEO",
-      "link": "https://bizwest.com/2026/06/19/national-western-center-names-girotti-as-new-ceo/",
-      "source": "BizWest",
-      "pub_date": "2026-06-19T13:33:49+00:00",
-      "age_hours": 32.936879016666666,
+      "age_hours": 33.898475608611115,
       "breaking": false,
       "time_ago": "1 day ago"
     }
