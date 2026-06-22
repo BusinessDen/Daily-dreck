@@ -1,69 +1,69 @@
 {
-  "fetched_date": "2026-06-21",
-  "fetched_at": "2026-06-21 23:33:38",
+  "fetched_date": "2026-06-22",
+  "fetched_at": "2026-06-22 01:05:51",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 1,
   "articles": [
     {
       "title": "1 taken to hospital after stabbing near Colorado Boulevard",
       "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-stabbing-near-colorado-boulevard/",
       "source": "Fox31",
       "pub_date": "2026-06-21T21:46:41+00:00",
-      "age_hours": 1.7784576427777778,
+      "age_hours": 3.315877495,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Anchor Center for Blind Children celebrates former student turned Evergreen High valedictorian",
       "link": "https://www.9news.com/article/news/local/colorado-news/anchor-center-celebrates-former-student-turned-valedictorian/73-e7d5e111-1eb1-48a4-b371-dab4e503c221",
       "source": "9News",
       "pub_date": "2026-06-21T17:40:53+00:00",
-      "age_hours": 5.874816673611112,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.412405311111111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Father's Day 2026 deals: Free food, BOGO offers and discounts at restaurants nationwide",
       "link": "https://www.9news.com/article/news/nation-world/fathers-day-2026-deals/507-db269f1b-7dfd-4cc3-915e-857799a713ce",
       "source": "9News",
       "pub_date": "2026-06-21T16:30:00+00:00",
-      "age_hours": 7.056205612777778,
+      "age_hours": 8.593794253055556,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "This remote mountain restaurant has nine tables, 28 seats, and 50 years of history",
       "link": "https://www.cpr.org/2026/06/21/crested-butte-soupcon-restaurant-summer-opening/",
       "source": "CPR",
       "pub_date": "2026-06-21T10:00:00+00:00",
-      "age_hours": 13.556014511111112,
+      "age_hours": 15.09375587861111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "The Bookies Bookstore tells tales of fantasy, book clubs, bromance",
       "link": "https://coloradosun.com/2026/06/21/the-bookies-bookstore-june-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-21T08:05:00+00:00",
-      "age_hours": 15.472547798611112,
+      "age_hours": 17.010325630833336,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Aurora firefighters prevent damage to structures in brush fire",
       "link": "https://sentinelcolorado.com/metro/aurora-firefighters-prevent-damage-to-structures-in-brush-fire/",
       "source": "Sentinel",
       "pub_date": "2026-06-20T23:37:42+00:00",
-      "age_hours": 23.928453366944446,
+      "age_hours": 25.46576392416667,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver Police horse Maverick is heading to a 'well-earned retirement'",
       "link": "https://www.9news.com/article/life/animals/denver-police-horse-maverick-retirement/73-f89392e9-fc80-46cb-83c6-1f3a9fa3c229",
       "source": "9News",
       "pub_date": "2026-06-20T22:35:47+00:00",
-      "age_hours": 24.95981681972222,
+      "age_hours": 26.497405452777777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://kdvr.com/news/local/fire-destroys-home-under-construction-in-northwest-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-20T18:17:23+00:00",
-      "age_hours": 29.266791055,
+      "age_hours": 30.804210903888887,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://bizwest.com/2026/06/20/state-farm-donates-50000-to-greeley-weld-habitat-for-humanity/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:27:19+00:00",
-      "age_hours": 31.100105485,
+      "age_hours": 32.637924553055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://bizwest.com/2026/06/20/phillips-66-midstream-donates-54000-to-colorado-youth-outdoors/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:15:10+00:00",
-      "age_hours": 31.302606042222223,
+      "age_hours": 32.84042515416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://bizwest.com/2026/06/20/greeley-creative-arts-center-plans-micro-art-festival/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:07:15+00:00",
-      "age_hours": 31.4345505275,
+      "age_hours": 32.97236963333333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://bizwest.com/2026/06/20/weld-trust-awards-20-5m-in-grants-in-18-months/",
       "source": "BizWest",
       "pub_date": "2026-06-20T15:55:13+00:00",
-      "age_hours": 31.635106118611112,
+      "age_hours": 33.17292522555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://bizwest.com/2026/06/20/leadership-northern-colorado-to-graduate-2026-class/",
       "source": "BizWest",
       "pub_date": "2026-06-20T15:49:11+00:00",
-      "age_hours": 31.735661680555555,
+      "age_hours": 33.2734807875,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://coloradosun.com/2026/06/20/beef-hamburgers-prices-inflation-agriculture/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-20T10:00:00+00:00",
-      "age_hours": 37.55588151833334,
+      "age_hours": 39.093659305277775,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/commentary-lynn-bartels-political-reporter-dies/73-3cac466e-2214-4363-97a3-3367fbc8f745",
       "source": "9News",
       "pub_date": "2026-06-20T03:02:13+00:00",
-      "age_hours": 44.51926135083333,
+      "age_hours": 46.056849981388886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://coloradosun.com/2026/06/19/celebrated-colorado-political-reporter-dies/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-19T21:39:17+00:00",
-      "age_hours": 49.901160024999996,
+      "age_hours": 51.438937833888886,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/06/19/x-games-adjacent-owl-ai-hires-new-leader/",
       "source": "BizWest",
       "pub_date": "2026-06-19T20:01:48+00:00",
-      "age_hours": 51.525383930833335,
+      "age_hours": 53.06320304666667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.cpr.org/2026/06/19/denvers-celebrated-political-reporter-lynn-bartels-has-died/",
       "source": "CPR",
       "pub_date": "2026-06-19T20:00:41+00:00",
-      "age_hours": 51.54462567972222,
+      "age_hours": 53.082367053611115,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/06/19/states-first-industrial-scale-manufacturer-of-mass-timber-products-eyes-longmont-area/",
       "source": "BizWest",
       "pub_date": "2026-06-19T18:05:33+00:00",
-      "age_hours": 53.46288396194445,
+      "age_hours": 55.00070308166667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/06/19/defense-company-offered-2-7m-in-incentives-for-rd-project/",
       "source": "BizWest",
       "pub_date": "2026-06-19T17:59:03+00:00",
-      "age_hours": 53.57121730111111,
+      "age_hours": 55.109036421111114,
       "breaking": false,
       "time_ago": "2 days ago"
     }
