@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-06-21",
-  "lead_headline": "Foreclosures remain cold below $4M threshold while subscriptions flat-line\u2014restaurant tracker adds zero leads on Sunday dormancy",
+  "generated_date": "2026-06-22",
+  "lead_headline": "Restaurant tracker flags 9 weekend leads including Kokopelli container bar (Westminster) and Miya Moon reopening (Baker) as foreclosures stay quiet below $4M and subscriptions edge up +1",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero leads detected Sunday</strong>\u2014weekend data drought expected. Friday's batch flagged Tavern on Blake (Five Points), L\u00e4derach chocolate (Cherry Creek), Miya Moon (Baker). Active: 237 leads.",
+      "blurb": "<strong>9 leads flagged since Friday</strong>: Kokopelli Social Bar (Westminster container bar), Tavern on Blake Street (Five Points sports bar reopening), Miya Moon (Baker Chinese), BARna Soccer (Colfax tapas), Ichigo Matcha (University), Blazing Bird East (Colfax). Closures: River Bar, Yardbird RiNo.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+6",
         "label2": "closed",
-        "value2": "0",
-        "period": "today"
+        "value2": "\u22123",
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "126",
+        "value1": "128",
         "label2": "closed",
-        "value2": "111",
+        "value2": "112",
         "period": "all leads"
       }
     },
@@ -43,12 +43,12 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Seventh consecutive zero-application day</strong> extends unprecedented dormancy into third week. <strong>7-day window remains frozen at 369 licenses</strong>\u2014all submitted June 14 during mass database clearance following two-week system shutdown. No new filings, status updates, or removals detected since Saturday's processing event. Current void now surpasses all prior records as June's 25-day count holds at 369 applications versus typical monthly baseline of 800+. Post-backlog silence suggests systemic change rather than seasonal dip.",
+      "blurb": "<strong>Eighth straight zero-application day</strong> pushes statewide dormancy into fourth week\u2014<strong>7-day window frozen at 369 licenses</strong>, all filed June 14 during single-day backlog purge. June's 26-day count stuck at 369 versus typical 800+ monthly baseline. No new submissions, status changes, or removals since mid-month clearance event. Unprecedented void now exceeds all prior records as system silence suggests permanent operational shift rather than seasonal lull or technical glitch.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Single mention Saturday</strong>\u2014weekend slump drops <strong>7-day total to 53 mentions across 14 sources</strong>, up 8% from prior week despite Saturday collapse. Denver Post contributed 19 citations (36% of volume), covering Broomfield satellite plant, RiNo lease disputes, water fee surge. Facebook delivered 8 mentions, Instagram 5, Reddit 4. Week's uneven cadence\u2014strong Monday-Wednesday, Thursday-Saturday void\u2014mirrors June's volatility as monthly total (193) tracks toward 250-citation finish. Google News RSS captured 52 of 53 discoveries; Reddit RSS contributed one.",
+      "blurb": "<strong>Weekend drought continues\u20140 mentions yesterday</strong> holds <strong>7-day total at 55 mentions across 15 sources</strong>, up 12% from prior period despite Saturday-Sunday freeze. Denver Post delivered 19 weekend citations (35% share), covering Kennedy Golf Course planning, water connection fees, Clean Eatz expansion. Facebook contributed 8, Instagram 5, Reddit 4. Week's volatility mirrors June pattern\u2014strong Monday-Thursday, Friday-Sunday collapse\u2014as monthly count (191) tracks toward 250-citation finish. Google News RSS captured 54 of 55 discoveries.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
-        "class1": "",
+        "value1": "0",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "53",
+        "value1": "55",
         "class1": "up",
         "label2": "sources",
-        "value2": "14",
+        "value2": "15",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends Saturday dormancy, holding <strong>MTD at +25 (+1.2/day)</strong> while <strong>90-day net stays at +131</strong>. Weekend freeze follows Friday's single addition that broke prior five-day void. Current week's +9 net (17 new, 8 canceled) lags last period's +7 through comparable Sunday, though lower churn (8 vs 13 cancellations) offsets acquisition gap. Recent two-week pattern shows clustering\u2014Jun 11-18 burst delivered +16 net before collapse\u2014but weekend's zero-activity pause keeps MTD velocity (+1.2) aligned with YTD baseline (+1.3) as June's final third begins.",
+      "blurb": "<strong>Net +1 since Friday</strong> (1 new, 0 canceled) breaks weekend dormancy, lifting <strong>MTD to +25 (+1.2/day)</strong> while <strong>90-day net holds at +131</strong>. Week's +9 performance (17 new, 8 canceled) outpaces prior period's +4 as lower churn (8 vs 18 cancellations) offsets weaker acquisition. Recent fortnight shows clustering\u2014Jun 11-18 delivered +16 before collapse\u2014but weekend's single addition keeps MTD velocity (+1.2) aligned with YTD baseline (+1.2/day) as June's final third begins.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "25",
       "net_ytd": "214",
       "net_mtd_per_day": "1.2",
-      "net_ytd_per_day": "1.3",
-      "annual_mtd": "20",
-      "annual_ytd": "171",
-      "monthly_mtd": "5",
-      "monthly_ytd": "43"
+      "net_ytd_per_day": "1.2",
+      "annual_mtd": "18",
+      "annual_ytd": "156",
+      "monthly_mtd": "7",
+      "monthly_ytd": "58"
     }
   }
 }
