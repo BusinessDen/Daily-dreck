@@ -1,132 +1,141 @@
 {
   "fetched_date": "2026-06-22",
-  "fetched_at": "2026-06-22 17:36:04",
+  "fetched_at": "2026-06-22 19:12:05",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 5,
   "articles": [
     {
       "title": "EPS Group, Inc. Acquires Fort Collins-Based Engineering Firm",
       "link": "https://milehighcre.com/eps-group-inc-acquires-fort-collins-based-engineering-firm/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-22T15:51:54+00:00",
-      "age_hours": 1.7315418933333333,
+      "age_hours": 3.3323673683333337,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Grammy-winning DJ hosting run and rave in Denver",
       "link": "https://kdvr.com/news/local/grammy-winning-dj-hosting-run-and-rave-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-22T14:56:27+00:00",
-      "age_hours": 2.6562922283333332,
+      "age_hours": 4.257074739444445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Church and Union closes after nearly 2 years in downtown Denver",
       "link": "https://kdvr.com/denver-guide/church-and-union-closes-after-nearly-2-years-in-downtown-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-22T14:04:09+00:00",
-      "age_hours": 3.5279588449999997,
+      "age_hours": 5.128741333055555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "AG: Landlord LivCor to pay settlement, cooperate in RealPage antitrust case",
       "link": "https://bizwest.com/2026/06/22/ag-landlord-livcor-to-pay-settlement-cooperate-in-realpage-antitrust-case/",
       "source": "BizWest",
       "pub_date": "2026-06-22T13:17:49+00:00",
-      "age_hours": 4.299188168611111,
+      "age_hours": 5.895997348055555,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aurora lawmakers slated for final vote on creation of internal police oversight sector",
       "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-slated-for-final-vote-on-creation-of-internal-police-oversight-sector/",
       "source": "Sentinel",
       "pub_date": "2026-06-22T12:17:51+00:00",
-      "age_hours": 5.3000097563888895,
+      "age_hours": 6.9006150080555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Cannabis calendar: Mushroom speed dating",
+      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
+      "source": "Westword",
+      "pub_date": "2026-06-22T11:45:00-06:00",
+      "age_hours": 1.44795896,
       "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "AI robots kick Denver's recycling into high gear",
       "link": "https://www.denver7.com/decodedc/technology/ai-robots-kick-denvers-recycling-into-high-gear",
       "source": "Denver7",
       "pub_date": "2026-06-22T11:37:04+00:00",
-      "age_hours": 5.979173881111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.580035054722223,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Who would Michael Bennet pick to replace himself in the Senate? He\u2019s narrowed it down \u2014 to 500,000 people.",
       "link": "https://coloradosun.com/2026/06/22/michael-bennet-senate-replacement-plans/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-22T10:15:00+00:00",
-      "age_hours": 7.346677664166667,
+      "age_hours": 8.947452537777778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado helium reserves got big boost when war with Iran cut off 30% of the world\u2019s supply",
       "link": "https://coloradosun.com/2026/06/22/colorado-helium-reserves-more-valuable-after-iran-war/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-22T10:14:00+00:00",
-      "age_hours": 7.363345136944445,
+      "age_hours": 8.964120283333333,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Fort Carson soldiers get new dining options thanks to celebrity chef",
       "link": "https://coloradosun.com/2026/06/22/fort-carson-soldiers-get-new-dining-options-thanks-to-celebrity-chef/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-22T09:55:00+00:00",
-      "age_hours": 7.6800125249999995,
+      "age_hours": 9.280787784722222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver new home listings dropped in May, for only the 3rd time in 8 years",
       "link": "https://www.9news.com/article/news/local/denver-new-home-listings-dropped-in-may/73-4f03cc93-ee91-40e4-a987-eeca887496d2",
       "source": "9News",
       "pub_date": "2026-06-22T04:34:52+00:00",
-      "age_hours": 13.015727849722223,
+      "age_hours": 14.616535150277777,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Amazon Prime Day is coming up. Here's what to know about the popular discount event.",
       "link": "https://www.9news.com/article/news/nation-world/amazon-prime-day-tuesday-what-to-watch-for/507-74f933fb-9c3f-499c-9436-510c634d2217",
       "source": "9News",
       "pub_date": "2026-06-22T01:53:32+00:00",
-      "age_hours": 15.704616796944444,
+      "age_hours": 17.3054241325,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "1 taken to hospital after stabbing near Colorado Boulevard",
       "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-stabbing-near-colorado-boulevard/",
       "source": "Fox31",
       "pub_date": "2026-06-21T21:46:41+00:00",
-      "age_hours": 19.81907008027778,
+      "age_hours": 21.419852643055556,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Anchor Center for Blind Children celebrates former student turned Evergreen High valedictorian",
       "link": "https://www.9news.com/article/news/local/colorado-news/anchor-center-celebrates-former-student-turned-valedictorian/73-e7d5e111-1eb1-48a4-b371-dab4e503c221",
       "source": "9News",
       "pub_date": "2026-06-21T17:40:53+00:00",
-      "age_hours": 23.915450164722223,
+      "age_hours": 25.516257509166667,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Father's Day 2026 deals: Free food, BOGO offers and discounts at restaurants nationwide",
       "link": "https://www.9news.com/article/news/nation-world/fathers-day-2026-deals/507-db269f1b-7dfd-4cc3-915e-857799a713ce",
       "source": "9News",
       "pub_date": "2026-06-21T16:30:00+00:00",
-      "age_hours": 25.096839100833332,
+      "age_hours": 26.697646475833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.cpr.org/2026/06/21/crested-butte-soupcon-restaurant-summer-opening/",
       "source": "CPR",
       "pub_date": "2026-06-21T10:00:00+00:00",
-      "age_hours": 31.59679111166667,
+      "age_hours": 33.19757371222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/06/20/state-farm-donates-50000-to-greeley-weld-habitat-for-humanity/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:27:19+00:00",
-      "age_hours": 49.140854848888885,
+      "age_hours": 50.73766403222222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/06/20/phillips-66-midstream-donates-54000-to-colorado-youth-outdoors/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:15:10+00:00",
-      "age_hours": 49.34335534722222,
+      "age_hours": 50.940164816944446,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/06/20/greeley-creative-arts-center-plans-micro-art-festival/",
       "source": "BizWest",
       "pub_date": "2026-06-20T16:07:15+00:00",
-      "age_hours": 49.475299822222226,
+      "age_hours": 51.07210930527778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/06/20/weld-trust-awards-20-5m-in-grants-in-18-months/",
       "source": "BizWest",
       "pub_date": "2026-06-20T15:55:13+00:00",
-      "age_hours": 49.675855409722224,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Leadership Northern Colorado to graduate 2026 class",
-      "link": "https://bizwest.com/2026/06/20/leadership-northern-colorado-to-graduate-2026-class/",
-      "source": "BizWest",
-      "pub_date": "2026-06-20T15:49:11+00:00",
-      "age_hours": 49.77641097055556,
+      "age_hours": 51.272664909444444,
       "breaking": false,
       "time_ago": "2 days ago"
     }
