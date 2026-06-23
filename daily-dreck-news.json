@@ -1,33 +1,33 @@
 {
   "fetched_date": "2026-06-23",
-  "fetched_at": "2026-06-23 01:46:29",
+  "fetched_at": "2026-06-23 03:13:20",
   "article_count": 20,
-  "breaking_count": 17,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Bed Bath & Beyond opens 22 stores with another chain. See the locations.",
+      "link": "https://www.9news.com/article/news/nation-world/bed-bath-beyond-container-store-combined-22-locations/507-5338e725-c956-494d-9ce2-2c80254663c1",
+      "source": "9News",
+      "pub_date": "2026-06-23T03:07:47+00:00",
+      "age_hours": 0.08919302333333333,
+      "breaking": true,
+      "time_ago": "5 min ago"
+    },
     {
       "title": "Denver residents voice frustration over prolonged outdoor pool closures in minority neighborhoods",
       "link": "https://www.9news.com/article/news/local/denver-residents-frustrated-outdoor-pool-closures-minority-neighborhoods/73-802745f2-211b-4105-9c60-18c0d09965b8",
       "source": "9News",
       "pub_date": "2026-06-23T00:44:15+00:00",
-      "age_hours": 1.0323610822222222,
+      "age_hours": 2.4814153091666666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver outlines plan to improve emergency alert process after recent errors",
       "link": "https://www.9news.com/article/news/local/denver-outlines-plan-to-improve-emergency-alert-process/73-7a6e5c47-0091-499f-b5a9-836aef088fc2",
       "source": "9News",
       "pub_date": "2026-06-23T00:07:29+00:00",
-      "age_hours": 1.6451389308333333,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Confluent Sells Building 2 in Deer Creek Commerce Center",
-      "link": "https://milehighcre.com/confluent-sells-building-2-in-deer-creek-commerce-center/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-22T22:35:51+00:00",
-      "age_hours": 3.171768759166667,
+      "age_hours": 3.0941931447222224,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -36,153 +36,153 @@
       "link": "https://www.9news.com/article/news/nation-world/little-caesars-spider-man-webberoni-pizza/507-23065af9-41e5-48d0-acd0-41cd9f71981a",
       "source": "9News",
       "pub_date": "2026-06-22T22:33:59+00:00",
-      "age_hours": 3.203472347777778,
+      "age_hours": 4.6525265594444445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "A new Wax Trax Records is opening in Stanley Marketplace",
       "link": "https://denverite.com/2026/06/22/wax-trax-stanley-marketplace-store/",
       "source": "Denverite",
       "pub_date": "2026-06-22T22:33:13+00:00",
-      "age_hours": 3.2159068583333332,
+      "age_hours": 4.665204543055556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Don\u2019t call 911 for fireworks unless it\u2019s an emergency, police say",
       "link": "https://kdvr.com/news/local/dont-call-911-for-fireworks-unless-its-an-emergency-police-say/",
       "source": "Fox31",
       "pub_date": "2026-06-22T21:21:16+00:00",
-      "age_hours": 4.415719666666667,
+      "age_hours": 5.864651713333334,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Target aims for July opening in Firestone",
       "link": "https://bizwest.com/2026/06/22/target-aims-for-july-opening-in-firestone/",
       "source": "BizWest",
       "pub_date": "2026-06-22T21:15:19+00:00",
-      "age_hours": 4.5136255641666665,
+      "age_hours": 5.962707728611112,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado chamber: 2026 legislative session marked \u2018significant progress\u2019 for business",
       "link": "https://www.coloradopolitics.com/2026/06/22/colorado-chamber-2026-legislative-session-marked-significant-progress-for-business/",
       "source": "CO Politics",
       "pub_date": "2026-06-22T20:52:58+00:00",
-      "age_hours": 4.887772345555556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.336505463333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Weld OKs new justice center as unified project",
       "link": "https://bizwest.com/2026/06/22/weld-oks-new-justice-center-as-unified-project/",
       "source": "BizWest",
       "pub_date": "2026-06-22T20:35:43+00:00",
-      "age_hours": 5.173626167777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.622708301111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Man found dead outside Aurora homeless shelter, investigation underway",
       "link": "https://sentinelcolorado.com/metro/man-found-dead-outside-aurora-homeless-shelter-investigation-underway/",
       "source": "Sentinel",
       "pub_date": "2026-06-22T20:27:14+00:00",
-      "age_hours": 5.316706452777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.765414833333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Infleqtion, CU among America\u2019s Quantum Space Initiative founders",
       "link": "https://bizwest.com/2026/06/22/infleqtion-cu-among-americas-quantum-space-initiative-founders/",
       "source": "BizWest",
       "pub_date": "2026-06-22T20:16:08+00:00",
-      "age_hours": 5.500015091388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.9490972258333334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Another swell of outside political spending seeks to shape Democratic primaries in Aurora",
       "link": "https://sentinelcolorado.com/0trending/another-swell-of-outside-political-spending-seeks-to-shape-democratic-primaries-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-06-22T20:13:40+00:00",
-      "age_hours": 5.542817747777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.991526143333334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Boulder\u2019s quantum incubator gets state funding for test facility",
       "link": "https://bizwest.com/2026/06/22/boulders-quantum-incubator-gets-state-funding-for-test-facility/",
       "source": "BizWest",
       "pub_date": "2026-06-22T20:13:10+00:00",
-      "age_hours": 5.549459566666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.998541704166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Longmont gene-analysis firm Kromatid elevates new leader",
       "link": "https://bizwest.com/2026/06/22/longmont-gene-analysis-firm-kromatid-elevates-new-leader/",
       "source": "BizWest",
       "pub_date": "2026-06-22T20:10:06+00:00",
-      "age_hours": 5.600570686666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.049652822222222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "First Look: Denver continues to raise the bar on Mexican cuisine with El Tule",
       "link": "https://www.westword.com/food-drink/el-tule-denver-elevated-mexican-restaurant-40902818/",
       "source": "Westword",
       "pub_date": "2026-06-22T18:51:52-06:00",
-      "age_hours": 0.9059599075,
+      "age_hours": 2.3546946897222223,
       "breaking": true,
-      "time_ago": "54 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "National Architecture Firm To Relocate To 1900 Lawrence Tower",
       "link": "https://www.bisnow.com/denver/news/office/national-architecture-firm-relocates-from-boulder-to-downtown-denver-135115",
       "source": "Bisnow",
       "pub_date": "2026-06-22T17:35:02-04:00",
-      "age_hours": 4.185175663611111,
+      "age_hours": 5.634679755277777,
       "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "EPS Group, Inc. Acquires Fort Collins-Based Engineering Firm",
-      "link": "https://milehighcre.com/eps-group-inc-acquires-fort-collins-based-engineering-firm/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-22T15:51:54+00:00",
-      "age_hours": 9.904268809722222,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Grammy-winning DJ hosting run and rave in Denver",
       "link": "https://kdvr.com/news/local/grammy-winning-dj-hosting-run-and-rave-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-22T14:56:27+00:00",
-      "age_hours": 10.829330841666668,
+      "age_hours": 12.278262882500002,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "\u2018Top Chef\u2019 alum closes LoDo restaurant after two years",
       "link": "https://www.westword.com/food-drink/church-and-union-closed-lodo-restaurant-40902748/",
       "source": "Westword",
       "pub_date": "2026-06-22T14:13:14-06:00",
-      "age_hours": 5.549848955277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.998583711388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Church and Union closes after nearly 2 years in downtown Denver",
       "link": "https://kdvr.com/denver-guide/church-and-union-closes-after-nearly-2-years-in-downtown-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-22T14:04:09+00:00",
-      "age_hours": 11.700997389444444,
+      "age_hours": 13.149929444722222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
+    },
+    {
+      "title": "AG: Landlord LivCor to pay settlement, cooperate in RealPage antitrust case",
+      "link": "https://bizwest.com/2026/06/22/ag-landlord-livcor-to-pay-settlement-cooperate-in-realpage-antitrust-case/",
+      "source": "BizWest",
+      "pub_date": "2026-06-22T13:17:49+00:00",
+      "age_hours": 13.92104174027778,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     }
   ]
 }
