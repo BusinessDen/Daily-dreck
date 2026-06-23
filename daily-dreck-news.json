@@ -1,96 +1,141 @@
 {
   "fetched_date": "2026-06-23",
-  "fetched_at": "2026-06-23 18:48:29",
+  "fetched_at": "2026-06-23 19:40:01",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Aurora Council approves initiative to review, boost family support and affordability",
+      "link": "https://sentinelcolorado.com/metro/aurora-council-approves-initiative-to-review-boost-family-support-and-affordability/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-23T19:37:40+00:00",
+      "age_hours": 0.035170415000000003,
+      "breaking": true,
+      "time_ago": "2 min ago"
+    },
+    {
+      "title": "Invasive insect killing Ash trees in Denver, learn how to protect yours",
+      "link": "https://kdvr.com/news/local/invasive-insect-killing-ash-trees-in-denver-learn-how-to-protect-yours/",
+      "source": "Fox31",
+      "pub_date": "2026-06-23T19:37:03+00:00",
+      "age_hours": 0.045250211944444445,
+      "breaking": true,
+      "time_ago": "2 min ago"
+    },
     {
       "title": "Business Buzz: Colorado's emerging quantum frontier and the innovation needed for Denver's office market",
       "link": "https://www.9news.com/article/money/business-brief/colorados-emerging-quantum-frontier-innovation-needed-denvers-office-market/73-f0d95c6e-a551-4ec4-b671-63609d48e2a5",
       "source": "9News",
       "pub_date": "2026-06-23T16:49:23+00:00",
-      "age_hours": 1.9816134272222221,
+      "age_hours": 2.839491048333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
-      "title": "Testing Stale Cache test",
+      "title": "Testing caching",
       "link": "https://bizwest.com/2026/06/23/testing-stale-cache-issue/",
       "source": "BizWest",
       "pub_date": "2026-06-23T16:14:09+00:00",
-      "age_hours": 2.5683159525,
+      "age_hours": 3.4261403469444445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Howell Construction Completes New Concorde Career College Campus",
+      "link": "https://milehighcre.com/howell-construction-completes-new-concorde-career-college-campus/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-23T15:38:02+00:00",
+      "age_hours": 4.028431017777778,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Denver Rolls Out 90-day Review for Affordable Housing",
+      "link": "https://milehighcre.com/denver-rolls-out-90-day-review-for-affordable-housing/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-23T15:27:30+00:00",
+      "age_hours": 4.203986591666666,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Denver Hospitality Pro to Build Dual-Brand Hilton Hotel at Vail Airport",
+      "link": "https://milehighcre.com/denver-hospitality-pro-to-build-dual-brand-hilton-hotel-at-vail-airport/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-23T15:10:40+00:00",
+      "age_hours": 4.484542154722222,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Iconic Denver arcade bar closes original location after 15 years",
       "link": "https://kdvr.com/news/local/iconic-denver-arcade-bar-closes-original-location-after-15-years/",
       "source": "Fox31",
       "pub_date": "2026-06-23T13:32:46+00:00",
-      "age_hours": 5.2589675125,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.116639036944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Amazon Prime Day starts Tuesday. Here's what to know about the big discount event.",
       "link": "https://www.9news.com/article/news/nation-world/amazon-prime-day-2026/507-caf3b999-23d1-4845-829a-081b4f2a8df5",
       "source": "9News",
       "pub_date": "2026-06-23T12:31:19+00:00",
-      "age_hours": 6.282724598611111,
+      "age_hours": 7.140602228333334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Eastern Colorado farmers brace for worst wheat harvest since 1965",
       "link": "https://coloradosun.com/2026/06/23/wheat-harvest-eastern-colorado-drought/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-23T10:16:00+00:00",
-      "age_hours": 8.537831704166667,
+      "age_hours": 9.3957361575,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Author says universal child care should be as American as apple pie. And here\u2019s why.",
       "link": "https://www.cpr.org/2026/06/23/author-universal-child-care-american-values/",
       "source": "CPR",
       "pub_date": "2026-06-23T10:00:00+00:00",
-      "age_hours": 8.804611274444445,
+      "age_hours": 9.662502898888889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Sportsbooks have spent about $1.5M on Democratic, Republican statehouse primaries in Colorado",
       "link": "https://coloradosun.com/2026/06/23/sports-betting-money-colorado-legislative-races/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-23T09:55:00+00:00",
-      "age_hours": 8.887832254444444,
+      "age_hours": 9.745736695277778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Bed Bath & Beyond opens 22 stores with another chain. See the locations.",
       "link": "https://www.9news.com/article/news/nation-world/bed-bath-beyond-container-store-combined-22-locations/507-5338e725-c956-494d-9ce2-2c80254663c1",
       "source": "9News",
       "pub_date": "2026-06-23T03:07:47+00:00",
-      "age_hours": 15.674946867500001,
+      "age_hours": 16.532824498333333,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Daly launches visibility firm Just Ask Dixie",
       "link": "https://bizwest.com/2026/06/22/daly-launches-visibility-firm-just-ask-dixie/",
       "source": "BizWest",
       "pub_date": "2026-06-23T02:16:15+00:00",
-      "age_hours": 16.53331649361111,
+      "age_hours": 17.391140893333333,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver residents voice frustration over prolonged outdoor pool closures in minority neighborhoods",
       "link": "https://www.9news.com/article/news/local/denver-residents-frustrated-outdoor-pool-closures-minority-neighborhoods/73-802745f2-211b-4105-9c60-18c0d09965b8",
       "source": "9News",
       "pub_date": "2026-06-23T00:44:15+00:00",
-      "age_hours": 18.067169132777778,
+      "age_hours": 18.925046762222223,
       "breaking": false,
       "time_ago": "18 hrs ago"
     },
@@ -99,90 +144,45 @@
       "link": "https://www.coloradopolitics.com/2026/06/22/senate-passes-bill-meant-to-curb-housing-costs-sending-to-house-for-final-approval/",
       "source": "CO Politics",
       "pub_date": "2026-06-22T23:51:08+00:00",
-      "age_hours": 18.953263818333333,
+      "age_hours": 19.810707664166664,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
+    },
+    {
+      "title": "Confluent Sells Building 2 in Deer Creek Commerce Center",
+      "link": "https://milehighcre.com/confluent-sells-building-2-in-deer-creek-commerce-center/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-22T22:35:51+00:00",
+      "age_hours": 21.064819939444444,
+      "breaking": false,
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "A new Wax Trax Records is opening in Stanley Marketplace",
       "link": "https://denverite.com/2026/06/22/wax-trax-stanley-marketplace-store/",
       "source": "Denverite",
       "pub_date": "2026-06-22T22:33:13+00:00",
-      "age_hours": 20.25096717916667,
+      "age_hours": 21.108834760555556,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Target aims for July opening in Firestone",
       "link": "https://bizwest.com/2026/06/22/target-aims-for-july-opening-in-firestone/",
       "source": "BizWest",
       "pub_date": "2026-06-22T21:15:19+00:00",
-      "age_hours": 21.548872080555558,
+      "age_hours": 22.40669648,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Colorado chamber: 2026 legislative session marked \u2018significant progress\u2019 for business",
       "link": "https://www.coloradopolitics.com/2026/06/22/colorado-chamber-2026-legislative-session-marked-significant-progress-for-business/",
       "source": "CO Politics",
       "pub_date": "2026-06-22T20:52:58+00:00",
-      "age_hours": 21.922708283055556,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Weld OKs new justice center as unified project",
-      "link": "https://bizwest.com/2026/06/22/weld-oks-new-justice-center-as-unified-project/",
-      "source": "BizWest",
-      "pub_date": "2026-06-22T20:35:43+00:00",
-      "age_hours": 22.20887211388889,
+      "age_hours": 22.78015213,
       "breaking": false,
       "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Infleqtion, CU among America\u2019s Quantum Space Initiative founders",
-      "link": "https://bizwest.com/2026/06/22/infleqtion-cu-among-americas-quantum-space-initiative-founders/",
-      "source": "BizWest",
-      "pub_date": "2026-06-22T20:16:08+00:00",
-      "age_hours": 22.535261034999998,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Boulder\u2019s quantum incubator gets state funding for test facility",
-      "link": "https://bizwest.com/2026/06/22/boulders-quantum-incubator-gets-state-funding-for-test-facility/",
-      "source": "BizWest",
-      "pub_date": "2026-06-22T20:13:10+00:00",
-      "age_hours": 22.584705511944446,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Longmont gene-analysis firm Kromatid elevates new leader",
-      "link": "https://bizwest.com/2026/06/22/longmont-gene-analysis-firm-kromatid-elevates-new-leader/",
-      "source": "BizWest",
-      "pub_date": "2026-06-22T20:10:06+00:00",
-      "age_hours": 22.63581662888889,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Polis administration awards $30 million for local climate policy projects",
-      "link": "https://www.coloradopolitics.com/2026/06/22/polis-administration-awards-30-million-for-local-climate-policy-projects/",
-      "source": "CO Politics",
-      "pub_date": "2026-06-22T20:02:03+00:00",
-      "age_hours": 22.77131950777778,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "First Look: Denver continues to raise the bar on Mexican cuisine with El Tule",
-      "link": "https://www.westword.com/food-drink/el-tule-denver-elevated-mexican-restaurant-40902818/",
-      "source": "Westword",
-      "pub_date": "2026-06-22T18:51:52-06:00",
-      "age_hours": 17.9408404975,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
     }
   ]
 }
