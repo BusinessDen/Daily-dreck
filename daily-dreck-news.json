@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-06-22",
-  "fetched_at": "2026-06-22 23:33:53",
+  "fetched_date": "2026-06-23",
+  "fetched_at": "2026-06-23 00:56:07",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 17,
   "articles": [
+    {
+      "title": "Denver residents voice frustration over prolonged outdoor pool closures in minority neighborhoods",
+      "link": "https://www.9news.com/article/news/local/denver-residents-frustrated-outdoor-pool-closures-minority-neighborhoods/73-802745f2-211b-4105-9c60-18c0d09965b8",
+      "source": "9News",
+      "pub_date": "2026-06-23T00:44:15+00:00",
+      "age_hours": 0.19341925277777777,
+      "breaking": true,
+      "time_ago": "11 min ago"
+    },
+    {
+      "title": "Denver outlines plan to improve emergency alert process after recent errors",
+      "link": "https://www.9news.com/article/news/local/denver-outlines-plan-to-improve-emergency-alert-process/73-7a6e5c47-0091-499f-b5a9-836aef088fc2",
+      "source": "9News",
+      "pub_date": "2026-06-23T00:07:29+00:00",
+      "age_hours": 0.8061971061111111,
+      "breaking": true,
+      "time_ago": "48 min ago"
+    },
+    {
+      "title": "Confluent Sells Building 2 in Deer Creek Commerce Center",
+      "link": "https://milehighcre.com/confluent-sells-building-2-in-deer-creek-commerce-center/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-22T22:35:51+00:00",
+      "age_hours": 2.333208465555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Little Caesars unveils Spider-Man inspired pizza in collaboration with upcoming film 'Brand New Day'",
       "link": "https://www.9news.com/article/news/nation-world/little-caesars-spider-man-webberoni-pizza/507-23065af9-41e5-48d0-acd0-41cd9f71981a",
       "source": "9News",
       "pub_date": "2026-06-22T22:33:59+00:00",
-      "age_hours": 0.9945674613888889,
+      "age_hours": 2.3645305161111114,
       "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "A new Wax Trax Records is opening in Stanley Marketplace",
       "link": "https://denverite.com/2026/06/22/wax-trax-stanley-marketplace-store/",
       "source": "Denverite",
       "pub_date": "2026-06-22T22:33:13+00:00",
-      "age_hours": 1.0072525588888888,
+      "age_hours": 2.3772186291666664,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Don\u2019t call 911 for fireworks unless it\u2019s an emergency, police say",
       "link": "https://kdvr.com/news/local/dont-call-911-for-fireworks-unless-its-an-emergency-police-say/",
       "source": "Fox31",
       "pub_date": "2026-06-22T21:21:16+00:00",
-      "age_hours": 2.206848996666667,
+      "age_hours": 3.576829578611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Target aims for July opening in Firestone",
+      "link": "https://bizwest.com/2026/06/22/target-aims-for-july-opening-in-firestone/",
+      "source": "BizWest",
+      "pub_date": "2026-06-22T21:15:19+00:00",
+      "age_hours": 3.675000622222222,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado chamber: 2026 legislative session marked \u2018significant progress\u2019 for business",
       "link": "https://www.coloradopolitics.com/2026/06/22/colorado-chamber-2026-legislative-session-marked-significant-progress-for-business/",
       "source": "CO Politics",
       "pub_date": "2026-06-22T20:52:58+00:00",
-      "age_hours": 2.6789583086111115,
+      "age_hours": 4.048733586111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Weld OKs new justice center as unified project",
+      "link": "https://bizwest.com/2026/06/22/weld-oks-new-justice-center-as-unified-project/",
+      "source": "BizWest",
+      "pub_date": "2026-06-22T20:35:43+00:00",
+      "age_hours": 4.335001719444445,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Man found dead outside Aurora homeless shelter, investigation underway",
       "link": "https://sentinelcolorado.com/metro/man-found-dead-outside-aurora-homeless-shelter-investigation-underway/",
       "source": "Sentinel",
       "pub_date": "2026-06-22T20:27:14+00:00",
-      "age_hours": 3.10790287,
+      "age_hours": 4.4776419983333335,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Infleqtion, CU among America\u2019s Quantum Space Initiative founders",
+      "link": "https://bizwest.com/2026/06/22/infleqtion-cu-among-americas-quantum-space-initiative-founders/",
+      "source": "BizWest",
+      "pub_date": "2026-06-22T20:16:08+00:00",
+      "age_hours": 4.661390686944444,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Another swell of outside political spending seeks to shape Democratic primaries in Aurora",
       "link": "https://sentinelcolorado.com/0trending/another-swell-of-outside-political-spending-seeks-to-shape-democratic-primaries-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-06-22T20:13:40+00:00",
-      "age_hours": 3.3340141855555556,
+      "age_hours": 4.703753301111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
-      "title": "Denver outlines plan to improve emergency alert process after recent errors",
-      "link": "https://www.9news.com/article/news/local/denver-outlines-plan-to-improve-emergency-alert-process/73-7a6e5c47-0091-499f-b5a9-836aef088fc2",
-      "source": "9News",
-      "pub_date": "2026-06-22T19:56:09+00:00",
-      "age_hours": 3.6251230630555553,
+      "title": "Boulder\u2019s quantum incubator gets state funding for test facility",
+      "link": "https://bizwest.com/2026/06/22/boulders-quantum-incubator-gets-state-funding-for-test-facility/",
+      "source": "BizWest",
+      "pub_date": "2026-06-22T20:13:10+00:00",
+      "age_hours": 4.710835201944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Longmont gene-analysis firm Kromatid elevates new leader",
+      "link": "https://bizwest.com/2026/06/22/longmont-gene-analysis-firm-kromatid-elevates-new-leader/",
+      "source": "BizWest",
+      "pub_date": "2026-06-22T20:10:06+00:00",
+      "age_hours": 4.761946327777777,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "First Look: Denver continues to raise the bar on Mexican cuisine with El Tule",
+      "link": "https://www.westword.com/food-drink/el-tule-denver-elevated-mexican-restaurant-40902818/",
+      "source": "Westword",
+      "pub_date": "2026-06-22T18:51:52-06:00",
+      "age_hours": 0.06695295388888889,
+      "breaking": true,
+      "time_ago": "4 min ago"
     },
     {
       "title": "National Architecture Firm To Relocate To 1900 Lawrence Tower",
       "link": "https://www.bisnow.com/denver/news/office/national-architecture-firm-relocates-from-boulder-to-downtown-denver-135115",
       "source": "Bisnow",
       "pub_date": "2026-06-22T17:35:02-04:00",
-      "age_hours": 1.976650078888889,
+      "age_hours": 3.346577721944444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "EPS Group, Inc. Acquires Fort Collins-Based Engineering Firm",
+      "link": "https://milehighcre.com/eps-group-inc-acquires-fort-collins-based-engineering-firm/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-22T15:51:54+00:00",
+      "age_hours": 9.065708506666667,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Grammy-winning DJ hosting run and rave in Denver",
       "link": "https://kdvr.com/news/local/grammy-winning-dj-hosting-run-and-rave-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-22T14:56:27+00:00",
-      "age_hours": 8.620460171388888,
+      "age_hours": 9.990440745555556,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "\u2018Top Chef\u2019 alum closes LoDo restaurant after two years",
       "link": "https://www.westword.com/food-drink/church-and-union-closed-lodo-restaurant-40902748/",
       "source": "Westword",
       "pub_date": "2026-06-22T14:13:14-06:00",
-      "age_hours": 3.340949903888889,
+      "age_hours": 4.710841976388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Church and Union closes after nearly 2 years in downtown Denver",
       "link": "https://kdvr.com/denver-guide/church-and-union-closes-after-nearly-2-years-in-downtown-denver/",
       "source": "Fox31",
       "pub_date": "2026-06-22T14:04:09+00:00",
-      "age_hours": 9.492126733055557,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "AG: Landlord LivCor to pay settlement, cooperate in RealPage antitrust case",
-      "link": "https://bizwest.com/2026/06/22/ag-landlord-livcor-to-pay-settlement-cooperate-in-realpage-antitrust-case/",
-      "source": "BizWest",
-      "pub_date": "2026-06-22T13:17:49+00:00",
-      "age_hours": 10.2630399725,
+      "age_hours": 10.862107302222222,
       "breaking": false,
       "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Putting Health And Tech Under One Roof Could Bring Denver Innovation To The Next Level, Experts Say",
-      "link": "https://www.bisnow.com/denver/news/life-sciences/combining-health-and-tech-under-one-roof-could-bring-colorado-innovation-to-the-next-level-experts-say-135106",
-      "source": "Bisnow",
-      "pub_date": "2026-06-22T13:13:51-04:00",
-      "age_hours": 6.329705693888889,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Cannabis calendar: Mushroom speed dating",
-      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
-      "source": "Westword",
-      "pub_date": "2026-06-22T11:45:00-06:00",
-      "age_hours": 5.811505573611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "AI robots kick Denver's recycling into high gear",
-      "link": "https://www.denver7.com/decodedc/technology/ai-robots-kick-denvers-recycling-into-high-gear",
-      "source": "Denver7",
-      "pub_date": "2026-06-22T11:37:04+00:00",
-      "age_hours": 11.94335900611111,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Who would Michael Bennet pick to replace himself in the Senate? He\u2019s narrowed it down \u2014 to 500,000 people.",
-      "link": "https://coloradosun.com/2026/06/22/michael-bennet-senate-replacement-plans/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-22T10:15:00+00:00",
-      "age_hours": 13.310754777222222,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Colorado helium reserves got big boost when war with Iran cut off 30% of the world\u2019s supply",
-      "link": "https://coloradosun.com/2026/06/22/colorado-helium-reserves-more-valuable-after-iran-war/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-22T10:14:00+00:00",
-      "age_hours": 13.327422153888888,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Fort Carson soldiers get new dining options thanks to celebrity chef",
-      "link": "https://coloradosun.com/2026/06/22/fort-carson-soldiers-get-new-dining-options-thanks-to-celebrity-chef/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-22T09:55:00+00:00",
-      "age_hours": 13.644089480277778,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "1 taken to hospital after stabbing near Colorado Boulevard",
-      "link": "https://kdvr.com/news/local/1-taken-to-hospital-after-stabbing-near-colorado-boulevard/",
-      "source": "Fox31",
-      "pub_date": "2026-06-21T21:46:41+00:00",
-      "age_hours": 25.783238015277774,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "This remote mountain restaurant has nine tables, 28 seats, and 50 years of history",
-      "link": "https://www.cpr.org/2026/06/21/crested-butte-soupcon-restaurant-summer-opening/",
-      "source": "CPR",
-      "pub_date": "2026-06-21T10:00:00+00:00",
-      "age_hours": 37.56090868333334,
-      "breaking": false,
-      "time_ago": "1 day ago"
     }
   ]
 }
