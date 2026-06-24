@@ -1,23 +1,23 @@
 {
-  "generated_date": "2026-06-23",
-  "lead_headline": "Kokopelli container bar debuts in Westminster as subscriber net holds flat yesterday \u2014 no movement after weekend's +1 bump",
+  "generated_date": "2026-06-24",
+  "lead_headline": "Three new spots open today: Tavern on Blake Street returns after $1M renovations, Swiss chocolatier L\u00e4derach lands at Cherry Creek, and Miya Moon expands Chinese tapas to Baker",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 lead today</strong>: Kokopelli Social Bar (Regis shipping-container bar next to dog park, soft opened June 19-21). Week's 9 leads: Tavern on Blake Street (Five Points reopening), BARna Soccer (Colfax tapas), Miya Moon (Baker).",
+      "blurb": "<strong>3 leads today</strong>: Tavern on Blake Street (Five Points sports bar reopening after $1M+ repairs), L\u00e4derach (Cherry Creek Swiss chocolate), Miya Moon (Baker Chinese tapas). Week's 242 active leads: 129 openings, 113 closures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "+3",
         "label2": "closed",
         "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "7",
+        "value1": "129",
         "label2": "closed",
-        "value2": "2",
-        "period": "this week"
+        "value2": "113",
+        "period": "all leads"
       }
     },
     "foreclosure": {
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Ninth consecutive zero-application day</strong> extends statewide freeze into its 26th day\u2014<strong>7-day count remains locked at 369 licenses</strong>, all stamped June 14 during single-day backlog dump. June's total stuck at 369 against typical 800+ monthly baseline. No new filings, status updates, or removals since mid-month. System silence now exceeds all historical precedent, signaling structural change rather than seasonal dip or technical delay.",
+      "blurb": "<strong>Tenth consecutive zero-application day</strong> pushes statewide freeze to 27 days\u2014<strong>7-day total frozen at 369 licenses</strong>, all timestamped June 14 during lone backlog release. June's count locked at 369 against typical 800+ monthly baseline. No new filings, status changes, or removals since mid-month checkpoint. System paralysis now unprecedented in dataset history, indicating structural overhaul rather than administrative backlog or seasonal lull.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,26 +59,26 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Monday silence persists\u20140 mentions yesterday</strong> keeps <strong>7-day count at 51 across 14 sources</strong>, up 4% from prior week's 49 despite consecutive weekend-Monday blackout. Denver Post leads with 18 citations (35% share), covering Kennedy Golf planning and water fees. Facebook added 7, Instagram and mystery domain 5 each, Reddit 3. Monthly tally (186) paces toward 250-mention June finish. Google News RSS delivered 50 of 51 discoveries, maintaining 98% capture rate.",
+      "blurb": "<strong>+9 mentions yesterday</strong> break four-day silence, lifting <strong>7-day count to 53 across 15 sources</strong>\u2014flat week-over-week at 53. Denver Post holds 17 citations (32% share), tracking 1up LoDo closure and Rock Bottom's 35-year run ending. Facebook added 12, mystery domain and Reddit tied at 4 each, Hoodline contributed 2. Monthly tally climbs to 198 with week remaining. Google News RSS captured 52 of 53 discoveries (98% rate), maintaining dominant pipeline position.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "0",
-        "class1": "down",
+        "value1": "9",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "51",
-        "class1": "up",
+        "value1": "53",
+        "class1": "",
         "label2": "sources",
-        "value2": "14",
+        "value2": "15",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks fourth straight dormant day, leaving <strong>MTD at +25 (+1.1/day)</strong> and <strong>90-day net at +131</strong>. Week's +11 performance (14 new, 3 canceled) outpaced prior period's +9, with stronger retention (3 vs 11 cancels) offsetting weaker acquisition. Recent pattern shows June 11-18 surge (+16) followed by four-day freeze, but MTD velocity (+1.1/day) tracks just below YTD baseline (+1.2/day) as month enters final third.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends dormant stretch to fifth consecutive day, holding <strong>MTD at +25 (+1.1/day)</strong> and <strong>90-day net at +131</strong>. Last two weeks show split pattern: June 11-18 surge delivered +16 net (23 new, 7 canceled), while June 19-23 freeze produced just +1 net (1 new, 0 canceled). Five-day stall unusual against June's early momentum, though MTD pace (+1.1/day) tracks near YTD baseline (+1.2/day) as month enters final stretch.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "25",
       "net_ytd": "214",
