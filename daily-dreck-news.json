@@ -1,159 +1,159 @@
 {
   "fetched_date": "2026-06-24",
-  "fetched_at": "2026-06-24 03:13:46",
+  "fetched_at": "2026-06-24 05:25:05",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Arvada Xcel Energy customers impacted by unplanned power outages",
+      "link": "https://www.9news.com/article/news/local/colorado-news/xcel-customers-impacted-unplanned-power-outages-arvada/73-d0cfeb79-0e72-4d69-b036-b448bc9477f6",
+      "source": "9News",
+      "pub_date": "2026-06-24T04:27:01+00:00",
+      "age_hours": 0.9635537875,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
     {
       "title": "Upper Colorado River states convene in Denver amid 'dire' drought crisis and looming deadline",
       "link": "https://www.9news.com/article/news/local/upper-colorado-river-states-convene-amid-drought/73-59889637-cfcb-4c49-9b76-c688c4b016bb",
       "source": "9News",
       "pub_date": "2026-06-24T01:08:03+00:00",
-      "age_hours": 2.0912118313888888,
+      "age_hours": 4.2796649533333335,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "It's last call for several downtown Denver bars and restaurants as string of closures hits the area",
       "link": "https://www.denver7.com/money/business-news/its-last-call-for-several-downtown-denver-bars-and-restaurants-as-string-of-closures-hits-the-area",
       "source": "Denver7",
       "pub_date": "2026-06-24T00:42:19+00:00",
-      "age_hours": 2.5201959869444446,
+      "age_hours": 4.708632563888888,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Dairy Queen to release 3 new Blizzard flavors, patriotic slush float",
       "link": "https://www.9news.com/article/news/nation-world/dairy-queen-new-blizzard-flavors-patriotic-slush-float/507-cf9553d1-9d59-46c6-baeb-79ec4b58b06f",
       "source": "9News",
       "pub_date": "2026-06-23T23:59:59+00:00",
-      "age_hours": 3.2256563494444443,
+      "age_hours": 5.414109465833333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "A look back at the history of the Great American Beer Festival as tickets go on sale",
       "link": "https://kdvr.com/news/local/a-look-back-at-the-history-of-the-great-american-beer-festival-as-tickets-go-on-sale/",
       "source": "Fox31",
       "pub_date": "2026-06-23T23:05:57+00:00",
-      "age_hours": 4.126483058333333,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.314887141111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver moves closer to allowing bars to stay open until 4 a.m., without extending 'last call'",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-allowing-bars-open-until-4-am-extending-last-call/73-56eaff4b-e97c-498e-ad1a-477339e7829c",
       "source": "9News",
       "pub_date": "2026-06-23T23:04:02+00:00",
-      "age_hours": 4.158156366388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.346609480833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Arapahoe County, state election officials defend voting accuracy amid conspiracy theories",
       "link": "https://sentinelcolorado.com/voter-guide/arapahoe-county-state-election-officials-defend-voting-accuracy-amid-conspiracy-theories/",
       "source": "Sentinel",
       "pub_date": "2026-06-23T20:47:47+00:00",
-      "age_hours": 6.429487466944444,
+      "age_hours": 8.617893582222221,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Medicaid suspends agency behind \u2018The Program,\u2019 citing \u2018credible\u2019 fraud allegations",
       "link": "https://www.coloradopolitics.com/2026/06/23/medicaid-suspends-agency-behind-the-program-citing-credible-fraud-allegations-3/",
       "source": "CO Politics",
       "pub_date": "2026-06-23T20:45:12+00:00",
-      "age_hours": 6.472519751388889,
+      "age_hours": 8.660923290555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Spring Sports All-Aurora 2026: State champs, abundant city talent come together on loaded All-Aurora Boys Swim Team",
       "link": "https://sentinelcolorado.com/sports/preps/boys-swimming/spring-sports-all-aurora-2026-state-champs-abundant-city-talent-come-together-on-loaded-all-aurora-boys-swim-team/",
       "source": "Sentinel",
       "pub_date": "2026-06-23T20:23:17+00:00",
-      "age_hours": 6.837820923888889,
+      "age_hours": 9.0262270375,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Invasive insect killing Ash trees in Denver, learn how to protect yours",
       "link": "https://kdvr.com/news/local/invasive-insect-killing-ash-trees-in-denver-learn-how-to-protect-yours/",
       "source": "Fox31",
       "pub_date": "2026-06-23T19:37:03+00:00",
-      "age_hours": 7.608149648888889,
+      "age_hours": 9.796553731666668,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Business Buzz: Colorado's emerging quantum frontier and the innovation needed for Denver's office market",
-      "link": "https://www.9news.com/article/money/business-brief/colorados-emerging-quantum-frontier-innovation-needed-denvers-office-market/73-f0d95c6e-a551-4ec4-b671-63609d48e2a5",
-      "source": "9News",
-      "pub_date": "2026-06-23T16:49:23+00:00",
-      "age_hours": 10.40232312138889,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Howell Construction Completes New Concorde Career College Campus",
       "link": "https://milehighcre.com/howell-construction-completes-new-concorde-career-college-campus/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-23T15:38:02+00:00",
-      "age_hours": 11.591213893333334,
+      "age_hours": 13.779706537222221,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver Rolls Out 90-day Review for Affordable Housing",
       "link": "https://milehighcre.com/denver-rolls-out-90-day-review-for-affordable-housing/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-23T15:27:30+00:00",
-      "age_hours": 11.766769465833333,
+      "age_hours": 13.955262110833333,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver Hospitality Pro to Build Dual-Brand Hilton Hotel at Vail Airport",
       "link": "https://milehighcre.com/denver-hospitality-pro-to-build-dual-brand-hilton-hotel-at-vail-airport/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-23T15:10:40+00:00",
-      "age_hours": 12.047325028888888,
+      "age_hours": 14.235817674444444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Iconic Denver arcade bar closes original location after 15 years",
       "link": "https://kdvr.com/news/local/iconic-denver-arcade-bar-closes-original-location-after-15-years/",
       "source": "Fox31",
       "pub_date": "2026-06-23T13:32:46+00:00",
-      "age_hours": 13.679538471388888,
+      "age_hours": 15.867942550555554,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Eastern Colorado farmers brace for worst wheat harvest since 1965",
       "link": "https://coloradosun.com/2026/06/23/wheat-harvest-eastern-colorado-drought/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-23T10:16:00+00:00",
-      "age_hours": 16.9585141525,
+      "age_hours": 19.146984584722222,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Author says universal child care should be as American as apple pie. And here\u2019s why.",
       "link": "https://www.cpr.org/2026/06/23/author-universal-child-care-american-values/",
       "source": "CPR",
       "pub_date": "2026-06-23T10:00:00+00:00",
-      "age_hours": 17.225345940833336,
+      "age_hours": 19.413816576666665,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Daly launches visibility firm Just Ask Dixie",
       "link": "https://bizwest.com/2026/06/22/daly-launches-visibility-firm-just-ask-dixie/",
       "source": "BizWest",
       "pub_date": "2026-06-23T02:16:15+00:00",
-      "age_hours": 24.953939581944443,
+      "age_hours": 27.142385694999998,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/06/22/senate-passes-bill-meant-to-curb-housing-costs-sending-to-house-for-final-approval/",
       "source": "CO Politics",
       "pub_date": "2026-06-22T23:51:08+00:00",
-      "age_hours": 27.37363095527778,
+      "age_hours": 29.562034479999998,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://milehighcre.com/confluent-sells-building-2-in-deer-creek-commerce-center/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-22T22:35:51+00:00",
-      "age_hours": 28.62760281388889,
+      "age_hours": 30.81609545972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://denverite.com/2026/06/22/wax-trax-stanley-marketplace-store/",
       "source": "Denverite",
       "pub_date": "2026-06-22T22:33:13+00:00",
-      "age_hours": 28.671685709722222,
+      "age_hours": 30.860153856111108,
       "breaking": false,
       "time_ago": "1 day ago"
     }
