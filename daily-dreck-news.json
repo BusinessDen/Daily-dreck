@@ -1,69 +1,87 @@
 {
   "fetched_date": "2026-06-25",
-  "fetched_at": "2026-06-25 17:50:37",
+  "fetched_at": "2026-06-25 18:50:20",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "In France\u2019s historic heat wave, Paris\u2019 dreamy rooftops become a heat-trapping nightmare",
+      "link": "https://sentinelcolorado.com/uncategorized/in-frances-historic-heat-wave-paris-dreamy-rooftops-become-a-heat-trapping-nightmare/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-25T18:28:15+00:00",
+      "age_hours": 0.3639738677777778,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Colorado justices agree fraud claims belong in corporate dispute",
+      "link": "https://www.coloradopolitics.com/2026/06/25/colorado-justices-agree-fraud-claims-belong-in-corporate-dispute/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-25T18:19:53+00:00",
+      "age_hours": 0.5033801994444445,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "Movers and Shakers Week Ending 06.26.26",
+      "link": "https://milehighcre.com/movers-and-shakers-week-ending-06-26-26/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-06-25T18:16:53+00:00",
+      "age_hours": 0.5523800291666667,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
     {
       "title": "Suspects in Montbello deadly shooting were breaking into car, shot owner: Police",
       "link": "https://kdvr.com/news/local/suspects-in-montbello-deadly-shooting-were-breaking-into-car-shot-owner-police/",
       "source": "Fox31",
       "pub_date": "2026-06-25T17:40:37+00:00",
-      "age_hours": 0.1626440583333333,
+      "age_hours": 1.1574001166666665,
       "breaking": true,
-      "time_ago": "9 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver first responders set reminder for safety this Independence Day",
       "link": "https://kdvr.com/news/denver-first-responders-set-reminder-for-safety-this-independence-day/",
       "source": "Fox31",
       "pub_date": "2026-06-25T16:24:05+00:00",
-      "age_hours": 1.4381997369444444,
+      "age_hours": 2.432955748888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Tempo Nine Mile Station in Aurora Reaches Stabilization",
       "link": "https://milehighcre.com/tempo-nine-mile-station-in-aurora-reaches-stabilization/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-25T16:19:23+00:00",
-      "age_hours": 1.5159339863888888,
+      "age_hours": 2.510713384722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colletta Vail Valley Now Open at The Westin Riverfront",
       "link": "https://milehighcre.com/colletta-vail-valley-now-open-at-the-westin-riverfront/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-25T14:43:40+00:00",
-      "age_hours": 3.1112117833333333,
+      "age_hours": 4.105991170833333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "What to do in Colorado this week: Blucifer\u2019s First Rodeo and UMS take over Denver stages",
       "link": "https://coloradosun.com/2026/06/25/whats-happening-blucifer-fest-underground-music-showcase/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-25T14:00:00+00:00",
-      "age_hours": 3.8390503575,
+      "age_hours": 4.8338121025000005,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Museum of Nature & Science Raises $32M\u00a0for Gems & Minerals Hall",
       "link": "https://milehighcre.com/denver-museum-of-nature-science-raises-32m-for-gems-minerals-hall/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-25T13:56:21+00:00",
-      "age_hours": 3.89982322,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Aurora moves ahead with push to enforce rental standards with new registration program",
-      "link": "https://sentinelcolorado.com/metro/aurora-moves-ahead-with-push-to-enforce-rental-standards-with-new-registration-program/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-25T13:15:44+00:00",
-      "age_hours": 4.577725527222222,
+      "age_hours": 4.894602528055556,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -72,117 +90,99 @@
       "link": "https://kdvr.com/news/local/i-25-southbound-closed-due-to-crash/",
       "source": "Fox31",
       "pub_date": "2026-06-25T11:26:48+00:00",
-      "age_hours": 6.392921901388888,
+      "age_hours": 7.387677937777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Can a giant robot glue gun help solve Colorado\u2019s housing crisis?",
       "link": "https://coloradosun.com/2026/06/25/azure-printed-homes-3d-technology-affordable-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-25T10:08:00+00:00",
-      "age_hours": 7.705718212222222,
+      "age_hours": 8.70047929611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Regulators cut Colorado oil and gas firms\u2019 fines to $2M after settlements",
       "link": "https://coloradosun.com/2026/06/25/regulators-cut-colorado-oil-and-gas-firms-fines-to-2m-after-settlements/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-25T10:00:00+00:00",
-      "age_hours": 7.839052293333333,
+      "age_hours": 8.833813163055556,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Aurora homeless shelter guests say they\u2019re paid below minimum wage for janitorial work",
       "link": "https://denverite.com/2026/06/25/aurora-homeless-shelter-below-minimum-wage/",
       "source": "Denverite",
       "pub_date": "2026-06-25T10:00:00+00:00",
-      "age_hours": 7.839159695555555,
+      "age_hours": 8.833915920277777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver\u2019s Eating Recovery Center opens new unit tailored to children ages 8 to 12",
       "link": "https://www.cpr.org/2026/06/25/eating-recovery-center-unit-for-younger-children/",
       "source": "CPR",
       "pub_date": "2026-06-25T10:00:00+00:00",
-      "age_hours": 7.839212206388889,
+      "age_hours": 8.834027438888889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "'Flat-out violation': Denver's police watchdog spars with safety department on sidestepping oversight process",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-police-watchdog-spars-with-safety-department-on-sidestepping-oversight-process/73-6d992869-fb3c-431f-bf5e-09172947f7f6",
       "source": "9News",
       "pub_date": "2026-06-25T05:06:01+00:00",
-      "age_hours": 12.738961155555556,
+      "age_hours": 13.733767884444443,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Amy Adams says she helped save a stabbing victim's life and credits short-lived TV role for medical training",
       "link": "https://www.9news.com/article/news/nation-world/amy-adams-saved-stabbing-victim-smartless-dr-vegas/507-fa23064f-b2c2-499c-b10f-b2547107ed22",
       "source": "9News",
       "pub_date": "2026-06-25T03:25:29+00:00",
-      "age_hours": 14.414516806666667,
+      "age_hours": 15.409323494166665,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "CU Denver to buy downtown\u2019s Independence Plaza at a big discount and with big plans",
       "link": "https://denverite.com/2026/06/24/cu-denver-buys-independence-plaza/",
       "source": "Denverite",
       "pub_date": "2026-06-25T01:27:11+00:00",
-      "age_hours": 16.386104212777777,
+      "age_hours": 17.380860416944444,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Three well-known downtown Denver businesses close",
       "link": "https://kdvr.com/news/local/three-well-known-downtown-denver-businesses-close/",
       "source": "Fox31",
       "pub_date": "2026-06-25T00:29:32+00:00",
-      "age_hours": 17.347366299444445,
+      "age_hours": 18.34212235388889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Gas prices, health, quality of life drive push for more Coloradans to trade four wheels for two, even if safety is a worry",
       "link": "https://www.cpr.org/2026/06/24/gas-prices-health-quality-of-life-bike-to-work-day/",
       "source": "CPR",
       "pub_date": "2026-06-25T00:25:09+00:00",
-      "age_hours": 17.42004561111111,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Impello Biosciences ramps up at Forge",
-      "link": "https://bizwest.com/2026/06/24/impello-biosciences-ramps-up-at-forge/",
-      "source": "BizWest",
-      "pub_date": "2026-06-24T23:25:42+00:00",
-      "age_hours": 18.41035536777778,
+      "age_hours": 18.414860819444442,
       "breaking": false,
       "time_ago": "18 hrs ago"
     },
     {
-      "title": "Rock Bottom shutters downtown Denver brewpub",
-      "link": "https://bizwest.com/2026/06/24/rock-bottom-shutters-downtown-denver-brewpub/",
-      "source": "BizWest",
-      "pub_date": "2026-06-24T22:45:00+00:00",
-      "age_hours": 19.088689306666666,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Homeless recruits of \u2018The Program\u2019 say they were told to sign NDAs amid investigations in Colorado",
-      "link": "https://www.coloradopolitics.com/2026/06/24/homeless-recruits-of-the-program-say-they-were-told-to-sign-ndas-amid-investigations-in-colorado/",
+      "title": "Douglas County water plan entering public review phase",
+      "link": "https://www.coloradopolitics.com/2026/06/24/douglas-county-water-plan-entering-public-review-phase/",
       "source": "CO Politics",
-      "pub_date": "2026-06-24T22:35:58+00:00",
-      "age_hours": 19.240479077777778,
+      "pub_date": "2026-06-25T00:09:43+00:00",
+      "age_hours": 18.672824735,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
