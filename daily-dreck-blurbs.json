@@ -1,15 +1,15 @@
 {
-  "generated_date": "2026-06-24",
-  "lead_headline": "Three new spots open today: Tavern on Blake Street returns after $1M renovations, Swiss chocolatier L\u00e4derach lands at Cherry Creek, and Miya Moon expands Chinese tapas to Baker",
+  "generated_date": "2026-06-25",
+  "lead_headline": "Ciao Babe debuts Italian street food at Avanti today, while Blazing Bird expands to East Colfax and 1up Arcade Bar closes LoDo after 15 years",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 leads today</strong>: Tavern on Blake Street (Five Points sports bar reopening after $1M+ repairs), L\u00e4derach (Cherry Creek Swiss chocolate), Miya Moon (Baker Chinese tapas). Week's 242 active leads: 129 openings, 113 closures.",
+      "blurb": "<strong>3 leads today</strong>: Ciao Babe (Highland Italian at Avanti), Blazing Bird East Colfax (8th Colorado hot chicken spot), Dairy Queen Littleton (Fort Logan closure). Week's 242 active leads: 129 openings, 113 closures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "0",
+        "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "43",
+        "value1": "47",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,12 +43,12 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Tenth consecutive zero-application day</strong> pushes statewide freeze to 27 days\u2014<strong>7-day total frozen at 369 licenses</strong>, all timestamped June 14 during lone backlog release. June's count locked at 369 against typical 800+ monthly baseline. No new filings, status changes, or removals since mid-month checkpoint. System paralysis now unprecedented in dataset history, indicating structural overhaul rather than administrative backlog or seasonal lull.",
+      "blurb": "<strong>Eleventh straight zero-application day</strong> extends statewide freeze to 28 days\u2014<strong>7-day total remains locked at 369 licenses</strong>, all June 14 timestamps from backlog dump. No new filings, status changes, or removals since mid-month. June's count frozen at 369 against 800+ monthly norm. System shutdown now longest in dataset, signaling infrastructure crisis beyond routine delays.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>+9 mentions yesterday</strong> break four-day silence, lifting <strong>7-day count to 53 across 15 sources</strong>\u2014flat week-over-week at 53. Denver Post holds 17 citations (32% share), tracking 1up LoDo closure and Rock Bottom's 35-year run ending. Facebook added 12, mystery domain and Reddit tied at 4 each, Hoodline contributed 2. Monthly tally climbs to 198 with week remaining. Google News RSS captured 52 of 53 discoveries (98% rate), maintaining dominant pipeline position.",
+      "blurb": "<strong>+5 mentions yesterday</strong> hold steady at mid-week pace, keeping <strong>7-day total at 47 across 12 sources</strong>\u2014down 22% from prior week's 60. Facebook leads with 17 citations (36% share), Denver Post follows with 10, Hoodline and mystery domain tied at 4 each, Reddit added 3. Week featured 1up closure coverage and Yoshi Cocktail Bar planning stories. Monthly count hits 203 with week remaining. Google News RSS captured 44 of 47 discoveries (94%).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "9",
-        "class1": "up",
+        "value1": "5",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "53",
-        "class1": "",
+        "value1": "47",
+        "class1": "down",
         "label2": "sources",
-        "value2": "15",
+        "value2": "12",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends dormant stretch to fifth consecutive day, holding <strong>MTD at +25 (+1.1/day)</strong> and <strong>90-day net at +131</strong>. Last two weeks show split pattern: June 11-18 surge delivered +16 net (23 new, 7 canceled), while June 19-23 freeze produced just +1 net (1 new, 0 canceled). Five-day stall unusual against June's early momentum, though MTD pace (+1.1/day) tracks near YTD baseline (+1.2/day) as month enters final stretch.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks sixth consecutive zero day, holding <strong>MTD at +25 (+1.0/day)</strong> and <strong>90-day net at +131</strong>. Extended June 19-24 freeze (just +1 net across six days) follows strong June 11-18 run that delivered +16 net. Six-day dormancy unusual but MTD pace still tracks near YTD baseline (+1.2/day) as month closes.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "25",
       "net_ytd": "214",
-      "net_mtd_per_day": "1.1",
+      "net_mtd_per_day": "1.0",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "20",
-      "annual_ytd": "171",
-      "monthly_mtd": "5",
-      "monthly_ytd": "43"
+      "annual_mtd": "18",
+      "annual_ytd": "156",
+      "monthly_mtd": "7",
+      "monthly_ytd": "58"
     }
   }
 }
