@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-06-25",
-  "lead_headline": "Ciao Babe debuts Italian street food at Avanti today, while Blazing Bird expands to East Colfax and 1up Arcade Bar closes LoDo after 15 years",
+  "generated_date": "2026-06-26",
+  "lead_headline": "Rising Phoenix takes over Tavern Lowry space as Kokopelli Social Bar opens shipping-container concept in Westminster",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 leads today</strong>: Ciao Babe (Highland Italian at Avanti), Blazing Bird East Colfax (8th Colorado hot chicken spot), Dairy Queen Littleton (Fort Logan closure). Week's 242 active leads: 129 openings, 113 closures.",
+      "blurb": "<strong>4 leads today</strong>: Rising Phoenix Restaurant (Lowry American), Kokopelli Social Bar (Westminster shipping-container concept), Blazing Bird East Colfax (under construction), DQ Littleton (Fort Logan still closed). Active: 136 openings, 117 closures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+3",
         "label2": "closed",
         "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "129",
+        "value1": "136",
         "label2": "closed",
-        "value2": "113",
+        "value2": "117",
         "period": "all leads"
       }
     },
@@ -28,13 +28,13 @@
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "0",
+        "value2": "1",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "47",
+        "value1": "58",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,51 +43,51 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Eleventh straight zero-application day</strong> extends statewide freeze to 28 days\u2014<strong>7-day total remains locked at 369 licenses</strong>, all June 14 timestamps from backlog dump. No new filings, status changes, or removals since mid-month. June's count frozen at 369 against 800+ monthly norm. System shutdown now longest in dataset, signaling infrastructure crisis beyond routine delays.",
+      "blurb": "<strong>Twelfth consecutive zero day</strong> pushes statewide freeze to 29 days total\u2014<strong>7-day count unchanged at 369 licenses</strong>, all still timestamped June 14 from original backlog release. No new applications, status updates, or removals since mid-month shutdown began. System paralysis now spans nearly full month against 800+ monthly baseline. Infrastructure failure extends beyond typical processing lag.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "0",
-        "class1": "down",
+        "value1": "369",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>+5 mentions yesterday</strong> hold steady at mid-week pace, keeping <strong>7-day total at 47 across 12 sources</strong>\u2014down 22% from prior week's 60. Facebook leads with 17 citations (36% share), Denver Post follows with 10, Hoodline and mystery domain tied at 4 each, Reddit added 3. Week featured 1up closure coverage and Yoshi Cocktail Bar planning stories. Monthly count hits 203 with week remaining. Google News RSS captured 44 of 47 discoveries (94%).",
+      "blurb": "<strong>+11 mentions yesterday</strong> jump 120% above Wednesday's +5, lifting <strong>7-day total to 51 across 11 sources</strong>\u2014down just 6% from prior week's 54. Facebook dominates with 17 citations (33% share), Reddit adds 7, Denver Post and Hoodline tie at 6 each, X contributes 4. CU Independence Plaza discount story led coverage, followed by RiNo venue closures. Monthly count reaches 210. Google News RSS delivered 48 of 51 captures (94%).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "5",
-        "class1": "",
+        "value1": "11",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "47",
+        "value1": "51",
         "class1": "down",
         "label2": "sources",
-        "value2": "12",
+        "value2": "11",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) marks sixth consecutive zero day, holding <strong>MTD at +25 (+1.0/day)</strong> and <strong>90-day net at +131</strong>. Extended June 19-24 freeze (just +1 net across six days) follows strong June 11-18 run that delivered +16 net. Six-day dormancy unusual but MTD pace still tracks near YTD baseline (+1.2/day) as month closes.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends dormancy to seven straight zero days, holding <strong>MTD at +25 (+1.0/day)</strong> and <strong>90-day net at +131</strong>. Current June 19-25 freeze (just +1 net across seven days) contrasts sharply with robust June 11-18 stretch that delivered +16 net. Seven-day standstill unusual, but MTD pace still aligns with YTD baseline of +1.2/day as month closes.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "25",
       "net_ytd": "214",
       "net_mtd_per_day": "1.0",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "18",
-      "annual_ytd": "156",
-      "monthly_mtd": "7",
-      "monthly_ytd": "58"
+      "annual_mtd": "20",
+      "annual_ytd": "171",
+      "monthly_mtd": "5",
+      "monthly_ytd": "43"
     }
   }
 }
