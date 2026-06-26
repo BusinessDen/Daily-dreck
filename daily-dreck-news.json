@@ -1,69 +1,60 @@
 {
   "fetched_date": "2026-06-26",
-  "fetched_at": "2026-06-26 19:36:10",
+  "fetched_at": "2026-06-26 20:38:29",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Trump threatens 100% tax on European imports if countries impose tax on digital services",
+      "link": "https://sentinelcolorado.com/sentinel-biz-news/trump-threatens-100-tax-on-european-imports-if-countries-impose-tax-on-digital-services/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-26T20:33:49+00:00",
+      "age_hours": 0.07426848333333333,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
     {
       "title": "Listen: Denver\u2019s mile-high mark is moving \u2014 again",
       "link": "https://www.cpr.org/2026/06/26/denver-mile-high-marker-moving/",
       "source": "CPR",
       "pub_date": "2026-06-26T18:25:17+00:00",
-      "age_hours": 1.177272226111111,
+      "age_hours": 2.2157028333333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Ex-Arby's manager accused of infecting customer with herpes after 'intentionally' spitting on food, lawsuit says",
       "link": "https://www.9news.com/article/news/nation-world/ex-arbys-manager-lawsuit-accused-of-spreading-herpes-spitting-in-food/507-43874b69-5e5d-45d1-82de-cc2fa98c5e0a",
       "source": "9News",
       "pub_date": "2026-06-26T18:04:38+00:00",
-      "age_hours": 1.5215331433333332,
+      "age_hours": 2.5599312430555554,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Werner: Half of what AI says about Northern Colorado is wrong",
       "link": "https://bizwest.com/2026/06/26/werner-half-of-what-ai-says-about-northern-colorado-is-wrong/",
       "source": "BizWest",
       "pub_date": "2026-06-26T17:02:30+00:00",
-      "age_hours": 2.556259915833333,
+      "age_hours": 3.5945675974999998,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Trio added to Community Foundation Boulder County board",
       "link": "https://bizwest.com/2026/06/26/trio-added-to-community-foundation-boulder-county-board/",
       "source": "BizWest",
       "pub_date": "2026-06-26T16:59:46+00:00",
-      "age_hours": 2.601816154166667,
+      "age_hours": 3.6401241705555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Former Longmont Walmart site sells for nearly $7.6M",
       "link": "https://bizwest.com/2026/06/26/former-longmont-walmart-site-sells-for-nearly-7-6m/",
       "source": "BizWest",
       "pub_date": "2026-06-26T16:57:38+00:00",
-      "age_hours": 2.6373717605555558,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Spring Sports All-Aurora 2026: State runner-up Cherokee Trail plus Eaglecrest heavy in mix of All-Aurora Boys Track Team",
-      "link": "https://sentinelcolorado.com/sports/preps/track-field/spring-sports-all-aurora-2026-state-runner-up-cherokee-trail-plus-eaglecrest-heavy-in-mix-of-all-aurora-boys-track-team/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-26T16:24:39+00:00",
-      "age_hours": 3.1884479336111107,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Spring Sports All-Aurora 2026: Full Aurora Sentinel All-Aurora Boys Track Team",
-      "link": "https://sentinelcolorado.com/sports/preps/track-field/spring-sports-all-aurora-2026-full-aurora-sentinel-all-aurora-boys-track-team/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-26T16:18:37+00:00",
-      "age_hours": 3.2890038080555555,
+      "age_hours": 3.6756798,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -72,117 +63,126 @@
       "link": "https://kdvr.com/news/local/rocky-mountain-childrens-receives-nintendo-switch-consoles-for-pediatric-patients/",
       "source": "Fox31",
       "pub_date": "2026-06-26T14:07:56+00:00",
-      "age_hours": 5.466778503055556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.505185224444445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "United Way of Weld County cuts staff, restructures",
       "link": "https://bizwest.com/2026/06/26/united-way-of-weld-county-cuts-staff-restructures/",
       "source": "BizWest",
       "pub_date": "2026-06-26T14:00:29+00:00",
-      "age_hours": 5.589871769999999,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.628179811111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Takeover reports send Vail Resorts stock up as CEO Rob Katz defends network of 42 ski areas as \u201cthe heart of our business model\u201d",
       "link": "https://coloradosun.com/2026/06/26/takeover-reports-vail-resorts-stock/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-26T10:00:00+00:00",
-      "age_hours": 9.598514601944444,
+      "age_hours": 10.63694273388889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Melat Kiros may be on the verge of unseating Diana DeGette. Here\u2019s how that came to be.",
       "link": "https://coloradosun.com/2026/06/26/melat-kiros-diana-degette-race-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-26T10:00:00+00:00",
-      "age_hours": 9.598515125277778,
+      "age_hours": 10.636943370555556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver police move from \u2018discipline\u2019 to \u2018development\u2019 for many officer infractions",
       "link": "https://denverite.com/2026/06/26/denver-police-move-from-discipline-to-development-for-most-officer-infractions/",
       "source": "Denverite",
       "pub_date": "2026-06-26T10:00:00+00:00",
-      "age_hours": 9.598597884166667,
+      "age_hours": 10.637040188611111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Boulder aerospace consulting firm Flatirons Solutions makes acquisition",
       "link": "https://bizwest.com/2026/06/25/boulder-aerospace-consulting-firm-flatirons-solutions-makes-acquisition/",
       "source": "BizWest",
       "pub_date": "2026-06-25T23:07:56+00:00",
-      "age_hours": 20.465705148333335,
+      "age_hours": 21.504013207222222,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Power-washing company launches for commercial market",
       "link": "https://bizwest.com/2026/06/25/power-washing-company-launches-for-commercial-market/",
       "source": "BizWest",
       "pub_date": "2026-06-25T23:04:18+00:00",
-      "age_hours": 20.526260745833333,
+      "age_hours": 21.564568824722222,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Arrest made in fatal Easter Sunday shooting at Russell Square Park",
       "link": "https://kdvr.com/news/local/arrest-made-in-fatal-easter-sunday-shooting-at-russell-square-park/",
       "source": "Fox31",
       "pub_date": "2026-06-25T23:01:14+00:00",
-      "age_hours": 20.57844511861111,
+      "age_hours": 21.616851831944444,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "RTD to reconsider service priorities as cuts, budget deficit loom",
       "link": "https://www.coloradopolitics.com/2026/06/25/rtd-to-reconsider-service-priorities-as-cuts-budget-deficit-loom/",
       "source": "CO Politics",
       "pub_date": "2026-06-25T22:43:29+00:00",
-      "age_hours": 20.874525239722225,
+      "age_hours": 21.913081896944444,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Johnstown agrees to continue YMCA contract",
       "link": "https://bizwest.com/2026/06/25/johnstown-agrees-to-continue-ymca-contract/",
       "source": "BizWest",
       "pub_date": "2026-06-25T20:46:52+00:00",
-      "age_hours": 22.816816339166664,
+      "age_hours": 23.855124438333334,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Fish-and-chips food truckers to open Johnstown restaurant",
       "link": "https://bizwest.com/2026/06/25/fish-and-chips-food-truckers-to-open-johnstown-restaurant/",
       "source": "BizWest",
       "pub_date": "2026-06-25T20:43:58+00:00",
-      "age_hours": 22.865149708055554,
+      "age_hours": 23.9034578275,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Colorado health officials say federal budget adds pressure to already stressed system",
       "link": "https://www.coloradopolitics.com/2026/06/25/colorado-health-officials-say-federal-budget-adds-pressure-to-already-stressed-system/",
       "source": "CO Politics",
       "pub_date": "2026-06-25T20:37:23+00:00",
-      "age_hours": 22.976191922500004,
+      "age_hours": 24.014748581666666,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Modular Affordable Housing Project Marks Major Milestone",
       "link": "https://milehighcre.com/modular-affordable-housing-project-marks-major-milestone/",
       "source": "Mile High CRE",
       "pub_date": "2026-06-25T20:33:57+00:00",
-      "age_hours": 23.03259631611111,
+      "age_hours": 24.071008043888888,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Court snuffs out challenge to Denver\u2019s flavored tobacco ban",
+      "link": "https://www.coloradopolitics.com/2026/06/25/court-snuffs-out-challenge-to-denvers-flavored-tobacco-ban/",
+      "source": "CO Politics",
+      "pub_date": "2026-06-25T18:31:44+00:00",
+      "age_hours": 26.108915355833332,
+      "breaking": false,
+      "time_ago": "1 day ago"
     }
   ]
 }
