@@ -1,87 +1,96 @@
 {
   "fetched_date": "2026-06-27",
-  "fetched_at": "2026-06-27 21:27:22",
+  "fetched_at": "2026-06-27 22:26:44",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Man shot and killed by Arapahoe County deputies Saturday after assaulting officer",
+      "link": "https://sentinelcolorado.com/metro/man-shot-and-killed-by-arapahoe-county-deputies-saturday-after-assaulting-officer/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-27T22:03:41+00:00",
+      "age_hours": 0.38026334972222225,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
     {
       "title": "Denver police issue fraud caution after sextortion scam",
       "link": "https://kdvr.com/news/local/denver-police-issue-fraud-caution-after-sextortion-scam/",
       "source": "Fox31",
       "pub_date": "2026-06-27T17:50:36+00:00",
-      "age_hours": 3.6089841163888887,
+      "age_hours": 4.597915147222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "What\u2019s Working: In Fraser, the arts \u2014 and a sprawling new arts center \u2014 become the town\u2019s identity",
       "link": "https://coloradosun.com/2026/06/27/fraser-arts-center-economic-development/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-27T10:00:00+00:00",
-      "age_hours": 11.451857748333333,
+      "age_hours": 12.440706869166666,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Every opening and closing this week: RIP to Magna Kainan and the original 1UP",
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-and-closings-40903856/",
       "source": "Westword",
       "pub_date": "2026-06-27T07:12:52-06:00",
-      "age_hours": 8.237970414444444,
+      "age_hours": 9.226937247777776,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Xcel asks mother dead Buffs QB to pay for damage to utility pole",
       "link": "https://bizwest.com/2026/06/26/xcel-asks-mother-dead-buffs-qb-to-pay-for-damage-to-utility-pole/",
       "source": "BizWest",
       "pub_date": "2026-06-27T00:42:00+00:00",
-      "age_hours": 20.751489442222223,
+      "age_hours": 21.740223020555558,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Denver skateshop files for bankruptcy, closes Boulder store",
       "link": "https://bizwest.com/2026/06/26/denver-skateshop-files-for-bankruptcy-closes-boulder-store/",
       "source": "BizWest",
       "pub_date": "2026-06-27T00:40:00+00:00",
-      "age_hours": 20.784823384722223,
+      "age_hours": 21.773557264444445,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "DPS marks largest group yet for concurrent enrollment summer school",
       "link": "https://www.9news.com/article/news/education/dps-concurrent-enrollment-summer-school/73-fca4b4d7-cf08-49b3-af9b-d36ef144f3df",
       "source": "9News",
       "pub_date": "2026-06-26T23:10:54+00:00",
-      "age_hours": 22.270419831944444,
+      "age_hours": 23.259281300555553,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Denver family's street sweeping ticket sparks frustration with city's dispute process changes",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-parking-ticket-dispute-process/73-2c688efd-db38-4e06-822c-8d8b108510ee",
       "source": "9News",
       "pub_date": "2026-06-26T23:08:32+00:00",
-      "age_hours": 22.309864326944442,
+      "age_hours": 23.298725797777777,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Who\u2019s spending in Colorado to get your vote?",
       "link": "https://www.coloradopolitics.com/2026/06/26/whos-spending-in-colorado-to-get-your-vote/",
       "source": "CO Politics",
       "pub_date": "2026-06-26T22:04:49+00:00",
-      "age_hours": 23.372328171388887,
+      "age_hours": 24.36130571972222,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Third arrest made in child beating death of 4-year-old boy in Aurora",
       "link": "https://sentinelcolorado.com/metro/third-arrest-made-in-child-beating-death-of-4-year-old-boy-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-06-26T21:01:47+00:00",
-      "age_hours": 24.422910840277776,
+      "age_hours": 25.41193031611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://bizwest.com/2026/06/26/disaster-company-seeks-liquidation-relief-from-15m-in-claims/",
       "source": "BizWest",
       "pub_date": "2026-06-26T20:59:00+00:00",
-      "age_hours": 24.46815675361111,
+      "age_hours": 25.456890653333332,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/06/26/pizza-hut-opens-new-westminster-location/",
       "source": "BizWest",
       "pub_date": "2026-06-26T20:51:33+00:00",
-      "age_hours": 24.59232345194444,
+      "age_hours": 25.581057373055554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://sentinelcolorado.com/sentinel-biz-news/trump-threatens-100-tax-on-european-imports-if-countries-impose-tax-on-digital-services/",
       "source": "Sentinel",
       "pub_date": "2026-06-26T20:33:49+00:00",
-      "age_hours": 24.889022291111115,
+      "age_hours": 25.8780417625,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://www.cpr.org/2026/06/26/denver-mile-high-marker-moving/",
       "source": "CPR",
       "pub_date": "2026-06-26T18:25:17+00:00",
-      "age_hours": 27.030623633055555,
+      "age_hours": 28.019492268333334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://bizwest.com/2026/06/26/werner-half-of-what-ai-says-about-northern-colorado-is-wrong/",
       "source": "BizWest",
       "pub_date": "2026-06-26T17:02:30+00:00",
-      "age_hours": 28.409823458055556,
+      "age_hours": 29.398557383055554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/06/26/trio-added-to-community-foundation-boulder-county-board/",
       "source": "BizWest",
       "pub_date": "2026-06-26T16:59:46+00:00",
-      "age_hours": 28.455379046388888,
+      "age_hours": 29.444112989999997,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/06/26/former-longmont-walmart-site-sells-for-nearly-7-6m/",
       "source": "BizWest",
       "pub_date": "2026-06-26T16:57:38+00:00",
-      "age_hours": 28.49093463472222,
+      "age_hours": 29.479668606666664,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/06/26/united-way-of-weld-county-cuts-staff-restructures/",
       "source": "BizWest",
       "pub_date": "2026-06-26T14:00:29+00:00",
-      "age_hours": 31.44343464027778,
+      "age_hours": 32.432168616388886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.bisnow.com/denver/news/deal-sheet/university-receives-dda-funding-to-build-innovation-hub-denver-deal-sheet-135208",
       "source": "Bisnow",
       "pub_date": "2026-06-26T13:34:15-04:00",
-      "age_hours": 27.88082492361111,
+      "age_hours": 28.869593404999996,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://coloradosun.com/2026/06/26/takeover-reports-vail-resorts-stock/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-26T10:00:00+00:00",
-      "age_hours": 35.451857833055556,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Melat Kiros may be on the verge of unseating Diana DeGette. Here\u2019s how that came to be.",
-      "link": "https://coloradosun.com/2026/06/26/melat-kiros-diana-degette-race-colorado/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-26T10:00:00+00:00",
-      "age_hours": 35.45185851222222,
+      "age_hours": 36.44070696055555,
       "breaking": false,
       "time_ago": "1 day ago"
     }
