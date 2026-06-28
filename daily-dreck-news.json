@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-06-28",
-  "fetched_at": "2026-06-28 01:49:42",
+  "fetched_at": "2026-06-28 03:15:05",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Grass fire near Denver airport grows to more than 200 acres",
+      "link": "https://www.9news.com/article/news/local/wildfire/grass-fire-near-denver-international-airport/73-6310bdca-ac9b-4845-afa9-b096af83a9e1",
+      "source": "9News",
+      "pub_date": "2026-06-28T02:05:28+00:00",
+      "age_hours": 1.1560400574999998,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Man shot and killed by Arapahoe County deputies Saturday after assaulting officer",
       "link": "https://sentinelcolorado.com/metro/man-shot-and-killed-by-arapahoe-county-deputies-saturday-after-assaulting-officer/",
       "source": "Sentinel",
       "pub_date": "2026-06-27T22:03:41+00:00",
-      "age_hours": 3.763112343611111,
+      "age_hours": 5.186406949999999,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "What\u2019s Working: In Fraser, the arts \u2014 and a sprawling new arts center \u2014 become the town\u2019s identity",
       "link": "https://coloradosun.com/2026/06/27/fraser-arts-center-economic-development/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-27T10:00:00+00:00",
-      "age_hours": 15.823647553611112,
+      "age_hours": 17.246893980555555,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Every opening and closing this week: RIP to Magna Kainan and the original 1UP",
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-and-closings-40903856/",
       "source": "Westword",
       "pub_date": "2026-06-27T07:12:52-06:00",
-      "age_hours": 12.609891989444444,
+      "age_hours": 14.0331258275,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Xcel asks mother dead Buffs QB to pay for damage to utility pole",
       "link": "https://bizwest.com/2026/06/26/xcel-asks-mother-dead-buffs-qb-to-pay-for-damage-to-utility-pole/",
       "source": "BizWest",
       "pub_date": "2026-06-27T00:42:00+00:00",
-      "age_hours": 25.123039227777777,
+      "age_hours": 26.546157719999997,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://bizwest.com/2026/06/26/denver-skateshop-files-for-bankruptcy-closes-boulder-store/",
       "source": "BizWest",
       "pub_date": "2026-06-27T00:40:00+00:00",
-      "age_hours": 25.156373160555553,
+      "age_hours": 26.579491645833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,16 +63,7 @@
       "link": "https://www.9news.com/article/news/education/dps-concurrent-enrollment-summer-school/73-fca4b4d7-cf08-49b3-af9b-d36ef144f3df",
       "source": "9News",
       "pub_date": "2026-06-26T23:10:54+00:00",
-      "age_hours": 26.642282408055557,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver family's street sweeping ticket sparks frustration with city's dispute process changes",
-      "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-parking-ticket-dispute-process/73-2c688efd-db38-4e06-822c-8d8b108510ee",
-      "source": "9News",
-      "pub_date": "2026-06-26T23:08:32+00:00",
-      "age_hours": 26.68172689888889,
+      "age_hours": 28.065484682222223,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://www.coloradopolitics.com/2026/06/26/whos-spending-in-colorado-to-get-your-vote/",
       "source": "CO Politics",
       "pub_date": "2026-06-26T22:04:49+00:00",
-      "age_hours": 27.744188025,
+      "age_hours": 29.167473538055557,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://sentinelcolorado.com/metro/third-arrest-made-in-child-beating-death-of-4-year-old-boy-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-06-26T21:01:47+00:00",
-      "age_hours": 28.79477926277778,
+      "age_hours": 30.21807393888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://bizwest.com/2026/06/26/disaster-company-seeks-liquidation-relief-from-15m-in-claims/",
       "source": "BizWest",
       "pub_date": "2026-06-26T20:59:00+00:00",
-      "age_hours": 28.839706531111112,
+      "age_hours": 30.26282501388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://bizwest.com/2026/06/26/pizza-hut-opens-new-westminster-location/",
       "source": "BizWest",
       "pub_date": "2026-06-26T20:51:33+00:00",
-      "age_hours": 28.963873230555553,
+      "age_hours": 30.386991711944447,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://sentinelcolorado.com/sentinel-biz-news/trump-threatens-100-tax-on-european-imports-if-countries-impose-tax-on-digital-services/",
       "source": "Sentinel",
       "pub_date": "2026-06-26T20:33:49+00:00",
-      "age_hours": 29.260890674444447,
+      "age_hours": 30.684185341388886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://www.cpr.org/2026/06/26/denver-mile-high-marker-moving/",
       "source": "CPR",
       "pub_date": "2026-06-26T18:25:17+00:00",
-      "age_hours": 31.40234356611111,
+      "age_hours": 32.825697946666665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://bizwest.com/2026/06/26/werner-half-of-what-ai-says-about-northern-colorado-is-wrong/",
       "source": "BizWest",
       "pub_date": "2026-06-26T17:02:30+00:00",
-      "age_hours": 32.78137323666667,
+      "age_hours": 34.20449171777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/06/26/trio-added-to-community-foundation-boulder-county-board/",
       "source": "BizWest",
       "pub_date": "2026-06-26T16:59:46+00:00",
-      "age_hours": 32.82692882361111,
+      "age_hours": 34.25004730305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://bizwest.com/2026/06/26/former-longmont-walmart-site-sells-for-nearly-7-6m/",
       "source": "BizWest",
       "pub_date": "2026-06-26T16:57:38+00:00",
-      "age_hours": 32.86248441222222,
+      "age_hours": 34.2856029075,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/06/26/united-way-of-weld-county-cuts-staff-restructures/",
       "source": "BizWest",
       "pub_date": "2026-06-26T14:00:29+00:00",
-      "age_hours": 35.81498441722222,
+      "age_hours": 37.23810291805555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.bisnow.com/denver/news/deal-sheet/university-receives-dda-funding-to-build-innovation-hub-denver-deal-sheet-135208",
       "source": "Bisnow",
       "pub_date": "2026-06-26T13:34:15-04:00",
-      "age_hours": 32.252566458888886,
+      "age_hours": 33.67577305305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://coloradosun.com/2026/06/26/takeover-reports-vail-resorts-stock/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-26T10:00:00+00:00",
-      "age_hours": 39.823647618888884,
+      "age_hours": 41.246894051111106,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://coloradosun.com/2026/06/26/melat-kiros-diana-degette-race-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-26T10:00:00+00:00",
-      "age_hours": 39.823648255,
+      "age_hours": 41.2468947,
       "breaking": false,
       "time_ago": "1 day ago"
     }
