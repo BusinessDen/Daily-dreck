@@ -1,24 +1,15 @@
 {
   "fetched_date": "2026-06-29",
-  "fetched_at": "2026-06-29 20:40:45",
+  "fetched_at": "2026-06-29 21:34:04",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 10,
   "articles": [
-    {
-      "title": "Koelbel Celebrates Opening of King Soopers in Louisville",
-      "link": "https://milehighcre.com/koelbel-celebrates-opening-of-king-soopers-in-louisville/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-29T19:40:50+00:00",
-      "age_hours": 0.9936021275,
-      "breaking": true,
-      "time_ago": "59 min ago"
-    },
     {
       "title": "Wildfire smoke, ozone hammer Colorado air quality",
       "link": "https://coloradosun.com/2026/06/29/colorado-air-quality-smoke-ozone/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-29T19:36:45+00:00",
-      "age_hours": 1.061746168888889,
+      "age_hours": 1.9515824730555555,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -27,162 +18,171 @@
       "link": "https://bizwest.com/2026/06/29/tayer-tipped-minimum-wage-whose-burden-is-it/",
       "source": "BizWest",
       "pub_date": "2026-06-29T19:31:27+00:00",
-      "age_hours": 1.1495232105555555,
+      "age_hours": 2.0354565680555554,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Louisville investor Real Capital Solutions enters Atlanta office market with $50M buy",
       "link": "https://bizwest.com/2026/06/29/louisville-investor-real-capital-solutions-enters-atlanta-office-market-with-50m-buy/",
       "source": "BizWest",
       "pub_date": "2026-06-29T19:25:15+00:00",
-      "age_hours": 1.2528571411111111,
+      "age_hours": 2.138790426111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Ex-Oracle EVP joins JumpCloud board",
       "link": "https://bizwest.com/2026/06/29/ex-oracle-evp-joins-jumpcloud-board/",
       "source": "BizWest",
       "pub_date": "2026-06-29T19:21:55+00:00",
-      "age_hours": 1.3084127052777779,
+      "age_hours": 2.1943459902777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Area higher ed hailed for meeting students\u2019 basic needs",
       "link": "https://bizwest.com/2026/06/29/area-higher-ed-hailed-for-meeting-students-basic-needs/",
       "source": "BizWest",
       "pub_date": "2026-06-29T19:19:01+00:00",
-      "age_hours": 1.3567460663888888,
+      "age_hours": 2.242679351388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Business Buzz: Colorado auto sales slump and the rural healthcare squeeze",
       "link": "https://www.9news.com/article/money/business-brief/business-buzz-auto-sales-slump-rural-healthcare-squeeze/73-11896e92-7d27-4843-bc5b-eacb83afbdb4",
       "source": "9News",
       "pub_date": "2026-06-29T17:46:37+00:00",
-      "age_hours": 2.8978176430555553,
+      "age_hours": 3.7873548302777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado Supreme Court rejects Democrats\u2019 ballot measures asking voters to redraw state\u2019s congressional map",
       "link": "https://coloradosun.com/2026/06/29/colorado-supreme-court-rejects-democrat-redistricting-plan-initiative-240/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-29T17:10:32+00:00",
-      "age_hours": 3.498691121666667,
+      "age_hours": 4.388527444166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Smalls Sliders Continues Colorado Growth with Johnstown Can Drop",
-      "link": "https://milehighcre.com/smalls-sliders-continues-colorado-growth-with-johnstown-can-drop/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-29T16:47:23+00:00",
-      "age_hours": 3.884435478888889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Inside two Title IX investigations in Colorado that reflect a \u2018new way of doing business\u2019 under Trump",
       "link": "https://www.cpr.org/2026/06/29/title-ix-investigation-denver-jeffco-schools/",
       "source": "CPR",
       "pub_date": "2026-06-29T16:11:23+00:00",
-      "age_hours": 4.484959079166667,
+      "age_hours": 5.374463640555556,
       "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "New fires spark in southern Colorado as crews fight flames in extremely dangerous weather conditions",
-      "link": "https://coloradosun.com/2026/06/29/southern-colorado-fires-red-flag-warnings-monday/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-29T16:06:21+00:00",
-      "age_hours": 4.568413813611111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "New laws go into effect this week in Colorado",
       "link": "https://www.9news.com/article/news/local/local-politics/new-colorado-laws-july-2026/73-ca37d727-c445-4be1-9563-98be59079a2a",
       "source": "9News",
       "pub_date": "2026-06-29T12:29:09+00:00",
-      "age_hours": 8.188928845555555,
+      "age_hours": 9.078466031666666,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Don\u2019t Cry: Denver\u2019s hottest ice cream brand announces new brick-and-mortar location",
       "link": "https://www.westword.com/food-drink/popular-ice-cream-brand-sadboy-creamery-opening-east-colfax-shop-40905800/",
       "source": "Westword",
       "pub_date": "2026-06-29T11:59:51-06:00",
-      "age_hours": 2.677585861388889,
+      "age_hours": 3.56725187,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "New Denver flight launching to the Caribbean",
       "link": "https://www.9news.com/article/travel/denver-international-airport/new-denver-flight-launching-to-the-caribbean/73-9807f0b9-81a8-4f02-8460-dd4d74f1c2d6",
       "source": "9News",
       "pub_date": "2026-06-29T11:52:40+00:00",
-      "age_hours": 8.796984450555556,
+      "age_hours": 9.686521639166667,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Cannabis calendar: Red, white and blue (and sticky green)",
       "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
       "source": "Westword",
       "pub_date": "2026-06-29T11:45:00-06:00",
-      "age_hours": 2.9250860341666667,
+      "age_hours": 3.814752008333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Here\u2019s what it costs to run a daycare in Colorado\u2019s most expensive county",
       "link": "https://coloradosun.com/2026/06/29/boulder-county-early-childcare-costs/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-29T10:21:00+00:00",
-      "age_hours": 10.32424772,
+      "age_hours": 11.21408352138889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Could a new Denver data center use up to 800,000 gallons of water a day?",
       "link": "https://coloradosun.com/2026/06/29/denver-data-center-contoversy/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-29T10:01:00+00:00",
-      "age_hours": 10.657581085555556,
+      "age_hours": 11.54741689138889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado PERA to recommend changes to investment staff bonuses: \u201cWe don\u2019t want to be an outlier.\u201d",
       "link": "https://coloradosun.com/2026/06/29/colorado-pera-incentive-pay-recommended-changes/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-29T10:00:00+00:00",
-      "age_hours": 10.674248211111111,
+      "age_hours": 11.564084026388889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Holy bats, man! Denver\u2019s night sky is full of \u2019em, but where do they go in the day?",
       "link": "https://www.cpr.org/2026/06/29/denver-bats-night-sky-roosts-daytime/",
       "source": "CPR",
       "pub_date": "2026-06-29T10:00:00+00:00",
-      "age_hours": 10.674681375,
+      "age_hours": 11.56418594,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Wildfires burning thousands of acres across western Colorado, including one prompting evacuations near Leadville",
       "link": "https://coloradosun.com/2026/06/28/colorado-widlfires-burning-june-leadville-ouray/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-29T02:53:56+00:00",
-      "age_hours": 17.775359350000002,
+      "age_hours": 18.665195166944443,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
+    },
+    {
+      "title": "Wells: Listen before you list",
+      "link": "https://bizwest.com/2026/06/28/wells-listen-before-you-list/",
+      "source": "BizWest",
+      "pub_date": "2026-06-28T16:22:29+00:00",
+      "age_hours": 29.18490160722222,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Children\u2019s museum to put area\u2019s generosity on exhibit",
+      "link": "https://bizwest.com/2026/06/28/childrens-museum-to-put-areas-generosity-on-exhibit/",
+      "source": "BizWest",
+      "pub_date": "2026-06-28T16:10:48+00:00",
+      "age_hours": 29.379623854722222,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Xcel asks mother dead Buffs QB to pay for damage to utility pole",
+      "link": "https://bizwest.com/2026/06/26/xcel-asks-mother-dead-buffs-qb-to-pay-for-damage-to-utility-pole/",
+      "source": "BizWest",
+      "pub_date": "2026-06-27T00:42:00+00:00",
+      "age_hours": 68.85962386,
+      "breaking": false,
+      "time_ago": "2 days ago"
     }
   ]
 }
