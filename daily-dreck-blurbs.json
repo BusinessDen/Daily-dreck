@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-06-26",
-  "lead_headline": "Rising Phoenix takes over Tavern Lowry space as Kokopelli Social Bar opens shipping-container concept in Westminster",
+  "generated_date": "2026-06-30",
+  "lead_headline": "Mother Other's vegan debut hits Baker as 1up LoDo shuts down after 15 years and Magna Kainan closes RiNo after 18 months",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>4 leads today</strong>: Rising Phoenix Restaurant (Lowry American), Kokopelli Social Bar (Westminster shipping-container concept), Blazing Bird East Colfax (under construction), DQ Littleton (Fort Logan still closed). Active: 136 openings, 117 closures.",
+      "blurb": "<strong>3 leads today</strong>: Mother Other (Baker vegan, Chef Mandolini's new concept), Tacos Samy truck (Chaffee Park closed), Good Girl Cafe & Bookstore (Rosedale romance-bookstore hybrid prepping). Active: 139 openings, 120 closures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "+2",
         "label2": "closed",
         "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "136",
+        "value1": "139",
         "label2": "closed",
-        "value2": "117",
+        "value2": "120",
         "period": "all leads"
       }
     },
@@ -28,13 +28,13 @@
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "1",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "58",
+        "value1": "22",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,51 +43,51 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Twelfth consecutive zero day</strong> pushes statewide freeze to 29 days total\u2014<strong>7-day count unchanged at 369 licenses</strong>, all still timestamped June 14 from original backlog release. No new applications, status updates, or removals since mid-month shutdown began. System paralysis now spans nearly full month against 800+ monthly baseline. Infrastructure failure extends beyond typical processing lag.",
+      "blurb": "<strong>Thirteenth zero day</strong> extends statewide freeze to <strong>30 days total</strong>\u2014full month now with <strong>7-day count frozen at 369 licenses</strong>, all still carrying June 14 timestamps from mid-month backlog dump. No new applications, status changes, or removals since system shutdown began. Paralysis persists against 800+ monthly baseline as June closes with no processing activity visible.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "369",
-        "class1": "",
+        "value1": "0",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>+11 mentions yesterday</strong> jump 120% above Wednesday's +5, lifting <strong>7-day total to 51 across 11 sources</strong>\u2014down just 6% from prior week's 54. Facebook dominates with 17 citations (33% share), Reddit adds 7, Denver Post and Hoodline tie at 6 each, X contributes 4. CU Independence Plaza discount story led coverage, followed by RiNo venue closures. Monthly count reaches 210. Google News RSS delivered 48 of 51 captures (94%).",
+      "blurb": "<strong>+6 mentions yesterday</strong> hold steady with prior day's +11, pushing <strong>7-day total to 62 across 10 sources</strong>\u2014up 9% from prior week's 57. Facebook leads with 22 citations (35% share), Reddit adds 9, Hoodline and Instagram tie at 7 and 6, Denver Post contributes 6. Downtown ghost tower story and Centennial Gardens closure dominated coverage. Monthly tally reaches 210. Google News RSS captured 58 of 62 (94%).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "11",
-        "class1": "up",
+        "value1": "6",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "51",
-        "class1": "down",
+        "value1": "62",
+        "class1": "up",
         "label2": "sources",
-        "value2": "11",
+        "value2": "10",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends dormancy to seven straight zero days, holding <strong>MTD at +25 (+1.0/day)</strong> and <strong>90-day net at +131</strong>. Current June 19-25 freeze (just +1 net across seven days) contrasts sharply with robust June 11-18 stretch that delivered +16 net. Seven-day standstill unusual, but MTD pace still aligns with YTD baseline of +1.2/day as month closes.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends flatline to <strong>eight consecutive zero days</strong>, holding <strong>MTD at +19 (+0.7/day)</strong> and <strong>90-day net at +129</strong>. Current June 22-29 freeze\u2014just \u22124 net across eight days with 6 cancellations outpacing 2 new\u2014contrasts sharply with robust June 16-21 stretch that posted +11 net. Eight-day dormancy marks longest standstill this quarter, pulling MTD pace below YTD baseline of +1.2/day as June closes.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "25",
-      "net_ytd": "214",
-      "net_mtd_per_day": "1.0",
+      "net_mtd": "19",
+      "net_ytd": "208",
+      "net_mtd_per_day": "0.7",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "20",
-      "annual_ytd": "171",
+      "annual_mtd": "14",
+      "annual_ytd": "158",
       "monthly_mtd": "5",
-      "monthly_ytd": "43"
+      "monthly_ytd": "50"
     }
   }
 }
