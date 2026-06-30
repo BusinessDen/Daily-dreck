@@ -1,20 +1,20 @@
 {
   "generated_date": "2026-06-30",
-  "lead_headline": "Mother Other's vegan debut hits Baker as 1up LoDo shuts down after 15 years and Magna Kainan closes RiNo after 18 months",
+  "lead_headline": "Mother Other opens vegan restaurant on Broadway while 1up Arcade Bar closes LoDo after 15 years",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 leads today</strong>: Mother Other (Baker vegan, Chef Mandolini's new concept), Tacos Samy truck (Chaffee Park closed), Good Girl Cafe & Bookstore (Rosedale romance-bookstore hybrid prepping). Active: 139 openings, 120 closures.",
+      "blurb": "<strong>5 new leads today:</strong> Sabores De La preferida #2 (Arvada), Elotes El Bombon (Villa Park), Sadboy Creamery brick-and-mortar (Cheesman Park), Good Girl Cafe & Bookstore (Englewood), plus a Tacos Samy closure in Chaffee Park.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+4",
         "label2": "closed",
         "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "139",
+        "value1": "141",
         "label2": "closed",
         "value2": "120",
         "period": "all leads"
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Thirteenth zero day</strong> extends statewide freeze to <strong>30 days total</strong>\u2014full month now with <strong>7-day count frozen at 369 licenses</strong>, all still carrying June 14 timestamps from mid-month backlog dump. No new applications, status changes, or removals since system shutdown began. Paralysis persists against 800+ monthly baseline as June closes with no processing activity visible.",
+      "blurb": "<strong>Zero new applications today</strong> \u2014 and none detected across the past 14 days. The liquor license pipeline has gone completely quiet, a notable departure from typical weekly activity. Database now tracks 12,325 licenses statewide with no recent movement on new bar, restaurant, or retail applications.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>+6 mentions yesterday</strong> hold steady with prior day's +11, pushing <strong>7-day total to 62 across 10 sources</strong>\u2014up 9% from prior week's 57. Facebook leads with 22 citations (35% share), Reddit adds 9, Hoodline and Instagram tie at 7 and 6, Denver Post contributes 6. Downtown ghost tower story and Centennial Gardens closure dominated coverage. Monthly tally reaches 210. Google News RSS captured 58 of 62 (94%).",
+      "blurb": "<strong>6 mentions yesterday</strong> across Facebook, Reddit, and Hoodline. The 7-day count sits at <strong>62 mentions</strong> across 10 sources, up from 57 the prior week. Facebook leads with 22 pickups, followed by Reddit (9) and Hoodline (7). Recent highlights include coverage of the downtown ghost tower financing saga and Denver's modular housing initiative.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) extends flatline to <strong>eight consecutive zero days</strong>, holding <strong>MTD at +19 (+0.7/day)</strong> and <strong>90-day net at +129</strong>. Current June 22-29 freeze\u2014just \u22124 net across eight days with 6 cancellations outpacing 2 new\u2014contrasts sharply with robust June 16-21 stretch that posted +11 net. Eight-day dormancy marks longest standstill this quarter, pulling MTD pace below YTD baseline of +1.2/day as June closes.",
+      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled), leaving MTD at <strong>+19</strong> and the 90-day total at <strong>+129</strong>. The past two weeks have been choppy \u2014 last Monday delivered +5, but last Tuesday saw \u22125 cancellations. The 7-day net sits at \u22124, a sharp reversal from the prior week's +10. Still, the longer-term trend remains steady at +1.2/day YTD.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "19",
       "net_ytd": "208",
       "net_mtd_per_day": "0.7",
       "net_ytd_per_day": "1.2",
-      "annual_mtd": "14",
-      "annual_ytd": "158",
-      "monthly_mtd": "5",
-      "monthly_ytd": "50"
+      "annual_mtd": "15",
+      "annual_ytd": "162",
+      "monthly_mtd": "4",
+      "monthly_ytd": "46"
     }
   }
 }
