@@ -1,105 +1,96 @@
 {
   "fetched_date": "2026-06-30",
-  "fetched_at": "2026-06-30 12:48:07",
+  "fetched_at": "2026-06-30 13:40:23",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 4,
   "articles": [
     {
-      "title": "Not politics as usual. Democratic primaries linked to age, ideals and outside money",
-      "link": "https://sentinelcolorado.com/voter-guide/not-politics-as-usual-democratic-primaries-linked-to-age-ideals-and-outside-money/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-30T12:43:45+00:00",
-      "age_hours": 0.06943005194444445,
-      "breaking": true,
-      "time_ago": "4 min ago"
-    },
-    {
-      "title": "Self-exiled Chinese billionaire Guo Wengui gets 30 years in US prison for fraud conviction",
-      "link": "https://sentinelcolorado.com/nation-world/world/self-exiled-chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-fraud-conviction/",
-      "source": "Sentinel",
-      "pub_date": "2026-06-30T12:27:01+00:00",
-      "age_hours": 0.3483192786111111,
-      "breaking": true,
-      "time_ago": "20 min ago"
-    },
-    {
-      "title": "Eastbound I-70 closed at the Eisenhower Tunnel",
+      "title": "CDOT reopens eastbound I-70 at Eisenhower Tunnel after Tuesday morning crash",
       "link": "https://www.9news.com/article/traffic/eastbound-i-70-closed-silver-plume/73-e87b0c3f-e832-4406-9978-8f7c7b3b1492",
       "source": "9News",
-      "pub_date": "2026-06-30T12:14:55+00:00",
-      "age_hours": 0.5491115675,
+      "pub_date": "2026-06-30T13:37:53+00:00",
+      "age_hours": 0.03798378305555555,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "2 min ago"
     },
     {
-      "title": "Aurora teacher of the year semi-finalist inspires students to learn, win and pass it on",
-      "link": "https://sentinelcolorado.com/metro/aurora-teacher-of-the-year-semi-finalist-inspires-students-to-learn-win-and-pass-it-on/",
+      "title": "Comcast plans to split into two public companies by spinning off NBCUniversal and Sky",
+      "link": "https://sentinelcolorado.com/uncategorized/comcast-plans-to-split-into-two-public-companies-by-spinning-off-nbcuniversal-and-sky/",
       "source": "Sentinel",
-      "pub_date": "2026-06-30T12:05:20+00:00",
-      "age_hours": 0.7097081758333333,
+      "pub_date": "2026-06-30T13:30:57+00:00",
+      "age_hours": 0.15436655916666667,
       "breaking": true,
-      "time_ago": "42 min ago"
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "120 Years of Fun: Why This Year\u2019s Arapahoe County Fair is Making History",
+      "link": "https://sentinelcolorado.com/arapcofair/120-years-of-fun-why-this-years-arapahoe-county-fair-is-making-history/",
+      "source": "Sentinel",
+      "pub_date": "2026-06-30T13:11:56+00:00",
+      "age_hours": 0.47131129250000003,
+      "breaking": true,
+      "time_ago": "28 min ago"
     },
     {
       "title": "How to keep your pets calm during Fourth of July fireworks",
       "link": "https://www.9news.com/article/entertainment/events/america-250/fourth-of-july-fireworks-pet-safety/73-e2400cee-68fb-4bec-aca6-0937fa840257",
       "source": "9News",
       "pub_date": "2026-06-30T11:49:56+00:00",
-      "age_hours": 0.9655005130555556,
+      "age_hours": 1.8371505236111112,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver metro area fire districts send help to wildfire front lines, says it won't stress resources at home",
       "link": "https://www.9news.com/article/news/local/wildfire/denver-metro-area-fire-districts-send-help-to-wildfire-front-lines/73-3a3a8840-7f06-4986-a40a-9f89e82297db",
       "source": "9News",
       "pub_date": "2026-06-30T05:01:39+00:00",
-      "age_hours": 7.770222799166667,
+      "age_hours": 8.641872801666667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver Parking charges $5 for 3,000 spots",
       "link": "https://www.9news.com/article/news/local/new-cheap-parking-plan-denver/73-31960c9d-22d2-400a-b8f6-917b6bdfa124",
       "source": "9News",
       "pub_date": "2026-06-30T00:59:06+00:00",
-      "age_hours": 11.812722874166665,
+      "age_hours": 12.684372884722222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver chef wins James Beard Award and makes history for Colorado",
       "link": "https://www.9news.com/article/life/food/denver-chef-wins-james-beard-award-makes-colorado-history/73-e4ae55df-1d80-490d-b5c8-24a5975abef7",
       "source": "9News",
       "pub_date": "2026-06-30T00:35:14+00:00",
-      "age_hours": 12.210500689444444,
+      "age_hours": 13.082150700277777,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "How (and why) Denver\u2019s mayor got parking lot owners to set $5 prices",
       "link": "https://denverite.com/2026/06/29/denver-mayor-park-5-dollar/",
       "source": "Denverite",
       "pub_date": "2026-06-29T22:21:17+00:00",
-      "age_hours": 14.442826729166667,
+      "age_hours": 15.31449723611111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver metro crews deployed to battle 2 wildfires as dry conditions fuel fire danger",
       "link": "https://kdvr.com/news/local/denver-metro-crews-deployed-to-battle-2-wildfires-as-dry-conditions-fuel-fire-danger/",
       "source": "Fox31",
       "pub_date": "2026-06-29T22:16:10+00:00",
-      "age_hours": 14.528664014166667,
+      "age_hours": 15.400248005277778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Engineering consultant EPS Group acquires TST",
       "link": "https://bizwest.com/2026/06/29/engineering-consultant-eps-group-acquires-tst/",
       "source": "BizWest",
       "pub_date": "2026-06-29T21:39:55+00:00",
-      "age_hours": 15.131766655833333,
+      "age_hours": 15.999412989166666,
       "breaking": false,
       "time_ago": "15 hrs ago"
     },
@@ -108,79 +99,88 @@
       "link": "https://bizwest.com/2026/06/29/king-soopers-opens-at-former-lowes-site-in-louisville/",
       "source": "BizWest",
       "pub_date": "2026-06-29T21:35:38+00:00",
-      "age_hours": 15.203156060833333,
+      "age_hours": 16.070802459166664,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Koelbel Celebrates Opening of King Soopers in Louisville",
-      "link": "https://milehighcre.com/koelbel-celebrates-opening-of-king-soopers-in-louisville/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-29T19:40:50+00:00",
-      "age_hours": 17.116823110000002,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Wildfire smoke, ozone hammer Colorado air quality",
       "link": "https://coloradosun.com/2026/06/29/colorado-air-quality-smoke-ozone/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-29T19:36:45+00:00",
-      "age_hours": 17.184960749444443,
+      "age_hours": 18.05663790638889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Tayer: Tipped minimum wage: Whose burden is it?",
       "link": "https://bizwest.com/2026/06/29/tayer-tipped-minimum-wage-whose-burden-is-it/",
       "source": "BizWest",
       "pub_date": "2026-06-29T19:31:27+00:00",
-      "age_hours": 17.272878333055555,
+      "age_hours": 18.14052472138889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Louisville investor Real Capital Solutions enters Atlanta office market with $50M buy",
       "link": "https://bizwest.com/2026/06/29/louisville-investor-real-capital-solutions-enters-atlanta-office-market-with-50m-buy/",
       "source": "BizWest",
       "pub_date": "2026-06-29T19:25:15+00:00",
-      "age_hours": 17.376211702777777,
+      "age_hours": 18.243858091944446,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Ex-Oracle EVP joins JumpCloud board",
       "link": "https://bizwest.com/2026/06/29/ex-oracle-evp-joins-jumpcloud-board/",
       "source": "BizWest",
       "pub_date": "2026-06-29T19:21:55+00:00",
-      "age_hours": 17.431767264444446,
+      "age_hours": 18.29941365388889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Area higher ed hailed for meeting students\u2019 basic needs",
       "link": "https://bizwest.com/2026/06/29/area-higher-ed-hailed-for-meeting-students-basic-needs/",
       "source": "BizWest",
       "pub_date": "2026-06-29T19:19:01+00:00",
-      "age_hours": 17.480100624166667,
+      "age_hours": 18.34774703027778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Denver Suburb To Lose 18 Acres To Nearby City, At High School's Request",
       "link": "https://www.bisnow.com/denver/news/k-12-education/denver-suburb-to-lose-18-acres-to-nearby-city-at-high-schools-request-135231",
       "source": "Bisnow",
       "pub_date": "2026-06-29T17:53:34-04:00",
-      "age_hours": 14.90441285888889,
+      "age_hours": 15.772064761111112,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Colorado Supreme Court rejects Democrats\u2019 ballot measures asking voters to redraw state\u2019s congressional map",
       "link": "https://coloradosun.com/2026/06/29/colorado-supreme-court-rejects-democrat-redistricting-plan-initiative-240/",
       "source": "Colorado Sun",
       "pub_date": "2026-06-29T17:10:32+00:00",
-      "age_hours": 19.62190571916667,
+      "age_hours": 20.493582849166664,
+      "breaking": false,
+      "time_ago": "20 hrs ago"
+    },
+    {
+      "title": "Inside two Title IX investigations in Colorado that reflect a \u2018new way of doing business\u2019 under Trump",
+      "link": "https://www.cpr.org/2026/06/29/title-ix-investigation-denver-jeffco-schools/",
+      "source": "CPR",
+      "pub_date": "2026-06-29T16:11:23+00:00",
+      "age_hours": 21.479524513055555,
+      "breaking": false,
+      "time_ago": "21 hrs ago"
+    },
+    {
+      "title": "Don\u2019t Cry: Denver\u2019s hottest ice cream brand announces new brick-and-mortar location",
+      "link": "https://www.westword.com/food-drink/popular-ice-cream-brand-sadboy-creamery-opening-east-colfax-shop-40905800/",
+      "source": "Westword",
+      "pub_date": "2026-06-29T11:59:51-06:00",
+      "age_hours": 19.672347956388887,
       "breaking": false,
       "time_ago": "19 hrs ago"
     }
