@@ -1,20 +1,20 @@
 {
-  "generated_date": "2026-06-30",
-  "lead_headline": "Mother Other opens vegan restaurant on Broadway while 1up Arcade Bar closes LoDo after 15 years",
+  "generated_date": "2026-07-01",
+  "lead_headline": "Restaurant tracker hits 265 live leads as Giorgios, La Vietta, and Re Tre open while foreclosures stay quiet",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 new leads today:</strong> Sabores De La preferida #2 (Arvada), Elotes El Bombon (Villa Park), Sadboy Creamery brick-and-mortar (Cheesman Park), Good Girl Cafe & Bookstore (Englewood), plus a Tacos Samy closure in Chaffee Park.",
+      "blurb": "<strong>6 new leads today:</strong> Giorgios Pizza (Virginia Vale), La Vietta Italian trattoria (Highland), Re Tre Vietnamese (Athmar Park), Shawarma Max (University Hills), plus Taco John's closure in Globeville.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+4",
+        "value1": "+5",
         "label2": "closed",
         "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "141",
+        "value1": "145",
         "label2": "closed",
         "value2": "120",
         "period": "all leads"
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong> \u2014 and none detected across the past 14 days. The liquor license pipeline has gone completely quiet, a notable departure from typical weekly activity. Database now tracks 12,325 licenses statewide with no recent movement on new bar, restaurant, or retail applications.",
+      "blurb": "<strong>Still zero new applications</strong> \u2014 the drought now extends three full weeks with no bar, restaurant, or retail license filings detected. The 12,325-license database hasn't logged a single new application since early June, marking an unusual summer lull. Previous comparable dry spells lasted 7-10 days at most. Worth monitoring whether this signals a broader pullback in hospitality expansion or simply seasonal timing around the July 4 holiday week.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,40 +54,40 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>6 mentions yesterday</strong> across Facebook, Reddit, and Hoodline. The 7-day count sits at <strong>62 mentions</strong> across 10 sources, up from 57 the prior week. Facebook leads with 22 pickups, followed by Reddit (9) and Hoodline (7). Recent highlights include coverage of the downtown ghost tower financing saga and Denver's modular housing initiative.",
+      "blurb": "<strong>8 mentions yesterday</strong> including CBS News coverage of the Denver hotel bat bite lawsuit and Instagram discussion of downtown commercial distress. The 7-day total climbed to <strong>65 mentions</strong> across 13 sources, up from 57 the prior week. Facebook dominates with 19 pickups, followed by Reddit (12) and Instagram/X (7 each). Hoodline contributed 5 local news aggregations. The week's mix tilts toward real estate and public safety stories rather than restaurant/business news.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "6",
+        "value1": "8",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "62",
+        "value1": "65",
         "class1": "up",
         "label2": "sources",
-        "value2": "10",
+        "value2": "13",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled), leaving MTD at <strong>+19</strong> and the 90-day total at <strong>+129</strong>. The past two weeks have been choppy \u2014 last Monday delivered +5, but last Tuesday saw \u22125 cancellations. The 7-day net sits at \u22124, a sharp reversal from the prior week's +10. Still, the longer-term trend remains steady at +1.2/day YTD.",
+      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled), holding MTD at <strong>+0</strong> after the month opened at breakeven. 90-day net remains <strong>+129</strong>. The past week delivered \u22125 net (1 new, 6 canceled), reversing the prior week's +2. June closed weak with five consecutive flat days after mid-month volatility \u2014 a June 18 spike of +5 was erased four trading days later by a \u22125 cancellation wave. The YTD pace of +1.1/day stays intact, but recent two-week momentum has stalled compared to the steady spring accumulation pattern.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "19",
+      "net_mtd": "0",
       "net_ytd": "208",
-      "net_mtd_per_day": "0.7",
-      "net_ytd_per_day": "1.2",
-      "annual_mtd": "15",
-      "annual_ytd": "162",
-      "monthly_mtd": "4",
-      "monthly_ytd": "46"
+      "net_mtd_per_day": "0.0",
+      "net_ytd_per_day": "1.1",
+      "annual_mtd": "0",
+      "annual_ytd": "208",
+      "monthly_mtd": "0",
+      "monthly_ytd": "0"
     }
   }
 }
