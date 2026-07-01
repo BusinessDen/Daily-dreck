@@ -1,87 +1,96 @@
 {
   "fetched_date": "2026-07-01",
-  "fetched_at": "2026-07-01 20:38:42",
+  "fetched_at": "2026-07-01 21:34:59",
   "article_count": 20,
   "breaking_count": 8,
   "articles": [
+    {
+      "title": "NAIOP Colorado Rebrands as CREDA Colorado",
+      "link": "https://milehighcre.com/naiop-colorado-rebrands-as-creda-colorado/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-07-01T21:10:01+00:00",
+      "age_hours": 0.41183150472222224,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
+    {
+      "title": "Who is Melat Kiros \u2014 the Democratic Socialist who unseated a nearly 30-year incumbent representing Denver in Congress?",
+      "link": "https://www.9news.com/article/news/local/local-politics/who-is-melat-kiros-democratic-socialist-representing-denver-in-congress/73-a746b483-42b3-4618-aae7-da759148aca5",
+      "source": "9News",
+      "pub_date": "2026-07-01T21:05:42+00:00",
+      "age_hours": 0.4839723997222222,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
     {
       "title": "Trump made over $1 billion from crypto businesses in 2025, filing shows",
       "link": "https://www.coloradopolitics.com/2026/07/01/trump-made-over-1-billion-from-crypto-businesses-in-2025-filing-shows/",
       "source": "CO Politics",
       "pub_date": "2026-07-01T19:52:42+00:00",
-      "age_hours": 0.7628527875,
+      "age_hours": 1.7013709397222223,
       "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado designates 17 colleges for supporting students in need, including Community College of Aurora",
       "link": "https://sentinelcolorado.com/metro/colorado-designates-17-colleges-for-supporting-students-in-need-including-community-college-of-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-07-01T19:51:31+00:00",
-      "age_hours": 0.7826073758333333,
+      "age_hours": 1.7211362477777779,
       "breaking": true,
-      "time_ago": "46 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Man dies after shooting in Sunnyside: Police",
       "link": "https://kdvr.com/news/local/man-dies-after-shooting-in-sunnyside-police/",
       "source": "Fox31",
       "pub_date": "2026-07-01T19:04:21+00:00",
-      "age_hours": 1.5682034052777776,
+      "age_hours": 2.5067329011111115,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Softball: Massive softball tourneys underway in Aurora, along Front Range",
       "link": "https://sentinelcolorado.com/sports/preps/girls-softball/softball-massive-softball-tourneys-underway-in-aurora-along-front-range/",
       "source": "Sentinel",
       "pub_date": "2026-07-01T18:58:39+00:00",
-      "age_hours": 1.6637186744444443,
+      "age_hours": 2.602247632777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver International Airport Names Interim CEO",
       "link": "https://milehighcre.com/denver-international-airport-names-interim-ceo/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-01T17:29:56+00:00",
-      "age_hours": 3.141149141388889,
+      "age_hours": 4.07988708,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "The US, Canada and Mexico begin bumpy negotiations to renew North American trade pact",
       "link": "https://www.9news.com/article/news/nation-world/north-america-trade-pact-renewal/507-75de7a5b-d1e5-4dd3-a80c-03aac828b757",
       "source": "9News",
       "pub_date": "2026-07-01T17:29:27+00:00",
-      "age_hours": 3.149467556666667,
+      "age_hours": 4.088139201111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Police search for wayward moose near I-25 north of Denver",
       "link": "https://www.9news.com/article/life/animals/moose-frederick-interstate-25/73-ab2609a9-ad47-4a00-959d-0de38f006b5b",
       "source": "9News",
       "pub_date": "2026-07-01T15:22:46+00:00",
-      "age_hours": 5.260856515833334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.199528174722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Sony to stop selling physical PlayStation game discs",
       "link": "https://www.9news.com/article/news/nation-world/sony-ending-physical-playstation-game-discs/507-f6caf7b0-8a21-42f7-a080-f470cf77030a",
       "source": "9News",
       "pub_date": "2026-07-01T15:08:54+00:00",
-      "age_hours": 5.491967652777777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Who is Melat Kiros \u2014 the Democratic Socialist who unseated a nearly 30-year incumbent representing Denver in Congress?",
-      "link": "https://www.9news.com/article/news/local/local-politics/who-is-melat-kiros-democratic-socialist-representing-denver-in-congress/73-a746b483-42b3-4618-aae7-da759148aca5",
-      "source": "9News",
-      "pub_date": "2026-07-01T14:19:02+00:00",
-      "age_hours": 6.3230787727777775,
+      "age_hours": 6.430639318611111,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -90,99 +99,90 @@
       "link": "https://www.9news.com/article/money/business/iheartradio-layoffs-denver-denise-plante-ryan-schuiling/73-e655a9a0-0254-4f58-819a-befe3eccabe5",
       "source": "9News",
       "pub_date": "2026-07-01T14:01:54+00:00",
-      "age_hours": 6.6086343705555555,
+      "age_hours": 7.547306000833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Realberry eyes sale of RiNo lot",
       "link": "https://bizwest.com/2026/07/01/realberry-eyes-sale-of-rino-lot/",
       "source": "BizWest",
       "pub_date": "2026-07-01T13:13:33+00:00",
-      "age_hours": 7.413891599722223,
+      "age_hours": 8.352612132777777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "\u2018B\u2019 Sweet Cupcakes leaves Loveland for Berthoud",
       "link": "https://bizwest.com/2026/07/01/b-sweet-cupcakes-leaves-loveland-for-berthoud/",
       "source": "BizWest",
       "pub_date": "2026-07-01T12:58:17+00:00",
-      "age_hours": 7.668336064722222,
+      "age_hours": 8.6070565925,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Grocery giant Kroger buys Giant Eagle chain in $1.65 billion deal",
       "link": "https://www.9news.com/article/news/nation-world/kroger-buys-giant-eagle-grocery-chain/507-65d640a2-9ab7-4727-85bb-5d1ce7a5b462",
       "source": "9News",
       "pub_date": "2026-07-01T12:54:58+00:00",
-      "age_hours": 7.724189959444445,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Colorado among states where starter homes are least attainable, report says",
-      "link": "https://www.9news.com/article/money/markets/real-estate/colorado-starter-homes-least-attainable-lendingtree/73-88abf525-9661-4a77-b840-852bfec7f4be",
-      "source": "9News",
-      "pub_date": "2026-07-01T12:00:52+00:00",
-      "age_hours": 8.625856637777778,
+      "age_hours": 8.662861593611112,
       "breaking": false,
       "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Ship runs aground in Strait of Hormuz, Iranian state TV reports",
-      "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/ship-runs-aground-strait-of-hormuz/507-2864d347-0c39-4403-8231-ee0a1f429ce2",
-      "source": "9News",
-      "pub_date": "2026-07-01T11:27:03+00:00",
-      "age_hours": 9.189467781944444,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
     },
     {
       "title": "Sizzling summer savings as stores roll out Fourth of July sales",
       "link": "https://www.denver7.com/dont-waste-your-money/sizzling-summer-savings-as-stores-roll-out-fourth-of-july-sales",
       "source": "Denver7",
       "pub_date": "2026-07-01T10:34:39+00:00",
-      "age_hours": 10.062977212222224,
+      "age_hours": 11.001608125,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado mountain towns must tighten taps, but water shortages could have been much worse",
       "link": "https://coloradosun.com/2026/07/01/water-shortages-colorado-mountain-towns-drought-planning/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-01T10:20:00+00:00",
-      "age_hours": 10.306762750555556,
+      "age_hours": 11.245473568888888,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "What is the DSA and who is Melat Kiros?",
       "link": "https://www.cpr.org/2026/07/01/what-is-the-dsa-who-is-melat-kiros/",
       "source": "CPR",
       "pub_date": "2026-07-01T10:00:00+00:00",
-      "age_hours": 10.640280338333334,
+      "age_hours": 11.578951426944444,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Restaurant Roll Call: Every opening and closing in June",
-      "link": "https://www.westword.com/food-drink/restaurant-roll-call-every-opening-and-closing-in-june-40906172/",
-      "source": "Westword",
-      "pub_date": "2026-07-01T07:00:00-06:00",
-      "age_hours": 7.640934645833333,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "3, maybe 4, state lawmakers in Colorado set to lose their primaries amid liberal Democrats\u2019 big night",
       "link": "https://coloradosun.com/2026/06/30/colorado-primary-election-state-legislature-results/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-01T04:54:46+00:00",
-      "age_hours": 15.72731889277778,
+      "age_hours": 16.666029921666667,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
+    },
+    {
+      "title": "Barbara Kirkmeyer narrowly leads Victor Marx in too-close-to-call Republican primary for Colorado governor",
+      "link": "https://coloradosun.com/2026/06/30/colorado-republican-primary-election-result-victor-marx-barbara-kirkmeyer/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-01T04:41:22+00:00",
+      "age_hours": 16.88936328777778,
+      "breaking": false,
+      "time_ago": "16 hrs ago"
+    },
+    {
+      "title": "Hilton Garden Inn in Longmont acquired for $17M",
+      "link": "https://bizwest.com/2026/06/30/hilton-garden-inn-in-longmont-acquired-for-7m/",
+      "source": "BizWest",
+      "pub_date": "2026-06-30T20:07:32+00:00",
+      "age_hours": 25.45289059916667,
+      "breaking": false,
+      "time_ago": "1 day ago"
     }
   ]
 }
