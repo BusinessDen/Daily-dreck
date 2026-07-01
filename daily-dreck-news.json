@@ -1,159 +1,177 @@
 {
   "fetched_date": "2026-07-01",
-  "fetched_at": "2026-07-01 18:44:56",
+  "fetched_at": "2026-07-01 19:36:03",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Man dies after shooting in Sunnyside: Police",
+      "link": "https://kdvr.com/news/local/man-dies-after-shooting-in-sunnyside-police/",
+      "source": "Fox31",
+      "pub_date": "2026-07-01T19:04:21+00:00",
+      "age_hours": 0.5242745080555555,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "Softball: Massive softball tourneys underway in Aurora, along Front Range",
+      "link": "https://sentinelcolorado.com/sports/preps/girls-softball/softball-massive-softball-tourneys-underway-in-aurora-along-front-range/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-01T18:58:39+00:00",
+      "age_hours": 0.6198320619444444,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Denver International Airport Names Interim CEO",
+      "link": "https://milehighcre.com/denver-international-airport-names-interim-ceo/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-07-01T17:29:56+00:00",
+      "age_hours": 2.097219563888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "The US, Canada and Mexico begin bumpy negotiations to renew North American trade pact",
       "link": "https://www.9news.com/article/news/nation-world/north-america-trade-pact-renewal/507-75de7a5b-d1e5-4dd3-a80c-03aac828b757",
       "source": "9News",
       "pub_date": "2026-07-01T17:29:27+00:00",
-      "age_hours": 1.2545150575,
+      "age_hours": 2.1056072291666665,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Police search for wayward moose near I-25 north of Denver",
       "link": "https://www.9news.com/article/life/animals/moose-frederick-interstate-25/73-ab2609a9-ad47-4a00-959d-0de38f006b5b",
       "source": "9News",
       "pub_date": "2026-07-01T15:22:46+00:00",
-      "age_hours": 3.3659040541666667,
+      "age_hours": 4.216996210833333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Sony to stop selling physical PlayStation game discs",
       "link": "https://www.9news.com/article/news/nation-world/sony-ending-physical-playstation-game-discs/507-f6caf7b0-8a21-42f7-a080-f470cf77030a",
       "source": "9News",
       "pub_date": "2026-07-01T15:08:54+00:00",
-      "age_hours": 3.597015198055556,
+      "age_hours": 4.448107356944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Who is Melat Kiros \u2014 the Democratic Socialist who unseated a nearly 30-year incumbent representing Denver in Congress?",
       "link": "https://www.9news.com/article/news/local/local-politics/who-is-melat-kiros-democratic-socialist-representing-denver-in-congress/73-a746b483-42b3-4618-aae7-da759148aca5",
       "source": "9News",
       "pub_date": "2026-07-01T14:19:02+00:00",
-      "age_hours": 4.428126321111111,
+      "age_hours": 5.27921848,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "iHeartRadio layoffs impact Colorado radio personalities",
       "link": "https://www.9news.com/article/money/business/iheartradio-layoffs-denver-denise-plante-ryan-schuiling/73-e655a9a0-0254-4f58-819a-befe3eccabe5",
       "source": "9News",
       "pub_date": "2026-07-01T14:01:54+00:00",
-      "age_hours": 4.713681928611111,
+      "age_hours": 5.564774090277778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Realberry eyes sale of RiNo lot",
       "link": "https://bizwest.com/2026/07/01/realberry-eyes-sale-of-rino-lot/",
       "source": "BizWest",
       "pub_date": "2026-07-01T13:13:33+00:00",
-      "age_hours": 5.5189416130555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.369938873055556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "\u2018B\u2019 Sweet Cupcakes leaves Loveland for Berthoud",
       "link": "https://bizwest.com/2026/07/01/b-sweet-cupcakes-leaves-loveland-for-berthoud/",
       "source": "BizWest",
       "pub_date": "2026-07-01T12:58:17+00:00",
-      "age_hours": 5.7733860725,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.624383332222223,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Grocery giant Kroger buys Giant Eagle chain in $1.65 billion deal",
       "link": "https://www.9news.com/article/news/nation-world/kroger-buys-giant-eagle-grocery-chain/507-65d640a2-9ab7-4727-85bb-5d1ce7a5b462",
       "source": "9News",
       "pub_date": "2026-07-01T12:54:58+00:00",
-      "age_hours": 5.829237520555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.680329691666667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado among states where starter homes are least attainable, report says",
       "link": "https://www.9news.com/article/money/markets/real-estate/colorado-starter-homes-least-attainable-lendingtree/73-88abf525-9661-4a77-b840-852bfec7f4be",
       "source": "9News",
       "pub_date": "2026-07-01T12:00:52+00:00",
-      "age_hours": 6.730904201944445,
+      "age_hours": 7.581996373888889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Ship runs aground in Strait of Hormuz, Iranian state TV reports",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/ship-runs-aground-strait-of-hormuz/507-2864d347-0c39-4403-8231-ee0a1f429ce2",
       "source": "9News",
       "pub_date": "2026-07-01T11:27:03+00:00",
-      "age_hours": 7.2945153608333335,
+      "age_hours": 8.145607529166666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Sizzling summer savings as stores roll out Fourth of July sales",
       "link": "https://www.denver7.com/dont-waste-your-money/sizzling-summer-savings-as-stores-roll-out-fourth-of-july-sales",
       "source": "Denver7",
       "pub_date": "2026-07-01T10:34:39+00:00",
-      "age_hours": 8.16798971611111,
+      "age_hours": 9.0190788575,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "These new laws go into effect Wednesday in Colorado",
-      "link": "https://www.9news.com/article/news/local/local-politics/new-colorado-laws-july-2026/73-ca37d727-c445-4be1-9563-98be59079a2a",
-      "source": "9News",
-      "pub_date": "2026-07-01T10:25:51+00:00",
-      "age_hours": 8.314515414722223,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado mountain towns must tighten taps, but water shortages could have been much worse",
       "link": "https://coloradosun.com/2026/07/01/water-shortages-colorado-mountain-towns-drought-planning/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-01T10:20:00+00:00",
-      "age_hours": 8.411736553333334,
+      "age_hours": 9.26286242111111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "What is the DSA and who is Melat Kiros?",
       "link": "https://www.cpr.org/2026/07/01/what-is-the-dsa-who-is-melat-kiros/",
       "source": "CPR",
       "pub_date": "2026-07-01T10:00:00+00:00",
-      "age_hours": 8.745233336388889,
+      "age_hours": 9.596340070277778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Restaurant Roll Call: Every opening and closing in June",
       "link": "https://www.westword.com/food-drink/restaurant-roll-call-every-opening-and-closing-in-june-40906172/",
       "source": "Westword",
       "pub_date": "2026-07-01T07:00:00-06:00",
-      "age_hours": 5.7457697266666665,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.597077496111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "3, maybe 4, state lawmakers in Colorado set to lose their primaries amid liberal Democrats\u2019 big night",
       "link": "https://coloradosun.com/2026/06/30/colorado-primary-election-state-legislature-results/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-01T04:54:46+00:00",
-      "age_hours": 13.832292827222224,
+      "age_hours": 14.683418694722222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Barbara Kirkmeyer narrowly leads Victor Marx in too-close-to-call Republican primary for Colorado governor",
       "link": "https://coloradosun.com/2026/06/30/colorado-republican-primary-election-result-victor-marx-barbara-kirkmeyer/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-01T04:41:22+00:00",
-      "age_hours": 14.055626201944445,
+      "age_hours": 14.906752059166667,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -162,27 +180,9 @@
       "link": "https://bizwest.com/2026/06/30/hilton-garden-inn-in-longmont-acquired-for-7m/",
       "source": "BizWest",
       "pub_date": "2026-06-30T20:07:32+00:00",
-      "age_hours": 22.619219982222223,
+      "age_hours": 23.47021722361111,
       "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "EAS Tire & Auto acquires Greeley auto-repair shop",
-      "link": "https://bizwest.com/2026/06/30/eas-tire-auto-acquires-greeley-auto-repair-shop/",
-      "source": "BizWest",
-      "pub_date": "2026-06-30T20:02:34+00:00",
-      "age_hours": 22.70199776722222,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Egg producers may shell out $3.3M after price-fixing probe",
-      "link": "https://bizwest.com/2026/06/30/egg-producers-may-shell-out-3-3m-after-price-fixing-probe/",
-      "source": "BizWest",
-      "pub_date": "2026-06-30T19:56:20+00:00",
-      "age_hours": 22.805886688055555,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     }
   ]
 }
