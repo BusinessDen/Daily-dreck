@@ -1,114 +1,105 @@
 {
   "fetched_date": "2026-07-01",
-  "fetched_at": "2026-07-01 01:01:26",
+  "fetched_at": "2026-07-01 03:15:08",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "BREAKING: Weiser declares victory in Dem governor\u2019s race; Woodson pulling an upset in Aurora HD 42",
+      "link": "https://sentinelcolorado.com/metro/breaking-in-first-returns-weiser-ahead-woodson-pulling-an-upset-in-aurora-hd-42-race/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-01T01:59:41+00:00",
+      "age_hours": 1.254499695,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "John Hickenlooper wins Democratic primary for U.S. Senate over Julie Gonzales",
+      "link": "https://coloradosun.com/2026/06/30/colorado-primary-election-senate-john-hickenlooper-julie-gonzales/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-01T01:40:15+00:00",
+      "age_hours": 1.5773785958333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Amanda Gonzalez wins Democratic primary for secretary of state",
+      "link": "https://coloradosun.com/2026/06/30/colorado-primary-election-secretary-of-state-results/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-01T01:33:22+00:00",
+      "age_hours": 1.692101331111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "I-70 reopens after 20-mile wrong-way pursuit and crash, CSP says",
       "link": "https://www.9news.com/article/traffic/eastbound-i-70-closed-silver-plume/73-e87b0c3f-e832-4406-9978-8f7c7b3b1492",
       "source": "9News",
       "pub_date": "2026-06-30T22:57:15+00:00",
-      "age_hours": 2.0654654886111112,
+      "age_hours": 4.294456746944444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Forensic pathologist Casey Bitting chose to succeed Kelly Lear as Arapahoe coroner",
       "link": "https://sentinelcolorado.com/metro/forensic-pathologist-casey-bitting-chose-to-succeed-kelly-lear-as-arapahoe-coroner/",
       "source": "Sentinel",
       "pub_date": "2026-06-30T20:07:33+00:00",
-      "age_hours": 4.8945217605555555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.123388958333334,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Hilton Garden Inn in Longmont acquired for $17M",
       "link": "https://bizwest.com/2026/06/30/hilton-garden-inn-in-longmont-acquired-for-7m/",
       "source": "BizWest",
       "pub_date": "2026-06-30T20:07:32+00:00",
-      "age_hours": 4.893459143888888,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.122333141944445,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "EAS Tire & Auto acquires Greeley auto-repair shop",
       "link": "https://bizwest.com/2026/06/30/eas-tire-auto-acquires-greeley-auto-repair-shop/",
       "source": "BizWest",
       "pub_date": "2026-06-30T20:02:34+00:00",
-      "age_hours": 4.976236935277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.205110933888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Egg producers may shell out $3.3M after price-fixing probe",
       "link": "https://bizwest.com/2026/06/30/egg-producers-may-shell-out-3-3m-after-price-fixing-probe/",
       "source": "BizWest",
       "pub_date": "2026-06-30T19:56:20+00:00",
-      "age_hours": 5.0801263994444446,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Super PAC supporting Phil Weiser\u2019s campaign for governor gets $50,000 from dark money group",
-      "link": "https://coloradosun.com/2026/06/30/phil-weiser-michael-bennet-dark-money-donations/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-06-30T19:36:39+00:00",
-      "age_hours": 5.408646299722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.309000398888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Louisville\u2019s Design Mechanical plans HQ move to Thornton",
       "link": "https://bizwest.com/2026/06/30/louisvilles-design-mechanical-plans-hq-move-to-thornton/",
       "source": "BizWest",
       "pub_date": "2026-06-30T19:05:07+00:00",
-      "age_hours": 5.933737544722223,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.16261154388889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "French bistro Cinq \u00e0 Sept plans July debut in north Boulder",
       "link": "https://bizwest.com/2026/06/30/french-bistro-cinq-a-sept-plans-july-debut-in-north-boulder/",
       "source": "BizWest",
       "pub_date": "2026-06-30T19:01:08+00:00",
-      "age_hours": 6.000126468055556,
+      "age_hours": 8.229000467222223,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Trump administration\u2019s Title IX enforcement questioned in Colorado school cases",
       "link": "https://sentinelcolorado.com/metro/trump-administrations-title-ix-enforcement-questioned-in-colorado-school-cases/",
       "source": "Sentinel",
       "pub_date": "2026-06-30T18:14:16+00:00",
-      "age_hours": 6.782577558611111,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "New City of Westminster Courthouse Under Construction",
-      "link": "https://milehighcre.com/new-city-of-westminster-courthouse-under-construction/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-30T16:50:36+00:00",
-      "age_hours": 8.176083731666667,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Hensel Phelps\u2019 Rocky Mountain Region Moves to Broomfield",
-      "link": "https://milehighcre.com/hensel-phelps-rocky-mountain-region-moves-to-broomfield/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-30T15:48:42+00:00",
-      "age_hours": 9.207750415833333,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Mile High Dine & Recline: Hyatt Regency Denver Elevates Business Travel",
-      "link": "https://milehighcre.com/mile-high-dine-recline-hyatt-regency-denver-elevates-business-travel/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-30T15:22:01+00:00",
-      "age_hours": 9.6524729075,
+      "age_hours": 9.011444741111111,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -117,43 +108,34 @@
       "link": "https://www.westword.com/food-drink/new-vietnamese-restaurant-re-tre-40906125/",
       "source": "Westword",
       "pub_date": "2026-06-30T14:42:56-06:00",
-      "age_hours": 4.304500556388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Denver\u2019s Newest Luxury High-Rise Opens its Doors in the Golden Triangle",
-      "link": "https://milehighcre.com/denvers-newest-luxury-high-rise-opens-its-doors-in-the-golden-triangle/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-06-30T14:15:07+00:00",
-      "age_hours": 10.76747292,
+      "age_hours": 6.533277743611111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Intrepid Fiber acquires Southern California network",
       "link": "https://bizwest.com/2026/06/30/intrepid-fiber-acquires-southern-california-network/",
       "source": "BizWest",
       "pub_date": "2026-06-30T13:04:44+00:00",
-      "age_hours": 11.940126499444444,
+      "age_hours": 14.16900049861111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Coach Prime declares himself \u2018cancer-free\u2019",
       "link": "https://bizwest.com/2026/06/30/coach-prime-declares-himself-cancer-free/",
       "source": "BizWest",
       "pub_date": "2026-06-30T12:52:53+00:00",
-      "age_hours": 12.137626526388889,
+      "age_hours": 14.366500525833334,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "How (and why) Denver\u2019s mayor got private parking lots to set $5 prices",
       "link": "https://denverite.com/2026/06/29/denver-mayor-park-5-dollar/",
       "source": "Denverite",
       "pub_date": "2026-06-29T22:21:17+00:00",
-      "age_hours": 26.66479416472222,
+      "age_hours": 28.89351806722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +144,7 @@
       "link": "https://kdvr.com/news/local/denver-metro-crews-deployed-to-battle-2-wildfires-as-dry-conditions-fuel-fire-danger/",
       "source": "Fox31",
       "pub_date": "2026-06-29T22:16:10+00:00",
-      "age_hours": 26.750503623055558,
+      "age_hours": 28.97936607277778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +153,7 @@
       "link": "https://bizwest.com/2026/06/29/engineering-consultant-eps-group-acquires-tst/",
       "source": "BizWest",
       "pub_date": "2026-06-29T21:39:55+00:00",
-      "age_hours": 27.353737670277777,
+      "age_hours": 29.582611670000002,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +162,25 @@
       "link": "https://bizwest.com/2026/06/29/king-soopers-opens-at-former-lowes-site-in-louisville/",
       "source": "BizWest",
       "pub_date": "2026-06-29T21:35:38+00:00",
-      "age_hours": 27.42512659277778,
+      "age_hours": 29.654000586666665,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Tayer: Tipped minimum wage: Whose burden is it?",
+      "link": "https://bizwest.com/2026/06/29/tayer-tipped-minimum-wage-whose-burden-is-it/",
+      "source": "BizWest",
+      "pub_date": "2026-06-29T19:31:27+00:00",
+      "age_hours": 31.723722851111113,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Denver Suburb To Lose 18 Acres To Nearby City, At High School's Request",
+      "link": "https://www.bisnow.com/denver/news/k-12-education/denver-suburb-to-lose-18-acres-to-nearby-city-at-high-schools-request-135231",
+      "source": "Bisnow",
+      "pub_date": "2026-06-29T17:53:34-04:00",
+      "age_hours": 29.355246654166667,
       "breaking": false,
       "time_ago": "1 day ago"
     }
