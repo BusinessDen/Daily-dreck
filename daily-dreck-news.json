@@ -1,33 +1,33 @@
 {
   "fetched_date": "2026-07-02",
-  "fetched_at": "2026-07-02 16:38:53",
+  "fetched_at": "2026-07-02 17:35:30",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 13,
   "articles": [
     {
-      "title": "New Movie Theater Opens in Parker",
-      "link": "https://milehighcre.com/new-movie-theater-opens-in-parker/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-02T16:27:51+00:00",
-      "age_hours": 0.17970153777777778,
+      "title": "Are banks open Friday? Which stores and services will be open ahead of the holiday weekend",
+      "link": "https://www.9news.com/article/news/nation-world/friday-july-3-what-is-open-closed-banks-post-office/507-a27e2acd-9147-4b54-b192-434972e0eab3",
+      "source": "9News",
+      "pub_date": "2026-07-02T16:48:30+00:00",
+      "age_hours": 0.7799612905555556,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "46 min ago"
     },
     {
       "title": "World's largest passenger aircraft returns to Colorado",
       "link": "https://www.9news.com/article/travel/denver-international-airport/lufthansa-a380-returns-to-denver/73-6d8c486e-3c1a-4623-bda8-de97853301ec",
       "source": "9News",
       "pub_date": "2026-07-02T15:57:33+00:00",
-      "age_hours": 0.684967655,
+      "age_hours": 1.6291280350000001,
       "breaking": true,
-      "time_ago": "41 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "VeoRide implements geofencing and LiDAR to curb sidewalk riding",
       "link": "https://www.9news.com/article/news/local/denver-veo-sidewalk-safety/73-f0e12fc0-a085-4989-ae5d-ad262f8c3a0d",
       "source": "9News",
       "pub_date": "2026-07-02T14:37:14+00:00",
-      "age_hours": 2.0235788388888887,
+      "age_hours": 2.967739196388889,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -36,61 +36,88 @@
       "link": "https://www.9news.com/article/news/nation-world/us-hiring-falls-to-just-57000-in-june/507-217bb490-29aa-47d7-bcba-8b14255e64cb",
       "source": "9News",
       "pub_date": "2026-07-02T14:11:04+00:00",
-      "age_hours": 2.4596900013888887,
+      "age_hours": 3.4038503511111107,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "What to do in Colorado this week: A Fourth of July party unlike the others in Denver",
       "link": "https://coloradosun.com/2026/07/02/whats-happening-fourth-of-july-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-02T14:00:00+00:00",
-      "age_hours": 2.643965158611111,
+      "age_hours": 3.5882130555555554,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "HeyDude settles infringement case in Germany",
+      "link": "https://bizwest.com/2026/07/02/heydude-settles-infringement-case-in-germany/",
+      "source": "BizWest",
+      "pub_date": "2026-07-02T13:41:18+00:00",
+      "age_hours": 3.8995727236111115,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Swimmer trying to cross metro lake rescued just before falling underwater",
       "link": "https://kdvr.com/news/local/swimmer-trying-to-cross-metro-lake-rescued-just-before-falling-underwater/",
       "source": "Fox31",
       "pub_date": "2026-07-02T13:37:14+00:00",
-      "age_hours": 3.0239117999999996,
+      "age_hours": 3.9680512316666667,
       "breaking": true,
       "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Solid Power appoints BMW executive to board",
+      "link": "https://bizwest.com/2026/07/02/solid-power-appoints-bmw-executive-to-board/",
+      "source": "BizWest",
+      "pub_date": "2026-07-02T13:28:32+00:00",
+      "age_hours": 4.112351093333333,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Loveland appoints 2 deputy city managers",
+      "link": "https://bizwest.com/2026/07/02/loveland-appoints-2-deputy-city-managers/",
+      "source": "BizWest",
+      "pub_date": "2026-07-02T13:10:13+00:00",
+      "age_hours": 4.417628901388889,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Aldi files plans for first Colorado stores amid expansion",
       "link": "https://www.9news.com/article/money/business/aldi-first-colorado-stores-expansion-denver-openings/73-8407e356-fb78-46c0-b165-54b45c1c4791",
       "source": "9News",
       "pub_date": "2026-07-02T13:03:11+00:00",
-      "age_hours": 3.591078946944444,
+      "age_hours": 4.535239285277778,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "In-N-Out Burger opens new northern Colorado location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/in-n-out-burger-grand-opening-colorado-restaurant-location/73-1f27ede8-85b0-4daf-819d-5173a4ff77ee",
       "source": "9News",
       "pub_date": "2026-07-02T12:49:35+00:00",
-      "age_hours": 3.8177456547222226,
+      "age_hours": 4.761905988055555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "State\u2019s biggest school districts pass cellphone policies ahead of state deadline",
       "link": "https://sentinelcolorado.com/metro/states-biggest-school-districts-pass-cellphone-policies-ahead-of-state-deadline/",
       "source": "Sentinel",
       "pub_date": "2026-07-02T12:45:24+00:00",
-      "age_hours": 3.888192705833333,
+      "age_hours": 4.832303304722222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "QT opens 4th Aurora location",
       "link": "https://www.9news.com/article/traffic/gas-prices/qt-quiktrip-new-aurora-location/73-49b7860b-5429-4043-b83d-971f24c25e57",
       "source": "9News",
       "pub_date": "2026-07-02T12:37:34+00:00",
-      "age_hours": 4.018023483333333,
+      "age_hours": 4.9621838149999995,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -99,90 +126,63 @@
       "link": "https://coloradosun.com/2026/07/02/tariff-refunds-colorado-import-trade/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-02T10:00:00+00:00",
-      "age_hours": 6.6439659777777775,
+      "age_hours": 7.588213794722223,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Hoping to hike, fish, boat or camp in Colorado this summer? With wildfires and drought, you need to check before you go.",
       "link": "https://coloradosun.com/2026/07/02/recreating-during-drought-wildfires/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-02T10:00:00+00:00",
-      "age_hours": 6.643966531111111,
+      "age_hours": 7.588214335555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado governor fires clemency board members who publicly disclosed voting twice against Tina Peters\u2019 release",
       "link": "https://coloradosun.com/2026/07/01/jared-polis-clemency-board-firings-tina-peters/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-02T04:27:39+00:00",
-      "age_hours": 12.183133631388888,
+      "age_hours": 13.127381491388888,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Missing Air Force veteran found dead after weeks long search",
       "link": "https://kdvr.com/news/local/missing-air-force-veteran-found-dead-after-weeks-long-search/",
       "source": "Fox31",
       "pub_date": "2026-07-02T00:17:35+00:00",
-      "age_hours": 16.351411884166666,
+      "age_hours": 17.29555130972222,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Locksmith accused of exploiting elderly victims across Denver metro",
       "link": "https://kdvr.com/news/local/locksmith-accused-of-exploiting-elderly-victims-across-denver-metro/",
       "source": "Fox31",
       "pub_date": "2026-07-01T22:15:33+00:00",
-      "age_hours": 18.385300837499997,
+      "age_hours": 19.329440270000003,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "It\u2019s official: CSU has joined the Pac-12",
       "link": "https://bizwest.com/2026/07/01/its-official-csu-has-joined-the-pac-12/",
       "source": "BizWest",
       "pub_date": "2026-07-01T21:16:44+00:00",
-      "age_hours": 19.36461641444444,
+      "age_hours": 20.309017818611114,
       "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "NAIOP Colorado Rebrands as CREDA Colorado",
-      "link": "https://milehighcre.com/naiop-colorado-rebrands-as-creda-colorado/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-01T21:10:01+00:00",
-      "age_hours": 19.476924028055553,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "New role for recently hired Sierra Space exec",
       "link": "https://bizwest.com/2026/07/01/new-role-for-recently-hired-sierra-space-exec/",
       "source": "BizWest",
       "pub_date": "2026-07-01T20:12:53+00:00",
-      "age_hours": 20.428783694444444,
+      "age_hours": 21.37318451861111,
       "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "2 new accelerator cohorts target environmental resilience",
-      "link": "https://bizwest.com/2026/07/01/2-new-accelerator-cohorts-target-environmental-resilience/",
-      "source": "BizWest",
-      "pub_date": "2026-07-01T20:09:31+00:00",
-      "age_hours": 20.484894848055557,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Broomfield\u2019s DigitalOcean joins Russell 1000 Index",
-      "link": "https://bizwest.com/2026/07/01/broomfields-digitalocean-joins-russell-1000-index/",
-      "source": "BizWest",
-      "pub_date": "2026-07-01T20:04:10+00:00",
-      "age_hours": 20.57406154722222,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     }
   ]
 }
