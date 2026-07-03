@@ -1,15 +1,15 @@
 {
-  "generated_date": "2026-07-02",
-  "lead_headline": "Subscriptions jump +2 net as restaurant leads hold near 270 and liquor filings stay frozen for week four",
+  "generated_date": "2026-07-03",
+  "lead_headline": "Mother Other vegan restaurant debuts in Baker; 1up Arcade Bar shuts LoDo location after 15 years; foreclosures stay quiet",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>4 new leads today:</strong> Good Practice pay-what-you-can art cafe (Jefferson Park), Sherpa Base Camp (Uptown), Dairy Queen closure (Fort Logan). Active leads: 268.",
+      "blurb": "<strong>3 new leads today:</strong> Giorgios Pizza (Virginia Vale), La Vietta trattoria replaces Brider (Highland), R\u1ebd Tre Vietnamese from New Saigon family (Athmar Park). Active leads: 268.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+3",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "22",
+        "value1": "50",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications again</strong> \u2014 the complete freeze now extends to <strong>four full weeks</strong> with no new bar, restaurant, or retail license filings across the 12,325-license database. Previous summer lulls rarely exceeded 10 days. This represents the longest application drought in the tracker's history, raising questions about whether July 4 holiday timing, economic headwinds, or regulatory backlogs are suppressing new hospitality ventures. The last application logged was early June.",
+      "blurb": "<strong>No new applications for the fifth consecutive week</strong> \u2014 the freeze now stretches <strong>35 days</strong> with zero bar, restaurant, or retail license filings logged since early June. This surpasses any previous summer slowdown in the tracker's records. The 12,325-license database typically sees 3-5 weekly applications even during holiday periods, making this drought unprecedented. Whether driven by July 4 timing, financing constraints, or administrative delays remains unclear, but the silence suggests either a chilled hospitality investment climate or a significant processing backlog waiting to clear.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,16 +54,16 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>5 mentions yesterday</strong> \u2014 social chatter on Reddit and Facebook dominated coverage, while dasbluebird.de picked up the Fluid Truck bankruptcy story. The 7-day total jumped to <strong>70 mentions</strong> across 14 sources, up from 52 the prior week (+35% week-over-week). Facebook leads with 20 pickups, followed by Reddit (16) and Instagram (8). The Denver Post contributed 6 pieces. Primary election coverage and Uptown shelter permitting drove engagement, while the Fluid Truck $35M debt reveal got international pickup.",
+      "blurb": "<strong>9 mentions yesterday</strong> \u2014 Hoodline covered Ambrose warehouse acquisitions, while Facebook and Reddit amplified Aldi's first Denver store proposal and QuikTrip's 14-store construction pipeline. The week's <strong>70 mentions</strong> across 16 sources tops last week's 54 (+30% week-over-week). Facebook dominates with 22 pickups, Reddit contributes 16, Instagram adds 9. Google News RSS delivered 67 of the 70 discoveries. The Aldi announcement and QT expansion generated the strongest social engagement, overshadowing the steel fabricator bankruptcy story.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "5",
+        "value1": "9",
         "class1": "",
         "period": "today"
       },
@@ -72,22 +72,22 @@
         "value1": "70",
         "class1": "up",
         "label2": "sources",
-        "value2": "14",
+        "value2": "16",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +2 yesterday</strong> (2 new, 0 canceled) lifts MTD to <strong>+5</strong> \u2014 the month opened slowly but gained momentum Monday-Tuesday. 90-day net stands at <strong>+132</strong>. The past seven days delivered +23 net (40 new, 17 canceled), a sharp reversal from the prior week's flat performance (10 new, 10 canceled). Sunday-Monday produced a +16 two-day surge, the strongest 48-hour stretch since mid-June. The recent acceleration contrasts with late June's stagnation, restoring the steady YTD pace of +1.3/day.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) pulls MTD to <strong>+8</strong> \u2014 still tracking +4.0/day for July. 90-day net holds at <strong>+132</strong>. The past week delivered +26 net (45 new, 19 canceled), accelerating sharply from the prior week's \u22125 net. The 7-day surge reversed late June's stagnation, driven by a 3-day run (June 29-July 1) that added +23 net subscribers. Yesterday's single cancelation snapped that streak but doesn't yet signal a trend shift. The month remains ahead of the YTD pace of +1.3/day, with momentum still elevated above June's flat baseline.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "5",
-      "net_ytd": "231",
-      "net_mtd_per_day": "5.0",
+      "net_mtd": "8",
+      "net_ytd": "234",
+      "net_mtd_per_day": "4.0",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "3",
-      "annual_ytd": "189",
-      "monthly_mtd": "2",
-      "monthly_ytd": "42"
+      "annual_mtd": "5",
+      "annual_ytd": "150",
+      "monthly_mtd": "3",
+      "monthly_ytd": "84"
     }
   }
 }
