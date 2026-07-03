@@ -1,96 +1,159 @@
 {
-  "fetched_date": "2026-07-02",
-  "fetched_at": "2026-07-02 23:27:17",
+  "fetched_date": "2026-07-03",
+  "fetched_at": "2026-07-03 00:46:08",
   "article_count": 20,
   "breaking_count": 9,
   "articles": [
+    {
+      "title": "Cherry Creek spent $65K on investigation, but invoices remain secret, records show",
+      "link": "https://www.coloradopolitics.com/2026/07/02/cherry-creek-spent-65k-on-investigation-but-invoices-remain-secret-records-show/",
+      "source": "CO Politics",
+      "pub_date": "2026-07-02T22:49:44+00:00",
+      "age_hours": 1.936028091111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Trophy company prizes its new home",
+      "link": "https://bizwest.com/2026/07/02/trophy-company-prizes-its-new-home/",
+      "source": "BizWest",
+      "pub_date": "2026-07-02T21:43:50+00:00",
+      "age_hours": 3.033177462777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Firm that bought Estes hotel suing seller 3 years later",
+      "link": "https://bizwest.com/2026/07/02/firm-that-bought-estes-hotel-suing-seller-3-years-later/",
+      "source": "BizWest",
+      "pub_date": "2026-07-02T21:33:35+00:00",
+      "age_hours": 3.204011359166667,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "No charges for Denver officers in May downtown shooting",
       "link": "https://kdvr.com/news/local/no-charges-for-denver-officers-in-may-downtown-shooting/",
       "source": "Fox31",
       "pub_date": "2026-07-02T21:27:05+00:00",
-      "age_hours": 1.9999139783333335,
+      "age_hours": 3.3132673416666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "'Dangerous pattern': Denver Police issue warning after two vehicle owners shot, killed while confronting suspects",
       "link": "https://www.9news.com/article/news/crime/denver-police-warning-car-break-in-homicides/73-52ac8bc7-5cb1-4001-b0b2-6e6fcf1d0e85",
       "source": "9News",
       "pub_date": "2026-07-02T21:19:03+00:00",
-      "age_hours": 2.133579746666667,
+      "age_hours": 3.446888078611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Are banks open Friday? Which stores and services will be open ahead of the holiday weekend",
       "link": "https://www.9news.com/article/news/nation-world/friday-july-3-what-is-open-closed-banks-post-office/507-a27e2acd-9147-4b54-b192-434972e0eab3",
       "source": "9News",
       "pub_date": "2026-07-02T20:39:40+00:00",
-      "age_hours": 2.789968669166667,
+      "age_hours": 4.103277000555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Crypto, real estate, watches: How Trump made over $1 billion last year",
       "link": "https://sentinelcolorado.com/uncategorized/crypto-real-estate-watches-how-trump-made-over-1-billion-last-year/",
       "source": "Sentinel",
       "pub_date": "2026-07-02T19:28:53+00:00",
-      "age_hours": 3.970371293611111,
+      "age_hours": 5.283547655555556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Spirit Halloween looking to fill 52,000 jobs as it begins its seasonal hiring push",
       "link": "https://www.9news.com/article/news/nation-world/spirit-halloween-seasonal-hiring-push/507-7c07b9b5-5616-4982-beb1-e93d8cac350c",
       "source": "9News",
       "pub_date": "2026-07-02T19:06:59+00:00",
-      "age_hours": 4.3346909630555555,
+      "age_hours": 5.6479992913888895,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "DIA makes viral SAUCER1 stunt to welcome World UFO Day, Lufthansa A380 landing",
       "link": "https://kdvr.com/news/local/dia-makes-viral-saucer1-stunt-to-welcome-world-ufo-day-lufthansa-a380-landing/",
       "source": "Fox31",
       "pub_date": "2026-07-02T19:03:27+00:00",
-      "age_hours": 4.3938027150000005,
+      "age_hours": 5.7071560733333335,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Historic Weld dairy farm files for bankruptcy protection",
+      "link": "https://bizwest.com/2026/07/02/historic-weld-dairy-farm-files-for-bankruptcy-protection/",
+      "source": "BizWest",
+      "pub_date": "2026-07-02T18:42:37+00:00",
+      "age_hours": 6.053455836944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "EPS Group transitions to employee ownership",
+      "link": "https://bizwest.com/2026/07/02/eps-group-transitions-to-employee-ownership/",
+      "source": "BizWest",
+      "pub_date": "2026-07-02T18:38:17+00:00",
+      "age_hours": 6.125678065555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Colorado biz leaders slightly more confident in economy",
+      "link": "https://bizwest.com/2026/07/02/colorado-biz-leaders-slightly-more-confident-in-economy/",
+      "source": "BizWest",
+      "pub_date": "2026-07-02T18:34:37+00:00",
+      "age_hours": 6.1867891825,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado business confidence improves but still pessimistic",
       "link": "https://www.coloradopolitics.com/2026/07/02/colorado-business-confidence-improves-but-still-pessimistic/",
       "source": "CO Politics",
       "pub_date": "2026-07-02T18:26:26+00:00",
-      "age_hours": 5.011171868333333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.324361465,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Chris Johnson seeking revival of Ice Bucket Challenge as he continues his fight against ALS",
       "link": "https://www.9news.com/article/news/nation-world/chris-johnson-ice-bucket-challenge-fight-against-als/507-508d72a5-3337-4830-8690-ebb62bc0bf6f",
       "source": "9News",
       "pub_date": "2026-07-02T17:44:20+00:00",
-      "age_hours": 5.712191013888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.0254993386111115,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Movers and Shakers Week Ending 07.03.26",
+      "link": "https://milehighcre.com/movers-and-shakers-week-ending-07-03-26/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-07-02T16:44:34+00:00",
+      "age_hours": 8.021315866111111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "New Movie Theater Opens in Parker",
+      "link": "https://milehighcre.com/new-movie-theater-opens-in-parker/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-07-02T16:27:51+00:00",
+      "age_hours": 8.2999269925,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "World's largest passenger aircraft returns to Colorado",
       "link": "https://www.9news.com/article/travel/denver-international-airport/lufthansa-a380-returns-to-denver/73-6d8c486e-3c1a-4623-bda8-de97853301ec",
       "source": "9News",
       "pub_date": "2026-07-02T15:57:33+00:00",
-      "age_hours": 7.491913262777778,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "VeoRide implements geofencing and LiDAR to curb sidewalk riding",
-      "link": "https://www.9news.com/article/news/local/denver-veo-sidewalk-safety/73-f0e12fc0-a085-4989-ae5d-ad262f8c3a0d",
-      "source": "9News",
-      "pub_date": "2026-07-02T14:37:14+00:00",
-      "age_hours": 8.830524421944444,
+      "age_hours": 8.805221590277778,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -99,90 +162,27 @@
       "link": "https://coloradosun.com/2026/07/02/whats-happening-fourth-of-july-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-02T14:00:00+00:00",
-      "age_hours": 9.450905859444445,
+      "age_hours": 10.76422969,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "HeyDude settles infringement case in Germany",
       "link": "https://bizwest.com/2026/07/02/heydude-settles-infringement-case-in-germany/",
       "source": "BizWest",
       "pub_date": "2026-07-02T13:41:18+00:00",
-      "age_hours": 9.762282413888888,
+      "age_hours": 11.075400321666667,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Swimmer trying to cross metro lake rescued just before falling underwater",
       "link": "https://kdvr.com/news/local/swimmer-trying-to-cross-metro-lake-rescued-just-before-falling-underwater/",
       "source": "Fox31",
       "pub_date": "2026-07-02T13:37:14+00:00",
-      "age_hours": 9.830747246111113,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Where to eat before you see a show in downtown Denver",
-      "link": "https://www.westword.com/food-drink/best-restaurants-for-pre-theater-dining-denver-40906697/",
-      "source": "Westword",
-      "pub_date": "2026-07-02T13:31:07-06:00",
-      "age_hours": 3.932879349166667,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Solid Power appoints BMW executive to board",
-      "link": "https://bizwest.com/2026/07/02/solid-power-appoints-bmw-executive-to-board/",
-      "source": "BizWest",
-      "pub_date": "2026-07-02T13:28:32+00:00",
-      "age_hours": 9.975060756666666,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Loveland appoints 2 deputy city managers",
-      "link": "https://bizwest.com/2026/07/02/loveland-appoints-2-deputy-city-managers/",
-      "source": "BizWest",
-      "pub_date": "2026-07-02T13:10:13+00:00",
-      "age_hours": 10.280338567222223,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Why are fireworks for sale in Colorado where it's illegal to light them?",
-      "link": "https://www.denver7.com/news/local-news/in-your-community/dougco/confused-about-fireworks-in-douglas-county-heres-why-theyre-still-for-sale-despite-fire-restrictions",
-      "source": "Denver7",
-      "pub_date": "2026-07-02T12:05:55+00:00",
-      "age_hours": 11.352579517222223,
+      "age_hours": 11.14410061111111,
       "breaking": false,
       "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Tariff refunds landing for Colorado importers, though not without a cost for small business",
-      "link": "https://coloradosun.com/2026/07/02/tariff-refunds-colorado-import-trade/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-07-02T10:00:00+00:00",
-      "age_hours": 13.450906591388888,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Hoping to hike, fish, boat or camp in Colorado this summer? With wildfires and drought, you need to check before you go.",
-      "link": "https://coloradosun.com/2026/07/02/recreating-during-drought-wildfires/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-07-02T10:00:00+00:00",
-      "age_hours": 13.450907139444444,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Missing Air Force veteran found dead after weeks long search",
-      "link": "https://kdvr.com/news/local/missing-air-force-veteran-found-dead-after-weeks-long-search/",
-      "source": "Fox31",
-      "pub_date": "2026-07-02T00:17:35+00:00",
-      "age_hours": 23.15824736138889,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
     }
   ]
 }
