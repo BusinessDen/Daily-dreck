@@ -1,150 +1,159 @@
 {
   "fetched_date": "2026-07-03",
-  "fetched_at": "2026-07-03 09:08:23",
+  "fetched_at": "2026-07-03 10:57:30",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Aldi files plans for first Colorado stores amid expansion",
+      "link": "https://www.9news.com/article/money/business/aldi-first-colorado-stores-expansion-denver-openings/73-8407e356-fb78-46c0-b165-54b45c1c4791",
+      "source": "9News",
+      "pub_date": "2026-07-03T10:53:14+00:00",
+      "age_hours": 0.06756991361111112,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "Ouray business owner impacted by Gold Mountain Fire",
+      "link": "https://www.9news.com/article/weather/ouray-business-owner-impacted-by-wildfire/73-32ee55f4-82ea-43b2-9867-206aeb4f570e",
+      "source": "9News",
+      "pub_date": "2026-07-03T10:36:52+00:00",
+      "age_hours": 0.34034774305555554,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Australian Indigenous art front and center at Denver Art Museum exhibit",
+      "link": "https://www.cpr.org/2026/07/03/australian-indigenous-art-front-and-center-at-denver-art-museum-exhibit/",
+      "source": "CPR",
+      "pub_date": "2026-07-03T10:00:00+00:00",
+      "age_hours": 0.9547218569444444,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
+    {
+      "title": "Republicans\u2019 new strategy in Colorado: Tie every Democrat to Melat Kiros",
+      "link": "https://coloradosun.com/2026/07/03/melat-kiros-colorado-democrats-republican-attacks/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-03T09:45:00+00:00",
+      "age_hours": 1.2045868486111113,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "'Dangerous pattern': Denver Police issue warning after two vehicle owners shot, killed while confronting suspects",
       "link": "https://www.9news.com/article/news/crime/denver-police-warning-car-break-in-homicides/73-52ac8bc7-5cb1-4001-b0b2-6e6fcf1d0e85",
       "source": "9News",
       "pub_date": "2026-07-03T03:50:49+00:00",
-      "age_hours": 5.288559746388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.107847794166666,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Are democratic socialists coming for the Denver mayor's office next?",
       "link": "https://www.9news.com/article/news/local/local-politics/democratic-socialists-denver-mayors-office/73-eeeedaad-73e4-4b67-bfb1-05450268a14f",
       "source": "9News",
       "pub_date": "2026-07-03T01:17:45+00:00",
-      "age_hours": 7.839670885555556,
+      "age_hours": 9.658958936944444,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Too close to call; Next with Kyle Clark full show (7/2/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/too-close-to-call-next-with-kyle-clark-full-show-7226/73-59ae106d-18e7-4c06-bb2c-29b40736dbab",
       "source": "9News",
       "pub_date": "2026-07-03T01:01:56+00:00",
-      "age_hours": 8.10328204,
+      "age_hours": 9.922570093888888,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Cherry Creek spent $65K on investigation, but invoices remain secret, records show",
       "link": "https://www.coloradopolitics.com/2026/07/02/cherry-creek-spent-65k-on-investigation-but-invoices-remain-secret-records-show/",
       "source": "CO Politics",
       "pub_date": "2026-07-02T22:49:44+00:00",
-      "age_hours": 10.307166642222223,
+      "age_hours": 12.126462890555556,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Trophy company prizes its new home",
       "link": "https://bizwest.com/2026/07/02/trophy-company-prizes-its-new-home/",
       "source": "BizWest",
       "pub_date": "2026-07-02T21:43:50+00:00",
-      "age_hours": 11.404411433611111,
+      "age_hours": 13.219584301944446,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Firm that bought Estes hotel suing seller 3 years later",
       "link": "https://bizwest.com/2026/07/02/firm-that-bought-estes-hotel-suing-seller-3-years-later/",
       "source": "BizWest",
       "pub_date": "2026-07-02T21:33:35+00:00",
-      "age_hours": 11.57524533111111,
+      "age_hours": 13.390418199444444,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "No charges for Denver officers in May downtown shooting",
       "link": "https://kdvr.com/news/local/no-charges-for-denver-officers-in-may-downtown-shooting/",
       "source": "Fox31",
       "pub_date": "2026-07-02T21:27:05+00:00",
-      "age_hours": 11.684447184722222,
+      "age_hours": 13.50364159361111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Are banks open Friday? Which stores and services will be open ahead of the holiday weekend",
-      "link": "https://www.9news.com/article/news/nation-world/friday-july-3-what-is-open-closed-banks-post-office/507-a27e2acd-9147-4b54-b192-434972e0eab3",
-      "source": "9News",
-      "pub_date": "2026-07-02T20:39:40+00:00",
-      "age_hours": 12.474393288611111,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Crypto, real estate, watches: How Trump made over $1 billion last year",
       "link": "https://sentinelcolorado.com/uncategorized/crypto-real-estate-watches-how-trump-made-over-1-billion-last-year/",
       "source": "Sentinel",
       "pub_date": "2026-07-02T19:28:53+00:00",
-      "age_hours": 13.65468223361111,
+      "age_hours": 15.474011964722223,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "DIA makes viral SAUCER1 stunt to welcome World UFO Day, Lufthansa A380 landing",
       "link": "https://kdvr.com/news/local/dia-makes-viral-saucer1-stunt-to-welcome-world-ufo-day-lufthansa-a380-landing/",
       "source": "Fox31",
       "pub_date": "2026-07-02T19:03:27+00:00",
-      "age_hours": 14.078335901111112,
+      "age_hours": 15.897530294444445,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Historic Weld dairy farm files for bankruptcy protection",
       "link": "https://bizwest.com/2026/07/02/historic-weld-dairy-farm-files-for-bankruptcy-protection/",
       "source": "BizWest",
       "pub_date": "2026-07-02T18:42:37+00:00",
-      "age_hours": 14.424689808611111,
+      "age_hours": 16.239862677222224,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "EPS Group transitions to employee ownership",
       "link": "https://bizwest.com/2026/07/02/eps-group-transitions-to-employee-ownership/",
       "source": "BizWest",
       "pub_date": "2026-07-02T18:38:17+00:00",
-      "age_hours": 14.496912037222222,
+      "age_hours": 16.31208490638889,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado biz leaders slightly more confident in economy",
       "link": "https://bizwest.com/2026/07/02/colorado-biz-leaders-slightly-more-confident-in-economy/",
       "source": "BizWest",
       "pub_date": "2026-07-02T18:34:37+00:00",
-      "age_hours": 14.558023154166666,
+      "age_hours": 16.373196023055556,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado business confidence improves but still pessimistic",
       "link": "https://www.coloradopolitics.com/2026/07/02/colorado-business-confidence-improves-but-still-pessimistic/",
       "source": "CO Politics",
       "pub_date": "2026-07-02T18:26:26+00:00",
-      "age_hours": 14.695500014444445,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 07.03.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-07-03-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-02T16:44:34+00:00",
-      "age_hours": 16.392568385277777,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "New Movie Theater Opens in Parker",
-      "link": "https://milehighcre.com/new-movie-theater-opens-in-parker/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-02T16:27:51+00:00",
-      "age_hours": 16.67117950777778,
+      "age_hours": 16.51479626277778,
       "breaking": false,
       "time_ago": "16 hrs ago"
     },
@@ -153,36 +162,27 @@
       "link": "https://coloradosun.com/2026/07/02/whats-happening-fourth-of-july-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-02T14:00:00+00:00",
-      "age_hours": 19.135411793611112,
+      "age_hours": 20.954587708333335,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "HeyDude settles infringement case in Germany",
       "link": "https://bizwest.com/2026/07/02/heydude-settles-infringement-case-in-germany/",
       "source": "BizWest",
       "pub_date": "2026-07-02T13:41:18+00:00",
-      "age_hours": 19.446634293055556,
+      "age_hours": 21.261807163055558,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Swimmer trying to cross metro lake rescued just before falling underwater",
       "link": "https://kdvr.com/news/local/swimmer-trying-to-cross-metro-lake-rescued-just-before-falling-underwater/",
       "source": "Fox31",
       "pub_date": "2026-07-02T13:37:14+00:00",
-      "age_hours": 19.515280426944447,
+      "age_hours": 21.334474843333332,
       "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Where to eat before you see a show in downtown Denver",
-      "link": "https://www.westword.com/food-drink/best-restaurants-for-pre-theater-dining-denver-40906697/",
-      "source": "Westword",
-      "pub_date": "2026-07-02T13:31:07-06:00",
-      "age_hours": 13.617306031944445,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "21 hrs ago"
     }
   ]
 }
