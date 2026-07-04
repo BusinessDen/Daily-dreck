@@ -1,13 +1,13 @@
 {
-  "generated_date": "2026-07-03",
-  "lead_headline": "Mother Other vegan restaurant debuts in Baker; 1up Arcade Bar shuts LoDo location after 15 years; foreclosures stay quiet",
+  "generated_date": "2026-07-04",
+  "lead_headline": "No new restaurant leads detected today \u2014 first zero-lead day in weeks as holiday weekend slows the intelligence pipeline.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 new leads today:</strong> Giorgios Pizza (Virginia Vale), La Vietta trattoria replaces Brider (Highland), R\u1ebd Tre Vietnamese from New Saigon family (Athmar Park). Active leads: 268.",
+      "blurb": "<strong>0 new leads today.</strong> Active leads: 268 (147 openings, 121 closures). The tracker goes dark for the first time this quarter.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "0",
         "label2": "closed",
         "value2": "0",
         "period": "today"
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "50",
+        "value1": "32",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>No new applications for the fifth consecutive week</strong> \u2014 the freeze now stretches <strong>35 days</strong> with zero bar, restaurant, or retail license filings logged since early June. This surpasses any previous summer slowdown in the tracker's records. The 12,325-license database typically sees 3-5 weekly applications even during holiday periods, making this drought unprecedented. Whether driven by July 4 timing, financing constraints, or administrative delays remains unclear, but the silence suggests either a chilled hospitality investment climate or a significant processing backlog waiting to clear.",
+      "blurb": "<strong>Zero applications again \u2014 the freeze now hits 36 days</strong> with no bar, restaurant, or retail license filings since early June. The July 4 holiday extends the longest application drought on record. The 12,325-license database historically sees 2-4 weekly applications even during summer lulls, making this six-week silence anomalous. Whether driven by holiday closures, capital constraints, or administrative bottlenecks, the pipeline remains frozen. The next filing will reset the clock on what's become the most significant licensing slowdown in tracker history.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,22 +54,22 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>9 mentions yesterday</strong> \u2014 Hoodline covered Ambrose warehouse acquisitions, while Facebook and Reddit amplified Aldi's first Denver store proposal and QuikTrip's 14-store construction pipeline. The week's <strong>70 mentions</strong> across 16 sources tops last week's 54 (+30% week-over-week). Facebook dominates with 22 pickups, Reddit contributes 16, Instagram adds 9. Google News RSS delivered 67 of the 70 discoveries. The Aldi announcement and QT expansion generated the strongest social engagement, overshadowing the steel fabricator bankruptcy story.",
+      "blurb": "<strong>4 mentions yesterday</strong> \u2014 Facebook drove 3 of 4 pickups, circulating stories on Denver democratic socialist strategy, downtown office vacancies, and mayoral politics. Buildremote covered city return-to-office policies. The week closes at <strong>74 mentions</strong> across 16 sources, up 35% from last week's 55. Facebook leads with 27 citations, Reddit adds 17, Instagram and X.com contribute 6 each. Hoodline ran 3 Denver business pieces. Google News RSS delivered 72 of 74 discoveries. The Kiro mayoral speculation and downtown office crisis narratives fueled the week's strongest engagement, overtaking the Luxonis funding announcement and Aldi expansion coverage.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "9",
+        "value1": "4",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "70",
+        "value1": "74",
         "class1": "up",
         "label2": "sources",
         "value2": "16",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) pulls MTD to <strong>+8</strong> \u2014 still tracking +4.0/day for July. 90-day net holds at <strong>+132</strong>. The past week delivered +26 net (45 new, 19 canceled), accelerating sharply from the prior week's \u22125 net. The 7-day surge reversed late June's stagnation, driven by a 3-day run (June 29-July 1) that added +23 net subscribers. Yesterday's single cancelation snapped that streak but doesn't yet signal a trend shift. The month remains ahead of the YTD pace of +1.3/day, with momentum still elevated above June's flat baseline.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) holds MTD at <strong>+8</strong>, still running +2.7/day for July. 90-day net: <strong>+132</strong>. The second consecutive day of negative net (\u22121 Wed, \u22121 Thu) follows last week's explosive +26 run that reversed June's stagnation. The 7-day window still shows strength (+26 net vs. prior week's \u22126), but the two-day pause suggests the late-June surge may be cooling. July's pace (+2.7/day) still outperforms the YTD baseline (+1.3/day), and the 90-day trend remains strongly positive. Whether this week's slowdown is holiday-related or signals momentum loss will clarify by Monday.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "8",
       "net_ytd": "234",
-      "net_mtd_per_day": "4.0",
+      "net_mtd_per_day": "2.7",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "5",
-      "annual_ytd": "150",
-      "monthly_mtd": "3",
-      "monthly_ytd": "84"
+      "annual_mtd": "6",
+      "annual_ytd": "187",
+      "monthly_mtd": "2",
+      "monthly_ytd": "47"
     }
   }
 }
