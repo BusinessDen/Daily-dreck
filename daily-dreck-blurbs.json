@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-07-04",
-  "lead_headline": "No new restaurant leads detected today \u2014 first zero-lead day in weeks as holiday weekend slows the intelligence pipeline.",
+  "generated_date": "2026-07-05",
+  "lead_headline": "Restaurant tracker stays silent for second straight day \u2014 zero new leads as July 4 weekend extends the freeze across all consumer-facing intelligence.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>0 new leads today.</strong> Active leads: 268 (147 openings, 121 closures). The tracker goes dark for the first time this quarter.",
+      "blurb": "<strong>0 new leads today.</strong> Active leads: 271 (147 openings, 124 closures). The holiday weekend extends the drought \u2014 two consecutive zero-lead days, longest since April.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -16,7 +16,7 @@
         "label1": "opened",
         "value1": "147",
         "label2": "closed",
-        "value2": "121",
+        "value2": "124",
         "period": "all leads"
       }
     },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications again \u2014 the freeze now hits 36 days</strong> with no bar, restaurant, or retail license filings since early June. The July 4 holiday extends the longest application drought on record. The 12,325-license database historically sees 2-4 weekly applications even during summer lulls, making this six-week silence anomalous. Whether driven by holiday closures, capital constraints, or administrative bottlenecks, the pipeline remains frozen. The next filing will reset the clock on what's become the most significant licensing slowdown in tracker history.",
+      "blurb": "<strong>Zero applications \u2014 the freeze now hits 37 days.</strong> No bar, restaurant, or retail license filings since early June. The July 4 holiday adds another day to what's now the longest application drought on record. The 12,325-license database historically processes 2-4 weekly applications even during summer lulls, making this six-week silence unprecedented. Whether driven by extended holiday closures, capital constraints, or state administrative backlogs, the pipeline remains frozen. The next filing will reset the clock on a licensing slowdown without modern precedent.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,40 +54,40 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>4 mentions yesterday</strong> \u2014 Facebook drove 3 of 4 pickups, circulating stories on Denver democratic socialist strategy, downtown office vacancies, and mayoral politics. Buildremote covered city return-to-office policies. The week closes at <strong>74 mentions</strong> across 16 sources, up 35% from last week's 55. Facebook leads with 27 citations, Reddit adds 17, Instagram and X.com contribute 6 each. Hoodline ran 3 Denver business pieces. Google News RSS delivered 72 of 74 discoveries. The Kiro mayoral speculation and downtown office crisis narratives fueled the week's strongest engagement, overtaking the Luxonis funding announcement and Aldi expansion coverage.",
+      "blurb": "<strong>1 mention yesterday</strong> \u2014 a single Facebook pickup as the July 4 holiday weekend suppresses media activity. The week closes at <strong>73 mentions</strong> across 17 sources, up 26% from last week's 58. Facebook dominates with 26 citations, Reddit contributes 17, Instagram and X.com add 6 each, Hoodline runs 3. Google News RSS delivered 71 of 73 discoveries. Broncos headquarters investment, Inspirato sponsorship exit, and German grocer Aldi's Colorado entry drove the week's strongest engagement. The holiday weekend typically suppresses citation velocity \u2014 Monday's resumption will clarify whether the uptrend holds or the late-June surge was transient.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "4",
-        "class1": "",
+        "value1": "1",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "74",
+        "value1": "73",
         "class1": "up",
         "label2": "sources",
-        "value2": "16",
+        "value2": "17",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) holds MTD at <strong>+8</strong>, still running +2.7/day for July. 90-day net: <strong>+132</strong>. The second consecutive day of negative net (\u22121 Wed, \u22121 Thu) follows last week's explosive +26 run that reversed June's stagnation. The 7-day window still shows strength (+26 net vs. prior week's \u22126), but the two-day pause suggests the late-June surge may be cooling. July's pace (+2.7/day) still outperforms the YTD baseline (+1.3/day), and the 90-day trend remains strongly positive. Whether this week's slowdown is holiday-related or signals momentum loss will clarify by Monday.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) nudges MTD down to <strong>+9</strong> (+2.2/day). 90-day net: <strong>+117</strong>. The third straight day of zero or negative net (Wed \u22121, Thu \u22121, Fri \u22121) breaks the late-June momentum that peaked June 30 with +13. The 7-day window still shows strength (+27 net vs. prior week's \u22125), but three consecutive flat/negative days suggest the explosive June 29-30 surge (+17 in two days) was an anomaly, not a trend shift. July's pace (+2.2/day) still outpaces YTD baseline (+1.3/day), but the recent stall mirrors the pattern that preceded June's \u22129 week. Holiday weekend timing complicates the read \u2014 Monday's numbers will clarify whether this is seasonal noise or a genuine momentum reversal.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "8",
-      "net_ytd": "234",
-      "net_mtd_per_day": "2.7",
+      "net_mtd": "9",
+      "net_ytd": "235",
+      "net_mtd_per_day": "2.2",
       "net_ytd_per_day": "1.3",
-      "annual_mtd": "6",
-      "annual_ytd": "187",
-      "monthly_mtd": "2",
-      "monthly_ytd": "47"
+      "annual_mtd": "8",
+      "annual_ytd": "198",
+      "monthly_mtd": "1",
+      "monthly_ytd": "37"
     }
   }
 }
