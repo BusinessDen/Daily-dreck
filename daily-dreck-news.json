@@ -1,60 +1,60 @@
 {
   "fetched_date": "2026-07-05",
-  "fetched_at": "2026-07-05 01:37:52",
+  "fetched_at": "2026-07-05 03:11:02",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 1,
   "articles": [
     {
       "title": "One pronounced dead after multiple people stabbed in Denver",
       "link": "https://kdvr.com/news/local/one-pronounced-dead-after-multiple-people-stabbed-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-07-05T00:37:45+00:00",
-      "age_hours": 0.9982626672222222,
+      "age_hours": 2.5509359483333336,
       "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver non-profit helps veterans heal through adventure, exploration",
       "link": "https://kdvr.com/news/local/denver-non-profit-helps-veterans-heal-through-adventure-exploration/",
       "source": "Fox31",
       "pub_date": "2026-07-04T19:52:34+00:00",
-      "age_hours": 5.751318466111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.303991745277778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Democratic Colorado rural congressman threatens to caucus with GOP to preserve PILT | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/07/04/democratic-colorado-rural-congressman-threatens-to-caucus-with-gop-to-preserve-pilt-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-04T11:00:00+00:00",
-      "age_hours": 14.627717547222224,
+      "age_hours": 16.180465675277777,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Spring Sports All-Aurora 2026: Full Aurora Sentinel All-Aurora Girls Soccer Teams",
       "link": "https://sentinelcolorado.com/sports/preps/girls-soccer/spring-sports-all-aurora-2026-full-aurora-sentinel-all-aurora-girls-soccer-teams/",
       "source": "Sentinel",
       "pub_date": "2026-07-04T05:17:09+00:00",
-      "age_hours": 20.341908973333336,
+      "age_hours": 21.894687384166666,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Mother gives update on daughter dragged by alleged drunk driver in LoDo",
       "link": "https://kdvr.com/news/local/mother-gives-update-on-daughter-dragged-by-alleged-drunk-driver-in-lodo/",
       "source": "Fox31",
       "pub_date": "2026-07-04T03:51:13+00:00",
-      "age_hours": 21.773818330555553,
+      "age_hours": 23.32649161388889,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Kara Swisher took Silicon Valley by force. Now she\u2019s eyeing influence in the 2028 campaign",
       "link": "https://sentinelcolorado.com/uncategorized/kara-swisher-took-silicon-valley-by-force-now-shes-eyeing-influence-in-the-2028-campaign/",
       "source": "Sentinel",
       "pub_date": "2026-07-03T23:24:52+00:00",
-      "age_hours": 26.21329824861111,
+      "age_hours": 27.766076612777777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +63,7 @@
       "link": "https://kdvr.com/denver-guide/events-and-activities-across-denver-metro-during-fourth-of-july-weekend/",
       "source": "Fox31",
       "pub_date": "2026-07-03T20:19:59+00:00",
-      "age_hours": 29.294373840833334,
+      "age_hours": 30.847047127777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://kdvr.com/denver-guide/this-is-where-aldi-grocery-wants-to-put-its-first-denver-locations/",
       "source": "Fox31",
       "pub_date": "2026-07-03T17:33:23+00:00",
-      "age_hours": 32.071040615,
+      "age_hours": 33.62371388388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://www.cpr.org/2026/07/03/australian-indigenous-art-front-and-center-at-denver-art-museum-exhibit/",
       "source": "CPR",
       "pub_date": "2026-07-03T10:00:00+00:00",
-      "age_hours": 39.62705188611111,
+      "age_hours": 41.179737236111116,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://coloradosun.com/2026/07/03/melat-kiros-colorado-democrats-republican-attacks/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-03T09:45:00+00:00",
-      "age_hours": 39.876933545,
+      "age_hours": 41.42959482055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-news-aldi-marczyk-burger-40906815/",
       "source": "Westword",
       "pub_date": "2026-07-03T09:07:00-06:00",
-      "age_hours": 34.51084978527778,
+      "age_hours": 36.063571446666664,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/02/cherry-creek-spent-65k-on-investigation-but-invoices-remain-secret-records-show/",
       "source": "CO Politics",
       "pub_date": "2026-07-02T22:49:44+00:00",
-      "age_hours": 50.79882878694445,
+      "age_hours": 52.35157691027778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/02/trophy-company-prizes-its-new-home/",
       "source": "BizWest",
       "pub_date": "2026-07-02T21:43:50+00:00",
-      "age_hours": 51.89585245833334,
+      "age_hours": 53.44862608194444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/02/firm-that-bought-estes-hotel-suing-seller-3-years-later/",
       "source": "BizWest",
       "pub_date": "2026-07-02T21:33:35+00:00",
-      "age_hours": 52.066686383333334,
+      "age_hours": 53.61946004166666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/07/02/historic-weld-dairy-farm-files-for-bankruptcy-protection/",
       "source": "BizWest",
       "pub_date": "2026-07-02T18:42:37+00:00",
-      "age_hours": 54.916130861666666,
+      "age_hours": 56.46890452444444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://bizwest.com/2026/07/02/eps-group-transitions-to-employee-ownership/",
       "source": "BizWest",
       "pub_date": "2026-07-02T18:38:17+00:00",
-      "age_hours": 54.988353090277776,
+      "age_hours": 56.54112675444445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/07/02/colorado-biz-leaders-slightly-more-confident-in-economy/",
       "source": "BizWest",
       "pub_date": "2026-07-02T18:34:37+00:00",
-      "age_hours": 55.04946421555555,
+      "age_hours": 56.60223787166667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/02/colorado-business-confidence-improves-but-still-pessimistic/",
       "source": "CO Politics",
       "pub_date": "2026-07-02T18:26:26+00:00",
-      "age_hours": 55.187162155,
+      "age_hours": 56.739910280277776,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-07-03-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-02T16:44:34+00:00",
-      "age_hours": 56.88391639138889,
+      "age_hours": 58.43672418916667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://milehighcre.com/new-movie-theater-opens-in-parker/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-02T16:27:51+00:00",
-      "age_hours": 57.16252751444445,
+      "age_hours": 58.715335314444445,
       "breaking": false,
       "time_ago": "2 days ago"
     }
