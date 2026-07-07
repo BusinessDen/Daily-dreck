@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-07-07",
-  "fetched_at": "2026-07-07 21:32:07",
+  "fetched_at": "2026-07-07 22:26:39",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Former Mountain View town council member who shot a 17-year-old gets four years of probation",
+      "link": "https://www.cpr.org/2026/07/07/mountain-view-council-member-shot-17-year-old-sentencing/",
+      "source": "CPR",
+      "pub_date": "2026-07-07T22:24:01+00:00",
+      "age_hours": 0.03882697916666667,
+      "breaking": true,
+      "time_ago": "2 min ago"
+    },
+    {
+      "title": "Colorado attorney general sues HUD over changes to homeless funding",
+      "link": "https://www.coloradopolitics.com/2026/07/07/colorado-attorney-general-sues-hud-over-changes-to-homeless-funding/",
+      "source": "CO Politics",
+      "pub_date": "2026-07-07T22:14:07+00:00",
+      "age_hours": 0.20485526611111113,
+      "breaking": true,
+      "time_ago": "12 min ago"
+    },
+    {
+      "title": "US military strikes Iran after Tehran hits 3 tankers in Strait of Hormuz",
+      "link": "https://kdvr.com/news/nationalworld-news/us-military-strikes-iran-after-tehran-hits-3-tankers-in-strait-of-hormuz/",
+      "source": "Fox31",
+      "pub_date": "2026-07-07T21:42:11+00:00",
+      "age_hours": 0.7368199230555555,
+      "breaking": true,
+      "time_ago": "44 min ago"
+    },
+    {
+      "title": "Broomfield Town Square developers withdraw permit extension request",
+      "link": "https://bizwest.com/2026/07/07/broomfield-town-square-developers-withdraw-permit-extension-request/",
+      "source": "BizWest",
+      "pub_date": "2026-07-07T21:36:41+00:00",
+      "age_hours": 0.8269816011111112,
+      "breaking": true,
+      "time_ago": "49 min ago"
+    },
     {
       "title": "2 Northern Colorado PNC Bank branches among 18 to close",
       "link": "https://bizwest.com/2026/07/07/2-northern-colorado-pnc-bank-branches-among-18-to-close/",
       "source": "BizWest",
       "pub_date": "2026-07-07T21:23:42+00:00",
-      "age_hours": 0.13435854249999998,
+      "age_hours": 1.0433705066666668,
       "breaking": true,
-      "time_ago": "8 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "DigitalOcean shares surge on bullish Q2 expectations",
       "link": "https://bizwest.com/2026/07/07/digitalocean-shares-surge-on-bullish-q2-expectations/",
       "source": "BizWest",
       "pub_date": "2026-07-07T21:17:55+00:00",
-      "age_hours": 0.23074795583333332,
+      "age_hours": 1.1397600108333332,
       "breaking": true,
-      "time_ago": "13 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Vail police seek suspect after $1.2K bottle of tequila stolen",
       "link": "https://kdvr.com/news/local/vail-police-seek-suspect-after-1-2k-bottle-of-tequila-stolen/",
       "source": "Fox31",
       "pub_date": "2026-07-07T21:17:42+00:00",
-      "age_hours": 0.2352800472222222,
+      "age_hours": 1.1448753927777777,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "The Denver Studio Behind Colorado\u2019s Hospitality Boom",
       "link": "https://milehighcre.com/the-denver-studio-behind-colorados-hospitality-boom/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-07T20:48:46+00:00",
-      "age_hours": 0.7169226008333334,
+      "age_hours": 1.6258999594444445,
       "breaking": true,
-      "time_ago": "43 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aurora Public Schools official gets national shout out for combating childhood hunger",
       "link": "https://sentinelcolorado.com/metro/aurora-public-schools-official-gets-national-shout-out-for-combating-childhood-hunger/",
       "source": "Sentinel",
       "pub_date": "2026-07-07T20:12:22+00:00",
-      "age_hours": 1.3245773894444446,
+      "age_hours": 2.234052668611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Even 250 years in, the battle over the American story \u2014 and who gets to tell it \u2014 endures",
       "link": "https://sentinelcolorado.com/uncategorized/even-250-years-in-the-battle-over-the-american-story-and-who-gets-to-tell-it-endures/",
       "source": "Sentinel",
       "pub_date": "2026-07-07T19:45:05+00:00",
-      "age_hours": 1.7793000619444443,
+      "age_hours": 2.688775298611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Littleton\u2019s Los Dos Potrillos set to reopen after kitchen fire",
       "link": "https://www.9news.com/article/life/style/colorado-guide/los-dos-potrillos-littleton-set-to-reopen-fire/73-da960f87-f2ad-47f3-b030-a38847f3413d",
       "source": "9News",
       "pub_date": "2026-07-07T19:11:52+00:00",
-      "age_hours": 2.332241192777778,
+      "age_hours": 3.241380803333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Electricity is out at a Denver hotel homeless shelter",
       "link": "https://denverite.com/2026/07/07/electricity-is-out-at-a-denver-hotel-homeless-shelter/",
       "source": "Denverite",
       "pub_date": "2026-07-07T19:07:50+00:00",
-      "age_hours": 2.3993417275,
+      "age_hours": 3.3083197936111115,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Hopscotch Beer Garden Opens at Denargo Market July 11",
       "link": "https://milehighcre.com/hopscotch-beer-garden-opens-at-denargo-market-july-11/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-07T19:06:32+00:00",
-      "age_hours": 2.4208117855555553,
+      "age_hours": 3.3297891572222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "PNC closing 14 Colorado bank branches after FirstBank transition",
       "link": "https://www.9news.com/article/money/personal-finance/pnc-closing-branches-firstbank-conversion/73-7af56b14-9945-4274-82cf-d23b32ee5a21",
       "source": "9News",
       "pub_date": "2026-07-07T18:07:32+00:00",
-      "age_hours": 3.404463491111111,
+      "age_hours": 4.313603104166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "U.S. Rep. Gabe Evans says Colorado small businesses are feeling the strain from state regulations in letter to Gov. Polis",
       "link": "https://www.coloradopolitics.com/2026/07/07/u-s-rep-gabe-evans-says-colorado-small-businesses-are-feeling-the-strain-from-state-regulations-in-letter-to-gov-polis/",
       "source": "CO Politics",
       "pub_date": "2026-07-07T17:23:03+00:00",
-      "age_hours": 4.146476993055556,
+      "age_hours": 5.055966409722222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Pinkard Becomes a Catamount Company",
       "link": "https://milehighcre.com/pinkard-becomes-a-catamount-company/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-07T15:46:45+00:00",
-      "age_hours": 5.750534018888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.6595113925,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "One of the Nation\u2019s Largest 3D-Printed Residential Communities Advances in Salida",
       "link": "https://milehighcre.com/one-of-the-nations-largest-3d-printed-residential-communities-advances-in-salida/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-07T15:33:08+00:00",
-      "age_hours": 5.977478472222223,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.886455847222223,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Popular Mexican restaurant set to reopen Littleton location after kitchen fire",
       "link": "https://kdvr.com/denver-guide/popular-mexican-restaurant-set-to-reopen-littleton-location-after-kitchen-fire/",
       "source": "Fox31",
       "pub_date": "2026-07-07T14:17:09+00:00",
-      "age_hours": 7.244446769166666,
+      "age_hours": 8.154042243055555,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "ALDI Files Plans for First Two Denver Stores",
       "link": "https://milehighcre.com/aldi-files-plans-for-first-two-denver-stores/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-07T14:13:03+00:00",
-      "age_hours": 7.3122007205555555,
+      "age_hours": 8.221178099444444,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Cyclist killed in crash with semitrailer at construction site",
       "link": "https://kdvr.com/news/local/cyclist-killed-in-crash-with-semitrailer-at-construction-site/",
       "source": "Fox31",
       "pub_date": "2026-07-07T13:43:38+00:00",
-      "age_hours": 7.803057928055555,
+      "age_hours": 8.712653409166666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Workers organize as Hotel Boulderado rebrands to Graduate by Hilton",
-      "link": "https://bizwest.com/2026/07/07/workers-organize-as-hotel-boulderado-rebrands-to-graduate-by-hilton/",
-      "source": "BizWest",
-      "pub_date": "2026-07-07T13:40:44+00:00",
-      "age_hours": 7.850470209722222,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Cascadia backers ask court to strike down Feb. 24 repeal",
-      "link": "https://bizwest.com/2026/07/07/cascadia-backers-ask-court-to-strike-down-feb-24-repeal/",
-      "source": "BizWest",
-      "pub_date": "2026-07-07T13:33:47+00:00",
-      "age_hours": 7.966303584166666,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Dillon Reservoir taxi pivots to lake cruises amid low water levels",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-boat-business-taxi-dining-cruises/73-27905b66-3663-43e2-af46-acf22d25376e",
-      "source": "9News",
-      "pub_date": "2026-07-07T13:32:47+00:00",
-      "age_hours": 7.983630226944444,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Broomfield City Council considers temporary ban on new data center development",
-      "link": "https://www.denver7.com/news/front-range/broomfield/broomfield-city-council-considers-temporary-ban-on-new-data-center-development",
-      "source": "Denver7",
-      "pub_date": "2026-07-07T11:52:41+00:00",
-      "age_hours": 9.6520835725,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
