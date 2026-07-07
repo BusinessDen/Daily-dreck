@@ -1,24 +1,24 @@
 {
   "fetched_date": "2026-07-07",
-  "fetched_at": "2026-07-07 17:41:30",
+  "fetched_at": "2026-07-07 18:44:59",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "PNC closing 14 Colorado bank branches after FirstBank transition",
+      "link": "https://www.9news.com/article/money/personal-finance/pnc-closing-branches-firstbank-conversion/73-7af56b14-9945-4274-82cf-d23b32ee5a21",
+      "source": "9News",
+      "pub_date": "2026-07-07T18:07:32+00:00",
+      "age_hours": 0.6186291591666667,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
     {
       "title": "U.S. Rep. Gabe Evans says Colorado small businesses are feeling the strain from state regulations in letter to Gov. Polis",
       "link": "https://www.coloradopolitics.com/2026/07/07/u-s-rep-gabe-evans-says-colorado-small-businesses-are-feeling-the-strain-from-state-regulations-in-letter-to-gov-polis/",
       "source": "CO Politics",
       "pub_date": "2026-07-07T17:23:03+00:00",
-      "age_hours": 0.3028355469444445,
-      "breaking": true,
-      "time_ago": "18 min ago"
-    },
-    {
-      "title": "PNC closing 14 Colorado bank branches after FirstBank transition",
-      "link": "https://www.9news.com/article/money/personal-finance/pnc-closing-branches-firstbank-conversion/73-7af56b14-9945-4274-82cf-d23b32ee5a21",
-      "source": "9News",
-      "pub_date": "2026-07-07T16:12:14+00:00",
-      "age_hours": 1.482587471388889,
+      "age_hours": 1.3605810258333335,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -27,162 +27,162 @@
       "link": "https://milehighcre.com/pinkard-becomes-a-catamount-company/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-07T15:46:45+00:00",
-      "age_hours": 1.9070151366666668,
+      "age_hours": 2.9646833455555552,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "One of the Nation\u2019s Largest 3D-Printed Residential Communities Advances in Salida",
       "link": "https://milehighcre.com/one-of-the-nations-largest-3d-printed-residential-communities-advances-in-salida/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-07T15:33:08+00:00",
-      "age_hours": 2.1339595986111113,
+      "age_hours": 3.1916278080555553,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Popular Mexican restaurant set to reopen Littleton location after kitchen fire",
       "link": "https://kdvr.com/denver-guide/popular-mexican-restaurant-set-to-reopen-littleton-location-after-kitchen-fire/",
       "source": "Fox31",
       "pub_date": "2026-07-07T14:17:09+00:00",
-      "age_hours": 3.400887085,
+      "age_hours": 4.458640274722222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "ALDI Files Plans for First Two Denver Stores",
       "link": "https://milehighcre.com/aldi-files-plans-for-first-two-denver-stores/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-07T14:13:03+00:00",
-      "age_hours": 3.4686818494444442,
+      "age_hours": 4.526350060555555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Cyclist killed in crash with semitrailer at construction site",
       "link": "https://kdvr.com/news/local/cyclist-killed-in-crash-with-semitrailer-at-construction-site/",
       "source": "Fox31",
       "pub_date": "2026-07-07T13:43:38+00:00",
-      "age_hours": 3.959498185,
+      "age_hours": 5.017251375555556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Workers organize as Hotel Boulderado rebrands to Graduate by Hilton",
       "link": "https://bizwest.com/2026/07/07/workers-organize-as-hotel-boulderado-rebrands-to-graduate-by-hilton/",
       "source": "BizWest",
       "pub_date": "2026-07-07T13:40:44+00:00",
-      "age_hours": 4.006787115277778,
+      "age_hours": 5.064571753611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Cascadia backers ask court to strike down Feb. 24 repeal",
       "link": "https://bizwest.com/2026/07/07/cascadia-backers-ask-court-to-strike-down-feb-24-repeal/",
       "source": "BizWest",
       "pub_date": "2026-07-07T13:33:47+00:00",
-      "age_hours": 4.122620985833334,
+      "age_hours": 5.180405659722222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Dillon Reservoir taxi pivots to lake cruises amid low water levels",
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-boat-business-taxi-dining-cruises/73-27905b66-3663-43e2-af46-acf22d25376e",
       "source": "9News",
       "pub_date": "2026-07-07T13:32:47+00:00",
-      "age_hours": 4.140087538333333,
+      "age_hours": 5.197795903611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Broomfield City Council considers temporary ban on new data center development",
       "link": "https://www.denver7.com/news/front-range/broomfield/broomfield-city-council-considers-temporary-ban-on-new-data-center-development",
       "source": "Denver7",
       "pub_date": "2026-07-07T11:52:41+00:00",
-      "age_hours": 5.8084799361111115,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.8662303486111105,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Brooke Shields continues her Casa Bonita crusade with nationwide press push",
       "link": "https://www.westword.com/food-drink/brooke-shields-casa-bonita-denver-ambush-40908852/",
       "source": "Westword",
       "pub_date": "2026-07-07T10:46:17-06:00",
-      "age_hours": 0.9154407091666666,
+      "age_hours": 1.9731836052777778,
       "breaking": true,
-      "time_ago": "54 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Xcel rate hike may leave more people struggling to pay bills, even as the utility offers more aid to customers",
       "link": "https://coloradosun.com/2026/07/07/xcel-utility-rates-increase-low-income-bill-support-plan/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-07T10:20:00+00:00",
-      "age_hours": 7.3529369175,
+      "age_hours": 8.41068499388889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Mud\u2019s dirty little secret: It\u2019s really good for you, especially if you\u2019re 4",
       "link": "https://www.cpr.org/2026/07/07/playing-with-mud-benefits-preschoolers/",
       "source": "CPR",
       "pub_date": "2026-07-07T10:00:00+00:00",
-      "age_hours": 7.686378981111111,
+      "age_hours": 8.744141703333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Security issues plague Denver EPA office, lawmakers and employees say",
       "link": "https://www.cpr.org/2026/07/07/denver-epa-office-security-concerns/",
       "source": "CPR",
       "pub_date": "2026-07-07T10:00:00+00:00",
-      "age_hours": 7.686378994166667,
+      "age_hours": 8.744141718333333,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Jokic reaffirms desire to stay with Nuggets for entire career, plans on waiting to sign extension",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/jokic-reaffirms-desire-to-stay-with-nuggets-for-entire-career-plans-on-waiting-to-sign-extension/616-4ddd3d20-ef03-426e-9b4a-b1705d245478",
       "source": "9News",
       "pub_date": "2026-07-07T09:55:21+00:00",
-      "age_hours": 7.763976543333333,
+      "age_hours": 8.821684891944445,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado marijuana regulators issue another vaporizer recall",
       "link": "https://www.westword.com/news/colorado-cannabis-another-vaporizer-recall-40906773/",
       "source": "Westword",
       "pub_date": "2026-07-07T09:16:11-06:00",
-      "age_hours": 2.417107484722222,
+      "age_hours": 3.4748504130555555,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "'It's been awful': As Air Quality Alert days climb in Colorado, it's making people sick",
       "link": "https://www.9news.com/article/news/local/air-quality-alert-days-colorado-making-people-sick/73-7af7dfa9-b09d-41d6-a6fe-cc1e940a25a1",
       "source": "9News",
       "pub_date": "2026-07-07T04:35:41+00:00",
-      "age_hours": 13.09175433138889,
+      "age_hours": 14.149462678333334,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Ex-Intel CEO could up stake in AI-for-churches firm Gloo",
       "link": "https://bizwest.com/2026/07/06/ex-intel-ceo-could-up-stake-in-ai-for-churches-firm-gloo/",
       "source": "BizWest",
       "pub_date": "2026-07-06T21:33:18+00:00",
-      "age_hours": 20.13067657361111,
+      "age_hours": 21.18846124972222,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Restaurant at Buxton Hotel opens with Southern fare",
       "link": "https://bizwest.com/2026/07/06/restaurant-at-buxton-hotel-opens-with-southern-fare/",
       "source": "BizWest",
       "pub_date": "2026-07-06T21:27:50+00:00",
-      "age_hours": 20.22178771333333,
+      "age_hours": 21.2795723925,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     }
   ]
 }
