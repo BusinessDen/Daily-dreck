@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-07-06",
-  "lead_headline": "Weekend restaurant sweep: 3 new leads break the freeze \u2014 Wapos Cantina in Rosedale, Mendocino Farms at Union Station, and Powered By Besitos food truck closure in West Colfax",
+  "generated_date": "2026-07-07",
+  "lead_headline": "Restaurant data erupts: 3 fresh leads detected today after quiet weekend \u2014 Sandomi at Edgewater Public Market, Marczyk FineBurger at Northfield, Caveman Chefs closure",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 leads since Friday:</strong> Wapos Cantina opened in Rosedale (former El Tepehuan), Mendocino Farms debuted at Union Station (third Denver location), Powered By Besitos food truck closed in West Colfax.",
+      "blurb": "<strong>3 leads today:</strong> Sandomi (Japanese sandos/banh mi) opened at Edgewater Public Market, Marczyk FineBurger debuted at Northfield, Caveman Chefs meal delivery closed.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+2",
         "label2": "closed",
         "value2": "\u22121",
-        "period": "since Friday"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "147",
+        "value1": "149",
         "label2": "closed",
-        "value2": "124",
+        "value2": "125",
         "period": "all leads"
       }
     },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications \u2014 the freeze extends to 38 days.</strong> Not a single bar, restaurant, or retail license filing since early June. The post-holiday Monday typically restarts the licensing pipeline, but the drought persists. The 12,325-license database historically processes 2-4 weekly applications even during summer slowdowns. This six-week void now marks the longest recorded application silence. Whether driven by capital constraints, state administrative backlogs, or structural shifts in hospitality investment appetite, the freeze shows no thaw. The next filing will reset a clock on a licensing paralysis without precedent in the modern database era.",
+      "blurb": "<strong>The application freeze hits 39 days.</strong> Zero new filings today extends the unprecedented licensing silence that began June 1. The database tracks 12,325 active licenses but hasn't logged a single new bar, restaurant, or retail application since early June \u2014 now the longest drought in modern tracking history. Post-holiday Mondays historically restart the pipeline with 2-3 applications. Not this time. Whether capital scarcity, state backlogs, or fundamental shifts in hospitality investment are driving the void remains unclear. The first filing will mark the end of an anomaly that's rewriting baseline expectations for Colorado's liquor licensing velocity.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,23 +54,23 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>0 mentions yesterday</strong> \u2014 the July 4 holiday extended into a silent Sunday. The week closes at <strong>71 mentions</strong> across 18 sources, up 15% from last week's 62. Facebook leads with 23 citations, Reddit contributes 18, X.com adds 6, Instagram 5, Hoodline 3. Google News RSS captured 69 of 71 discoveries. Top stories: Broncos headquarters investment, Inspirato sponsorship exit, Colorado mayor's shelter nights. The holiday weekend typically compresses citation velocity. Monday's resumption will clarify whether the uptrend holds or last week's surge was a temporary spike before seasonal summer decline.",
+      "blurb": "<strong>3 mentions yesterday</strong> \u2014 the post-holiday recovery begins. Week closes at <strong>59 mentions</strong> across 18 sources, down 18% from last week's 72. Facebook leads with 19 citations, Reddit contributes 16, X.com adds 4, Hoodline and Instagram each log 3. Google News RSS captured 58 of 59 discoveries. Top stories: Downtown developer's $10.6M power play next to Upton Towers, Pueblo Crossing development plans submitted, Denver Club closure struggles. The holiday week typically compresses volume \u2014 last Monday's 0-mention holiday nadir now reversing. Tuesday's numbers will clarify whether the 18% weekly decline signals summer slowdown or just holiday compression before a return to June's 60-70 citation baseline.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "0",
-        "class1": "",
+        "value1": "3",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "71",
-        "class1": "up",
+        "value1": "59",
+        "class1": "down",
         "label2": "sources",
         "value2": "18",
         "class2": "",
@@ -78,11 +78,11 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net flat since Friday</strong> (3 new, 3 canceled) holds MTD at <strong>+9</strong> (+1.8/day). 90-day net: <strong>+117</strong>. The weekend delivered zero net movement after Friday's \u22121, marking four consecutive days without positive momentum (Wed \u22121, Thu \u22121, Fri \u22121, weekend flat). The explosive June 29-30 surge (+17 in 48 hours) now looks increasingly like an outlier. July's +1.8/day pace still exceeds YTD baseline (+1.3/day), but barely. The 7-day window (+26 net) masks the recent stall \u2014 remove the June 29-30 spike and the trend flattens to near-zero. Holiday weekend timing clouds the signal, but the pattern mirrors the pre-surge June doldrums that preceded a \u22129 week.",
+      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled) \u2014 the fourth consecutive zero-net day. MTD stays at <strong>+9</strong> (+1.5/day), 90-day net holds at <strong>+117</strong>. July opened with promise: the June 29-30 surge (+17 in 48 hours) carried momentum through July 1-3 (+10 net over three days). Then the freeze: four straight days of zero movement (July 4-7). The +1.5/day MTD pace still beats YTD baseline (+1.3/day), but barely. Remove the June 29-30 spike and July flattens to near-zero. The 7-day window (+22 net) masks the stall \u2014 it's propped up entirely by the explosive June close. Holiday timing muddies the read, but the pattern echoes June's pre-surge doldrums when a \u22129 week preceded the breakout. Tuesday's numbers will determine if this is holiday noise or a genuine reversal of June's closing momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "9",
       "net_ytd": "235",
-      "net_mtd_per_day": "1.8",
+      "net_mtd_per_day": "1.5",
       "net_ytd_per_day": "1.3",
       "annual_mtd": "7",
       "annual_ytd": "189",
