@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-07-08",
-  "fetched_at": "2026-07-08 15:48:17",
+  "fetched_at": "2026-07-08 16:35:11",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Waymo to begin fully autonomous trips in Denver soon, but you'll have to wait longer to catch one",
+      "link": "https://kdvr.com/denver-guide/waymo-to-begin-fully-autonomous-trips-in-denver-soon-but-youll-have-to-wait-longer-to-catch-one/",
+      "source": "Fox31",
+      "pub_date": "2026-07-08T16:06:38+00:00",
+      "age_hours": 0.46857213666666664,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
     {
       "title": "Trump threatens to launch 'big attack' on Iran, resume naval blockade",
       "link": "https://kdvr.com/hill-politics/trump-threatens-to-launch-big-attack-on-iran-resume-naval-blockade/",
       "source": "Fox31",
       "pub_date": "2026-07-08T14:16:58+00:00",
-      "age_hours": 1.5165481169444444,
+      "age_hours": 2.2963500083333335,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "New PR firm hired to back West Greeley oversight panel",
       "link": "https://bizwest.com/2026/07/08/new-pr-firm-hired-to-back-west-greeley-oversight-panel/",
       "source": "BizWest",
       "pub_date": "2026-07-08T14:02:54+00:00",
-      "age_hours": 1.7494562094444446,
+      "age_hours": 2.5299738816666664,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Waymo launching robotaxi service in Denver. But only for its own workers.",
       "link": "https://coloradosun.com/2026/07/08/waymo-robotaxi-service-denver-employees-driverless/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-08T14:00:00+00:00",
-      "age_hours": 1.7983055875,
+      "age_hours": 2.578796362222222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Eldora\u2019s bills top 800K; Nederland purchase yet to close",
       "link": "https://bizwest.com/2026/07/08/eldoras-bills-top-800k-nederland-purchase-yet-to-close/",
       "source": "BizWest",
       "pub_date": "2026-07-08T13:34:52+00:00",
-      "age_hours": 2.2166789422222224,
+      "age_hours": 2.997196624444445,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -45,70 +54,70 @@
       "link": "https://bizwest.com/2026/07/08/sarazin-to-direct-school-of-mines-quantum-efforts/",
       "source": "BizWest",
       "pub_date": "2026-07-08T13:28:45+00:00",
-      "age_hours": 2.318623426388889,
+      "age_hours": 3.099141108611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Yacht owners and public housing residents once shared Venezuela\u2019s coast. Now they share its ruin",
       "link": "https://sentinelcolorado.com/uncategorized/yacht-owners-and-public-housing-residents-once-shared-venezuelas-coast-now-they-share-its-ruin/",
       "source": "Sentinel",
       "pub_date": "2026-07-08T13:25:14+00:00",
-      "age_hours": 2.37931373,
+      "age_hours": 3.1588271841666664,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver bakery announces closure after decades",
       "link": "https://www.9news.com/article/life/style/colorado-guide/gateaux-bakery-denver-closes/73-42e51c4e-09ff-406b-9d99-b28e9f371b35",
       "source": "9News",
       "pub_date": "2026-07-08T13:04:01+00:00",
-      "age_hours": 2.7320637461111112,
+      "age_hours": 3.512028488611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Oil prices jump more than 6% after Trump says ceasefire with Iran is \u2018over\u2019",
       "link": "https://sentinelcolorado.com/nation-world/nation/oil-prices-jump-more-than-6-after-trump-says-ceasefire-with-iran-is-over/",
       "source": "Sentinel",
       "pub_date": "2026-07-08T12:54:13+00:00",
-      "age_hours": 2.896258248611111,
+      "age_hours": 3.6757717075,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado\u2019s biggest data center wants to add another 98 diesel backup generators",
       "link": "https://www.cpr.org/2026/07/08/qts-aurora-data-center-diesel-generators/",
       "source": "CPR",
       "pub_date": "2026-07-08T10:00:00+00:00",
-      "age_hours": 5.798981515277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.578900166944445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Wildfires burning across Colorado are forcing ranchers to triage their herds",
       "link": "https://coloradosun.com/2026/07/08/colorado-wildfires-ranchers-cattle-livestock-aspen-acres/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-08T09:52:00+00:00",
-      "age_hours": 5.9316396650000005,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.7121304325,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Littwin: Lynn Bartels was the greatest political reporter I ever knew. And that\u2019s not even half the story.",
       "link": "https://coloradosun.com/2026/07/08/lynn-bartels-opinion-littwin/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-08T09:05:00+00:00",
-      "age_hours": 6.714973561666667,
+      "age_hours": 7.4954643333333335,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver chalk artist takes her talents from pavement to permanent ink",
       "link": "https://www.9news.com/article/news/local/denver-chalk-artist-takes-talents-from-pavement-permanent-ink/73-70a0fe69-3574-4938-8bda-9e93b20bef1c",
       "source": "9News",
       "pub_date": "2026-07-08T04:37:50+00:00",
-      "age_hours": 11.168452711944445,
+      "age_hours": 11.948417454722223,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -117,43 +126,25 @@
       "link": "https://www.9news.com/article/news/nation-world/denver-restaurants-venezuela-earthquake-relief/73-4c15ac53-2c69-4b5f-ad0e-8376ac44eb0f",
       "source": "9News",
       "pub_date": "2026-07-08T04:24:34+00:00",
-      "age_hours": 11.389563861111112,
+      "age_hours": 12.169528604444444,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "PNC closing 14 Colorado bank branches after FirstBank transition",
       "link": "https://www.9news.com/article/money/personal-finance/pnc-closing-branches-firstbank-conversion/73-7af56b14-9945-4274-82cf-d23b32ee5a21",
       "source": "9News",
       "pub_date": "2026-07-08T01:53:07+00:00",
-      "age_hours": 13.9137305825,
+      "age_hours": 14.693695323888889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver apartment building sells for half its 2021 price tag, as market flooded with new units",
       "link": "https://www.9news.com/article/money/markets/real-estate/denver-apartment-building-sells-market-flooded/73-4bbea7fd-f28b-4c3e-a221-b8d20296574b",
       "source": "9News",
       "pub_date": "2026-07-08T01:42:40+00:00",
-      "age_hours": 14.087897254166668,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Saving a town from destruction; Next with Kyle Clark full show (7/7/2026)",
-      "link": "https://www.9news.com/video/next-with-kyle-clark/saving-a-town-from-destruction-next-with-kyle-clark-full-show-772026/73-41c94149-58b2-4f67-a926-ee7da5d94e41",
-      "source": "9News",
-      "pub_date": "2026-07-08T00:57:19+00:00",
-      "age_hours": 14.843730601944443,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "United Airlines pilot shares his story to inspire kids battling severe illnesses",
-      "link": "https://www.9news.com/video/news/local/next/next-with-kyle-clark/united-airlines-pilot-shares-his-story-to-inspire-kids-battling-severe-illnesses/73-2406f45b-9f15-424f-8918-479925ca5406",
-      "source": "9News",
-      "pub_date": "2026-07-08T00:48:36+00:00",
-      "age_hours": 14.98900843138889,
+      "age_hours": 14.867861995277778,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -162,27 +153,36 @@
       "link": "https://www.cpr.org/2026/07/07/mountain-view-council-member-shot-17-year-old-sentencing/",
       "source": "CPR",
       "pub_date": "2026-07-07T22:24:01+00:00",
-      "age_hours": 17.398703798333333,
+      "age_hours": 18.178622449722223,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Colorado Attorney General sues HUD over changes to homeless funding",
       "link": "https://www.coloradopolitics.com/2026/07/07/colorado-attorney-general-sues-hud-over-changes-to-homeless-funding/",
       "source": "CO Politics",
       "pub_date": "2026-07-07T22:14:07+00:00",
-      "age_hours": 17.564557045555556,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "US military strikes Iran after Tehran hits 3 tankers in Strait of Hormuz",
-      "link": "https://kdvr.com/news/nationalworld-news/us-military-strikes-iran-after-tehran-hits-3-tankers-in-strait-of-hormuz/",
-      "source": "Fox31",
-      "pub_date": "2026-07-07T21:42:11+00:00",
-      "age_hours": 18.09627053361111,
+      "age_hours": 18.344082373611112,
       "breaking": false,
       "time_ago": "18 hrs ago"
+    },
+    {
+      "title": "Broomfield Town Square developers withdraw permit extension request",
+      "link": "https://bizwest.com/2026/07/07/broomfield-town-square-developers-withdraw-permit-extension-request/",
+      "source": "BizWest",
+      "pub_date": "2026-07-07T21:36:41+00:00",
+      "age_hours": 18.966918924166666,
+      "breaking": false,
+      "time_ago": "18 hrs ago"
+    },
+    {
+      "title": "2 Northern Colorado PNC Bank branches among 18 to close",
+      "link": "https://bizwest.com/2026/07/07/2-northern-colorado-pnc-bank-branches-among-18-to-close/",
+      "source": "BizWest",
+      "pub_date": "2026-07-07T21:23:42+00:00",
+      "age_hours": 19.183307819444444,
+      "breaking": false,
+      "time_ago": "19 hrs ago"
     }
   ]
 }
