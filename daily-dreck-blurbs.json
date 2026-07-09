@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-07-08",
-  "lead_headline": "Restaurant tracking catches fire: 6 fresh leads land today including Port Side's 10-year run ends in Five Points, Super Star Asian shutters after two decades in Athmar Park",
+  "generated_date": "2026-07-09",
+  "lead_headline": "Subscriptions flat for sixth straight day as July's post-surge momentum evaporates \u2014 MTD crawls at +1.0/day, matching year's lowest weekly clip",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>6 leads today:</strong> Sandomi (Japanese sandos) at Edgewater, Marczyk FineBurger at Northfield opened; Port Side (10-year breakfast cafe), Super Star Asian (20-year Athmar Park staple), two Taco John's closures detected.",
+      "blurb": "<strong>1 new lead today:</strong> Soda Club (Michelin Bib Gourmand pasta bar from NYC) planning August opening at The Ramble Hotel in RiNo.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+1",
         "label2": "closed",
-        "value2": "\u22124",
+        "value2": "\u22120",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "149",
+        "value1": "150",
         "label2": "closed",
-        "value2": "128",
+        "value2": "129",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "32",
+        "value1": "45",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 40 of the application blackout.</strong> The licensing freeze that started June 1 just crossed the six-week mark with zero new filings detected today. Colorado's hospitality sector continues its unprecedented silence \u2014 12,325 active licenses in the database, but not a single bar, restaurant, brewery, or retail application logged since early June. Historical patterns show post-holiday Tuesdays typically deliver 3-5 applications as developers return from long weekends. This morning: nothing. The drought now rivals the longest gaps ever recorded, and each passing day without activity deepens questions about whether this is bureaucratic backlog, capital flight, or structural shift in Colorado's liquor licensing ecosystem. The next application \u2014 whenever it lands \u2014 will break a streak that's already rewritten the baseline.",
+      "blurb": "<strong>Application drought hits Day 41.</strong> Zero new filings detected today \u2014 the licensing freeze that began June 1 now stretches across the entire July 4 holiday week with no sign of thawing. Colorado's liquor licensing system remains in unprecedented suspended animation: 12,325 active licenses tracked, but the application pipeline completely dry for 41 consecutive days. Wednesday mornings historically average 2-3 new bar and restaurant filings as mid-week activity picks up. This morning: silence. The freeze has now outlasted every comparable period in the database. With no applications logged since early June, the backlog theory loses credibility \u2014 if this were paperwork delay, we'd see batch releases by now. The alternative explanations grow darker: capital markets locked, developers spooked, or structural damage to Colorado's hospitality investment climate. Each blank day rewrites what \"normal\" means.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,35 +54,35 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>10 mentions yesterday</strong> \u2014 the post-holiday bounce accelerates. Week closes at <strong>64 mentions</strong> across 18 sources, down 15% from last week's 75 but recovering from Monday's holiday zero. Facebook leads again with 20 citations, Reddit adds 15, Denver Post contributes 8. Google News RSS captured 63 of 64 discoveries. Top stories: In-N-Out eyes Green Valley Ranch expansion, PNC closing 14 Colorado branches after FirstBank rebrand, downtown condo developer's property buy. The 10-mention Tuesday represents the strongest single-day pickup since before the July 4 holiday and suggests the compression was purely timing-driven. The 15% weekly decline now looks like typical holiday noise rather than trend shift \u2014 especially given yesterday's strong recovery and the quality of citations (major outlet pickups vs. social aggregation).",
+      "blurb": "<strong>6 mentions yesterday</strong> \u2014 the mid-week dip arrives right on schedule. Week totals <strong>70 mentions</strong> across 19 sources, down 8% from last week's 76 but tracking steadily post-holiday. Facebook dominates with 18 citations, Reddit contributes 14, Denver Post adds 10. Google News RSS captured 69 of 70 discoveries (98% of total, highest capture rate in three weeks). Top stories: Capitol Center auction at $1.5M starting bid, Mike Shanahan's $15.7M mansion sale details, Northglenn embezzlement case. The 6-mention Wednesday represents typical mid-week cooling after Tuesday's 10-mention bounce. The 8% weekly decline reflects holiday compression, not momentum loss \u2014 sourcing diversity remains strong (19 outlets) and capture efficiency hit a new high. The pattern suggests baseline stability around 70-75 weekly mentions when holidays aren't suppressing volume.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "10",
-        "class1": "up",
+        "value1": "6",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "64",
-        "class1": "down",
+        "value1": "70",
+        "class1": "",
         "label2": "sources",
-        "value2": "18",
+        "value2": "19",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net flat yesterday</strong> (1 new, 1 canceled) \u2014 the fifth consecutive zero-net day extends July's post-surge stall. MTD holds at <strong>+9</strong> (+1.3/day), 90-day net at <strong>+118</strong>. The pattern solidifies: July opened strong with the June 29-30 carryover momentum (+17 in two days), added modest gains July 1-3 (+10 net), then froze completely (July 4-8: five straight flat days). The +1.3/day MTD pace now matches YTD baseline exactly \u2014 June's closing surge has been fully absorbed. Strip out June 29-30 and July runs at +0.1/day, essentially flat. The 7-day window (+9 net) looks healthier but only because it includes June 30's +13 spike. The stall mirrors June's mid-month doldrums when \u22129 weeks preceded the breakout, but there's no clear catalyst visible yet for a second surge.",
+      "blurb": "<strong>Net flat yesterday</strong> (1 new, 1 canceled) \u2014 the sixth consecutive zero-net day marks July's longest stall yet. MTD drops to <strong>+9</strong> (+1.0/day), 90-day net holds at <strong>+118</strong>. The freeze deepens: after June's closing surge delivered +17 in two days (June 29-30), July added modest early gains (+10 net July 1-3), then went completely dormant. July 4-9: six straight flat days, the longest dead-flat streak since March. The +1.0/day MTD pace now trails YTD baseline (\u221216% below +1.2/day average) and looks weaker than June's troubled mid-month when \u22129 weeks preceded the breakout. Strip out the June carryover and July runs at \u22120.3/day through its first full week. The 7-day window (+6 net) only appears healthy because it captures June 30's +13 spike \u2014 remove that outlier and the week runs \u22127. No single-day gains above +1 since July 3. The momentum that closed June has completely evaporated with no recovery catalyst visible.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "9",
       "net_ytd": "235",
-      "net_mtd_per_day": "1.3",
+      "net_mtd_per_day": "1.0",
       "net_ytd_per_day": "1.2",
       "annual_mtd": "7",
       "annual_ytd": "189",
