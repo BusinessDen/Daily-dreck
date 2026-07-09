@@ -1,78 +1,105 @@
 {
   "fetched_date": "2026-07-09",
-  "fetched_at": "2026-07-09 22:33:14",
+  "fetched_at": "2026-07-09 23:30:40",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "Willow Fire drops tourism traffic, leads to cancelled races, events in town",
+      "link": "https://www.9news.com/article/news/local/willow-fire-tourism-cancelled-races-events/73-fa9e3d34-7d7c-42a7-9c4f-2f7f3c5c529c",
+      "source": "9News",
+      "pub_date": "2026-07-09T23:01:16+00:00",
+      "age_hours": 0.48394381111111107,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
+    {
+      "title": "Taxi companies want to block Waymo\u2019s plans in Denver",
+      "link": "https://denverite.com/2026/07/09/denver-taxi-companies-waymo/",
+      "source": "Denverite",
+      "pub_date": "2026-07-09T22:58:54+00:00",
+      "age_hours": 0.5231883208333333,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "Denver will spend $100 million to support 10,000 new jobs",
+      "link": "https://denverite.com/2026/07/09/denver-jobs-new-programs/",
+      "source": "Denverite",
+      "pub_date": "2026-07-09T22:45:46+00:00",
+      "age_hours": 0.7420772508333333,
+      "breaking": true,
+      "time_ago": "44 min ago"
+    },
     {
       "title": "Victor Marx wins Colorado\u2019s three-way Republican primary for governor, edging out Barbara Kirkmeyer",
       "link": "https://coloradosun.com/2026/07/09/victor-marx-wins-colorados-republican-primary-governor/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-09T22:18:56+00:00",
-      "age_hours": 0.2324091711111111,
+      "age_hours": 1.189184203888889,
       "breaking": true,
-      "time_ago": "13 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Bass Pro to open Loveland megastore July 22",
       "link": "https://bizwest.com/2026/07/09/bass-pro-to-open-loveland-megastore-july-22/",
       "source": "BizWest",
       "pub_date": "2026-07-09T21:58:43+00:00",
-      "age_hours": 0.5687422858333333,
+      "age_hours": 1.525715301111111,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "United Way of Larimer County adds 4 to board",
       "link": "https://bizwest.com/2026/07/09/united-way-of-larimer-county-adds-4-to-board/",
       "source": "BizWest",
       "pub_date": "2026-07-09T20:45:38+00:00",
-      "age_hours": 1.7867984341666667,
+      "age_hours": 2.7437711802777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Gloo stock plummets after public offering priced",
       "link": "https://bizwest.com/2026/07/09/gloo-stock-plummets-after-public-offering-priced/",
       "source": "BizWest",
       "pub_date": "2026-07-09T20:42:25+00:00",
-      "age_hours": 1.8404095794444444,
+      "age_hours": 2.7973823088888885,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "City to buy Longmont YMCA property, turn it into a rec center",
       "link": "https://bizwest.com/2026/07/09/city-to-buy-longmont-ymca-property-turn-it-into-a-rec-center/",
       "source": "BizWest",
       "pub_date": "2026-07-09T19:58:08+00:00",
-      "age_hours": 2.5784651641666665,
+      "age_hours": 3.5354378808333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver police officer involved in nightclub assault arrested and fired from the force",
       "link": "https://denverite.com/2026/07/09/denver-police-officer-nightclub-assault-arrested-fired/",
       "source": "Denverite",
       "pub_date": "2026-07-09T19:25:32+00:00",
-      "age_hours": 3.122526409166667,
+      "age_hours": 4.0792994775,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver-Boulder Life Sciences Vacancy Declines in Q2 2026",
       "link": "https://milehighcre.com/denver-boulder-life-sciences-vacancy-declines-in-q2-2026/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-09T19:16:04+00:00",
-      "age_hours": 3.280066108611111,
+      "age_hours": 4.236888469444445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Tebo vows petition against downtown Boulder lot sale, hotel project",
       "link": "https://bizwest.com/2026/07/09/tebo-vows-petition-against-downtown-boulder-lot-sale-hotel-project/",
       "source": "BizWest",
       "pub_date": "2026-07-09T17:30:19+00:00",
-      "age_hours": 5.0420763072222226,
+      "age_hours": 5.9990490097222215,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -81,16 +108,16 @@
       "link": "https://milehighcre.com/jll-construction-costs-mid-year-update/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-09T16:47:45+00:00",
-      "age_hours": 5.752010573611112,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.708832933333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Acclaimed chef launches Mexican cantina-inspired reboot in Cherry Creek",
       "link": "https://www.westword.com/food-drink/cherry-creek-restaurant-reboots-as-mexican-eatery-tequileria-alteno-40909259/",
       "source": "Westword",
       "pub_date": "2026-07-09T15:32:00-06:00",
-      "age_hours": 1.0154164636111112,
+      "age_hours": 1.9720036588888887,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -99,90 +126,63 @@
       "link": "https://bizwest.com/2026/07/09/boland-to-lead-museum-of-art-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-07-09T13:26:29+00:00",
-      "age_hours": 9.105965202777778,
+      "age_hours": 10.0629379025,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "School offers airline pilot training at FNL",
       "link": "https://bizwest.com/2026/07/09/school-offers-airline-pilot-training-at-fnl/",
       "source": "BizWest",
       "pub_date": "2026-07-09T13:20:19+00:00",
-      "age_hours": 9.208743008055555,
+      "age_hours": 10.165715696388888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Loveland OKs fees for downtown rights-of-way",
       "link": "https://bizwest.com/2026/07/09/loveland-oks-fees-for-downtown-rights-of-way/",
       "source": "BizWest",
       "pub_date": "2026-07-09T13:11:58+00:00",
-      "age_hours": 9.347909701666667,
+      "age_hours": 10.304882378055556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Buc-ee\u2019s new Colorado location plan set for public meeting",
       "link": "https://www.9news.com/article/money/business/bucees-location-public-meeting-colorado/73-f2b1dade-addc-4f09-8c4a-616c5d716ea5",
       "source": "9News",
       "pub_date": "2026-07-09T13:04:44+00:00",
-      "age_hours": 9.469342318888888,
+      "age_hours": 10.426166145,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Another record year for the outdoors as participation surges past booze",
       "link": "https://coloradosun.com/2026/07/09/outdoor-recreation-participation-record-2025/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-09T10:00:00+00:00",
-      "age_hours": 12.54796554861111,
+      "age_hours": 13.504740255277778,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Car crashes into Denver cannabis dispensary",
       "link": "https://kdvr.com/news/local/car-crashes-into-denver-cannabis-dispensary/",
       "source": "Fox31",
       "pub_date": "2026-07-09T02:08:08+00:00",
-      "age_hours": 20.413024909444445,
+      "age_hours": 21.36972590638889,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Who owns the missile silo? FOX31 tracks down answers after teen rescue",
       "link": "https://kdvr.com/news/local/who-owns-the-missile-silo-fox31-tracks-down-answers-after-teen-rescue/",
       "source": "Fox31",
       "pub_date": "2026-07-09T00:47:10+00:00",
-      "age_hours": 21.76246927444444,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Denver officers cited for separate incidents, 1 fired",
-      "link": "https://kdvr.com/news/local/denver-officers-cited-for-separate-incidents-one-fired/",
-      "source": "Fox31",
-      "pub_date": "2026-07-08T23:34:44+00:00",
-      "age_hours": 22.969691430277777,
+      "age_hours": 22.719170319444444,
       "breaking": false,
       "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Would you talk to a deceased loved one using AI? CU Boulder researchers study 'generative ghosts'",
-      "link": "https://www.denver7.com/money/science-and-tech/would-you-talk-to-a-deceased-loved-one-using-ai-cu-boulder-researchers-study-generative-ghosts",
-      "source": "Denver7",
-      "pub_date": "2026-07-08T22:47:14+00:00",
-      "age_hours": 23.76116917111111,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "BizWest unveils inaugural \u2018Startups to Watch\u2019",
-      "link": "https://bizwest.com/2026/07/08/bizwest-unveils-inaugural-startups-to-watch/",
-      "source": "BizWest",
-      "pub_date": "2026-07-08T20:59:15+00:00",
-      "age_hours": 25.55985417222222,
-      "breaking": false,
-      "time_ago": "1 day ago"
     }
   ]
 }
