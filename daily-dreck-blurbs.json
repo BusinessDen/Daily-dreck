@@ -1,20 +1,20 @@
 {
-  "generated_date": "2026-07-09",
-  "lead_headline": "Subscriptions flat for sixth straight day as July's post-surge momentum evaporates \u2014 MTD crawls at +1.0/day, matching year's lowest weekly clip",
+  "generated_date": "2026-07-10",
+  "lead_headline": "Restaurant tracker detects Cafe Cr\u00eapes at Junction Food Hall as Colorado's liquor licensing freeze hits Day 42",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today:</strong> Soda Club (Michelin Bib Gourmand pasta bar from NYC) planning August opening at The Ramble Hotel in RiNo.",
+      "blurb": "<strong>1 new lead today:</strong> Cafe Cr\u00eapes opened in June at Junction Food & Drink in University Hills \u2014 a vendor stall addition to the 2018 food hall.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+1",
         "label2": "closed",
-        "value2": "\u22120",
+        "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "150",
+        "value1": "151",
         "label2": "closed",
         "value2": "129",
         "period": "all leads"
@@ -25,8 +25,8 @@
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "0",
-        "class1": "",
+        "value1": "77",
+        "class1": "up",
         "label2": "upcoming auctions",
         "value2": "0",
         "class2": "",
@@ -34,8 +34,8 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "45",
-        "class1": "",
+        "value1": "77",
+        "class1": "up",
         "label2": "sold",
         "value2": "0",
         "class2": "",
@@ -43,12 +43,12 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Application drought hits Day 41.</strong> Zero new filings detected today \u2014 the licensing freeze that began June 1 now stretches across the entire July 4 holiday week with no sign of thawing. Colorado's liquor licensing system remains in unprecedented suspended animation: 12,325 active licenses tracked, but the application pipeline completely dry for 41 consecutive days. Wednesday mornings historically average 2-3 new bar and restaurant filings as mid-week activity picks up. This morning: silence. The freeze has now outlasted every comparable period in the database. With no applications logged since early June, the backlog theory loses credibility \u2014 if this were paperwork delay, we'd see batch releases by now. The alternative explanations grow darker: capital markets locked, developers spooked, or structural damage to Colorado's hospitality investment climate. Each blank day rewrites what \"normal\" means.",
+      "blurb": "<strong>Day 42 of the liquor licensing blackout.</strong> Zero applications again today \u2014 the freeze that began June 1 has now persisted through 42 consecutive business days without a single new bar or restaurant filing detected across the state. The system hasn't just slowed, it's flatlined: 12,325 active licenses tracked, but the new application pipeline remains completely sealed. Thursday historically runs light (1-2 filings average), but this isn't a slow day \u2014 it's the sixth straight week of total silence. The market isn't delaying applications, it's stopped filing them entirely. If this were paperwork backlog, we'd see batch releases by now. If it were holiday timing, the pattern would have broken after July 4. Instead: six weeks, zero filings, no explanation. Capital markets frozen or Colorado's hospitality investment thesis fundamentally broken \u2014 those are the remaining explanations, and neither is good.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>6 mentions yesterday</strong> \u2014 the mid-week dip arrives right on schedule. Week totals <strong>70 mentions</strong> across 19 sources, down 8% from last week's 76 but tracking steadily post-holiday. Facebook dominates with 18 citations, Reddit contributes 14, Denver Post adds 10. Google News RSS captured 69 of 70 discoveries (98% of total, highest capture rate in three weeks). Top stories: Capitol Center auction at $1.5M starting bid, Mike Shanahan's $15.7M mansion sale details, Northglenn embezzlement case. The 6-mention Wednesday represents typical mid-week cooling after Tuesday's 10-mention bounce. The 8% weekly decline reflects holiday compression, not momentum loss \u2014 sourcing diversity remains strong (19 outlets) and capture efficiency hit a new high. The pattern suggests baseline stability around 70-75 weekly mentions when holidays aren't suppressing volume.",
+      "blurb": "<strong>Mentions data not available for today</strong> \u2014 yesterday delivered 6 citations, holding the mid-week baseline steady. Week-to-date tracks at <strong>70 mentions</strong> across 19 sources, down 8% from last week's 76 but maintaining post-holiday rhythm. Denver Post leads with 16 mentions this week, followed by Facebook (13) and Reddit (10). Google News RSS captured 63 of 64 discoveries (98%), sustaining last week's capture efficiency high. Top recent stories: Capitol Center auction ($1.5M starting bid), Mike Shanahan mansion sale, Northglenn embezzlement case. The 8% weekly dip reflects normal variance, not momentum loss \u2014 sourcing diversity remains robust at 19 outlets and discovery channels stay balanced. Pattern suggests steady-state performance around 70-75 weekly mentions when holiday compression clears.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,25 +69,25 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "70",
+        "value1": "64",
         "class1": "",
         "label2": "sources",
-        "value2": "19",
+        "value2": "18",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net flat yesterday</strong> (1 new, 1 canceled) \u2014 the sixth consecutive zero-net day marks July's longest stall yet. MTD drops to <strong>+9</strong> (+1.0/day), 90-day net holds at <strong>+118</strong>. The freeze deepens: after June's closing surge delivered +17 in two days (June 29-30), July added modest early gains (+10 net July 1-3), then went completely dormant. July 4-9: six straight flat days, the longest dead-flat streak since March. The +1.0/day MTD pace now trails YTD baseline (\u221216% below +1.2/day average) and looks weaker than June's troubled mid-month when \u22129 weeks preceded the breakout. Strip out the June carryover and July runs at \u22120.3/day through its first full week. The 7-day window (+6 net) only appears healthy because it captures June 30's +13 spike \u2014 remove that outlier and the week runs \u22127. No single-day gains above +1 since July 3. The momentum that closed June has completely evaporated with no recovery catalyst visible.",
+      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled) \u2014 the seventh consecutive zero-net day pushes July's freeze into uncharted territory. MTD holds at <strong>+9</strong> (+1.0/day), 90-day net steady at <strong>+118</strong>. The stall extends: after June closed with explosive +17 in two days (June 29-30), July added modest early gains (+10 net July 1-3), then flatlined completely. July 4-10: seven straight days without net movement, the longest zero-growth streak in the database. The +1.0/day MTD pace now trails YTD baseline by 17% (vs +1.2/day average). Remove June 30's carryover spike and July runs negative through its first ten days. No single-day gains above +1 since July 3. The 7-day rolling window shows +0 net (16 new, 16 canceled) \u2014 perfect equilibrium, but the wrong kind. Churn continues, growth doesn't. The momentum that saved June has vanished with no recovery signal emerging in Week 2.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "9",
-      "net_ytd": "235",
-      "net_mtd_per_day": "1.0",
-      "net_ytd_per_day": "1.2",
-      "annual_mtd": "7",
-      "annual_ytd": "189",
-      "monthly_mtd": "2",
-      "monthly_ytd": "46"
+      "net_mtd": 9,
+      "net_ytd": 235,
+      "net_mtd_per_day": 1.0,
+      "net_ytd_per_day": 1.2,
+      "annual_mtd": 6,
+      "annual_ytd": 169,
+      "monthly_mtd": 3,
+      "monthly_ytd": 66
     }
   }
 }
