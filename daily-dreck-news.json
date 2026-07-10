@@ -1,123 +1,159 @@
 {
   "fetched_date": "2026-07-10",
-  "fetched_at": "2026-07-10 20:33:57",
+  "fetched_at": "2026-07-10 21:25:44",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Cosmo\u2019s building Broomfield pizzeria",
+      "link": "https://bizwest.com/2026/07/10/cosmos-building-broomfield-pizzeria/",
+      "source": "BizWest",
+      "pub_date": "2026-07-10T21:22:27+00:00",
+      "age_hours": 0.04855458333333334,
+      "breaking": true,
+      "time_ago": "2 min ago"
+    },
+    {
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "link": "https://www.9news.com/article/news/nation-world/apple-lawsuit-chatgpt-maker-openai-steal-trade-secrets/507-f8be26f0-fdc6-429a-89db-063457da1ec6",
+      "source": "9News",
+      "pub_date": "2026-07-10T21:07:15+00:00",
+      "age_hours": 0.3024608352777778,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "Aurora City Council proposes more decorum changes to deal with fractious meetings",
+      "link": "https://sentinelcolorado.com/metro/aurora-city-council-proposes-more-decorum-changes-to-deal-with-fractious-meetings/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-10T21:01:14+00:00",
+      "age_hours": 0.40372125722222224,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
     {
       "title": "Aurora Police Department podcast revives search for Chelsea Yasser\u2019s killer",
       "link": "https://sentinelcolorado.com/metro/aurora-police-department-podcast-revives-search-for-chelsea-yassers-killer/",
       "source": "Sentinel",
       "pub_date": "2026-07-10T20:28:26+00:00",
-      "age_hours": 0.08728570555555556,
+      "age_hours": 0.9503882363888889,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "57 min ago"
     },
     {
       "title": "Loveland-based team restores recovered Greeley statue",
       "link": "https://bizwest.com/2026/07/10/loveland-based-team-restores-recovered-greeley-statue/",
       "source": "BizWest",
       "pub_date": "2026-07-10T20:14:18+00:00",
-      "age_hours": 0.32139679361111106,
+      "age_hours": 1.1843884944444443,
       "breaking": true,
-      "time_ago": "19 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Hong Kong eateries welcome dogs as city relaxes ban",
       "link": "https://sentinelcolorado.com/uncategorized/hong-kong-eateries-welcome-dogs-as-city-relaxes-ban/",
       "source": "Sentinel",
       "pub_date": "2026-07-10T19:44:59+00:00",
-      "age_hours": 0.811452601388889,
+      "age_hours": 1.674555164722222,
       "breaking": true,
-      "time_ago": "48 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aurora sees \u2018incredible compliance\u2019 on water restrictions from residential users, less from commercial",
       "link": "https://www.coloradopolitics.com/2026/07/10/aurora-sees-incredible-compliance-on-water-restrictions-from-residential-users-less-from-commercial/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:25:10+00:00",
-      "age_hours": 1.1417002725,
+      "age_hours": 2.004540436666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado partners with tech organization to simplify tax filing process",
       "link": "https://www.coloradopolitics.com/2026/07/10/colorado-partners-with-tech-organization-to-simplify-tax-filing-process/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:20:50+00:00",
-      "age_hours": 1.2139225802777778,
+      "age_hours": 2.076762764166667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Construction workers help animal control rescue ducklings from drain",
       "link": "https://kdvr.com/news/local/construction-workers-help-animal-control-rescue-ducklings-from-drain/",
       "source": "Fox31",
       "pub_date": "2026-07-10T19:20:08+00:00",
-      "age_hours": 1.225144585,
+      "age_hours": 2.088026218611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Police investigating Colfax crash involving pedestrian",
       "link": "https://kdvr.com/news/local/police-investigating-colfax-crash-involving-pedestrian/",
       "source": "Fox31",
       "pub_date": "2026-07-10T19:18:11+00:00",
-      "age_hours": 1.2576445894444443,
+      "age_hours": 2.1205262244444443,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Gov. Polis outlines vision for Colorado\u2019s higher ed, workforce development",
       "link": "https://www.coloradopolitics.com/2026/07/10/gov-polis-outlines-vision-for-colorados-higher-ed-workforce-development/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:13:51+00:00",
-      "age_hours": 1.3303114769444444,
+      "age_hours": 2.1931516636111112,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Hot Wheels monster trucks bring glow-in-the-dark tour to Denver",
       "link": "https://www.9news.com/article/life/style/colorado-guide/hot-wheels-monster-truck-meet-greet/73-ade3ca64-6a86-49b2-96e0-7e768e987ed4",
       "source": "9News",
       "pub_date": "2026-07-10T16:41:43+00:00",
-      "age_hours": 3.8650504591666666,
+      "age_hours": 4.7280165005555554,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Mayor\u2019s Office: Denver won\u2019t see budget reductions, but city will need to \u2018get creative\u2019 in 2027",
       "link": "https://www.coloradopolitics.com/2026/07/10/mayors-office-denver-wont-see-budget-reductions-but-city-will-need-to-get-creative-in-2027/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T15:59:58+00:00",
-      "age_hours": 4.561700396388888,
+      "age_hours": 5.424540585,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Plan ahead: Denver airport garage closures run through early September",
       "link": "https://kdvr.com/news/local/plan-ahead-denver-airport-garage-closures-run-through-early-september/",
       "source": "Fox31",
       "pub_date": "2026-07-10T15:25:13+00:00",
-      "age_hours": 5.140422392777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.0033040402777775,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Worst cities for bed bugs: Denver rises in US rankings",
       "link": "https://www.9news.com/article/news/health/bed-bugs-worst-cities-denver/73-c33a0df6-e17b-4bf1-8276-92a16adea6a3",
       "source": "9News",
       "pub_date": "2026-07-10T14:49:51+00:00",
-      "age_hours": 5.729494930833333,
+      "age_hours": 6.592460976388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Denver's Population Slowdown Is A Hurdle For Otherwise Stable Industrial Market",
+      "link": "https://www.bisnow.com/denver/news/industrial/industrial-market-holds-steady-but-denvers-population-slowdown-raises-concerns-135384",
+      "source": "Bisnow",
+      "pub_date": "2026-07-10T14:42:07-04:00",
+      "age_hours": 2.7209662280555555,
       "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Panda Express is bringing back a fan-favorite menu item. Here's when it launches.",
       "link": "https://www.9news.com/article/news/nation-world/panda-express-hot-orange-chicken-returns/507-c6cafa45-af51-4145-82c9-8620902d2e2f",
       "source": "9News",
       "pub_date": "2026-07-10T14:26:26+00:00",
-      "age_hours": 6.119772745277778,
+      "age_hours": 6.982738800277779,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -126,63 +162,27 @@
       "link": "https://www.9news.com/article/news/nation-world/trump-refuses-bipartisan-housing-bill-signing-will-become-law-protest-save-america-act/507-11021336-ac2b-444e-97b9-a1256da3c432",
       "source": "9News",
       "pub_date": "2026-07-10T14:25:23+00:00",
-      "age_hours": 6.1372727825,
+      "age_hours": 7.0002388530555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Do you recognize this victim? Police looking for information on deadly Denver shooting",
       "link": "https://kdvr.com/news/local/do-you-recognize-this-victim-police-looking-for-information-on-deadly-denver-shooting/",
       "source": "Fox31",
       "pub_date": "2026-07-10T14:09:09+00:00",
-      "age_hours": 6.408200091388888,
+      "age_hours": 7.271081723611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "High-elevation garden helps Vail Valley Salvation Army feed thousands with fresh produce",
       "link": "https://www.9news.com/article/news/local/9news-mornings/salvation-army-vail-garden-greenhouse/73-a364a4ab-0b9c-4ef0-9436-fb203595230f",
       "source": "9News",
       "pub_date": "2026-07-10T14:08:48+00:00",
-      "age_hours": 6.413661708333334,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Santa Fe Drive to close this weekend in Denver",
-      "link": "https://www.9news.com/article/traffic/santa-fe-drive-closure-weekend/73-fa5bf07b-9258-455b-9111-a4baaea4775e",
-      "source": "9News",
-      "pub_date": "2026-07-10T13:17:28+00:00",
-      "age_hours": 7.269217297222222,
+      "age_hours": 7.276627794444444,
       "breaking": false,
       "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "More feedback sought on Greeley-Evans Transit rebranding",
-      "link": "https://bizwest.com/2026/07/10/more-feedback-sought-on-greeley-evans-transit-rebranding/",
-      "source": "BizWest",
-      "pub_date": "2026-07-10T11:26:00+00:00",
-      "age_hours": 9.126397195555557,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Boulder launches program to help nonprofits prepare for power outages",
-      "link": "https://bizwest.com/2026/07/10/boulder-launches-program-to-help-nonprofits-prepare-for-power-outages/",
-      "source": "BizWest",
-      "pub_date": "2026-07-10T10:59:14+00:00",
-      "age_hours": 9.572508333333333,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Boulder County seeks proposals for climate projects",
-      "link": "https://bizwest.com/2026/07/10/boulder-county-seeks-proposals-for-climate-projects/",
-      "source": "BizWest",
-      "pub_date": "2026-07-10T10:55:06+00:00",
-      "age_hours": 9.6413972475,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
     }
   ]
 }
