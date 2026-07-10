@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-07-10",
-  "fetched_at": "2026-07-10 11:04:43",
+  "fetched_at": "2026-07-10 12:49:47",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "More feedback sought on Greeley-Evans Transit rebranding",
+      "link": "https://bizwest.com/2026/07/10/more-feedback-sought-on-greeley-evans-transit-rebranding/",
+      "source": "BizWest",
+      "pub_date": "2026-07-10T11:26:00+00:00",
+      "age_hours": 1.391034533888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Boulder launches program to help nonprofits prepare for power outages",
       "link": "https://bizwest.com/2026/07/10/boulder-launches-program-to-help-nonprofits-prepare-for-power-outages/",
       "source": "BizWest",
       "pub_date": "2026-07-10T10:59:14+00:00",
-      "age_hours": 0.08662808833333333,
+      "age_hours": 1.8371466683333335,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Boulder County seeks proposals for climate projects",
       "link": "https://bizwest.com/2026/07/10/boulder-county-seeks-proposals-for-climate-projects/",
       "source": "BizWest",
       "pub_date": "2026-07-10T10:55:06+00:00",
-      "age_hours": 0.15551762694444446,
+      "age_hours": 1.9060356255555555,
       "breaking": true,
-      "time_ago": "9 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Victor Marx faces big challenge uniting GOP after securing Colorado gubernatorial nomination",
       "link": "https://coloradosun.com/2026/07/10/victor-marx-faces-big-challenge-uniting-gop-after-securing-colorado-gubernatorial-nomination/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-10T10:00:00+00:00",
-      "age_hours": 1.0742271819444444,
+      "age_hours": 2.8246838075,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Telluride, Mountain Village investigations find no evidence of government conspiracy in offer to buy ski area",
       "link": "https://coloradosun.com/2026/07/10/telluride-mountain-village-investigations/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-10T10:00:00+00:00",
-      "age_hours": 1.0742278738888889,
+      "age_hours": 2.824684493611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "As wildfires burn across Colorado, here\u2019s an updated insurance breakdown for homeowners",
       "link": "https://coloradosun.com/2026/07/10/wildfires-insurance-homeowners-regulations/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-10T10:00:00+00:00",
-      "age_hours": 1.0742278925,
+      "age_hours": 2.824684508055556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado Black Arts Festival marks 40 years of culture, community and resilience this weekend in Denver",
       "link": "https://www.cpr.org/2026/07/10/colorado-black-arts-festival-marks-40th-anniversary/",
       "source": "CPR",
       "pub_date": "2026-07-10T10:00:00+00:00",
-      "age_hours": 1.0742903325,
+      "age_hours": 2.8248450347222223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "National French Fry Day deals: How to get free fries and other deals on Friday, July 10",
       "link": "https://www.9news.com/article/news/nation-world/national-french-fry-day-free-fries-deals-mcdonalds-wendys/507-b1b5070f-283e-4223-9272-8a425f50c6e9",
       "source": "9News",
       "pub_date": "2026-07-10T00:41:04+00:00",
-      "age_hours": 10.389900389722223,
+      "age_hours": 12.140425908333333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver Public Library ends laptop, hotspot lending program",
       "link": "https://www.9news.com/article/money/denver-public-library-ends-laptop-hotspot-program/73-3e283336-f36c-49e9-8b90-3684f032c043",
       "source": "9News",
       "pub_date": "2026-07-09T23:46:46+00:00",
-      "age_hours": 11.294900445833333,
+      "age_hours": 13.045425958611112,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Willow Fire drops tourism traffic, leads to cancelled races, events in Leadville",
       "link": "https://www.9news.com/article/news/local/willow-fire-tourism-cancelled-races-events/73-fa9e3d34-7d7c-42a7-9c4f-2f7f3c5c529c",
       "source": "9News",
       "pub_date": "2026-07-09T23:01:16+00:00",
-      "age_hours": 12.0532338225,
+      "age_hours": 13.803759334722221,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Taxi companies want to block Waymo\u2019s plans in Denver",
       "link": "https://denverite.com/2026/07/09/denver-taxi-companies-waymo/",
       "source": "Denverite",
       "pub_date": "2026-07-09T22:58:54+00:00",
-      "age_hours": 12.092589205555555,
+      "age_hours": 13.843116019722222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver will spend $100 million to support 10,000 new jobs",
       "link": "https://denverite.com/2026/07/09/denver-jobs-new-programs/",
       "source": "Denverite",
       "pub_date": "2026-07-09T22:45:46+00:00",
-      "age_hours": 12.311478146388888,
+      "age_hours": 14.062004964444444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Victor Marx wins Colorado\u2019s three-way Republican primary for governor, edging out Barbara Kirkmeyer",
       "link": "https://coloradosun.com/2026/07/09/victor-marx-wins-colorados-republican-primary-governor/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-09T22:18:56+00:00",
-      "age_hours": 12.758672483611111,
+      "age_hours": 14.509129104166668,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Bass Pro to open Loveland megastore July 22",
       "link": "https://bizwest.com/2026/07/09/bass-pro-to-open-loveland-megastore-july-22/",
       "source": "BizWest",
       "pub_date": "2026-07-09T21:58:43+00:00",
-      "age_hours": 13.095239881666668,
+      "age_hours": 14.845757908055557,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "United Way of Larimer County adds 4 to board",
       "link": "https://bizwest.com/2026/07/09/united-way-of-larimer-county-adds-4-to-board/",
       "source": "BizWest",
       "pub_date": "2026-07-09T20:45:38+00:00",
-      "age_hours": 14.313295473888887,
+      "age_hours": 16.063813540277778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Gloo stock plummets after public offering priced",
       "link": "https://bizwest.com/2026/07/09/gloo-stock-plummets-after-public-offering-priced/",
       "source": "BizWest",
       "pub_date": "2026-07-09T20:42:25+00:00",
-      "age_hours": 14.366906611388888,
+      "age_hours": 16.1174247125,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "City to buy Longmont YMCA property, turn it into a rec center",
       "link": "https://bizwest.com/2026/07/09/city-to-buy-longmont-ymca-property-turn-it-into-a-rec-center/",
       "source": "BizWest",
       "pub_date": "2026-07-09T19:58:08+00:00",
-      "age_hours": 15.104962194999999,
+      "age_hours": 16.855480325277778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Denver police officer involved in nightclub assault arrested and fired from the force",
       "link": "https://denverite.com/2026/07/09/denver-police-officer-nightclub-assault-arrested-fired/",
       "source": "Denverite",
       "pub_date": "2026-07-09T19:25:32+00:00",
-      "age_hours": 15.648700375277777,
+      "age_hours": 17.39922719388889,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver-Boulder Life Sciences Vacancy Declines in Q2 2026",
       "link": "https://milehighcre.com/denver-boulder-life-sciences-vacancy-declines-in-q2-2026/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-09T19:16:04+00:00",
-      "age_hours": 15.806384689166666,
+      "age_hours": 17.556863776388887,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Tebo vows petition against downtown Boulder lot sale, hotel project",
       "link": "https://bizwest.com/2026/07/09/tebo-vows-petition-against-downtown-boulder-lot-sale-hotel-project/",
       "source": "BizWest",
       "pub_date": "2026-07-09T17:30:19+00:00",
-      "age_hours": 17.568573336944443,
+      "age_hours": 19.319091499444443,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "JLL Construction Costs Mid-Year Update",
-      "link": "https://milehighcre.com/jll-construction-costs-mid-year-update/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-09T16:47:45+00:00",
-      "age_hours": 18.27832915416667,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     }
   ]
 }
