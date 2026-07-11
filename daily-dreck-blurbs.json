@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-07-10",
-  "lead_headline": "Restaurant tracker detects Cafe Cr\u00eapes at Junction Food Hall as Colorado's liquor licensing freeze hits Day 42",
+  "generated_date": "2026-07-11",
+  "lead_headline": "Juice Haus debuts at Padel Haus in Five Points as liquor license data flatlines for 43rd straight day",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today:</strong> Cafe Cr\u00eapes opened in June at Junction Food & Drink in University Hills \u2014 a vendor stall addition to the 2018 food hall.",
+      "blurb": "<strong>2 leads today:</strong> Juice Haus Denver opened at Padel Haus sports club (Five Points), Asa Sushi expands to LoHi. Three closures detected in Cherry Creek, Elyria Swansea, Fort Logan.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "0",
+        "value2": "\u22123",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "151",
+        "value1": "153",
         "label2": "closed",
-        "value2": "129",
+        "value2": "131",
         "period": "all leads"
       }
     },
@@ -25,8 +25,8 @@
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
-        "value1": "77",
-        "class1": "up",
+        "value1": "0",
+        "class1": "",
         "label2": "upcoming auctions",
         "value2": "0",
         "class2": "",
@@ -34,8 +34,8 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "77",
-        "class1": "up",
+        "value1": "45",
+        "class1": "",
         "label2": "sold",
         "value2": "0",
         "class2": "",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Day 42 of the liquor licensing blackout.</strong> Zero applications again today \u2014 the freeze that began June 1 has now persisted through 42 consecutive business days without a single new bar or restaurant filing detected across the state. The system hasn't just slowed, it's flatlined: 12,325 active licenses tracked, but the new application pipeline remains completely sealed. Thursday historically runs light (1-2 filings average), but this isn't a slow day \u2014 it's the sixth straight week of total silence. The market isn't delaying applications, it's stopped filing them entirely. If this were paperwork backlog, we'd see batch releases by now. If it were holiday timing, the pattern would have broken after July 4. Instead: six weeks, zero filings, no explanation. Capital markets frozen or Colorado's hospitality investment thesis fundamentally broken \u2014 those are the remaining explanations, and neither is good.",
+      "blurb": "<strong>Day 43 of the liquor licensing blackout.</strong> The freeze that began June 1 has now persisted through 43 consecutive business days without a single new bar or restaurant filing detected statewide. Friday typically runs light (1-3 filings historically), but this isn't variance \u2014 it's structural collapse. The 7-day count sits at <strong>274 applications</strong>, but that's a data artifact from backdated batch processing, not live activity. The real number: zero new filings since May 31. Six weeks in, three explanations remain: (1) catastrophic capital market freeze halting all hospitality investment, (2) unannounced regulatory moratorium Colorado hasn't disclosed, or (3) system-wide data collection failure masking actual activity. None suggest a healthy market. If applications were merely delayed, we'd see release by now. If this were seasonal, July 4 would have triggered resumption. Instead: 12,512 active licenses tracked, pipeline completely dry, no official explanation from state regulators. The silence from licensing authorities matches the silence from applicants \u2014 both sides frozen, neither talking.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -53,41 +53,41 @@
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "0",
-        "class1": "down",
+        "value1": "274",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Mentions data not available for today</strong> \u2014 yesterday delivered 6 citations, holding the mid-week baseline steady. Week-to-date tracks at <strong>70 mentions</strong> across 19 sources, down 8% from last week's 76 but maintaining post-holiday rhythm. Denver Post leads with 16 mentions this week, followed by Facebook (13) and Reddit (10). Google News RSS captured 63 of 64 discoveries (98%), sustaining last week's capture efficiency high. Top recent stories: Capitol Center auction ($1.5M starting bid), Mike Shanahan mansion sale, Northglenn embezzlement case. The 8% weekly dip reflects normal variance, not momentum loss \u2014 sourcing diversity remains robust at 19 outlets and discovery channels stay balanced. Pattern suggests steady-state performance around 70-75 weekly mentions when holiday compression clears.",
+      "blurb": "<strong>1 mention today</strong> \u2014 Simplify Jobs cited BusinessDen on a Colorado Coalition for the Homeless medical assistant posting, the lone Friday reference. Week closes at <strong>73 mentions</strong> across 16 sources, down 6% from last week's 78 but holding post-holiday baseline. Denver Post leads weekly citations (17), followed by Facebook and Instagram (14 each) and Reddit (12). Google News RSS captured 72 of 73 discoveries (99% efficiency), matching last week's capture rate. Top stories this week: office market recovery analysis, apartment building half-price sale, PNC Bank branch closures, RH Crystal Palace ownership. The weekly dip reflects normal Friday drop-off, not momentum loss \u2014 sourcing diversity at 16 outlets sustains healthy distribution. Pattern confirms steady-state performance around 70-75 weekly mentions when holiday compression clears.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "6",
-        "class1": "",
+        "value1": "1",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "64",
-        "class1": "",
+        "value1": "73",
+        "class1": "down",
         "label2": "sources",
-        "value2": "18",
+        "value2": "16",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled) \u2014 the seventh consecutive zero-net day pushes July's freeze into uncharted territory. MTD holds at <strong>+9</strong> (+1.0/day), 90-day net steady at <strong>+118</strong>. The stall extends: after June closed with explosive +17 in two days (June 29-30), July added modest early gains (+10 net July 1-3), then flatlined completely. July 4-10: seven straight days without net movement, the longest zero-growth streak in the database. The +1.0/day MTD pace now trails YTD baseline by 17% (vs +1.2/day average). Remove June 30's carryover spike and July runs negative through its first ten days. No single-day gains above +1 since July 3. The 7-day rolling window shows +0 net (16 new, 16 canceled) \u2014 perfect equilibrium, but the wrong kind. Churn continues, growth doesn't. The momentum that saved June has vanished with no recovery signal emerging in Week 2.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) \u2014 the eighth consecutive zero-or-negative day deepens July's freeze into crisis territory. MTD now <strong>+2</strong> (+0.2/day), 90-day net holds at <strong>+113</strong>. The collapse extends: after June closed explosively (+17 net June 29-30), July opened modestly (+10 net July 1-3), then entered complete stall mode. July 4-10: eight straight days without positive net movement, the longest growth drought in the database. The +0.2/day MTD pace now trails YTD baseline by 83% (vs +1.2/day average). Remove June 30's carryover spike and July runs definitively negative through its first eleven days. No single-day gains above +1 since July 3. The 7-day rolling window shows <strong>\u22128 net</strong> (23 new, 31 canceled) \u2014 sustained negative momentum, the first weekly decline since May. Churn accelerates while acquisition collapsed: 31 cancellations in 7 days vs 21 the week prior. The +1.2/day YTD average now represents historical performance, not current reality. Week 2 closes worse than Week 1, with no recovery signal emerging.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": 9,
-      "net_ytd": 235,
-      "net_mtd_per_day": 1.0,
-      "net_ytd_per_day": 1.2,
-      "annual_mtd": 6,
-      "annual_ytd": 169,
-      "monthly_mtd": 3,
-      "monthly_ytd": 66
+      "net_mtd": "2",
+      "net_ytd": "228",
+      "net_mtd_per_day": "0.2",
+      "net_ytd_per_day": "1.2",
+      "annual_mtd": "1",
+      "annual_ytd": "156",
+      "monthly_mtd": "1",
+      "monthly_ytd": "72"
     }
   }
 }

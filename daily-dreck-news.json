@@ -1,96 +1,105 @@
 {
   "fetched_date": "2026-07-11",
-  "fetched_at": "2026-07-11 10:28:55",
+  "fetched_at": "2026-07-11 11:25:27",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Lamm explains to Coloradans they already had enough tax relief; RMGO defies Owens and Tancredo | A LOOK BACK",
+      "link": "https://www.coloradopolitics.com/2026/07/11/lamm-explains-to-coloradans-they-already-had-enough-tax-relief-rmgo-defies-owens-and-tancredo-a-look-back/",
+      "source": "CO Politics",
+      "pub_date": "2026-07-11T11:00:00+00:00",
+      "age_hours": 0.4199645891666667,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
     {
       "title": "What\u2019s Working: Colorado homeowners insurance is among the most expensive in the US",
       "link": "https://coloradosun.com/2026/07/11/colorado-homeowners-insurance-expensive/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-11T10:00:00+00:00",
-      "age_hours": 0.47808904,
+      "age_hours": 1.4190711313888889,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "GoFundMe raises over $400K for family of slain business owner Lorenzo Salgado Araujo",
       "link": "https://kdvr.com/news/nationalworld-news/gofundme-raises-over-400k-for-family-of-slain-business-owner-lorenzo-salgado-araujo/",
       "source": "Fox31",
       "pub_date": "2026-07-11T01:57:26+00:00",
-      "age_hours": 8.521184896388888,
+      "age_hours": 9.462392074444445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
       "link": "https://www.9news.com/article/news/nation-world/apple-lawsuit-chatgpt-maker-openai-steal-trade-secrets/507-f8be26f0-fdc6-429a-89db-063457da1ec6",
       "source": "9News",
       "pub_date": "2026-07-10T23:55:13+00:00",
-      "age_hours": 10.557927283611113,
+      "age_hours": 11.499038609444446,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Recycling and compost requirements for Denver restaurants, apartments 2 months away",
       "link": "https://www.9news.com/article/news/local/recycling-compost-required-denver-restaurants-apartments/73-e7649703-a29e-46cb-8692-d2d118b8abae",
       "source": "9News",
       "pub_date": "2026-07-10T23:41:43+00:00",
-      "age_hours": 10.782927334444445,
+      "age_hours": 11.724038661111111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Slurpee turns 60: How to get a free Slurpee, gas discount and more deals for 7-Eleven Day",
       "link": "https://www.9news.com/article/news/nation-world/7-eleven-slurpee-day-2026-deals-freebies/507-fe3b966d-9b68-43ae-ae9e-3d3237638f4c",
       "source": "9News",
       "pub_date": "2026-07-10T23:09:25+00:00",
-      "age_hours": 11.321260702222222,
+      "age_hours": 12.262372028888889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Developer: Target, Trader Joe\u2019s \u2018committed\u2019 to Lafayette\u2019s The Range",
       "link": "https://bizwest.com/2026/07/10/developer-target-trader-joes-committed-to-lafayettes-the-range/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:36:51+00:00",
-      "age_hours": 12.863385200555555,
+      "age_hours": 13.80447143138889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "FRCC eyes 2029 opening for downtown Longmont campus",
       "link": "https://bizwest.com/2026/07/10/frcc-eyes-2029-opening-for-downtown-longmont-campus/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:29:20+00:00",
-      "age_hours": 12.988663573888887,
+      "age_hours": 13.929749756944444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Cosmo\u2019s building Broomfield pizzeria",
       "link": "https://bizwest.com/2026/07/10/cosmos-building-broomfield-pizzeria/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:22:27+00:00",
-      "age_hours": 13.103385829444445,
+      "age_hours": 14.0444720125,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Aurora City Council proposes more decorum changes to deal with fractious meetings",
       "link": "https://sentinelcolorado.com/metro/aurora-city-council-proposes-more-decorum-changes-to-deal-with-fractious-meetings/",
       "source": "Sentinel",
       "pub_date": "2026-07-10T21:01:14+00:00",
-      "age_hours": 13.458115413333333,
+      "age_hours": 14.399458793611112,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Aurora Police Department podcast revives search for Chelsea Yasser\u2019s killer",
       "link": "https://sentinelcolorado.com/metro/aurora-police-department-podcast-revives-search-for-chelsea-yassers-killer/",
       "source": "Sentinel",
       "pub_date": "2026-07-10T20:28:26+00:00",
-      "age_hours": 14.004782330833335,
+      "age_hours": 14.946125719166666,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -99,88 +108,79 @@
       "link": "https://bizwest.com/2026/07/10/loveland-based-team-restores-recovered-greeley-statue/",
       "source": "BizWest",
       "pub_date": "2026-07-10T20:14:18+00:00",
-      "age_hours": 14.239219200833332,
+      "age_hours": 15.180305376944444,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Hong Kong eateries welcome dogs as city relaxes ban",
       "link": "https://sentinelcolorado.com/uncategorized/hong-kong-eateries-welcome-dogs-as-city-relaxes-ban/",
       "source": "Sentinel",
       "pub_date": "2026-07-10T19:44:59+00:00",
-      "age_hours": 14.728949259444445,
+      "age_hours": 15.670292651666667,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Aurora sees \u2018incredible compliance\u2019 on water restrictions from residential users, less from commercial users",
       "link": "https://www.coloradopolitics.com/2026/07/10/aurora-sees-incredible-compliance-on-water-restrictions-from-residential-users-less-from-commercial-users/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:25:10+00:00",
-      "age_hours": 15.059216419444443,
+      "age_hours": 16.000520267777777,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado partners with tech organization to simplify tax filing process",
       "link": "https://www.coloradopolitics.com/2026/07/10/colorado-partners-with-tech-organization-to-simplify-tax-filing-process/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:20:50+00:00",
-      "age_hours": 15.131438739444445,
+      "age_hours": 16.072742582222222,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Construction workers help animal control rescue ducklings from drain",
       "link": "https://kdvr.com/news/local/construction-workers-help-animal-control-rescue-ducklings-from-drain/",
       "source": "Fox31",
       "pub_date": "2026-07-10T19:20:08+00:00",
-      "age_hours": 15.142851515277778,
+      "age_hours": 16.08405869388889,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Police investigating Colfax crash involving pedestrian",
       "link": "https://kdvr.com/news/local/police-investigating-colfax-crash-involving-pedestrian/",
       "source": "Fox31",
       "pub_date": "2026-07-10T19:18:11+00:00",
-      "age_hours": 15.175351520833333,
+      "age_hours": 16.116558700000002,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Gov. Polis outlines vision for Colorado\u2019s higher ed, workforce development",
       "link": "https://www.coloradopolitics.com/2026/07/10/gov-polis-outlines-vision-for-colorados-higher-ed-workforce-development/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:13:51+00:00",
-      "age_hours": 15.247827638333332,
+      "age_hours": 16.18913148111111,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Hawaii-Based Group Buys Another Denver Metro Industrial Property: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/denver/news/industrial/hawaii-based-group-buys-another-denver-metro-industrial-property-the-denver-deal-sheet-135387",
       "source": "Bisnow",
       "pub_date": "2026-07-10T16:47:32-04:00",
-      "age_hours": 13.68559617361111,
+      "age_hours": 14.626587958611111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Hot Wheels monster trucks bring glow-in-the-dark tour to Denver",
       "link": "https://www.9news.com/article/life/style/colorado-guide/hot-wheels-monster-truck-meet-greet/73-ade3ca64-6a86-49b2-96e0-7e768e987ed4",
       "source": "9News",
       "pub_date": "2026-07-10T16:41:43+00:00",
-      "age_hours": 17.78292747277778,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Trump will let bipartisan housing bill become law without signing in protest over GOP voter ID law",
-      "link": "https://sentinelcolorado.com/uncategorized/trump-will-let-bipartisan-housing-bill-become-law-without-signing-in-protest-over-gop-voter-id-law/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-10T16:11:38+00:00",
-      "age_hours": 18.28478264583333,
+      "age_hours": 18.72403879611111,
       "breaking": false,
       "time_ago": "18 hrs ago"
     }
