@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-07-12",
-  "fetched_at": "2026-07-12 03:08:19",
+  "fetched_at": "2026-07-12 05:07:34",
   "article_count": 20,
   "breaking_count": 1,
   "articles": [
+    {
+      "title": "30,000-acre Wild Horse Refuge near Craig aims to change how mustangs are managed",
+      "link": "https://bizwest.com/2026/07/11/30000-acre-wild-horse-refuge-near-craig-aims-to-change-how-mustangs-are-managed/",
+      "source": "BizWest",
+      "pub_date": "2026-07-12T03:42:57+00:00",
+      "age_hours": 1.4056015716666665,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Two walk away from plane crash in remote area of Mesa County",
       "link": "https://kdvr.com/news/local/two-walk-away-from-plane-crash-in-remote-area-of-mesa-county/",
       "source": "Fox31",
       "pub_date": "2026-07-11T22:22:06+00:00",
-      "age_hours": 4.766516884166666,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.754174955833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "FOX31 speaks to parents of boy hospitalized from fireworks incident",
       "link": "https://kdvr.com/news/local/fox31-speaks-to-parents-of-boy-hospitalized-from-fireworks-incident/",
       "source": "Fox31",
       "pub_date": "2026-07-11T16:36:28+00:00",
-      "age_hours": 10.52707237111111,
+      "age_hours": 12.51473044111111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Bipartisan housing bill becomes law without president's signature. Here's what it's about.",
       "link": "https://www.9news.com/article/news/nation-world/housing-bill-law-affordable-reform/507-5fde2c3f-b17e-40c3-8c91-29b637aa938e",
       "source": "9News",
       "pub_date": "2026-07-11T12:54:17+00:00",
-      "age_hours": 14.22996866611111,
+      "age_hours": 16.217398966111112,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Lamm explains to Coloradans they already had enough tax relief; RMGO defies Owens and Tancredo | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/07/11/lamm-explains-to-coloradans-they-already-had-enough-tax-relief-rmgo-defies-owens-and-tancredo-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-11T11:00:00+00:00",
-      "age_hours": 16.135025135,
+      "age_hours": 18.122820611944444,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "What\u2019s Working: Colorado homeowners insurance is among the most expensive in the US",
       "link": "https://coloradosun.com/2026/07/11/colorado-homeowners-insurance-expensive/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-11T10:00:00+00:00",
-      "age_hours": 17.13458364027778,
+      "age_hours": 19.12188092027778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
       "link": "https://www.9news.com/article/news/nation-world/apple-lawsuit-chatgpt-maker-openai-steal-trade-secrets/507-f8be26f0-fdc6-429a-89db-063457da1ec6",
       "source": "9News",
       "pub_date": "2026-07-10T23:55:13+00:00",
-      "age_hours": 27.21441320638889,
+      "age_hours": 29.201843519999997,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,16 +72,7 @@
       "link": "https://www.9news.com/article/news/local/recycling-compost-required-denver-restaurants-apartments/73-e7649703-a29e-46cb-8692-d2d118b8abae",
       "source": "9News",
       "pub_date": "2026-07-10T23:41:43+00:00",
-      "age_hours": 27.43941325111111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Slurpee turns 60: How to get a free Slurpee, gas discount and more deals for 7-Eleven Day",
-      "link": "https://www.9news.com/article/news/nation-world/7-eleven-slurpee-day-2026-deals-freebies/507-fe3b966d-9b68-43ae-ae9e-3d3237638f4c",
-      "source": "9News",
-      "pub_date": "2026-07-10T23:09:25+00:00",
-      "age_hours": 27.9777466175,
+      "age_hours": 29.426843575,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://bizwest.com/2026/07/10/developer-target-trader-joes-committed-to-lafayettes-the-range/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:36:51+00:00",
-      "age_hours": 29.51995086361111,
+      "age_hours": 31.507268813055553,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://bizwest.com/2026/07/10/frcc-eyes-2029-opening-for-downtown-longmont-campus/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:29:20+00:00",
-      "age_hours": 29.64522963388889,
+      "age_hours": 31.6325466325,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://bizwest.com/2026/07/10/cosmos-building-broomfield-pizzeria/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:22:27+00:00",
-      "age_hours": 29.75995189472222,
+      "age_hours": 31.747268891666664,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://sentinelcolorado.com/metro/aurora-city-council-proposes-more-decorum-changes-to-deal-with-fractious-meetings/",
       "source": "Sentinel",
       "pub_date": "2026-07-10T21:01:14+00:00",
-      "age_hours": 30.114498911944445,
+      "age_hours": 32.102299243888886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://sentinelcolorado.com/metro/aurora-police-department-podcast-revives-search-for-chelsea-yassers-killer/",
       "source": "Sentinel",
       "pub_date": "2026-07-10T20:28:26+00:00",
-      "age_hours": 30.66116585055556,
+      "age_hours": 32.64896618527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/10/loveland-based-team-restores-recovered-greeley-statue/",
       "source": "BizWest",
       "pub_date": "2026-07-10T20:14:18+00:00",
-      "age_hours": 30.895785264166665,
+      "age_hours": 32.88310225638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://sentinelcolorado.com/uncategorized/hong-kong-eateries-welcome-dogs-as-city-relaxes-ban/",
       "source": "Sentinel",
       "pub_date": "2026-07-10T19:44:59+00:00",
-      "age_hours": 31.385332780000002,
+      "age_hours": 33.37313311388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/10/aurora-sees-incredible-compliance-on-water-restrictions-from-residential-users-less-from-commercial-users/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:25:10+00:00",
-      "age_hours": 31.715580825555556,
+      "age_hours": 33.703376300555554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/10/colorado-partners-with-tech-organization-to-simplify-tax-filing-process/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:20:50+00:00",
-      "age_hours": 31.787803140555557,
+      "age_hours": 33.77559861472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://kdvr.com/news/local/police-investigating-colfax-crash-involving-pedestrian/",
       "source": "Fox31",
       "pub_date": "2026-07-10T19:18:11+00:00",
-      "age_hours": 31.831794748333333,
+      "age_hours": 33.81945283833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/10/gov-polis-outlines-vision-for-colorados-higher-ed-workforce-development/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:13:51+00:00",
-      "age_hours": 31.90419203916667,
+      "age_hours": 33.89198751333333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.bisnow.com/denver/news/industrial/hawaii-based-group-buys-another-denver-metro-industrial-property-the-denver-deal-sheet-135387",
       "source": "Bisnow",
       "pub_date": "2026-07-10T16:47:32-04:00",
-      "age_hours": 30.342078169999997,
+      "age_hours": 32.32946268194444,
       "breaking": false,
       "time_ago": "1 day ago"
     }
