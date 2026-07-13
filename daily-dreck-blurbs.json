@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-07-12",
-  "lead_headline": "PHO & WOK opens in College View while Port Side closes after a decade in Five Points",
+  "generated_date": "2026-07-13",
+  "lead_headline": "Weekend restaurant tracker stays quiet \u2014 no new leads detected since Friday's modest four-lead batch",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>4 leads today:</strong> PHO & WOK opened in College View (January), Borama Mexican Brunch in Westminster, Cafe Cr\u00eapes at Junction Food & Drink. One closure: Port Side after 10 years.",
+      "blurb": "<strong>Zero new leads this weekend.</strong> The tracker caught nothing Friday-Sunday \u2014 unusual silence after last week's steady 4-lead daily pace. Active pipeline holds at 286 leads (155 openings, 131 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22121",
-        "period": "today"
+        "value2": "0",
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>The blackout enters Week 7.</strong> Zero new applications detected today \u2014 Saturday marks <strong>day 44</strong> of the freeze that began June 1. The 7-day window shows 274 applications, but that figure remains a stale artifact of backdated batch corrections, not live filings. No genuine new activity since May 31. Weekend typically sees zero filings, so today's silence carries no diagnostic weight \u2014 but the pattern persists: 12,512 tracked licenses, completely dormant application pipeline, six consecutive weeks without state explanation. Monday will mark 46 business days frozen. The capital markets theory strengthens as July provides no seasonal resumption. Either hospitality investment collapsed statewide in lockstep, or Colorado's licensing apparatus stopped functioning without public notice. Both scenarios point to structural failure, not administrative delay.",
+      "blurb": "<strong>Day 45 of the freeze.</strong> Zero applications today \u2014 the weekend pattern holds as Monday looms. Since June 1, Colorado's licensing pipeline remains completely dormant: <strong>274 applications</strong> flagged in the 7-day window are stale backdated corrections, not live filings. No genuine new activity in six weeks. The 12,512 tracked licenses sit frozen while the state offers no explanation. Either hospitality investment collapsed statewide simultaneously (implausible), or the licensing apparatus broke without public notice (probable). Monday marks seven full weeks without a single new application reaching the tracker.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>4 mentions yesterday</strong> \u2014 Reddit surfaced vintage Keith Kendall Organ Grinder footage, Denver Post covered Secret Garden caf\u00e9 successor and dual Belcaro mansion sales at $8M+, Simplify Jobs cited Coalition for the Homeless hiring. Week closes <strong>74 mentions</strong> across 15 sources, down marginally from last week's 76 (\u22123%) but holding steady post-holiday baseline. Denver Post leads weekly (19 citations), followed by Instagram (15), Facebook (14), Reddit (11). Google News RSS captured 73 of 74 (99% efficiency). The week's pattern: consistent mid-70s range for third consecutive week, stable sourcing diversity at 15 outlets. Friday's 4-mention day matches typical weekend drop-off, not momentum shift.",
+      "blurb": "<strong>1 mention yesterday</strong> \u2014 Saturday's single citation came via Google News RSS. The weekend drop-off continues as expected. Week closes at <strong>75 mentions</strong> across 16 sources, up 4% from last week's 72 and matching late June's baseline range. Denver Post led with 19 citations, followed by Instagram (15), Facebook (14), Reddit (11), Hoodline (3). Google News captured 74 of 75 (99% efficiency). Pattern holds: third consecutive week in mid-70s range, consistent sourcing diversity, stable post-holiday performance. Notable weekend pickups included San Antonio Express-News covering Tower Life redevelopment and Denver Post running Belcaro mansion sales piece.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "4",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "74",
+        "value1": "75",
         "class1": "",
         "label2": "sources",
-        "value2": "15",
+        "value2": "16",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) \u2014 ninth straight zero-or-negative day pushes July's crisis into uncharted territory. MTD holds at <strong>+2</strong> (+0.2/day), 90-day net slips to <strong>+113</strong>. The deterioration accelerates: after June's explosive close (+17 net June 29-30), July opened modestly (+10 first three days), then flatlined completely. July 4-11: nine consecutive days without positive net, the longest acquisition drought on record. The +0.2/day MTD pace lags YTD baseline by 83% (vs +1.2/day historical). Week 2 closes worse than Week 1: 7-day window shows <strong>\u22127 net</strong> (23 new, 30 canceled), sustained negative momentum unseen since May. Churn accelerates while new subscriptions vanish \u2014 30 cancellations in 7 days vs 21 the prior week, 43% increase. Remove June 30's carryover and July runs definitively negative through eleven days. No gain above +1 since July 3. The YTD +1.2/day average now represents historical performance only \u2014 current reality runs 90% below trend with no recovery signal emerging.",
+      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled) \u2014 tenth consecutive day without positive growth extends July's unprecedented acquisition drought. Since Friday: <strong>net \u22122</strong> (3 new, 5 canceled). MTD holds barely positive at <strong>+2</strong> (+0.2/day), while 90-day cumulative slips to <strong>+115</strong>. The crisis deepens: July 4-13 now marks the longest zero-growth streak on record. Ten straight days without gaining ground, crushing the +1.2/day YTD baseline. Week 2 closed worse than Week 1 with 7-day net at \u22128 (22 new, 30 canceled) \u2014 churn accelerating while acquisition vanished. Remove June 30's carryover and July runs definitively negative through nearly two weeks. Current daily pace lags historical trend by 83%. No recovery signal emerging.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "2",
       "net_ytd": "228",
       "net_mtd_per_day": "0.2",
       "net_ytd_per_day": "1.2",
       "annual_mtd": "1",
-      "annual_ytd": "180",
+      "annual_ytd": "195",
       "monthly_mtd": "1",
-      "monthly_ytd": "48"
+      "monthly_ytd": "33"
     }
   }
 }
