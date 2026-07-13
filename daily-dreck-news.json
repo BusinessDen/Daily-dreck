@@ -1,60 +1,60 @@
 {
   "fetched_date": "2026-07-13",
-  "fetched_at": "2026-07-13 05:13:43",
+  "fetched_at": "2026-07-13 07:14:16",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 1,
   "articles": [
     {
       "title": "Some Beulah residents allowed to return home after Aspen Acres Fire evacuations",
       "link": "https://www.9news.com/article/news/local/wildfire/beulah-residents-return-home-after-aspen-acres-fire-evacuations/73-628d4367-12b0-47da-b70f-f0a9e327316b",
       "source": "9News",
       "pub_date": "2026-07-13T01:15:25+00:00",
-      "age_hours": 3.967529132777778,
+      "age_hours": 5.976601364722222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Santa Fe Drive reopens after weekend closure",
       "link": "https://www.9news.com/article/traffic/santa-fe-drive-closure-weekend/73-fa5bf07b-9258-455b-9111-a4baaea4775e",
       "source": "9News",
       "pub_date": "2026-07-12T23:42:00+00:00",
-      "age_hours": 5.5244736280555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.533545862777777,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "CU, UCHealth, Children\u2019s partner with Bayer on clinical research",
       "link": "https://bizwest.com/2026/07/12/cu-uchealth-childrens-partner-with-bayer-on-clinical-research/",
       "source": "BizWest",
       "pub_date": "2026-07-12T20:54:00+00:00",
-      "age_hours": 8.323876555555556,
+      "age_hours": 10.333018827222222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Boulder County home prices soared in June",
       "link": "https://bizwest.com/2026/07/12/boulder-county-home-prices-soared-in-june/",
       "source": "BizWest",
       "pub_date": "2026-07-12T20:52:00+00:00",
-      "age_hours": 8.357210483888888,
+      "age_hours": 10.366352755277777,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "With their fruit crops obliterated by freeze, these Colorado growers are forced to flex their business muscles to survive",
       "link": "https://coloradosun.com/2026/07/12/first-fruits-colorado-fruit-farms-northfork-valley-western-slope-april-freeze/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-12T10:22:00+00:00",
-      "age_hours": 18.857543312222223,
+      "age_hours": 20.866773065,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "30,000-acre Wild Horse Refuge near Craig aims to change how mustangs are managed",
       "link": "https://bizwest.com/2026/07/11/30000-acre-wild-horse-refuge-near-craig-aims-to-change-how-mustangs-are-managed/",
       "source": "BizWest",
       "pub_date": "2026-07-12T03:42:57+00:00",
-      "age_hours": 25.50804385472222,
+      "age_hours": 27.51718612,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +63,7 @@
       "link": "https://kdvr.com/news/local/fox31-speaks-to-parents-of-boy-hospitalized-from-fireworks-incident/",
       "source": "Fox31",
       "pub_date": "2026-07-11T16:36:28+00:00",
-      "age_hours": 36.616993183888894,
+      "age_hours": 38.625939501944444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/11/lamm-explains-to-coloradans-they-already-had-enough-tax-relief-rmgo-defies-owens-and-tancredo-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-11T11:00:00+00:00",
-      "age_hours": 42.225017879444444,
+      "age_hours": 44.23400169972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://coloradosun.com/2026/07/11/colorado-homeowners-insurance-expensive/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-11T10:00:00+00:00",
-      "age_hours": 43.22421080472222,
+      "age_hours": 45.233440603888894,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://bizwest.com/2026/07/10/developer-target-trader-joes-committed-to-lafayettes-the-range/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:36:51+00:00",
-      "age_hours": 55.60971055666666,
+      "age_hours": 57.61885282083334,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://bizwest.com/2026/07/10/frcc-eyes-2029-opening-for-downtown-longmont-campus/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:29:20+00:00",
-      "age_hours": 55.734988372500005,
+      "age_hours": 57.74413063638889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://bizwest.com/2026/07/10/cosmos-building-broomfield-pizzeria/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:22:27+00:00",
-      "age_hours": 55.849710625,
+      "age_hours": 57.85885291333333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/10/loveland-based-team-restores-recovered-greeley-statue/",
       "source": "BizWest",
       "pub_date": "2026-07-10T20:14:18+00:00",
-      "age_hours": 56.985543989166665,
+      "age_hours": 58.994686299722225,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/10/aurora-sees-incredible-compliance-on-water-restrictions-from-residential-users-less-from-commercial-users/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:25:10+00:00",
-      "age_hours": 57.805573573055554,
+      "age_hours": 59.814557397499996,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/10/colorado-partners-with-tech-organization-to-simplify-tax-filing-process/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:20:50+00:00",
-      "age_hours": 57.877795882777775,
+      "age_hours": 59.886779706666665,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://kdvr.com/news/local/police-investigating-colfax-crash-involving-pedestrian/",
       "source": "Fox31",
       "pub_date": "2026-07-10T19:18:11+00:00",
-      "age_hours": 57.92171553055555,
+      "age_hours": 59.93066186944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/10/gov-polis-outlines-vision-for-colorados-higher-ed-workforce-development/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T19:13:51+00:00",
-      "age_hours": 57.994184780833336,
+      "age_hours": 60.00316860472223,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.bisnow.com/denver/news/industrial/hawaii-based-group-buys-another-denver-metro-industrial-property-the-denver-deal-sheet-135387",
       "source": "Bisnow",
       "pub_date": "2026-07-10T16:47:32-04:00",
-      "age_hours": 56.431785461388884,
+      "age_hours": 58.440949311388884,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/10/denver-wont-see-budget-reductions-but-mayors-office-says-city-will-need-to-get-creative-in-2027/",
       "source": "CO Politics",
       "pub_date": "2026-07-10T15:59:58+00:00",
-      "age_hours": 61.225573697222224,
+      "age_hours": 63.234557522500005,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.bisnow.com/denver/news/industrial/industrial-market-holds-steady-but-denvers-population-slowdown-raises-concerns-135384",
       "source": "Bisnow",
       "pub_date": "2026-07-10T14:42:07-04:00",
-      "age_hours": 58.5220631675,
+      "age_hours": 60.53122700527778,
       "breaking": false,
       "time_ago": "2 days ago"
     }
