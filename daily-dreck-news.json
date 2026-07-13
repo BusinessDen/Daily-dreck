@@ -1,51 +1,96 @@
 {
   "fetched_date": "2026-07-13",
-  "fetched_at": "2026-07-13 20:29:21",
+  "fetched_at": "2026-07-13 21:22:23",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Steelman claims Blue Championship on red-hot day",
+      "link": "https://bizwest.com/2026/07/13/steelman-claims-blue-championship-on-red-hot-day/",
+      "source": "BizWest",
+      "pub_date": "2026-07-13T21:11:47+00:00",
+      "age_hours": 0.1711348888888889,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "Denver Office Market Posts its Most Encouraging Quarter Post-Pandemic",
+      "link": "https://milehighcre.com/denver-office-market-posts-its-most-encouraging-quarter-post-pandemic/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-07-13T21:09:31+00:00",
+      "age_hours": 0.2092836697222222,
+      "breaking": true,
+      "time_ago": "12 min ago"
+    },
+    {
+      "title": "Spark AI Foundry touts plan for Loveland data center",
+      "link": "https://bizwest.com/2026/07/13/spark-ai-foundry-touts-plan-for-loveland-data-center/",
+      "source": "BizWest",
+      "pub_date": "2026-07-13T21:04:02+00:00",
+      "age_hours": 0.30030196333333337,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "12 states, including Colorado, say Paramount-Warner merger would \u2018extinguish competition\u2019",
+      "link": "https://sentinelcolorado.com/nation-world/nation/12-states-including-colorado-say-paramount-warner-merger-would-extinguish-competition/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-13T20:55:08+00:00",
+      "age_hours": 0.45030463833333334,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "12 states, including Colorado, challenge Paramount's takeover of Warner Bros.",
+      "link": "https://kdvr.com/news/local/ap-california-11-other-states-sue-to-block-paramounts-takeover-of-warner-bros/",
+      "source": "Fox31",
+      "pub_date": "2026-07-13T20:52:32+00:00",
+      "age_hours": 0.4933218338888889,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
+    {
+      "title": "Aurora considers expanding accessory dwelling units to boost housing options",
+      "link": "https://sentinelcolorado.com/metro/aurora-considers-expanding-accessory-dwelling-units-to-boost-housing-options/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-13T20:35:09+00:00",
+      "age_hours": 0.7833605233333333,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
     {
       "title": "Colorado Connector unveils foxy branding",
       "link": "https://bizwest.com/2026/07/13/colorado-connector-unveils-foxy-branding/",
       "source": "BizWest",
       "pub_date": "2026-07-13T19:37:42+00:00",
-      "age_hours": 0.8563087316666667,
+      "age_hours": 1.7391908861111112,
       "breaking": true,
-      "time_ago": "51 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "FDA rejects petition asking agency to set limits for 'forever chemicals' in food",
       "link": "https://www.9news.com/article/news/nation-world/fda-rejects-petition-askinglimits-forever-chemicals-in-food/507-d269901a-1571-4ca4-adfc-d0a11b43876b",
       "source": "9News",
       "pub_date": "2026-07-13T19:31:42+00:00",
-      "age_hours": 0.9569415983333334,
+      "age_hours": 1.839936033611111,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado joins multistate antitrust lawsuit to block Paramount-Warner Bros. merger",
       "link": "https://www.coloradopolitics.com/2026/07/13/colorado-joins-multistate-antitrust-lawsuit-to-block-paramount-warner-bros-merger/",
       "source": "CO Politics",
       "pub_date": "2026-07-13T19:02:12+00:00",
-      "age_hours": 1.4489381716666667,
+      "age_hours": 2.3324956330555557,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Edgewise closes muscular-dystrophy biz sale in deal that could top $2.6M",
       "link": "https://bizwest.com/2026/07/13/edgewise-closes-muscular-dystrophy-biz-sale-in-deal-that-could-top-2-6m/",
       "source": "BizWest",
       "pub_date": "2026-07-13T18:33:32+00:00",
-      "age_hours": 1.9257542349999999,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Boys Lacrosse: Grandview\u2019s Mason Kelly, Regis Jesuit\u2019s William Wilson hailed as USA Lacrosse All-Americans",
-      "link": "https://sentinelcolorado.com/sports/preps/boys-lacrosse/boys-lacrosse-grandviews-mason-kelly-regis-jesuits-william-wilson-hailed-as-usa-lacrosse-all-americans/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-13T18:24:20+00:00",
-      "age_hours": 2.0801459094444446,
+      "age_hours": 2.808635352777778,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -54,34 +99,34 @@
       "link": "https://www.9news.com/article/money/business-brief/business-buzz-colorado-housing-grid-reliability/73-461cd2e7-b424-4fd5-b88e-393184ae97e8",
       "source": "9News",
       "pub_date": "2026-07-13T17:39:20+00:00",
-      "age_hours": 2.8297194047222223,
+      "age_hours": 3.7127138313888888,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado among 12 states suing to block Paramount merger with Warner Bros",
       "link": "https://www.9news.com/article/money/business/paramount-warner-bros-colorado-states-lawsuit-merger/73-53fbd8fe-b284-4eb1-b687-64243d1e760f",
       "source": "9News",
       "pub_date": "2026-07-13T17:18:51+00:00",
-      "age_hours": 3.171108351111111,
+      "age_hours": 4.0541027566666665,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Paradigm River North Adds 2 Tenants Totaling 17,300 SF",
       "link": "https://milehighcre.com/paradigm-river-north-adds-2-tenants-totaling-17300-sf/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-13T17:16:56+00:00",
-      "age_hours": 3.2028319838888892,
+      "age_hours": 4.0856727625,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Specialized helicopter that crashed while fighting wildfire near Ouray belonged to Georgia company",
       "link": "https://coloradosun.com/2026/07/13/pilot-dies-in-wildfire-crash/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-13T16:27:18+00:00",
-      "age_hours": 4.03014842,
+      "age_hours": 4.9129827144444445,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -90,7 +135,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/13/us-launches-additional-strikes-on-iran-after-tehran-expanded-attacks-in-the-gulf/",
       "source": "CO Politics",
       "pub_date": "2026-07-13T15:27:50+00:00",
-      "age_hours": 5.021715986111111,
+      "age_hours": 5.905273440277778,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -99,90 +144,45 @@
       "link": "https://milehighcre.com/stronger-economic-momentum-boosts-h2-2026-cre-outlook/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-13T15:18:18+00:00",
-      "age_hours": 5.180054223611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.0628949938888885,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Olive Garden announces return of never-ending pasta pass",
       "link": "https://www.9news.com/article/news/nation-world/olive-garden-pasta-pass-returns-how-to-get-it-price/507-ca7fdfca-2b4f-4807-99df-55e0d28745d6",
       "source": "9News",
       "pub_date": "2026-07-13T14:52:24+00:00",
-      "age_hours": 5.6119417305555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.494936120833334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Water World opening Summit Canyon zone with first drop-capsule slide in Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/water-world-new-summit-canyon-rides/73-0684f2e8-3133-4a02-93b4-79e10334ed3c",
       "source": "9News",
       "pub_date": "2026-07-13T13:48:01+00:00",
-      "age_hours": 6.6849973530555555,
+      "age_hours": 7.567991749166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "New beer garden opens in Denver's River North area",
       "link": "https://www.9news.com/article/money/business/denargo-market-hopscotch-beer-garden/73-6300867c-0bf5-4be9-afae-854304ad4e51",
       "source": "9News",
       "pub_date": "2026-07-13T12:50:19+00:00",
-      "age_hours": 7.6466640252777776,
+      "age_hours": 8.52965842,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "What's next for the proposed spiral tower in Denver",
       "link": "https://www.9news.com/article/money/markets/real-estate/proposed-spiral-tower/73-aa39bfaf-cffc-411f-a5d6-53ff140f9475",
       "source": "9News",
       "pub_date": "2026-07-13T12:37:31+00:00",
-      "age_hours": 7.859997398333334,
+      "age_hours": 8.742991783333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "AI robot arm aims to pluck more recycling out of Denver metro area",
-      "link": "https://coloradosun.com/2026/07/13/republic-services-denver-waste-diversion-efforts-ai-robots/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-07-13T10:08:00+00:00",
-      "age_hours": 10.35181510888889,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "First Look: Mother Other Is a Standout Restaurant That Just Happens to Be Vegan",
-      "link": "https://www.westword.com/food-drink/first-look-mother-other-is-a-standout-restaurant-that-just-happens-to-be-vegan-40909669/",
-      "source": "Westword",
-      "pub_date": "2026-07-13T10:06:27-06:00",
-      "age_hours": 4.377978088888889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "CU, UCHealth, Children\u2019s partner with Bayer on clinical research",
-      "link": "https://bizwest.com/2026/07/12/cu-uchealth-childrens-partner-with-bayer-on-clinical-research/",
-      "source": "BizWest",
-      "pub_date": "2026-07-12T20:54:00+00:00",
-      "age_hours": 23.5846431375,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Boulder County home prices soared in June",
-      "link": "https://bizwest.com/2026/07/12/boulder-county-home-prices-soared-in-june/",
-      "source": "BizWest",
-      "pub_date": "2026-07-12T20:52:00+00:00",
-      "age_hours": 23.617976540833332,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "With their fruit crops obliterated by freeze, these Colorado growers are forced to flex their business muscles to survive",
-      "link": "https://coloradosun.com/2026/07/12/first-fruits-colorado-fruit-farms-northfork-valley-western-slope-april-freeze/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-07-12T10:22:00+00:00",
-      "age_hours": 34.11848243972222,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
