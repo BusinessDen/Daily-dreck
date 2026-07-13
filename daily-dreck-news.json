@@ -1,87 +1,105 @@
 {
   "fetched_date": "2026-07-13",
-  "fetched_at": "2026-07-13 17:40:17",
+  "fetched_at": "2026-07-13 18:36:49",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "Edgewise closes muscular-dystrophy biz sale in deal that could top $2.6M",
+      "link": "https://bizwest.com/2026/07/13/edgewise-closes-muscular-dystrophy-biz-sale-in-deal-that-could-top-2-6m/",
+      "source": "BizWest",
+      "pub_date": "2026-07-13T18:33:32+00:00",
+      "age_hours": 0.049800024722222225,
+      "breaking": true,
+      "time_ago": "2 min ago"
+    },
+    {
+      "title": "Boys Lacrosse: Grandview\u2019s Mason Kelly, Regis Jesuit\u2019s William Wilson hailed as USA Lacrosse All-Americans",
+      "link": "https://sentinelcolorado.com/sports/preps/boys-lacrosse/boys-lacrosse-grandviews-mason-kelly-regis-jesuits-william-wilson-hailed-as-usa-lacrosse-all-americans/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-13T18:24:20+00:00",
+      "age_hours": 0.20443768694444445,
+      "breaking": true,
+      "time_ago": "12 min ago"
+    },
+    {
+      "title": "Business Buzz: The Colorado housing paradox and the fight for grid reliability",
+      "link": "https://www.9news.com/article/money/business-brief/business-buzz-colorado-housing-grid-reliability/73-461cd2e7-b424-4fd5-b88e-393184ae97e8",
+      "source": "9News",
+      "pub_date": "2026-07-13T17:39:20+00:00",
+      "age_hours": 0.9538016772222222,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
     {
       "title": "Colorado among 12 states suing to block Paramount merger with Warner Bros",
       "link": "https://www.9news.com/article/money/business/paramount-warner-bros-colorado-states-lawsuit-merger/73-53fbd8fe-b284-4eb1-b687-64243d1e760f",
       "source": "9News",
       "pub_date": "2026-07-13T17:18:51+00:00",
-      "age_hours": 0.3525903952777778,
+      "age_hours": 1.2951906166666665,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Paradigm River North Adds 2 Tenants Totaling 17,300 SF",
       "link": "https://milehighcre.com/paradigm-river-north-adds-2-tenants-totaling-17300-sf/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-13T17:16:56+00:00",
-      "age_hours": 0.3843050463888889,
+      "age_hours": 1.3268136241666666,
       "breaking": true,
-      "time_ago": "23 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Specialized helicopter that crashed while fighting wildfire near Ouray belonged to Georgia company",
       "link": "https://coloradosun.com/2026/07/13/pilot-dies-in-wildfire-crash/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-13T16:27:18+00:00",
-      "age_hours": 1.2116067741666665,
+      "age_hours": 2.1541201794444444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "US launches additional strikes on Iran after Tehran expanded attacks in the Gulf",
       "link": "https://www.coloradopolitics.com/2026/07/13/us-launches-additional-strikes-on-iran-after-tehran-expanded-attacks-in-the-gulf/",
       "source": "CO Politics",
       "pub_date": "2026-07-13T15:27:50+00:00",
-      "age_hours": 2.2032805125,
+      "age_hours": 3.1460777866666665,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Stronger Economic Momentum Boosts H2 2026 CRE Outlook",
       "link": "https://milehighcre.com/stronger-economic-momentum-boosts-h2-2026-cre-outlook/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-13T15:18:18+00:00",
-      "age_hours": 2.3615272872222226,
+      "age_hours": 3.304035861388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Olive Garden announces return of never-ending pasta pass",
       "link": "https://www.9news.com/article/news/nation-world/olive-garden-pasta-pass-returns-how-to-get-it-price/507-ca7fdfca-2b4f-4807-99df-55e0d28745d6",
       "source": "9News",
       "pub_date": "2026-07-13T14:52:24+00:00",
-      "age_hours": 2.7934237908333333,
+      "age_hours": 3.736024000277778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Water World opening Summit Canyon zone with first drop-capsule slide in Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/water-world-new-summit-canyon-rides/73-0684f2e8-3133-4a02-93b4-79e10334ed3c",
       "source": "9News",
       "pub_date": "2026-07-13T13:48:01+00:00",
-      "age_hours": 3.86647943,
+      "age_hours": 4.80907964,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "New beer garden opens in Denver's River North area",
       "link": "https://www.9news.com/article/money/business/denargo-market-hopscotch-beer-garden/73-6300867c-0bf5-4be9-afae-854304ad4e51",
       "source": "9News",
       "pub_date": "2026-07-13T12:50:19+00:00",
-      "age_hours": 4.828146101944444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "State scrutinizes 42 homeschool enrichment programs amid new law, one from Aurora",
-      "link": "https://sentinelcolorado.com/metro/state-scrutinizes-42-homeschool-enrichment-programs-amid-new-law-one-from-aurora/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-13T12:39:53+00:00",
-      "age_hours": 5.002478584166666,
+      "age_hours": 5.770746311944444,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://www.9news.com/article/money/markets/real-estate/proposed-spiral-tower/73-aa39bfaf-cffc-411f-a5d6-53ff140f9475",
       "source": "9News",
       "pub_date": "2026-07-13T12:37:31+00:00",
-      "age_hours": 5.041479481944444,
+      "age_hours": 5.984079691111111,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -99,43 +117,43 @@
       "link": "https://coloradosun.com/2026/07/13/republic-services-denver-waste-diversion-efforts-ai-robots/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-13T10:08:00+00:00",
-      "age_hours": 7.533273464166666,
+      "age_hours": 8.475786865277778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "First Look: Mother Other Is a Standout Restaurant That Just Happens to Be Vegan",
       "link": "https://www.westword.com/food-drink/first-look-mother-other-is-a-standout-restaurant-that-just-happens-to-be-vegan-40909669/",
       "source": "Westword",
       "pub_date": "2026-07-13T10:06:27-06:00",
-      "age_hours": 1.5595015419444445,
+      "age_hours": 2.5023011116666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "CU, UCHealth, Children\u2019s partner with Bayer on clinical research",
       "link": "https://bizwest.com/2026/07/12/cu-uchealth-childrens-partner-with-bayer-on-clinical-research/",
       "source": "BizWest",
       "pub_date": "2026-07-12T20:54:00+00:00",
-      "age_hours": 20.766231422222223,
+      "age_hours": 21.7086889275,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Boulder County home prices soared in June",
       "link": "https://bizwest.com/2026/07/12/boulder-county-home-prices-soared-in-june/",
       "source": "BizWest",
       "pub_date": "2026-07-12T20:52:00+00:00",
-      "age_hours": 20.799565267777776,
+      "age_hours": 21.742022851944444,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "With their fruit crops obliterated by freeze, these Colorado growers are forced to flex their business muscles to survive",
       "link": "https://coloradosun.com/2026/07/12/first-fruits-colorado-fruit-farms-northfork-valley-western-slope-april-freeze/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-12T10:22:00+00:00",
-      "age_hours": 31.299940803333335,
+      "age_hours": 32.24245425055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/11/30000-acre-wild-horse-refuge-near-craig-aims-to-change-how-mustangs-are-managed/",
       "source": "BizWest",
       "pub_date": "2026-07-12T03:42:57+00:00",
-      "age_hours": 37.950398632777784,
+      "age_hours": 38.892856215555554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://kdvr.com/news/local/fox31-speaks-to-parents-of-boy-hospitalized-from-fireworks-incident/",
       "source": "Fox31",
       "pub_date": "2026-07-11T16:36:28+00:00",
-      "age_hours": 49.05912073722222,
+      "age_hours": 50.00181550972222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/11/lamm-explains-to-coloradans-they-already-had-enough-tax-relief-rmgo-defies-owens-and-tancredo-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-11T11:00:00+00:00",
-      "age_hours": 54.66716957194444,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Denver to introduce biennial budget legislation, hear zoning changes for five neighborhoods",
-      "link": "https://www.coloradopolitics.com/2026/07/10/denver-to-introduce-biennial-budget-legislation-hear-zoning-changes-for-five-neighborhoods/",
-      "source": "CO Politics",
-      "pub_date": "2026-07-10T23:02:12+00:00",
-      "age_hours": 66.63050302222223,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Developer: Target, Trader Joe\u2019s \u2018committed\u2019 to Lafayette\u2019s The Range",
-      "link": "https://bizwest.com/2026/07/10/developer-target-trader-joes-committed-to-lafayettes-the-range/",
-      "source": "BizWest",
-      "pub_date": "2026-07-10T21:36:51+00:00",
-      "age_hours": 68.05206533611111,
+      "age_hours": 55.60996684166667,
       "breaking": false,
       "time_ago": "2 days ago"
     }
