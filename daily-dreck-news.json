@@ -1,105 +1,123 @@
 {
   "fetched_date": "2026-07-13",
-  "fetched_at": "2026-07-13 15:02:30",
+  "fetched_at": "2026-07-13 16:50:09",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Specialized helicopter that crashed while fighting wildfire near Ouray belonged to Georgia company",
+      "link": "https://coloradosun.com/2026/07/13/pilot-dies-in-wildfire-crash/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-13T16:27:18+00:00",
+      "age_hours": 0.3757889016666667,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
+    {
+      "title": "US launches additional strikes on Iran after Tehran expanded attacks in the Gulf",
+      "link": "https://www.coloradopolitics.com/2026/07/13/us-launches-additional-strikes-on-iran-after-tehran-expanded-attacks-in-the-gulf/",
+      "source": "CO Politics",
+      "pub_date": "2026-07-13T15:27:50+00:00",
+      "age_hours": 1.3679576072222221,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Stronger Economic Momentum Boosts H2 2026 CRE Outlook",
+      "link": "https://milehighcre.com/stronger-economic-momentum-boosts-h2-2026-cre-outlook/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-07-13T15:18:18+00:00",
+      "age_hours": 1.525723506111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Olive Garden announces return of never-ending pasta pass",
       "link": "https://www.9news.com/article/news/nation-world/olive-garden-pasta-pass-returns-how-to-get-it-price/507-ca7fdfca-2b4f-4807-99df-55e0d28745d6",
       "source": "9News",
       "pub_date": "2026-07-13T14:52:24+00:00",
-      "age_hours": 0.16504688416666666,
+      "age_hours": 1.957691870277778,
       "breaking": true,
-      "time_ago": "9 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Water World opening Summit Canyon zone with first drop-capsule slide in Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/water-world-new-summit-canyon-rides/73-0684f2e8-3133-4a02-93b4-79e10334ed3c",
       "source": "9News",
       "pub_date": "2026-07-13T13:48:01+00:00",
-      "age_hours": 1.23810254,
+      "age_hours": 3.0307475247222224,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "New beer garden opens in Denver's River North area",
       "link": "https://www.9news.com/article/money/business/denargo-market-hopscotch-beer-garden/73-6300867c-0bf5-4be9-afae-854304ad4e51",
       "source": "9News",
       "pub_date": "2026-07-13T12:50:19+00:00",
-      "age_hours": 2.1997692122222223,
+      "age_hours": 3.9924141972222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "State scrutinizes 42 homeschool enrichment programs amid new law, one from Aurora",
       "link": "https://sentinelcolorado.com/metro/state-scrutinizes-42-homeschool-enrichment-programs-amid-new-law-one-from-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-07-13T12:39:53+00:00",
-      "age_hours": 2.374116431944444,
+      "age_hours": 4.167147453888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "What's next for the proposed spiral tower in Denver",
       "link": "https://www.9news.com/article/money/markets/real-estate/proposed-spiral-tower/73-aa39bfaf-cffc-411f-a5d6-53ff140f9475",
       "source": "9News",
       "pub_date": "2026-07-13T12:37:31+00:00",
-      "age_hours": 2.4131026038888885,
+      "age_hours": 4.2057475958333335,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "AI robot arm aims to pluck more recycling out of Denver metro area",
       "link": "https://coloradosun.com/2026/07/13/republic-services-denver-waste-diversion-efforts-ai-robots/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-13T10:08:00+00:00",
-      "age_hours": 4.904914828611112,
+      "age_hours": 6.697455590833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "First Look: Mother Other Is a Standout Restaurant That Just Happens to Be Vegan",
+      "link": "https://www.westword.com/food-drink/first-look-mother-other-is-a-standout-restaurant-that-just-happens-to-be-vegan-40909669/",
+      "source": "Westword",
+      "pub_date": "2026-07-13T10:06:27-06:00",
+      "age_hours": 0.72408499,
       "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Some Beulah residents allowed to return home after Aspen Acres Fire evacuations",
-      "link": "https://www.9news.com/article/news/local/wildfire/beulah-residents-return-home-after-aspen-acres-fire-evacuations/73-628d4367-12b0-47da-b70f-f0a9e327316b",
-      "source": "9News",
-      "pub_date": "2026-07-13T01:15:25+00:00",
-      "age_hours": 13.781436037777778,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Santa Fe Drive reopens after weekend closure",
-      "link": "https://www.9news.com/article/traffic/santa-fe-drive-closure-weekend/73-fa5bf07b-9258-455b-9111-a4baaea4775e",
-      "source": "9News",
-      "pub_date": "2026-07-12T23:42:00+00:00",
-      "age_hours": 15.338380528611111,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "43 min ago"
     },
     {
       "title": "CU, UCHealth, Children\u2019s partner with Bayer on clinical research",
       "link": "https://bizwest.com/2026/07/12/cu-uchealth-childrens-partner-with-bayer-on-clinical-research/",
       "source": "BizWest",
       "pub_date": "2026-07-12T20:54:00+00:00",
-      "age_hours": 18.1379554675,
+      "age_hours": 19.930431979444446,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Boulder County home prices soared in June",
       "link": "https://bizwest.com/2026/07/12/boulder-county-home-prices-soared-in-june/",
       "source": "BizWest",
       "pub_date": "2026-07-12T20:52:00+00:00",
-      "age_hours": 18.171289380555557,
+      "age_hours": 19.963765929444445,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "With their fruit crops obliterated by freeze, these Colorado growers are forced to flex their business muscles to survive",
       "link": "https://coloradosun.com/2026/07/12/first-fruits-colorado-fruit-farms-northfork-valley-western-slope-april-freeze/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-12T10:22:00+00:00",
-      "age_hours": 28.67158219111111,
+      "age_hours": 30.46412298527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/11/30000-acre-wild-horse-refuge-near-craig-aims-to-change-how-mustangs-are-managed/",
       "source": "BizWest",
       "pub_date": "2026-07-12T03:42:57+00:00",
-      "age_hours": 35.32212274527778,
+      "age_hours": 37.114599294166666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,16 +135,25 @@
       "link": "https://kdvr.com/news/local/fox31-speaks-to-parents-of-boy-hospitalized-from-fireworks-incident/",
       "source": "Fox31",
       "pub_date": "2026-07-11T16:36:28+00:00",
-      "age_hours": 46.43078654111111,
+      "age_hours": 48.223631634444445,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Lamm explains to Coloradans they already had enough tax relief; RMGO defies Owens and Tancredo | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/07/11/lamm-explains-to-coloradans-they-already-had-enough-tax-relief-rmgo-defies-owens-and-tancredo-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-11T11:00:00+00:00",
-      "age_hours": 52.03880641888888,
+      "age_hours": 53.831846659722224,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "Denver to introduce biennial budget legislation, hear zoning changes for five neighborhoods",
+      "link": "https://www.coloradopolitics.com/2026/07/10/denver-to-introduce-biennial-budget-legislation-hear-zoning-changes-for-five-neighborhoods/",
+      "source": "CO Politics",
+      "pub_date": "2026-07-10T23:02:12+00:00",
+      "age_hours": 65.7951801086111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/10/developer-target-trader-joes-committed-to-lafayettes-the-range/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:36:51+00:00",
-      "age_hours": 65.42378944694444,
+      "age_hours": 67.21626599555556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://bizwest.com/2026/07/10/frcc-eyes-2029-opening-for-downtown-longmont-campus/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:29:20+00:00",
-      "age_hours": 65.5490672625,
+      "age_hours": 67.34154381111111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://bizwest.com/2026/07/10/cosmos-building-broomfield-pizzeria/",
       "source": "BizWest",
       "pub_date": "2026-07-10T21:22:27+00:00",
-      "age_hours": 65.66378951444445,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Loveland-based team restores recovered Greeley statue",
-      "link": "https://bizwest.com/2026/07/10/loveland-based-team-restores-recovered-greeley-statue/",
-      "source": "BizWest",
-      "pub_date": "2026-07-10T20:14:18+00:00",
-      "age_hours": 66.79962288499999,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Aurora sees \u2018incredible compliance\u2019 on water restrictions from residential users, less from commercial users",
-      "link": "https://www.coloradopolitics.com/2026/07/10/aurora-sees-incredible-compliance-on-water-restrictions-from-residential-users-less-from-commercial-users/",
-      "source": "CO Politics",
-      "pub_date": "2026-07-10T19:25:10+00:00",
-      "age_hours": 67.61936211999999,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado partners with tech organization to simplify tax filing process",
-      "link": "https://www.coloradopolitics.com/2026/07/10/colorado-partners-with-tech-organization-to-simplify-tax-filing-process/",
-      "source": "CO Politics",
-      "pub_date": "2026-07-10T19:20:50+00:00",
-      "age_hours": 67.69158442916667,
+      "age_hours": 67.45626606277779,
       "breaking": false,
       "time_ago": "2 days ago"
     }
