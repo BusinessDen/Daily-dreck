@@ -1,42 +1,60 @@
 {
   "fetched_date": "2026-07-14",
-  "fetched_at": "2026-07-14 21:23:14",
+  "fetched_at": "2026-07-14 22:23:01",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Broomfield temporarily bans new data centers",
+      "link": "https://bizwest.com/2026/07/14/broomfield-temporarily-bans-new-data-centers/",
+      "source": "BizWest",
+      "pub_date": "2026-07-14T22:19:14+00:00",
+      "age_hours": 0.05951268972222223,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "Report: Trimble looking to sell transportation division",
+      "link": "https://bizwest.com/2026/07/14/report-trimble-looking-to-sell-transportation-division/",
+      "source": "BizWest",
+      "pub_date": "2026-07-14T22:16:42+00:00",
+      "age_hours": 0.10173546166666667,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
+    {
+      "title": "Cost of being a Coloradan is weighing on local businesses\u2019 economic outlook",
+      "link": "https://www.cpr.org/2026/07/14/cost-colorado-weighing-local-business-economic-outlook/",
+      "source": "CPR",
+      "pub_date": "2026-07-14T22:13:45+00:00",
+      "age_hours": 0.1513392947222222,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
     {
       "title": "Tax relief announced for those impacted by Colorado wildfires",
       "link": "https://kdvr.com/news/local/tax-relief-announced-for-those-impacted-by-colorado-wildfires/",
       "source": "Fox31",
       "pub_date": "2026-07-14T20:46:11+00:00",
-      "age_hours": 0.6126817175,
+      "age_hours": 1.610966105277778,
       "breaking": true,
-      "time_ago": "36 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Sierra Space wins $800M contract to support Trump\u2019s \u2018Golden Dome\u2019",
       "link": "https://bizwest.com/2026/07/14/sierra-space-wins-800m-contract-to-support-trumps-golden-dome/",
       "source": "BizWest",
       "pub_date": "2026-07-14T20:35:31+00:00",
-      "age_hours": 0.7895622463888888,
+      "age_hours": 1.7881243602777777,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Erie to mull sending sales and use tax hike, lodging tax to ballot",
       "link": "https://bizwest.com/2026/07/14/erie-to-mull-sending-sales-and-use-tax-hike-lodging-tax-to-ballot/",
       "source": "BizWest",
       "pub_date": "2026-07-14T20:31:27+00:00",
-      "age_hours": 0.8573400386111112,
-      "breaking": true,
-      "time_ago": "51 min ago"
-    },
-    {
-      "title": "Nation\u2019s First Nature Library Opening in Thornton",
-      "link": "https://milehighcre.com/nations-first-nature-library-opening-in-thornton/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-14T19:51:11+00:00",
-      "age_hours": 1.5287827347222223,
+      "age_hours": 1.855902145277778,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,43 +63,34 @@
       "link": "https://www.9news.com/article/news/nation-world/sully-sullenberger-alzheimers-disease-miracle-on-the-hudson-pilot/507-2cb49358-4774-4b12-b2cb-a629b832a330",
       "source": "9News",
       "pub_date": "2026-07-14T19:00:35+00:00",
-      "age_hours": 2.3724433952777777,
+      "age_hours": 3.3708154699999997,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Artemis II crew to speak at Red Rocks Amphitheater in August",
       "link": "https://www.denver7.com/news/front-range/morrison/artemis-ii-crew-to-speak-at-red-rocks-amphitheater-in-august",
       "source": "Denver7",
       "pub_date": "2026-07-14T18:21:24+00:00",
-      "age_hours": 3.025601865,
+      "age_hours": 4.023999438055555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Elena Kagan pays tribute to \u2018untimely passing\u2019 of Lindsey Graham: \u2018Made me look funny\u2019",
       "link": "https://www.coloradopolitics.com/2026/07/14/elena-kagan-pays-tribute-to-untimely-passing-of-lindsey-graham-made-me-look-funny/",
       "source": "CO Politics",
       "pub_date": "2026-07-14T17:43:27+00:00",
-      "age_hours": 3.6585783530555553,
+      "age_hours": 4.656936615,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Data center developer has no tie to Loveland property",
       "link": "https://bizwest.com/2026/07/14/data-center-developer-has-no-tie-to-loveland-property/",
       "source": "BizWest",
       "pub_date": "2026-07-14T16:49:48+00:00",
-      "age_hours": 4.551506712222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Denver Launches $100M Jobs Agenda with $40M for Office Lease Incentives",
-      "link": "https://milehighcre.com/denver-launches-100m-jobs-agenda-with-40m-for-office-lease-incentives/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-14T16:21:12+00:00",
-      "age_hours": 5.028505250277778,
+      "age_hours": 5.5500688175,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -90,99 +99,90 @@
       "link": "https://bizwest.com/2026/07/14/quid-novi-thought-leader-group-to-discuss-language-longevity/",
       "source": "BizWest",
       "pub_date": "2026-07-14T16:09:17+00:00",
-      "age_hours": 5.226784495833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.2253466005555556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Krave It offering Longmont \u2018new kind of pizza\u2019",
       "link": "https://bizwest.com/2026/07/14/krave-it-offering-longmont-new-kind-of-pizza/",
       "source": "BizWest",
       "pub_date": "2026-07-14T16:03:40+00:00",
-      "age_hours": 5.320396165833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.318957747777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Chicken finger chain opening first Colorado location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/guthries-chicken-finger-chain-first-colorado-restaurant/73-9dbe682c-6d6a-4f57-8f5e-ab1b7398cb84",
       "source": "9News",
       "pub_date": "2026-07-14T15:37:11+00:00",
-      "age_hours": 5.762443503055556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.760815579166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Listen: Fourth time\u2019s the charm for Denver\u2019s mile-high marker",
       "link": "https://www.cpr.org/2026/07/14/denver-mile-high-marker-new-location/",
       "source": "CPR",
       "pub_date": "2026-07-14T14:51:51+00:00",
-      "age_hours": 6.517948276111111,
+      "age_hours": 7.516339361388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Man arrested after wife found dead following welfare check: Police",
       "link": "https://kdvr.com/news/local/man-arrested-after-wife-found-dead-following-welfare-check-police/",
       "source": "Fox31",
       "pub_date": "2026-07-14T14:51:49+00:00",
-      "age_hours": 6.518792729722222,
+      "age_hours": 7.517077107777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "All-Electric, Affordable Housing Community in Five Points Now Complete",
-      "link": "https://milehighcre.com/all-electric-affordable-housing-community-in-five-points-now-complete/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-14T14:50:43+00:00",
-      "age_hours": 6.536560815277777,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Zach Bryan's Denver stadium concerts add \u2018Yellowstone\u2019 star",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/zach-bryan-denver-stadium-concerts-yellowstone-ryan-bingham/73-f24bb245-7c20-45d8-9b2b-d5c02f9e8d28",
       "source": "9News",
       "pub_date": "2026-07-14T14:50:02+00:00",
-      "age_hours": 6.548276886111111,
+      "age_hours": 7.546648956666667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Water World opening Summit Canyon zone with its first drop-capsule slide",
       "link": "https://www.9news.com/article/life/style/colorado-guide/water-world-new-summit-canyon-rides/73-0684f2e8-3133-4a02-93b4-79e10334ed3c",
       "source": "9News",
       "pub_date": "2026-07-14T14:43:09+00:00",
-      "age_hours": 6.6629991197222225,
+      "age_hours": 7.661371188888889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado home addresses are being used to register thousands of fake businesses",
       "link": "https://www.westword.com/news/colorado-home-addresses-register-fake-businesses-40909531/",
       "source": "Westword",
       "pub_date": "2026-07-14T10:15:00-06:00",
-      "age_hours": 5.1325576425,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.130800723888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Rocky Mountain Youth Corps debuts construction trades program for Routt County high schoolers",
       "link": "https://coloradosun.com/2026/07/14/rocky-mountain-youth-corps-construction-trades/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-14T10:00:00+00:00",
-      "age_hours": 11.381941693611111,
+      "age_hours": 12.3804326175,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "More than two dozen artists bring new perspectives to a 150-year-old state",
       "link": "https://coloradosun.com/2026/07/14/colroado-currents-mca-denver-150-year-old-state-exhibition/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-14T09:55:00+00:00",
-      "age_hours": 11.465275043333333,
+      "age_hours": 12.463765969166666,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     }
   ]
 }
