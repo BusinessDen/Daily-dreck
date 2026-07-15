@@ -1,69 +1,105 @@
 {
   "fetched_date": "2026-07-15",
-  "fetched_at": "2026-07-15 22:22:55",
+  "fetched_at": "2026-07-15 23:22:20",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Shed fire causes massive plume of smoke in Denver's Uptown neighborhood",
+      "link": "https://kdvr.com/news/local/shed-fire-causes-massive-plume-of-smoke-in-denvers-uptown-neighborhood/",
+      "source": "Fox31",
+      "pub_date": "2026-07-15T23:03:11+00:00",
+      "age_hours": 0.3147663061111111,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "New rebate program slashes heat pump costs for Denver-area residents",
+      "link": "https://www.cpr.org/2026/07/15/new-heat-pump-rebate-program-denver/",
+      "source": "CPR",
+      "pub_date": "2026-07-15T23:02:29+00:00",
+      "age_hours": 0.3262172463888889,
+      "breaking": true,
+      "time_ago": "19 min ago"
+    },
+    {
+      "title": "Large smoke cloud in central Denver was caused by a fire at a 17th Avenue restaurant",
+      "link": "https://denverite.com/2026/07/15/denver-smoke-sherpa-basecamp-17th-avenue-fire/",
+      "source": "Denverite",
+      "pub_date": "2026-07-15T22:25:57+00:00",
+      "age_hours": 0.9350863738888889,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
     {
       "title": "Aurora schedules low-price special e-waste recycling event for late July",
       "link": "https://sentinelcolorado.com/metro/aurora-schedules-low-price-special-e-waste-recycling-event-for-late-july/",
       "source": "Sentinel",
       "pub_date": "2026-07-15T20:22:49+00:00",
-      "age_hours": 1.9976128283333332,
+      "age_hours": 2.9879501547222223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Aurora to host 11th annual Day of Resilience honoring 2012 Aurora theater shooting victims",
       "link": "https://sentinelcolorado.com/metro/aurora-to-host-11th-annual-day-of-resilience-honoring-2012-aurora-theater-shooting-victims/",
       "source": "Sentinel",
       "pub_date": "2026-07-15T20:16:50+00:00",
-      "age_hours": 2.0973353405555555,
+      "age_hours": 3.087672611388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Hawaiian buyer takes over OtterBox distribution center from Alaskan owner",
       "link": "https://bizwest.com/2026/07/15/hawaiian-buyer-takes-over-otterbox-distribution-center-from-alaskan-owner/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:12:24+00:00",
-      "age_hours": 2.1699914430555554,
+      "age_hours": 3.1591363605555554,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Xcel plans power shutoff overnight in east Loveland",
       "link": "https://bizwest.com/2026/07/15/xcel-plans-power-shutoff-overnight-in-east-loveland/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:09:08+00:00",
-      "age_hours": 2.2244359041666666,
+      "age_hours": 3.2135808186111112,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Events to highlight BizWest\u2019s Startups to Watch, Mercury 100 winners",
       "link": "https://bizwest.com/2026/07/15/events-to-highlight-bizwests-startups-to-watch-mercury-100-winners/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:07:20+00:00",
-      "age_hours": 2.254436496111111,
+      "age_hours": 3.243581211388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Downtown commission recommends Boulder parking-lot sale, hotel project",
       "link": "https://bizwest.com/2026/07/15/downtown-commission-recommends-boulder-parking-lot-sale-hotel-project/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:05:08+00:00",
-      "age_hours": 2.2911032072222226,
+      "age_hours": 3.2802479091666665,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Erie advances sales and use tax hike, lodging-tax ballot issues",
       "link": "https://bizwest.com/2026/07/15/erie-advances-sales-and-use-tax-hike-lodging-tax-ballot-issues/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:02:08+00:00",
-      "age_hours": 2.3411032152777778,
+      "age_hours": 3.3302479144444446,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Denver Wants To Make It Easier To Open A Restaurant",
+      "link": "https://www.bisnow.com/denver/news/retail/denver-rolls-out-restaurant-permitting-changes-135445",
+      "source": "Bisnow",
+      "pub_date": "2026-07-15T17:09:31-04:00",
+      "age_hours": 2.2085935230555553,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -72,117 +108,81 @@
       "link": "https://milehighcre.com/shames-makovsky-celebrates-55-years-of-commercial-real-estate-impact/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-15T16:41:09+00:00",
-      "age_hours": 5.691178772222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.6815653077777775,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Senators introduce bipartisan bill to save Social Security",
       "link": "https://www.coloradopolitics.com/2026/07/15/senators-introduce-bipartisan-bill-to-save-social-security/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:26:39+00:00",
-      "age_hours": 5.933677562222223,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.924025382777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "House GOP releases budget framework for $95 billion reconciliation bill",
       "link": "https://www.coloradopolitics.com/2026/07/15/house-gop-releases-budget-framework-for-95-billion-reconciliation-bill/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:18:00+00:00",
-      "age_hours": 6.0778443300000005,
+      "age_hours": 7.068192131388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "House Republicans unveil $95 billion plan for the Iran war, farm aid and elections",
       "link": "https://www.coloradopolitics.com/2026/07/15/house-republicans-unveil-95-billion-plan-for-the-iran-war-farm-aid-and-elections/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:00:25+00:00",
-      "age_hours": 6.370899899444444,
+      "age_hours": 7.361247697222222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Listen: RTD could kill the free 16th Street shuttle and several rail lines under budget cut proposals",
       "link": "https://www.cpr.org/2026/07/15/rtd-16th-street-free-bus-budget-cuts/",
       "source": "CPR",
       "pub_date": "2026-07-15T15:32:34+00:00",
-      "age_hours": 6.834426556666666,
+      "age_hours": 7.824828387222222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Water World unveils largest addition in over 40 years with new rides",
       "link": "https://www.9news.com/article/life/style/colorado-guide/water-world-new-summit-canyon-rides/73-0684f2e8-3133-4a02-93b4-79e10334ed3c",
       "source": "9News",
       "pub_date": "2026-07-15T15:20:48+00:00",
-      "age_hours": 7.030568830277778,
+      "age_hours": 8.021006427222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Gaylord Rockies drops lawsuit after expansion stalls over tax disupute",
       "link": "https://www.9news.com/article/money/business/gaylord-rockies-lawsuit-taxes/73-27d7963d-41f4-4bf2-b1b7-ccb4ed1f1413",
       "source": "9News",
       "pub_date": "2026-07-15T14:24:21+00:00",
-      "age_hours": 7.971402182777778,
+      "age_hours": 8.961839775277777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Pour one out for your Kindle and Windows 10: Can Colorado escape the \u201celectronics graveyard\u201d?",
       "link": "https://coloradosun.com/2026/07/15/colorado-consumer-electronics-right-to-reuse-right-to-fix/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-15T10:08:00+00:00",
-      "age_hours": 12.243726988888888,
+      "age_hours": 13.234174870833334,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Here\u2019s what\u2019s next for United\u2019s big airport campus",
       "link": "https://denverite.com/2026/07/15/denver-airport-united-training-center-rezoning/",
       "source": "Denverite",
       "pub_date": "2026-07-15T10:00:00+00:00",
-      "age_hours": 12.377171075833333,
+      "age_hours": 13.367586407500001,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "As Colorado River and tributaries shrink, a public power system frays",
-      "link": "https://www.westword.com/news/colorado-river-shrinks-public-power-system-frays-40911606/",
-      "source": "Westword",
-      "pub_date": "2026-07-15T07:24:00-06:00",
-      "age_hours": 8.977471969444444,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Army recruit's home destroyed in Denver fire",
-      "link": "https://kdvr.com/news/local/army-recruits-home-destroyed-in-denver-fire/",
-      "source": "Fox31",
-      "pub_date": "2026-07-15T05:11:51+00:00",
-      "age_hours": 17.179939875,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Colorado's firefighting strategies have evolved significantly over the decades \u2014 here's a look at the history",
-      "link": "https://www.denver7.com/news/wildfire/colorados-firefighting-tactics-have-evolved-significantly-over-the-decades-heres-a-look-at-the-history",
-      "source": "Denver7",
-      "pub_date": "2026-07-14T23:51:12+00:00",
-      "age_hours": 22.523997998333332,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Denver Police chief says officer who shot a suspect responded appropriately",
-      "link": "https://denverite.com/2026/07/14/denver-police-shooting-wilson-guerra-bravo/",
-      "source": "Denverite",
-      "pub_date": "2026-07-14T23:36:13+00:00",
-      "age_hours": 22.773560008333334,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "13 hrs ago"
     }
   ]
 }
