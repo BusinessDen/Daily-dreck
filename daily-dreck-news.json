@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-07-15",
-  "fetched_at": "2026-07-15 16:34:01",
+  "fetched_at": "2026-07-15 17:31:07",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Shames Makovsky Celebrates 55 Years of Commercial Real Estate Impact",
+      "link": "https://milehighcre.com/shames-makovsky-celebrates-55-years-of-commercial-real-estate-impact/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-07-15T16:41:09+00:00",
+      "age_hours": 0.8274618880555555,
+      "breaking": true,
+      "time_ago": "49 min ago"
+    },
     {
       "title": "Senators introduce bipartisan bill to save Social Security",
       "link": "https://www.coloradopolitics.com/2026/07/15/senators-introduce-bipartisan-bill-to-save-social-security/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:26:39+00:00",
-      "age_hours": 0.11905998388888889,
+      "age_hours": 1.0700272994444444,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "House GOP releases budget framework for $95 billion reconciliation bill",
       "link": "https://www.coloradopolitics.com/2026/07/15/house-gop-releases-budget-framework-for-95-billion-reconciliation-bill/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:18:00+00:00",
-      "age_hours": 0.26322675166666665,
+      "age_hours": 1.2141940672222222,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "House Republicans unveil $95 billion plan for the Iran war, farm aid and elections",
       "link": "https://www.coloradopolitics.com/2026/07/15/house-republicans-unveil-95-billion-plan-for-the-iran-war-farm-aid-and-elections/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:00:25+00:00",
-      "age_hours": 0.55628232,
+      "age_hours": 1.5072496355555556,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Listen: RTD could kill the free 16th Street shuttle and several rail lines under budget cut proposals",
       "link": "https://www.cpr.org/2026/07/15/rtd-16th-street-free-bus-budget-cuts/",
       "source": "CPR",
       "pub_date": "2026-07-15T15:32:34+00:00",
-      "age_hours": 1.0198675872222223,
+      "age_hours": 1.9706990130555555,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,144 +54,135 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/water-world-new-summit-canyon-rides/73-0684f2e8-3133-4a02-93b4-79e10334ed3c",
       "source": "9News",
       "pub_date": "2026-07-15T15:20:48+00:00",
-      "age_hours": 1.216035471111111,
+      "age_hours": 2.1669948497222222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Gaylord Rockies drops lawsuit after expansion stalls over tax disupute",
       "link": "https://www.9news.com/article/money/business/gaylord-rockies-lawsuit-taxes/73-27d7963d-41f4-4bf2-b1b7-ccb4ed1f1413",
       "source": "9News",
       "pub_date": "2026-07-15T14:24:21+00:00",
-      "age_hours": 2.1568688297222223,
+      "age_hours": 3.1078282013888887,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
       "link": "https://sentinelcolorado.com/nation-world/nation/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/",
       "source": "Sentinel",
       "pub_date": "2026-07-15T12:20:34+00:00",
-      "age_hours": 4.220525175833334,
+      "age_hours": 5.171466926111111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Pour one out for your Kindle and Windows 10: Can Colorado escape the \u201celectronics graveyard\u201d?",
       "link": "https://coloradosun.com/2026/07/15/colorado-consumer-electronics-right-to-reuse-right-to-fix/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-15T10:08:00+00:00",
-      "age_hours": 6.429218743888889,
+      "age_hours": 7.3800423775,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Here\u2019s what\u2019s next for United\u2019s big airport campus",
       "link": "https://denverite.com/2026/07/15/denver-airport-united-training-center-rezoning/",
       "source": "Denverite",
       "pub_date": "2026-07-15T10:00:00+00:00",
-      "age_hours": 6.562606915,
+      "age_hours": 7.513455281944444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "As Colorado River and tributaries shrink, a public power system frays",
       "link": "https://www.westword.com/news/colorado-river-shrinks-public-power-system-frays-40911606/",
       "source": "Westword",
       "pub_date": "2026-07-15T07:24:00-06:00",
-      "age_hours": 3.163057275555556,
+      "age_hours": 4.114045617222223,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Army recruit's home destroyed in Denver fire",
       "link": "https://kdvr.com/news/local/army-recruits-home-destroyed-in-denver-fire/",
       "source": "Fox31",
       "pub_date": "2026-07-15T05:11:51+00:00",
-      "age_hours": 11.365445139166667,
+      "age_hours": 12.316439366666668,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "City of Denver works to cool urban heat pockets",
       "link": "https://www.9news.com/article/news/local/denver-cooling-urban-heat-pockets/73-8c9cc54d-bca2-4ba3-82f1-d3e13f53b282",
       "source": "9News",
       "pub_date": "2026-07-15T04:50:12+00:00",
-      "age_hours": 11.726035545277776,
+      "age_hours": 12.676994914166666,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "State tax deadlines extended for residents, businesses impacted by wildfires",
       "link": "https://www.9news.com/article/news/local/wildfire/state-tax-deadlines-extended-wildfires/73-f4733b59-91d8-4ae9-88c4-10fb1401f329",
       "source": "9News",
       "pub_date": "2026-07-15T04:41:55+00:00",
-      "age_hours": 11.864091144722222,
+      "age_hours": 12.815050514722223,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver Police release body camera video showing officer shooting man carrying knife",
       "link": "https://www.9news.com/article/news/crime/denver-police-body-camera-video-officer-shooting-man-knife/73-052ee8f1-9b67-4576-9d4f-0932eaef2570",
       "source": "9News",
       "pub_date": "2026-07-15T02:39:52+00:00",
-      "age_hours": 13.898257864722222,
+      "age_hours": 14.849217235833335,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver moves forward with bridge plan to connect LoDo, Ball Arena",
       "link": "https://www.9news.com/article/news/local/kroenkes-bridge-over-speer-backbone-redevelopment-plans-nears-final-approval/73-888f5d9a-b8cf-45fa-8221-ae133cee29d5",
       "source": "9News",
       "pub_date": "2026-07-15T01:27:46+00:00",
-      "age_hours": 15.099924545277778,
+      "age_hours": 16.050883916388887,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "What is the probability of getting called for jury duty as a couple?",
-      "link": "https://www.9news.com/article/news/local/probability-jury-duty-couple/73-8ae5faea-d15f-407f-9daa-f342142d258b",
-      "source": "9News",
-      "pub_date": "2026-07-15T01:18:32+00:00",
-      "age_hours": 15.253813442777778,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Context on crime is key; Next with Kyle Clark full show (7/14/26)",
-      "link": "https://www.9news.com/video/next-with-kyle-clark/context-on-crime-is-key-next-with-kyle-clark-full-show-71426/73-e4109233-888b-44d8-a42a-a8a3dad76d8c",
-      "source": "9News",
-      "pub_date": "2026-07-15T01:01:55+00:00",
-      "age_hours": 15.530757924722222,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado's firefighting strategies have evolved significantly over the decades \u2014 here's a look at the history",
       "link": "https://www.denver7.com/news/wildfire/colorados-firefighting-tactics-have-evolved-significantly-over-the-decades-heres-a-look-at-the-history",
       "source": "Denver7",
       "pub_date": "2026-07-14T23:51:12+00:00",
-      "age_hours": 16.709500880277776,
+      "age_hours": 17.66046039611111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver Police chief says officer who shot a suspect responded appropriately",
       "link": "https://denverite.com/2026/07/14/denver-police-shooting-wilson-guerra-bravo/",
       "source": "Denverite",
       "pub_date": "2026-07-14T23:36:13+00:00",
-      "age_hours": 16.958995852222223,
+      "age_hours": 17.909844219166665,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado kids\u2019 health, education challenges persist, report shows",
       "link": "https://www.coloradopolitics.com/2026/07/14/colorado-kids-health-education-challenges-persist-report-shows/",
       "source": "CO Politics",
       "pub_date": "2026-07-14T23:26:21+00:00",
-      "age_hours": 17.12406012222222,
+      "age_hours": 18.075027437777777,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
+    },
+    {
+      "title": "Denver will no longer require childcare facilities to be licensed by the city",
+      "link": "https://denverite.com/2026/07/14/denver-childcare-city-licenses-not-required/",
+      "source": "Denverite",
+      "pub_date": "2026-07-14T23:10:40+00:00",
+      "age_hours": 18.335677590833335,
+      "breaking": false,
+      "time_ago": "18 hrs ago"
     }
   ]
 }
