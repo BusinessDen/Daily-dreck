@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-07-15",
-  "fetched_at": "2026-07-15 01:36:47",
+  "fetched_at": "2026-07-15 03:07:05",
   "article_count": 20,
-  "breaking_count": 18,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Denver Police release body camera video showing officer shooting man carrying knife",
+      "link": "https://www.9news.com/article/news/crime/denver-police-body-camera-video-officer-shooting-man-knife/73-052ee8f1-9b67-4576-9d4f-0932eaef2570",
+      "source": "9News",
+      "pub_date": "2026-07-15T02:39:52+00:00",
+      "age_hours": 0.4485808244444444,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
     {
       "title": "Kroenke's bridge over Speer, the backbone of redevelopment plans, nears final approval",
       "link": "https://www.9news.com/article/news/local/kroenkes-bridge-over-speer-backbone-redevelopment-plans-nears-final-approval/73-888f5d9a-b8cf-45fa-8221-ae133cee29d5",
       "source": "9News",
       "pub_date": "2026-07-15T01:27:46+00:00",
-      "age_hours": 0.14671275666666667,
+      "age_hours": 1.6502475208333331,
       "breaking": true,
-      "time_ago": "8 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "What is the probability of getting called for jury duty as a couple?",
       "link": "https://www.9news.com/article/news/local/probability-jury-duty-couple/73-8ae5faea-d15f-407f-9daa-f342142d258b",
       "source": "9News",
       "pub_date": "2026-07-15T01:18:32+00:00",
-      "age_hours": 0.30060166555555556,
+      "age_hours": 1.8041364216666664,
       "breaking": true,
-      "time_ago": "18 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Context on crime is key; Next with Kyle Clark full show (7/14/26)",
       "link": "https://www.9news.com/video/next-with-kyle-clark/context-on-crime-is-key-next-with-kyle-clark-full-show-71426/73-e4109233-888b-44d8-a42a-a8a3dad76d8c",
       "source": "9News",
       "pub_date": "2026-07-15T01:01:55+00:00",
-      "age_hours": 0.5775461677777778,
+      "age_hours": 2.081080921388889,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado's firefighting strategies have evolved significantly over the decades \u2014 here's a look at the history",
       "link": "https://www.denver7.com/news/wildfire/colorados-firefighting-tactics-have-evolved-significantly-over-the-decades-heres-a-look-at-the-history",
       "source": "Denver7",
       "pub_date": "2026-07-14T23:51:12+00:00",
-      "age_hours": 1.7562761344444446,
+      "age_hours": 3.2597893905555555,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Police chief says officer who shot a suspect responded appropriately",
       "link": "https://denverite.com/2026/07/14/denver-police-shooting-wilson-guerra-bravo/",
       "source": "Denverite",
       "pub_date": "2026-07-14T23:36:13+00:00",
-      "age_hours": 2.0058080647222223,
+      "age_hours": 3.509339218611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "McDonald's adds new sauce and items to its menu for limited time",
       "link": "https://www.9news.com/article/news/nation-world/mcdonalds-new-sauce-menu-items-caesar/507-7ef6b1fc-f234-4845-aaaf-172b38ed5718",
       "source": "9News",
       "pub_date": "2026-07-14T23:33:13+00:00",
-      "age_hours": 2.055879582222222,
+      "age_hours": 3.5594143458333334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado kids\u2019 health, education challenges persist, report shows",
       "link": "https://www.coloradopolitics.com/2026/07/14/colorado-kids-health-education-challenges-persist-report-shows/",
       "source": "CO Politics",
       "pub_date": "2026-07-14T23:26:21+00:00",
-      "age_hours": 2.170759846388889,
+      "age_hours": 3.675047822777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver will no longer require childcare facilities to be licensed by the city",
       "link": "https://denverite.com/2026/07/14/denver-childcare-city-licenses-not-required/",
       "source": "Denverite",
       "pub_date": "2026-07-14T23:10:40+00:00",
-      "age_hours": 2.43164144,
+      "age_hours": 3.935172611111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Health Department says officials not forthcoming on tuberculosis case at Aurora GEO ICE jail",
       "link": "https://sentinelcolorado.com/metro/health-department-says-officials-not-forthcoming-on-tuberculosis-case-at-aurora-geo-ice-jail/",
       "source": "Sentinel",
       "pub_date": "2026-07-14T23:04:05+00:00",
-      "age_hours": 2.5418868808333333,
+      "age_hours": 4.046196026944444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Missing cat rescued after CDOT briefly shuts down Eisenhower Tunnel",
       "link": "https://www.9news.com/article/life/animals/cat-rescued-cdot-shuts-down-eisenhower-tunnel/73-b71c2fdc-d604-431d-8256-5c4fbf8f3076",
       "source": "9News",
       "pub_date": "2026-07-14T22:44:37+00:00",
-      "age_hours": 2.8658796238888886,
+      "age_hours": 4.369414406388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Warnings, fines coming after Denver Water receives 3K watering violation complaints",
       "link": "https://kdvr.com/news/local/warnings-fines-coming-after-denver-water-receives-3k-watering-violation-complaints/",
       "source": "Fox31",
       "pub_date": "2026-07-14T22:37:02+00:00",
-      "age_hours": 2.9924181747222223,
+      "age_hours": 4.496015649722222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Broomfield temporarily bans new data centers",
       "link": "https://bizwest.com/2026/07/14/broomfield-temporarily-bans-new-data-centers/",
       "source": "BizWest",
       "pub_date": "2026-07-14T22:19:14+00:00",
-      "age_hours": 3.2884154502777774,
+      "age_hours": 4.791926916944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Report: Trimble looking to sell transportation division",
       "link": "https://bizwest.com/2026/07/14/report-trimble-looking-to-sell-transportation-division/",
       "source": "BizWest",
       "pub_date": "2026-07-14T22:16:42+00:00",
-      "age_hours": 3.3306382563888888,
+      "age_hours": 4.834149726388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Cost of being a Coloradan is weighing on local businesses\u2019 economic outlook",
       "link": "https://www.cpr.org/2026/07/14/cost-colorado-weighing-local-business-economic-outlook/",
       "source": "CPR",
       "pub_date": "2026-07-14T22:13:45+00:00",
-      "age_hours": 3.380283188611111,
+      "age_hours": 4.883803292222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Tax relief announced for those impacted by Colorado wildfires",
       "link": "https://kdvr.com/news/local/tax-relief-announced-for-those-impacted-by-colorado-wildfires/",
       "source": "Fox31",
       "pub_date": "2026-07-14T20:46:11+00:00",
-      "age_hours": 4.839918250833334,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.34351576,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Sierra Space wins $800M contract to support Trump\u2019s \u2018Golden Dome\u2019",
       "link": "https://bizwest.com/2026/07/14/sierra-space-wins-800m-contract-to-support-trumps-golden-dome/",
       "source": "BizWest",
       "pub_date": "2026-07-14T20:35:31+00:00",
-      "age_hours": 5.017027159444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.5205386236111105,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Erie to mull sending sales and use tax hike, lodging tax to ballot",
       "link": "https://bizwest.com/2026/07/14/erie-to-mull-sending-sales-and-use-tax-hike-lodging-tax-to-ballot/",
       "source": "BizWest",
       "pub_date": "2026-07-14T20:31:27+00:00",
-      "age_hours": 5.084804944722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.588316408055555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Nation\u2019s First Nature Library Opening in Thornton",
       "link": "https://milehighcre.com/nations-first-nature-library-opening-in-thornton/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-14T19:51:11+00:00",
-      "age_hours": 5.756245840555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.259733440833333,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Sully Sullenberger, pilot from 'Miracle on the Hudson,' diagnosed with Alzheimer's disease",
       "link": "https://www.9news.com/article/news/nation-world/sully-sullenberger-alzheimers-disease-miracle-on-the-hudson-pilot/507-2cb49358-4774-4b12-b2cb-a629b832a330",
       "source": "9News",
       "pub_date": "2026-07-14T19:00:35+00:00",
-      "age_hours": 6.5997686288888895,
+      "age_hours": 8.103303404722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Artemis II crew to speak at Red Rocks Amphitheater in August",
-      "link": "https://www.denver7.com/news/front-range/morrison/artemis-ii-crew-to-speak-at-red-rocks-amphitheater-in-august",
-      "source": "Denver7",
-      "pub_date": "2026-07-14T18:21:24+00:00",
-      "age_hours": 7.252942866111111,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
