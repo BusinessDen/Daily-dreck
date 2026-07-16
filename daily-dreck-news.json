@@ -1,78 +1,105 @@
 {
   "fetched_date": "2026-07-16",
-  "fetched_at": "2026-07-16 18:28:49",
+  "fetched_at": "2026-07-16 19:29:34",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "Mile High Transactions Report Week Ending 07.16.26",
+      "link": "https://milehighcre.com/mile-high-transactions-report-week-ending-07-16-26/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-07-16T19:29:04+00:00",
+      "age_hours": 0.0032976186111111114,
+      "breaking": true,
+      "time_ago": "0 min ago"
+    },
+    {
+      "title": "Colorado offers quantum firm millions in incentives for R&D facility",
+      "link": "https://bizwest.com/2026/07/16/colorado-offers-quantum-firm-millions-in-incentives-for-rd-facility/",
+      "source": "BizWest",
+      "pub_date": "2026-07-16T19:00:30+00:00",
+      "age_hours": 0.4790388913888889,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "San Isabel Electric sued as alleged cause of Aspen Acres Fire",
+      "link": "https://kdvr.com/news/san-isabel-electric-sued-as-alleged-cause-of-aspen-acres-fire/",
+      "source": "Fox31",
+      "pub_date": "2026-07-16T18:51:53+00:00",
+      "age_hours": 0.6235527966666666,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Nearly 736,000 Pillsbury bread rolls recalled over glass concerns",
+      "link": "https://www.9news.com/article/news/nation-world/pillsbury-bread-roll-recalled/507-296ff845-aef1-41ac-aebd-06eaf14cb990",
+      "source": "9News",
+      "pub_date": "2026-07-16T18:41:58+00:00",
+      "age_hours": 0.7886072116666667,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
     {
       "title": "Realberry Announces Avenue South in Loveland",
       "link": "https://milehighcre.com/realberry-announces-avenue-south-in-loveland/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-16T17:35:45+00:00",
-      "age_hours": 0.87975636,
+      "age_hours": 1.8919087452777779,
       "breaking": true,
-      "time_ago": "52 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Signatures submitted to cap Colorado\u2019s income tax rate",
       "link": "https://www.coloradopolitics.com/2026/07/16/signatures-submitted-to-cap-colorados-income-tax-rate/",
       "source": "CO Politics",
       "pub_date": "2026-07-16T17:22:25+00:00",
-      "age_hours": 1.1030437766666668,
+      "age_hours": 2.115052270277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Berthoud-based aerospace contractor Ursa Major to expand in its own backyard",
       "link": "https://bizwest.com/2026/07/16/berthoud-based-aerospace-contractor-ursa-major-to-expand-in-its-own-backyard/",
       "source": "BizWest",
       "pub_date": "2026-07-16T16:55:10+00:00",
-      "age_hours": 1.5558457825,
+      "age_hours": 2.567927796666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver Zoo Conservation Alliance mourns death of Cape buffalo calf Kai",
       "link": "https://www.9news.com/article/life/animals/denver-zoo-buffalo-calf-death/73-c1c104c5-245d-47ae-bb9c-6496f2096ae1",
       "source": "9News",
       "pub_date": "2026-07-16T16:41:59+00:00",
-      "age_hours": 1.7761767188888888,
+      "age_hours": 2.7883295177777776,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Police find drugs in stolen truck after suspect tries to flee",
       "link": "https://kdvr.com/news/local/police-find-drugs-in-stolen-truck-after-suspect-tries-to-flee/",
       "source": "Fox31",
       "pub_date": "2026-07-16T16:39:49+00:00",
-      "age_hours": 1.8125779083333333,
+      "age_hours": 2.8246640116666666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver Advances Wynkoop Crossing Bridge for Ball Arena Redevelopment",
       "link": "https://milehighcre.com/denver-advances-wynkoop-crossing-bridge-for-ball-arena-redevelopment/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-16T15:19:33+00:00",
-      "age_hours": 3.1497563750000004,
+      "age_hours": 4.161908754166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "DHA and Brikwell Purchase Land from Denver Health for Affordable Housing",
       "link": "https://milehighcre.com/dha-and-brikwell-purchase-land-from-denver-health-for-affordable-housing/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-16T14:52:02+00:00",
-      "age_hours": 3.6083674894444444,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Face-to-face with ancient Rome: Exhibition in Hungary brings forgotten faces to life",
-      "link": "https://sentinelcolorado.com/uncategorized/face-to-face-with-ancient-rome-exhibition-in-hungary-brings-forgotten-faces-to-life/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-16T14:07:03+00:00",
-      "age_hours": 4.359186313611111,
+      "age_hours": 4.6205198702777786,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -81,108 +108,81 @@
       "link": "https://www.9news.com/article/money/business/link-on-demand-rideshare-service/73-f530414e-b425-4e06-a6b3-106e96965ec3",
       "source": "9News",
       "pub_date": "2026-07-16T13:54:07+00:00",
-      "age_hours": 4.573954563888889,
+      "age_hours": 5.586107404444444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver finally ready to expand apartment recycling, cut construction waste 4 years after public mandate",
       "link": "https://coloradosun.com/2026/07/16/denver-apartment-recycling-expansion/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-16T10:08:00+00:00",
-      "age_hours": 8.342348459722222,
+      "age_hours": 9.354453156944444,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Less housing supply hasn\u2019t created more demand in metro Denver market",
       "link": "https://coloradosun.com/2026/07/16/housing-demand-denver-delistings-home-prices/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-16T10:00:00+00:00",
-      "age_hours": 8.475681826111112,
+      "age_hours": 9.487786532500001,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "New heat pump rebate aims to curb emissions in Colorado\u2019s Front Range",
       "link": "https://coloradosun.com/2026/07/16/colorado-heat-pump-rebate/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-16T09:45:00+00:00",
-      "age_hours": 8.7256818425,
+      "age_hours": 9.737786562222222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Marijuana regulators issue recall for Colorado\u2019s Best Dabs",
       "link": "https://www.westword.com/news/colroado-cannabis-dab-recall-pesticides-40911702/",
       "source": "Westword",
       "pub_date": "2026-07-16T08:29:10-06:00",
-      "age_hours": 3.9903369724999997,
+      "age_hours": 5.002383337222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "State gives Colorado Public Radio $1.5 million tax credit for its new headquarters in Denver",
       "link": "https://www.cpr.org/2026/07/15/colorado-public-radio-grant-headquarters/",
       "source": "CPR",
       "pub_date": "2026-07-16T02:03:01+00:00",
-      "age_hours": 16.425577245833335,
+      "age_hours": 17.43766455833333,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver Zoo mourns tragic passing of 2-month old buffalo",
       "link": "https://kdvr.com/news/local/denver-zoo-mourns-tragic-passing-of-2-month-old-buffalo/",
       "source": "Fox31",
       "pub_date": "2026-07-16T00:07:42+00:00",
-      "age_hours": 18.347855760833333,
+      "age_hours": 19.359941901388886,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Connexion launches student discount for 1-gig internet",
       "link": "https://bizwest.com/2026/07/15/connexion-launches-student-discount-for-1-gig-internet/",
       "source": "BizWest",
       "pub_date": "2026-07-15T23:55:12+00:00",
-      "age_hours": 18.55529053361111,
+      "age_hours": 19.567372819722223,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Hensley to lead rec services in Berthoud",
       "link": "https://bizwest.com/2026/07/15/hensley-to-lead-rec-services-in-berthoud/",
       "source": "BizWest",
       "pub_date": "2026-07-15T23:50:31+00:00",
-      "age_hours": 18.63334610805556,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Shed fire causes massive plume of smoke in Denver's Uptown neighborhood",
-      "link": "https://kdvr.com/news/local/shed-fire-causes-massive-plume-of-smoke-in-denvers-uptown-neighborhood/",
-      "source": "Fox31",
-      "pub_date": "2026-07-15T23:03:11+00:00",
-      "age_hours": 19.42313351888889,
+      "age_hours": 19.645428413055555,
       "breaking": false,
       "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "New rebate program slashes heat pump costs for Denver-area residents",
-      "link": "https://www.cpr.org/2026/07/15/new-heat-pump-rebate-program-denver/",
-      "source": "CPR",
-      "pub_date": "2026-07-15T23:02:29+00:00",
-      "age_hours": 19.434466143055555,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Large smoke cloud in central Denver was caused by a fire at a 17th Avenue restaurant",
-      "link": "https://denverite.com/2026/07/15/denver-smoke-sherpa-basecamp-17th-avenue-fire/",
-      "source": "Denverite",
-      "pub_date": "2026-07-15T22:25:57+00:00",
-      "age_hours": 20.043308930277778,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
     }
   ]
 }
