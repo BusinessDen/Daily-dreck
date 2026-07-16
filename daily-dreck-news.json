@@ -1,60 +1,87 @@
 {
   "fetched_date": "2026-07-16",
-  "fetched_at": "2026-07-16 19:29:34",
+  "fetched_at": "2026-07-16 20:21:24",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 15,
   "articles": [
     {
-      "title": "Mile High Transactions Report Week Ending 07.16.26",
-      "link": "https://milehighcre.com/mile-high-transactions-report-week-ending-07-16-26/",
+      "title": "Vail Resorts pivots strategic focus from Epic Pass to \u2018white-glove\u2019 amenities",
+      "link": "https://bizwest.com/2026/07/16/vail-resorts-pivots-strategic-focus-from-epic-pass-to-white-glove-amenities/",
+      "source": "BizWest",
+      "pub_date": "2026-07-16T20:08:48+00:00",
+      "age_hours": 0.20514802166666665,
+      "breaking": true,
+      "time_ago": "12 min ago"
+    },
+    {
+      "title": "Trump cites national security to stop offshore wind development. Here\u2019s what to know",
+      "link": "https://sentinelcolorado.com/nation-world/nation/trump-cites-national-security-to-stop-offshore-wind-development-heres-what-to-know/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-16T20:06:30+00:00",
+      "age_hours": 0.24473150083333334,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Man, 55, killed in single-car crash into tree in central Aurora Wednesday",
+      "link": "https://sentinelcolorado.com/metro/man-55-killed-in-single-car-crash-into-tree-in-central-aurora-wednesday/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-16T19:54:34+00:00",
+      "age_hours": 0.44362041555555554,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
+    {
+      "title": "Mile High Transactions Report Week Ending 07.17.26",
+      "link": "https://milehighcre.com/mile-high-transactions-report-week-ending-07-17-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-16T19:29:04+00:00",
-      "age_hours": 0.0032976186111111114,
+      "age_hours": 0.8677411991666667,
       "breaking": true,
-      "time_ago": "0 min ago"
+      "time_ago": "52 min ago"
     },
     {
       "title": "Colorado offers quantum firm millions in incentives for R&D facility",
       "link": "https://bizwest.com/2026/07/16/colorado-offers-quantum-firm-millions-in-incentives-for-rd-facility/",
       "source": "BizWest",
       "pub_date": "2026-07-16T19:00:30+00:00",
-      "age_hours": 0.4790388913888889,
+      "age_hours": 1.343481870277778,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "San Isabel Electric sued as alleged cause of Aspen Acres Fire",
       "link": "https://kdvr.com/news/san-isabel-electric-sued-as-alleged-cause-of-aspen-acres-fire/",
       "source": "Fox31",
       "pub_date": "2026-07-16T18:51:53+00:00",
-      "age_hours": 0.6235527966666666,
+      "age_hours": 1.4879794044444445,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Nearly 736,000 Pillsbury bread rolls recalled over glass concerns",
       "link": "https://www.9news.com/article/news/nation-world/pillsbury-bread-roll-recalled/507-296ff845-aef1-41ac-aebd-06eaf14cb990",
       "source": "9News",
       "pub_date": "2026-07-16T18:41:58+00:00",
-      "age_hours": 0.7886072116666667,
+      "age_hours": 1.6529736386111111,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Realberry Announces Avenue South in Loveland",
       "link": "https://milehighcre.com/realberry-announces-avenue-south-in-loveland/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-16T17:35:45+00:00",
-      "age_hours": 1.8919087452777779,
+      "age_hours": 2.756352327777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Signatures submitted to cap Colorado\u2019s income tax rate",
       "link": "https://www.coloradopolitics.com/2026/07/16/signatures-submitted-to-cap-colorados-income-tax-rate/",
       "source": "CO Politics",
       "pub_date": "2026-07-16T17:22:25+00:00",
-      "age_hours": 2.115052270277778,
+      "age_hours": 2.979414545555555,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -63,88 +90,88 @@
       "link": "https://bizwest.com/2026/07/16/berthoud-based-aerospace-contractor-ursa-major-to-expand-in-its-own-backyard/",
       "source": "BizWest",
       "pub_date": "2026-07-16T16:55:10+00:00",
-      "age_hours": 2.567927796666667,
+      "age_hours": 3.432370767777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Zoo Conservation Alliance mourns death of Cape buffalo calf Kai",
       "link": "https://www.9news.com/article/life/animals/denver-zoo-buffalo-calf-death/73-c1c104c5-245d-47ae-bb9c-6496f2096ae1",
       "source": "9News",
       "pub_date": "2026-07-16T16:41:59+00:00",
-      "age_hours": 2.7883295177777776,
+      "age_hours": 3.6526959311111113,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Police find drugs in stolen truck after suspect tries to flee",
       "link": "https://kdvr.com/news/local/police-find-drugs-in-stolen-truck-after-suspect-tries-to-flee/",
       "source": "Fox31",
       "pub_date": "2026-07-16T16:39:49+00:00",
-      "age_hours": 2.8246640116666666,
+      "age_hours": 3.689090455277778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Advances Wynkoop Crossing Bridge for Ball Arena Redevelopment",
       "link": "https://milehighcre.com/denver-advances-wynkoop-crossing-bridge-for-ball-arena-redevelopment/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-16T15:19:33+00:00",
-      "age_hours": 4.161908754166667,
+      "age_hours": 5.026352336666666,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "DHA and Brikwell Purchase Land from Denver Health for Affordable Housing",
       "link": "https://milehighcre.com/dha-and-brikwell-purchase-land-from-denver-health-for-affordable-housing/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-16T14:52:02+00:00",
-      "age_hours": 4.6205198702777786,
+      "age_hours": 5.4849634527777775,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Douglas County expands 'Link On Demand' rideshare service to Castle Rock",
       "link": "https://www.9news.com/article/money/business/link-on-demand-rideshare-service/73-f530414e-b425-4e06-a6b3-106e96965ec3",
       "source": "9News",
       "pub_date": "2026-07-16T13:54:07+00:00",
-      "age_hours": 5.586107404444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.450473803888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver finally ready to expand apartment recycling, cut construction waste 4 years after public mandate",
       "link": "https://coloradosun.com/2026/07/16/denver-apartment-recycling-expansion/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-16T10:08:00+00:00",
-      "age_hours": 9.354453156944444,
+      "age_hours": 10.218925041944443,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Less housing supply hasn\u2019t created more demand in metro Denver market",
       "link": "https://coloradosun.com/2026/07/16/housing-demand-denver-delistings-home-prices/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-16T10:00:00+00:00",
-      "age_hours": 9.487786532500001,
+      "age_hours": 10.352258416944444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "New heat pump rebate aims to curb emissions in Colorado\u2019s Front Range",
       "link": "https://coloradosun.com/2026/07/16/colorado-heat-pump-rebate/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-16T09:45:00+00:00",
-      "age_hours": 9.737786562222222,
+      "age_hours": 10.602258445,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Marijuana regulators issue recall for Colorado\u2019s Best Dabs",
       "link": "https://www.westword.com/news/colroado-cannabis-dab-recall-pesticides-40911702/",
       "source": "Westword",
       "pub_date": "2026-07-16T08:29:10-06:00",
-      "age_hours": 5.002383337222222,
+      "age_hours": 5.866737045833333,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -153,36 +180,9 @@
       "link": "https://www.cpr.org/2026/07/15/colorado-public-radio-grant-headquarters/",
       "source": "CPR",
       "pub_date": "2026-07-16T02:03:01+00:00",
-      "age_hours": 17.43766455833333,
+      "age_hours": 18.302073859722224,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Denver Zoo mourns tragic passing of 2-month old buffalo",
-      "link": "https://kdvr.com/news/local/denver-zoo-mourns-tragic-passing-of-2-month-old-buffalo/",
-      "source": "Fox31",
-      "pub_date": "2026-07-16T00:07:42+00:00",
-      "age_hours": 19.359941901388886,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Connexion launches student discount for 1-gig internet",
-      "link": "https://bizwest.com/2026/07/15/connexion-launches-student-discount-for-1-gig-internet/",
-      "source": "BizWest",
-      "pub_date": "2026-07-15T23:55:12+00:00",
-      "age_hours": 19.567372819722223,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Hensley to lead rec services in Berthoud",
-      "link": "https://bizwest.com/2026/07/15/hensley-to-lead-rec-services-in-berthoud/",
-      "source": "BizWest",
-      "pub_date": "2026-07-15T23:50:31+00:00",
-      "age_hours": 19.645428413055555,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
