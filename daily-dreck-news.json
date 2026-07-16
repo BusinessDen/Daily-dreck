@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-07-16",
-  "fetched_at": "2026-07-16 03:07:13",
+  "fetched_at": "2026-07-16 05:05:50",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 4,
   "articles": [
     {
       "title": "State gives Colorado Public Radio $1.5 million tax credit for its new headquarters in Denver",
       "link": "https://www.cpr.org/2026/07/15/colorado-public-radio-grant-headquarters/",
       "source": "CPR",
       "pub_date": "2026-07-16T02:03:01+00:00",
-      "age_hours": 1.0658137805555556,
+      "age_hours": 3.042758951388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Zoo mourns tragic passing of 2-month old buffalo",
       "link": "https://kdvr.com/news/local/denver-zoo-mourns-tragic-passing-of-2-month-old-buffalo/",
       "source": "Fox31",
       "pub_date": "2026-07-16T00:07:42+00:00",
-      "age_hours": 2.988231639722222,
+      "age_hours": 4.9649784100000005,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Connexion launches student discount for 1-gig internet",
       "link": "https://bizwest.com/2026/07/15/connexion-launches-student-discount-for-1-gig-internet/",
       "source": "BizWest",
       "pub_date": "2026-07-15T23:55:12+00:00",
-      "age_hours": 3.1955187094444444,
+      "age_hours": 5.172413156944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Hensley to lead rec services in Berthoud",
       "link": "https://bizwest.com/2026/07/15/hensley-to-lead-rec-services-in-berthoud/",
       "source": "BizWest",
       "pub_date": "2026-07-15T23:50:31+00:00",
-      "age_hours": 3.2735748463888887,
+      "age_hours": 5.250469295833333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Shed fire causes massive plume of smoke in Denver's Uptown neighborhood",
       "link": "https://kdvr.com/news/local/shed-fire-causes-massive-plume-of-smoke-in-denvers-uptown-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-07-15T23:03:11+00:00",
-      "age_hours": 4.0635093675,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.0402561475,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "New rebate program slashes heat pump costs for Denver-area residents",
       "link": "https://www.cpr.org/2026/07/15/new-heat-pump-rebate-program-denver/",
       "source": "CPR",
       "pub_date": "2026-07-15T23:02:29+00:00",
-      "age_hours": 4.074702679444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.0516478511111105,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Large smoke cloud in central Denver was caused by a fire at a 17th Avenue restaurant",
       "link": "https://denverite.com/2026/07/15/denver-smoke-sherpa-basecamp-17th-avenue-fire/",
       "source": "Denverite",
       "pub_date": "2026-07-15T22:25:57+00:00",
-      "age_hours": 4.683521775277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.660478467222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Aurora schedules low-price special e-waste recycling event for late July",
       "link": "https://sentinelcolorado.com/metro/aurora-schedules-low-price-special-e-waste-recycling-event-for-late-july/",
       "source": "Sentinel",
       "pub_date": "2026-07-15T20:22:49+00:00",
-      "age_hours": 6.736697308055556,
+      "age_hours": 8.71335988638889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Aurora to host 11th annual Day of Resilience honoring 2012 Aurora theater shooting victims",
       "link": "https://sentinelcolorado.com/metro/aurora-to-host-11th-annual-day-of-resilience-honoring-2012-aurora-theater-shooting-victims/",
       "source": "Sentinel",
       "pub_date": "2026-07-15T20:16:50+00:00",
-      "age_hours": 6.836419825277778,
+      "age_hours": 8.81308238111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Hawaiian buyer takes over OtterBox distribution center from Alaskan owner",
       "link": "https://bizwest.com/2026/07/15/hawaiian-buyer-takes-over-otterbox-distribution-center-from-alaskan-owner/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:12:24+00:00",
-      "age_hours": 6.908852658333333,
+      "age_hours": 8.885747109166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Xcel plans power shutoff overnight in east Loveland",
       "link": "https://bizwest.com/2026/07/15/xcel-plans-power-shutoff-overnight-in-east-loveland/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:09:08+00:00",
-      "age_hours": 6.96329711,
+      "age_hours": 8.940191560833334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Events to highlight BizWest\u2019s Startups to Watch, Mercury 100 winners",
       "link": "https://bizwest.com/2026/07/15/events-to-highlight-bizwests-startups-to-watch-mercury-100-winners/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:07:20+00:00",
-      "age_hours": 6.993297140277778,
+      "age_hours": 8.970191591666666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Downtown commission recommends Boulder parking-lot sale, hotel project",
       "link": "https://bizwest.com/2026/07/15/downtown-commission-recommends-boulder-parking-lot-sale-hotel-project/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:05:08+00:00",
-      "age_hours": 7.029963848055556,
+      "age_hours": 9.006858293611112,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Erie advances sales and use tax hike, lodging-tax ballot issues",
       "link": "https://bizwest.com/2026/07/15/erie-advances-sales-and-use-tax-hike-lodging-tax-ballot-issues/",
       "source": "BizWest",
       "pub_date": "2026-07-15T20:02:08+00:00",
-      "age_hours": 7.079963855277779,
+      "age_hours": 9.0568583,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver Wants To Make It Easier To Open A Restaurant",
       "link": "https://www.bisnow.com/denver/news/retail/denver-rolls-out-restaurant-permitting-changes-135445",
       "source": "Bisnow",
       "pub_date": "2026-07-15T17:09:31-04:00",
-      "age_hours": 5.95706714,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.933997709722222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Shames Makovsky Celebrates 55 Years of Commercial Real Estate Impact",
       "link": "https://milehighcre.com/shames-makovsky-celebrates-55-years-of-commercial-real-estate-impact/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-15T16:41:09+00:00",
-      "age_hours": 10.43000005388889,
+      "age_hours": 12.406923783611111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Senators introduce bipartisan bill to save Social Security",
       "link": "https://www.coloradopolitics.com/2026/07/15/senators-introduce-bipartisan-bill-to-save-social-security/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:26:39+00:00",
-      "age_hours": 10.672717485277778,
+      "age_hours": 12.649447190833333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "House GOP releases budget framework for $95 billion reconciliation bill",
       "link": "https://www.coloradopolitics.com/2026/07/15/house-gop-releases-budget-framework-for-95-billion-reconciliation-bill/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:18:00+00:00",
-      "age_hours": 10.816884238888887,
+      "age_hours": 12.793613949722223,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "House Republicans unveil $95 billion plan for the Iran war, farm aid and elections",
       "link": "https://www.coloradopolitics.com/2026/07/15/house-republicans-unveil-95-billion-plan-for-the-iran-war-farm-aid-and-elections/",
       "source": "CO Politics",
       "pub_date": "2026-07-15T16:00:25+00:00",
-      "age_hours": 11.1099398075,
+      "age_hours": 13.086669518888888,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Listen: RTD could kill the free 16th Street shuttle and several rail lines under budget cut proposals",
       "link": "https://www.cpr.org/2026/07/15/rtd-16th-street-free-bus-budget-cuts/",
       "source": "CPR",
       "pub_date": "2026-07-15T15:32:34+00:00",
-      "age_hours": 11.573313819722223,
+      "age_hours": 13.550258992222224,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     }
   ]
 }
