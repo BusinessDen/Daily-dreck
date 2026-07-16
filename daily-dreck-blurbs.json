@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-07-15",
-  "lead_headline": "Restaurant tracker goes dark \u2014 zero new leads detected Tuesday despite 287-lead pipeline still active",
+  "generated_date": "2026-07-16",
+  "lead_headline": "Blossom by SYC preps Highland opening as July restaurant tracker heats up \u2014 5 new leads land overnight",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads today.</strong> Active pipeline holds at 287 (156 openings, 131 closures). Tracker quiet for second straight day.",
+      "blurb": "<strong>5 new leads today:</strong> Blossom by SYC (Chinese, LoHi), Funny Plus closure (Korean, Aurora), plus three expansions tracking. Active pipeline now 292 (159 openings, 133 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+3",
         "label2": "closed",
-        "value2": "0",
+        "value2": "\u22122",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "156",
+        "value1": "159",
         "label2": "closed",
-        "value2": "131",
+        "value2": "133",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "70",
+        "value1": "81",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,34 +43,34 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Single new application today:</strong> The Runway and Rye Lounge filing for hotel/restaurant license at DIA (8900 Pena Blvd). Plus 5 status changes \u2014 three neighborhood liquor stores (Patio, Federal Theatre, Viejo) flipped delinquent, while Target T3403 on Quebec and Bamboo Sushi on Madison both resolved to active. Week's total now 334 applications following Monday's 333-app deluge that broke the state's 45-day freeze. Pipeline activity remains elevated after six-week blackout \u2014 7-day window showing genuine licensing movement for first time since late May.",
+      "blurb": "<strong>88 new applications today</strong> \u2014 the deluge continues. Highlights: Hammer and Nails (men's grooming/beer-wine, Capitol Hill and DTC), Clairvoyance (tavern/cabaret, Santa Fe Arts), Celeste (tavern, South Broadway), Seedstock Brewery (brewpub, West Colfax), Barcelona Wine Bar (Belleview), Doubles Club (entertainment license, RiNo pickleball concept), SYC Omakase (Cherry Creek), The Henry (Fillmore). Plus Trader Joe's #307 filing for fermented malt at Louisiana, Chestnut Cellars liquor store on Chestnut Place. Status shifts: Tacos El Metate and #Vybe cleared delinquency to active, Honey Elixir Lounge flipped delinquent. Week explodes to <strong>424 applications</strong> vs. zero prior week \u2014 state licensing pipeline fully operational post-freeze. Today's haul spans every category from grooming shops to airport kiosks (six DIA vendors active). The 45-day blackout is officially over.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "1",
-        "class1": "",
+        "value1": "88",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "334",
+        "value1": "424",
         "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>2 citations yesterday</strong> \u2014 Tuesday matching Monday's anemic pace after the weekend lull. Week crawls to <strong>80 mentions</strong> across 17 sources, still tracking 7% above last week's 75 but momentum clearly stalling. Instagram retains the lead at 19 (unchanged from Monday), Denver Post at 17, Facebook 14. Notable pickups: gasthof-zur-schwane.de running 137-year-old church conversion story, Instagram post on serial eviction case gaining traction. The three-week uptrend (72 \u2192 75 \u2192 80) flattens as daily acquisition drops to 2-3 citations \u2014 well below the 10-11/day pace needed to sustain growth. Source diversity contracts to 17 outlets from Monday's 18. Five days remain to salvage July's weekly average.",
+      "blurb": "<strong>3 citations yesterday</strong> \u2014 Wednesday ticks slightly above Tuesday's 2-mention floor but remains well below pre-weekend averages. Week limps to <strong>69 mentions</strong> across 17 sources, now tracking 13% below last week's 79 as the three-week uptrend definitively snaps. Instagram still leads at 16, Denver Post 13, Facebook 13, Reddit 8, Hoodline 4. Notable Wednesday pickups: Denverite covering tax-funded immersive theater eviction downtown, San Antonio Express-News running Canyon Lake resort condo conversion (Missouri developer angle), Reddit post on Denver's mixed-use rezoning push. The slowdown accelerates: daily acquisition now averaging 2.3 mentions vs. 11.3/day needed to match prior week's pace. Source diversity flat at 17 outlets. Five days remain in the tracking window \u2014 barring a Friday surge, this week marks the first sequential decline after three weeks of growth.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "2",
+        "value1": "3",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "80",
-        "class1": "up",
+        "value1": "69",
+        "class1": "down",
         "label2": "sources",
         "value2": "17",
         "class2": "",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) \u2014 twelfth consecutive day underwater. MTD sinks deeper to <strong>\u22125</strong> (\u22120.4/day), while 90-day cumulative holds at <strong>+104</strong>. The July bloodletting continues: twelve straight negative days now erase any monthly momentum, with acquisition completely frozen at zero for two consecutive sessions. Since July 1, just 17 new subscribers against 35 cancellations \u2014 a catastrophic \u221218 net that accelerates into the worst fortnight on record. Past 7 days show \u221214 net (17 new, 31 canceled) vs. prior week's +9 \u2014 a 23-subscriber swing that confirms the churn crisis deepening. Cancellation rate now running 1.8:1 against new sign-ups. If the pattern persists through month-end, July will mark the first negative monthly net in tracking history. Zero recovery signal visible entering mid-month.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) \u2014 the first positive session in thirteen days breaks the churn spiral. MTD improves slightly to <strong>\u221215</strong> (\u22121.0/day), 90-day cumulative at <strong>+93</strong>. But the recovery is fragile: past 7 days still show \u221224 net (17 new, 41 canceled) vs. prior week's +1 \u2014 a devastating 25-subscriber swing that confirms July as the worst acquisition month on record. Since July 1, just 18 new subscribers against 41 cancellations for a \u221223 monthly net. Yesterday's single addition doesn't reverse the trend: cancellation rate still running 2.3:1 against sign-ups across the fortnight. The thirteen-day losing streak (July 3\u201315) erased 38 net subscribers before Wednesday's micro-bounce. YTD net holds at +211 (+1.1/day) only because Q1-Q2 momentum carried forward. If July's \u221223 pace persists through month-end, it will mark the first negative monthly close in tracking history.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-5",
-      "net_ytd": "221",
-      "net_mtd_per_day": "-0.4",
+      "net_mtd": "-15",
+      "net_ytd": "211",
+      "net_mtd_per_day": "-1.0",
       "net_ytd_per_day": "1.1",
-      "annual_mtd": "-3",
-      "annual_ytd": "189",
-      "monthly_mtd": "-2",
-      "monthly_ytd": "32"
+      "annual_mtd": "-12",
+      "annual_ytd": "168",
+      "monthly_mtd": "-3",
+      "monthly_ytd": "43"
     }
   }
 }
