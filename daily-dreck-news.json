@@ -1,96 +1,123 @@
 {
   "fetched_date": "2026-07-17",
-  "fetched_at": "2026-07-17 15:31:21",
+  "fetched_at": "2026-07-17 16:29:25",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Questions remain about purported Loveland data-center developer",
+      "link": "https://bizwest.com/2026/07/17/questions-remain-about-purported-loveland-data-center-developer/",
+      "source": "BizWest",
+      "pub_date": "2026-07-17T16:25:48+00:00",
+      "age_hours": 0.054562158611111106,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "Local agencies remind of the dangers of hot cars with kids and pets left inside",
+      "link": "https://kdvr.com/news/local/local-agencies-remind-of-the-dangers-of-hot-cars-with-kids-and-pets-left-inside/",
+      "source": "Fox31",
+      "pub_date": "2026-07-17T16:22:32+00:00",
+      "age_hours": 0.11078746777777777,
+      "breaking": true,
+      "time_ago": "6 min ago"
+    },
+    {
+      "title": "Taco Bell responds as CDC links shredded lettuce in 5 states to diarrhea-causing parasite outbreak",
+      "link": "https://www.9news.com/article/news/nation-world/taco-bell-statement-cyclospora-outbreak-shredded-lettuce/507-88a2aae4-50e5-4c6c-9565-e17e97ed109a",
+      "source": "9News",
+      "pub_date": "2026-07-17T15:56:58+00:00",
+      "age_hours": 0.5357866255555556,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
     {
       "title": "Woman shot, injured near GEO ICE immigration detention facility in northwest Aurora",
       "link": "https://sentinelcolorado.com/metro/woman-shot-and-injured-near-aurora-immigration-detention-facility/",
       "source": "Sentinel",
       "pub_date": "2026-07-17T14:40:11+00:00",
-      "age_hours": 0.8489570519444444,
+      "age_hours": 1.8169053355555556,
       "breaking": true,
-      "time_ago": "50 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Industrial Leasing Activity Gains Momentum as the Construction Pipeline Expands",
       "link": "https://milehighcre.com/industrial-leasing-activity-gains-momentum-as-the-construction-pipeline-expands/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-17T14:27:55+00:00",
-      "age_hours": 1.0523029641666668,
+      "age_hours": 2.019715793611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Semitrailer fire shuts down parts of I-25 south of Denver",
       "link": "https://kdvr.com/news/local/semitrailer-fire-shuts-down-parts-of-i-25-south-of-denver/",
       "source": "Fox31",
       "pub_date": "2026-07-17T13:46:30+00:00",
-      "age_hours": 1.7433612991666667,
+      "age_hours": 2.711342941111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "PERRY: Hail, no. We can\u2019t keep paying those car and house insurance rates around here",
       "link": "https://sentinelcolorado.com/opinion/perry-hail-no-we-cant-keep-paying-those-car-and-house-insurance-rates-around-here/",
       "source": "Sentinel",
       "pub_date": "2026-07-17T13:23:18+00:00",
-      "age_hours": 2.1303461455555555,
+      "age_hours": 3.098294425833333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Aurora food bank receives 40,000 pounds of food from LDS Church donation",
       "link": "https://sentinelcolorado.com/metro/aurora-food-bank-receives-40000-pounds-of-food-from-lds-church-donation/",
       "source": "Sentinel",
       "pub_date": "2026-07-17T13:03:51+00:00",
-      "age_hours": 2.4545128527777775,
+      "age_hours": 3.4224611322222223,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Stacks and stacks of wax packs, now obsolete, summon the joy of baseball-card childhoods",
       "link": "https://sentinelcolorado.com/uncategorized/stacks-and-stacks-of-wax-packs-now-obsolete-summon-the-joy-of-baseball-card-childhoods/",
       "source": "Sentinel",
       "pub_date": "2026-07-17T12:42:11+00:00",
-      "age_hours": 2.8156243808333334,
+      "age_hours": 3.7835726449999996,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "University of Denver launches tool tracking artificial intelligence laws across the country",
       "link": "https://www.denver7.com/money/science-and-tech/university-of-denver-launches-tool-tracking-artificial-intelligence-laws-across-the-country",
       "source": "Denver7",
       "pub_date": "2026-07-17T11:20:37+00:00",
-      "age_hours": 4.174726486388889,
+      "age_hours": 5.142712203611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Coloradans are worried about affordability and say elected leaders aren\u2019t doing enough to help, new poll shows",
       "link": "https://coloradosun.com/2026/07/17/colorado-affordability-elected-leaders-pulse-poll-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-17T10:00:00+00:00",
-      "age_hours": 5.5176922699999995,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.4850746091666664,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Ed Dwight\u2019s monumental sculptures bring Black history to life at History Colorado",
       "link": "https://www.cpr.org/2026/07/17/ed-dwight-casting-a-legacy-history-colorado-exhibit/",
       "source": "CPR",
       "pub_date": "2026-07-17T10:00:00+00:00",
-      "age_hours": 5.517954818888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.485126707222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "New solar farm pushes renewables on Colorado school trust land past 800MW mark",
       "link": "https://coloradosun.com/2026/07/17/colorado-land-board-solar-power-passes-goal/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-17T09:30:00+00:00",
-      "age_hours": 6.017693126666666,
+      "age_hours": 6.985075434444444,
       "breaking": false,
       "time_ago": "6 hrs ago"
     },
@@ -99,7 +126,7 @@
       "link": "https://www.9news.com/article/news/local/denver-community-group-rescue-orphaned-pedestrian-bridge/73-10bec6a0-fb1c-4a95-a173-24f91f53caa1",
       "source": "9News",
       "pub_date": "2026-07-17T01:29:19+00:00",
-      "age_hours": 14.0294989625,
+      "age_hours": 14.996620093611112,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -108,79 +135,52 @@
       "link": "https://bizwest.com/2026/07/16/chewy-to-open-fort-collins-veterinary-clinic-friday/",
       "source": "BizWest",
       "pub_date": "2026-07-17T00:10:27+00:00",
-      "age_hours": 15.343058644444445,
+      "age_hours": 16.310396060833334,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Feedback sought on Larimer event permit rules",
       "link": "https://bizwest.com/2026/07/16/feedback-sought-on-larimer-event-permit-rules/",
       "source": "BizWest",
       "pub_date": "2026-07-17T00:07:57+00:00",
-      "age_hours": 15.3847261975,
+      "age_hours": 16.35206276,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Investigation underway after man dies in Denver police custody",
       "link": "https://kdvr.com/news/local/investigation-underway-after-man-dies-in-denver-police-custody/",
       "source": "Fox31",
       "pub_date": "2026-07-16T22:40:37+00:00",
-      "age_hours": 16.84141691111111,
+      "age_hours": 17.809398628333334,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Report: Denver bar tops list of U.S. destinations visited by World Cup fans",
       "link": "https://kdvr.com/news/local/report-denver-bar-tops-list-of-u-s-destinations-visited-by-world-cup-fans/",
       "source": "Fox31",
       "pub_date": "2026-07-16T22:21:19+00:00",
-      "age_hours": 17.16308365777778,
+      "age_hours": 18.131065375277778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Denver man stopped for speeding, arrested following K-9 drug detection",
-      "link": "https://kdvr.com/news/local/denver-man-stopped-for-speeding-arrested-following-k-9-drug-detection/",
-      "source": "Fox31",
-      "pub_date": "2026-07-16T22:14:03+00:00",
-      "age_hours": 17.284194888333335,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Irish airline Aer Lingus ends direct flights from Denver",
       "link": "https://denverite.com/2026/07/16/denver-direct-flight-to-dublin-ends/",
       "source": "Denverite",
       "pub_date": "2026-07-16T22:04:25+00:00",
-      "age_hours": 17.444146089444445,
+      "age_hours": 18.41150451777778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "As Trump targets DEI programs, Polis says he worries about federal dollars used as \u2018political football\u2019",
       "link": "https://www.coloradopolitics.com/2026/07/16/as-trump-targets-dei-programs-polis-says-he-worries-about-federal-dollars-used-as-political-football/",
       "source": "CO Politics",
       "pub_date": "2026-07-16T21:24:06+00:00",
-      "age_hours": 18.116991318611113,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Utah firm pays $52.5M for Loveland mobile-home parks",
-      "link": "https://bizwest.com/2026/07/16/utah-firm-pays-52-5m-for-loveland-mobile-home-parks/",
-      "source": "BizWest",
-      "pub_date": "2026-07-16T20:47:09+00:00",
-      "age_hours": 18.73139292111111,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Vail Resorts pivots strategic focus from Epic Pass to \u2018white-glove\u2019 amenities",
-      "link": "https://bizwest.com/2026/07/16/vail-resorts-pivots-strategic-focus-from-epic-pass-to-white-glove-amenities/",
-      "source": "BizWest",
-      "pub_date": "2026-07-16T20:08:48+00:00",
-      "age_hours": 19.370559596944446,
+      "age_hours": 19.08494532027778,
       "breaking": false,
       "time_ago": "19 hrs ago"
     }
