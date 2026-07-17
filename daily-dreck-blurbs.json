@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-07-16",
-  "lead_headline": "Blossom by SYC preps Highland opening as July restaurant tracker heats up \u2014 5 new leads land overnight",
+  "generated_date": "2026-07-17",
+  "lead_headline": "Pizzeria Lui shutters after 10 years, Church and Union closes in LoDo \u2014 3 new closure leads land as July restaurant churn accelerates",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 new leads today:</strong> Blossom by SYC (Chinese, LoHi), Funny Plus closure (Korean, Aurora), plus three expansions tracking. Active pipeline now 292 (159 openings, 133 closures).",
+      "blurb": "<strong>3 new leads today:</strong> Pizzeria Lui closed (Neapolitan, 10 years), Church and Union Denver shuttered LoDo flagship, Dairy Queen Westminster. Active pipeline 296 (159 openings, 137 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "3",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "159",
         "label2": "closed",
-        "value2": "133",
+        "value2": "137",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "81",
+        "value1": "68",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,34 +43,34 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>88 new applications today</strong> \u2014 the deluge continues. Highlights: Hammer and Nails (men's grooming/beer-wine, Capitol Hill and DTC), Clairvoyance (tavern/cabaret, Santa Fe Arts), Celeste (tavern, South Broadway), Seedstock Brewery (brewpub, West Colfax), Barcelona Wine Bar (Belleview), Doubles Club (entertainment license, RiNo pickleball concept), SYC Omakase (Cherry Creek), The Henry (Fillmore). Plus Trader Joe's #307 filing for fermented malt at Louisiana, Chestnut Cellars liquor store on Chestnut Place. Status shifts: Tacos El Metate and #Vybe cleared delinquency to active, Honey Elixir Lounge flipped delinquent. Week explodes to <strong>424 applications</strong> vs. zero prior week \u2014 state licensing pipeline fully operational post-freeze. Today's haul spans every category from grooming shops to airport kiosks (six DIA vendors active). The 45-day blackout is officially over.",
+      "blurb": "<strong>1 new application today:</strong> Waterway lands fermented malt license at Cherry Creek North (3875 E Cherry Creek North Dr). Meanwhile, <strong>8 status shifts</strong> \u2014 Belles and Boots (Blake St), Skyline Beer Garden (Arapahoe), Fortissimo Dueling Pianos (14th St), and Foraged (Blake St) all flip delinquent. RiNo Grog Shop clears delinquency to active. The Pit Stop (Wadsworth) goes live. Week's application surge settles after yesterday's 88-app explosion \u2014 7-day total now <strong>425</strong> vs. zero prior week as post-freeze licensing pipeline normalizes.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "88",
-        "class1": "up",
+        "value1": "1",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "424",
-        "class1": "up",
+        "value1": "425",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>3 citations yesterday</strong> \u2014 Wednesday ticks slightly above Tuesday's 2-mention floor but remains well below pre-weekend averages. Week limps to <strong>69 mentions</strong> across 17 sources, now tracking 13% below last week's 79 as the three-week uptrend definitively snaps. Instagram still leads at 16, Denver Post 13, Facebook 13, Reddit 8, Hoodline 4. Notable Wednesday pickups: Denverite covering tax-funded immersive theater eviction downtown, San Antonio Express-News running Canyon Lake resort condo conversion (Missouri developer angle), Reddit post on Denver's mixed-use rezoning push. The slowdown accelerates: daily acquisition now averaging 2.3 mentions vs. 11.3/day needed to match prior week's pace. Source diversity flat at 17 outlets. Five days remain in the tracking window \u2014 barring a Friday surge, this week marks the first sequential decline after three weeks of growth.",
+      "blurb": "<strong>1 mention yesterday</strong> \u2014 Thursday sets a new weekly low, dropping below Wednesday's 3-cite floor. Week crawls to <strong>63 mentions</strong> across 17 sources, now down 16% from last week's 75 as the three-week growth streak collapses. Instagram leads at 18, Facebook 12, Denver Post and Reddit tied at 8, Hoodline 3. Thursday's lone pickup: Instagram post on Colorado drought conditions. Daily acquisition rate now 1.0 mention vs. 10.7/day needed to match prior week \u2014 the slowdown deepens. Source count flat at 17 outlets. Three days left in tracking window. At current pace, week will close 30+ mentions below prior period, confirming first sequential decline after sustained spring growth.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "69",
-        "class1": "down",
+        "value1": "63",
+        "class1": "",
         "label2": "sources",
         "value2": "17",
         "class2": "",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) \u2014 the first positive session in thirteen days breaks the churn spiral. MTD improves slightly to <strong>\u221215</strong> (\u22121.0/day), 90-day cumulative at <strong>+93</strong>. But the recovery is fragile: past 7 days still show \u221224 net (17 new, 41 canceled) vs. prior week's +1 \u2014 a devastating 25-subscriber swing that confirms July as the worst acquisition month on record. Since July 1, just 18 new subscribers against 41 cancellations for a \u221223 monthly net. Yesterday's single addition doesn't reverse the trend: cancellation rate still running 2.3:1 against sign-ups across the fortnight. The thirteen-day losing streak (July 3\u201315) erased 38 net subscribers before Wednesday's micro-bounce. YTD net holds at +211 (+1.1/day) only because Q1-Q2 momentum carried forward. If July's \u221223 pace persists through month-end, it will mark the first negative monthly close in tracking history.",
+      "blurb": "<strong>Net \u00b10 yesterday</strong> (2 new, 2 canceled) \u2014 the Wednesday micro-bounce evaporates as churn resumes. MTD ticks to <strong>\u221216</strong> (\u22121.0/day), 90-day cumulative <strong>+92</strong>. Past 7 days deteriorate to \u221220 net (13 new, 33 canceled) vs. prior week's \u22126 \u2014 a 14-subscriber swing that extends July's losing streak. The single-day recovery proved ephemeral: cancellations immediately resumed 1:1 ratio with acquisitions. Since July 1, just 19 new subscribers against 43 cancellations for \u221224 monthly net. The pattern is unambiguous: July tracks as worst acquisition month on record with churn running 2.3:1 against sign-ups across past fortnight. YTD net holds at +210 (+1.1/day) solely on Q1-Q2 momentum. If July's pace persists through month-end, it will mark the first negative monthly close in tracking history.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-15",
-      "net_ytd": "211",
+      "net_mtd": "-16",
+      "net_ytd": "210",
       "net_mtd_per_day": "-1.0",
       "net_ytd_per_day": "1.1",
-      "annual_mtd": "-12",
-      "annual_ytd": "168",
-      "monthly_mtd": "-3",
-      "monthly_ytd": "43"
+      "annual_mtd": "-8",
+      "annual_ytd": "105",
+      "monthly_mtd": "-8",
+      "monthly_ytd": "105"
     }
   }
 }

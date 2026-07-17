@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-07-17",
-  "fetched_at": "2026-07-17 10:35:30",
+  "fetched_at": "2026-07-17 11:32:32",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "University of Denver launches tool tracking artificial intelligence laws across the country",
+      "link": "https://www.denver7.com/money/science-and-tech/university-of-denver-launches-tool-tracking-artificial-intelligence-laws-across-the-country",
+      "source": "Denver7",
+      "pub_date": "2026-07-17T11:20:37+00:00",
+      "age_hours": 0.19450993694444443,
+      "breaking": true,
+      "time_ago": "11 min ago"
+    },
     {
       "title": "New solar farm pushes renewables on Colorado school trust land past 800MW mark",
       "link": "https://coloradosun.com/2026/07/17/colorado-land-board-solar-power-passes-goal/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-17T10:08:00+00:00",
-      "age_hours": 0.45397134972222225,
+      "age_hours": 1.4044144080555556,
       "breaking": true,
-      "time_ago": "27 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Ed Dwight\u2019s monumental sculptures bring Black history to life at History Colorado",
       "link": "https://www.cpr.org/2026/07/17/ed-dwight-casting-a-legacy-history-colorado-exhibit/",
       "source": "CPR",
       "pub_date": "2026-07-17T10:00:00+00:00",
-      "age_hours": 0.5874170361111111,
+      "age_hours": 1.5378602358333333,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Coloradans are worried about affordability and say elected leaders aren\u2019t doing enough to help, new poll shows",
       "link": "https://coloradosun.com/2026/07/17/colorado-affordability-elected-leaders-pulse-poll-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-17T09:33:00+00:00",
-      "age_hours": 1.037304741388889,
+      "age_hours": 1.9877478111111113,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -36,151 +45,142 @@
       "link": "https://www.9news.com/article/news/local/denver-community-group-rescue-orphaned-pedestrian-bridge/73-10bec6a0-fb1c-4a95-a173-24f91f53caa1",
       "source": "9News",
       "pub_date": "2026-07-17T01:29:19+00:00",
-      "age_hours": 9.098859508333334,
+      "age_hours": 10.04928064,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Chewy to open Fort Collins veterinary clinic Friday",
       "link": "https://bizwest.com/2026/07/16/chewy-to-open-fort-collins-veterinary-clinic-friday/",
       "source": "BizWest",
       "pub_date": "2026-07-17T00:10:27+00:00",
-      "age_hours": 10.412676345833333,
+      "age_hours": 11.363177001111112,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Feedback sought on Larimer event permit rules",
       "link": "https://bizwest.com/2026/07/16/feedback-sought-on-larimer-event-permit-rules/",
       "source": "BizWest",
       "pub_date": "2026-07-17T00:07:57+00:00",
-      "age_hours": 10.454343598333335,
+      "age_hours": 11.40484417111111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Investigation underway after man dies in Denver police custody",
       "link": "https://kdvr.com/news/local/investigation-underway-after-man-dies-in-denver-police-custody/",
       "source": "Fox31",
       "pub_date": "2026-07-16T22:40:37+00:00",
-      "age_hours": 11.910894558055556,
+      "age_hours": 12.861343905555556,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Report: Denver bar tops list of U.S. destinations visited by World Cup fans",
       "link": "https://kdvr.com/news/local/report-denver-bar-tops-list-of-u-s-destinations-visited-by-world-cup-fans/",
       "source": "Fox31",
       "pub_date": "2026-07-16T22:21:19+00:00",
-      "age_hours": 12.232561320555556,
+      "age_hours": 13.183010664444444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver man stopped for speeding, arrested following K-9 drug detection",
       "link": "https://kdvr.com/news/local/denver-man-stopped-for-speeding-arrested-following-k-9-drug-detection/",
       "source": "Fox31",
       "pub_date": "2026-07-16T22:14:03+00:00",
-      "age_hours": 12.353672549722223,
+      "age_hours": 13.304121891944446,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Irish airline Aer Lingus ends direct flights from Denver",
       "link": "https://denverite.com/2026/07/16/denver-direct-flight-to-dublin-ends/",
       "source": "Denverite",
       "pub_date": "2026-07-16T22:04:25+00:00",
-      "age_hours": 12.51376978,
+      "age_hours": 13.464198292777779,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "As Trump targets DEI programs, Polis says he worries about federal dollars used as \u2018political football\u2019",
       "link": "https://www.coloradopolitics.com/2026/07/16/as-trump-targets-dei-programs-polis-says-he-worries-about-federal-dollars-used-as-political-football/",
       "source": "CO Politics",
       "pub_date": "2026-07-16T21:24:06+00:00",
-      "age_hours": 13.186436991111112,
+      "age_hours": 14.136873608055556,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Five face trespassing charges after two rescues from Arapahoe County silo",
       "link": "https://sentinelcolorado.com/metro/five-face-trespassing-charges-after-two-rescues-from-arapahoe-county-silo/",
       "source": "Sentinel",
       "pub_date": "2026-07-16T21:03:29+00:00",
-      "age_hours": 13.530065063333334,
+      "age_hours": 14.48049735388889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Utah firm pays $52.5M for Loveland mobile-home parks",
       "link": "https://bizwest.com/2026/07/16/utah-firm-pays-52-5m-for-loveland-mobile-home-parks/",
       "source": "BizWest",
       "pub_date": "2026-07-16T20:47:09+00:00",
-      "age_hours": 13.801010302500002,
+      "age_hours": 14.75151087361111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Vail Resorts pivots strategic focus from Epic Pass to \u2018white-glove\u2019 amenities",
       "link": "https://bizwest.com/2026/07/16/vail-resorts-pivots-strategic-focus-from-epic-pass-to-white-glove-amenities/",
       "source": "BizWest",
       "pub_date": "2026-07-16T20:08:48+00:00",
-      "age_hours": 14.440176975833333,
+      "age_hours": 15.390677546388888,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Trump cites national security to stop offshore wind development. Here\u2019s what to know",
       "link": "https://sentinelcolorado.com/nation-world/nation/trump-cites-national-security-to-stop-offshore-wind-development-heres-what-to-know/",
       "source": "Sentinel",
       "pub_date": "2026-07-16T20:06:30+00:00",
-      "age_hours": 14.479787346111111,
+      "age_hours": 15.430219641666667,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Mile High Transactions Report Week Ending 07.17.26",
       "link": "https://milehighcre.com/mile-high-transactions-report-week-ending-07-17-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-16T19:29:04+00:00",
-      "age_hours": 15.102765566666665,
+      "age_hours": 16.05323890777778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado offers quantum firm millions in incentives for R&D facility",
       "link": "https://bizwest.com/2026/07/16/colorado-offers-quantum-firm-millions-in-incentives-for-rd-facility/",
       "source": "BizWest",
       "pub_date": "2026-07-16T19:00:30+00:00",
-      "age_hours": 15.578510348333333,
+      "age_hours": 16.52901092,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "San Isabel Electric sued as alleged cause of Aspen Acres Fire",
       "link": "https://kdvr.com/news/san-isabel-electric-sued-as-alleged-cause-of-aspen-acres-fire/",
       "source": "Fox31",
       "pub_date": "2026-07-16T18:51:53+00:00",
-      "age_hours": 15.723116918333334,
+      "age_hours": 16.67356626111111,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Nearly 736,000 Pillsbury bread rolls recalled over glass concerns",
       "link": "https://www.9news.com/article/news/nation-world/pillsbury-bread-roll-recalled/507-296ff845-aef1-41ac-aebd-06eaf14cb990",
       "source": "9News",
       "pub_date": "2026-07-16T18:41:58+00:00",
-      "age_hours": 15.888026284444445,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Realberry Announces Avenue South in Loveland",
-      "link": "https://milehighcre.com/realberry-announces-avenue-south-in-loveland/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-07-16T17:35:45+00:00",
-      "age_hours": 16.99137669611111,
+      "age_hours": 16.838447408333334,
       "breaking": false,
       "time_ago": "16 hrs ago"
     }
