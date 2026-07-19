@@ -1,24 +1,33 @@
 {
   "fetched_date": "2026-07-19",
-  "fetched_at": "2026-07-19 17:24:01",
+  "fetched_at": "2026-07-19 18:21:39",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Target prepares to open as Firestone mulls Central Park future",
+      "link": "https://bizwest.com/2026/07/19/target-prepares-to-open-as-firestone-mulls-central-park-future/",
+      "source": "BizWest",
+      "pub_date": "2026-07-19T17:30:06+00:00",
+      "age_hours": 0.8538162058333334,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
     {
       "title": "Carman: RTD is a mess, but even discussing the elimination of the 16th Street Shuttle is absurd",
       "link": "https://coloradosun.com/2026/07/19/denver-rtd-transportation-opinion-carman/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-19T09:02:00+00:00",
-      "age_hours": 8.362525903888889,
+      "age_hours": 9.322610526388889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Big GOP names address rumors they want to challenge Gov. Lamm | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/07/18/big-gop-names-address-rumors-they-want-to-challenge-gov-lamm-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-18T11:00:00+00:00",
-      "age_hours": 30.3965333025,
+      "age_hours": 31.356779219166665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -27,7 +36,7 @@
       "link": "https://coloradosun.com/2026/07/18/colorado-homeowners-insurance-discounts-mitigation-hail/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-18T10:00:00+00:00",
-      "age_hours": 31.39585932388889,
+      "age_hours": 32.355943950000004,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -36,7 +45,7 @@
       "link": "https://www.cpr.org/2026/07/18/denver-french-immersion-charter-school/",
       "source": "CPR",
       "pub_date": "2026-07-18T10:00:00+00:00",
-      "age_hours": 31.39598740888889,
+      "age_hours": 32.35614011083334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://www.westword.com/opinion/denver-homeless-housing-solution-long-term-gaps-40911447/",
       "source": "Westword",
       "pub_date": "2026-07-18T07:48:42-06:00",
-      "age_hours": 27.584644893055557,
+      "age_hours": 28.544905578333335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.westword.com/food-drink/new-sushi-spots-denver-restaurant-openings-and-closings-40912261/",
       "source": "Westword",
       "pub_date": "2026-07-18T07:12:39-06:00",
-      "age_hours": 28.185478415833334,
+      "age_hours": 29.145739055277776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://coloradosun.com/2026/07/17/taylor-farms-colorado-iceberg-lettuce-taco-bell-diarrhea/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-17T23:51:20+00:00",
-      "age_hours": 41.54030382388889,
+      "age_hours": 42.50038844388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://bizwest.com/2026/07/17/bergeron-when-a-community-solution-needs-a-community-commitment/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:42:37+00:00",
-      "age_hours": 42.68517599444444,
+      "age_hours": 43.64520615944445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/07/17/social-venture-partners-sees-ceos-sabbatical-as-lesson-in-sustainable-leadership/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:25:32+00:00",
-      "age_hours": 42.969898801666666,
+      "age_hours": 43.929928447777776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://bizwest.com/2026/07/17/houska-automotive-donates-16th-vehicle-for-project-self-sufficiency/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:20:41+00:00",
-      "age_hours": 43.05073217555555,
+      "age_hours": 44.01076186666667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/17/campaign-launched-to-redirect-1-billion-in-tabor-refunds-to-education/",
       "source": "CO Politics",
       "pub_date": "2026-07-17T22:02:50+00:00",
-      "age_hours": 43.34931113194445,
+      "age_hours": 44.30955704,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/17/williams-village-sprouts-to-close-in-september/",
       "source": "BizWest",
       "pub_date": "2026-07-17T21:50:38+00:00",
-      "age_hours": 43.55156554527778,
+      "age_hours": 44.51159526194444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/17/larger-part-of-greeley-student-apartment-complex-sells-for-16-7m/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:49:23+00:00",
-      "age_hours": 44.572398908611106,
+      "age_hours": 45.532428655555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://bizwest.com/2026/07/17/last-mile-education-fund-launches-transportation-initiative/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:27:24+00:00",
-      "age_hours": 44.938787803888886,
+      "age_hours": 45.89881755555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/07/17/boulder-county-opens-applications-for-8-5m-in-nonprofit-grants/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:08:43+00:00",
-      "age_hours": 45.25017671944444,
+      "age_hours": 46.21020649722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,16 +153,7 @@
       "link": "https://bizwest.com/2026/07/17/broomfield-town-square-progress-continues-to-frustrate-officials/",
       "source": "BizWest",
       "pub_date": "2026-07-17T19:44:04+00:00",
-      "age_hours": 45.66101006361111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Future Legends contractors, lender seek sanctions against developer",
-      "link": "https://bizwest.com/2026/07/17/future-legends-contractors-lender-seek-sanctions-against-developer/",
-      "source": "BizWest",
-      "pub_date": "2026-07-17T19:40:51+00:00",
-      "age_hours": 45.71462120388889,
+      "age_hours": 46.62103985527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://kdvr.com/news/local/local-agencies-remind-of-the-dangers-of-hot-cars-with-kids-and-pets-left-inside/",
       "source": "Fox31",
       "pub_date": "2026-07-17T16:22:32+00:00",
-      "age_hours": 49.02073036888889,
+      "age_hours": 49.980884448055555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.westword.com/food-drink/el-chingon-returns-fire-shutters-farm-40912190/",
       "source": "Westword",
       "pub_date": "2026-07-17T14:30:23-06:00",
-      "age_hours": 44.88992298416667,
+      "age_hours": 45.850183620833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://milehighcre.com/industrial-leasing-activity-gains-momentum-as-the-construction-pipeline-expands/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-17T14:27:55+00:00",
-      "age_hours": 50.93051273472222,
+      "age_hours": 51.8905729325,
       "breaking": false,
       "time_ago": "2 days ago"
     }
