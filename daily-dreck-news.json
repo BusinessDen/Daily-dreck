@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-07-19",
-  "fetched_at": "2026-07-19 19:27:20",
+  "fetched_at": "2026-07-19 20:19:52",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Man injured Saturday in shooting during dispute at northwest Aurora apartment",
+      "link": "https://sentinelcolorado.com/metro/man-injured-saturday-in-shooting-during-dispute-at-northwest-aurora-apartment/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-19T20:01:24+00:00",
+      "age_hours": 0.3041168888888889,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
     {
       "title": "Cooler headlines, warmer market",
       "link": "https://bizwest.com/2026/07/19/cooler-headlines-warmer-market/",
       "source": "BizWest",
       "pub_date": "2026-07-19T18:39:12+00:00",
-      "age_hours": 0.7968304683333333,
+      "age_hours": 1.6728654705555555,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Target prepares to open as Firestone mulls Central Park future",
       "link": "https://bizwest.com/2026/07/19/target-prepares-to-open-as-firestone-mulls-central-park-future/",
       "source": "BizWest",
       "pub_date": "2026-07-19T17:30:06+00:00",
-      "age_hours": 1.9484974705555556,
+      "age_hours": 2.8245324466666664,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Carman: RTD is a mess, but even discussing the elimination of the 16th Street Shuttle is absurd",
       "link": "https://coloradosun.com/2026/07/19/denver-rtd-transportation-opinion-carman/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-19T09:02:00+00:00",
-      "age_hours": 10.417482100277777,
+      "age_hours": 11.293273958888888,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Big GOP names address rumors they want to challenge Gov. Lamm | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/07/18/big-gop-names-address-rumors-they-want-to-challenge-gov-lamm-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-18T11:00:00+00:00",
-      "age_hours": 32.45169669,
+      "age_hours": 33.3273971375,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://coloradosun.com/2026/07/18/colorado-homeowners-insurance-discounts-mitigation-hail/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-18T10:00:00+00:00",
-      "age_hours": 33.45081549166667,
+      "age_hours": 34.32660734444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.cpr.org/2026/07/18/denver-french-immersion-charter-school/",
       "source": "CPR",
       "pub_date": "2026-07-18T10:00:00+00:00",
-      "age_hours": 33.45095745166667,
+      "age_hours": 34.32675975,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://www.westword.com/opinion/denver-homeless-housing-solution-long-term-gaps-40911447/",
       "source": "Westword",
       "pub_date": "2026-07-18T07:48:42-06:00",
-      "age_hours": 29.639826133055557,
+      "age_hours": 30.515503988055553,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.westword.com/food-drink/new-sushi-spots-denver-restaurant-openings-and-closings-40912261/",
       "source": "Westword",
       "pub_date": "2026-07-18T07:12:39-06:00",
-      "age_hours": 30.240659570277778,
+      "age_hours": 31.116337407222225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/07/17/bergeron-when-a-community-solution-needs-a-community-commitment/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:42:37+00:00",
-      "age_hours": 44.73988638666667,
+      "age_hours": 45.61592135805556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://bizwest.com/2026/07/17/social-venture-partners-sees-ceos-sabbatical-as-lesson-in-sustainable-leadership/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:25:32+00:00",
-      "age_hours": 45.024608631666666,
+      "age_hours": 45.900643598611104,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/07/17/houska-automotive-donates-16th-vehicle-for-project-self-sufficiency/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:20:41+00:00",
-      "age_hours": 45.10544199361111,
+      "age_hours": 45.98147695277778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/17/campaign-launched-to-redirect-1-billion-in-tabor-refunds-to-education/",
       "source": "CO Politics",
       "pub_date": "2026-07-17T22:02:50+00:00",
-      "age_hours": 45.404474504166664,
+      "age_hours": 46.28017494333333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/17/williams-village-sprouts-to-close-in-september/",
       "source": "BizWest",
       "pub_date": "2026-07-17T21:50:38+00:00",
-      "age_hours": 45.6062753475,
+      "age_hours": 46.482310302777776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://bizwest.com/2026/07/17/larger-part-of-greeley-student-apartment-complex-sells-for-16-7m/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:49:23+00:00",
-      "age_hours": 46.62710870055555,
+      "age_hours": 47.50314365222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/07/17/last-mile-education-fund-launches-transportation-initiative/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:27:24+00:00",
-      "age_hours": 46.99349759305556,
+      "age_hours": 47.869532544444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,16 +153,16 @@
       "link": "https://bizwest.com/2026/07/17/boulder-county-opens-applications-for-8-5m-in-nonprofit-grants/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:08:43+00:00",
-      "age_hours": 47.30488649944444,
+      "age_hours": 48.18092144805556,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Local agencies remind of the dangers of hot cars with kids and pets left inside",
       "link": "https://kdvr.com/news/local/local-agencies-remind-of-the-dangers-of-hot-cars-with-kids-and-pets-left-inside/",
       "source": "Fox31",
       "pub_date": "2026-07-17T16:22:32+00:00",
-      "age_hours": 51.07579736666666,
+      "age_hours": 51.951572767777776,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.westword.com/food-drink/el-chingon-returns-fire-shutters-farm-40912190/",
       "source": "Westword",
       "pub_date": "2026-07-17T14:30:23-06:00",
-      "age_hours": 46.94510408194444,
+      "age_hours": 47.8207819075,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://milehighcre.com/industrial-leasing-activity-gains-momentum-as-the-construction-pipeline-expands/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-17T14:27:55+00:00",
-      "age_hours": 52.98537089722222,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Plans For Colorado's Newest Private Golf Course Revealed: The Denver Deal Sheet",
-      "link": "https://www.bisnow.com/denver/news/mixed-use/colorados-newest-private-golf-course-denver-deal-sheet-135472",
-      "source": "Bisnow",
-      "pub_date": "2026-07-17T14:06:13-04:00",
-      "age_hours": 49.34684896111111,
+      "age_hours": 53.86124622888889,
       "breaking": false,
       "time_ago": "2 days ago"
     }
