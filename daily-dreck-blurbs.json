@@ -1,13 +1,13 @@
 {
-  "generated_date": "2026-07-18",
-  "lead_headline": "DBS Caf\u00e9 opens inside Denver Book Society as Kwame Spearman's indie bookstore-caf\u00e9 debuts in City Park West \u2014 1 opening lead today",
+  "generated_date": "2026-07-19",
+  "lead_headline": "Zero new restaurant leads detected today as tracking pipeline holds at 297 \u2014 quietest Saturday in recent memory",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today:</strong> DBS Caf\u00e9 opens in City Park West inside Denver Book Society, former Tattered Cover CEO Kwame Spearman's indie bookstore. Active pipeline 297 (159 openings, 138 closures).",
+      "blurb": "<strong>0 new leads today</strong> \u2014 Saturday goes silent. Active pipeline 297 (159 openings, 138 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "0",
         "label2": "closed",
         "value2": "0",
         "period": "today"
@@ -43,11 +43,11 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>1 new application today:</strong> Murphy USA #5533 files for fermented malt license at 7150 Leetsdale Dr in Glendale. Meanwhile, <strong>11 status flips</strong> \u2014 Lowry Liquors, Trattoria Stella (W 32nd Ave), Belles and Boots, Kona Grill, Colorado Beverage Co., and Onefold all clear delinquency to active. Uncle (W 32nd), Welton Street Cafe, Neveria El Alamo, MDE Lounge, and Painting with a Twist slip delinquent. Week slows to <strong>152 applications</strong> vs. 274 prior week as post-freeze pipeline surge moderates.",
+      "blurb": "<strong>Zero new applications today</strong> as Saturday licensing activity flatlines. <strong>2 status flips:</strong> Honey Elixir Lounge (2636 Walnut) clears delinquency to active while HuHot Mongolian Grill (Northfield) slips delinquent. Weekly pace continues slowdown at <strong>152 applications</strong> vs. 274 prior week \u2014 44% drop confirms post-freeze surge has fully dissipated as metro licensing activity returns to historical baseline.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "1",
+        "value1": "0",
         "class1": "",
         "period": "today"
       },
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>2 mentions yesterday</strong> \u2014 Friday doubles Thursday's output but remains historically weak as weekly total limps to <strong>66 mentions</strong> across 17 sources, down 11% from prior week's 74. Instagram dominates at 19, Denver Post and Reddit tied at 10, Facebook 10, Hoodline 3. Top pickups: Denver Post covers $8M Castle Pines mansion sale, Reddit discusses Thornton Walmart drone delivery, Instagram features Czech pastry entrepreneur. Daily acquisition rate 1.3 vs. 10.6/day needed to match prior week. Two days left in tracking window \u2014 week will close 8-10 mentions below prior period, confirming second consecutive weekly decline.",
+      "blurb": "<strong>1 mention yesterday</strong> (Instagram traffic stop coverage) as Saturday matches Friday's anemic output. Week closes at <strong>68 mentions</strong> across 16 sources, down 8% from prior week's 74 \u2014 second consecutive weekly decline. Instagram leads at 20, Facebook 13, Reddit 9, Denver Post 8, Hoodline 5. Notable pickups include Riot House lawsuit dismissal, weed grow closure, Belcaro mansion sales. Daily average 9.7 vs. prior week's 10.6 \u2014 the slide continues but moderates.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "2",
-        "class1": "",
+        "value1": "1",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "66",
+        "value1": "68",
         "class1": "down",
         "label2": "sources",
-        "value2": "17",
+        "value2": "16",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22124 yesterday</strong> (0 new, 4 canceled) \u2014 Friday extends July's bleeding as zero acquisitions hit for second time this week. MTD deteriorates to <strong>\u221220</strong> (\u22121.2/day), 90-day cumulative <strong>+88</strong>. Past 7 days worsen to \u221223 net (10 new, 33 canceled) vs. prior week's \u22128 \u2014 a 15-subscriber collapse that marks July's worst weekly performance yet. Just 10 new subscribers against 33 cancellations (3.3:1 churn ratio) over past seven days. Since July 1, only 23 acquisitions against 43 cancellations for \u221220 monthly net. The pattern solidifies: July tracks as worst acquisition month on record with churn running more than 3:1 against sign-ups this week. YTD net holds at +206 (+1.0/day) purely on Q1-Q2 carryover.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) as Saturday churn continues July's hemorrhaging. MTD worsens to <strong>\u221223</strong> (\u22121.3/day), 90-day net <strong>+84</strong>. Past two weeks show accelerating deterioration: 10 new vs. 35 canceled (3.5:1 churn ratio) for \u221225 weekly net \u2014 sharply worse than prior week's \u221210. July tracks as catastrophic: just 23 acquisitions against 46 cancellations for \u221223 monthly net through 18 days. Zero-acquisition days now routine. YTD net holds at +203 (+1.0/day) solely on Q1-Q2 carryover, but July's trajectory threatens to erase Q2 gains entirely if pattern persists through month-end.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-20",
-      "net_ytd": "+206",
-      "net_mtd_per_day": "-1.2",
+      "net_mtd": "\u221223",
+      "net_ytd": "+203",
+      "net_mtd_per_day": "\u22121.3",
       "net_ytd_per_day": "+1.0",
-      "annual_mtd": "-18",
-      "annual_ytd": "+184",
-      "monthly_mtd": "-2",
-      "monthly_ytd": "+22"
+      "annual_mtd": "\u221218",
+      "annual_ytd": "+165",
+      "monthly_mtd": "\u22125",
+      "monthly_ytd": "+38"
     }
   }
 }
