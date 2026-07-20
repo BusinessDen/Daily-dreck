@@ -1,24 +1,33 @@
 {
   "fetched_date": "2026-07-20",
-  "fetched_at": "2026-07-20 17:43:22",
+  "fetched_at": "2026-07-20 18:41:24",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Business Buzz: Colorado's competitiveness crunch and the World Cup economy",
+      "link": "https://www.9news.com/article/money/business-brief/colorados-competitiveness-crunch-and-world-cup-economy/73-7fbebf86-6805-4c57-89f2-3ecd23bb84ec",
+      "source": "9News",
+      "pub_date": "2026-07-20T17:58:54+00:00",
+      "age_hours": 0.7039021052777777,
+      "breaking": true,
+      "time_ago": "42 min ago"
+    },
     {
       "title": "FDA retracts claim that tainted lettuce caused 5-state outbreak of cyclospora illnesses",
       "link": "https://coloradosun.com/2026/07/20/fda-retracts-claims-of-tainted-lettuce/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-20T16:36:57+00:00",
-      "age_hours": 1.1022676883333333,
+      "age_hours": 2.0696215569444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Airline to cut Denver flights to Ireland",
       "link": "https://www.9news.com/article/travel/denver-international-airport/aer-lingus-ireland-denver-flights-ending/73-4e680f09-d887-4f21-ad8a-ab815b4c63fc",
       "source": "9News",
       "pub_date": "2026-07-20T15:42:35+00:00",
-      "age_hours": 2.0085228730555555,
+      "age_hours": 2.9758466033333333,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -27,142 +36,142 @@
       "link": "https://www.9news.com/article/news/nation-world/taylor-farms-statement-fda-cyclospora-finding-false-positive/507-b0310ba9-a883-45a4-9405-228939e3c8cc",
       "source": "9News",
       "pub_date": "2026-07-20T15:34:48+00:00",
-      "age_hours": 2.138245146388889,
+      "age_hours": 3.105568877222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Aurora remembers 12 dead, 70 injured as 14 years pass since tragic theater shooting",
       "link": "https://sentinelcolorado.com/metro/aurora-remembers-12-dead-70-injured-as-14-years-pass-since-tragic-theater-shooting/",
       "source": "Sentinel",
       "pub_date": "2026-07-20T15:06:16+00:00",
-      "age_hours": 2.6143152233333335,
+      "age_hours": 3.5818757975,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "UCHealth buys Denver metro office buildings for $19.4M",
       "link": "https://www.9news.com/article/money/markets/real-estate/uchealth-denver-metro-office-buildings/73-c6d00061-c3f7-42b5-8830-9747b5fd28cc",
       "source": "9News",
       "pub_date": "2026-07-20T15:02:32+00:00",
-      "age_hours": 2.676022940833333,
+      "age_hours": 3.6433466719444443,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "NexGen Completes $4.7M Renovation of DTC Homewood Suites",
       "link": "https://milehighcre.com/nexgen-completes-4-7m-renovation-of-dtc-homewood-suites/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-20T14:49:40+00:00",
-      "age_hours": 2.8902511355555554,
+      "age_hours": 3.857586127222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Procession for pilot who died fighting Gold Mountain Fire to go through Colorado",
       "link": "https://kdvr.com/news/local/procession-for-pilot-who-died-fighting-gold-mountain-fire-to-go-through-colorado/",
       "source": "Fox31",
       "pub_date": "2026-07-20T12:15:43+00:00",
-      "age_hours": 5.456501039444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.424177940277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Aurora holding public meetings to update housing strategy amid growing shortage",
       "link": "https://sentinelcolorado.com/metro/aurora-holding-public-meetings-to-update-housing-strategy-amid-growing-shortage/",
       "source": "Sentinel",
       "pub_date": "2026-07-20T11:54:01+00:00",
-      "age_hours": 5.818482244166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.786042784444445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "1 dead, 8 injured in overnight shooting outside Denver bar: Police",
       "link": "https://kdvr.com/news/local/1-dead-8-injured-in-overnight-shooting-near-denver-bar-police/",
       "source": "Fox31",
       "pub_date": "2026-07-20T11:45:15+00:00",
-      "age_hours": 5.964278751944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.931955667777777,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver Water\u2019s 1.5 million customers are falling way short of drought-cutting goals",
       "link": "https://coloradosun.com/2026/07/20/denver-water-drought-shortage-consumers-not-saving/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-20T10:08:00+00:00",
-      "age_hours": 7.584768375277778,
+      "age_hours": 8.552122195277777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Apartment conversions are expensive and tricky. This old Denver Tech Center building pulled it off.",
       "link": "https://www.cpr.org/2026/07/20/apartment-conversions-expensive-denver-tech-center-building/",
       "source": "CPR",
       "pub_date": "2026-07-20T10:00:00+00:00",
-      "age_hours": 7.718196044722222,
+      "age_hours": 8.685537361388889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "No hard feelings? The long list of high-profile Colorado Democrats who endorsed Michael Bennet hope so.",
       "link": "https://coloradosun.com/2026/07/20/michael-bennet-phil-weiser-endorsements-colorado-primary/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-20T09:55:00+00:00",
-      "age_hours": 7.8014350766666665,
+      "age_hours": 8.768788892777778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver City Council to vote on change to nightlife rules, including later closing time",
       "link": "https://www.9news.com/article/news/local/denver-city-council-vote-nightlife-rules-closing-time/73-3db57430-2628-4e21-bf1c-a923a348849b",
       "source": "9News",
       "pub_date": "2026-07-20T04:24:42+00:00",
-      "age_hours": 13.306578585555556,
+      "age_hours": 14.273902314722221,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Brush fire near Denver cemetery quickly contained by crews amid extreme heat",
       "link": "https://kdvr.com/news/local/brush-fire-near-denver-cemetery-quickly-contained-by-crews-amid-extreme-heat/",
       "source": "Fox31",
       "pub_date": "2026-07-20T02:52:18+00:00",
-      "age_hours": 14.846778900833334,
+      "age_hours": 15.814455806388889,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Paying cash without pennies is confusing. That could soon change",
       "link": "https://kdvr.com/news/nationalworld-news/paying-cash-without-pennies-is-confusing-that-could-soon-change/",
       "source": "Fox31",
       "pub_date": "2026-07-19T23:22:31+00:00",
-      "age_hours": 18.343167863055555,
+      "age_hours": 19.310844763055556,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "1 dead in double shooting near Congress Park: Police",
       "link": "https://kdvr.com/news/local/1-dead-in-double-shooting-near-congress-park-police/",
       "source": "Fox31",
       "pub_date": "2026-07-19T20:27:40+00:00",
-      "age_hours": 21.257334424166668,
+      "age_hours": 22.225011322777778,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Cooler headlines, warmer market",
       "link": "https://bizwest.com/2026/07/19/cooler-headlines-warmer-market/",
       "source": "BizWest",
       "pub_date": "2026-07-19T18:39:12+00:00",
-      "age_hours": 23.064330224444443,
+      "age_hours": 24.031591794444445,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Target prepares to open as Firestone mulls Central Park future",
       "link": "https://bizwest.com/2026/07/19/target-prepares-to-open-as-firestone-mulls-central-park-future/",
       "source": "BizWest",
       "pub_date": "2026-07-19T17:30:06+00:00",
-      "age_hours": 24.215997386944444,
+      "age_hours": 25.183259019444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,18 +180,9 @@
       "link": "https://coloradosun.com/2026/07/19/denver-rtd-transportation-opinion-carman/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-19T09:02:00+00:00",
-      "age_hours": 32.68476924527778,
+      "age_hours": 33.65212302388889,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "Big GOP names address rumors they want to challenge Gov. Lamm | A LOOK BACK",
-      "link": "https://www.coloradopolitics.com/2026/07/18/big-gop-names-address-rumors-they-want-to-challenge-gov-lamm-a-look-back/",
-      "source": "CO Politics",
-      "pub_date": "2026-07-18T11:00:00+00:00",
-      "age_hours": 54.718736542222224,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
