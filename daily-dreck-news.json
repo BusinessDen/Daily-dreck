@@ -1,78 +1,78 @@
 {
   "fetched_date": "2026-07-20",
-  "fetched_at": "2026-07-20 03:08:54",
+  "fetched_at": "2026-07-20 05:17:00",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver City Council to vote Monday on change to nightlife rules, including 4 a.m. closing time",
+      "link": "https://www.9news.com/article/news/local/denver-city-council-vote-nightlife-rules-closing-time/73-3db57430-2628-4e21-bf1c-a923a348849b",
+      "source": "9News",
+      "pub_date": "2026-07-20T04:24:42+00:00",
+      "age_hours": 0.8686489108333333,
+      "breaking": true,
+      "time_ago": "52 min ago"
+    },
     {
       "title": "Brush fire near Denver cemetery quickly contained by crews amid extreme heat",
       "link": "https://kdvr.com/news/local/brush-fire-near-denver-cemetery-quickly-contained-by-crews-amid-extreme-heat/",
       "source": "Fox31",
       "pub_date": "2026-07-20T02:52:18+00:00",
-      "age_hours": 0.2729078730555556,
+      "age_hours": 2.408809685277778,
       "breaking": true,
-      "time_ago": "16 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Paying cash without pennies is confusing. That could soon change",
       "link": "https://kdvr.com/news/nationalworld-news/paying-cash-without-pennies-is-confusing-that-could-soon-change/",
       "source": "Fox31",
       "pub_date": "2026-07-19T23:22:31+00:00",
-      "age_hours": 3.7692968455555556,
+      "age_hours": 5.90519864,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "1 dead in double shooting near Congress Park: Police",
       "link": "https://kdvr.com/news/local/1-dead-in-double-shooting-near-congress-park-police/",
       "source": "Fox31",
       "pub_date": "2026-07-19T20:27:40+00:00",
-      "age_hours": 6.683463385277777,
+      "age_hours": 8.819365201388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Man injured Saturday in shooting during dispute at northwest Aurora apartment",
-      "link": "https://sentinelcolorado.com/metro/man-injured-saturday-in-shooting-during-dispute-at-northwest-aurora-apartment/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-19T20:01:24+00:00",
-      "age_hours": 7.121669451111111,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Cooler headlines, warmer market",
       "link": "https://bizwest.com/2026/07/19/cooler-headlines-warmer-market/",
       "source": "BizWest",
       "pub_date": "2026-07-19T18:39:12+00:00",
-      "age_hours": 8.490178834722222,
+      "age_hours": 10.626533010000001,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Target prepares to open as Firestone mulls Central Park future",
       "link": "https://bizwest.com/2026/07/19/target-prepares-to-open-as-firestone-mulls-central-park-future/",
       "source": "BizWest",
       "pub_date": "2026-07-19T17:30:06+00:00",
-      "age_hours": 9.641846002777777,
+      "age_hours": 11.778200186388888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Carman: RTD is a mess, but even discussing the elimination of the 16th Street Shuttle is absurd",
       "link": "https://coloradosun.com/2026/07/19/denver-rtd-transportation-opinion-carman/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-19T09:02:00+00:00",
-      "age_hours": 18.11069160222222,
+      "age_hours": 20.246870285555556,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Big GOP names address rumors they want to challenge Gov. Lamm | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/07/18/big-gop-names-address-rumors-they-want-to-challenge-gov-lamm-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-18T11:00:00+00:00",
-      "age_hours": 40.14493953972222,
+      "age_hours": 42.28079107166666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://coloradosun.com/2026/07/18/colorado-homeowners-insurance-discounts-mitigation-hail/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-18T10:00:00+00:00",
-      "age_hours": 41.14402503083333,
+      "age_hours": 43.28020370138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://www.cpr.org/2026/07/18/denver-french-immersion-charter-school/",
       "source": "CPR",
       "pub_date": "2026-07-18T10:00:00+00:00",
-      "age_hours": 41.14418598805556,
+      "age_hours": 43.280274964166665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://www.westword.com/opinion/denver-homeless-housing-solution-long-term-gaps-40911447/",
       "source": "Westword",
       "pub_date": "2026-07-18T07:48:42-06:00",
-      "age_hours": 37.33306763472222,
+      "age_hours": 39.468921789999996,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://www.westword.com/food-drink/new-sushi-spots-denver-restaurant-openings-and-closings-40912261/",
       "source": "Westword",
       "pub_date": "2026-07-18T07:12:39-06:00",
-      "age_hours": 37.93390112416667,
+      "age_hours": 40.069755265000005,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/17/bergeron-when-a-community-solution-needs-a-community-commitment/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:42:37+00:00",
-      "age_hours": 52.43323493027778,
+      "age_hours": 54.56958911416667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/17/social-venture-partners-sees-ceos-sabbatical-as-lesson-in-sustainable-leadership/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:25:32+00:00",
-      "age_hours": 52.717957185,
+      "age_hours": 54.854311368611114,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/07/17/houska-automotive-donates-16th-vehicle-for-project-self-sufficiency/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:20:41+00:00",
-      "age_hours": 52.79879055777778,
+      "age_hours": 54.935144738055556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/17/campaign-launched-to-redirect-1-billion-in-tabor-refunds-to-education/",
       "source": "CO Politics",
       "pub_date": "2026-07-17T22:02:50+00:00",
-      "age_hours": 53.09771736305555,
+      "age_hours": 55.233568894166666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/07/17/williams-village-sprouts-to-close-in-september/",
       "source": "BizWest",
       "pub_date": "2026-07-17T21:50:38+00:00",
-      "age_hours": 53.299623921944445,
+      "age_hours": 55.43597810111111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/17/larger-part-of-greeley-student-apartment-complex-sells-for-16-7m/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:49:23+00:00",
-      "age_hours": 54.320457284166665,
+      "age_hours": 56.45681146305556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/07/17/last-mile-education-fund-launches-transportation-initiative/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:27:24+00:00",
-      "age_hours": 54.68684617833333,
+      "age_hours": 56.82320035722222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/07/17/boulder-county-opens-applications-for-8-5m-in-nonprofit-grants/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:08:43+00:00",
-      "age_hours": 54.99823509388889,
+      "age_hours": 57.134589275833335,
       "breaking": false,
       "time_ago": "2 days ago"
     }
