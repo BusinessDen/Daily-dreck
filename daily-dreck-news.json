@@ -1,69 +1,78 @@
 {
   "fetched_date": "2026-07-20",
-  "fetched_at": "2026-07-20 01:42:33",
+  "fetched_at": "2026-07-20 03:08:54",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Brush fire near Denver cemetery quickly contained by crews amid extreme heat",
+      "link": "https://kdvr.com/news/local/brush-fire-near-denver-cemetery-quickly-contained-by-crews-amid-extreme-heat/",
+      "source": "Fox31",
+      "pub_date": "2026-07-20T02:52:18+00:00",
+      "age_hours": 0.2729078730555556,
+      "breaking": true,
+      "time_ago": "16 min ago"
+    },
     {
       "title": "Paying cash without pennies is confusing. That could soon change",
       "link": "https://kdvr.com/news/nationalworld-news/paying-cash-without-pennies-is-confusing-that-could-soon-change/",
       "source": "Fox31",
       "pub_date": "2026-07-19T23:22:31+00:00",
-      "age_hours": 2.3301970569444443,
+      "age_hours": 3.7692968455555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "1 dead in double shooting near Congress Park: Police",
       "link": "https://kdvr.com/news/local/1-dead-in-double-shooting-near-congress-park-police/",
       "source": "Fox31",
       "pub_date": "2026-07-19T20:27:40+00:00",
-      "age_hours": 5.244363656666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.683463385277777,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Man injured Saturday in shooting during dispute at northwest Aurora apartment",
       "link": "https://sentinelcolorado.com/metro/man-injured-saturday-in-shooting-during-dispute-at-northwest-aurora-apartment/",
       "source": "Sentinel",
       "pub_date": "2026-07-19T20:01:24+00:00",
-      "age_hours": 5.682496662777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.121669451111111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Cooler headlines, warmer market",
       "link": "https://bizwest.com/2026/07/19/cooler-headlines-warmer-market/",
       "source": "BizWest",
       "pub_date": "2026-07-19T18:39:12+00:00",
-      "age_hours": 7.050111364166667,
+      "age_hours": 8.490178834722222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Target prepares to open as Firestone mulls Central Park future",
       "link": "https://bizwest.com/2026/07/19/target-prepares-to-open-as-firestone-mulls-central-park-future/",
       "source": "BizWest",
       "pub_date": "2026-07-19T17:30:06+00:00",
-      "age_hours": 8.201778406666667,
+      "age_hours": 9.641846002777777,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Carman: RTD is a mess, but even discussing the elimination of the 16th Street Shuttle is absurd",
       "link": "https://coloradosun.com/2026/07/19/denver-rtd-transportation-opinion-carman/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-19T09:02:00+00:00",
-      "age_hours": 16.6706022825,
+      "age_hours": 18.11069160222222,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Big GOP names address rumors they want to challenge Gov. Lamm | A LOOK BACK",
       "link": "https://www.coloradopolitics.com/2026/07/18/big-gop-names-address-rumors-they-want-to-challenge-gov-lamm-a-look-back/",
       "source": "CO Politics",
       "pub_date": "2026-07-18T11:00:00+00:00",
-      "age_hours": 38.70579094861111,
+      "age_hours": 40.14493953972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://coloradosun.com/2026/07/18/colorado-homeowners-insurance-discounts-mitigation-hail/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-18T10:00:00+00:00",
-      "age_hours": 39.70393568027777,
+      "age_hours": 41.14402503083333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.cpr.org/2026/07/18/denver-french-immersion-charter-school/",
       "source": "CPR",
       "pub_date": "2026-07-18T10:00:00+00:00",
-      "age_hours": 39.70519650833334,
+      "age_hours": 41.14418598805556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.westword.com/opinion/denver-homeless-housing-solution-long-term-gaps-40911447/",
       "source": "Westword",
       "pub_date": "2026-07-18T07:48:42-06:00",
-      "age_hours": 35.893958704444444,
+      "age_hours": 37.33306763472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://www.westword.com/food-drink/new-sushi-spots-denver-restaurant-openings-and-closings-40912261/",
       "source": "Westword",
       "pub_date": "2026-07-18T07:12:39-06:00",
-      "age_hours": 36.494792132777775,
+      "age_hours": 37.93390112416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/17/bergeron-when-a-community-solution-needs-a-community-commitment/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:42:37+00:00",
-      "age_hours": 50.993167328055556,
+      "age_hours": 52.43323493027778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/17/social-venture-partners-sees-ceos-sabbatical-as-lesson-in-sustainable-leadership/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:25:32+00:00",
-      "age_hours": 51.27788957527778,
+      "age_hours": 52.717957185,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://bizwest.com/2026/07/17/houska-automotive-donates-16th-vehicle-for-project-self-sufficiency/",
       "source": "BizWest",
       "pub_date": "2026-07-17T22:20:41+00:00",
-      "age_hours": 51.35872293777778,
+      "age_hours": 52.79879055777778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/17/campaign-launched-to-redirect-1-billion-in-tabor-refunds-to-education/",
       "source": "CO Politics",
       "pub_date": "2026-07-17T22:02:50+00:00",
-      "age_hours": 51.658568754444445,
+      "age_hours": 53.09771736305555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/07/17/williams-village-sprouts-to-close-in-september/",
       "source": "BizWest",
       "pub_date": "2026-07-17T21:50:38+00:00",
-      "age_hours": 51.859556294444445,
+      "age_hours": 53.299623921944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/17/larger-part-of-greeley-student-apartment-complex-sells-for-16-7m/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:49:23+00:00",
-      "age_hours": 52.88038965055556,
+      "age_hours": 54.320457284166665,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/07/17/last-mile-education-fund-launches-transportation-initiative/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:27:24+00:00",
-      "age_hours": 53.246778543333335,
+      "age_hours": 54.68684617833333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/07/17/boulder-county-opens-applications-for-8-5m-in-nonprofit-grants/",
       "source": "BizWest",
       "pub_date": "2026-07-17T20:08:43+00:00",
-      "age_hours": 53.5581674525,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Leftovers: El Chingon finally returns, fire shuts down a popular farm",
-      "link": "https://www.westword.com/food-drink/el-chingon-returns-fire-shutters-farm-40912190/",
-      "source": "Westword",
-      "pub_date": "2026-07-17T14:30:23-06:00",
-      "age_hours": 53.19923664416667,
+      "age_hours": 54.99823509388889,
       "breaking": false,
       "time_ago": "2 days ago"
     }
