@@ -1,141 +1,141 @@
 {
   "fetched_date": "2026-07-21",
-  "fetched_at": "2026-07-21 16:33:04",
+  "fetched_at": "2026-07-21 17:32:30",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "5K on Denver airport runway sells out in 6 hours",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/5k-race-on-runway-denver-airport/73-f3bc2c62-7cbd-4f9d-899e-f9dc443ec2f9",
+      "source": "9News",
+      "pub_date": "2026-07-21T17:23:26+00:00",
+      "age_hours": 0.1463345175,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
     {
       "title": "$1 million Powerball ticket sold in Colorado",
       "link": "https://www.9news.com/article/news/lottery/powerball-ticket-one-million-winners-jackpot/73-b1547db4-e0cf-43a6-b80d-9b134c4f5529",
       "source": "9News",
       "pub_date": "2026-07-21T14:23:52+00:00",
-      "age_hours": 2.14799936,
+      "age_hours": 3.139112363611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver International Airport to host '5K on the Runway'",
       "link": "https://kdvr.com/denver-guide/denver-international-airport-to-host-5k-on-the-runway/",
       "source": "Fox31",
       "pub_date": "2026-07-21T13:54:30+00:00",
-      "age_hours": 2.6376594155555555,
+      "age_hours": 3.628894366388889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Ultra Lounge owner calls shooting 'senseless violence', says he will help push for change",
       "link": "https://www.9news.com/article/news/crime/9-people-shot-denver-hampden-avenue/73-5a127c06-4dc7-4696-8ec3-faa237023235",
       "source": "9News",
       "pub_date": "2026-07-21T13:30:03+00:00",
-      "age_hours": 3.044943829722222,
+      "age_hours": 4.036056821944444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Front Range Passenger Rail plan outlines Broncos, Summit FC train stations",
       "link": "https://www.9news.com/article/life/style/colorado-guide/front-range-passenger-rail-plan/73-73a53998-0d43-44ea-a8d0-033b63893d97",
       "source": "9News",
       "pub_date": "2026-07-21T12:23:40+00:00",
-      "age_hours": 4.151332738055555,
+      "age_hours": 5.142445729722223,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Region\u2019s jobless rate inches upward",
       "link": "https://bizwest.com/2026/07/21/regions-jobless-rate-inches-upward/",
       "source": "BizWest",
       "pub_date": "2026-07-21T11:47:21+00:00",
-      "age_hours": 4.755785987222223,
+      "age_hours": 5.746946439444445,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Museum to use $1.5M grant for north Boulder project",
       "link": "https://bizwest.com/2026/07/21/museum-to-use-1-5m-grant-for-north-boulder-project/",
       "source": "BizWest",
       "pub_date": "2026-07-21T11:40:11+00:00",
-      "age_hours": 4.875230988333334,
+      "age_hours": 5.866391393611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Broomfield\u2019s Leap wins big leap in SBIR grant",
       "link": "https://bizwest.com/2026/07/21/broomfields-leap-wins-big-leap-in-sbir-grant/",
       "source": "BizWest",
       "pub_date": "2026-07-21T11:33:54+00:00",
-      "age_hours": 4.9799532186111115,
+      "age_hours": 5.971113624166667,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Keeping coal plants open in Colorado could cost $87M, with consumers paying the tab",
       "link": "https://coloradosun.com/2026/07/21/coal-fired-power-plants-colorado-cost-emergency-order/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-21T10:21:00+00:00",
-      "age_hours": 6.195522680833333,
+      "age_hours": 7.186551363055556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "How would a Front Range train work, what would it cost, and when would it start?",
       "link": "https://coloradosun.com/2026/07/21/front-range-rail-potential-vote-sales-tax-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-21T10:08:00+00:00",
-      "age_hours": 6.412189371111111,
+      "age_hours": 7.403218051111112,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Dirt bike, e-motorcycle riders cause headaches for Broadway community",
       "link": "https://kdvr.com/news/local/dirt-bike-e-motorcycle-riders-cause-headaches-for-broadway-community/",
       "source": "Fox31",
       "pub_date": "2026-07-21T03:24:36+00:00",
-      "age_hours": 13.135992875000001,
+      "age_hours": 14.127227815,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Potential changes to nightclub licensing postponed after early morning club shooting",
       "link": "https://www.9news.com/article/news/latest-news-ott/nightclub-licensing-changes-postponed-after-early-morning-club-shooting/73-544218a1-ee13-4156-b88a-ce4b94f01ade",
       "source": "9News",
       "pub_date": "2026-07-21T01:34:45+00:00",
-      "age_hours": 14.966610543611111,
+      "age_hours": 15.95772353,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Procession honors fallen Gold Mountain Fire pilot on route from Montrose to Denver airport",
       "link": "https://www.9news.com/article/news/local/procession-honors-fallen-pilot-nicholas-dale/73-ead072ac-cbec-4bf3-9606-1493d2d402df",
       "source": "9News",
       "pub_date": "2026-07-21T00:26:19+00:00",
-      "age_hours": 16.1071661575,
+      "age_hours": 17.098279148055557,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "FDA: Cyclospora outbreak data still points to Taylor Farms lettuce after false positive sample",
       "link": "https://www.9news.com/article/news/nation-world/taylor-farms-statement-fda-cyclospora-finding-false-positive/507-b0310ba9-a883-45a4-9405-228939e3c8cc",
       "source": "9News",
       "pub_date": "2026-07-20T22:36:22+00:00",
-      "age_hours": 17.93966621138889,
+      "age_hours": 18.93077920611111,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "UCHealth buys Denver metro office buildings for $19.4M",
       "link": "https://www.9news.com/article/money/markets/real-estate/uchealth-denver-metro-office-buildings/73-c6d00061-c3f7-42b5-8830-9747b5fd28cc",
       "source": "9News",
       "pub_date": "2026-07-20T22:35:19+00:00",
-      "age_hours": 17.957166219444446,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "A double charge glitched a man's account. Public Storage threatened to auction his stuff.",
-      "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-public-storage-billing-issue/73-b5afeebe-dadc-43e5-a966-03d353291387",
-      "source": "9News",
-      "pub_date": "2026-07-20T22:24:12+00:00",
-      "age_hours": 18.142444025555555,
+      "age_hours": 18.948279213611112,
       "breaking": false,
       "time_ago": "18 hrs ago"
     },
@@ -144,45 +144,45 @@
       "link": "https://www.coloradopolitics.com/2026/07/20/aurora-church-tied-to-group-that-exploited-homeless-people-is-under-scrutiny/",
       "source": "CO Politics",
       "pub_date": "2026-07-20T21:58:32+00:00",
-      "age_hours": 18.570801083888888,
+      "age_hours": 19.561983666944446,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Greeley seeks Weld County backing for Catalyst project",
       "link": "https://bizwest.com/2026/07/20/greeley-seeks-weld-county-backing-for-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-07-20T21:33:04+00:00",
-      "age_hours": 18.99384214333333,
+      "age_hours": 19.98500254777778,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Detailed rail plan vows service by 2029; tax hike would expand it",
       "link": "https://bizwest.com/2026/07/20/detailed-rail-plan-vows-service-by-2029-tax-hike-would-expand-it/",
       "source": "BizWest",
       "pub_date": "2026-07-20T21:21:24+00:00",
-      "age_hours": 19.188286619722223,
+      "age_hours": 20.179447024166667,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Aurora updating housing strategy, seeking residents input",
       "link": "https://www.coloradopolitics.com/2026/07/20/aurora-updating-housing-strategy-seeking-residents-input/",
       "source": "CO Politics",
       "pub_date": "2026-07-20T21:04:43+00:00",
-      "age_hours": 19.46774562777778,
+      "age_hours": 20.458928209166665,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Intrado adds CEO as Longmont firm seeks to modernize emergency response",
       "link": "https://bizwest.com/2026/07/20/intrado-adds-ceo-as-longmont-firm-seeks-to-modernize-emergency-response/",
       "source": "BizWest",
       "pub_date": "2026-07-20T20:19:53+00:00",
-      "age_hours": 20.21356443138889,
+      "age_hours": 21.204724835,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     }
   ]
 }
