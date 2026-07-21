@@ -1,42 +1,69 @@
 {
   "fetched_date": "2026-07-21",
-  "fetched_at": "2026-07-21 21:28:14",
+  "fetched_at": "2026-07-21 22:20:55",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 17,
   "articles": [
+    {
+      "title": "Police: Suspect connected to shooting fled officers before 16th Street bus crash",
+      "link": "https://kdvr.com/news/local/police-suspect-connected-to-shooting-fled-officers-before-16th-street-bus-crash/",
+      "source": "Fox31",
+      "pub_date": "2026-07-21T21:40:00+00:00",
+      "age_hours": 0.6780831630555556,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Innosphere: Front Range leads peer regions in venture activity",
+      "link": "https://bizwest.com/2026/07/21/innosphere-front-range-leads-peer-regions-in-venture-activity/",
+      "source": "BizWest",
+      "pub_date": "2026-07-21T21:39:53+00:00",
+      "age_hours": 0.6791416261111111,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Fort Collins council to hear debate over paid-parking plan",
+      "link": "https://bizwest.com/2026/07/21/fort-collins-council-to-hear-debate-over-paid-parking-plan/",
+      "source": "BizWest",
+      "pub_date": "2026-07-21T21:37:19+00:00",
+      "age_hours": 0.7219199844444444,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
     {
       "title": "5 area breweries win medals at U.S. Open Beer Championship",
       "link": "https://bizwest.com/2026/07/21/5-area-breweries-win-medals-at-u-s-open-beer-championship/",
       "source": "BizWest",
       "pub_date": "2026-07-21T21:25:17+00:00",
-      "age_hours": 0.04368083805555555,
+      "age_hours": 0.922475575,
       "breaking": true,
-      "time_ago": "2 min ago"
+      "time_ago": "55 min ago"
     },
     {
       "title": "Denver police arrest suspect in deadly shooting incident",
       "link": "https://kdvr.com/news/local/denver-police-arrest-suspect-in-deadly-shooting-incident/",
       "source": "Fox31",
       "pub_date": "2026-07-21T20:40:05+00:00",
-      "age_hours": 0.7980229886111111,
+      "age_hours": 1.6766943325,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aldi eyes location in suburb north of Denver",
       "link": "https://www.9news.com/article/news/local/aldi-thornton-colorado-store-proposal/73-fe381b28-9ea3-4166-9e4a-6a910c72d6a9",
       "source": "9News",
       "pub_date": "2026-07-21T20:39:37+00:00",
-      "age_hours": 0.80548581,
+      "age_hours": 1.6841442019444446,
       "breaking": true,
-      "time_ago": "48 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Arapahoe County commissioner to hold water supply community forum in Aurora Aug. 1",
       "link": "https://sentinelcolorado.com/metro/arapahoe-county-commissioner-to-hold-water-supply-community-forum-in-aurora-aug-1/",
       "source": "Sentinel",
       "pub_date": "2026-07-21T20:23:17+00:00",
-      "age_hours": 1.0787074977777777,
+      "age_hours": 1.956875325,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,43 +72,43 @@
       "link": "https://www.coloradopolitics.com/2026/07/21/hegseth-questioned-by-senators-over-funding-for-the-iran-war/",
       "source": "CO Politics",
       "pub_date": "2026-07-21T19:53:35+00:00",
-      "age_hours": 1.5736774341666668,
+      "age_hours": 2.451845938055556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Major healthcare providers to merge Denver operations",
       "link": "https://www.9news.com/article/news/local/advent-health-intermountain-health-merger/73-c485328a-bc47-4b36-935d-fe73f811ee1a",
       "source": "9News",
       "pub_date": "2026-07-21T19:51:28+00:00",
-      "age_hours": 1.6079858830555556,
+      "age_hours": 2.4866442791666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Elder group home indictment includes incident with bound resident, person hanging from roof",
       "link": "https://sentinelcolorado.com/metro/elder-group-home-indictment-includes-incident-with-bound-resident-person-hanging-from-roof/",
       "source": "Sentinel",
       "pub_date": "2026-07-21T19:43:00+00:00",
-      "age_hours": 1.7500967491666666,
+      "age_hours": 2.6282645541666665,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "5 new state-funded housing projects are coming to Denver",
       "link": "https://denverite.com/2026/07/21/denver-five-state-funded-housing-projects/",
       "source": "Denverite",
       "pub_date": "2026-07-21T19:39:02+00:00",
-      "age_hours": 1.8151595861111112,
+      "age_hours": 2.6937536300000002,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "AdventHealth, Intermountain Health to combine area services",
       "link": "https://bizwest.com/2026/07/21/adventhealth-intermountain-health-to-combine-area-services/",
       "source": "BizWest",
       "pub_date": "2026-07-21T19:26:26+00:00",
-      "age_hours": 2.0245147375,
+      "age_hours": 2.9033089444444444,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -90,25 +117,25 @@
       "link": "https://milehighcre.com/adaptive-reuse-a-steamboat-developers-answer-to-a-billion-dollar-building-boom/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-21T18:50:43+00:00",
-      "age_hours": 2.6203042691666667,
+      "age_hours": 3.4988993777777777,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "12 Colorado Companies Named Among Nation\u2019s Top Solar Contractors in 2026",
       "link": "https://milehighcre.com/12-colorado-companies-named-among-nations-top-solar-contractors-in-2026/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-21T18:41:04+00:00",
-      "age_hours": 2.781137618888889,
+      "age_hours": 3.65973273,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Former Nugget arrested for allegedly stealing vodka",
       "link": "https://kdvr.com/news/local/former-nugget-arrested-for-allegedly-stealing-vodka/",
       "source": "Fox31",
       "pub_date": "2026-07-21T18:25:55+00:00",
-      "age_hours": 3.0341340283333333,
+      "age_hours": 3.9128053144444443,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -117,7 +144,7 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/5k-race-on-runway-denver-airport/73-f3bc2c62-7cbd-4f9d-899e-f9dc443ec2f9",
       "source": "9News",
       "pub_date": "2026-07-21T17:23:26+00:00",
-      "age_hours": 4.0752081788888885,
+      "age_hours": 4.953866566388889,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -126,7 +153,7 @@
       "link": "https://www.9news.com/article/news/lottery/powerball-ticket-one-million-winners-jackpot/73-b1547db4-e0cf-43a6-b80d-9b134c4f5529",
       "source": "9News",
       "pub_date": "2026-07-21T14:23:52+00:00",
-      "age_hours": 7.067986000555556,
+      "age_hours": 7.946644387777777,
       "breaking": false,
       "time_ago": "7 hrs ago"
     },
@@ -135,54 +162,27 @@
       "link": "https://www.westword.com/food-drink/the-breckenridge-restaurant-scene-reaches-new-heights-40911745/",
       "source": "Westword",
       "pub_date": "2026-07-21T14:00:00-06:00",
-      "age_hours": 1.466313143611111,
+      "age_hours": 2.344766833611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver International Airport to host '5K on the Runway'",
       "link": "https://kdvr.com/denver-guide/denver-international-airport-to-host-5k-on-the-runway/",
       "source": "Fox31",
       "pub_date": "2026-07-21T13:54:30+00:00",
-      "age_hours": 7.557745259722223,
+      "age_hours": 8.43641659638889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Ultra Lounge owner calls shooting 'senseless violence', says he will help push for change",
       "link": "https://www.9news.com/article/news/crime/9-people-shot-denver-hampden-avenue/73-5a127c06-4dc7-4696-8ec3-faa237023235",
       "source": "9News",
       "pub_date": "2026-07-21T13:30:03+00:00",
-      "age_hours": 7.96493046,
+      "age_hours": 8.843588847777777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Front Range Passenger Rail plan outlines Broncos, Summit FC train stations",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/front-range-passenger-rail-plan/73-73a53998-0d43-44ea-a8d0-033b63893d97",
-      "source": "9News",
-      "pub_date": "2026-07-21T12:23:40+00:00",
-      "age_hours": 9.071319361666667,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Region\u2019s jobless rate inches upward",
-      "link": "https://bizwest.com/2026/07/21/regions-jobless-rate-inches-upward/",
-      "source": "BizWest",
-      "pub_date": "2026-07-21T11:47:21+00:00",
-      "age_hours": 9.675903666944444,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Museum to use $1.5M grant for north Boulder project",
-      "link": "https://bizwest.com/2026/07/21/museum-to-use-1-5m-grant-for-north-boulder-project/",
-      "source": "BizWest",
-      "pub_date": "2026-07-21T11:40:11+00:00",
-      "age_hours": 9.795348142222222,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
