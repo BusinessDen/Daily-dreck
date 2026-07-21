@@ -1,78 +1,69 @@
 {
   "fetched_date": "2026-07-21",
-  "fetched_at": "2026-07-21 12:36:25",
+  "fetched_at": "2026-07-21 13:34:53",
   "article_count": 20,
   "breaking_count": 6,
   "articles": [
+    {
+      "title": "Ultra Lounge owner calls shooting 'senseless violence', says he will help push for change",
+      "link": "https://www.9news.com/article/news/crime/9-people-shot-denver-hampden-avenue/73-5a127c06-4dc7-4696-8ec3-faa237023235",
+      "source": "9News",
+      "pub_date": "2026-07-21T13:30:03+00:00",
+      "age_hours": 0.0760407825,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
     {
       "title": "Front Range Passenger Rail plan outlines Broncos, Summit FC train stations",
       "link": "https://www.9news.com/article/life/style/colorado-guide/front-range-passenger-rail-plan/73-73a53998-0d43-44ea-a8d0-033b63893d97",
       "source": "9News",
       "pub_date": "2026-07-21T12:23:40+00:00",
-      "age_hours": 0.20748131694444444,
+      "age_hours": 1.1824297122222223,
       "breaking": true,
-      "time_ago": "12 min ago"
-    },
-    {
-      "title": "Dark money, claims of racism continue to cloud Aurora Democratic primary legislative race",
-      "link": "https://sentinelcolorado.com/metro/dark-money-claims-of-racism-continue-to-cloud-aurora-democratic-primary-legislative-race/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-21T12:11:26+00:00",
-      "age_hours": 0.41219693888888886,
-      "breaking": true,
-      "time_ago": "24 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Region\u2019s jobless rate inches upward",
       "link": "https://bizwest.com/2026/07/21/regions-jobless-rate-inches-upward/",
       "source": "BizWest",
       "pub_date": "2026-07-21T11:47:21+00:00",
-      "age_hours": 0.8121643963888889,
+      "age_hours": 1.7870949374999998,
       "breaking": true,
-      "time_ago": "48 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Museum to use $1.5M grant for north Boulder project",
       "link": "https://bizwest.com/2026/07/21/museum-to-use-1-5m-grant-for-north-boulder-project/",
       "source": "BizWest",
       "pub_date": "2026-07-21T11:40:11+00:00",
-      "age_hours": 0.9316093444444444,
+      "age_hours": 1.9065399047222222,
       "breaking": true,
-      "time_ago": "55 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Broomfield\u2019s Leap wins big leap in SBIR grant",
       "link": "https://bizwest.com/2026/07/21/broomfields-leap-wins-big-leap-in-sbir-grant/",
       "source": "BizWest",
       "pub_date": "2026-07-21T11:33:54+00:00",
-      "age_hours": 1.0363315752777778,
+      "age_hours": 2.011262136111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Keeping coal plants open in Colorado could cost $87M, with consumers paying the tab",
       "link": "https://coloradosun.com/2026/07/21/coal-fired-power-plants-colorado-cost-emergency-order/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-21T10:21:00+00:00",
-      "age_hours": 2.2517980441666667,
+      "age_hours": 3.2267375838888888,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Dirt bike, e-motorcycle riders cause headaches for Broadway community",
       "link": "https://kdvr.com/news/local/dirt-bike-e-motorcycle-riders-cause-headaches-for-broadway-community/",
       "source": "Fox31",
       "pub_date": "2026-07-21T03:24:36+00:00",
-      "age_hours": 9.192336284444444,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "GEO ICE jail worker slated for court Wednesday following shooting of Aurora protester",
-      "link": "https://sentinelcolorado.com/metro/geo-ice-jail-worker-slated-for-court-wednesday-following-shooting-of-aurora-protester/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-21T01:40:15+00:00",
-      "age_hours": 10.931919564722222,
+      "age_hours": 10.167162580833333,
       "breaking": false,
       "time_ago": "10 hrs ago"
     },
@@ -81,16 +72,7 @@
       "link": "https://www.9news.com/article/news/latest-news-ott/nightclub-licensing-changes-postponed-after-early-morning-club-shooting/73-544218a1-ee13-4156-b88a-ce4b94f01ade",
       "source": "9News",
       "pub_date": "2026-07-21T01:34:45+00:00",
-      "age_hours": 11.022759144722222,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Emergency lane closures in Aurora due to damaged sanitary sewer line",
-      "link": "https://sentinelcolorado.com/metro/emergency-lane-closures-in-aurora-due-to-damaged-sanitary-sewer-line/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-21T00:53:21+00:00",
-      "age_hours": 11.713586624722222,
+      "age_hours": 11.997707533055555,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -99,25 +81,25 @@
       "link": "https://www.9news.com/article/news/local/procession-honors-fallen-pilot-nicholas-dale/73-ead072ac-cbec-4bf3-9606-1493d2d402df",
       "source": "9News",
       "pub_date": "2026-07-21T00:26:19+00:00",
-      "age_hours": 12.163314756388889,
+      "age_hours": 13.138263138611112,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "FDA: Cyclospora outbreak data still points to Taylor Farms lettuce after false positive sample",
       "link": "https://www.9news.com/article/news/nation-world/taylor-farms-statement-fda-cyclospora-finding-false-positive/507-b0310ba9-a883-45a4-9405-228939e3c8cc",
       "source": "9News",
       "pub_date": "2026-07-20T22:36:22+00:00",
-      "age_hours": 13.995814816666668,
+      "age_hours": 14.970763190555555,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "UCHealth buys Denver metro office buildings for $19.4M",
       "link": "https://www.9news.com/article/money/markets/real-estate/uchealth-denver-metro-office-buildings/73-c6d00061-c3f7-42b5-8830-9747b5fd28cc",
       "source": "9News",
       "pub_date": "2026-07-20T22:35:19+00:00",
-      "age_hours": 14.013314824722222,
+      "age_hours": 14.988263198611111,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -126,63 +108,81 @@
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-public-storage-billing-issue/73-b5afeebe-dadc-43e5-a966-03d353291387",
       "source": "9News",
       "pub_date": "2026-07-20T22:24:12+00:00",
-      "age_hours": 14.198592646388889,
+      "age_hours": 15.173541005555556,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Aurora church tied to group that exploited homeless people is under scrutiny",
       "link": "https://www.coloradopolitics.com/2026/07/20/aurora-church-tied-to-group-that-exploited-homeless-people-is-under-scrutiny/",
       "source": "CO Politics",
       "pub_date": "2026-07-20T21:58:32+00:00",
-      "age_hours": 14.627039996944445,
+      "age_hours": 15.601839682222222,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Greeley seeks Weld County backing for Catalyst project",
       "link": "https://bizwest.com/2026/07/20/greeley-seeks-weld-county-backing-for-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-07-20T21:33:04+00:00",
-      "age_hours": 15.050220499166667,
+      "age_hours": 16.025151064444444,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Detailed rail plan vows service by 2029; tax hike would expand it",
       "link": "https://bizwest.com/2026/07/20/detailed-rail-plan-vows-service-by-2029-tax-hike-would-expand-it/",
       "source": "BizWest",
       "pub_date": "2026-07-20T21:21:24+00:00",
-      "age_hours": 15.244664976944446,
+      "age_hours": 16.21959554111111,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Boys Swimming: Swimmers from four Aurora area programs land NISCA All-American recognition",
-      "link": "https://sentinelcolorado.com/sports/preps/boys-swimming/boys-swimming-swimmers-from-four-aurora-area-programs-land-nisca-all-american-recognition/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-20T20:58:11+00:00",
-      "age_hours": 15.633031179166666,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Intrado adds CEO as Longmont firm seeks to modernize emergency response",
       "link": "https://bizwest.com/2026/07/20/intrado-adds-ceo-as-longmont-firm-seeks-to-modernize-emergency-response/",
       "source": "BizWest",
       "pub_date": "2026-07-20T20:19:53+00:00",
-      "age_hours": 16.26994278888889,
+      "age_hours": 17.244873351666666,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
-      "title": "Four GEO ICE protesters arrested during die-in at ICE field office in Centennial",
-      "link": "https://sentinelcolorado.com/0trending/four-geo-ice-protesters-arrested-during-die-in-at-ice-field-office-in-centennial/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-20T20:15:29+00:00",
-      "age_hours": 16.344697865833332,
+      "title": "DigitalOcean to swap debt for stock to deleverage balance sheet",
+      "link": "https://bizwest.com/2026/07/20/digitalocean-to-swap-debt-for-stock-to-deleverage-balance-sheet/",
+      "source": "BizWest",
+      "pub_date": "2026-07-20T20:14:04+00:00",
+      "age_hours": 17.341817826944446,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
+    },
+    {
+      "title": "Man arrested in $1.1M construction fraud investigation",
+      "link": "https://kdvr.com/news/man-arrested-in-1-1m-construction-fraud-investigation/",
+      "source": "Fox31",
+      "pub_date": "2026-07-20T20:05:29+00:00",
+      "age_hours": 17.48577376638889,
+      "breaking": false,
+      "time_ago": "17 hrs ago"
+    },
+    {
+      "title": "Contract OK\u2019d for Nunn as new Estes fire chief",
+      "link": "https://bizwest.com/2026/07/20/contract-okd-for-nunn-as-new-estes-fire-chief/",
+      "source": "BizWest",
+      "pub_date": "2026-07-20T19:59:39+00:00",
+      "age_hours": 17.5820956325,
+      "breaking": false,
+      "time_ago": "17 hrs ago"
+    },
+    {
+      "title": "Denver police chief calls violent weekend with 15 shooting victims 'unusual'",
+      "link": "https://kdvr.com/news/local/denver-police-chief-calls-violent-weekend-with-15-shooting-victims-unusual/",
+      "source": "Fox31",
+      "pub_date": "2026-07-20T19:24:12+00:00",
+      "age_hours": 18.173829308333335,
+      "breaking": false,
+      "time_ago": "18 hrs ago"
     }
   ]
 }
