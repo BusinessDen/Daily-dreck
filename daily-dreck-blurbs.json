@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-07-20",
-  "lead_headline": "Restaurant tracker caught 8 new leads over the weekend \u2014 Ciao Babe opened at Avanti, Mother Other debuted on Broadway, while Pizzeria Lui and Church & Union both shuttered",
+  "generated_date": "2026-07-21",
+  "lead_headline": "Nothing new detected today after weekend's 8-lead haul \u2014 but Pizzeria Lui's 10-year run and Church & Union's 2-year stint both ended",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>8 new leads since Friday</strong> \u2014 Ciao Babe (Italian, Avanti), Mother Other (vegan, Baker), Sandomi (Japanese, Edgewater) opened; Pizzeria Lui (10 years), Church & Union, Enzo's on Colfax closed.",
+      "blurb": "<strong>Zero new leads today</strong> \u2014 tracker idle after Friday-Sunday logged 8 changes including Ciao Babe (Avanti), Mother Other (Baker), and closures of Pizzeria Lui, Church & Union.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+4",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22124",
-        "period": "since Friday"
+        "value2": "0",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong> as Monday morning starts quiet. Weekend brought <strong>2 status changes:</strong> Honey Elixir Lounge (2636 Walnut) upgraded from delinquent to active, HuHot Mongolian Grill (Northfield) dropped to delinquent. <strong>Weekly pace at 152 applications</strong> \u2014 down 44% from prior week's 274, confirming post-freeze surge has fully unwound. Metro licensing activity now tracking historical baseline.",
+      "blurb": "<strong>Monday silence continues:</strong> zero applications detected for second consecutive trading day as metro licensing activity tracks seasonal lull. <strong>Weekly count 152</strong> \u2014 half the prior week's 274, confirming January's license-freeze backlog fully cleared. No status changes today after weekend saw Honey Elixir Lounge (Walnut) upgrade from delinquent, HuHot Mongolian Grill (Northfield) downgrade to delinquent. Baseline pace restored.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,17 +59,17 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>2 mentions yesterday</strong> (Instagram dirt bike traffic stop, Facebook Urban Grocer coverage) as Sunday recovers from Saturday's single-mention low. <strong>Week closes at 63 mentions</strong> across 15 sources, down 21% from prior week's 80 \u2014 steepest weekly drop in recent tracking. Instagram leads at 18, Facebook 12, Reddit 9, Denver Post 8, Hoodline 5. Key pickups: Riot House lawsuit dismissal (Hoodline), weed grow closure, Wadsworth development dispute. Daily average 9.0 vs. prior week's 11.4 \u2014 the slide accelerates.",
+      "blurb": "<strong>5 mentions today</strong> led by Denver Post investor profile, Instagram SOL Mexican Cocina closure post, Facebook brewery relocation coverage. <strong>Week totals 71 mentions</strong> across 15 sources \u2014 down 7% from prior week's 76, marking third consecutive weekly decline. Instagram leads at 22, Facebook 12, Reddit 11, Denver Post 9, Hoodline 4. Notable pickups: neglected property analysis, construction roundup, artist commission inquiry. Daily average 10.1 vs. prior week's 10.9 \u2014 slide moderates but persists.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "2",
+        "value1": "5",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "63",
+        "value1": "71",
         "class1": "down",
         "label2": "sources",
         "value2": "15",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22127 since Friday</strong> (0 new, 7 canceled) as weekend delivers zero acquisitions for second consecutive day. MTD deepens to <strong>\u221223</strong> (\u22121.2/day), while 90-day net holds at <strong>+84</strong>. Past two weeks: 10 new vs. 39 canceled \u2014 3.9:1 churn ratio for \u221229 net, accelerating from prior fortnight's \u221210. July's first 20 days yield catastrophic 23 acquisitions against 46 cancellations. Zero-acquisition days now standard. YTD net +203 (+1.0/day) sustained solely by Q1-Q2 momentum, but July's trajectory threatens to erase Q2 entirely if pattern holds through month-end.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) \u2014 first positive day since July 16 stabilizes MTD at <strong>\u221228</strong> (\u22121.4/day). 90-day net holds at <strong>+81</strong>. Past 14 days: 26 new vs. 68 canceled for \u221242 net \u2014 2.6:1 churn ratio intensifies from prior fortnight's 1.9:1. July's 21 days yield 30 acquisitions against 58 cancellations, delivering monthly pace of \u22121.3/day vs. YTD's +1.0/day. Single positive day insufficient to reverse trend \u2014 pattern suggests Q2 gains eroding into Q3.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-23",
-      "net_ytd": "203",
-      "net_mtd_per_day": "-1.2",
+      "net_mtd": "-28",
+      "net_ytd": "198",
+      "net_mtd_per_day": "-1.4",
       "net_ytd_per_day": "1.0",
-      "annual_mtd": "-18",
-      "annual_ytd": "178",
-      "monthly_mtd": "-5",
-      "monthly_ytd": "25"
+      "annual_mtd": "-20",
+      "annual_ytd": "150",
+      "monthly_mtd": "-8",
+      "monthly_ytd": "48"
     }
   }
 }
