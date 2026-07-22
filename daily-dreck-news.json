@@ -1,51 +1,60 @@
 {
   "fetched_date": "2026-07-22",
-  "fetched_at": "2026-07-22 14:43:13",
+  "fetched_at": "2026-07-22 15:34:00",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Denver Summit FC releases updated stadium renderings",
+      "link": "https://www.9news.com/article/sports/soccer/denver-summit/denver-summit-fc-updated-stadium-renderings/73-c7195ba1-1756-40da-a76d-bdcfd5c456d7",
+      "source": "9News",
+      "pub_date": "2026-07-22T15:13:30+00:00",
+      "age_hours": 0.3373466955555556,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
     {
       "title": "Doja Cat's 'Tour Ma Vie' brings Grammy winner to Denver",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/doja-cat-north-america-tour/73-bc7cdfec-198a-443c-b0ef-96dee3ca420a",
       "source": "9News",
       "pub_date": "2026-07-22T14:28:35+00:00",
-      "age_hours": 0.23898542527777777,
+      "age_hours": 1.0859578330555555,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "1 lane of eastbound I-70 reopens near Georgetown after semi-truck fire",
       "link": "https://www.9news.com/article/traffic/vehicle-fire-near-georgetown/73-e95e945c-f8a9-43e8-95a1-32b8270a44c9",
       "source": "9News",
       "pub_date": "2026-07-22T14:10:03+00:00",
-      "age_hours": 0.547874355,
+      "age_hours": 1.3948467433333334,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/united-states-iran-war-strikes-missile-drone-target-attacks-diplomatic-deal/507-c8953336-644b-452d-b245-e1d810b6ccf9",
       "source": "9News",
       "pub_date": "2026-07-22T14:08:58+00:00",
-      "age_hours": 0.5659299558333334,
+      "age_hours": 1.4129023352777776,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Leadville's only public pool struggling to stay afloat amid wildfire season",
       "link": "https://www.9news.com/article/life/style/colorado-guide/leadville-pool-finances/73-cd1f1b9e-cd67-468c-9b24-9bb8ad174370",
       "source": "9News",
       "pub_date": "2026-07-22T13:58:21+00:00",
-      "age_hours": 0.7428744599999999,
+      "age_hours": 1.589846837222222,
       "breaking": true,
-      "time_ago": "44 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Gunbarrel flex space trades for nearly $5.3M",
       "link": "https://bizwest.com/2026/07/22/gunbarrel-flex-space-trades-for-nearly-5-3m/",
       "source": "BizWest",
       "pub_date": "2026-07-22T13:34:40+00:00",
-      "age_hours": 1.1369886122222221,
+      "age_hours": 1.9841343430555556,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -54,133 +63,124 @@
       "link": "https://bizwest.com/2026/07/22/noco-foundation-adds-three-to-board/",
       "source": "BizWest",
       "pub_date": "2026-07-22T13:25:37+00:00",
-      "age_hours": 1.287822523611111,
+      "age_hours": 2.1349682594444443,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Sundance Film Festival to recruit volunteers",
       "link": "https://bizwest.com/2026/07/22/sundance-film-festival-to-recruit-volunteers/",
       "source": "BizWest",
       "pub_date": "2026-07-22T13:18:18+00:00",
-      "age_hours": 1.4097669999999998,
+      "age_hours": 2.256912735833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Summit FC pushes back opening date for Denver stadium",
       "link": "https://www.9news.com/article/sports/soccer/denver-summit/summit-fc-opening-date-denver-stadium/73-353fcdd5-8c35-4fdf-a6f9-4e48deafa700",
       "source": "9News",
       "pub_date": "2026-07-22T12:05:03+00:00",
-      "age_hours": 2.631207814722222,
+      "age_hours": 3.4781801916666666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Campaign launched to redirect $1 billion in TABOR refunds to education",
       "link": "https://www.9news.com/article/news/local/local-politics/redirect-tabor-refunds-education/73-ca5b7585-7792-43a0-9b2d-bb9062beffd7",
       "source": "9News",
       "pub_date": "2026-07-22T10:32:02+00:00",
-      "age_hours": 4.181485622222222,
+      "age_hours": 5.028457997777777,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado Medicaid owes federal government at least $8 million for in-home disability care, audit finds",
       "link": "https://coloradosun.com/2026/07/22/medicaid-audit-colorado-disabilities/",
       "source": "Colorado Sun",
-      "pub_date": "2026-07-22T10:00:00+00:00",
-      "age_hours": 4.7152794036111105,
+      "pub_date": "2026-07-22T09:55:00+00:00",
+      "age_hours": 5.645518670833333,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver Mayor talks changes to childcare licensing and affordable housing in State of the City address",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-mayor-state-of-the-city-address-2026/73-81c99c36-a124-4fe8-adef-75acdbc9078a",
       "source": "9News",
       "pub_date": "2026-07-22T04:44:47+00:00",
-      "age_hours": 9.968985634444444,
+      "age_hours": 10.81595800611111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Johnston wants universal childcare in Denver (and 3 other things we heard at his big speech)",
       "link": "https://denverite.com/2026/07/21/denver-mayor-mike-johnston-state-of-the-city-2026/",
       "source": "Denverite",
       "pub_date": "2026-07-22T02:57:48+00:00",
-      "age_hours": 11.751997311111111,
+      "age_hours": 12.598967254444444,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Proposal to let Denver bars stay open until 4 a.m. would make nightlife safer: Official",
       "link": "https://kdvr.com/news/local/proposal-letting-denver-bars-be-open-until-4-a-m-would-make-nightlife-safer/",
       "source": "Fox31",
       "pub_date": "2026-07-22T02:48:27+00:00",
-      "age_hours": 11.908026893055556,
+      "age_hours": 12.755198581388887,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver's no-cost grocery store helps feed city's historically low-income neighborhood",
       "link": "https://www.9news.com/article/news/local/denver-no-cost-grocery-store-feeds-low-income-neighborhood/73-3f4c6699-dc0f-49b2-9b32-63df4865494f",
       "source": "9News",
       "pub_date": "2026-07-22T00:31:22+00:00",
-      "age_hours": 14.192596835,
+      "age_hours": 15.039569191944445,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Alleged drug dealers in Colorado arrested during federal operation",
       "link": "https://kdvr.com/news/local/alleged-drug-dealers-in-colorado-arrested-during-federal-operation/",
       "source": "Fox31",
       "pub_date": "2026-07-22T00:10:42+00:00",
-      "age_hours": 14.537193635833333,
+      "age_hours": 15.384365322777779,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Awarded Denver Urban Renewal Authority grants aim to improve historically overlooked Denver neighborhoods",
       "link": "https://www.denver7.com/news/local-news/awarded-denver-urban-renewal-authority-grants-aim-to-improve-historically-overlooked-denver-neighborhoods",
       "source": "Denver7",
       "pub_date": "2026-07-21T23:55:00+00:00",
-      "age_hours": 14.798839975277778,
+      "age_hours": 15.64582001027778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver restaurant that employs people with disabilities faces possible closure on South Broadway",
       "link": "https://www.denver7.com/news/local-news/denver-restaurant-that-employs-people-with-disabilities-faces-possible-closure-on-south-broadway",
       "source": "Denver7",
       "pub_date": "2026-07-21T23:30:13+00:00",
-      "age_hours": 15.211895540555554,
+      "age_hours": 16.058875575555554,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "$1 million Powerball ticket sold in Colorado",
-      "link": "https://www.9news.com/article/news/lottery/powerball-ticket-one-million-winners-jackpot/73-b1547db4-e0cf-43a6-b80d-9b134c4f5529",
-      "source": "9News",
-      "pub_date": "2026-07-21T23:17:02+00:00",
-      "age_hours": 15.431485786666668,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Denver renters have new option to help find healthy housing",
       "link": "https://kdvr.com/news/local/denver-renters-have-new-option-to-help-find-healthy-housing/",
       "source": "Fox31",
       "pub_date": "2026-07-21T22:56:11+00:00",
-      "age_hours": 15.779138244166667,
+      "age_hours": 16.62630993138889,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Police: Suspect connected to shooting fled officers before 16th Street bus crash",
       "link": "https://kdvr.com/news/local/police-suspect-connected-to-shooting-fled-officers-before-16th-street-bus-crash/",
       "source": "Fox31",
       "pub_date": "2026-07-21T21:40:00+00:00",
-      "age_hours": 17.048860370555555,
+      "age_hours": 17.896032057777777,
       "breaking": false,
       "time_ago": "17 hrs ago"
     }
