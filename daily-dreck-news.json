@@ -1,141 +1,141 @@
 {
   "fetched_date": "2026-07-23",
-  "fetched_at": "2026-07-23 14:47:57",
+  "fetched_at": "2026-07-23 15:41:27",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 5,
   "articles": [
     {
       "title": "Boulder opens applications for Arts Business Cohort",
       "link": "https://bizwest.com/2026/07/23/boulder-opens-applications-for-arts-business-cohort/",
       "source": "BizWest",
       "pub_date": "2026-07-23T14:23:29+00:00",
-      "age_hours": 0.4026918030555556,
+      "age_hours": 1.2939068994444445,
       "breaking": true,
-      "time_ago": "24 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "3 appointed to Upstate board",
       "link": "https://bizwest.com/2026/07/23/3-appointed-to-upstate-board/",
       "source": "BizWest",
       "pub_date": "2026-07-23T14:19:00+00:00",
-      "age_hours": 0.47741455527777776,
+      "age_hours": 1.3686295519444445,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Work to begin next week on downtown Greeley infrastructure project",
       "link": "https://bizwest.com/2026/07/23/work-to-begin-next-week-on-downtown-greeley-infrastructure-project/",
       "source": "BizWest",
       "pub_date": "2026-07-23T14:15:01+00:00",
-      "age_hours": 0.5438034808333333,
+      "age_hours": 1.4350184672222224,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "What to do in Colorado this week: 2 music festivals in Denver\u2019s RiNo and South Broadway neighborhoods",
       "link": "https://coloradosun.com/2026/07/23/whats-happening-blucifers-first-rodeo-underground-music-showcase-take-two/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-23T14:00:00+00:00",
-      "age_hours": 0.7943724252777777,
+      "age_hours": 1.685803015,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Garth Brooks announces return to Colorado on 'Blame It All On My Roots' arena tour",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/garth-brooks-denver-colorado-blame-it-all-on-my-roots-arena-tour/73-e5764a89-c073-4fe8-b945-bc09a49f2855",
       "source": "9News",
       "pub_date": "2026-07-23T13:26:19+00:00",
-      "age_hours": 1.356097758888889,
+      "age_hours": 2.2474341769444446,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Manny Rutinel, in deleted Reddit posts, voiced support for movement to give animals same legal rights as people",
       "link": "https://coloradosun.com/2026/07/23/manny-rutinel-animal-liberation-reddit-posts/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-23T09:00:00+00:00",
-      "age_hours": 5.794373111111112,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.685803620555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "US carries out 12th night of strikes against Iran as Houthis claim attacks on oil tankers",
       "link": "https://www.9news.com/article/news/nation-world/oil-tankers-attack-red-sea-houthis-war-iran/507-f33569ce-4b69-4d08-84b4-4f08e161f686",
       "source": "9News",
       "pub_date": "2026-07-23T08:54:42+00:00",
-      "age_hours": 5.883042233333334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.7743786475,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Emotions erupt at Denver airport after ICE detains woman accused of overstaying visa",
       "link": "https://kdvr.com/news/local/emotions-erupt-at-denver-airport-after-ice-detains-woman-accused-of-overstaying-visa/",
       "source": "Fox31",
       "pub_date": "2026-07-23T02:27:03+00:00",
-      "age_hours": 12.344317762222222,
+      "age_hours": 13.235402745833333,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Federal agents arrest passenger as she boards flight at Denver airport",
       "link": "https://www.9news.com/article/news/local/federal-agents-arrest-passenger-as-she-boards-flight-denver-airport/73-71df351b-0cf0-4a54-8233-cf8297533613",
       "source": "9News",
       "pub_date": "2026-07-23T00:53:08+00:00",
-      "age_hours": 13.909153426666668,
+      "age_hours": 14.800489832777778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Fire leaves Kiowa Valley Organics facing over $500k in losses",
       "link": "https://kdvr.com/news/local/fire-leaves-kiowa-valley-organics-facing-over-500k-in-losses/",
       "source": "Fox31",
       "pub_date": "2026-07-22T23:56:44+00:00",
-      "age_hours": 14.849595715277777,
+      "age_hours": 15.740680669444444,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver sees explosion of parking court cases after dispute office cuts",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-parking-court-dispute-office-cuts/73-378dfa6e-a5af-4aab-a085-60ced24a0149",
       "source": "9News",
       "pub_date": "2026-07-22T23:53:07+00:00",
-      "age_hours": 14.909431256666666,
+      "age_hours": 15.800767653888888,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "ICE facility employee realized he \u2018did some dumb sh*t\u2019 after shooting protester, according to affidavit",
       "link": "https://www.cpr.org/2026/07/22/aurora-geo-ice-detention-facility-shooting-affidavit/",
       "source": "CPR",
       "pub_date": "2026-07-22T22:35:42+00:00",
-      "age_hours": 16.199586385555556,
+      "age_hours": 17.09094056111111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado housing laws take effect, expanding tools for affordable and workforce housing",
       "link": "https://www.coloradopolitics.com/2026/07/22/colorado-housing-laws-take-effect-expanding-tools-for-affordable-and-workforce-housing/",
       "source": "CO Politics",
       "pub_date": "2026-07-22T22:10:54+00:00",
-      "age_hours": 16.613811929444445,
+      "age_hours": 17.50496229861111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Real estate pros paint gloomy picture of Boulder Valley landscape",
       "link": "https://bizwest.com/2026/07/22/real-estate-pros-paint-gloomy-picture-of-boulder-valley-landscape/",
       "source": "BizWest",
       "pub_date": "2026-07-22T21:55:41+00:00",
-      "age_hours": 16.86602571,
+      "age_hours": 17.757240695,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Claims against Future Legends top $100M amid sanctions request",
       "link": "https://bizwest.com/2026/07/22/claims-against-future-legends-top-100m-amid-sanctions-request/",
       "source": "BizWest",
       "pub_date": "2026-07-22T21:46:11+00:00",
-      "age_hours": 17.024359050277777,
+      "age_hours": 17.91557403638889,
       "breaking": false,
       "time_ago": "17 hrs ago"
     },
@@ -144,43 +144,43 @@
       "link": "https://bizwest.com/2026/07/22/boulder-based-homelessness-nonprofit-bridge-house-to-cut-services-jobs/",
       "source": "BizWest",
       "pub_date": "2026-07-22T21:39:32+00:00",
-      "age_hours": 17.13519238888889,
+      "age_hours": 18.026407374166666,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Resnick to keynote Northern Colorado Mid-Year Economic Forum",
       "link": "https://bizwest.com/2026/07/22/resnick-to-keynote-northern-colorado-mid-year-economic-forum/",
       "source": "BizWest",
       "pub_date": "2026-07-22T21:32:38+00:00",
-      "age_hours": 17.250192419444446,
+      "age_hours": 18.1414074,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "BizWest seeks input on expectations for economy in Q3",
       "link": "https://bizwest.com/2026/07/22/bizwest-seeks-input-on-expectations-for-economy-in-q3/",
       "source": "BizWest",
       "pub_date": "2026-07-22T21:26:34+00:00",
-      "age_hours": 17.35130355777778,
+      "age_hours": 18.242518534444446,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Denver bar ordered to shut down just 3 days after deadly shooting",
       "link": "https://kdvr.com/news/local/denver-bar-ordered-to-shut-down-just-3-days-after-deadly-shooting/",
       "source": "Fox31",
       "pub_date": "2026-07-22T21:10:45+00:00",
-      "age_hours": 17.61598438,
+      "age_hours": 18.507069358333332,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Pedestrian crossing construction improvements complete on West Colfax",
       "link": "https://kdvr.com/news/local/pedestrian-crossing-construction-improvements-complete-on-west-colfax/",
       "source": "Fox31",
       "pub_date": "2026-07-22T20:42:23+00:00",
-      "age_hours": 18.088762376944445,
+      "age_hours": 18.97984733222222,
       "breaking": false,
       "time_ago": "18 hrs ago"
     }
