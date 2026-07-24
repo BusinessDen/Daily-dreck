@@ -1,13 +1,13 @@
 {
-  "generated_date": "2026-07-23",
-  "lead_headline": "No new restaurant leads detected today as tracker holds steady at 303 active \u2014 reputation jumps 15% week-over-week while subscriptions break even",
+  "generated_date": "2026-07-24",
+  "lead_headline": "One restaurant lead detected today (flat from Wednesday), foreclosure filings hit 60 this week but no properties exceed $4M threshold, reputation surges to 77 weekly mentions",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads today</strong> \u2014 tracker steady at 303 active (161 openings, 142 closures) after Tuesday's quiet. Week remains at 27 openings including Nori Den (Red Lotus), 15 closures including Carmine's, Enzo's.",
+      "blurb": "<strong>1 new lead today:</strong> Good Girl Cafe & Bookstore (Rosedale) \u2014 romance bookstore/coffee hybrid prepping to open South Broadway. Week holds at 27 openings, 15 closures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+1",
         "label2": "closed",
         "value2": "0",
         "period": "today"
@@ -34,8 +34,8 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "18",
-        "class1": "",
+        "value1": "60",
+        "class1": "up",
         "label2": "sold",
         "value2": "0",
         "class2": "",
@@ -43,51 +43,51 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>3 new applications today</strong> break Tuesday freeze: Arenna Denver Padel (art gallery permit), Chao & Chen Vietnamese Kitchen (hotel & restaurant), Ace Padel (entertainment) \u2014 padel craze claims two of three. <strong>8 status changes</strong> led by Colima, Grape Leaf, Tamales by La Casita upgrading from delinquent to active; Himalayan Spice drops to delinquent. <strong>Weekly count: 96</strong> \u2014 still down 71% from prior week's 333 as post-backlog normalization continues through metro summer doldrums.",
+      "blurb": "<strong>5 new applications today:</strong> The Mulligan Room tavern (Broadway), Villa Park Liquors (West Colfax already active), Wide Right (Curtis transfer), Sunny's hotel/restaurant (W 44th), DIA Korean BBQ (airport). <strong>15 status changes</strong> led by NoName Grill, White Diamond Events, 7-Eleven Evans clearing delinquencies; Pints Pub, Bowls by Ko, Holey Moley drop to delinquent. Runway & Rye Lounge airport permit activates. <strong>Week slows to 10 applications</strong> \u2014 down 98% from prior week's anomalous 424 as backlog fully clears.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "3",
-        "class1": "up",
+        "value1": "5",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "96",
+        "value1": "10",
         "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>4 mentions today</strong> led by Recess Beer Garden/Auraria Campus coverage (Denver Post), Platt Park development story, Cherry Creek office redevelopment, parking hearing dismissals. <strong>Week climbs to 76 mentions</strong> across 13 sources \u2014 up 12% from prior week's 68, confirming reversal of three-week slide. Instagram leads at 29, Reddit 13, Denver Post 10, Facebook 9. Week-over-week momentum builds as civic infrastructure stories drive engagement \u2014 daily average 10.9 vs. prior period's 9.7. Parking, development, and campus expansion dominate news cycle as summer public interest normalizes.",
+      "blurb": "<strong>2 mentions today:</strong> federal agency public input story (Reddit), IMAX 70mm projector restoration at UA Colorado Center (Instagram). <strong>Week surges to 77 mentions</strong> across 12 sources \u2014 up 22% from prior week's 63 and reversing four-week decline. Instagram dominates at 31 citations, Reddit 13, Denver Post 11, Facebook 8. IMAX repair story, Mayor's outreach optics, Tap & Burger DTC closure, downtown Ikon relocation drive engagement as civic/entertainment coverage returns to summer baseline. Daily average 11.0 vs. prior period's 9.0 confirms momentum shift.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "4",
+        "value1": "2",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "76",
+        "value1": "77",
         "class1": "up",
         "label2": "sources",
-        "value2": "13",
+        "value2": "12",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (8 new, 8 canceled) erases prior day's loss and stabilizes MTD at <strong>\u221243</strong> (\u22122.0/day). 90-day net holds at <strong>+73</strong>. Past 14 days show churn ratio stabilizing at 2.8:1 (33 acquisitions vs. 92 cancellations) after mid-July's brutal \u221212 day. Single-day equilibrium provides brief respite, but July's 22 days still yield 39 new against 82 canceled for sustained \u22122.0/day bleed rate \u2014 nearly triple the YTD's +0.9/day pace. Flat performance interrupts but doesn't reverse month's defection trajectory as Q3 outlook remains challenged.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) after Wednesday's 8-8 equilibrium, pushing MTD to <strong>\u221233</strong> (\u22121.4/day). 90-day net holds at <strong>+81</strong>, YTD at <strong>+193</strong> (+0.9/day). Past 14 days reveal 2.8:1 churn ratio (33 new vs. 92 canceled) with mid-July's \u221212 single-day collapse still echoing. Wednesday's flat performance proved temporary relief \u2014 yesterday's single cancellation restarts the bleed. July's 23 days yield 39 new against 82 canceled for sustained \u22121.9/day pace, nearly triple YTD's +0.9/day. Recent week shows \u221217 net vs. prior period's \u221224, modest 29% improvement but still deeply negative. Acquisition engine stalled at 1-2 daily while cancellations run 3-5.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": -43,
-      "net_ytd": 183,
-      "net_mtd_per_day": -2.0,
-      "net_ytd_per_day": 0.9,
-      "annual_mtd": -32,
-      "annual_ytd": 141,
-      "monthly_mtd": -11,
-      "monthly_ytd": 42
+      "net_mtd": "-33",
+      "net_ytd": "+193",
+      "net_mtd_per_day": "-1.4",
+      "net_ytd_per_day": "+0.9",
+      "annual_mtd": "-28",
+      "annual_ytd": "+171",
+      "monthly_mtd": "-5",
+      "monthly_ytd": "+22"
     }
   }
 }
