@@ -1,186 +1,186 @@
 {
   "fetched_date": "2026-07-24",
-  "fetched_at": "2026-07-24 19:32:19",
+  "fetched_at": "2026-07-24 20:32:45",
   "article_count": 20,
   "breaking_count": 5,
   "articles": [
+    {
+      "title": "Saturday fundraiser to help save Jamestown Mercantile",
+      "link": "https://bizwest.com/2026/07/24/saturday-fundraiser-to-help-save-jamestown-mercantile/",
+      "source": "BizWest",
+      "pub_date": "2026-07-24T19:49:08+00:00",
+      "age_hours": 0.7215482369444445,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
+    {
+      "title": "Denver police arrest suspect in shooting that left 1 dead, 1 injured",
+      "link": "https://kdvr.com/news/local/denver-police-arrest-suspect-in-shooting-that-left-1-dead-1-injured/",
+      "source": "Fox31",
+      "pub_date": "2026-07-24T19:39:14+00:00",
+      "age_hours": 0.8874800041666666,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
     {
       "title": "'Give me my money back': Homeowners accuse landscaper of taking deposits, then vanishing",
       "link": "https://www.denver7.com/news/investigations/give-me-my-money-back-homeowners-accuse-landscaper-of-taking-deposits-then-vanishing",
       "source": "Denver7",
       "pub_date": "2026-07-24T17:45:39+00:00",
-      "age_hours": 1.7735714133333333,
+      "age_hours": 2.780389018333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "With a historic 3 Michelin stars, a Mexican restaurant in San Francisco defies stereotypes",
       "link": "https://sentinelcolorado.com/uncategorized/with-a-historic-3-michelin-stars-a-mexican-restaurant-in-san-francisco-defies-stereotypes/",
       "source": "Sentinel",
       "pub_date": "2026-07-24T17:14:02+00:00",
-      "age_hours": 2.301044008888889,
+      "age_hours": 3.308087223055556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Nuggets miss out in LeBron James sweepstakes, heading to 76ers",
       "link": "https://kdvr.com/sports/denver-nuggets/nuggets-miss-out-in-lebron-james-sweepstakes-heading-to-76ers/",
       "source": "Fox31",
       "pub_date": "2026-07-24T16:52:49+00:00",
-      "age_hours": 2.654340461388889,
+      "age_hours": 3.661091125555555,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "3 from Boulder named to Governor\u2019s Competitive Council executive panel",
       "link": "https://bizwest.com/2026/07/24/2-from-boulder-named-to-governors-competitive-council-executive-panel/",
       "source": "BizWest",
       "pub_date": "2026-07-24T14:01:11+00:00",
-      "age_hours": 5.514006299166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.5207153091666665,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Estes\u2019 Stanley carousel set to open soon",
       "link": "https://bizwest.com/2026/07/24/estes-stanley-carousel-set-to-open-soon/",
       "source": "BizWest",
       "pub_date": "2026-07-24T13:55:41+00:00",
-      "age_hours": 5.605673475555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.6123820066666665,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Friends rally for woman detained by ICE at Denver airport",
       "link": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
       "source": "9News",
       "pub_date": "2026-07-24T12:27:27+00:00",
-      "age_hours": 7.076850970833333,
+      "age_hours": 8.08359056361111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Sweetwater residents blast Forest Service plan for development around Sweetwater Lake",
       "link": "https://coloradosun.com/2026/07/24/sweetwater-lake-forest-service-study/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-24T10:00:00+00:00",
-      "age_hours": 9.534186137222223,
+      "age_hours": 10.540862078611111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Part of Denver Jewish community observes Tisha B'Av as call to end war in Gaza",
       "link": "https://kdvr.com/news/local/part-of-denver-jewish-community-uses-holiday-to-call-for-end-to-war-in-gaza/",
       "source": "Fox31",
       "pub_date": "2026-07-24T03:52:02+00:00",
-      "age_hours": 15.667396095277777,
+      "age_hours": 16.674146739444446,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Sweetgreen addresses customer concerns amid cyclospora outbreak",
       "link": "https://www.9news.com/article/news/nation-world/sweetgreen-statement-cyclospora-outbreak/507-e53d87b0-e167-46f5-b1d0-55e62ab75504",
       "source": "9News",
       "pub_date": "2026-07-24T02:29:32+00:00",
-      "age_hours": 17.042128789166668,
+      "age_hours": 18.048868374166666,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "US military says it\u2019s launching strikes on Iran as clashes escalate over shipping routes",
       "link": "https://www.9news.com/article/news/nation-world/oil-tankers-attack-red-sea-houthis-war-iran/507-f33569ce-4b69-4d08-84b4-4f08e161f686",
       "source": "9News",
       "pub_date": "2026-07-24T01:26:01+00:00",
-      "age_hours": 18.10073993611111,
+      "age_hours": 19.107479513055555,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "CU, Infleqtion tapped to help build \u2018world\u2019s most powerful scientific platform\u2019",
       "link": "https://bizwest.com/2026/07/23/trump-admin-taps-cu-infleqtion-to-help-build-worlds-most-powerful-scientific-platform/",
       "source": "BizWest",
       "pub_date": "2026-07-23T21:43:59+00:00",
-      "age_hours": 21.800673512777777,
+      "age_hours": 22.807382033333333,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Quantinuum adds pair of execs",
       "link": "https://bizwest.com/2026/07/23/quantinuum-adds-pair-of-execs/",
       "source": "BizWest",
       "pub_date": "2026-07-23T21:36:07+00:00",
-      "age_hours": 21.93178466138889,
+      "age_hours": 22.938493172777775,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Former Noodles exec fills new post at Ziggi\u2019s",
       "link": "https://bizwest.com/2026/07/23/former-noodles-exec-fills-new-post-at-ziggis/",
       "source": "BizWest",
       "pub_date": "2026-07-23T21:22:44+00:00",
-      "age_hours": 22.154840244722223,
+      "age_hours": 23.161548749444446,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Haddad to lead higher-ed panel at economic forum",
       "link": "https://bizwest.com/2026/07/23/haddad-to-lead-higher-ed-panel-at-economic-forum/",
       "source": "BizWest",
       "pub_date": "2026-07-23T21:17:10+00:00",
-      "age_hours": 22.247618055,
+      "age_hours": 23.25432655166667,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Town of Hudson faces lawsuit over ICE detention facility",
       "link": "https://www.cpr.org/2026/07/23/hudson-ice-center-lawsuit/",
       "source": "CPR",
       "pub_date": "2026-07-23T20:51:59+00:00",
-      "age_hours": 22.6679234525,
+      "age_hours": 23.67462593222222,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Denver approves new downtown pedestrian bridge connecting LoDo, Ball Arena",
       "link": "https://www.coloradopolitics.com/2026/07/23/denver-approves-new-downtown-pedestrian-bridge-connecting-lodo-ball-arena/",
       "source": "CO Politics",
       "pub_date": "2026-07-23T20:43:08+00:00",
-      "age_hours": 22.816027306944445,
+      "age_hours": 23.82292962027778,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Denver could loan $7M to bring Ikon operator from RiNo to downtown",
       "link": "https://denverite.com/2026/07/23/alterra-ikon-office-move-downtown-denver/",
       "source": "Denverite",
       "pub_date": "2026-07-23T19:56:48+00:00",
-      "age_hours": 23.587598349444445,
+      "age_hours": 24.594277009444447,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Boulder opens applications for Arts Business Cohort",
       "link": "https://bizwest.com/2026/07/23/boulder-opens-applications-for-arts-business-cohort/",
       "source": "BizWest",
       "pub_date": "2026-07-23T14:23:29+00:00",
-      "age_hours": 29.14234030861111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "3 appointed to Upstate board",
-      "link": "https://bizwest.com/2026/07/23/3-appointed-to-upstate-board/",
-      "source": "BizWest",
-      "pub_date": "2026-07-23T14:19:00+00:00",
-      "age_hours": 29.21706256277778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Work to begin next week on downtown Greeley infrastructure project",
-      "link": "https://bizwest.com/2026/07/23/work-to-begin-next-week-on-downtown-greeley-infrastructure-project/",
-      "source": "BizWest",
-      "pub_date": "2026-07-23T14:15:01+00:00",
-      "age_hours": 29.283451482777778,
+      "age_hours": 30.149048797222225,
       "breaking": false,
       "time_ago": "1 day ago"
     }
