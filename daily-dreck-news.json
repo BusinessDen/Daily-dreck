@@ -1,15 +1,24 @@
 {
   "fetched_date": "2026-07-25",
-  "fetched_at": "2026-07-25 00:41:35",
+  "fetched_at": "2026-07-25 01:37:42",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "Denver put weight restriction on 6th bridge; no one is really enforcing weight limit",
+      "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/denver-weight-restriction-bridge/73-974a21d8-43d4-4d0c-ad80-1cf4d4724dd3",
+      "source": "9News",
+      "pub_date": "2026-07-25T00:58:21+00:00",
+      "age_hours": 0.6510575661111111,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
     {
       "title": "Crews respond to fire in north Denver",
       "link": "https://www.9news.com/article/news/local/fire-washington-street-denver/73-a52f5171-5edf-45a0-8890-b2ed057f9a8a",
       "source": "9News",
       "pub_date": "2026-07-24T23:38:10+00:00",
-      "age_hours": 1.052254145,
+      "age_hours": 1.9874465141666666,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -18,88 +27,88 @@
       "link": "https://coloradosun.com/2026/07/24/victor-marx-dinged-for-campaign-finance-violations/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-24T22:30:21+00:00",
-      "age_hours": 2.18234533,
+      "age_hours": 3.117460383055555,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado produce not tied to nationwide cyclospora outbreak, agriculture officials say",
       "link": "https://www.coloradopolitics.com/2026/07/24/colorado-produce-not-tied-to-nationwide-cyclospora-outbreak-agriculture-officials-say/",
       "source": "CO Politics",
       "pub_date": "2026-07-24T22:12:44+00:00",
-      "age_hours": 2.4765982805555558,
+      "age_hours": 3.4127603944444447,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Lawsuit disputes Hudson\u2019s claim it can\u2019t stop ICE facility",
       "link": "https://bizwest.com/2026/07/24/lawsuit-disputes-hudsons-claim-it-cant-stop-ice-facility/",
       "source": "BizWest",
       "pub_date": "2026-07-24T22:05:05+00:00",
-      "age_hours": 2.602961095555556,
+      "age_hours": 3.53799385,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Shimon Blau qualifies for ballot as unaffiliated candidate in 1st Congressional District, will face Melat Kiros",
       "link": "https://coloradosun.com/2026/07/24/shimon-blau-melat-kiros-unaffiliated-ballot-qualify/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-24T21:15:00+00:00",
-      "age_hours": 3.438179366388889,
+      "age_hours": 4.373294213333334,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "GOLDEN GIRLS FOR REAL? Home sharing helps seniors age in place and tackle rising rents",
       "link": "https://sentinelcolorado.com/metro/golden-girls-for-real-home-sharing-helps-seniors-age-in-place-and-tackle-rising-rents/",
       "source": "Sentinel",
       "pub_date": "2026-07-24T21:04:38+00:00",
-      "age_hours": 3.6116358133333333,
+      "age_hours": 4.547823850277777,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver Zoo mourns passing of Bactrian camel",
       "link": "https://kdvr.com/news/local/denver-zoo-mourns-passing-of-bactrian-camel/",
       "source": "Fox31",
       "pub_date": "2026-07-24T20:50:54+00:00",
-      "age_hours": 3.8401645147222223,
+      "age_hours": 4.775665413611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "I-25 closed near Centennial due to crash",
       "link": "https://kdvr.com/news/local/i-25-closed-in-several-denver-locations-due-to-crashes/",
       "source": "Fox31",
       "pub_date": "2026-07-24T20:43:37+00:00",
-      "age_hours": 3.961553353333333,
+      "age_hours": 4.8970542763888885,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Rep. Jason Crow says Aurora GEO ICE facility violated laws in tuberculosis probe",
       "link": "https://sentinelcolorado.com/metro/rep-jason-crow-says-aurora-geo-ice-facility-violated-laws-in-tuberculosis-probe/",
       "source": "Sentinel",
       "pub_date": "2026-07-24T20:34:37+00:00",
-      "age_hours": 4.111913999166666,
+      "age_hours": 5.048101930277777,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Saturday fundraiser to help save Jamestown Mercantile",
       "link": "https://bizwest.com/2026/07/24/saturday-fundraiser-to-help-save-jamestown-mercantile/",
       "source": "BizWest",
       "pub_date": "2026-07-24T19:49:08+00:00",
-      "age_hours": 4.868794940833333,
+      "age_hours": 5.8038275327777775,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver police arrest suspect in shooting that left 1 dead, 1 injured",
       "link": "https://kdvr.com/news/local/denver-police-arrest-suspect-in-shooting-that-left-1-dead-1-injured/",
       "source": "Fox31",
       "pub_date": "2026-07-24T19:39:14+00:00",
-      "age_hours": 5.034608986944445,
+      "age_hours": 5.970109877222222,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -108,79 +117,70 @@
       "link": "https://www.denver7.com/news/investigations/give-me-my-money-back-homeowners-accuse-landscaper-of-taking-deposits-then-vanishing",
       "source": "Denver7",
       "pub_date": "2026-07-24T17:45:39+00:00",
-      "age_hours": 6.927623395833333,
+      "age_hours": 7.862942655,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Nuggets miss out in LeBron James sweepstakes, heading to 76ers",
       "link": "https://kdvr.com/sports/denver-nuggets/nuggets-miss-out-in-lebron-james-sweepstakes-heading-to-76ers/",
       "source": "Fox31",
       "pub_date": "2026-07-24T16:52:49+00:00",
-      "age_hours": 7.808220113333333,
+      "age_hours": 8.743720998333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "3 from Boulder named to Governor\u2019s Competitive Council executive panel",
       "link": "https://bizwest.com/2026/07/24/2-from-boulder-named-to-governors-competitive-council-executive-panel/",
       "source": "BizWest",
       "pub_date": "2026-07-24T14:01:11+00:00",
-      "age_hours": 10.667961638333333,
+      "age_hours": 11.60299422138889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Estes\u2019 Stanley carousel set to open soon",
       "link": "https://bizwest.com/2026/07/24/estes-stanley-carousel-set-to-open-soon/",
       "source": "BizWest",
       "pub_date": "2026-07-24T13:55:41+00:00",
-      "age_hours": 10.75962834111111,
+      "age_hours": 11.6946609125,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Friends rally for woman detained by ICE at Denver airport",
       "link": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
       "source": "9News",
       "pub_date": "2026-07-24T12:27:27+00:00",
-      "age_hours": 12.23086539388889,
+      "age_hours": 13.1660577025,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Sweetwater residents blast Forest Service plan for development around Sweetwater Lake",
       "link": "https://coloradosun.com/2026/07/24/sweetwater-lake-forest-service-study/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-24T10:00:00+00:00",
-      "age_hours": 14.688180204166667,
+      "age_hours": 15.623294831666666,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Part of Denver Jewish community observes Tisha B'Av as call to end war in Gaza",
       "link": "https://kdvr.com/news/local/part-of-denver-jewish-community-uses-holiday-to-call-for-end-to-war-in-gaza/",
       "source": "Fox31",
       "pub_date": "2026-07-24T03:52:02+00:00",
-      "age_hours": 20.821275690555552,
+      "age_hours": 21.75677656861111,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "CU, Infleqtion tapped to help build \u2018world\u2019s most powerful scientific platform\u2019",
       "link": "https://bizwest.com/2026/07/23/trump-admin-taps-cu-infleqtion-to-help-build-worlds-most-powerful-scientific-platform/",
       "source": "BizWest",
       "pub_date": "2026-07-23T21:43:59+00:00",
-      "age_hours": 26.95462837277778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Quantinuum adds pair of execs",
-      "link": "https://bizwest.com/2026/07/23/quantinuum-adds-pair-of-execs/",
-      "source": "BizWest",
-      "pub_date": "2026-07-23T21:36:07+00:00",
-      "age_hours": 27.085739518055558,
+      "age_hours": 27.889660936111113,
       "breaking": false,
       "time_ago": "1 day ago"
     }
