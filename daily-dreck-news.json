@@ -1,69 +1,78 @@
 {
   "fetched_date": "2026-07-26",
-  "fetched_at": "2026-07-26 10:34:41",
+  "fetched_at": "2026-07-26 11:30:26",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "\u2018CoCo\u2019 would take taxpayers for a ride | John Caldara",
+      "link": "https://www.coloradopolitics.com/2026/07/26/coco-would-take-taxpayers-for-a-ride-john-caldara/",
+      "source": "CO Politics",
+      "pub_date": "2026-07-26T11:00:00+00:00",
+      "age_hours": 0.5034651375,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
     {
       "title": "At Silas Soule\u2019s gravesite, a minister honors a heroic figure by reading his letters",
       "link": "https://coloradosun.com/2026/07/26/nancy-niero-silas-soule-graveside-reading-letters/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-26T10:20:00+00:00",
-      "age_hours": 0.2397852375,
+      "age_hours": 1.1696262236111112,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "The Bookies Bookstore explores the paranormal, superheroes and Ireland",
       "link": "https://coloradosun.com/2026/07/26/the-bookies-bookstore-recommendations-july-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-26T08:05:00+00:00",
-      "age_hours": 2.4897860530555556,
+      "age_hours": 3.419627005,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Person killed in crash after getting out of car on I-25",
       "link": "https://www.9news.com/article/news/local/person-killed-after-getting-out-of-car-on-i-25/73-4e08d1ed-0b9c-4d67-9f69-df0a670fffcf",
       "source": "9News",
       "pub_date": "2026-07-25T20:13:14+00:00",
-      "age_hours": 14.352811897222223,
+      "age_hours": 15.282519399999998,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Aurora anti-violence advocate gets 51 years for in prison for water park \u2018revenge\u2019 shooting",
       "link": "https://sentinelcolorado.com/metro/aurora-anti-violence-advocate-gets-51-years-for-in-prison-for-water-park-revenge-shooting/",
       "source": "Sentinel",
       "pub_date": "2026-07-25T19:15:16+00:00",
-      "age_hours": 15.31948225861111,
+      "age_hours": 16.24905173277778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Body found by crews working illegal fire in north Denver",
       "link": "https://www.9news.com/article/news/local/body-found-illegal-fire-70th-ave-i-25/73-176df55d-61c9-4042-a1a5-63aee75e708a",
       "source": "9News",
       "pub_date": "2026-07-25T17:19:18+00:00",
-      "age_hours": 17.251700861388887,
+      "age_hours": 18.181408349722222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Every opening and closing this week: Gennaro\u2019s space gets new tenant",
       "link": "https://www.westword.com/food-drink/every-restaurant-opening-and-closing-denver-new-gennaros-tenant-40914879/",
       "source": "Westword",
       "pub_date": "2026-07-25T08:00:00-06:00",
-      "age_hours": 20.573737007777776,
+      "age_hours": 21.503311343055554,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Mayor Mike Coffman appoints himself to Aurora Housing Authority board",
       "link": "https://sentinelcolorado.com/metro/mayor-mike-coffman-appoints-himself-to-aurora-housing-authority-board/",
       "source": "Sentinel",
       "pub_date": "2026-07-25T03:55:55+00:00",
-      "age_hours": 30.641982686666665,
+      "age_hours": 31.57155212611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.9news.com/article/news/local/fire-washington-street-denver/73-a52f5171-5edf-45a0-8890-b2ed057f9a8a",
       "source": "9News",
       "pub_date": "2026-07-25T03:25:29+00:00",
-      "age_hours": 31.14864538138889,
+      "age_hours": 32.078352869444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.9news.com/article/news/nation-world/tylenol-naproxen-combination-pill-fda-approval/507-b9f958e2-9497-46ed-9c3d-04ed6b8d2493",
       "source": "9News",
       "pub_date": "2026-07-25T02:25:34+00:00",
-      "age_hours": 32.14725652166666,
+      "age_hours": 33.076964015277774,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/denver-weight-restriction-bridge/73-974a21d8-43d4-4d0c-ad80-1cf4d4724dd3",
       "source": "9News",
       "pub_date": "2026-07-25T00:58:21+00:00",
-      "age_hours": 33.60086766027778,
+      "age_hours": 34.53057515305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://coloradosun.com/2026/07/24/victor-marx-dinged-for-campaign-finance-violations/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-24T22:30:21+00:00",
-      "age_hours": 36.067286476666666,
+      "age_hours": 36.99712741833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/24/colorado-produce-not-tied-to-nationwide-cyclospora-outbreak-agriculture-officials-say/",
       "source": "CO Politics",
       "pub_date": "2026-07-24T22:12:44+00:00",
-      "age_hours": 36.361680570555556,
+      "age_hours": 37.291242965833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/24/lawsuit-disputes-hudsons-claim-it-cant-stop-ice-facility/",
       "source": "BizWest",
       "pub_date": "2026-07-24T22:05:05+00:00",
-      "age_hours": 36.48798394,
+      "age_hours": 37.417789745,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://sentinelcolorado.com/metro/golden-girls-for-real-home-sharing-helps-seniors-age-in-place-and-tackle-rising-rents/",
       "source": "Sentinel",
       "pub_date": "2026-07-24T21:04:38+00:00",
-      "age_hours": 37.49670531388889,
+      "age_hours": 38.42627474277777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://kdvr.com/news/local/denver-zoo-mourns-passing-of-bactrian-camel/",
       "source": "Fox31",
       "pub_date": "2026-07-24T20:50:54+00:00",
-      "age_hours": 37.72537210416667,
+      "age_hours": 38.65492531361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://kdvr.com/news/local/i-25-closed-in-several-denver-locations-due-to-crashes/",
       "source": "Fox31",
       "pub_date": "2026-07-24T20:43:37+00:00",
-      "age_hours": 37.84676096416667,
+      "age_hours": 38.77631417333333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://sentinelcolorado.com/metro/rep-jason-crow-says-aurora-geo-ice-facility-violated-laws-in-tuberculosis-probe/",
       "source": "Sentinel",
       "pub_date": "2026-07-24T20:34:37+00:00",
-      "age_hours": 37.996983506944446,
+      "age_hours": 38.92655292305555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/07/24/saturday-fundraiser-to-help-save-jamestown-mercantile/",
       "source": "BizWest",
       "pub_date": "2026-07-24T19:49:08+00:00",
-      "age_hours": 38.75381786444444,
+      "age_hours": 39.68362364166667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://kdvr.com/news/local/denver-police-arrest-suspect-in-shooting-that-left-1-dead-1-injured/",
       "source": "Fox31",
       "pub_date": "2026-07-24T19:39:14+00:00",
-      "age_hours": 38.91981651138889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "'Give me my money back': Homeowners accuse landscaper of taking deposits, then vanishing",
-      "link": "https://www.denver7.com/news/investigations/give-me-my-money-back-homeowners-accuse-landscaper-of-taking-deposits-then-vanishing",
-      "source": "Denver7",
-      "pub_date": "2026-07-24T17:45:39+00:00",
-      "age_hours": 40.81274982638889,
+      "age_hours": 39.84936972,
       "breaking": false,
       "time_ago": "1 day ago"
     }

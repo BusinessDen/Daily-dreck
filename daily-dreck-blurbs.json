@@ -1,15 +1,15 @@
 {
-  "generated_date": "2026-07-25",
-  "lead_headline": "Subscriptions net +2 yesterday, foreclosure volume reaches 65 filings but highest property still under $3M, restaurant tracker adds two closure leads",
+  "generated_date": "2026-07-26",
+  "lead_headline": "Zero new restaurant leads after Friday's pair, subscriptions flat at net 0, foreclosure filings hit 65 but highest barely cracks $2.7M",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>2 new leads today:</strong> Tacos Samy (Chaffee Park food truck closure) and Bad Ass Coffee (Rosedale, former Starbucks site). Active lead count: 163 openings, 144 closures.",
+      "blurb": "<strong>No new leads today</strong> \u2014 first zero-lead day since mid-week. Active tracker holds at 163 openings, 144 closures from yesterday's Tacos Samy/Bad Ass Coffee additions.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
-        "value2": "2",
+        "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
@@ -28,14 +28,14 @@
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "1",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
         "value1": "65",
-        "class1": "",
+        "class1": "up",
         "label2": "sold",
         "value2": "0",
         "class2": "",
@@ -43,33 +43,33 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong> as post-backlog activity flatlines. No status changes, no removals. <strong>Week closes at 9 applications</strong> \u2014 down 94% from prior week's 151 and marking lowest volume since tracking began. Confirms return to pre-backlog baseline after June's clearance surge.",
+      "blurb": "<strong>Zero new applications for second consecutive day</strong> \u2014 unprecedented back-to-back shutout extends post-backlog normalization. No status changes, no removals detected. <strong>Week closes at 8 total applications</strong> vs. prior week's 152, confirming 95% collapse and return to sustainable baseline after June's clearance anomaly. Post-surge pattern now clear: sporadic single-digit weekly volume replacing triple-digit backlog-driven activity.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "9",
+        "value1": "8",
         "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>3 mentions today:</strong> RiNo sauna closure (Denver Post), Westminster Mall nostalgia (Instagram), FBI e-bike seizure (AOL). <strong>Week finishes at 80 mentions</strong> across 15 sources \u2014 up 23% from prior week's 65 and extending momentum shift. Instagram leads at 33 citations, Reddit 12, Denver Post 11, Facebook 7. RiNo closures, federal enforcement, downtown development drive coverage as civic accountability stories dominate summer cycle. Daily average 11.4 vs. prior period's 9.3.",
+      "blurb": "<strong>1 mention today</strong> \u2014 LeBron/Caldwell-Pope Sixers coverage on Facebook rounds out quiet Saturday. <strong>Week closes at 81 mentions</strong> across 15 sources, up 21% from prior week's 67 and extending two-week growth streak. Instagram dominates at 35 citations (43% share), Reddit 12, Denver Post 10, Facebook 9. Week's storylines: RiNo closures (sauna, butcher shop evictions), Westminster Mall nostalgia, FBI e-bike retailer seizures, Zoo AI ads controversy. Daily rate 11.6 vs. prior period's 9.6 marks sustained uptick in third-party pickup as summer civic/business stories gain traction.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "3",
-        "class1": "",
+        "value1": "1",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "80",
+        "value1": "81",
         "class1": "up",
         "label2": "sources",
         "value2": "15",
@@ -78,15 +78,15 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +2 yesterday</strong> (6 new, 4 canceled) breaks four-day losing streak and delivers first positive daily result since July 23's +11 surge. MTD remains deeply negative at <strong>\u221230</strong> (\u22121.2/day), but 90-day net holds at <strong>+81</strong>. Past two weeks show volatile pattern: mid-July collapse (\u221212 single day, \u221217 total week) followed by Wednesday's 8-8 equilibrium and yesterday's +2 recovery. Acquisition shows life at 6 new (best since July 23) while cancellations drop to 4 (lowest since July 16). Doesn't reverse July's \u22121.9/day bleed, but hints at stabilization after brutal mid-month churn. YTD +196 (+1.0/day) still intact.",
+      "blurb": "<strong>Net 0 yesterday</strong> (1 new, 1 canceled) \u2014 balanced churn follows Friday's +2 uptick but acquisition falls back to single-digit weakness. MTD bleeds deeper to <strong>\u221230</strong> (\u22121.2/day) as July erosion accelerates. 90-day net holds at <strong>+81</strong> but shrinking fast. Two-day pattern (Friday +2, Saturday 0) hints at stabilization attempt after mid-month's \u221214 single-day collapse, but 1-new acquisition rate matches June lows and signals demand fragility. Cancellations controlled at 1 but new subscriber pipeline remains anemic. YTD +196 (+1.0/day) intact but July's \u22121.9/day drag now three weeks running.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "-30",
       "net_ytd": "196",
       "net_mtd_per_day": "-1.2",
       "net_ytd_per_day": "1.0",
-      "annual_mtd": "-22",
+      "annual_mtd": "-18",
       "annual_ytd": "142",
-      "monthly_mtd": "-8",
+      "monthly_mtd": "-12",
       "monthly_ytd": "54"
     }
   }
