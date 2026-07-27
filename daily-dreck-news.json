@@ -1,87 +1,78 @@
 {
   "fetched_date": "2026-07-27",
-  "fetched_at": "2026-07-27 01:38:39",
+  "fetched_at": "2026-07-27 03:09:30",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 1,
   "articles": [
     {
       "title": "Triple-digit temperatures send Coloradans to cool off in Clear Creek",
       "link": "https://kdvr.com/news/local/triple-digit-temperatures-send-coloradans-to-cool-off-in-clear-creek/",
       "source": "Fox31",
       "pub_date": "2026-07-26T23:35:09+00:00",
-      "age_hours": 2.054544817777778,
+      "age_hours": 3.568603301111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Hike through a canyon at this new Colorado open space",
       "link": "https://kdvr.com/denver-guide/hike-through-a-canyon-at-this-new-colorado-open-space/",
       "source": "Fox31",
       "pub_date": "2026-07-26T20:23:45+00:00",
-      "age_hours": 5.244544871388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.758603263333334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Man caught on camera throwing rock through window of Denver business",
       "link": "https://kdvr.com/news/local/man-caught-on-camera-throwing-rock-through-window-of-denver-business/",
       "source": "Fox31",
       "pub_date": "2026-07-26T19:31:05+00:00",
-      "age_hours": 6.122322644722222,
+      "age_hours": 7.636381032777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Disaster\u2019s 50th anniversary brings flood of memories",
       "link": "https://bizwest.com/2026/07/26/disasters-50th-anniversary-brings-flood-of-memories/",
       "source": "BizWest",
       "pub_date": "2026-07-26T15:35:44+00:00",
-      "age_hours": 10.043935813888888,
+      "age_hours": 11.557716763611111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "\u2018CoCo\u2019 would take taxpayers for a ride | John Caldara",
       "link": "https://www.coloradopolitics.com/2026/07/26/coco-would-take-taxpayers-for-a-ride-john-caldara/",
       "source": "CO Politics",
       "pub_date": "2026-07-26T11:00:00+00:00",
-      "age_hours": 14.640641590833333,
+      "age_hours": 16.154722920833333,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "At Silas Soule\u2019s gravesite, a minister honors a heroic figure by reading his letters",
       "link": "https://coloradosun.com/2026/07/26/nancy-niero-silas-soule-graveside-reading-letters/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-26T10:20:00+00:00",
-      "age_hours": 15.306565593611111,
+      "age_hours": 16.820487101111112,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "The Bookies Bookstore explores the paranormal, superheroes and Ireland",
       "link": "https://coloradosun.com/2026/07/26/the-bookies-bookstore-recommendations-july-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-26T08:05:00+00:00",
-      "age_hours": 17.55656627111111,
+      "age_hours": 19.070487666111113,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Person killed in crash after getting out of car on I-25",
-      "link": "https://www.9news.com/article/news/local/person-killed-after-getting-out-of-car-on-i-25/73-4e08d1ed-0b9c-4d67-9f69-df0a670fffcf",
-      "source": "9News",
-      "pub_date": "2026-07-25T20:13:14+00:00",
-      "age_hours": 29.419538265833335,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Aurora anti-violence advocate gets 51 years for in prison for water park \u2018revenge\u2019 shooting",
       "link": "https://sentinelcolorado.com/metro/aurora-anti-violence-advocate-gets-51-years-for-in-prison-for-water-park-revenge-shooting/",
       "source": "Sentinel",
       "pub_date": "2026-07-25T19:15:16+00:00",
-      "age_hours": 30.386235999444445,
+      "age_hours": 31.900345933333334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +81,7 @@
       "link": "https://www.westword.com/food-drink/every-restaurant-opening-and-closing-denver-new-gennaros-tenant-40914879/",
       "source": "Westword",
       "pub_date": "2026-07-25T08:00:00-06:00",
-      "age_hours": 35.64047964694444,
+      "age_hours": 37.154560976388886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +90,7 @@
       "link": "https://sentinelcolorado.com/metro/mayor-mike-coffman-appoints-himself-to-aurora-housing-authority-board/",
       "source": "Sentinel",
       "pub_date": "2026-07-25T03:55:55+00:00",
-      "age_hours": 45.70873632583333,
+      "age_hours": 47.22284622111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +99,7 @@
       "link": "https://coloradosun.com/2026/07/24/victor-marx-dinged-for-campaign-finance-violations/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-24T22:30:21+00:00",
-      "age_hours": 51.134066605,
+      "age_hours": 52.647987954166666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +108,7 @@
       "link": "https://www.coloradopolitics.com/2026/07/24/colorado-produce-not-tied-to-nationwide-cyclospora-outbreak-agriculture-officials-say/",
       "source": "CO Politics",
       "pub_date": "2026-07-24T22:12:44+00:00",
-      "age_hours": 51.428419411944446,
+      "age_hours": 52.942500743055554,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/24/lawsuit-disputes-hudsons-claim-it-cant-stop-ice-facility/",
       "source": "BizWest",
       "pub_date": "2026-07-24T22:05:05+00:00",
-      "age_hours": 51.55476980694444,
+      "age_hours": 53.068550440277775,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,16 +126,7 @@
       "link": "https://sentinelcolorado.com/metro/golden-girls-for-real-home-sharing-helps-seniors-age-in-place-and-tackle-rising-rents/",
       "source": "Sentinel",
       "pub_date": "2026-07-24T21:04:38+00:00",
-      "age_hours": 52.56345888027777,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "I-25 closed near Centennial due to crash",
-      "link": "https://kdvr.com/news/local/i-25-closed-in-several-denver-locations-due-to-crashes/",
-      "source": "Fox31",
-      "pub_date": "2026-07-24T20:43:37+00:00",
-      "age_hours": 52.91343385444445,
+      "age_hours": 54.07756871416667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +135,7 @@
       "link": "https://bizwest.com/2026/07/24/saturday-fundraiser-to-help-save-jamestown-mercantile/",
       "source": "BizWest",
       "pub_date": "2026-07-24T19:49:08+00:00",
-      "age_hours": 53.82060319333333,
+      "age_hours": 55.33438380166667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +144,7 @@
       "link": "https://kdvr.com/news/local/denver-police-arrest-suspect-in-shooting-that-left-1-dead-1-injured/",
       "source": "Fox31",
       "pub_date": "2026-07-24T19:39:14+00:00",
-      "age_hours": 53.98648940472223,
+      "age_hours": 55.50054780027778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +153,7 @@
       "link": "https://www.denver7.com/news/investigations/give-me-my-money-back-homeowners-accuse-landscaper-of-taking-deposits-then-vanishing",
       "source": "Denver7",
       "pub_date": "2026-07-24T17:45:39+00:00",
-      "age_hours": 55.879384010277775,
+      "age_hours": 57.393405864444446,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,9 +162,27 @@
       "link": "https://bizwest.com/2026/07/24/2-from-boulder-named-to-governors-competitive-council-executive-panel/",
       "source": "BizWest",
       "pub_date": "2026-07-24T14:01:11+00:00",
-      "age_hours": 59.61976990611112,
+      "age_hours": 61.133550488055555,
       "breaking": false,
       "time_ago": "2 days ago"
+    },
+    {
+      "title": "Estes\u2019 Stanley carousel set to open soon",
+      "link": "https://bizwest.com/2026/07/24/estes-stanley-carousel-set-to-open-soon/",
+      "source": "BizWest",
+      "pub_date": "2026-07-24T13:55:41+00:00",
+      "age_hours": 61.22521717861111,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "CU, Infleqtion tapped to help build \u2018world\u2019s most powerful scientific platform\u2019",
+      "link": "https://bizwest.com/2026/07/23/trump-admin-taps-cu-infleqtion-to-help-build-worlds-most-powerful-scientific-platform/",
+      "source": "BizWest",
+      "pub_date": "2026-07-23T21:43:59+00:00",
+      "age_hours": 77.4202172013889,
+      "breaking": false,
+      "time_ago": "3 days ago"
     }
   ]
 }
