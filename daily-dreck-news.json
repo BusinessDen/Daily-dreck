@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-07-27",
-  "fetched_at": "2026-07-27 17:34:36",
+  "fetched_at": "2026-07-27 18:36:01",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Business Buzz: The latest Colorado economic forecast and a builder's reality check on housing",
+      "link": "https://www.9news.com/article/money/business-brief/latest-colorado-economic-forecast-and-builders-reality-check-on-housing/73-d5483455-dfdb-4f55-acd8-47b70170d29c",
+      "source": "9News",
+      "pub_date": "2026-07-27T18:10:37+00:00",
+      "age_hours": 0.41901186749999997,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
+    {
+      "title": "Girls Wrestling: Aurora area flavor mixed in Colorado\u2019s first Junior Greco Dual national championship",
+      "link": "https://sentinelcolorado.com/sports/preps/girls-wrestling/girls-wrestling-aurora-area-flavor-mixed-in-colorados-first-junior-greco-dual-national-championship/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-27T17:51:25+00:00",
+      "age_hours": 0.7398877558333333,
+      "breaking": true,
+      "time_ago": "44 min ago"
+    },
     {
       "title": "Colorado Lottery player wins $250,000 in drawing",
       "link": "https://www.9news.com/article/news/lottery/colorado-lottery-lotto-plus-winner/73-cf4e23ff-4b36-4ab4-acfd-8601ffb131c6",
       "source": "9News",
       "pub_date": "2026-07-27T16:37:11+00:00",
-      "age_hours": 0.9524002672222222,
+      "age_hours": 1.9762342044444443,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Set your alarms: $23 Broncos tickets coming in half-price sale",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-half-price-tickets/73-f3b3ea7f-e5a6-48a5-9e56-768405e39d73",
       "source": "9News",
       "pub_date": "2026-07-27T16:31:52+00:00",
-      "age_hours": 1.04101139,
+      "age_hours": 2.064845324722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Dolly Parton's brother, Coy 'Denver' Parton, has died at age 82",
       "link": "https://www.9news.com/article/news/nation-world/dolly-partons-brother-coy-denver-parton-dies/507-9cb5a2b3-91a0-44fb-b22e-d8994f549144",
       "source": "9News",
       "pub_date": "2026-07-27T15:57:17+00:00",
-      "age_hours": 1.6174002891666666,
+      "age_hours": 2.6412342225,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Teen boy killed, 4 others injured by lightning on Mount Blue Sky",
       "link": "https://coloradosun.com/2026/07/27/teen-boy-killed-hikers-injured-lightning-mount-blue-sky/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-27T15:13:47+00:00",
-      "age_hours": 2.342180221388889,
+      "age_hours": 3.3659307724999996,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver nonprofit giving away 42,000 lbs of free potatoes",
       "link": "https://www.9news.com/article/life/style/colorado-guide/free-potatoes/73-ec64920a-77d2-4345-99bb-5ba96ed6fe32",
       "source": "9News",
       "pub_date": "2026-07-27T14:36:56+00:00",
-      "age_hours": 2.9565670275000002,
+      "age_hours": 3.9804009388888892,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Lochbuie enacts new ordinance limiting garage sales, requiring permits",
       "link": "https://www.9news.com/article/life/style/colorado-guide/garage-sale-permits-required-lochbuie/73-1600f409-2ce4-44b7-8c4e-f0574b40ada2",
       "source": "9News",
       "pub_date": "2026-07-27T14:14:59+00:00",
-      "age_hours": 3.3224004130555556,
+      "age_hours": 4.346234321388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Veterans nonprofit receives $50K donation for Longmont project",
       "link": "https://bizwest.com/2026/07/27/veterans-nonprofit-receives-50k-donation-for-longmont-project/",
       "source": "BizWest",
       "pub_date": "2026-07-27T13:13:51+00:00",
-      "age_hours": 4.3406199630555555,
+      "age_hours": 5.363456041944444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado bankruptcies jump 23% in June",
       "link": "https://bizwest.com/2026/07/27/colorado-bankruptcies-jump-23-in-june/",
       "source": "BizWest",
       "pub_date": "2026-07-27T12:30:00+00:00",
-      "age_hours": 5.0714538777777785,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.094290457777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Eastbound I-70 reopens east of Denver",
       "link": "https://www.9news.com/article/traffic/pavement-buckling-closes-eastbound-i-70/73-7163f111-859d-41f1-9203-9ba65b61dfa7",
       "source": "9News",
       "pub_date": "2026-07-27T12:06:30+00:00",
-      "age_hours": 5.4637893236111115,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.487623231944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Immigration lawyer argues improper arrest for Aurora detainee who escaped cartel kidnapping",
       "link": "https://sentinelcolorado.com/orecent-headlines/immigration-lawyer-argues-improper-arrest-for-aurora-detainee/",
       "source": "Sentinel",
       "pub_date": "2026-07-27T12:02:25+00:00",
-      "age_hours": 5.532460216111112,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.556554904722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "KSE plans construction at Nuggets practice facility",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/kroenke-construction-nuggets-practice-facility/73-3d399d2f-735f-4886-8bbe-74bffa2196b3",
       "source": "9News",
       "pub_date": "2026-07-27T11:39:30+00:00",
-      "age_hours": 5.913789363611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.937623263888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Adoptions of Colorado foster kids fail 10% of the time",
       "link": "https://coloradosun.com/2026/07/27/foster-care-broken-adoptions/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-27T10:00:00+00:00",
-      "age_hours": 7.571903138333334,
+      "age_hours": 8.595653708888888,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado\u2019s startup businesses are struggling to raise cash",
       "link": "https://www.cpr.org/2026/07/27/colorados-startup-businesses-struggling-funding/",
       "source": "CPR",
       "pub_date": "2026-07-27T10:00:00+00:00",
-      "age_hours": 7.572060268055556,
+      "age_hours": 8.595910787222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "The number of high school grads in Colorado is shrinking. Can colleges weather enrollment drops?",
       "link": "https://coloradosun.com/2026/07/27/colorado-college-enrollment-cliff-survival-strategies/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-27T09:52:00+00:00",
-      "age_hours": 7.705237066944444,
+      "age_hours": 8.728987643611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Can landlords in Colorado wait up to 60 days to return security deposits?",
       "link": "https://coloradosun.com/2026/07/27/can-landlords-in-colorado-wait-up-to-60-days-to-return-security-deposits/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-27T09:45:00+00:00",
-      "age_hours": 7.8219042725,
+      "age_hours": 8.845654832777777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Two residents displaced by major house fire in central Aurora Sunday",
       "link": "https://sentinelcolorado.com/metro/two-residents-displaced-by-major-house-fire-in-central-aurora-sunday/",
       "source": "Sentinel",
       "pub_date": "2026-07-27T05:08:33+00:00",
-      "age_hours": 12.430238291111111,
+      "age_hours": 13.454332965277779,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Triple-digit temperatures send Coloradans to cool off in Clear Creek",
       "link": "https://kdvr.com/news/local/triple-digit-temperatures-send-coloradans-to-cool-off-in-clear-creek/",
       "source": "Fox31",
       "pub_date": "2026-07-26T23:35:09+00:00",
-      "age_hours": 17.9865116825,
+      "age_hours": 19.01043311722222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Hike through a canyon at this new Colorado open space",
       "link": "https://kdvr.com/denver-guide/hike-through-a-canyon-at-this-new-colorado-open-space/",
       "source": "Fox31",
       "pub_date": "2026-07-26T20:23:45+00:00",
-      "age_hours": 21.176511626666667,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Man caught on camera throwing rock through window of Denver business",
-      "link": "https://kdvr.com/news/local/man-caught-on-camera-throwing-rock-through-window-of-denver-business/",
-      "source": "Fox31",
-      "pub_date": "2026-07-26T19:31:05+00:00",
-      "age_hours": 22.054289394444442,
+      "age_hours": 22.20043306388889,
       "breaking": false,
       "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Disaster\u2019s 50th anniversary brings flood of memories",
-      "link": "https://bizwest.com/2026/07/26/disasters-50th-anniversary-brings-flood-of-memories/",
-      "source": "BizWest",
-      "pub_date": "2026-07-26T15:35:44+00:00",
-      "age_hours": 25.975898355277778,
-      "breaking": false,
-      "time_ago": "1 day ago"
     }
   ]
 }
