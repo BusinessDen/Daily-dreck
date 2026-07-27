@@ -1,78 +1,105 @@
 {
   "fetched_date": "2026-07-27",
-  "fetched_at": "2026-07-27 09:11:55",
+  "fetched_at": "2026-07-27 11:06:50",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Adoptions of Colorado foster kids fail 10% of the time",
+      "link": "https://coloradosun.com/2026/07/27/foster-care-broken-adoptions/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-27T10:00:00+00:00",
+      "age_hours": 1.1088899302777777,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado\u2019s startup businesses are struggling to raise cash",
+      "link": "https://www.cpr.org/2026/07/27/colorados-startup-businesses-struggling-funding/",
+      "source": "CPR",
+      "pub_date": "2026-07-27T10:00:00+00:00",
+      "age_hours": 1.1090734672222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "The number of high school grads in Colorado is shrinking. Can colleges weather enrollment drops?",
+      "link": "https://coloradosun.com/2026/07/27/colorado-college-enrollment-cliff-survival-strategies/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-27T09:52:00+00:00",
+      "age_hours": 1.242223798611111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Can landlords in Colorado wait up to 60 days to return security deposits?",
+      "link": "https://coloradosun.com/2026/07/27/can-landlords-in-colorado-wait-up-to-60-days-to-return-security-deposits/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-27T09:45:00+00:00",
+      "age_hours": 1.3588909425,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Two residents displaced by major house fire in central Aurora Sunday",
       "link": "https://sentinelcolorado.com/metro/two-residents-displaced-by-major-house-fire-in-central-aurora-sunday/",
       "source": "Sentinel",
       "pub_date": "2026-07-27T05:08:33+00:00",
-      "age_hours": 4.052734115,
+      "age_hours": 5.967572944722222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Triple-digit temperatures send Coloradans to cool off in Clear Creek",
       "link": "https://kdvr.com/news/local/triple-digit-temperatures-send-coloradans-to-cool-off-in-clear-creek/",
       "source": "Fox31",
       "pub_date": "2026-07-26T23:35:09+00:00",
-      "age_hours": 9.609195791944444,
+      "age_hours": 11.523694739722222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Hike through a canyon at this new Colorado open space",
       "link": "https://kdvr.com/denver-guide/hike-through-a-canyon-at-this-new-colorado-open-space/",
       "source": "Fox31",
       "pub_date": "2026-07-26T20:23:45+00:00",
-      "age_hours": 12.799195743055556,
+      "age_hours": 14.713694694166668,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Man caught on camera throwing rock through window of Denver business",
       "link": "https://kdvr.com/news/local/man-caught-on-camera-throwing-rock-through-window-of-denver-business/",
       "source": "Fox31",
       "pub_date": "2026-07-26T19:31:05+00:00",
-      "age_hours": 13.676973509722224,
+      "age_hours": 15.591472463055554,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Disaster\u2019s 50th anniversary brings flood of memories",
       "link": "https://bizwest.com/2026/07/26/disasters-50th-anniversary-brings-flood-of-memories/",
       "source": "BizWest",
       "pub_date": "2026-07-26T15:35:44+00:00",
-      "age_hours": 17.598503035833335,
+      "age_hours": 19.51271761222222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "\u2018CoCo\u2019 would take taxpayers for a ride | John Caldara",
       "link": "https://www.coloradopolitics.com/2026/07/26/coco-would-take-taxpayers-for-a-ride-john-caldara/",
       "source": "CO Politics",
       "pub_date": "2026-07-26T11:00:00+00:00",
-      "age_hours": 22.195216545555553,
+      "age_hours": 24.110014847222224,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "At Silas Soule\u2019s gravesite, a minister honors a heroic figure by reading his letters",
       "link": "https://coloradosun.com/2026/07/26/nancy-niero-silas-soule-graveside-reading-letters/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-26T10:20:00+00:00",
-      "age_hours": 22.861243194444445,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "The Bookies Bookstore explores the paranormal, superheroes and Ireland",
-      "link": "https://coloradosun.com/2026/07/26/the-bookies-bookstore-recommendations-july-2026/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-07-26T08:05:00+00:00",
-      "age_hours": 25.11124405111111,
+      "age_hours": 24.775557641666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,25 +108,16 @@
       "link": "https://www.westword.com/food-drink/every-restaurant-opening-and-closing-denver-new-gennaros-tenant-40914879/",
       "source": "Westword",
       "pub_date": "2026-07-25T08:00:00-06:00",
-      "age_hours": 43.19512194222222,
+      "age_hours": 45.10964302944445,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "Victor Marx dinged for campaign finance violations",
-      "link": "https://coloradosun.com/2026/07/24/victor-marx-dinged-for-campaign-finance-violations/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-07-24T22:30:21+00:00",
-      "age_hours": 58.68874448194444,
-      "breaking": false,
-      "time_ago": "2 days ago"
     },
     {
       "title": "Colorado produce not tied to nationwide cyclospora outbreak, agriculture officials say",
       "link": "https://www.coloradopolitics.com/2026/07/24/colorado-produce-not-tied-to-nationwide-cyclospora-outbreak-agriculture-officials-say/",
       "source": "CO Politics",
       "pub_date": "2026-07-24T22:12:44+00:00",
-      "age_hours": 58.98299437777778,
+      "age_hours": 60.897792671388885,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -108,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/24/lawsuit-disputes-hudsons-claim-it-cant-stop-ice-facility/",
       "source": "BizWest",
       "pub_date": "2026-07-24T22:05:05+00:00",
-      "age_hours": 59.109336883611114,
+      "age_hours": 61.02355138,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +135,7 @@
       "link": "https://bizwest.com/2026/07/24/saturday-fundraiser-to-help-save-jamestown-mercantile/",
       "source": "BizWest",
       "pub_date": "2026-07-24T19:49:08+00:00",
-      "age_hours": 61.37517025583333,
+      "age_hours": 63.28938475388889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +144,7 @@
       "link": "https://kdvr.com/news/local/denver-police-arrest-suspect-in-shooting-that-left-1-dead-1-injured/",
       "source": "Fox31",
       "pub_date": "2026-07-24T19:39:14+00:00",
-      "age_hours": 61.54114032472222,
+      "age_hours": 63.45563927138889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://www.denver7.com/news/investigations/give-me-my-money-back-homeowners-accuse-landscaper-of-taking-deposits-then-vanishing",
       "source": "Denver7",
       "pub_date": "2026-07-24T17:45:39+00:00",
-      "age_hours": 63.43408701055556,
+      "age_hours": 65.34854536472223,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/24/2-from-boulder-named-to-governors-competitive-council-executive-panel/",
       "source": "BizWest",
       "pub_date": "2026-07-24T14:01:11+00:00",
-      "age_hours": 67.17433695194445,
+      "age_hours": 69.08855144944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://bizwest.com/2026/07/24/estes-stanley-carousel-set-to-open-soon/",
       "source": "BizWest",
       "pub_date": "2026-07-24T13:55:41+00:00",
-      "age_hours": 67.26600365694443,
+      "age_hours": 69.18021815222222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://bizwest.com/2026/07/23/trump-admin-taps-cu-infleqtion-to-help-build-worlds-most-powerful-scientific-platform/",
       "source": "BizWest",
       "pub_date": "2026-07-23T21:43:59+00:00",
-      "age_hours": 83.46100369000001,
-      "breaking": false,
-      "time_ago": "3 days ago"
-    },
-    {
-      "title": "Quantinuum adds pair of execs",
-      "link": "https://bizwest.com/2026/07/23/quantinuum-adds-pair-of-execs/",
-      "source": "BizWest",
-      "pub_date": "2026-07-23T21:36:07+00:00",
-      "age_hours": 83.59211483638889,
-      "breaking": false,
-      "time_ago": "3 days ago"
-    },
-    {
-      "title": "Former Noodles exec fills new post at Ziggi\u2019s",
-      "link": "https://bizwest.com/2026/07/23/former-noodles-exec-fills-new-post-at-ziggis/",
-      "source": "BizWest",
-      "pub_date": "2026-07-23T21:22:44+00:00",
-      "age_hours": 83.81517041888888,
+      "age_hours": 85.37521818027778,
       "breaking": false,
       "time_ago": "3 days ago"
     }
