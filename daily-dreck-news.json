@@ -1,78 +1,96 @@
 {
   "fetched_date": "2026-07-28",
-  "fetched_at": "2026-07-28 00:39:28",
+  "fetched_at": "2026-07-28 01:36:12",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Comedian John Oliver takes on Buc-ee\u2019s over its legal tactics. Date for hearing in El Paso County not yet set",
+      "link": "https://www.cpr.org/2026/07/27/john-oliver-southern-colorado-buc-ees/",
+      "source": "CPR",
+      "pub_date": "2026-07-28T01:31:02+00:00",
+      "age_hours": 0.08145706055555554,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "Longmont tiny home village for veterans reaches full capacity after community steps in to close funding gap",
+      "link": "https://www.9news.com/article/news/community/longmont-veterans-tiny-home-village-reaches-capacity-community-closes-funding-gap/73-679c3e9b-483f-425e-beaf-fb04b3629f9c",
+      "source": "9News",
+      "pub_date": "2026-07-28T00:48:26+00:00",
+      "age_hours": 0.7916283658333334,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
     {
       "title": "Family say Denver-area woman arrested by ICE at Miami Airport",
       "link": "https://www.9news.com/article/news/politics/immigration-news/family-say-denver-area-woman-arrested-by-ice-at-miami-airport/73-7350512d-b54e-4443-a149-434bdaa753c2",
       "source": "9News",
       "pub_date": "2026-07-27T22:56:58+00:00",
-      "age_hours": 1.7038451133333334,
+      "age_hours": 2.649406210277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Aurora City Council demands GEO Group cooperation over tuberculosis case",
       "link": "https://sentinelcolorado.com/metro/aurora-city-council-demands-geo-group-cooperation-over-tuberculosis-case/",
       "source": "Sentinel",
       "pub_date": "2026-07-27T22:54:12+00:00",
-      "age_hours": 1.7504866641666668,
+      "age_hours": 2.6965038891666664,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Divided 10th Circuit upholds Colorado congestion fee on car rentals",
       "link": "https://www.coloradopolitics.com/2026/07/27/divided-10th-circuit-upholds-colorado-congestion-fee-on-car-rentals/",
       "source": "CO Politics",
       "pub_date": "2026-07-27T21:16:57+00:00",
-      "age_hours": 3.3712891025,
+      "age_hours": 4.317303677777778,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Porsche Fort Collins relocates to temporary showroom",
       "link": "https://bizwest.com/2026/07/27/porsche-fort-collins-relocates-to-temporary-showroom/",
       "source": "BizWest",
       "pub_date": "2026-07-27T20:52:38+00:00",
-      "age_hours": 3.775505974166667,
+      "age_hours": 4.720982623055556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Haselden Construction Announces Newest Subsidiary",
       "link": "https://milehighcre.com/haselden-construction-announces-newest-subsidiary/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-27T20:52:04+00:00",
-      "age_hours": 3.7852423883333333,
+      "age_hours": 4.730725642777778,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "State offers multi-million incentives package to resort operator",
       "link": "https://bizwest.com/2026/07/27/state-offers-multi-million-incentives-package-to-resort-operator/",
       "source": "BizWest",
       "pub_date": "2026-07-27T20:47:23+00:00",
-      "age_hours": 3.863005988333333,
+      "age_hours": 4.808482634722222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Tickets still on sale for Mid-Year Economic Forum",
       "link": "https://bizwest.com/2026/07/27/tickets-still-on-sale-for-mid-year-economic-forum/",
       "source": "BizWest",
       "pub_date": "2026-07-27T20:40:12+00:00",
-      "age_hours": 3.9827282175,
+      "age_hours": 4.928204865,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Gathering honors Northern Colorado Startups to Watch",
       "link": "https://bizwest.com/2026/07/27/gathering-honors-northern-colorado-startups-to-watch/",
       "source": "BizWest",
       "pub_date": "2026-07-27T20:36:01+00:00",
-      "age_hours": 4.0524504475,
+      "age_hours": 4.9979270966666665,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -81,108 +99,90 @@
       "link": "https://bizwest.com/2026/07/27/broomfield-officials-to-review-chipotle-plans-near-baseline/",
       "source": "BizWest",
       "pub_date": "2026-07-27T20:33:22+00:00",
-      "age_hours": 4.0966176886111105,
+      "age_hours": 5.042094160277778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Half-priced Broncos tickets go on sale Tuesday",
       "link": "https://kdvr.com/sports/denver-broncos/half-priced-broncos-tickets-go-on-sale-tuesday/",
       "source": "Fox31",
       "pub_date": "2026-07-27T20:27:54+00:00",
-      "age_hours": 4.188514854722222,
+      "age_hours": 5.134321381944444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Two metro nonprofits partner to fight food insecurity \u2014\u00a0for people and their pets",
       "link": "https://sentinelcolorado.com/metro/two-metro-nonprofits-partner-to-fight-food-insecurity-for-people-and-their-pets/",
       "source": "Sentinel",
       "pub_date": "2026-07-27T19:52:04+00:00",
-      "age_hours": 4.786042501666667,
+      "age_hours": 5.7320596366666665,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Proposal would ask voters to align Aurora city elections with federal cycles to boost voter turnout",
       "link": "https://sentinelcolorado.com/metro/proposal-would-ask-voters-to-align-aurora-city-elections-with-federal-cycles-to-boost-voter-turnout/",
       "source": "Sentinel",
       "pub_date": "2026-07-27T19:45:50+00:00",
-      "age_hours": 4.889931715555555,
+      "age_hours": 5.835948783611111,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Chamber names its Top 25 Most Powerful Women in Business | NONPROFIT REGISTER",
       "link": "https://www.coloradopolitics.com/2026/07/27/chamber-names-its-top-25-most-powerful-women-in-business-nonprofit-register/",
       "source": "CO Politics",
       "pub_date": "2026-07-27T19:43:56+00:00",
-      "age_hours": 4.921566971944444,
+      "age_hours": 5.867581532777777,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Work Begins on Mural at Denver Pavilions",
       "link": "https://milehighcre.com/work-begins-on-mural-at-denver-pavilions/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-27T19:09:41+00:00",
-      "age_hours": 5.491631295277777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.4371145472222215,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Professor highlights travelers' rights after ICE arrest at Denver airport",
       "link": "https://www.9news.com/article/news/local/travelers-rights-ice-arrest-denver-airport/73-907f78d6-eebb-48f2-8335-af161a27ad7b",
       "source": "9News",
       "pub_date": "2026-07-27T18:52:08+00:00",
-      "age_hours": 5.784400759166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.7299618288888885,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Howell Construction Completes New Distillery for The Curated Barrel Project",
       "link": "https://milehighcre.com/howell-construction-completes-new-distillery-for-the-curated-barrel-project/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-27T18:45:19+00:00",
-      "age_hours": 5.8977424175,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.843225666944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Business Buzz: The latest Colorado economic forecast and a builder's reality check on housing",
       "link": "https://www.9news.com/article/money/business-brief/latest-colorado-economic-forecast-and-builders-reality-check-on-housing/73-d5483455-dfdb-4f55-acd8-47b70170d29c",
       "source": "9News",
       "pub_date": "2026-07-27T18:10:37+00:00",
-      "age_hours": 6.476345239166667,
+      "age_hours": 7.421906299722223,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Colorado Lottery player wins $250,000 in drawing",
-      "link": "https://www.9news.com/article/news/lottery/colorado-lottery-lotto-plus-winner/73-cf4e23ff-4b36-4ab4-acfd-8601ffb131c6",
-      "source": "9News",
-      "pub_date": "2026-07-27T16:37:11+00:00",
-      "age_hours": 8.033567564722222,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Teen boy killed, 4 others injured by lightning on Mount Blue Sky",
       "link": "https://coloradosun.com/2026/07/27/teen-boy-killed-hikers-injured-lightning-mount-blue-sky/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-27T15:13:47+00:00",
-      "age_hours": 9.42336822388889,
+      "age_hours": 10.36887030361111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Veterans nonprofit receives $50K donation for Longmont project",
-      "link": "https://bizwest.com/2026/07/27/veterans-nonprofit-receives-50k-donation-for-longmont-project/",
-      "source": "BizWest",
-      "pub_date": "2026-07-27T13:13:51+00:00",
-      "age_hours": 11.4218955025,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
