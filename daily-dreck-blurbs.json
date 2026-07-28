@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-07-27",
-  "lead_headline": "Restaurant tracker logged 5 weekend leads including Sandomi at Edgewater, Marczyk FineBurger, Mother Other vegan debut; subscriptions net +2 since Friday amid churn volatility",
+  "generated_date": "2026-07-28",
+  "lead_headline": "Park Burger's 15-year Highlands run ends today; restaurant tracker added 1 new lead (Bad Ass Coffee in Englewood)",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 new leads since Friday</strong> \u2014 Sandomi (Japanese sandos, Edgewater), Marczyk FineBurger (Northfield), Mother Other (vegan, Baker), PHO & WOK (Evans), Blossom by SYC (LoHi). Closures: Pizzeria Lui (10 years), Church & Union Denver.",
+      "blurb": "<strong>1 new lead today</strong> \u2014 Bad Ass Coffee (Englewood, former Starbucks). Closures: Park Burger Highlands (15 years, lease ended).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "+1",
         "label2": "closed",
-        "value2": "\u22122",
-        "period": "since Friday"
+        "value2": "\u22121",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "163",
         "label2": "closed",
-        "value2": "145",
+        "value2": "146",
         "period": "all leads"
       }
     },
@@ -43,12 +43,12 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Third straight zero-application day</strong> \u2014 unprecedented three-day drought confirms post-backlog normalization is complete. Week ended at 8 total applications vs. prior week's 152, marking sustained 95% volume collapse. No status changes or removals detected over weekend. Pattern now entrenched: single-digit weekly baseline replacing June's triple-digit clearance anomaly. Sporadic filing activity signals return to normal operational cadence.",
+      "blurb": "<strong>Fourth consecutive zero-application day</strong> extends unprecedented filing drought to full work week. Seven-day count remains frozen at 8 applications \u2014 95% below prior week's 152-filing backlog surge. No status updates or removals recorded. Post-clearance baseline now cemented: sporadic single-digit weekly volume replacing June's anomalous triple-digit processing spike. Pattern confirms operational cadence has normalized following database maintenance completion.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>76 mentions this week</strong> across 13 sources, up 13% from prior week's 67 and extending growth to three consecutive weeks. Instagram led at 34 citations (45% share), followed by Reddit (11), Denver Post/Facebook (9 each). Weekend highlights: Westminster Mall nostalgia piece, Drew Barrymore/Chef Geiger culinary feature, RiNo sauna closure, FBI e-bike retailer seizures. Week averaged 10.9 mentions/day vs. prior period's 9.6. Year-to-date tally reaches 1,145 mentions from 108 total sources.",
+      "blurb": "<strong>86 mentions this week</strong> across 16 sources, up 26% from prior week's 68 and marking fourth consecutive week of growth. Instagram dominated at 33 citations (38% share), trailed by Facebook (14), Denver Post (13), Reddit (11). Monday highlights: Alterra ski headquarters relocation report (Building Salt Lake), Fire on the Mountain Central Park expansion (Denver Post), Union Station preservation feature. Week averaged 12.3 mentions/day vs. prior period's 9.7 \u2014 strongest sustained pickup since late May. Year-to-date total reaches 1,167 mentions from 111 sources.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "1",
+        "value1": "6",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "76",
+        "value1": "86",
         "class1": "up",
         "label2": "sources",
-        "value2": "13",
+        "value2": "16",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +2 since Friday</strong> (7 new, 5 canceled) \u2014 weekend brought modest acquisition relief after Saturday's flat performance. MTD sinks deeper to <strong>\u221230</strong> (\u22121.2/day) as July erosion continues unabated. 90-day net holds at <strong>+81</strong>. Weekend showed bifurcated pattern: Friday +2, Saturday 0, but aggregate 7-new acquisition over two days matches late-June weekly lows and signals persistent demand fragility despite controlled churn. YTD +196 (+0.9/day) intact but July's \u22121.3/day drag now entering fourth week.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) \u2014 cleanest single-day performance in three weeks pushes MTD to <strong>\u221229</strong> (\u22121.1/day). 90-day net stands at <strong>+82</strong>. Recent pattern shows volatility easing: after mid-July's spike cancellations (\u221214 on 7/21), last five days averaged +0.2/day with controlled churn. Yet monthly trajectory remains negative for 28th straight day \u2014 July pacing toward worst month since March. YTD +197 (+0.9/day) stable but requires August reversal to sustain annual growth momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-30",
-      "net_ytd": "196",
-      "net_mtd_per_day": "-1.2",
-      "net_ytd_per_day": "0.9",
-      "annual_mtd": "-22",
-      "annual_ytd": "163",
-      "monthly_mtd": "-8",
-      "monthly_ytd": "33"
+      "net_mtd": -29,
+      "net_ytd": 197,
+      "net_mtd_per_day": -1.1,
+      "net_ytd_per_day": 0.9,
+      "annual_mtd": -22,
+      "annual_ytd": 169,
+      "monthly_mtd": -7,
+      "monthly_ytd": 28
     }
   }
 }
