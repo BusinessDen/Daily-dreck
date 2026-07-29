@@ -1,42 +1,60 @@
 {
   "fetched_date": "2026-07-29",
-  "fetched_at": "2026-07-29 19:31:25",
+  "fetched_at": "2026-07-29 20:23:37",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 9,
   "articles": [
     {
-      "title": "Fort Morgan meatpackers reach tentative agreement with Cargill to end 70-day lockout",
+      "title": "Colorado elevates new State Demographer",
+      "link": "https://bizwest.com/2026/07/29/colorado-elevates-new-state-demographer/",
+      "source": "BizWest",
+      "pub_date": "2026-07-29T20:15:09+00:00",
+      "age_hours": 0.1354620522222222,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "Colorado turns 150: Here\u2019s how communities across the state are celebrating and reflecting",
+      "link": "https://www.cpr.org/2026/07/29/colorado-day-150-events-celebrations/",
+      "source": "CPR",
+      "pub_date": "2026-07-29T19:40:57+00:00",
+      "age_hours": 0.7062814863888889,
+      "breaking": true,
+      "time_ago": "42 min ago"
+    },
+    {
+      "title": "Fort Morgan meatpackers reach tentative agreement with Cargill to end nearly 70-day lockout",
       "link": "https://coloradosun.com/2026/07/29/fort-morgan-meatpackers-reach-tentative-agreement-with-cargill-to-end-70-day-lockout/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-29T19:27:46+00:00",
-      "age_hours": 0.056692828333333334,
+      "age_hours": 0.9258071577777778,
       "breaking": true,
-      "time_ago": "3 min ago"
+      "time_ago": "55 min ago"
     },
     {
       "title": "Sundance movie premieres clustered in first week of Boulder fest",
       "link": "https://bizwest.com/2026/07/29/sundance-movie-premieres-clustered-in-first-week-of-boulder-fest/",
       "source": "BizWest",
       "pub_date": "2026-07-29T18:35:31+00:00",
-      "age_hours": 0.9271309672222223,
+      "age_hours": 1.7960180705555555,
       "breaking": true,
-      "time_ago": "55 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
-      "title": "APD seek man accused of vandalizing businesses",
+      "title": "APD seeks man accused of vandalizing businesses",
       "link": "https://kdvr.com/news/local/apd-seek-man-accused-of-vandalizing-businesses/",
       "source": "Fox31",
       "pub_date": "2026-07-29T17:09:36+00:00",
-      "age_hours": 2.3599117769444447,
+      "age_hours": 3.229351285,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver labor acknowledgment proposal faces council committee questions",
       "link": "https://www.coloradopolitics.com/2026/07/29/denver-labor-acknowledgment-proposal-faces-council-committee-questions/",
       "source": "CO Politics",
       "pub_date": "2026-07-29T16:30:25+00:00",
-      "age_hours": 3.0133845925,
+      "age_hours": 3.8827637172222222,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -45,70 +63,70 @@
       "link": "https://milehighcre.com/broncos-move-into-new-175m-training-camp/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-29T16:10:00+00:00",
-      "age_hours": 3.3527255125,
+      "age_hours": 4.22172971,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Target opens 48th location in Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/target-opens-firestone/73-5e6c5538-ae80-4141-af39-976cebeb92de",
       "source": "9News",
       "pub_date": "2026-07-29T16:01:01+00:00",
-      "age_hours": 3.5027110330555553,
+      "age_hours": 4.3719994077777775,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Country singer cancels, reschedules Denver tour stop midconcert",
       "link": "https://kdvr.com/news/local/country-singer-cancels-reschedules-denver-tour-stop-midconcert/",
       "source": "Fox31",
       "pub_date": "2026-07-29T15:35:03+00:00",
-      "age_hours": 3.9357450825,
+      "age_hours": 4.805184596388889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Ambrosia Biosciences hires obesity specialist as chief medical officer",
       "link": "https://bizwest.com/2026/07/29/ambrosia-biosciences-hires-obesity-specialist-as-chief-medical-officer/",
       "source": "BizWest",
       "pub_date": "2026-07-29T13:13:35+00:00",
-      "age_hours": 6.292687140833334,
+      "age_hours": 7.161573664444445,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Louisville window manufacturer Alpen raises $6M Series B",
       "link": "https://bizwest.com/2026/07/29/louisville-window-manufacturer-alpen-raises-6m-series-b/",
       "source": "BizWest",
       "pub_date": "2026-07-29T13:09:19+00:00",
-      "age_hours": 6.363798261666666,
+      "age_hours": 7.232684781944445,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Prost opening 5th Colorado biergarten",
       "link": "https://www.9news.com/article/life/style/colorado-guide/prost-biergarten-beer-garden-brewery/73-6d8ec5a5-afa8-42b4-87ae-ff4a2c58b387",
       "source": "9News",
       "pub_date": "2026-07-29T13:03:16+00:00",
-      "age_hours": 6.465211104722223,
+      "age_hours": 7.334499465833334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Atop taxes, here\u2019s how much each Colorado resident pays in fees",
       "link": "https://www.9news.com/article/news/local/local-politics/how-many-fees-colorado/73-06ba9955-3614-4614-98c7-1bf02998cff4",
       "source": "9News",
       "pub_date": "2026-07-29T11:53:10+00:00",
-      "age_hours": 7.633544499722222,
+      "age_hours": 8.502832851666666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Wing Shack opens new northern Colorado location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/wing-shack-fort-collins/73-6be7bf34-716b-4cc8-8c49-3ca62380701c",
       "source": "9News",
       "pub_date": "2026-07-29T11:25:42+00:00",
-      "age_hours": 8.091322325555556,
+      "age_hours": 8.960610666944445,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -117,16 +135,7 @@
       "link": "https://www.9news.com/article/news/nation-world/national-chicken-wing-day-deals-freebies/507-8e910f93-f01d-4295-864a-ce0b4f602922",
       "source": "9News",
       "pub_date": "2026-07-29T10:49:35+00:00",
-      "age_hours": 8.693266810555555,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Negotiations resume nearly 70 days after Cargill meatpackers were locked out over a new contract",
-      "link": "https://coloradosun.com/2026/07/29/cargill-lockout-wheres-the-beef/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-07-29T10:00:00+00:00",
-      "age_hours": 9.519471479722224,
+      "age_hours": 9.562555142777779,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -135,52 +144,43 @@
       "link": "https://denverite.com/2026/07/29/cathedral-high-school-hotel-redevelopment-toerber/",
       "source": "Denverite",
       "pub_date": "2026-07-29T10:00:00+00:00",
-      "age_hours": 9.519575688055557,
+      "age_hours": 10.38870934861111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
+    },
+    {
+      "title": "Negotiations resume nearly 70 days after Cargill meatpackers were locked out over a new contract",
+      "link": "https://coloradosun.com/2026/07/29/cargill-lockout-wheres-the-beef/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-07-29T09:45:00+00:00",
+      "age_hours": 10.638585683611112,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "El Paso County rejects multi-family zoning request near Monument Academy",
       "link": "https://www.coloradopolitics.com/2026/07/28/el-paso-county-rejects-multi-family-zoning-request-near-monument-academy/",
       "source": "CO Politics",
       "pub_date": "2026-07-28T23:47:37+00:00",
-      "age_hours": 19.726718054166668,
+      "age_hours": 20.59609717,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Xcel Energy asks customers in Colorado to cut back power use during peak hours on hot days",
       "link": "https://www.denver7.com/news/local-news/xcel-energy-asks-customers-in-colorado-to-cut-back-power-use-during-peak-hours-on-hot-days",
       "source": "Denver7",
       "pub_date": "2026-07-28T23:39:56+00:00",
-      "age_hours": 19.85422350944444,
+      "age_hours": 20.72358142527778,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Q&A with Jeffco Public Schools\u2019 interim superintendent on budget deficit, federal investigation",
       "link": "https://www.coloradopolitics.com/2026/07/28/qa-with-jeffco-public-schools-interim-superintendent-on-budget-deficit-federal-investigation/",
       "source": "CO Politics",
       "pub_date": "2026-07-28T22:18:56+00:00",
-      "age_hours": 21.204773702777775,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Judge rejects move to dismiss lawsuit over Greeley election",
-      "link": "https://bizwest.com/2026/07/28/judge-rejects-move-to-dismiss-lawsuit-over-greeley-election/",
-      "source": "BizWest",
-      "pub_date": "2026-07-28T21:28:59+00:00",
-      "age_hours": 22.036020514999997,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Partnership expands Weld mobile behavioral-health services",
-      "link": "https://bizwest.com/2026/07/28/partnership-expands-weld-mobile-behavioral-health-services/",
-      "source": "BizWest",
-      "pub_date": "2026-07-28T20:31:18+00:00",
-      "age_hours": 22.997409434166666,
+      "age_hours": 22.074152820000002,
       "breaking": false,
       "time_ago": "22 hrs ago"
     }
