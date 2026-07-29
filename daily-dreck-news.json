@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-07-29",
-  "fetched_at": "2026-07-29 16:32:36",
+  "fetched_at": "2026-07-29 17:29:12",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "APD seek man accused of vandalizing businesses",
+      "link": "https://kdvr.com/news/local/apd-seek-man-accused-of-vandalizing-businesses/",
+      "source": "Fox31",
+      "pub_date": "2026-07-29T17:09:36+00:00",
+      "age_hours": 0.3225181122222222,
+      "breaking": true,
+      "time_ago": "19 min ago"
+    },
     {
       "title": "Denver labor acknowledgment proposal faces council committee questions",
       "link": "https://www.coloradopolitics.com/2026/07/29/denver-labor-acknowledgment-proposal-faces-council-committee-questions/",
       "source": "CO Politics",
       "pub_date": "2026-07-29T16:30:25+00:00",
-      "age_hours": 0.032571379166666664,
+      "age_hours": 0.9760288411111111,
       "breaking": true,
-      "time_ago": "1 min ago"
+      "time_ago": "58 min ago"
     },
     {
       "title": "Broncos Move into New $175M Training Camp",
       "link": "https://milehighcre.com/broncos-move-into-new-175m-training-camp/",
       "source": "Mile High CRE",
       "pub_date": "2026-07-29T16:10:00+00:00",
-      "age_hours": 0.3722078411111111,
+      "age_hours": 1.315089868611111,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Target opens 48th location in Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/target-opens-firestone/73-5e6c5538-ae80-4141-af39-976cebeb92de",
       "source": "9News",
       "pub_date": "2026-07-29T16:01:01+00:00",
-      "age_hours": 0.5221621277777778,
+      "age_hours": 1.4651192075,
       "breaking": true,
-      "time_ago": "31 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Country singer cancels, reschedules Denver tour stop midconcert",
       "link": "https://kdvr.com/news/local/country-singer-cancels-reschedules-denver-tour-stop-midconcert/",
       "source": "Fox31",
       "pub_date": "2026-07-29T15:35:03+00:00",
-      "age_hours": 0.9550988333333332,
+      "age_hours": 1.8983514219444444,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Ambrosia Biosciences hires obesity specialist as chief medical officer",
       "link": "https://bizwest.com/2026/07/29/ambrosia-biosciences-hires-obesity-specialist-as-chief-medical-officer/",
       "source": "BizWest",
       "pub_date": "2026-07-29T13:13:35+00:00",
-      "age_hours": 3.3120955994444445,
+      "age_hours": 4.2549770830555556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Louisville window manufacturer Alpen raises $6M Series B",
       "link": "https://bizwest.com/2026/07/29/louisville-window-manufacturer-alpen-raises-6m-series-b/",
       "source": "BizWest",
       "pub_date": "2026-07-29T13:09:19+00:00",
-      "age_hours": 3.383206725833333,
+      "age_hours": 4.326088210555556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Prost opening 5th Colorado biergarten",
       "link": "https://www.9news.com/article/life/style/colorado-guide/prost-biergarten-beer-garden-brewery/73-6d8ec5a5-afa8-42b4-87ae-ff4a2c58b387",
       "source": "9News",
       "pub_date": "2026-07-29T13:03:16+00:00",
-      "age_hours": 3.4846622075,
+      "age_hours": 4.427619287222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Atop taxes, here\u2019s how much each Colorado resident pays in fees",
       "link": "https://www.9news.com/article/news/local/local-politics/how-many-fees-colorado/73-06ba9955-3614-4614-98c7-1bf02998cff4",
       "source": "9News",
       "pub_date": "2026-07-29T11:53:10+00:00",
-      "age_hours": 4.6529956075,
+      "age_hours": 5.595952685555556,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Wing Shack opens new northern Colorado location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/wing-shack-fort-collins/73-6be7bf34-716b-4cc8-8c49-3ca62380701c",
       "source": "9News",
       "pub_date": "2026-07-29T11:25:42+00:00",
-      "age_hours": 5.110773439444445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.053730517222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "National Chicken Wing Day 2026: Deals and freebies on Wednesday",
       "link": "https://www.9news.com/article/news/nation-world/national-chicken-wing-day-deals-freebies/507-8e910f93-f01d-4295-864a-ce0b4f602922",
       "source": "9News",
       "pub_date": "2026-07-29T10:49:35+00:00",
-      "age_hours": 5.7127179225,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.655675000833334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "EchoStar closes $23B AT&T spectrum sale",
       "link": "https://www.9news.com/article/money/business/echostar-att-spectrum-sale/73-5938919d-1510-4d68-b213-de9dbfe045db",
       "source": "9News",
       "pub_date": "2026-07-29T10:16:43+00:00",
-      "age_hours": 6.260495739722222,
+      "age_hours": 7.203452817222223,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Negotiations resume nearly 70 days after Cargill meatpackers were locked out over a new contract",
       "link": "https://coloradosun.com/2026/07/29/cargill-lockout-wheres-the-beef/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-29T10:00:00+00:00",
-      "age_hours": 6.538937871944444,
+      "age_hours": 7.481844671944445,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "\u2018I see a building you cannot create today:\u2019 The ruins of Cathedral High School have a new future",
       "link": "https://denverite.com/2026/07/29/cathedral-high-school-hotel-redevelopment-toerber/",
       "source": "Denverite",
       "pub_date": "2026-07-29T10:00:00+00:00",
-      "age_hours": 6.538988866388888,
+      "age_hours": 7.4819483741666675,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Historic Five Points church recognized on state, federal level",
       "link": "https://www.9news.com/article/news/local/historic-five-points-church-recognized-on-state-federal-level/73-d1f5e59a-227d-48b4-9b2c-4167e8ca08e3",
       "source": "9News",
       "pub_date": "2026-07-29T05:16:10+00:00",
-      "age_hours": 11.269662410833332,
+      "age_hours": 12.212619488611113,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Immigration judge grants bond for woman arrested by ICE at DIA while boarding Southwest flight",
       "link": "https://www.9news.com/article/news/latest-news-ott/immigration-judge-grants-bond-woman-ice-dia/73-a462eafa-ef1f-4fc1-af6e-60be892e77ba",
       "source": "9News",
       "pub_date": "2026-07-29T04:37:13+00:00",
-      "age_hours": 11.918829126388887,
+      "age_hours": 12.861786205277777,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "El Paso County rejects multi-family zoning request near Monument Academy",
       "link": "https://www.coloradopolitics.com/2026/07/28/el-paso-county-rejects-multi-family-zoning-request-near-monument-academy/",
       "source": "CO Politics",
       "pub_date": "2026-07-28T23:47:37+00:00",
-      "age_hours": 16.745904843055555,
+      "age_hours": 17.68936230111111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Xcel Energy asks customers in Colorado to cut back power use during peak hours on hot days",
       "link": "https://www.denver7.com/news/local-news/xcel-energy-asks-customers-in-colorado-to-cut-back-power-use-during-peak-hours-on-hot-days",
       "source": "Denver7",
       "pub_date": "2026-07-28T23:39:56+00:00",
-      "age_hours": 16.87369470333333,
+      "age_hours": 17.816808223333332,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Q&A with Jeffco Public Schools\u2019 interim superintendent on budget deficit, federal investigation",
       "link": "https://www.coloradopolitics.com/2026/07/28/qa-with-jeffco-public-schools-interim-superintendent-on-budget-deficit-federal-investigation/",
       "source": "CO Politics",
       "pub_date": "2026-07-28T22:18:56+00:00",
-      "age_hours": 18.22396049611111,
+      "age_hours": 19.16741796,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Judge rejects move to dismiss lawsuit over Greeley election",
       "link": "https://bizwest.com/2026/07/28/judge-rejects-move-to-dismiss-lawsuit-over-greeley-election/",
       "source": "BizWest",
       "pub_date": "2026-07-28T21:28:59+00:00",
-      "age_hours": 19.05542944666667,
+      "age_hours": 19.99831094888889,
       "breaking": false,
       "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Partnership expands Weld mobile behavioral-health services",
-      "link": "https://bizwest.com/2026/07/28/partnership-expands-weld-mobile-behavioral-health-services/",
-      "source": "BizWest",
-      "pub_date": "2026-07-28T20:31:18+00:00",
-      "age_hours": 20.016818377777778,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
     }
   ]
 }
