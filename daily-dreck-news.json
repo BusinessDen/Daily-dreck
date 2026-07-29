@@ -1,96 +1,114 @@
 {
   "fetched_date": "2026-07-29",
-  "fetched_at": "2026-07-29 12:45:38",
+  "fetched_at": "2026-07-29 13:37:09",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Ambrosia Biosciences hires obesity specialist as chief medical officer",
+      "link": "https://bizwest.com/2026/07/29/ambrosia-biosciences-hires-obesity-specialist-as-chief-medical-officer/",
+      "source": "BizWest",
+      "pub_date": "2026-07-29T13:13:35+00:00",
+      "age_hours": 0.3871289172222222,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
+    {
+      "title": "Louisville window manufacturer Alpen raises $6M Series B",
+      "link": "https://bizwest.com/2026/07/29/louisville-window-manufacturer-alpen-raises-6m-series-b/",
+      "source": "BizWest",
+      "pub_date": "2026-07-29T13:09:19+00:00",
+      "age_hours": 0.458240045,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "Prost opening 5th Colorado biergarten",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/prost-biergarten-beer-garden-brewery/73-6d8ec5a5-afa8-42b4-87ae-ff4a2c58b387",
+      "source": "9News",
+      "pub_date": "2026-07-29T13:03:16+00:00",
+      "age_hours": 0.5598498622222222,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
     {
       "title": "Atop taxes, here\u2019s how much each Colorado resident pays in fees",
       "link": "https://www.9news.com/article/news/local/local-politics/how-many-fees-colorado/73-06ba9955-3614-4614-98c7-1bf02998cff4",
       "source": "9News",
       "pub_date": "2026-07-29T11:53:10+00:00",
-      "age_hours": 0.8708468613888889,
+      "age_hours": 1.728183281111111,
       "breaking": true,
-      "time_ago": "52 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Wing Shack opens new northern Colorado location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/wing-shack-fort-collins/73-6be7bf34-716b-4cc8-8c49-3ca62380701c",
       "source": "9News",
       "pub_date": "2026-07-29T11:25:42+00:00",
-      "age_hours": 1.3286247102777777,
+      "age_hours": 2.185961131111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "National Chicken Wing Day 2026: Deals and freebies on Wednesday",
       "link": "https://www.9news.com/article/news/nation-world/national-chicken-wing-day-deals-freebies/507-8e910f93-f01d-4295-864a-ce0b4f602922",
       "source": "9News",
       "pub_date": "2026-07-29T10:49:35+00:00",
-      "age_hours": 1.9305691958333333,
+      "age_hours": 2.7879056244444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "EchoStar closes $23B AT&T spectrum sale",
       "link": "https://www.9news.com/article/money/business/echostar-att-spectrum-sale/73-5938919d-1510-4d68-b213-de9dbfe045db",
       "source": "9News",
       "pub_date": "2026-07-29T10:16:43+00:00",
-      "age_hours": 2.478347013611111,
+      "age_hours": 3.335683448333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Cargill lockout: Where\u2019s the beef?",
       "link": "https://coloradosun.com/2026/07/29/cargill-lockout-wheres-the-beef/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-29T10:00:00+00:00",
-      "age_hours": 2.756796343611111,
+      "age_hours": 3.614002435,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "\u2018I see a building you cannot create today:\u2019 The ruins of Cathedral High School have a new future",
       "link": "https://denverite.com/2026/07/29/cathedral-high-school-hotel-redevelopment-toerber/",
       "source": "Denverite",
       "pub_date": "2026-07-29T10:00:00+00:00",
-      "age_hours": 2.75683241,
+      "age_hours": 3.6140980075,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Historic Five Points church recognized on state, federal level",
       "link": "https://www.9news.com/article/news/local/historic-five-points-church-recognized-on-state-federal-level/73-d1f5e59a-227d-48b4-9b2c-4167e8ca08e3",
       "source": "9News",
       "pub_date": "2026-07-29T05:16:10+00:00",
-      "age_hours": 7.487513684722223,
+      "age_hours": 8.34485012,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Immigration judge grants bond for woman arrested by ICE at DIA while boarding Southwest flight",
       "link": "https://www.9news.com/article/news/latest-news-ott/immigration-judge-grants-bond-woman-ice-dia/73-a462eafa-ef1f-4fc1-af6e-60be892e77ba",
       "source": "9News",
       "pub_date": "2026-07-29T04:37:13+00:00",
-      "age_hours": 8.136680405277778,
+      "age_hours": 8.994016837222222,
       "breaking": false,
       "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Aurora crime rate drops 10.5% in first half of 2026. Chief credits technology, focus",
-      "link": "https://sentinelcolorado.com/metro/aurora-crime-rate-drops-10-5-percent-in-first-half-of-2026/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-29T03:03:59+00:00",
-      "age_hours": 9.691243390555556,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
     },
     {
       "title": "Xcel Energy asks customers in Colorado to cut back power use during peak hours on hot days",
       "link": "https://www.denver7.com/news/local-news/xcel-energy-asks-customers-in-colorado-to-cut-back-power-use-during-peak-hours-on-hot-days",
       "source": "Denver7",
       "pub_date": "2026-07-28T23:39:56+00:00",
-      "age_hours": 13.091543609166667,
+      "age_hours": 13.948897980555556,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -99,34 +117,25 @@
       "link": "https://www.9news.com/article/news/local/mile-high-united-way-backpacks-back-to-school-bash/73-4620b9d2-3ad9-4d7c-8c10-86fc2187e5e6",
       "source": "9News",
       "pub_date": "2026-07-28T22:54:55+00:00",
-      "age_hours": 13.841680459166668,
+      "age_hours": 14.699016887777777,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Fired Denver Police recruit under investigation with Sheridan Police",
       "link": "https://www.9news.com/article/news/local/fired-denver-police-recruit-under-investigation-sheridan-police/73-dcf9245d-68ec-4d7c-aa33-6b58882090fc",
       "source": "9News",
       "pub_date": "2026-07-28T22:46:58+00:00",
-      "age_hours": 13.97418050138889,
+      "age_hours": 14.83151692861111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Judge rejects move to dismiss lawsuit over Greeley election",
       "link": "https://bizwest.com/2026/07/28/judge-rejects-move-to-dismiss-lawsuit-over-greeley-election/",
       "source": "BizWest",
       "pub_date": "2026-07-28T21:28:59+00:00",
-      "age_hours": 15.273353303333334,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Aurora council agrees to ask voters whether to shift city elections to even-numbered years",
-      "link": "https://sentinelcolorado.com/metro/proposal-would-ask-voters-to-align-aurora-city-elections-with-federal-cycles-to-boost-voter-turnout/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-28T20:35:44+00:00",
-      "age_hours": 16.162077019166667,
+      "age_hours": 16.13046293138889,
       "breaking": false,
       "time_ago": "16 hrs ago"
     },
@@ -135,54 +144,45 @@
       "link": "https://bizwest.com/2026/07/28/partnership-expands-weld-mobile-behavioral-health-services/",
       "source": "BizWest",
       "pub_date": "2026-07-28T20:31:18+00:00",
-      "age_hours": 16.234742700833333,
+      "age_hours": 17.091851853333335,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Federal judge clarifies ex-GOP treasurer candidate\u2019s burden to prove defamation claims",
       "link": "https://www.coloradopolitics.com/2026/07/28/federal-judge-clarifies-ex-gop-treasurer-candidates-burden-to-prove-defamation-claims/",
       "source": "CO Politics",
       "pub_date": "2026-07-28T20:10:48+00:00",
-      "age_hours": 16.577290133333335,
+      "age_hours": 17.435020180833334,
       "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Aurora Sports Notebook: Gold Helmet winner, softball record holder, multi-sport standout and performing arts fixture set to join Eaglecrest Hall of Fame",
-      "link": "https://sentinelcolorado.com/sentinel-blogs/courtney-oakes/aurora-sports-notebook-gold-helmet-winner-softball-record-holder-multi-sport-standout-and-performing-arts-fixture-set-to-join-eaglecrest-hall-of-fame/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-28T20:08:25+00:00",
-      "age_hours": 16.617354909166668,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "No movement on Aurora\u2019s Eagle County Whitney Reservoir proposal after six years",
-      "link": "https://sentinelcolorado.com/metro/no-movement-on-auroras-eagle-county-whitney-reservoir-proposal-after-six-years/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-28T19:54:15+00:00",
-      "age_hours": 16.8534664025,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Infleqtion\u2019s new quantum computer to be housed in Chicago",
       "link": "https://bizwest.com/2026/07/28/infleqtions-new-quantum-computer-to-be-housed-in-chicago/",
       "source": "BizWest",
       "pub_date": "2026-07-28T19:52:32+00:00",
-      "age_hours": 16.880853857777776,
+      "age_hours": 17.737963005555557,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "NoCo Foundation unveils Housing Literate Leaders cohort",
       "link": "https://bizwest.com/2026/07/28/noco-foundation-unveils-housing-literate-leaders-cohort/",
       "source": "BizWest",
       "pub_date": "2026-07-28T19:48:47+00:00",
-      "age_hours": 16.94335389638889,
+      "age_hours": 17.80046303916667,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
+    },
+    {
+      "title": "Denver is now the first pilot city in North America for 3-wheeled rental 'trikes'",
+      "link": "https://kdvr.com/news/local/denver-is-now-the-first-pilot-city-in-north-america-for-3-wheeled-rental-trikes/",
+      "source": "Fox31",
+      "pub_date": "2026-07-28T19:46:39+00:00",
+      "age_hours": 17.837152343333333,
+      "breaking": false,
+      "time_ago": "17 hrs ago"
     }
   ]
 }
