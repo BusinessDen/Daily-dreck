@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-07-29",
-  "lead_headline": "The Carriage House opens at historic Tear-McFarlane mansion; foreclosure filings logged 71 new cases this week with zero exceeding $4M threshold",
+  "generated_date": "2026-07-30",
+  "lead_headline": "3 Margaritas plants flag at Northfield as chain expands; Park Burger's 15-year Highlands run ends on lease expiration",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today</strong> \u2014 The Carriage House (Cheesman Park, European caf\u00e9 in historic Tear-McFarlane House, opened yesterday).",
+      "blurb": "<strong>2 new leads today</strong> \u2014 3 Margaritas Northfield (Stapleton, chain expansion) and Park Burger closure (Highland, 15-year lease expired).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+1",
         "label2": "closed",
-        "value2": "0",
+        "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "164",
+        "value1": "165",
         "label2": "closed",
-        "value2": "146",
+        "value2": "147",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "71",
+        "value1": "79",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Fifth straight zero-application day</strong> \u2014 filing freeze now spans entire work week at unprecedented duration. Seven-day total locked at 8 applications, down 92% from previous week's 95 (which itself followed June's 152-filing backlog clear). No status changes, no removals. Post-maintenance baseline confirmed: weekly counts settling into low single digits after summer's database processing anomaly. Monitoring for August pattern break.",
+      "blurb": "<strong>Zero applications filed today</strong> \u2014 extends drought to sixth consecutive business day, matching longest dry spell in tracking history. Weekly total frozen at 8 filings, down 91% from prior week's 93 (which itself reflected June's 152-application backlog release). No status updates, no removals across 10,354 tracked licenses. Pattern now definitively post-maintenance: state processing has shifted from burst releases to sustained minimal baseline. August will test whether this represents new normal or temporary summer lull.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,35 +59,35 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>68 mentions this week</strong> across 15 sources \u2014 down 9% from last week's 86 but still tracking above June averages. Instagram held dominance at 28 citations (41% share), followed by Facebook (11), Denver Post (10), Reddit (7). Weekend highlights: Alterra ski headquarters report amplified across business outlets; Fire on the Mountain expansion coverage; Union Station preservation feature drove engagement. Week averaged 9.7 mentions/day vs. prior 12.3 \u2014 natural pullback after four-week growth streak. YTD 1,167 mentions from 111 sources remains robust.",
+      "blurb": "<strong>56 mentions this week</strong> across 13 sources \u2014 down 22% from prior week's 72 but stabilizing above June baselines. Instagram maintained plurality at 21 citations (38% share), trailed by Facebook (11), Denver Post (9), Reddit (5). Notable pickups: Building Salt Lake amplified Alterra ski headquarters relocation story; Fire on the Mountain TAG Burger replacement drove Denver Post traffic; Union Station preservation feature sustained engagement. Week averaged 8.0 mentions/day vs. prior 10.3 \u2014 moderate cooling after July's peak but well above pre-summer rhythm. YTD 1,167 total from 111 sources.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
-        "value1": "6",
+        "value1": "0",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "68",
+        "value1": "56",
         "class1": "down",
         "label2": "sources",
-        "value2": "15",
+        "value2": "13",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) \u2014 second consecutive clean day lifts MTD to <strong>\u221220</strong> (\u22120.7/day). 90-day net holds at <strong>+87</strong>. Last week delivered +23 net after sharp reversal from prior week's \u221239, driven by mid-week acquisition spike (11 new on 7/23, 10 on 7/28). Monthly deficit narrowing but July still pacing as weakest since March. YTD +206 (+1.0/day) intact \u2014 requires August momentum to offset July's drag and sustain annual growth trajectory.",
+      "blurb": "<strong>Net flat yesterday</strong> (1 new, 1 canceled) \u2014 third day without losses holds MTD at <strong>\u221216</strong> (\u22120.6/day). 90-day net steady at <strong>+91</strong>. Last seven days posted +27 net, reversing prior week's \u221216 deficit on strength of mid-week surge (11 new on 7/23, 10 on 7/28). Monthly shortfall persists as July tracks as weakest month since March, but recent acceleration suggests bottom forming. YTD +210 (+1.0/day) remains intact \u2014 August momentum critical to offset July drag and preserve annual growth trajectory.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-20",
-      "net_ytd": "206",
-      "net_mtd_per_day": "-0.7",
+      "net_mtd": "-16",
+      "net_ytd": "210",
+      "net_mtd_per_day": "-0.6",
       "net_ytd_per_day": "1.0",
-      "annual_mtd": "-15",
-      "annual_ytd": "180",
-      "monthly_mtd": "-5",
-      "monthly_ytd": "26"
+      "annual_mtd": "-12",
+      "annual_ytd": "168",
+      "monthly_mtd": "-4",
+      "monthly_ytd": "42"
     }
   }
 }
