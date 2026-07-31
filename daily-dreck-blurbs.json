@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-07-30",
-  "lead_headline": "3 Margaritas plants flag at Northfield as chain expands; Park Burger's 15-year Highlands run ends on lease expiration",
+  "generated_date": "2026-07-31",
+  "lead_headline": "Nothing over $4M on the foreclosure front \u2014 but restaurant tracker logs 4 new leads today, including Dairy Queen and CPK closures finally confirmed.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>2 new leads today</strong> \u2014 3 Margaritas Northfield (Stapleton, chain expansion) and Park Burger closure (Highland, 15-year lease expired).",
+      "blurb": "<strong>4 leads today</strong> \u2014 Soho Hibachi Express shuttered (West Colfax), both lingering Dairy Queen (Regis) and CPK Cherry Creek closures now confirmed, plus California Pizza Kitchen closure officially logged across multiple neighborhoods.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "\u22124",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "165",
         "label2": "closed",
-        "value2": "147",
+        "value2": "149",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "79",
+        "value1": "72",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,46 +43,46 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications filed today</strong> \u2014 extends drought to sixth consecutive business day, matching longest dry spell in tracking history. Weekly total frozen at 8 filings, down 91% from prior week's 93 (which itself reflected June's 152-application backlog release). No status updates, no removals across 10,354 tracked licenses. Pattern now definitively post-maintenance: state processing has shifted from burst releases to sustained minimal baseline. August will test whether this represents new normal or temporary summer lull.",
+      "blurb": "<strong>Still nothing</strong> \u2014 zero applications filed marks <strong>seventh straight business day</strong> without activity, breaking into uncharted territory. Weekly count locked at 5, down 94% from prior week's 8 (which was itself 91% below the preceding 93). Month closes with sustained drought: post-maintenance processing has settled into minimal baseline with no sign of recovery. State either batch-processing on longer cycles or fundamentally throttling intake. August's first week will reveal whether this is structural shift or anomalous lull.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "8",
+        "value1": "5",
         "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>56 mentions this week</strong> across 13 sources \u2014 down 22% from prior week's 72 but stabilizing above June baselines. Instagram maintained plurality at 21 citations (38% share), trailed by Facebook (11), Denver Post (9), Reddit (5). Notable pickups: Building Salt Lake amplified Alterra ski headquarters relocation story; Fire on the Mountain TAG Burger replacement drove Denver Post traffic; Union Station preservation feature sustained engagement. Week averaged 8.0 mentions/day vs. prior 10.3 \u2014 moderate cooling after July's peak but well above pre-summer rhythm. YTD 1,167 total from 111 sources.",
+      "blurb": "<strong>40 mentions this week</strong> across 12 sources \u2014 down 49% from prior week's 79, marking sharpest weekly decline since June. Instagram held lead at 14 citations (35% share), followed by Facebook (9), Denver Post (5), Reddit (3). Building Salt Lake picked up Alterra ski headquarters story; Denver Post covered Fire on the Mountain TAG Burger replacement; Union Station preservation content sustained social engagement. Week averaged 5.7 mentions/day vs. prior 11.3 \u2014 steep drop suggests summer slowdown or post-peak normalization. YTD 1,167 total from 111 sources.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "56",
+        "value1": "40",
         "class1": "down",
         "label2": "sources",
-        "value2": "13",
+        "value2": "12",
         "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net flat yesterday</strong> (1 new, 1 canceled) \u2014 third day without losses holds MTD at <strong>\u221216</strong> (\u22120.6/day). 90-day net steady at <strong>+91</strong>. Last seven days posted +27 net, reversing prior week's \u221216 deficit on strength of mid-week surge (11 new on 7/23, 10 on 7/28). Monthly shortfall persists as July tracks as weakest month since March, but recent acceleration suggests bottom forming. YTD +210 (+1.0/day) remains intact \u2014 August momentum critical to offset July drag and preserve annual growth trajectory.",
+      "blurb": "<strong>Net flat yesterday</strong> (3 new, 3 canceled) \u2014 fourth consecutive day without net growth keeps MTD at <strong>\u221216</strong> (\u22120.5/day), 90-day at <strong>+92</strong>. Last two weeks show divergent pattern: prior seven posted +16 net on mid-week surges (11 new on 7/23, 10 on 7/28); latest seven flat despite healthy acquisition pace. July remains weakest month since March, but recent stability suggests floor established rather than continued erosion. YTD +210 (+1.0/day) intact \u2014 August must deliver meaningful positive net to offset July shortfall and preserve annual trajectory.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "-16",
       "net_ytd": "210",
-      "net_mtd_per_day": "-0.6",
+      "net_mtd_per_day": "-0.5",
       "net_ytd_per_day": "1.0",
       "annual_mtd": "-12",
       "annual_ytd": "168",
