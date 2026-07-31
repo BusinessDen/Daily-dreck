@@ -1,96 +1,123 @@
 {
   "fetched_date": "2026-07-31",
-  "fetched_at": "2026-07-31 21:25:50",
+  "fetched_at": "2026-07-31 22:23:30",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "DEN Academy gives 200 students a free, hands-on look at aviation careers",
+      "link": "https://www.9news.com/article/news/education/den-academy-students-aviation-careers/73-1106c90b-969a-4638-b347-88c470e0f596",
+      "source": "9News",
+      "pub_date": "2026-07-31T22:14:07+00:00",
+      "age_hours": 0.15132585555555558,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Garth Brooks adds 2 more Denver shows in September",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/garth-brooks-adds-third-show-denver/73-dec87635-6dad-48c5-95b2-c52b4c037ee7",
+      "source": "9News",
+      "pub_date": "2026-07-31T22:12:59+00:00",
+      "age_hours": 0.17021480027777777,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "Free Colorado state park entry for active-duty military and veterans in August",
+      "link": "https://kdvr.com/news/problem-solvers/serving-those-who-serve/cpw-offering-free-state-park-entries-to-active-duty-military-and-veterans/",
+      "source": "Fox31",
+      "pub_date": "2026-07-31T21:46:31+00:00",
+      "age_hours": 0.6119740477777779,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "Griswold and Hickenlooper vow action on gun violence ahead of Colorado November vote",
+      "link": "https://sentinelcolorado.com/metro/griswold-and-hickenlooper-vow-action-on-gun-violence-ahead-of-colorado-november-vote/",
+      "source": "Sentinel",
+      "pub_date": "2026-07-31T21:39:28+00:00",
+      "age_hours": 0.7299314119444444,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
     {
       "title": "Colorado 150 events: Celebrate the state's birthday this weekend",
       "link": "https://kdvr.com/news/colorado-150/colorado-150-events-celebrate-the-states-birthday-this-weekend/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:07:25+00:00",
-      "age_hours": 0.3029194661111111,
+      "age_hours": 1.2636406108333333,
       "breaking": true,
-      "time_ago": "18 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Executive survey: More of the same for economy in Q3",
       "link": "https://bizwest.com/2026/07/31/executive-survey-more-of-the-same-for-economy-in-q3/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:30:44+00:00",
-      "age_hours": 0.9134280222222223,
+      "age_hours": 1.8735558780555557,
       "breaking": true,
-      "time_ago": "54 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Richmark sues PDC Energy over drilling agreement, seeks nearly $80M",
       "link": "https://bizwest.com/2026/07/31/richmark-sues-pdc-energy-over-drilling-agreement-seeks-nearly-80m/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:26:19+00:00",
-      "age_hours": 0.9870397411111111,
+      "age_hours": 1.9471675588888888,
       "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Changes to city zoning code could \u2018unlock\u2019 affordable middle housing",
       "link": "https://denverite.com/2026/07/31/denver-missing-middle-housing-zoning-code/",
       "source": "Denverite",
       "pub_date": "2026-07-31T19:26:14+00:00",
-      "age_hours": 1.9889099983333334,
+      "age_hours": 2.949285841388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Greeley-Weld Habitat breakfast exceeds Dick Monfort\u2019s $100K matching challenge",
       "link": "https://bizwest.com/2026/07/31/greeley-weld-habitat-breakfast-exceeds-dick-monforts-100k-matching-challenge/",
       "source": "BizWest",
       "pub_date": "2026-07-31T18:13:19+00:00",
-      "age_hours": 3.2037064172222225,
+      "age_hours": 4.1638342349999995,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "What to know about the Broncos' new training facility",
       "link": "https://kdvr.com/sports/denver-broncos/what-to-know-about-the-broncos-new-training-facility/",
       "source": "Fox31",
       "pub_date": "2026-07-31T18:08:11+00:00",
-      "age_hours": 3.290141796944445,
+      "age_hours": 4.250862983333334,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Garth Brooks adding more shows in Denver due to high demand",
       "link": "https://kdvr.com/denver-guide/garth-brooks-adding-more-shows-in-denver-due-to-high-demand/",
       "source": "Fox31",
       "pub_date": "2026-07-31T17:43:03+00:00",
-      "age_hours": 3.709030569166667,
+      "age_hours": 4.669751713333333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Allo bails on contract to build Boulder fiber network",
       "link": "https://bizwest.com/2026/07/31/allo-bails-on-contract-to-build-boulder-fiber-network/",
       "source": "BizWest",
       "pub_date": "2026-07-31T17:35:57+00:00",
-      "age_hours": 3.8264842325,
+      "age_hours": 4.786612051111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Garth Brooks adds 2 more Denver shows in September",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/garth-brooks-adds-third-show-denver/73-dec87635-6dad-48c5-95b2-c52b4c037ee7",
-      "source": "9News",
-      "pub_date": "2026-07-31T17:31:58+00:00",
-      "age_hours": 3.893485879722222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Registration deadline nears for Mid-Year Economic Forum",
       "link": "https://bizwest.com/2026/07/31/registration-deadline-nears-for-mid-year-economic-forum/",
       "source": "BizWest",
       "pub_date": "2026-07-31T16:25:12+00:00",
-      "age_hours": 5.0056509288888895,
+      "age_hours": 5.965778747222222,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -99,90 +126,63 @@
       "link": "https://bizwest.com/2026/07/31/ex-state-demographer-take-finance-leadership-role-at-cu-system/",
       "source": "BizWest",
       "pub_date": "2026-07-31T15:53:37+00:00",
-      "age_hours": 5.532039850555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.4921676688888885,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Poultry prices punish Pilgrim\u2019s Pride profits",
       "link": "https://bizwest.com/2026/07/31/poultry-prices-punish-pilgrims-pride-profits/",
       "source": "BizWest",
       "pub_date": "2026-07-31T15:47:40+00:00",
-      "age_hours": 5.631206563611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.591334366944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver FBI use aging technology for Boulder murder cold case",
       "link": "https://kdvr.com/news/local/denver-fbi-use-aging-technology-for-boulder-murder-cold-case/",
       "source": "Fox31",
       "pub_date": "2026-07-31T15:23:29+00:00",
-      "age_hours": 6.0351417325,
+      "age_hours": 6.995862879444444,
       "breaking": false,
       "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Federal Government To Sell Nearly 31K SF In Five Points: The Denver Deal Sheet",
+      "link": "https://www.bisnow.com/denver/news/commercial-real-estate/federal-government-to-sell-nearly-31k-sf-in-five-points-the-denver-deal-sheet-135653",
+      "source": "Bisnow",
+      "pub_date": "2026-07-31T14:50:59-04:00",
+      "age_hours": 3.536226778611111,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Victor Marx selects fellow Marine veteran as running mate in Colorado governor\u2019s race",
       "link": "https://coloradosun.com/2026/07/31/victor-marx-george-markert-running-mate-colorado-governors-race/",
       "source": "Colorado Sun",
       "pub_date": "2026-07-31T14:26:59+00:00",
-      "age_hours": 6.976355777499999,
+      "age_hours": 7.936732829444444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Police pursuit ends in crash following reported kidnapping",
       "link": "https://kdvr.com/news/local/police-pursuit-ends-in-crash-following-reported-kidnapping/",
       "source": "Fox31",
       "pub_date": "2026-07-31T14:12:01+00:00",
-      "age_hours": 7.226252741111112,
+      "age_hours": 8.186973875,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Life-sciences execs cite area\u2019s advantages, challenges",
       "link": "https://bizwest.com/2026/07/31/life-sciences-execs-cite-areas-advantages-challenges/",
       "source": "BizWest",
       "pub_date": "2026-07-31T13:44:03+00:00",
-      "age_hours": 7.691484355277778,
+      "age_hours": 8.651612152777778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Woodward stock drops despite strong earnings report",
-      "link": "https://bizwest.com/2026/07/31/woodward-stock-drops-despite-strong-earnings-report/",
-      "source": "BizWest",
-      "pub_date": "2026-07-31T13:34:17+00:00",
-      "age_hours": 7.854262166944444,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Coloradan creates new 'NearbyGrid' app for building community",
-      "link": "https://kdvr.com/denver-guide/coloradan-creates-new-nearbygrid-app-for-building-community/",
-      "source": "Fox31",
-      "pub_date": "2026-07-31T13:29:07+00:00",
-      "age_hours": 7.941252932777778,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Welcome to Colorful Colorado: Here are 150 years of places you should be sure to visit",
-      "link": "https://www.cpr.org/2026/07/31/map-colorado-places-visit-cant-miss-highlights/",
-      "source": "CPR",
-      "pub_date": "2026-07-31T10:00:00+00:00",
-      "age_hours": 11.42617802638889,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Drew Litton: A slight upgrade",
-      "link": "https://coloradosun.com/2026/07/31/drew-litton-broncos-practice-facility-upgrade/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-07-31T08:15:00+00:00",
-      "age_hours": 13.176078132222223,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
