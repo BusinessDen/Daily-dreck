@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-07-31",
-  "fetched_at": "2026-07-31 00:42:04",
+  "fetched_at": "2026-07-31 01:38:13",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Woman arrested by ICE at Denver airport released from Aurora detention center",
+      "link": "https://www.9news.com/article/news/investigations/woman-arrested-ice-at-denver-airport-released-aurora-detention-center/73-ed18b0a7-083e-419d-bfbd-1aa10bf2d3c7",
+      "source": "9News",
+      "pub_date": "2026-07-31T00:58:38+00:00",
+      "age_hours": 0.6562314986111111,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
+    {
+      "title": "Cargill reaches tentative agreement with union representing Fort Morgan beef plant workers",
+      "link": "https://www.9news.com/article/money/business/cargill-reaches-tentative-agreement-union-representing-fort-morgan-beef-plant-workers/73-2220ea73-e522-4016-918e-77f7c9aea432",
+      "source": "9News",
+      "pub_date": "2026-07-31T00:50:57+00:00",
+      "age_hours": 0.7842870725000001,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
     {
       "title": "'They treat me like I'm from there': Why Garth Brooks loves performing in Denver",
       "link": "https://www.9news.com/article/life/style/colorado-guide/garth-brooks-denver-country-music-legend-history/73-ecf4647e-1ee4-42e2-82c1-38e64de34952",
       "source": "9News",
       "pub_date": "2026-07-30T23:51:55+00:00",
-      "age_hours": 0.8320524994444444,
+      "age_hours": 1.7681760330555554,
       "breaking": true,
-      "time_ago": "49 min ago"
-    },
-    {
-      "title": "Woman detained at Denver International Airport released from Aurora ICE facility",
-      "link": "https://kdvr.com/news/local/woman-detained-at-denver-international-airport-released-from-aurora-ice-facility/",
-      "source": "Fox31",
-      "pub_date": "2026-07-30T23:42:30+00:00",
-      "age_hours": 0.9892629819444445,
-      "breaking": true,
-      "time_ago": "59 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "DPS adding secure vestibules to some schools to improve safety",
       "link": "https://www.9news.com/article/news/local/dps-safety-vestibules-2024-bond/73-6de3b3d1-1432-4df4-9e8a-4f96efb74398",
       "source": "9News",
       "pub_date": "2026-07-30T22:40:15+00:00",
-      "age_hours": 2.026496983611111,
+      "age_hours": 2.9626205100000003,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -36,7 +45,7 @@
       "link": "https://www.9news.com/article/news/education/den-academy-students-aviation-careers/73-1106c90b-969a-4638-b347-88c470e0f596",
       "source": "9News",
       "pub_date": "2026-07-30T22:38:49+00:00",
-      "age_hours": 2.0503858775,
+      "age_hours": 2.986509403611111,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -45,97 +54,88 @@
       "link": "https://www.9news.com/article/news/nation-world/back-to-school-supplies-sticker-shock-parents-teachers/507-7daef061-1a23-41ec-b029-cce6d96d906d",
       "source": "9News",
       "pub_date": "2026-07-30T21:07:04+00:00",
-      "age_hours": 3.5795525991666666,
+      "age_hours": 4.515676119444445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "US economy grows a sluggish 1.5% second-quarter with inflation remaining stubbornly high",
       "link": "https://sentinelcolorado.com/uncategorized/us-economy-grows-a-sluggish-1-5-second-quarter-with-inflation-remaining-stubbornly-high/",
       "source": "Sentinel",
       "pub_date": "2026-07-30T20:59:17+00:00",
-      "age_hours": 3.7100431866666668,
+      "age_hours": 4.646391892777778,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Small changes in Hanoi\u2019s streets can mean big disruptions for those who depend on them",
       "link": "https://sentinelcolorado.com/uncategorized/small-changes-in-hanois-streets-can-mean-big-disruptions-for-those-who-depend-on-them/",
       "source": "Sentinel",
       "pub_date": "2026-07-30T20:57:38+00:00",
-      "age_hours": 3.7375432511111115,
+      "age_hours": 4.673891956388888,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "DMC Global\u2019s building products biz posts best quarter since 2024",
       "link": "https://bizwest.com/2026/07/30/dmc-globals-building-products-biz-posts-best-quarter-since-2024/",
       "source": "BizWest",
       "pub_date": "2026-07-30T20:07:12+00:00",
-      "age_hours": 4.576386753055556,
+      "age_hours": 5.5128702625,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Liberty Puzzles founder seeks receiver amid ownership dispute",
       "link": "https://bizwest.com/2026/07/30/liberty-puzzles-founder-seeks-receiver-amid-ownership-dispute/",
       "source": "BizWest",
       "pub_date": "2026-07-30T19:32:27+00:00",
-      "age_hours": 5.155553958888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.0920374511111115,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Environmental diagnostics firm Biota closes $3M seed round",
       "link": "https://bizwest.com/2026/07/30/environmental-diagnostics-firm-biota-closes-3m-seed-round/",
       "source": "BizWest",
       "pub_date": "2026-07-30T19:21:46+00:00",
-      "age_hours": 5.333609523888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Cargill reaches tentative agreement with union representing Fort Morgan beef plant workers",
-      "link": "https://www.9news.com/article/money/business/cargill-reaches-tentative-agreement-union-representing-fort-morgan-beef-plant-workers/73-2220ea73-e522-4016-918e-77f7c9aea432",
-      "source": "9News",
-      "pub_date": "2026-07-30T19:20:25+00:00",
-      "age_hours": 5.357052655277777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.270093015555556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Banner Health buys parcel for $5M along I-25",
       "link": "https://bizwest.com/2026/07/30/banner-health-buys-parcel-for-5m-along-i-25/",
       "source": "BizWest",
       "pub_date": "2026-07-30T18:49:38+00:00",
-      "age_hours": 5.869165111111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.8056486025,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Boulder could adjust tipped wage offsets for restaurants",
       "link": "https://bizwest.com/2026/07/30/boulder-could-adjust-tipped-wage-offsets-for-restaurants/",
       "source": "BizWest",
       "pub_date": "2026-07-30T18:11:22+00:00",
-      "age_hours": 6.506942894722222,
+      "age_hours": 7.443426385833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Crocs stock slides in early trading despite record sales",
       "link": "https://bizwest.com/2026/07/30/crocs-stock-slides-in-early-trading-despite-record-sales/",
       "source": "BizWest",
       "pub_date": "2026-07-30T16:59:22+00:00",
-      "age_hours": 7.706942923055556,
+      "age_hours": 8.643426414722223,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Six more Future Legends entities file for bankruptcy",
       "link": "https://bizwest.com/2026/07/30/six-more-future-legends-entities-file-for-bankruptcy/",
       "source": "BizWest",
       "pub_date": "2026-07-30T13:40:13+00:00",
-      "age_hours": 11.026109594722222,
+      "age_hours": 11.962593086388889,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
@@ -144,45 +144,45 @@
       "link": "https://bizwest.com/2026/07/30/birkenstock-opens-twenty-ninth-street-shop-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-07-30T13:21:42+00:00",
-      "age_hours": 11.33472073611111,
+      "age_hours": 12.271204228055556,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Boulder info analysis-platform Credible Data raises $10M",
       "link": "https://bizwest.com/2026/07/30/boulder-info-analysis-platform-credible-data-raises-10m/",
       "source": "BizWest",
       "pub_date": "2026-07-30T13:17:11+00:00",
-      "age_hours": 11.409998543055556,
+      "age_hours": 12.346482035555557,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Men\u2019s grooming biz Hammer & Nails opens first Colorado location in Broomfield",
       "link": "https://bizwest.com/2026/07/30/mens-grooming-biz-hammer-nails-opens-first-colorado-location-in-broomfield/",
       "source": "BizWest",
       "pub_date": "2026-07-30T13:10:02+00:00",
-      "age_hours": 11.529165238333333,
+      "age_hours": 12.465648731666667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Covering Medical Marijuana Through Workers\u2019 Compensation Can Improve Health And Reduce Opioid Use, Government Study Suggests",
       "link": "https://www.marijuanamoment.net/covering-medical-marijuana-through-workers-compensation-can-improve-health-and-reduce-opioid-use-government-study-suggests/",
       "source": "MJ Moment",
       "pub_date": "2026-07-30T12:35:29+00:00",
-      "age_hours": 12.107116964166668,
+      "age_hours": 13.043436260277778,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Zoe Ma Ma and Dragonfly chef opening new \u201celevated American Chinese\u201d concept next month",
       "link": "https://www.westword.com/food-drink/edwin-zoe-boulder-new-restaurant-american-chinese-40917139/",
       "source": "Westword",
       "pub_date": "2026-07-30T12:23:10-06:00",
-      "age_hours": 6.31163704,
+      "age_hours": 7.248061586944444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     }
   ]
 }
