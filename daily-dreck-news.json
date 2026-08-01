@@ -1,105 +1,123 @@
 {
   "fetched_date": "2026-08-01",
-  "fetched_at": "2026-08-01 09:41:38",
+  "fetched_at": "2026-08-01 10:34:14",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "What\u2019s Working: How Colorado knows 7,322 people found jobs on state\u2019s official job board",
+      "link": "https://coloradosun.com/2026/08/01/colorado-jobs-openings-hires-employers-online/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-01T10:00:00+00:00",
+      "age_hours": 0.5654202330555556,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
+    {
+      "title": "\u2018There\u2019s no place like my rez\u2019: Two-Spirit artists reimagine the ruby slippers",
+      "link": "https://www.cpr.org/2026/08/01/indigenous-couture-fashion-denver-art-museum/",
+      "source": "CPR",
+      "pub_date": "2026-08-01T10:00:00+00:00",
+      "age_hours": 0.5656311577777777,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
     {
       "title": "Moose captured on camera swimming near St. Mary's Glacier surrounded by hikers",
       "link": "https://kdvr.com/news/local/moose-captured-on-camera-swimming-near-st-marys-glacier-surrounded-by-hikers/",
       "source": "Fox31",
       "pub_date": "2026-08-01T02:49:49+00:00",
-      "age_hours": 6.859994155833333,
+      "age_hours": 7.735888708333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Weld County rejects joining Catalyst project",
       "link": "https://bizwest.com/2026/07/31/weld-county-rejects-joining-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-08-01T00:12:16+00:00",
-      "age_hours": 9.48500037,
+      "age_hours": 10.360526534444444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Study ranks multiple in Denver metro among worst cities to drive in",
       "link": "https://kdvr.com/news/local/study-ranks-multiple-in-denver-metro-among-worst-cities-to-drive-in/",
       "source": "Fox31",
       "pub_date": "2026-07-31T23:54:49+00:00",
-      "age_hours": 9.776660886944445,
+      "age_hours": 10.652555418888888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Possible security threat at DIA cleared after one hour",
       "link": "https://kdvr.com/news/local/possible-security-threat-denver-airport/",
       "source": "Fox31",
       "pub_date": "2026-07-31T23:43:48+00:00",
-      "age_hours": 9.960272112222222,
+      "age_hours": 10.836166641111111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Impact on Education completes $4.7M endowment",
       "link": "https://bizwest.com/2026/07/31/impact-on-education-completes-4-7m-endowment/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:01:00+00:00",
-      "age_hours": 10.672778738888889,
+      "age_hours": 11.548304836388889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "CSU secures $12M gift for nursing program",
       "link": "https://bizwest.com/2026/07/31/csu-secures-12m-gift-for-nursing-program/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:00:00+00:00",
-      "age_hours": 10.689445437777778,
+      "age_hours": 11.564971535277778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Boulder opts against adjusting tipped-wage offset",
       "link": "https://bizwest.com/2026/07/31/boulder-opts-against-adjusting-tipped-wage-offset/",
       "source": "BizWest",
       "pub_date": "2026-07-31T22:51:00+00:00",
-      "age_hours": 10.839445444166667,
+      "age_hours": 11.714971541666667,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "DEN Academy gives 200 students a free, hands-on look at aviation careers",
       "link": "https://www.9news.com/article/news/education/den-academy-students-aviation-careers/73-1106c90b-969a-4638-b347-88c470e0f596",
       "source": "9News",
       "pub_date": "2026-07-31T22:14:07+00:00",
-      "age_hours": 11.454766745555554,
+      "age_hours": 12.330499217777778,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Garth Brooks adds 2 more Denver shows in September",
       "link": "https://www.9news.com/article/life/style/colorado-guide/garth-brooks-adds-third-show-denver/73-dec87635-6dad-48c5-95b2-c52b4c037ee7",
       "source": "9News",
       "pub_date": "2026-07-31T22:12:59+00:00",
-      "age_hours": 11.473655692777779,
+      "age_hours": 12.349388157222222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Free Colorado state park entry for active-duty military and veterans in August",
       "link": "https://kdvr.com/news/problem-solvers/serving-those-who-serve/cpw-offering-free-state-park-entries-to-active-duty-military-and-veterans/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:46:31+00:00",
-      "age_hours": 11.914994376388888,
+      "age_hours": 12.790888899722223,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Griswold and Hickenlooper vow action on gun violence ahead of Colorado November vote",
       "link": "https://sentinelcolorado.com/metro/griswold-and-hickenlooper-vow-action-on-gun-violence-ahead-of-colorado-november-vote/",
       "source": "Sentinel",
       "pub_date": "2026-07-31T21:39:28+00:00",
-      "age_hours": 12.032735903611112,
+      "age_hours": 12.908705556388888,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -108,81 +126,63 @@
       "link": "https://kdvr.com/news/colorado-150/colorado-150-events-celebrate-the-states-birthday-this-weekend/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:07:25+00:00",
-      "age_hours": 12.566660763888889,
+      "age_hours": 13.4425553175,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Executive survey: More of the same for economy in Q3",
       "link": "https://bizwest.com/2026/07/31/executive-survey-more-of-the-same-for-economy-in-q3/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:30:44+00:00",
-      "age_hours": 13.177223250277779,
+      "age_hours": 14.052749350555557,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Richmark sues PDC Energy over drilling agreement, seeks nearly $80M",
       "link": "https://bizwest.com/2026/07/31/richmark-sues-pdc-energy-over-drilling-agreement-seeks-nearly-80m/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:26:19+00:00",
-      "age_hours": 13.250834391666666,
+      "age_hours": 14.126360491666668,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Changes to city zoning code could \u2018unlock\u2019 affordable middle housing",
       "link": "https://denverite.com/2026/07/31/denver-missing-middle-housing-zoning-code/",
       "source": "Denverite",
       "pub_date": "2026-07-31T19:26:14+00:00",
-      "age_hours": 14.252741332222223,
+      "age_hours": 15.128255391388889,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Greeley-Weld Habitat breakfast exceeds Dick Monfort\u2019s $100K matching challenge",
       "link": "https://bizwest.com/2026/07/31/greeley-weld-habitat-breakfast-exceeds-dick-monforts-100k-matching-challenge/",
       "source": "BizWest",
       "pub_date": "2026-07-31T18:13:19+00:00",
-      "age_hours": 15.46750106388889,
+      "age_hours": 16.34302716388889,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Garth Brooks adding more shows in Denver due to high demand",
       "link": "https://kdvr.com/denver-guide/garth-brooks-adding-more-shows-in-denver-due-to-high-demand/",
       "source": "Fox31",
       "pub_date": "2026-07-31T17:43:03+00:00",
-      "age_hours": 15.972772059722223,
+      "age_hours": 16.848666595277777,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Allo bails on contract to build Boulder fiber network",
       "link": "https://bizwest.com/2026/07/31/allo-bails-on-contract-to-build-boulder-fiber-network/",
       "source": "BizWest",
       "pub_date": "2026-07-31T17:35:57+00:00",
-      "age_hours": 16.090278877777777,
+      "age_hours": 16.96580497833333,
       "breaking": false,
       "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Registration deadline nears for Mid-Year Economic Forum",
-      "link": "https://bizwest.com/2026/07/31/registration-deadline-nears-for-mid-year-economic-forum/",
-      "source": "BizWest",
-      "pub_date": "2026-07-31T16:25:12+00:00",
-      "age_hours": 17.269445584166668,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Ex-State Demographer take finance leadership role at CU System",
-      "link": "https://bizwest.com/2026/07/31/ex-state-demographer-take-finance-leadership-role-at-cu-system/",
-      "source": "BizWest",
-      "pub_date": "2026-07-31T15:53:37+00:00",
-      "age_hours": 17.795834510833334,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
     }
   ]
 }
