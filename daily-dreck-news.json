@@ -1,69 +1,78 @@
 {
   "fetched_date": "2026-08-02",
-  "fetched_at": "2026-08-02 03:07:45",
+  "fetched_at": "2026-08-02 05:07:42",
   "article_count": 20,
   "breaking_count": 3,
   "articles": [
+    {
+      "title": "Multiple people dead after shooting at fast food restaurant in southern Idaho",
+      "link": "https://sentinelcolorado.com/nation-world/nation/multiple-people-dead-after-shooting-at-fast-food-restaurant-in-southern-idaho/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-02T03:17:02+00:00",
+      "age_hours": 1.8418497175000001,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Events across Denver celebrate 150 years of Colorado",
       "link": "https://kdvr.com/news/colorado-150/events-across-denver-celebrate-150-years-of-colorado/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:14:35+00:00",
-      "age_hours": 2.883192779722222,
+      "age_hours": 4.882263224444444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Illegal street takeover in Denver prompts police response, warnings",
       "link": "https://kdvr.com/news/local/illegal-street-takeover-in-denver-prompts-police-response-warnings/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:10:47+00:00",
-      "age_hours": 2.9465261522222224,
+      "age_hours": 4.945596599722222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "'Laser Focused': Broncos tap Manica, Tryba for Burnham Yard Stadium",
       "link": "https://kdvr.com/sports/denver-broncos/laser-focused-broncos-tap-manica-tryba-for-burnham-yard-stadium/",
       "source": "Fox31",
       "pub_date": "2026-08-01T22:38:03+00:00",
-      "age_hours": 4.492082020277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.491152439166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
       "link": "https://sentinelcolorado.com/nation-world/nation/trump-stands-to-profit-off-us-policy-announcements-by-selling-fast-access-to-his-social-media-posts/",
       "source": "Sentinel",
       "pub_date": "2026-08-01T18:05:41+00:00",
-      "age_hours": 9.032011796666668,
+      "age_hours": 11.031016685555555,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "What\u2019s Working: How Colorado knows 7,322 people found jobs on state\u2019s official job board",
       "link": "https://coloradosun.com/2026/08/01/colorado-jobs-openings-hires-employers-online/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 17.125676600555554,
+      "age_hours": 19.12487771611111,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "\u2018There\u2019s no place like my rez\u2019: Two-Spirit artists reimagine the ruby slippers",
       "link": "https://www.cpr.org/2026/08/01/indigenous-couture-fashion-denver-art-museum/",
       "source": "CPR",
       "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 17.1258824925,
+      "age_hours": 19.124979969722222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Moose captured on camera swimming near St. Mary's Glacier surrounded by hikers",
       "link": "https://kdvr.com/news/local/moose-captured-on-camera-swimming-near-st-marys-glacier-surrounded-by-hikers/",
       "source": "Fox31",
       "pub_date": "2026-08-01T02:49:49+00:00",
-      "age_hours": 24.295970755,
+      "age_hours": 26.295041191944446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://bizwest.com/2026/07/31/weld-county-rejects-joining-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-08-01T00:12:16+00:00",
-      "age_hours": 26.920915131388888,
+      "age_hours": 28.9201855275,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://kdvr.com/news/local/study-ranks-multiple-in-denver-metro-among-worst-cities-to-drive-in/",
       "source": "Fox31",
       "pub_date": "2026-07-31T23:54:49+00:00",
-      "age_hours": 27.21263736,
+      "age_hours": 29.211707798055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://bizwest.com/2026/07/31/impact-on-education-completes-4-7m-endowment/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:01:00+00:00",
-      "age_hours": 28.108693482222222,
+      "age_hours": 30.10796382138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/07/31/csu-secures-12m-gift-for-nursing-program/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:00:00+00:00",
-      "age_hours": 28.125360201944442,
+      "age_hours": 30.124630519722224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/31/boulder-opts-against-adjusting-tipped-wage-offset/",
       "source": "BizWest",
       "pub_date": "2026-07-31T22:51:00+00:00",
-      "age_hours": 28.275360209444443,
+      "age_hours": 30.27463052555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://kdvr.com/news/problem-solvers/serving-those-who-serve/cpw-offering-free-state-park-entries-to-active-duty-military-and-veterans/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:46:31+00:00",
-      "age_hours": 29.35097087277778,
+      "age_hours": 31.350041295833332,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://sentinelcolorado.com/metro/griswold-and-hickenlooper-vow-action-on-gun-violence-ahead-of-colorado-november-vote/",
       "source": "Sentinel",
       "pub_date": "2026-07-31T21:39:28+00:00",
-      "age_hours": 29.468956596944444,
+      "age_hours": 31.4679614625,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://kdvr.com/news/colorado-150/colorado-150-events-celebrate-the-states-birthday-this-weekend/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:07:25+00:00",
-      "age_hours": 30.002637308888886,
+      "age_hours": 32.00170775027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/07/31/executive-survey-more-of-the-same-for-economy-in-q3/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:30:44+00:00",
-      "age_hours": 30.613138015,
+      "age_hours": 32.61240833111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/31/richmark-sues-pdc-energy-over-drilling-agreement-seeks-nearly-80m/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:26:19+00:00",
-      "age_hours": 30.686749155833333,
+      "age_hours": 32.6860194725,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://denverite.com/2026/07/31/denver-missing-middle-housing-zoning-code/",
       "source": "Denverite",
       "pub_date": "2026-07-31T19:26:14+00:00",
-      "age_hours": 31.68855395,
+      "age_hours": 33.687688951666665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/07/31/greeley-weld-habitat-breakfast-exceeds-dick-monforts-100k-matching-challenge/",
       "source": "BizWest",
       "pub_date": "2026-07-31T18:13:19+00:00",
-      "age_hours": 32.90341582833333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Garth Brooks adding more shows in Denver due to high demand",
-      "link": "https://kdvr.com/denver-guide/garth-brooks-adding-more-shows-in-denver-due-to-high-demand/",
-      "source": "Fox31",
-      "pub_date": "2026-07-31T17:43:03+00:00",
-      "age_hours": 33.408748644999996,
+      "age_hours": 34.902686144166665,
       "breaking": false,
       "time_ago": "1 day ago"
     }
