@@ -1,69 +1,78 @@
 {
   "fetched_date": "2026-08-02",
-  "fetched_at": "2026-08-02 15:25:27",
+  "fetched_at": "2026-08-02 16:22:52",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Juvenile arrested following fatal shooting of teenage girl in west Aurora Saturday night",
+      "link": "https://sentinelcolorado.com/metro/juvenile-arrested-following-fatal-shooting-of-teenage-girl-in-west-aurora-saturday-night/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-02T15:58:47+00:00",
+      "age_hours": 0.3986778402777778,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
     {
       "title": "Boulder clears airport grants for takeoff",
       "link": "https://bizwest.com/2026/08/02/boulder-clears-airport-grants-for-takeoff/",
       "source": "BizWest",
       "pub_date": "2026-08-02T14:00:00+00:00",
-      "age_hours": 1.4187963991666668,
+      "age_hours": 2.3771266958333332,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Multiple people dead after shooting at fast food restaurant in southern Idaho",
       "link": "https://sentinelcolorado.com/nation-world/nation/multiple-people-dead-after-shooting-at-fast-food-restaurant-in-southern-idaho/",
       "source": "Sentinel",
       "pub_date": "2026-08-02T03:17:02+00:00",
-      "age_hours": 12.13666508861111,
+      "age_hours": 13.094511439444444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Events across Denver celebrate 150 years of Colorado",
       "link": "https://kdvr.com/news/colorado-150/events-across-denver-celebrate-150-years-of-colorado/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:14:35+00:00",
-      "age_hours": 15.177017406666668,
+      "age_hours": 16.13489437,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Illegal street takeover in Denver prompts police response, warnings",
       "link": "https://kdvr.com/news/local/illegal-street-takeover-in-denver-prompts-police-response-warnings/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:10:47+00:00",
-      "age_hours": 15.240350766944443,
+      "age_hours": 16.198227750277777,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "'Laser Focused': Broncos tap Manica, Tryba for Burnham Yard Stadium",
       "link": "https://kdvr.com/sports/denver-broncos/laser-focused-broncos-tap-manica-tryba-for-burnham-yard-stadium/",
       "source": "Fox31",
       "pub_date": "2026-08-01T22:38:03+00:00",
-      "age_hours": 16.785906480555557,
+      "age_hours": 17.74378365861111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
       "link": "https://sentinelcolorado.com/nation-world/nation/trump-stands-to-profit-off-us-policy-announcements-by-selling-fast-access-to-his-social-media-posts/",
       "source": "Sentinel",
       "pub_date": "2026-08-01T18:05:41+00:00",
-      "age_hours": 21.325831930833335,
+      "age_hours": 22.283678385277778,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "\u2018There\u2019s no place like my rez\u2019: Two-Spirit artists reimagine the ruby slippers",
       "link": "https://www.cpr.org/2026/08/01/indigenous-couture-fashion-denver-art-museum/",
       "source": "CPR",
       "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 29.419572174444447,
+      "age_hours": 30.3775546525,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://kdvr.com/news/local/moose-captured-on-camera-swimming-near-st-marys-glacier-surrounded-by-hikers/",
       "source": "Fox31",
       "pub_date": "2026-08-01T02:49:49+00:00",
-      "age_hours": 36.58979529361111,
+      "age_hours": 37.54767237861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/07/31/weld-county-rejects-joining-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-08-01T00:12:16+00:00",
-      "age_hours": 39.214352255,
+      "age_hours": 40.172682834444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://kdvr.com/news/local/study-ranks-multiple-in-denver-metro-among-worst-cities-to-drive-in/",
       "source": "Fox31",
       "pub_date": "2026-07-31T23:54:49+00:00",
-      "age_hours": 39.506461934166666,
+      "age_hours": 40.46433898527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/07/31/impact-on-education-completes-4-7m-endowment/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:01:00+00:00",
-      "age_hours": 40.402130050277776,
+      "age_hours": 41.36046064527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/31/csu-secures-12m-gift-for-nursing-program/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:00:00+00:00",
-      "age_hours": 40.4187967325,
+      "age_hours": 41.37712733972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/07/31/boulder-opts-against-adjusting-tipped-wage-offset/",
       "source": "BizWest",
       "pub_date": "2026-07-31T22:51:00+00:00",
-      "age_hours": 40.56879673583334,
+      "age_hours": 41.527127345833335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://kdvr.com/news/problem-solvers/serving-those-who-serve/cpw-offering-free-state-park-entries-to-active-duty-military-and-veterans/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:46:31+00:00",
-      "age_hours": 41.644795351111114,
+      "age_hours": 42.60267251361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://sentinelcolorado.com/metro/griswold-and-hickenlooper-vow-action-on-gun-violence-ahead-of-colorado-november-vote/",
       "source": "Sentinel",
       "pub_date": "2026-07-31T21:39:28+00:00",
-      "age_hours": 41.762776547222224,
+      "age_hours": 42.720623169444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://kdvr.com/news/colorado-150/colorado-150-events-celebrate-the-states-birthday-this-weekend/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:07:25+00:00",
-      "age_hours": 42.296461899722225,
+      "age_hours": 43.25433892777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/31/executive-survey-more-of-the-same-for-economy-in-q3/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:30:44+00:00",
-      "age_hours": 42.90657452833334,
+      "age_hours": 43.86490515083333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/07/31/richmark-sues-pdc-energy-over-drilling-agreement-seeks-nearly-80m/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:26:19+00:00",
-      "age_hours": 42.98018565527778,
+      "age_hours": 43.938516291111114,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://denverite.com/2026/07/31/denver-missing-middle-housing-zoning-code/",
       "source": "Denverite",
       "pub_date": "2026-07-31T19:26:14+00:00",
-      "age_hours": 43.98223522777778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Greeley-Weld Habitat breakfast exceeds Dick Monfort\u2019s $100K matching challenge",
-      "link": "https://bizwest.com/2026/07/31/greeley-weld-habitat-breakfast-exceeds-dick-monforts-100k-matching-challenge/",
-      "source": "BizWest",
-      "pub_date": "2026-07-31T18:13:19+00:00",
-      "age_hours": 45.19685232472222,
+      "age_hours": 44.94027352222222,
       "breaking": false,
       "time_ago": "1 day ago"
     }
