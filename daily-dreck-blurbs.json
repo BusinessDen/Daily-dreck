@@ -1,15 +1,15 @@
 {
-  "generated_date": "2026-08-01",
-  "lead_headline": "Restaurant tracker logs just one confirmed closure today \u2014 but subscriptions surge +6 net on 7 new signups, best single-day gain since July 29.",
+  "generated_date": "2026-08-02",
+  "lead_headline": "Restaurant tracker goes completely quiet \u2014 zero new leads detected for the first time in weeks, while liquor license applications remain frozen for ninth straight business day.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 closure today</strong> \u2014 Solutions Lounge shuttered in Five Points (February 2026). Active leads now 315 total (165 openings, 150 closures).",
+      "blurb": "<strong>Zero new leads today</strong> \u2014 first day without detection activity in recent tracking window. Active pipeline holds at 315 total (165 openings, 150 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
-        "value2": "1",
+        "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
@@ -43,12 +43,12 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications filed</strong> \u2014 eight consecutive business days without activity extends unprecedented drought into second full week. Weekly count stuck at zero, down from prior week's still-dismal 5 (which had fallen 94% from the week before that). Month-end total reflects sustained paralysis: either the state's batch-processing cadence has stretched to multi-week intervals or fundamental intake throttling has taken hold. August's opening days will determine whether July's collapse marks structural shift or extreme anomaly.",
+      "blurb": "<strong>Zero applications filed</strong> \u2014 ninth consecutive business day without activity confirms August's opening as mirror of July's final week, when drought first began. No new licenses detected across all categories (retail, tavern, restaurant, hotel). Weekly count frozen at zero for second straight week, down from three weeks prior when 8 applications marked last normal-volume period. Sustained freeze now spans 11 business days total since July 21, suggesting either state processing realignment extending batch cycles beyond monthly cadence or fundamental intake disruption. Next filing activity \u2014 whenever it emerges \u2014 will clarify whether this represents temporary administrative gap or permanent structural throttling of new license pipeline.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>29 mentions this week</strong> across 10 sources \u2014 down 64% from prior week's 81, marking second consecutive sharp decline and lowest weekly total since early June. Facebook led with 8 citations (28% share), Instagram followed at 7, Denver Post contributed 5. Building Salt Lake covered Alterra ski headquarters relocation story; Denver Post ran Fire on the Mountain Central Park opening; Union Station preservation content sustained engagement. Week averaged just 4.1 mentions/day vs. prior 11.6 \u2014 steep two-week slide suggests either summer doldrums or post-peak normalization after spring surge. YTD 1,167 total from 111 sources.",
+      "blurb": "<strong>Zero mentions yesterday</strong> \u2014 first silent day in weeks extends this week's collapse to just 23 total citations across 9 sources, down 72% from prior week's 81. Instagram and Facebook tied at 6 mentions each (52% combined share), Denver Post added 4, Building Salt Lake and X contributed singles. Notable pickups included Alterra ski headquarters relocation coverage, Fire on the Mountain Central Park opening, Union Station preservation content. Week's 3.3 mentions/day average marks lowest sustained rate since early June and third consecutive week of decline from spring peak. Two-week total of 52 citations represents 55% drop from equivalent mid-July period. YTD count holds at 1,167 from 111 sources, but August opens with concerning momentum reversal \u2014 if pattern persists, monthly total could mark post-launch low.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -69,25 +69,25 @@
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "29",
+        "value1": "23",
         "class1": "down",
         "label2": "sources",
-        "value2": "10",
+        "value2": "9",
         "class2": "down",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +6 yesterday</strong> (7 new, 1 canceled) \u2014 strongest single-day gain since July 29's +5, lifts August to <strong>flat</strong> after one day (+0.0/day), 90-day net to <strong>+102</strong>. Last two weeks show divergent momentum: prior seven delivered +14 net on mid-week acquisition spikes (11 new on 7/23, 10 on 7/28); latest seven posted +20 net on sustained momentum (9 net on 7/28, 5 on 7/29, 6 today). July closed as weakest month since March at \u221216 net, but August opens with promising velocity \u2014 if pace holds, month could reverse July's decline and restore annual trajectory. YTD +216 (+1.0/day) intact.",
+      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled) \u2014 August's second day maintains MTD at <strong>+0</strong> (+0.0/day), 90-day net at <strong>+100</strong>. Recent two-week pattern shows volatility stabilizing: prior seven days delivered +14 net despite mid-week churn (\u221214 on 7/21, +11 on 7/23); latest seven posted +20 net on smoother momentum (9 net on 7/28, 5 on 7/29, 6 on 8/1). Yesterday's zero-sum outcome \u2014 first flat day since July 25 \u2014 interrupts three-day gain streak but doesn't erase week's strong +20 performance. Longer view remains constructive: 90-day +100 net reflects sustained recovery from July's \u221216 finish (weakest month since March), and if August maintains even modest weekly gains, month could restore annual trajectory. YTD +216 (+1.0/day) unchanged.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": 0,
-      "net_ytd": 216,
-      "net_mtd_per_day": 0.0,
-      "net_ytd_per_day": 1.0,
-      "annual_mtd": 0,
-      "annual_ytd": 0,
-      "monthly_mtd": 0,
-      "monthly_ytd": 0
+      "net_mtd": "0",
+      "net_ytd": "216",
+      "net_mtd_per_day": "0.0",
+      "net_ytd_per_day": "1.0",
+      "annual_mtd": "0",
+      "annual_ytd": "216",
+      "monthly_mtd": "0",
+      "monthly_ytd": "0"
     }
   }
 }
