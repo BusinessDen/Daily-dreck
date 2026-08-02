@@ -1,78 +1,78 @@
 {
   "fetched_date": "2026-08-02",
-  "fetched_at": "2026-08-02 05:07:42",
+  "fetched_at": "2026-08-02 06:57:45",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 1,
   "articles": [
     {
       "title": "Multiple people dead after shooting at fast food restaurant in southern Idaho",
       "link": "https://sentinelcolorado.com/nation-world/nation/multiple-people-dead-after-shooting-at-fast-food-restaurant-in-southern-idaho/",
       "source": "Sentinel",
       "pub_date": "2026-08-02T03:17:02+00:00",
-      "age_hours": 1.8418497175000001,
+      "age_hours": 3.674733586111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Events across Denver celebrate 150 years of Colorado",
       "link": "https://kdvr.com/news/colorado-150/events-across-denver-celebrate-150-years-of-colorado/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:14:35+00:00",
-      "age_hours": 4.882263224444444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.715212745833334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Illegal street takeover in Denver prompts police response, warnings",
       "link": "https://kdvr.com/news/local/illegal-street-takeover-in-denver-prompts-police-response-warnings/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:10:47+00:00",
-      "age_hours": 4.945596599722222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.778546121944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "'Laser Focused': Broncos tap Manica, Tryba for Burnham Yard Stadium",
       "link": "https://kdvr.com/sports/denver-broncos/laser-focused-broncos-tap-manica-tryba-for-burnham-yard-stadium/",
       "source": "Fox31",
       "pub_date": "2026-08-01T22:38:03+00:00",
-      "age_hours": 6.491152439166667,
+      "age_hours": 8.324101955277778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
       "link": "https://sentinelcolorado.com/nation-world/nation/trump-stands-to-profit-off-us-policy-announcements-by-selling-fast-access-to-his-social-media-posts/",
       "source": "Sentinel",
       "pub_date": "2026-08-01T18:05:41+00:00",
-      "age_hours": 11.031016685555555,
+      "age_hours": 12.863900574166667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "What\u2019s Working: How Colorado knows 7,322 people found jobs on state\u2019s official job board",
       "link": "https://coloradosun.com/2026/08/01/colorado-jobs-openings-hires-employers-online/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 19.12487771611111,
+      "age_hours": 20.957747416388887,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "\u2018There\u2019s no place like my rez\u2019: Two-Spirit artists reimagine the ruby slippers",
       "link": "https://www.cpr.org/2026/08/01/indigenous-couture-fashion-denver-art-museum/",
       "source": "CPR",
       "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 19.124979969722222,
+      "age_hours": 20.957919842777777,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Moose captured on camera swimming near St. Mary's Glacier surrounded by hikers",
       "link": "https://kdvr.com/news/local/moose-captured-on-camera-swimming-near-st-marys-glacier-surrounded-by-hikers/",
       "source": "Fox31",
       "pub_date": "2026-08-01T02:49:49+00:00",
-      "age_hours": 26.295041191944446,
+      "age_hours": 28.127990699722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://bizwest.com/2026/07/31/weld-county-rejects-joining-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-08-01T00:12:16+00:00",
-      "age_hours": 28.9201855275,
+      "age_hours": 30.752941805000003,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://kdvr.com/news/local/study-ranks-multiple-in-denver-metro-among-worst-cities-to-drive-in/",
       "source": "Fox31",
       "pub_date": "2026-07-31T23:54:49+00:00",
-      "age_hours": 29.211707798055556,
+      "age_hours": 31.044657319166667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://bizwest.com/2026/07/31/impact-on-education-completes-4-7m-endowment/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:01:00+00:00",
-      "age_hours": 30.10796382138889,
+      "age_hours": 31.94072014388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://bizwest.com/2026/07/31/csu-secures-12m-gift-for-nursing-program/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:00:00+00:00",
-      "age_hours": 30.124630519722224,
+      "age_hours": 31.957386840833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://bizwest.com/2026/07/31/boulder-opts-against-adjusting-tipped-wage-offset/",
       "source": "BizWest",
       "pub_date": "2026-07-31T22:51:00+00:00",
-      "age_hours": 30.27463052555556,
+      "age_hours": 32.10738685222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://kdvr.com/news/problem-solvers/serving-those-who-serve/cpw-offering-free-state-park-entries-to-active-duty-military-and-veterans/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:46:31+00:00",
-      "age_hours": 31.350041295833332,
+      "age_hours": 33.18299081166666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://sentinelcolorado.com/metro/griswold-and-hickenlooper-vow-action-on-gun-violence-ahead-of-colorado-november-vote/",
       "source": "Sentinel",
       "pub_date": "2026-07-31T21:39:28+00:00",
-      "age_hours": 31.4679614625,
+      "age_hours": 33.3008453325,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://kdvr.com/news/colorado-150/colorado-150-events-celebrate-the-states-birthday-this-weekend/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:07:25+00:00",
-      "age_hours": 32.00170775027778,
+      "age_hours": 33.83465727222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/07/31/executive-survey-more-of-the-same-for-economy-in-q3/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:30:44+00:00",
-      "age_hours": 32.61240833111111,
+      "age_hours": 34.44516465861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/31/richmark-sues-pdc-energy-over-drilling-agreement-seeks-nearly-80m/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:26:19+00:00",
-      "age_hours": 32.6860194725,
+      "age_hours": 34.51877579861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://denverite.com/2026/07/31/denver-missing-middle-housing-zoning-code/",
       "source": "Denverite",
       "pub_date": "2026-07-31T19:26:14+00:00",
-      "age_hours": 33.687688951666665,
+      "age_hours": 35.52064311416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/07/31/greeley-weld-habitat-breakfast-exceeds-dick-monforts-100k-matching-challenge/",
       "source": "BizWest",
       "pub_date": "2026-07-31T18:13:19+00:00",
-      "age_hours": 34.902686144166665,
+      "age_hours": 36.735442470833334,
       "breaking": false,
       "time_ago": "1 day ago"
     }
