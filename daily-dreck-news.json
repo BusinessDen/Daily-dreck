@@ -1,69 +1,105 @@
 {
   "fetched_date": "2026-08-03",
-  "fetched_at": "2026-08-03 20:33:04",
+  "fetched_at": "2026-08-03 21:26:40",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Weld cites GlobalAI for unpermitted work at data-center site",
+      "link": "https://bizwest.com/2026/08/03/weld-cites-globalai-for-unpermitted-work-at-data-center-site/",
+      "source": "BizWest",
+      "pub_date": "2026-08-03T21:25:28+00:00",
+      "age_hours": 0.015055489444444445,
+      "breaking": true,
+      "time_ago": "0 min ago"
+    },
+    {
+      "title": "Lender seeks foreclosure on Vantage Hemp building",
+      "link": "https://bizwest.com/2026/08/03/lender-seeks-foreclosure-on-vantage-hemp-building/",
+      "source": "BizWest",
+      "pub_date": "2026-08-03T21:07:47+00:00",
+      "age_hours": 0.3097782883333333,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "Last day to register for Mid-Year Economic Forum",
+      "link": "https://bizwest.com/2026/08/03/last-day-to-register-for-mid-year-economic-forum/",
+      "source": "BizWest",
+      "pub_date": "2026-08-03T21:02:57+00:00",
+      "age_hours": 0.3903338525,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
+    {
+      "title": "Broomfield Town Square developer demands permit extension or $6M buyout",
+      "link": "https://bizwest.com/2026/08/03/broomfield-town-square-developer-demands-permit-extension-or-6m-buyout/",
+      "source": "BizWest",
+      "pub_date": "2026-08-03T21:00:23+00:00",
+      "age_hours": 0.4331116655555556,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
     {
       "title": "Background checks for firearm purchases set a record in July ahead of new Colorado gun law taking effect",
       "link": "https://coloradosun.com/2026/08/03/colorado-new-gun-law-background-checks/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-03T20:00:06+00:00",
-      "age_hours": 0.5450556113888889,
+      "age_hours": 1.4382836425,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "President Trump claims Iran talks will start Monday, and other developments in the Middle East",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/president-trump-threatens-escalation-against-iran-war-conflict-negotiation/507-167bb25b-9000-4617-94d3-a7fedd95257b",
       "source": "9News",
       "pub_date": "2026-08-03T19:33:52+00:00",
-      "age_hours": 0.982509313888889,
+      "age_hours": 1.8757925083333333,
       "breaking": true,
-      "time_ago": "58 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "East West Partners Completes All-Electric Residential Community in Steamboat",
       "link": "https://milehighcre.com/east-west-partners-completes-all-electric-residential-community-in-steamboat/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-03T19:11:15+00:00",
-      "age_hours": 1.3591210280555555,
+      "age_hours": 2.2523421341666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Metro postal workers protest potential threats they say Trump poses to mail delivery, voting",
       "link": "https://sentinelcolorado.com/metro/metro-postal-workers-protest-potential-threats-they-say-trump-poses-to-mail-delivery-voting/",
       "source": "Sentinel",
       "pub_date": "2026-08-03T18:14:47+00:00",
-      "age_hours": 2.301345395833333,
+      "age_hours": 3.1947462830555553,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Tayer: Don\u2019t play politics with our collective economic future",
       "link": "https://bizwest.com/2026/08/03/tayer-dont-play-politics-with-our-collective-economic-future/",
       "source": "BizWest",
       "pub_date": "2026-08-03T17:22:56+00:00",
-      "age_hours": 3.1640907502777775,
+      "age_hours": 4.057278365,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Powerball jackpot rises as Colorado ticket scores $150,000",
       "link": "https://www.9news.com/article/news/lottery/powerball-winner-jackpot-numbers/73-d1ad52df-5b1b-4ada-a334-f477407c3cd4",
       "source": "9News",
       "pub_date": "2026-08-03T16:38:26+00:00",
-      "age_hours": 3.9063982480555555,
+      "age_hours": 4.799681439166666,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver Astronomical Society web traffic more than doubles ahead of Artemis II flight crew visit to Red Rocks",
       "link": "https://www.denver7.com/money/science-and-tech/denver-astrological-society-web-traffic-more-than-doubles-ahead-of-artemis-ii-flight-crew-visit-to-red-rocks",
       "source": "Denver7",
       "pub_date": "2026-08-03T15:31:12+00:00",
-      "age_hours": 5.027144017222223,
+      "age_hours": 5.920421276111111,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -72,43 +108,43 @@
       "link": "https://coloradosun.com/2026/08/03/colorado-democrats-congress-israel-position/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-03T14:24:08+00:00",
-      "age_hours": 6.144500133888889,
+      "age_hours": 7.037728175833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver weather: Another scorcher Monday before a big cooldown",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-another-scorcher-monday-before-a-big-cooldown/",
       "source": "Fox31",
       "pub_date": "2026-08-03T13:43:25+00:00",
-      "age_hours": 6.823730548055555,
+      "age_hours": 7.716981604722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Vail adds MGM Resorts CEO to board",
       "link": "https://bizwest.com/2026/08/03/vail-adds-mgm-resorts-ceo-to-board/",
       "source": "BizWest",
       "pub_date": "2026-08-03T13:37:24+00:00",
-      "age_hours": 6.922980159722223,
+      "age_hours": 7.816167286944444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Billionaire's 52-acre Aspen retreat sells at auction",
       "link": "https://www.9news.com/article/money/markets/real-estate/bill-koch-aspen-estate-sale/73-4135e1e9-9f28-440f-9fd1-415b4b1b4100",
       "source": "9News",
       "pub_date": "2026-08-03T13:00:24+00:00",
-      "age_hours": 7.540287171944445,
+      "age_hours": 8.433570372777778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado has 3 of world\u2019s top 400 universities, report says",
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-world-top-universities/73-07f7c958-7a3b-4ca8-a1d0-cbc795b3c56e",
       "source": "9News",
       "pub_date": "2026-08-03T11:28:46+00:00",
-      "age_hours": 9.067509435,
+      "age_hours": 9.960792627222222,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
@@ -117,25 +153,25 @@
       "link": "https://www.cpr.org/2026/08/03/former-colorado-governor-roy-romer-education-diversity-congress/",
       "source": "CPR",
       "pub_date": "2026-08-03T10:00:00+00:00",
-      "age_hours": 10.546873688055555,
+      "age_hours": 11.440185844722222,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colfax bar owner blames road construction after flooding causes thousands in damage",
       "link": "https://kdvr.com/news/local/colfax-bar-owner-blames-road-construction-after-flooding-causes-thousands-in-damage/",
       "source": "Fox31",
       "pub_date": "2026-08-02T23:21:06+00:00",
-      "age_hours": 21.195675084444442,
+      "age_hours": 22.08892614111111,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Boulder clears airport grants for takeoff",
       "link": "https://bizwest.com/2026/08/02/boulder-clears-airport-grants-for-takeoff/",
       "source": "BizWest",
       "pub_date": "2026-08-02T14:00:00+00:00",
-      "age_hours": 30.546313523333335,
+      "age_hours": 31.43950065527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,45 +180,9 @@
       "link": "https://kdvr.com/news/local/illegal-street-takeover-in-denver-prompts-police-response-warnings/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:10:47+00:00",
-      "age_hours": 44.367619537500005,
+      "age_hours": 45.26087059472222,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "\u2018There\u2019s no place like my rez\u2019: Two-Spirit artists reimagine the ruby slippers",
-      "link": "https://www.cpr.org/2026/08/01/indigenous-couture-fashion-denver-art-museum/",
-      "source": "CPR",
-      "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 58.54687376638889,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Weld County rejects joining Catalyst project",
-      "link": "https://bizwest.com/2026/07/31/weld-county-rejects-joining-catalyst-project/",
-      "source": "BizWest",
-      "pub_date": "2026-08-01T00:12:16+00:00",
-      "age_hours": 68.34186910916667,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Study ranks multiple cities in Denver metro among worst to drive in",
-      "link": "https://kdvr.com/news/local/study-ranks-multiple-in-denver-metro-among-worst-cities-to-drive-in/",
-      "source": "Fox31",
-      "pub_date": "2026-07-31T23:54:49+00:00",
-      "age_hours": 68.63373071000001,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Impact on Education completes $4.7M endowment",
-      "link": "https://bizwest.com/2026/07/31/impact-on-education-completes-4-7m-endowment/",
-      "source": "BizWest",
-      "pub_date": "2026-07-31T23:01:00+00:00",
-      "age_hours": 69.52964691916667,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
