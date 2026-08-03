@@ -1,78 +1,96 @@
 {
-  "fetched_date": "2026-08-02",
-  "fetched_at": "2026-08-02 23:21:37",
+  "fetched_date": "2026-08-03",
+  "fetched_at": "2026-08-03 00:42:17",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Only 39% of U.S. adults approve of Trump\u2019s handling of immigration, only 32% on economy",
+      "link": "https://sentinelcolorado.com/nation-world/nation/only-39-of-u-s-adults-approve-of-trumps-handling-of-immigration-only-32-on-economy/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-03T00:06:04+00:00",
+      "age_hours": 0.5996962413888889,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
+    {
+      "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
+      "link": "https://sentinelcolorado.com/nation-world/nation/suspect-in-shooting-at-idaho-fast-food-restaurant-died-from-self-inflicted-gunshot-wound-police-say/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-02T23:48:56+00:00",
+      "age_hours": 0.8852521469444444,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
+    {
+      "title": "Colfax bar owner blames road construction after flooding causes thousands in damage",
+      "link": "https://kdvr.com/news/local/colfax-bar-owner-blames-road-construction-after-flooding-causes-thousands-in-damage/",
+      "source": "Fox31",
+      "pub_date": "2026-08-02T23:21:06+00:00",
+      "age_hours": 1.3488701694444445,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Accidental garage fire displaces 4 people, dogs, cats and iguana in Aurora. No injuries",
       "link": "https://sentinelcolorado.com/metro/accidental-garage-fire-displaces-4-people-dogs-cats-and-iguana-in-aurora-no-injuries/",
       "source": "Sentinel",
       "pub_date": "2026-08-02T19:43:26+00:00",
-      "age_hours": 3.633160816666667,
+      "age_hours": 4.976919121944444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Juvenile arrested following fatal shooting of teenage girl in west Aurora Saturday night",
       "link": "https://sentinelcolorado.com/metro/juvenile-arrested-following-fatal-shooting-of-teenage-girl-in-west-aurora-saturday-night/",
       "source": "Sentinel",
       "pub_date": "2026-08-02T15:58:47+00:00",
-      "age_hours": 7.377327513055556,
+      "age_hours": 8.721085805555555,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Boulder clears airport grants for takeoff",
       "link": "https://bizwest.com/2026/08/02/boulder-clears-airport-grants-for-takeoff/",
       "source": "BizWest",
       "pub_date": "2026-08-02T14:00:00+00:00",
-      "age_hours": 9.3557510575,
+      "age_hours": 10.699843295833332,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Multiple people dead after shooting at fast food restaurant in southern Idaho",
       "link": "https://sentinelcolorado.com/nation-world/nation/multiple-people-dead-after-shooting-at-fast-food-restaurant-in-southern-idaho/",
       "source": "Sentinel",
       "pub_date": "2026-08-02T03:17:02+00:00",
-      "age_hours": 20.073161124722223,
+      "age_hours": 21.416919348333334,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Illegal street takeover in Denver prompts police response, warnings",
       "link": "https://kdvr.com/news/local/illegal-street-takeover-in-denver-prompts-police-response-warnings/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:10:47+00:00",
-      "age_hours": 23.177055975833333,
+      "age_hours": 24.52081462138889,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Broncos president on new stadium project: 'I wish we were further along in some areas'",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-president-on-new-stadium-project/73-135f9c40-cb8c-4a7b-95a0-4155f6596bc2",
       "source": "9News",
       "pub_date": "2026-08-01T23:26:08+00:00",
-      "age_hours": 23.920608868055556,
+      "age_hours": 25.264775864999997,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "'Laser Focused': Broncos tap Manica, Tryba for Burnham Yard Stadium",
       "link": "https://kdvr.com/sports/denver-broncos/laser-focused-broncos-tap-manica-tryba-for-burnham-yard-stadium/",
       "source": "Fox31",
       "pub_date": "2026-08-01T22:38:03+00:00",
-      "age_hours": 24.722611846666666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
-      "link": "https://sentinelcolorado.com/nation-world/nation/trump-stands-to-profit-off-us-policy-announcements-by-selling-fast-access-to-his-social-media-posts/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-01T18:05:41+00:00",
-      "age_hours": 29.26232809222222,
+      "age_hours": 26.06637043916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +99,7 @@
       "link": "https://www.cpr.org/2026/08/01/indigenous-couture-fashion-denver-art-museum/",
       "source": "CPR",
       "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 37.356135677500006,
+      "age_hours": 38.70026468972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://kdvr.com/news/local/moose-captured-on-camera-swimming-near-st-marys-glacier-surrounded-by-hikers/",
       "source": "Fox31",
       "pub_date": "2026-08-01T02:49:49+00:00",
-      "age_hours": 44.52650055666667,
+      "age_hours": 45.8702591825,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,25 +117,25 @@
       "link": "https://bizwest.com/2026/07/31/weld-county-rejects-joining-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-08-01T00:12:16+00:00",
-      "age_hours": 47.151307225,
+      "age_hours": 48.495399408611114,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Study ranks multiple cities in Denver metro among worst to drive in",
       "link": "https://kdvr.com/news/local/study-ranks-multiple-in-denver-metro-among-worst-cities-to-drive-in/",
       "source": "Fox31",
       "pub_date": "2026-07-31T23:54:49+00:00",
-      "age_hours": 47.4431671525,
+      "age_hours": 48.78692579166667,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Impact on Education completes $4.7M endowment",
       "link": "https://bizwest.com/2026/07/31/impact-on-education-completes-4-7m-endowment/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:01:00+00:00",
-      "age_hours": 48.33908503527778,
+      "age_hours": 49.683177218055555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +144,7 @@
       "link": "https://bizwest.com/2026/07/31/csu-secures-12m-gift-for-nursing-program/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:00:00+00:00",
-      "age_hours": 48.35575173583334,
+      "age_hours": 49.699843916944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://bizwest.com/2026/07/31/boulder-opts-against-adjusting-tipped-wage-offset/",
       "source": "BizWest",
       "pub_date": "2026-07-31T22:51:00+00:00",
-      "age_hours": 48.505751742499996,
+      "age_hours": 49.849843923611104,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,16 +162,7 @@
       "link": "https://kdvr.com/news/problem-solvers/serving-those-who-serve/cpw-offering-free-state-park-entries-to-active-duty-military-and-veterans/",
       "source": "Fox31",
       "pub_date": "2026-07-31T21:46:31+00:00",
-      "age_hours": 49.5815007025,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Griswold and Hickenlooper vow action on gun violence ahead of Colorado November vote",
-      "link": "https://sentinelcolorado.com/metro/griswold-and-hickenlooper-vow-action-on-gun-violence-ahead-of-colorado-november-vote/",
-      "source": "Sentinel",
-      "pub_date": "2026-07-31T21:39:28+00:00",
-      "age_hours": 49.69927285666667,
+      "age_hours": 50.92525929611111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/07/31/executive-survey-more-of-the-same-for-economy-in-q3/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:30:44+00:00",
-      "age_hours": 50.84352954777778,
+      "age_hours": 52.18762172833333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/07/31/richmark-sues-pdc-energy-over-drilling-agreement-seeks-nearly-80m/",
       "source": "BizWest",
       "pub_date": "2026-07-31T20:26:19+00:00",
-      "age_hours": 50.91714068833333,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Changes to city zoning code could \u2018unlock\u2019 affordable middle housing",
-      "link": "https://denverite.com/2026/07/31/denver-missing-middle-housing-zoning-code/",
-      "source": "Denverite",
-      "pub_date": "2026-07-31T19:26:14+00:00",
-      "age_hours": 51.918858372500004,
+      "age_hours": 52.26123286833334,
       "breaking": false,
       "time_ago": "2 days ago"
     }
