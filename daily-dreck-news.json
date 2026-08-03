@@ -1,87 +1,105 @@
 {
   "fetched_date": "2026-08-03",
-  "fetched_at": "2026-08-03 15:04:26",
+  "fetched_at": "2026-08-03 16:51:23",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Powerball jackpot rises as Colorado ticket scores $150,000",
+      "link": "https://www.9news.com/article/news/lottery/powerball-winner-jackpot-numbers/73-d1ad52df-5b1b-4ada-a334-f477407c3cd4",
+      "source": "9News",
+      "pub_date": "2026-08-03T16:38:26+00:00",
+      "age_hours": 0.21175296277777778,
+      "breaking": true,
+      "time_ago": "12 min ago"
+    },
+    {
+      "title": "Aurora Sports Notebook: Grandview grad Kevin Gausman traded to Chicago Cubs near deadline",
+      "link": "https://sentinelcolorado.com/sentinel-blogs/courtney-oakes/aurora-sports-notebook-grandview-grad-kevin-gausman-traded-to-chicago-cubs-near-deadline/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-03T15:43:59+00:00",
+      "age_hours": 1.1197630775,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver Astronomical Society web traffic more than doubles ahead of Artemis II flight crew visit to Red Rocks",
+      "link": "https://www.denver7.com/money/science-and-tech/denver-astrological-society-web-traffic-more-than-doubles-ahead-of-artemis-ii-flight-crew-visit-to-red-rocks",
+      "source": "Denver7",
+      "pub_date": "2026-08-03T15:31:12+00:00",
+      "age_hours": 1.3324617155555554,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Colorado Democrats flip on Israel aid, reflecting larger divide within the party",
       "link": "https://coloradosun.com/2026/08/03/colorado-democrats-congress-israel-position/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-03T14:24:08+00:00",
-      "age_hours": 0.6669058447222223,
+      "age_hours": 2.4500050480555555,
       "breaking": true,
-      "time_ago": "40 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver weather: Another scorcher Monday before a big cooldown",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-another-scorcher-monday-before-a-big-cooldown/",
       "source": "Fox31",
       "pub_date": "2026-08-03T13:43:25+00:00",
-      "age_hours": 1.3459322011111112,
+      "age_hours": 3.128885190277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Vail adds MGM Resorts CEO to board",
       "link": "https://bizwest.com/2026/08/03/vail-adds-mgm-resorts-ceo-to-board/",
       "source": "BizWest",
       "pub_date": "2026-08-03T13:37:24+00:00",
-      "age_hours": 1.4441821827777777,
+      "age_hours": 3.228465045,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Billionaire's 52-acre Aspen retreat sells at auction",
       "link": "https://www.9news.com/article/money/markets/real-estate/bill-koch-aspen-estate-sale/73-4135e1e9-9f28-440f-9fd1-415b4b1b4100",
       "source": "9News",
       "pub_date": "2026-08-03T13:00:24+00:00",
-      "age_hours": 2.062590723611111,
+      "age_hours": 3.845641914722222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Malls, once symbols of American consumer culture, are splitting. Some are dying as others thrive",
       "link": "https://sentinelcolorado.com/uncategorized/malls-once-symbols-of-american-consumer-culture-are-splitting-some-are-dying-as-others-thrive/",
       "source": "Sentinel",
       "pub_date": "2026-08-03T12:31:23+00:00",
-      "age_hours": 2.546932571666667,
+      "age_hours": 4.329763369444445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado has 3 of world\u2019s top 400 universities, report says",
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-world-top-universities/73-07f7c958-7a3b-4ca8-a1d0-cbc795b3c56e",
       "source": "9News",
       "pub_date": "2026-08-03T11:28:46+00:00",
-      "age_hours": 3.589812986944444,
+      "age_hours": 5.372864179444444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Roy Romer on the importance of education, diversity and why failures by Congress are a warning sign",
       "link": "https://www.cpr.org/2026/08/03/former-colorado-governor-roy-romer-education-diversity-congress/",
       "source": "CPR",
       "pub_date": "2026-08-03T10:00:00+00:00",
-      "age_hours": 5.0691887275,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.852273417222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "GEO immigration detention operator claims new state law unfairly targets Aurora site",
       "link": "https://sentinelcolorado.com/metro/geo-immigration-detention-operator-claims-new-state-law-unfairly-targets-aurora-site/",
       "source": "Sentinel",
       "pub_date": "2026-08-03T01:53:24+00:00",
-      "age_hours": 13.179988451666667,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Only 39% of U.S. adults approve of Trump\u2019s handling of immigration, only 32% on economy",
-      "link": "https://sentinelcolorado.com/nation-world/nation/only-39-of-u-s-adults-approve-of-trumps-handling-of-immigration-only-32-on-economy/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-03T00:06:04+00:00",
-      "age_hours": 14.968877688888888,
+      "age_hours": 14.962819233055555,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -90,16 +108,16 @@
       "link": "https://kdvr.com/news/local/colfax-bar-owner-blames-road-construction-after-flooding-causes-thousands-in-damage/",
       "source": "Fox31",
       "pub_date": "2026-08-02T23:21:06+00:00",
-      "age_hours": 15.717876711666666,
+      "age_hours": 17.50082972138889,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Boulder clears airport grants for takeoff",
       "link": "https://bizwest.com/2026/08/02/boulder-clears-airport-grants-for-takeoff/",
       "source": "BizWest",
       "pub_date": "2026-08-02T14:00:00+00:00",
-      "age_hours": 25.067516036111112,
+      "age_hours": 26.851798959444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +126,7 @@
       "link": "https://kdvr.com/news/local/illegal-street-takeover-in-denver-prompts-police-response-warnings/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:10:47+00:00",
-      "age_hours": 38.88982116472223,
+      "age_hours": 40.672774174999994,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +135,7 @@
       "link": "https://kdvr.com/sports/denver-broncos/laser-focused-broncos-tap-manica-tryba-for-burnham-yard-stadium/",
       "source": "Fox31",
       "pub_date": "2026-08-01T22:38:03+00:00",
-      "age_hours": 40.43537695611111,
+      "age_hours": 42.21832999666667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +144,7 @@
       "link": "https://www.cpr.org/2026/08/01/indigenous-couture-fashion-denver-art-museum/",
       "source": "CPR",
       "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 53.06918880944444,
+      "age_hours": 54.85227349444445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://kdvr.com/news/local/moose-captured-on-camera-swimming-near-st-marys-glacier-surrounded-by-hikers/",
       "source": "Fox31",
       "pub_date": "2026-08-01T02:49:49+00:00",
-      "age_hours": 60.239265724444444,
+      "age_hours": 62.02221874611111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/31/weld-county-rejects-joining-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-08-01T00:12:16+00:00",
-      "age_hours": 62.863071624722224,
+      "age_hours": 64.6473545475,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://kdvr.com/news/local/study-ranks-multiple-in-denver-metro-among-worst-cities-to-drive-in/",
       "source": "Fox31",
       "pub_date": "2026-07-31T23:54:49+00:00",
-      "age_hours": 63.155932337222225,
+      "age_hours": 64.93888536055556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://bizwest.com/2026/07/31/impact-on-education-completes-4-7m-endowment/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:01:00+00:00",
-      "age_hours": 64.05084943194444,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "CSU secures $12M gift for nursing program",
-      "link": "https://bizwest.com/2026/07/31/csu-secures-12m-gift-for-nursing-program/",
-      "source": "BizWest",
-      "pub_date": "2026-07-31T23:00:00+00:00",
-      "age_hours": 64.06751612666667,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Boulder opts against adjusting tipped-wage offset",
-      "link": "https://bizwest.com/2026/07/31/boulder-opts-against-adjusting-tipped-wage-offset/",
-      "source": "BizWest",
-      "pub_date": "2026-07-31T22:51:00+00:00",
-      "age_hours": 64.2175161325,
+      "age_hours": 65.83513235444445,
       "breaking": false,
       "time_ago": "2 days ago"
     }
