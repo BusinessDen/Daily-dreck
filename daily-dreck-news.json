@@ -1,96 +1,114 @@
 {
   "fetched_date": "2026-08-03",
-  "fetched_at": "2026-08-03 13:07:36",
+  "fetched_at": "2026-08-03 15:04:26",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Colorado Democrats flip on Israel aid, reflecting larger divide within the party",
+      "link": "https://coloradosun.com/2026/08/03/colorado-democrats-congress-israel-position/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-03T14:24:08+00:00",
+      "age_hours": 0.6669058447222223,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Denver weather: Another scorcher Monday before a big cooldown",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-another-scorcher-monday-before-a-big-cooldown/",
+      "source": "Fox31",
+      "pub_date": "2026-08-03T13:43:25+00:00",
+      "age_hours": 1.3459322011111112,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Vail adds MGM Resorts CEO to board",
+      "link": "https://bizwest.com/2026/08/03/vail-adds-mgm-resorts-ceo-to-board/",
+      "source": "BizWest",
+      "pub_date": "2026-08-03T13:37:24+00:00",
+      "age_hours": 1.4441821827777777,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Billionaire's 52-acre Aspen retreat sells at auction",
       "link": "https://www.9news.com/article/money/markets/real-estate/bill-koch-aspen-estate-sale/73-4135e1e9-9f28-440f-9fd1-415b4b1b4100",
       "source": "9News",
       "pub_date": "2026-08-03T13:00:24+00:00",
-      "age_hours": 0.11550432027777778,
+      "age_hours": 2.062590723611111,
       "breaking": true,
-      "time_ago": "6 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Malls, once symbols of American consumer culture, are splitting. Some are dying as others thrive",
       "link": "https://sentinelcolorado.com/uncategorized/malls-once-symbols-of-american-consumer-culture-are-splitting-some-are-dying-as-others-thrive/",
       "source": "Sentinel",
       "pub_date": "2026-08-03T12:31:23+00:00",
-      "age_hours": 0.5997683527777778,
+      "age_hours": 2.546932571666667,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado has 3 of world\u2019s top 400 universities, report says",
       "link": "https://www.9news.com/article/life/style/colorado-guide/colorado-world-top-universities/73-07f7c958-7a3b-4ca8-a1d0-cbc795b3c56e",
       "source": "9News",
       "pub_date": "2026-08-03T11:28:46+00:00",
-      "age_hours": 1.6427265972222223,
+      "age_hours": 3.589812986944444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Roy Romer on the importance of education, diversity and why failures by Congress are a warning sign",
       "link": "https://www.cpr.org/2026/08/03/former-colorado-governor-roy-romer-education-diversity-congress/",
       "source": "CPR",
       "pub_date": "2026-08-03T10:00:00+00:00",
-      "age_hours": 3.1221476483333332,
+      "age_hours": 5.0691887275,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "GEO immigration detention operator claims new state law unfairly targets Aurora site",
       "link": "https://sentinelcolorado.com/metro/geo-immigration-detention-operator-claims-new-state-law-unfairly-targets-aurora-site/",
       "source": "Sentinel",
       "pub_date": "2026-08-03T01:53:24+00:00",
-      "age_hours": 11.232824308055555,
+      "age_hours": 13.179988451666667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Only 39% of U.S. adults approve of Trump\u2019s handling of immigration, only 32% on economy",
       "link": "https://sentinelcolorado.com/nation-world/nation/only-39-of-u-s-adults-approve-of-trumps-handling-of-immigration-only-32-on-economy/",
       "source": "Sentinel",
       "pub_date": "2026-08-03T00:06:04+00:00",
-      "age_hours": 13.021713536944445,
+      "age_hours": 14.968877688888888,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colfax bar owner blames road construction after flooding causes thousands in damage",
       "link": "https://kdvr.com/news/local/colfax-bar-owner-blames-road-construction-after-flooding-causes-thousands-in-damage/",
       "source": "Fox31",
       "pub_date": "2026-08-02T23:21:06+00:00",
-      "age_hours": 13.770779840277777,
+      "age_hours": 15.717876711666666,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Boulder clears airport grants for takeoff",
       "link": "https://bizwest.com/2026/08/02/boulder-clears-airport-grants-for-takeoff/",
       "source": "BizWest",
       "pub_date": "2026-08-02T14:00:00+00:00",
-      "age_hours": 23.121726368055555,
+      "age_hours": 25.067516036111112,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Illegal street takeover in Denver prompts police response, warnings",
       "link": "https://kdvr.com/news/local/illegal-street-takeover-in-denver-prompts-police-response-warnings/",
       "source": "Fox31",
       "pub_date": "2026-08-02T00:10:47+00:00",
-      "age_hours": 36.94272429916666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Broncos president on new stadium project: 'I wish we were further along in some areas'",
-      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-president-on-new-stadium-project/73-135f9c40-cb8c-4a7b-95a0-4155f6596bc2",
-      "source": "9News",
-      "pub_date": "2026-08-01T23:26:08+00:00",
-      "age_hours": 37.68661568138889,
+      "age_hours": 38.88982116472223,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +117,7 @@
       "link": "https://kdvr.com/sports/denver-broncos/laser-focused-broncos-tap-manica-tryba-for-burnham-yard-stadium/",
       "source": "Fox31",
       "pub_date": "2026-08-01T22:38:03+00:00",
-      "age_hours": 38.48828015611111,
+      "age_hours": 40.43537695611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +126,7 @@
       "link": "https://www.cpr.org/2026/08/01/indigenous-couture-fashion-denver-art-museum/",
       "source": "CPR",
       "pub_date": "2026-08-01T10:00:00+00:00",
-      "age_hours": 51.12214773444444,
+      "age_hours": 53.06918880944444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +135,7 @@
       "link": "https://kdvr.com/news/local/moose-captured-on-camera-swimming-near-st-marys-glacier-surrounded-by-hikers/",
       "source": "Fox31",
       "pub_date": "2026-08-01T02:49:49+00:00",
-      "age_hours": 58.29216888944445,
+      "age_hours": 60.239265724444444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +144,7 @@
       "link": "https://bizwest.com/2026/07/31/weld-county-rejects-joining-catalyst-project/",
       "source": "BizWest",
       "pub_date": "2026-08-01T00:12:16+00:00",
-      "age_hours": 60.917282533055555,
+      "age_hours": 62.863071624722224,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://kdvr.com/news/local/study-ranks-multiple-in-denver-metro-among-worst-cities-to-drive-in/",
       "source": "Fox31",
       "pub_date": "2026-07-31T23:54:49+00:00",
-      "age_hours": 61.20883549722222,
+      "age_hours": 63.155932337222225,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://bizwest.com/2026/07/31/impact-on-education-completes-4-7m-endowment/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:01:00+00:00",
-      "age_hours": 62.105060343333335,
+      "age_hours": 64.05084943194444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://bizwest.com/2026/07/31/csu-secures-12m-gift-for-nursing-program/",
       "source": "BizWest",
       "pub_date": "2026-07-31T23:00:00+00:00",
-      "age_hours": 62.12172704527778,
+      "age_hours": 64.06751612666667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://bizwest.com/2026/07/31/boulder-opts-against-adjusting-tipped-wage-offset/",
       "source": "BizWest",
       "pub_date": "2026-07-31T22:51:00+00:00",
-      "age_hours": 62.271727051944445,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Free Colorado state park entry for active-duty military and veterans in August",
-      "link": "https://kdvr.com/news/problem-solvers/serving-those-who-serve/cpw-offering-free-state-park-entries-to-active-duty-military-and-veterans/",
-      "source": "Fox31",
-      "pub_date": "2026-07-31T21:46:31+00:00",
-      "age_hours": 63.34716900805555,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Executive survey: More of the same for economy in Q3",
-      "link": "https://bizwest.com/2026/07/31/executive-survey-more-of-the-same-for-economy-in-q3/",
-      "source": "BizWest",
-      "pub_date": "2026-07-31T20:30:44+00:00",
-      "age_hours": 64.60950485722222,
+      "age_hours": 64.2175161325,
       "breaking": false,
       "time_ago": "2 days ago"
     }
