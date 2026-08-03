@@ -1,16 +1,16 @@
 {
-  "generated_date": "2026-08-02",
-  "lead_headline": "Restaurant tracker goes completely quiet \u2014 zero new leads detected for the first time in weeks, while liquor license applications remain frozen for ninth straight business day.",
+  "generated_date": "2026-08-03",
+  "lead_headline": "Weekend restaurant activity stalled \u2014 just 3 new leads (2 openings, 1 closure) marks slowest Friday-Sunday detection since tracking launch.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads today</strong> \u2014 first day without detection activity in recent tracking window. Active pipeline holds at 315 total (165 openings, 150 closures).",
+      "blurb": "<strong>3 leads since Friday</strong> \u2014 Wapos Cantina in Rosedale and Mendocino Farms at Union Station opened, while Powered By Besitos food truck in West Colfax closed.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+2",
         "label2": "closed",
-        "value2": "0",
-        "period": "today"
+        "value2": "\u22121",
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
@@ -21,7 +21,7 @@
       }
     },
     "foreclosure": {
-      "blurb": "Nothing new to report today.",
+      "blurb": "One $15 million filing in Weld County \u2014 listed at FOR INFORMATIONAL PURPOSES ONLY address, scheduled for July 31 auction.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications filed</strong> \u2014 ninth consecutive business day without activity confirms August's opening as mirror of July's final week, when drought first began. No new licenses detected across all categories (retail, tavern, restaurant, hotel). Weekly count frozen at zero for second straight week, down from three weeks prior when 8 applications marked last normal-volume period. Sustained freeze now spans 11 business days total since July 21, suggesting either state processing realignment extending batch cycles beyond monthly cadence or fundamental intake disruption. Next filing activity \u2014 whenever it emerges \u2014 will clarify whether this represents temporary administrative gap or permanent structural throttling of new license pipeline.",
+      "blurb": "<strong>Weekend remains frozen</strong> \u2014 zero applications filed across all categories extends drought to 11 consecutive business days since July 21. Weekly count holds at zero for third straight week, down from 8 applications in comparable mid-July period. State processing system shows no batch activity through Friday close, suggesting administrative gap now exceeds typical monthly cycle. If silence persists through Monday, drought will mark longest application freeze in tracking history.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,33 +59,33 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions yesterday</strong> \u2014 first silent day in weeks extends this week's collapse to just 23 total citations across 9 sources, down 72% from prior week's 81. Instagram and Facebook tied at 6 mentions each (52% combined share), Denver Post added 4, Building Salt Lake and X contributed singles. Notable pickups included Alterra ski headquarters relocation coverage, Fire on the Mountain Central Park opening, Union Station preservation content. Week's 3.3 mentions/day average marks lowest sustained rate since early June and third consecutive week of decline from spring peak. Two-week total of 52 citations represents 55% drop from equivalent mid-July period. YTD count holds at 1,167 from 111 sources, but August opens with concerning momentum reversal \u2014 if pattern persists, monthly total could mark post-launch low.",
+      "blurb": "<strong>21 mentions since Friday</strong> across 8 sources \u2014 down 73% from prior week's 77. Instagram led with 6 citations, Facebook added 5, Denver Post contributed 4. Building Salt Lake covered Alterra ski HQ relocation story, Post reported Fire on the Mountain Central Park opening. Week's 3.0 mentions/day average marks second-lowest sustained rate of 2026. Weekend collapse extends three-week decline from spring peak \u2014 if August maintains current pace, monthly total will finish well below Q2 baseline.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "23",
+        "value1": "21",
         "class1": "down",
         "label2": "sources",
-        "value2": "9",
+        "value2": "8",
         "class2": "down",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net flat yesterday</strong> (0 new, 0 canceled) \u2014 August's second day maintains MTD at <strong>+0</strong> (+0.0/day), 90-day net at <strong>+100</strong>. Recent two-week pattern shows volatility stabilizing: prior seven days delivered +14 net despite mid-week churn (\u221214 on 7/21, +11 on 7/23); latest seven posted +20 net on smoother momentum (9 net on 7/28, 5 on 7/29, 6 on 8/1). Yesterday's zero-sum outcome \u2014 first flat day since July 25 \u2014 interrupts three-day gain streak but doesn't erase week's strong +20 performance. Longer view remains constructive: 90-day +100 net reflects sustained recovery from July's \u221216 finish (weakest month since March), and if August maintains even modest weekly gains, month could restore annual trajectory. YTD +216 (+1.0/day) unchanged.",
+      "blurb": "<strong>Net +6 since Friday</strong> (7 new, 1 canceled) pushes MTD to <strong>+0</strong> (+0.0/day), 90-day net holds at <strong>+100</strong>. Weekend delivered consistent positive momentum \u2014 Friday posted +6 net, Saturday and Sunday both flat. Full seven-day window shows strong recovery: <strong>+19 net</strong> (27 new, 8 canceled) reverses prior week's \u22128 and marks best weekly performance since late July. Recent two-week pattern confirms volatility stabilizing after mid-July turbulence (\u221214 single-day drop on 7/21 followed by +11 rebound on 7/23). If August maintains even modest weekly gains, month could restore annual trajectory and erase July's \u221216 finish. YTD unchanged at +216 (+1.0/day).",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "0",
       "net_ytd": "216",
       "net_mtd_per_day": "0.0",
       "net_ytd_per_day": "1.0",
       "annual_mtd": "0",
-      "annual_ytd": "216",
+      "annual_ytd": "0",
       "monthly_mtd": "0",
       "monthly_ytd": "0"
     }
