@@ -1,114 +1,132 @@
 {
   "fetched_date": "2026-08-04",
-  "fetched_at": "2026-08-04 10:54:37",
+  "fetched_at": "2026-08-04 11:45:31",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "How Aurora Water uses surveillance tech to crack down on lawn-watering violations",
+      "link": "https://coloradosun.com/2026/08/04/aurora-water-use-meters-surveillance-drought-conservation/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-04T11:06:01+00:00",
+      "age_hours": 0.6539959425,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
     {
       "title": "Buses are rolling down Colfax Avenue\u2019s new BRT lanes for training",
       "link": "https://denverite.com/2026/08/04/colfax-bus-rapid-transit-training/",
       "source": "Denverite",
       "pub_date": "2026-08-04T10:00:00+00:00",
-      "age_hours": 0.9058281202777778,
+      "age_hours": 1.7543817872222223,
       "breaking": true,
-      "time_ago": "54 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Union representing Cargill beef plant workers in Fort Morgan rejects latest contract offer, rep says",
       "link": "https://www.9news.com/article/money/business/union-representing-cargill-beef-plant-workers-rejects-latest-contract-offer/73-3083ff7a-4811-4a60-a024-ed0322823af4",
       "source": "9News",
       "pub_date": "2026-08-04T04:30:22+00:00",
-      "age_hours": 6.399817684166667,
+      "age_hours": 7.248434590277778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "UPDATE: 22 flights diverted from DEN to COS",
       "link": "https://kdvr.com/news/nearly-30-flights-diverted-to-cos-from-denver-passengers-receive-medical-aid/",
       "source": "Fox31",
       "pub_date": "2026-08-04T03:36:31+00:00",
-      "age_hours": 7.297621489166667,
+      "age_hours": 8.146590149722222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Internal emails show Denver\u2019s parking dispute problems could have been avoided",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/internal-emails-show-denvers-parking-dispute-problems-could-have-been-avoided/73-56d7647d-9669-4b3e-a14c-a4f737fe304e",
       "source": "9News",
       "pub_date": "2026-08-04T02:17:30+00:00",
-      "age_hours": 8.614262205833333,
+      "age_hours": 9.462879120555556,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Fire at Aurora apartment complex forces 50 residents out, including numerous pets",
       "link": "https://sentinelcolorado.com/metro/fire-at-aurora-apartment-complex-forces-50-residents-out-including-numerous-pets/",
       "source": "Sentinel",
       "pub_date": "2026-08-04T02:04:21+00:00",
-      "age_hours": 8.833921985,
+      "age_hours": 9.683008487777778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "City Council holds off on extending Denver's nightlife to 4 a.m.",
       "link": "https://kdvr.com/news/local/city-council-holds-off-on-extending-denvers-nightlife-to-4-a-m/",
       "source": "Fox31",
       "pub_date": "2026-08-04T01:57:58+00:00",
-      "age_hours": 8.940121597500001,
+      "age_hours": 9.789090265277776,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
+    },
+    {
+      "title": "Denver seeks to move $18.8 million from general fund to cover legal settlements",
+      "link": "https://www.denver7.com/news/local-news/denver-seeks-to-move-18-8-million-from-general-fund-to-cover-legal-settlements",
+      "source": "Denver7",
+      "pub_date": "2026-08-04T01:34:42+00:00",
+      "age_hours": 10.176393226388887,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Group submits signatures for proposed Colorado graduated income tax",
       "link": "https://www.coloradopolitics.com/2026/08/03/group-submits-signatures-for-proposed-colorado-graduated-income-tax/",
       "source": "CO Politics",
       "pub_date": "2026-08-04T00:31:01+00:00",
-      "age_hours": 10.389460575,
+      "age_hours": 11.23851143361111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/president-trump-threatens-escalation-against-iran-war-conflict-negotiation/507-167bb25b-9000-4617-94d3-a7fedd95257b",
       "source": "9News",
       "pub_date": "2026-08-03T23:30:06+00:00",
-      "age_hours": 11.40426230111111,
+      "age_hours": 12.252879226388888,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "10th Circuit weighs Gross Reservoir expansion, judge\u2019s \u2018punishment\u2019 of Denver Water",
       "link": "https://www.coloradopolitics.com/2026/08/03/10th-circuit-weighs-gross-reservoir-expansion-judges-punishment-of-denver-water/",
       "source": "CO Politics",
       "pub_date": "2026-08-03T23:08:04+00:00",
-      "age_hours": 11.7719605875,
+      "age_hours": 12.621011444999999,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "National Chocolate Chip Cookie Day: Where to get a sweet deal to celebrate the day",
       "link": "https://www.9news.com/article/news/nation-world/national-chocolate-chip-cookie-day-deals-2026/507-76d95885-d22b-4164-9ee2-389cbdc21a36",
       "source": "9News",
       "pub_date": "2026-08-03T22:26:28+00:00",
-      "age_hours": 12.464817868333332,
+      "age_hours": 13.313434796111112,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Owner of Squire Lounge blames Colfax bus construction for flooding",
       "link": "https://denverite.com/2026/08/03/squire-lounge-flooding-colfax-bus-construction/",
       "source": "Denverite",
       "pub_date": "2026-08-03T22:03:49+00:00",
-      "age_hours": 12.842217034444445,
+      "age_hours": 13.690770704444443,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Wells: Not a buyer\u2019s market, but a buyer\u2019s moment",
       "link": "https://bizwest.com/2026/08/03/wells-not-a-buyers-market-but-a-buyers-moment/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:50:12+00:00",
-      "age_hours": 13.068739667500001,
+      "age_hours": 13.917268793055555,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -117,7 +135,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/03/colorado-joins-2-lawsuits-against-trump-administration-over-tanf-tariffs-authority/",
       "source": "CO Politics",
       "pub_date": "2026-08-03T21:48:26+00:00",
-      "age_hours": 13.09918282111111,
+      "age_hours": 13.948233678055555,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -126,63 +144,45 @@
       "link": "https://www.bisnow.com/news/national/adaptive-reuse/conversion-collapse-pfizer-inspections-building-officials",
       "source": "Bisnow",
       "pub_date": "2026-08-03T21:44:12-04:00",
-      "age_hours": 9.168807231111112,
+      "age_hours": 10.017392125277778,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Weld cites GlobalAI for unpermitted work at data-center site",
       "link": "https://bizwest.com/2026/08/03/weld-cites-globalai-for-unpermitted-work-at-data-center-site/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:25:28+00:00",
-      "age_hours": 13.480962415277778,
+      "age_hours": 14.329491646944446,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Lender seeks foreclosure on Vantage Hemp building",
       "link": "https://bizwest.com/2026/08/03/lender-seeks-foreclosure-on-vantage-hemp-building/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:07:47+00:00",
-      "age_hours": 13.775684672777778,
+      "age_hours": 14.624213908333333,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Last day to register for Mid-Year Economic Forum",
       "link": "https://bizwest.com/2026/08/03/last-day-to-register-for-mid-year-economic-forum/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:02:57+00:00",
-      "age_hours": 13.856240234444446,
+      "age_hours": 14.704769470833334,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Broomfield Town Square developer demands permit extension or $6M buyout",
       "link": "https://bizwest.com/2026/08/03/broomfield-town-square-developer-demands-permit-extension-or-6m-buyout/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:00:23+00:00",
-      "age_hours": 13.899018045833333,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Background checks for firearm purchases set a record in July ahead of new Colorado gun law taking effect",
-      "link": "https://coloradosun.com/2026/08/03/colorado-new-gun-law-background-checks/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-03T20:00:06+00:00",
-      "age_hours": 14.9040944375,
+      "age_hours": 14.747547285833335,
       "breaking": false,
       "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "East West Partners Completes All-Electric Residential Community in Steamboat",
-      "link": "https://milehighcre.com/east-west-partners-completes-all-electric-residential-community-in-steamboat/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-03T19:11:15+00:00",
-      "age_hours": 15.718186149444444,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
     }
   ]
 }

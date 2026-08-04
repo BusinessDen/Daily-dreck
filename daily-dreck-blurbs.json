@@ -1,27 +1,27 @@
 {
-  "generated_date": "2026-08-03",
-  "lead_headline": "Weekend restaurant activity stalled \u2014 just 3 new leads (2 openings, 1 closure) marks slowest Friday-Sunday detection since tracking launch.",
+  "generated_date": "2026-08-04",
+  "lead_headline": "Restaurant tracking flags 2 new leads Monday \u2014 Wapos Cantina Englewood and Mendocino Farms at Union Station both opened, while closure activity quieted across metro.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 leads since Friday</strong> \u2014 Wapos Cantina in Rosedale and Mendocino Farms at Union Station opened, while Powered By Besitos food truck in West Colfax closed.",
+      "blurb": "<strong>2 leads today</strong> \u2014 Wapos Cantina opened in Rosedale (former El Tepehuan), Mendocino Farms debuted third Denver location at Union Station.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+2",
         "label2": "closed",
-        "value2": "\u22121",
-        "period": "since Friday"
+        "value2": "0",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "165",
         "label2": "closed",
-        "value2": "150",
+        "value2": "152",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "One $15 million filing in Weld County \u2014 listed at FOR INFORMATIONAL PURPOSES ONLY address, scheduled for July 31 auction.",
+      "blurb": "One $15 million filing scheduled for July 31 auction in Weld County.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
@@ -43,42 +43,42 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Weekend remains frozen</strong> \u2014 zero applications filed across all categories extends drought to 11 consecutive business days since July 21. Weekly count holds at zero for third straight week, down from 8 applications in comparable mid-July period. State processing system shows no batch activity through Friday close, suggesting administrative gap now exceeds typical monthly cycle. If silence persists through Monday, drought will mark longest application freeze in tracking history.",
+      "blurb": "<strong>8 applications filed Monday</strong> after 11-day freeze \u2014 Senor Tanuki (Brighton Blvd), Yoshi (17th Ave), Benihana Express (16th St Mall) all pending hotel/restaurant licenses. Mynt tavern at 117 Broadway and Bakery Four beer/wine at Tennyson both already active. Peak Sim Racking Broadway location seeks beer/wine permit, M&A Demoz Quebec Street filed for tasting room, Cruise Room/Starbucks combo targets DIA concourse. Drought officially broken \u2014 first applications since July 21.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
-        "class1": "",
+        "value1": "8",
+        "class1": "up",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "0",
-        "class1": "down",
+        "value1": "8",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>21 mentions since Friday</strong> across 8 sources \u2014 down 73% from prior week's 77. Instagram led with 6 citations, Facebook added 5, Denver Post contributed 4. Building Salt Lake covered Alterra ski HQ relocation story, Post reported Fire on the Mountain Central Park opening. Week's 3.0 mentions/day average marks second-lowest sustained rate of 2026. Weekend collapse extends three-week decline from spring peak \u2014 if August maintains current pace, monthly total will finish well below Q2 baseline.",
+      "blurb": "<strong>Zero mentions Monday</strong> extends weekend drought \u2014 7-day total sits at 6 mentions across 5 sources, down 93% from prior week's 80. Instagram led recent activity with 2 citations, Building Salt Lake covered Alterra ski HQ relocation consideration, Denver Post reported Fire on the Mountain expansion. Week's 0.9 mentions/day average marks lowest sustained rate since tracking launch. If silence holds through Tuesday, August will open at slowest monthly pace on record.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "21",
+        "value1": "6",
         "class1": "down",
         "label2": "sources",
-        "value2": "8",
-        "class2": "down",
+        "value2": "5",
+        "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +6 since Friday</strong> (7 new, 1 canceled) pushes MTD to <strong>+0</strong> (+0.0/day), 90-day net holds at <strong>+100</strong>. Weekend delivered consistent positive momentum \u2014 Friday posted +6 net, Saturday and Sunday both flat. Full seven-day window shows strong recovery: <strong>+19 net</strong> (27 new, 8 canceled) reverses prior week's \u22128 and marks best weekly performance since late July. Recent two-week pattern confirms volatility stabilizing after mid-July turbulence (\u221214 single-day drop on 7/21 followed by +11 rebound on 7/23). If August maintains even modest weekly gains, month could restore annual trajectory and erase July's \u221216 finish. YTD unchanged at +216 (+1.0/day).",
+      "blurb": "<strong>Net +1 yesterday</strong> (7 new, 6 canceled) holds MTD flat at <strong>+0</strong> (+0.0/day), 90-day net ticks down to <strong>+99</strong>. Monday's slim gain follows Saturday's \u22121 and Friday's +6, capping choppy four-day stretch. Seven-day window now shows <strong>+20 net</strong> (32 new, 12 canceled) \u2014 strongest weekly performance since late July and significant reversal from prior week's +8. Last two weeks demonstrate volatility stabilizing after mid-July chaos (\u221214 single-day drop on 7/21, +11 rebound on 7/23). Recent pattern suggests August could restore momentum if modest gains persist, but MTD flatline means month needs sustained positivity to meaningfully impact YTD trajectory. Annual net unchanged at +216 (+1.0/day).",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "0",
       "net_ytd": "216",
