@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-04",
-  "fetched_at": "2026-08-04 03:07:24",
+  "fetched_at": "2026-08-04 05:06:50",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Union representing Cargill beef plant workers in Fort Morgan rejects latest contract offer, rep says",
+      "link": "https://www.9news.com/article/money/business/union-representing-cargill-beef-plant-workers-rejects-latest-contract-offer/73-3083ff7a-4811-4a60-a024-ed0322823af4",
+      "source": "9News",
+      "pub_date": "2026-08-04T04:30:22+00:00",
+      "age_hours": 0.6032714136111111,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "UPDATE: 22 flights diverted from DEN to COS",
+      "link": "https://kdvr.com/news/nearly-30-flights-diverted-to-cos-from-denver-passengers-receive-medical-aid/",
+      "source": "Fox31",
+      "pub_date": "2026-08-04T03:36:31+00:00",
+      "age_hours": 1.5011664469444446,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Internal emails show Denver\u2019s parking dispute problems could have been avoided",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/internal-emails-show-denvers-parking-dispute-problems-could-have-been-avoided/73-56d7647d-9669-4b3e-a14c-a4f737fe304e",
       "source": "9News",
       "pub_date": "2026-08-04T02:17:30+00:00",
-      "age_hours": 0.8272522219444444,
+      "age_hours": 2.817715953888889,
       "breaking": true,
-      "time_ago": "49 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Fire at Aurora apartment complex forces 50 residents out, including numerous pets",
       "link": "https://sentinelcolorado.com/metro/fire-at-aurora-apartment-complex-forces-50-residents-out-including-numerous-pets/",
       "source": "Sentinel",
       "pub_date": "2026-08-04T02:04:21+00:00",
-      "age_hours": 1.0470867397222223,
+      "age_hours": 3.03759266,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "City Council holds off on extending Denver's nightlife to 4 a.m.",
       "link": "https://kdvr.com/news/local/city-council-holds-off-on-extending-denvers-nightlife-to-4-a-m/",
       "source": "Fox31",
       "pub_date": "2026-08-04T01:57:58+00:00",
-      "age_hours": 1.1531319816666667,
+      "age_hours": 3.1436665486111113,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Group submits signatures for proposed Colorado graduated income tax",
       "link": "https://www.coloradopolitics.com/2026/08/03/group-submits-signatures-for-proposed-colorado-graduated-income-tax/",
       "source": "CO Politics",
       "pub_date": "2026-08-04T00:31:01+00:00",
-      "age_hours": 2.602572433333333,
+      "age_hours": 4.593059738333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/president-trump-threatens-escalation-against-iran-war-conflict-negotiation/507-167bb25b-9000-4617-94d3-a7fedd95257b",
       "source": "9News",
       "pub_date": "2026-08-03T23:30:06+00:00",
-      "age_hours": 3.6172523433333335,
+      "age_hours": 5.607716075000001,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "10th Circuit weighs Gross Reservoir expansion, judge\u2019s \u2018punishment\u2019 of Denver Water",
       "link": "https://www.coloradopolitics.com/2026/08/03/10th-circuit-weighs-gross-reservoir-expansion-judges-punishment-of-denver-water/",
       "source": "CO Politics",
       "pub_date": "2026-08-03T23:08:04+00:00",
-      "age_hours": 3.9850724491666667,
+      "age_hours": 5.975559753333334,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "National Chocolate Chip Cookie Day: Where to get a sweet deal to celebrate the day",
       "link": "https://www.9news.com/article/news/nation-world/national-chocolate-chip-cookie-day-deals-2026/507-76d95885-d22b-4164-9ee2-389cbdc21a36",
       "source": "9News",
       "pub_date": "2026-08-03T22:26:28+00:00",
-      "age_hours": 4.677807912222223,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.668271644722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Owner of Squire Lounge blames Colfax bus construction for flooding",
       "link": "https://denverite.com/2026/08/03/squire-lounge-flooding-colfax-bus-construction/",
       "source": "Denverite",
       "pub_date": "2026-08-03T22:03:49+00:00",
-      "age_hours": 5.055090961944445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.045580739166666,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Wells: Not a buyer\u2019s market, but a buyer\u2019s moment",
       "link": "https://bizwest.com/2026/08/03/wells-not-a-buyers-market-but-a-buyers-moment/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:50:12+00:00",
-      "age_hours": 5.281452629166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.271985151388889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado joins 2 lawsuits against Trump administration over TANF, tariffs authority",
       "link": "https://www.coloradopolitics.com/2026/08/03/colorado-joins-2-lawsuits-against-trump-administration-over-tanf-tariffs-authority/",
       "source": "CO Politics",
       "pub_date": "2026-08-03T21:48:26+00:00",
-      "age_hours": 5.3122946836111105,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.3027819875,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Inspectors, Building Officials Shrug Off Conversion Scares",
       "link": "https://www.bisnow.com/news/national/adaptive-reuse/conversion-collapse-pfizer-inspections-building-officials",
       "source": "Bisnow",
       "pub_date": "2026-08-03T21:44:12-04:00",
-      "age_hours": 1.3815930122222222,
+      "age_hours": 3.372107305833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Weld cites GlobalAI for unpermitted work at data-center site",
       "link": "https://bizwest.com/2026/08/03/weld-cites-globalai-for-unpermitted-work-at-data-center-site/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:25:28+00:00",
-      "age_hours": 5.693675427777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.6842079638888885,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Lender seeks foreclosure on Vantage Hemp building",
       "link": "https://bizwest.com/2026/08/03/lender-seeks-foreclosure-on-vantage-hemp-building/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:07:47+00:00",
-      "age_hours": 5.988397684444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.978930220555556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Last day to register for Mid-Year Economic Forum",
       "link": "https://bizwest.com/2026/08/03/last-day-to-register-for-mid-year-economic-forum/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:02:57+00:00",
-      "age_hours": 6.068953246111111,
+      "age_hours": 8.0594857825,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Broomfield Town Square developer demands permit extension or $6M buyout",
       "link": "https://bizwest.com/2026/08/03/broomfield-town-square-developer-demands-permit-extension-or-6m-buyout/",
       "source": "BizWest",
       "pub_date": "2026-08-03T21:00:23+00:00",
-      "age_hours": 6.111731059444444,
+      "age_hours": 8.102263593611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Background checks for firearm purchases set a record in July ahead of new Colorado gun law taking effect",
       "link": "https://coloradosun.com/2026/08/03/colorado-new-gun-law-background-checks/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-03T20:00:06+00:00",
-      "age_hours": 7.1169257027777775,
+      "age_hours": 9.10742070861111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "East West Partners Completes All-Electric Residential Community in Steamboat",
       "link": "https://milehighcre.com/east-west-partners-completes-all-electric-residential-community-in-steamboat/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-03T19:11:15+00:00",
-      "age_hours": 7.9309487999999995,
+      "age_hours": 9.921463459444444,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Metro postal workers protest potential threats they say Trump poses to mail delivery, voting",
       "link": "https://sentinelcolorado.com/metro/metro-postal-workers-protest-potential-threats-they-say-trump-poses-to-mail-delivery-voting/",
       "source": "Sentinel",
       "pub_date": "2026-08-03T18:14:47+00:00",
-      "age_hours": 8.873198266666668,
+      "age_hours": 10.863704188333333,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Tavernetta owners sue another restaurant called\u2026 Tavernetta",
-      "link": "https://www.westword.com/food-drink/tavernetta-denver-sues-boston-restaurant-la-tavernetta-40919336/",
-      "source": "Westword",
-      "pub_date": "2026-08-03T17:50:15-06:00",
-      "age_hours": 3.2819045983333335,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Tayer: Don\u2019t play politics with our collective economic future",
-      "link": "https://bizwest.com/2026/08/03/tayer-dont-play-politics-with-our-collective-economic-future/",
-      "source": "BizWest",
-      "pub_date": "2026-08-03T17:22:56+00:00",
-      "age_hours": 9.735897758333333,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
