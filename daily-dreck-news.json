@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-05",
-  "fetched_at": "2026-08-05 08:37:37",
+  "fetched_at": "2026-08-05 11:22:00",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "United brings James Beard winner to business class",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/united-brings-james-beard-winner-business-class-penelope-wong/73-8782cc40-8b05-41d7-b1d9-92578952800f",
+      "source": "9News",
+      "pub_date": "2026-08-05T10:23:54+00:00",
+      "age_hours": 0.9643861377777778,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
+    {
+      "title": "Denver rejects change to 4 a.m. bar closing",
+      "link": "https://www.9news.com/article/money/business/denver-rejects-change-to-4-am-bar-closing/73-b07ee6a0-7733-4ba5-b632-c2fb28a8df88",
+      "source": "9News",
+      "pub_date": "2026-08-05T10:15:05+00:00",
+      "age_hours": 1.111330627777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "9 Colorado counties keep soaring above federal ozone limits, risking fresh sanctions",
+      "link": "https://coloradosun.com/2026/08/05/colorado-high-ozone-violations-sanctions-health-study/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-05T10:08:00+00:00",
+      "age_hours": 1.22925452,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "45 films, 21 countries, five continents: Denver and Aurora ready for Diasporic Film Festival",
+      "link": "https://www.cpr.org/2026/08/05/denver-diasporic-film-festival-preparation/",
+      "source": "CPR",
+      "pub_date": "2026-08-05T10:00:00+00:00",
+      "age_hours": 1.3626630319444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "District News: APS veteran Jen Rahn finally arrives at \u2018dream job\u2019 as athletic director at Rangeview",
       "link": "https://sentinelcolorado.com/sports/preps/district-news-aps-veteran-jen-rahn-finally-arrives-at-dream-job-as-athletic-director-at-rangeview/",
       "source": "Sentinel",
       "pub_date": "2026-08-05T04:46:24+00:00",
-      "age_hours": 3.8501196838888885,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.589923276388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Broncos release renderings for Burnham Yard's future.  Historic Denver urges city, team to embrace the neighborhood's past",
       "link": "https://www.9news.com/article/news/local/broncos-release-renderings-burnham-yards-future-historic-denver-urges-city-team-embrace-neighborhoods-past/73-23d6c343-9168-4da7-bc3c-5455b8a01b1e",
       "source": "9News",
       "pub_date": "2026-08-05T04:29:50+00:00",
-      "age_hours": 4.125217419444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.865497354722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver police say witness videos could lead to enforcement for Broadway takeover",
       "link": "https://kdvr.com/news/local/denver-police-say-witness-videos-could-lead-to-enforcement-for-broadway-takeover/",
       "source": "Fox31",
       "pub_date": "2026-08-05T02:18:50+00:00",
-      "age_hours": 6.308972939444445,
+      "age_hours": 9.0491784175,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver's largest shelter hit every performance metric, but fewer people made it into permanent housing",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-largest-shelter-permanent-housing/73-0b367d1e-0a19-482d-b0b8-3a386cd7a45c",
       "source": "9News",
       "pub_date": "2026-08-05T01:25:59+00:00",
-      "age_hours": 7.189384149166667,
+      "age_hours": 9.929664084722223,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Federal judge dismisses Trump administration lawsuit against Colorado over voter rolls",
       "link": "https://coloradosun.com/2026/08/04/federal-judge-dismisses-trump-administration-lawsuit-against-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-04T22:51:00+00:00",
-      "age_hours": 9.771783493055555,
+      "age_hours": 12.512588462499998,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "M&A activity shows improvement as buyers rush to spend reserves",
       "link": "https://bizwest.com/2026/08/04/ma-activity-shows-improvement-as-buyers-rush-to-spend-reserves/",
       "source": "BizWest",
       "pub_date": "2026-08-04T22:48:09+00:00",
-      "age_hours": 9.818840224166665,
+      "age_hours": 12.559757973333333,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver Broncos release new Burnham Yard renderings",
       "link": "https://kdvr.com/news/local/denver-broncos-release-new-burnham-yard-renderings/",
       "source": "Fox31",
       "pub_date": "2026-08-04T22:43:03+00:00",
-      "age_hours": 9.905361871666667,
+      "age_hours": 12.645567360555557,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Smoky skies impact not only people, but also pets. Experts weigh in",
       "link": "https://kdvr.com/news/local/smoky-skies-impact-not-only-people-but-also-pets-experts-weigh-in/",
       "source": "Fox31",
       "pub_date": "2026-08-04T22:23:18+00:00",
-      "age_hours": 10.234528575,
+      "age_hours": 12.97473406277778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Emerging companies depend on support of universities, gov funding",
       "link": "https://bizwest.com/2026/08/04/emerging-companies-depend-on-support-of-universities-gov-funding/",
       "source": "BizWest",
       "pub_date": "2026-08-04T21:12:05+00:00",
-      "age_hours": 11.419951759166667,
+      "age_hours": 14.160869708333333,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Elon Musk's SpaceX posts loss in first report as a public company but less than expected",
       "link": "https://www.9news.com/article/news/nation-world/elon-musk-tough-questions-spacex-first-earnings-call/507-6f01f704-eec7-4579-9147-32f8403ce991",
       "source": "9News",
       "pub_date": "2026-08-04T20:49:46+00:00",
-      "age_hours": 11.7929953225,
+      "age_hours": 14.533275283333332,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Mile High Dine & Recline: Kindred Resort, Keystone",
       "link": "https://milehighcre.com/mile-high-dine-recline-kindred-resort-keystone/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-04T20:25:45+00:00",
-      "age_hours": 12.192531531388887,
+      "age_hours": 14.933337485277779,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Aurora plans $1.9 million accessibility update for City Council chambers",
       "link": "https://sentinelcolorado.com/0trending/aurora-plans-1-9-million-accessibility-update-for-city-council-chambers/",
       "source": "Sentinel",
       "pub_date": "2026-08-04T20:22:08+00:00",
-      "age_hours": 12.254564515833334,
+      "age_hours": 14.99436818138889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Mass funeral held in Gaza and other developments from across the Mideast",
       "link": "https://sentinelcolorado.com/uncategorized/mass-funeral-held-in-gaza-and-other-developments-from-across-the-mideast/",
       "source": "Sentinel",
       "pub_date": "2026-08-04T20:11:02+00:00",
-      "age_hours": 12.439564538888888,
+      "age_hours": 15.179368210277778,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Trump is making a rare Western trip to talk about the economy, something polls show he\u2019s weak on",
       "link": "https://sentinelcolorado.com/uncategorized/trump-is-making-a-rare-western-trip-to-talk-about-the-economy-something-polls-show-hes-weak-on/",
       "source": "Sentinel",
       "pub_date": "2026-08-04T20:10:53+00:00",
-      "age_hours": 12.442064561666665,
+      "age_hours": 15.18186824,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Chipotle pulls jalapenos from some stores, citing possible link to salmonella outbreak",
       "link": "https://www.9news.com/article/news/nation-world/chipotle-jalapenos-salmonella-outbreak/507-f9e71c51-bdb2-49cf-8d33-0990d90fd0d2",
       "source": "9News",
       "pub_date": "2026-08-04T19:59:08+00:00",
-      "age_hours": 12.636884218611112,
+      "age_hours": 15.377164181944444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Union representing Cargill beef plant workers in Fort Morgan rejects latest contract offer, rep says",
       "link": "https://www.9news.com/article/money/business/union-representing-cargill-beef-plant-workers-rejects-latest-contract-offer/73-3083ff7a-4811-4a60-a024-ed0322823af4",
       "source": "9News",
       "pub_date": "2026-08-04T19:05:50+00:00",
-      "age_hours": 13.525217583333333,
+      "age_hours": 16.26549755527778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Cedric Pride\u2019s blueprint for opportunity through the trades | The OpEdge Podcast",
-      "link": "https://www.coloradopolitics.com/2026/08/04/cedric-prides-blueprint-for-opportunity-through-the-trades-the-opedge-podcast/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-04T18:00:00+00:00",
-      "age_hours": 14.623399348333333,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Economic Forum: Higher ed adapts to changing demographics, needs",
-      "link": "https://bizwest.com/2026/08/04/economic-forum-higher-ed-adapts-to-changing-demographics-needs/",
-      "source": "BizWest",
-      "pub_date": "2026-08-04T17:33:21+00:00",
-      "age_hours": 15.065507341666667,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "DigitalOcean tops analysts\u2019 sales projections",
-      "link": "https://bizwest.com/2026/08/04/digitalocean-tops-analysts-sales-projections/",
-      "source": "BizWest",
-      "pub_date": "2026-08-04T17:30:57+00:00",
-      "age_hours": 15.105507365,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Ball plans to siphon at least $800M to shareholders",
-      "link": "https://bizwest.com/2026/08/04/ball-plans-to-siphon-at-least-800m-to-shareholders/",
-      "source": "BizWest",
-      "pub_date": "2026-08-04T17:28:55+00:00",
-      "age_hours": 15.139396258888889,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     }
   ]
 }
