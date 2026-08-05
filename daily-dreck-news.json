@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-08-04",
-  "fetched_at": "2026-08-04 23:04:08",
+  "fetched_date": "2026-08-05",
+  "fetched_at": "2026-08-05 02:37:17",
   "article_count": 20,
-  "breaking_count": 17,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Denver police say witness videos could lead to enforcement for Broadway takeover",
+      "link": "https://kdvr.com/news/local/denver-police-say-witness-videos-could-lead-to-enforcement-for-broadway-takeover/",
+      "source": "Fox31",
+      "pub_date": "2026-08-05T02:18:50+00:00",
+      "age_hours": 0.3029904786111111,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "Denver's largest shelter hit every performance metric, but fewer people made it into permanent housing",
+      "link": "https://www.9news.com/article/news/local/local-politics/denver-largest-shelter-permanent-housing/73-0b367d1e-0a19-482d-b0b8-3a386cd7a45c",
+      "source": "9News",
+      "pub_date": "2026-08-05T01:25:59+00:00",
+      "age_hours": 1.1835317794444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Federal judge dismisses Trump administration lawsuit against Colorado over voter rolls",
       "link": "https://coloradosun.com/2026/08/04/federal-judge-dismisses-trump-administration-lawsuit-against-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-04T22:51:00+00:00",
-      "age_hours": 0.21496324416666665,
+      "age_hours": 3.7662847866666667,
       "breaking": true,
-      "time_ago": "12 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "M&A activity shows improvement as buyers rush to spend reserves",
       "link": "https://bizwest.com/2026/08/04/ma-activity-shows-improvement-as-buyers-rush-to-spend-reserves/",
       "source": "BizWest",
       "pub_date": "2026-08-04T22:48:09+00:00",
-      "age_hours": 0.2621214663888889,
+      "age_hours": 3.8135363930555553,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Broncos release new Burnham Yard renderings",
       "link": "https://kdvr.com/news/local/denver-broncos-release-new-burnham-yard-renderings/",
       "source": "Fox31",
       "pub_date": "2026-08-04T22:43:03+00:00",
-      "age_hours": 0.3477052686111111,
+      "age_hours": 3.8993794399999997,
       "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Smoky skies impact not only people, but also pets. Experts weigh in",
       "link": "https://kdvr.com/news/local/smoky-skies-impact-not-only-people-but-also-pets-experts-weigh-in/",
       "source": "Fox31",
       "pub_date": "2026-08-04T22:23:18+00:00",
-      "age_hours": 0.6768719622222222,
+      "age_hours": 4.228546138333333,
       "breaking": true,
-      "time_ago": "40 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Emerging companies depend on support of universities, gov funding",
       "link": "https://bizwest.com/2026/08/04/emerging-companies-depend-on-support-of-universities-gov-funding/",
       "source": "BizWest",
       "pub_date": "2026-08-04T21:12:05+00:00",
-      "age_hours": 1.8632331169444445,
+      "age_hours": 5.41464814361111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Elon Musk's SpaceX posts loss in first report as a public company but less than expected",
       "link": "https://www.9news.com/article/news/nation-world/elon-musk-tough-questions-spacex-first-earnings-call/507-6f01f704-eec7-4579-9147-32f8403ce991",
       "source": "9News",
       "pub_date": "2026-08-04T20:49:46+00:00",
-      "age_hours": 2.2356442211111114,
+      "age_hours": 5.787142991111112,
       "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Mile High Dine & Recline: Kindred Resort, Keystone",
-      "link": "https://milehighcre.com/mile-high-dine-recline-kindred-resort-keystone/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-04T20:25:45+00:00",
-      "age_hours": 2.635723033333333,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aurora plans $1.9 million accessibility update for City Council chambers",
       "link": "https://sentinelcolorado.com/0trending/aurora-plans-1-9-million-accessibility-update-for-city-council-chambers/",
       "source": "Sentinel",
       "pub_date": "2026-08-04T20:22:08+00:00",
-      "age_hours": 2.6965513230555556,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.249444138611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Mass funeral held in Gaza and other developments from across the Mideast",
       "link": "https://sentinelcolorado.com/uncategorized/mass-funeral-held-in-gaza-and-other-developments-from-across-the-mideast/",
       "source": "Sentinel",
       "pub_date": "2026-08-04T20:11:02+00:00",
-      "age_hours": 2.8815513641666666,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.434444183333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Trump is making a rare Western trip to talk about the economy, something polls show he\u2019s weak on",
       "link": "https://sentinelcolorado.com/uncategorized/trump-is-making-a-rare-western-trip-to-talk-about-the-economy-something-polls-show-hes-weak-on/",
       "source": "Sentinel",
       "pub_date": "2026-08-04T20:10:53+00:00",
-      "age_hours": 2.8840513944444446,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.436944214722223,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Chipotle pulls jalapenos from some stores, citing possible link to salmonella outbreak",
       "link": "https://www.9news.com/article/news/nation-world/chipotle-jalapenos-salmonella-outbreak/507-f9e71c51-bdb2-49cf-8d33-0990d90fd0d2",
       "source": "9News",
       "pub_date": "2026-08-04T19:59:08+00:00",
-      "age_hours": 3.0795331341666667,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.631031890277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Union representing Cargill beef plant workers in Fort Morgan rejects latest contract offer, rep says",
       "link": "https://www.9news.com/article/money/business/union-representing-cargill-beef-plant-workers-rejects-latest-contract-offer/73-3083ff7a-4811-4a60-a024-ed0322823af4",
       "source": "9News",
       "pub_date": "2026-08-04T19:05:50+00:00",
-      "age_hours": 3.9678665119444445,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.519365272777778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Cedric Pride\u2019s blueprint for opportunity through the trades | The OpEdge Podcast",
       "link": "https://www.coloradopolitics.com/2026/08/04/cedric-prides-blueprint-for-opportunity-through-the-trades-the-opedge-podcast/",
       "source": "CO Politics",
       "pub_date": "2026-08-04T18:00:00+00:00",
-      "age_hours": 5.065409569722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.618309935555555,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Economic Forum: Higher ed adapts to changing demographics, needs",
       "link": "https://bizwest.com/2026/08/04/economic-forum-higher-ed-adapts-to-changing-demographics-needs/",
       "source": "BizWest",
       "pub_date": "2026-08-04T17:33:21+00:00",
-      "age_hours": 5.508788707222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.060203733333333,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "DigitalOcean tops analysts\u2019 sales projections",
       "link": "https://bizwest.com/2026/08/04/digitalocean-tops-analysts-sales-projections/",
       "source": "BizWest",
       "pub_date": "2026-08-04T17:30:57+00:00",
-      "age_hours": 5.548788737222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.10020376361111,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Ball plans to siphon at least $800M to shareholders",
       "link": "https://bizwest.com/2026/08/04/ball-plans-to-siphon-at-least-800m-to-shareholders/",
       "source": "BizWest",
       "pub_date": "2026-08-04T17:28:55+00:00",
-      "age_hours": 5.5826776325,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.134092659722223,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Broncos share new renderings of what Burnham Yard stadium site could look like",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-release-updated-burnham-yard-renderings/73-6359889d-39a2-4bed-b843-3d522969195f",
       "source": "9News",
       "pub_date": "2026-08-04T17:26:08+00:00",
-      "age_hours": 5.629533246666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.181032013055555,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Smoke across Colorado from Pacific Northwest fires expected to last a few days",
       "link": "https://coloradosun.com/2026/08/04/colorado-smoke-air-quality-health-advisory-pnw-fires/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-04T17:00:08+00:00",
-      "age_hours": 6.062741395,
+      "age_hours": 9.614063218333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
-      "title": "BREAKING: Broncos Reveal Latest Burnham Yard Renderings",
-      "link": "https://milehighcre.com/breaking-broncos-reveal-latest-burnham-yard-renderings/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-04T16:57:00+00:00",
-      "age_hours": 6.114889941666667,
+      "title": "US job openings slip to 7.4 million, but labor market remains resilient despite fighting in Iran resuming",
+      "link": "https://www.9news.com/article/news/nation-world/us-job-openings-7-point-4-million-labor-market-resilient/507-50c8017b-0450-4513-aa83-6c391ffbdf3f",
+      "source": "9News",
+      "pub_date": "2026-08-04T16:02:16+00:00",
+      "age_hours": 10.578809809444445,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver Industrial Firm Pays $84M for Philadelphia Portfolio",
-      "link": "https://milehighcre.com/denver-industrial-firm-pays-84m-for-philadelphia-portfolio/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-04T16:44:37+00:00",
-      "age_hours": 6.3212788433333325,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
