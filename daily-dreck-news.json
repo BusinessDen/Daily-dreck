@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-05",
-  "fetched_at": "2026-08-05 20:26:49",
+  "fetched_at": "2026-08-05 22:12:58",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 19,
   "articles": [
+    {
+      "title": "Denver condo prices are down 14%",
+      "link": "https://denverite.com/2026/08/05/denver-condo-prices-down/",
+      "source": "Denverite",
+      "pub_date": "2026-08-05T22:10:55+00:00",
+      "age_hours": 0.030727669444444442,
+      "breaking": true,
+      "time_ago": "1 min ago"
+    },
+    {
+      "title": "Gunnison County sheriff vows to end cooperation and communication with ICE",
+      "link": "https://coloradosun.com/2026/08/05/gunnison-county-sheriff-quits-ice/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-05T21:53:53+00:00",
+      "age_hours": 0.31451836,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "Rapidly expanding drive-thru coffee chain launches its first mobile app",
+      "link": "https://www.9news.com/article/news/nation-world/7-brew-coffee-chain-first-mobile-app-secret-menu/507-a41695b3-378d-4487-90cf-46cd31c61b18",
+      "source": "9News",
+      "pub_date": "2026-08-05T21:48:59+00:00",
+      "age_hours": 0.3964061886111111,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
+    {
+      "title": "Scooter rider involved in serious injury crash in Denver",
+      "link": "https://kdvr.com/news/local/scooter-rider-involved-in-serious-injury-crash-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-08-05T21:17:57+00:00",
+      "age_hours": 0.9139311786111111,
+      "breaking": true,
+      "time_ago": "54 min ago"
+    },
+    {
+      "title": "Longmont council hears plans for Sundance impacts",
+      "link": "https://bizwest.com/2026/08/05/longmont-council-hears-plans-for-sundance-impacts/",
+      "source": "BizWest",
+      "pub_date": "2026-08-05T21:03:41+00:00",
+      "age_hours": 1.1509839188888888,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Aragon-Mitotes among BizWest\u2019s 2026 Women of Distinction",
+      "link": "https://bizwest.com/2026/08/05/aragon-mitotes-among-bizwests-2026-women-of-distinction/",
+      "source": "BizWest",
+      "pub_date": "2026-08-05T20:54:25+00:00",
+      "age_hours": 1.3054289316666667,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Greeley to take legal action on dormant hotel",
+      "link": "https://bizwest.com/2026/08/05/greeley-to-take-legal-action-on-dormant-hotel/",
+      "source": "BizWest",
+      "pub_date": "2026-08-05T20:33:38+00:00",
+      "age_hours": 1.6518178572222224,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Greeley council OKs agreement for downtown civic campus",
+      "link": "https://bizwest.com/2026/08/05/greeley-council-oks-agreement-for-downtown-civic-campus/",
+      "source": "BizWest",
+      "pub_date": "2026-08-05T20:30:56+00:00",
+      "age_hours": 1.6968178872222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "New Colorado laws going into effect cover AI disclosures, medical marijuana access and gambling limits",
+      "link": "https://www.coloradopolitics.com/2026/08/05/new-colorado-laws-going-into-effect-cover-ai-disclosures-medical-marijuana-access-and-gambling-limits/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-05T20:26:51+00:00",
+      "age_hours": 1.7658584197222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "RTD starts training for bus drivers on new east Colfax project",
       "link": "https://kdvr.com/news/local/rtd-starts-training-for-bus-drivers-on-new-east-colfax-project/",
       "source": "Fox31",
       "pub_date": "2026-08-05T19:23:03+00:00",
-      "age_hours": 1.0582589194444445,
+      "age_hours": 2.828931253888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Verdant Capital Partners Completes Acquisition of Native Roots Retail",
-      "link": "https://milehighcre.com/verdant-capital-partners-completes-acquisition-of-native-roots-retail/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-05T19:11:50+00:00",
-      "age_hours": 1.2443249941666665,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "OnKure Therapeutics has cash runway into 2029",
       "link": "https://bizwest.com/2026/08/05/onkure-therapeutics-has-cash-runway-into-2029/",
       "source": "BizWest",
       "pub_date": "2026-08-05T19:10:37+00:00",
-      "age_hours": 1.2643208691666667,
+      "age_hours": 3.0354290044444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Solid Power stock decelerates as second-quarter sales dip",
       "link": "https://bizwest.com/2026/08/05/solid-power-stock-decelerates-as-second-quarter-sales-dip/",
       "source": "BizWest",
       "pub_date": "2026-08-05T18:46:49+00:00",
-      "age_hours": 1.6609880538888888,
+      "age_hours": 3.432095699722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Johnstown shopping center sells for $8.25M",
       "link": "https://bizwest.com/2026/08/05/johnstown-shopping-center-sells-for-8-25m/",
       "source": "BizWest",
       "pub_date": "2026-08-05T18:40:11+00:00",
-      "age_hours": 1.7715436180555555,
+      "age_hours": 3.5426512605555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Elevations Credit Union names 2 new execs",
       "link": "https://bizwest.com/2026/08/05/elevations-credit-union-names-2-new-execs/",
       "source": "BizWest",
       "pub_date": "2026-08-05T18:37:47+00:00",
-      "age_hours": 1.811543623611111,
+      "age_hours": 3.582651265,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado to implement new laws on jail standards, safe haven rules, and agricultural labeling",
       "link": "https://www.coloradopolitics.com/2026/08/05/colorado-to-implement-new-laws-on-jail-standards-safe-haven-rules-and-agricultural-labeling/",
       "source": "CO Politics",
       "pub_date": "2026-08-05T18:26:19+00:00",
-      "age_hours": 2.0043155144444444,
+      "age_hours": 3.774747346111111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "WATCH: Bystanders rush to save 70-year-old Arizona man from robber",
       "link": "https://www.9news.com/article/news/nation-world/bystanders-save-70-year-old-arizona-man-from-robber-tucson-suspect-arrest-video/507-0d5deb2b-fdf7-4331-908a-1e07accae60a",
       "source": "9News",
       "pub_date": "2026-08-05T17:59:46+00:00",
-      "age_hours": 2.4458177302777777,
+      "age_hours": 4.2166841038888885,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "FAA certifies Boeing 737 MAX-7 to fly after years of delays",
       "link": "https://www.9news.com/article/news/nation-world/faa-certifies-boeing-737-max-7-commercial-service/507-c0df3a4c-8eaf-47fd-9e53-609e8e54d1fc",
       "source": "9News",
       "pub_date": "2026-08-05T17:14:58+00:00",
-      "age_hours": 3.1924844436111113,
+      "age_hours": 4.963350822222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "FCC expected to get rid of ownership caps for local TV",
       "link": "https://www.cpr.org/2026/08/05/fcc-repeal-tv-station-ownership-limits/",
       "source": "CPR",
       "pub_date": "2026-08-05T16:40:58+00:00",
-      "age_hours": 3.759098223333333,
+      "age_hours": 5.5299483075,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Gold Crown Foundation Plans 75K SF Castle Rock Fieldhouse",
+      "link": "https://www.bisnow.com/news/denver/development/gold-crown-foundation-plans-75k-sf-castle-rock-fieldhouse",
+      "source": "Bisnow",
+      "pub_date": "2026-08-05T16:39:12-04:00",
+      "age_hours": 1.559089353611111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "East Coast bagel chain coming to Colorado for first time",
       "link": "https://www.9news.com/article/life/style/colorado-guide/popup-bagels-colorado-first-location/73-8de088c8-2ef6-407c-b0cd-cd233311d725",
       "source": "9News",
       "pub_date": "2026-08-05T15:38:31+00:00",
-      "age_hours": 4.799984510555555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Buc-ee's files trademark lawsuit against family-owned Ohio mini mart",
-      "link": "https://www.9news.com/article/news/nation-world/buc-ees-files-trademark-lawsuit-family-owned-ohio-mini-mart/507-ba510860-5a04-4082-9ea8-cc7dd696c983",
-      "source": "9News",
-      "pub_date": "2026-08-05T15:31:02+00:00",
-      "age_hours": 4.924706769722222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Chipotle pulls jalapenos from some stores",
-      "link": "https://www.9news.com/article/news/health/chipotle-jalapenos-salmonella-outbreak/507-f9e71c51-bdb2-49cf-8d33-0990d90fd0d2",
-      "source": "9News",
-      "pub_date": "2026-08-05T12:51:17+00:00",
-      "age_hours": 7.587206841944444,
+      "age_hours": 6.570850898611112,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "United brings James Beard winner to business class",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/united-brings-james-beard-winner-business-class-penelope-wong/73-8782cc40-8b05-41d7-b1d9-92578952800f",
-      "source": "9News",
-      "pub_date": "2026-08-05T10:23:54+00:00",
-      "age_hours": 10.043595780277778,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Denver rejects change to 4 a.m. bar closing",
-      "link": "https://www.9news.com/article/money/business/denver-rejects-change-to-4-am-bar-closing/73-b07ee6a0-7733-4ba5-b632-c2fb28a8df88",
-      "source": "9News",
-      "pub_date": "2026-08-05T10:15:05+00:00",
-      "age_hours": 10.190540260833334,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "9 Colorado counties keep soaring above federal ozone limits, risking fresh sanctions",
-      "link": "https://coloradosun.com/2026/08/05/colorado-high-ozone-violations-sanctions-health-study/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-05T10:08:00+00:00",
-      "age_hours": 10.308396511666668,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "45 films, 21 countries, five continents: Denver and Aurora ready for Diasporic Film Festival",
-      "link": "https://www.cpr.org/2026/08/05/denver-diasporic-film-festival-preparation/",
-      "source": "CPR",
-      "pub_date": "2026-08-05T10:00:00+00:00",
-      "age_hours": 10.441876023055556,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "City Council approves $3.2 million for new park in Golden Triangle",
-      "link": "https://www.westword.com/news/new-golden-triangle-park-money-approved-40919430/",
-      "source": "Westword",
-      "pub_date": "2026-08-05T06:40:23-06:00",
-      "age_hours": 7.7696550775,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Denver police say witness videos could lead to enforcement for Broadway takeover",
-      "link": "https://kdvr.com/news/local/denver-police-say-witness-videos-could-lead-to-enforcement-for-broadway-takeover/",
-      "source": "Fox31",
-      "pub_date": "2026-08-05T02:18:50+00:00",
-      "age_hours": 18.12853670638889,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Federal judge dismisses Trump administration lawsuit against Colorado over voter rolls",
-      "link": "https://coloradosun.com/2026/08/04/federal-judge-dismisses-trump-administration-lawsuit-against-colorado/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-04T22:51:00+00:00",
-      "age_hours": 21.591730488333333,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "6 hrs ago"
     }
   ]
 }
