@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-06",
-  "fetched_at": "2026-08-06 09:39:58",
+  "fetched_at": "2026-08-06 12:02:53",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Colorado clinical psychologist offers advice on how to determine healthy screen time amid back to school",
+      "link": "https://www.denver7.com/lifestyle/family/colorado-clinical-psychologist-offers-advice-on-how-to-determine-healthy-screen-time-amid-back-to-school",
+      "source": "Denver7",
+      "pub_date": "2026-08-06T11:53:18+00:00",
+      "age_hours": 0.15620157138888888,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Cannabis company to close Denver facility, cut 141 jobs",
+      "link": "https://www.9news.com/article/money/business/native-roots-closing-grow-facility-layoffs/73-894c69fe-231b-4585-bf27-63fc0268664d",
+      "source": "9News",
+      "pub_date": "2026-08-06T10:50:37+00:00",
+      "age_hours": 1.2007780672222221,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado regulators take swipe at Xcel Energy\u2019s claims that increases aren\u2019t that impactful",
+      "link": "https://coloradosun.com/2026/08/06/colorado-utilities-xcel-electric-rate-increase-proposal/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-06T10:01:00+00:00",
+      "age_hours": 2.0276421041666666,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Glenwood Springs turns to zoning to fight ICE",
+      "link": "https://coloradosun.com/2026/08/06/glenwood-springs-turn-to-zoning-to-fight-ice/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-06T10:00:00+00:00",
+      "age_hours": 2.044309512222222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "His long, sad journey to Runway 17L",
+      "link": "https://www.cpr.org/2026/08/06/denver-airport-runway-suicide/",
+      "source": "CPR",
+      "pub_date": "2026-08-06T10:00:00+00:00",
+      "age_hours": 2.044365907777778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Ultra Lounge nightclub owner surrenders liquor, cabaret licenses after shooting",
       "link": "https://www.9news.com/article/news/crime/ultra-lounge-nightclub-surrenders-liquor-cabaret-licenses/73-49fef7b3-a5d9-499b-9c63-3291d96c7d23",
       "source": "9News",
       "pub_date": "2026-08-06T04:42:19+00:00",
-      "age_hours": 4.957013281111111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.339111474166667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Inside the closed-door meeting where metro Denver's mayors swap ideas and solve problems",
       "link": "https://www.9news.com/article/news/local/local-politics/closed-door-meeting-metro-denvers-mayors/73-ae6e6b87-5a58-49c4-996b-03382c9e9578",
       "source": "9News",
       "pub_date": "2026-08-06T00:40:23+00:00",
-      "age_hours": 8.989235566388889,
+      "age_hours": 11.3713337475,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Former Denver resident sentenced for multi-million dollar fraud scheme",
       "link": "https://kdvr.com/news/local/former-denver-resident-sentenced-for-multi-million-dollar-fraud-scheme/",
       "source": "Fox31",
       "pub_date": "2026-08-05T23:33:09+00:00",
-      "age_hours": 10.110129579166665,
+      "age_hours": 12.49205313361111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver bar offering $500 reward after beloved DJ\u2019s custom tricycle stolen",
       "link": "https://kdvr.com/news/local/denver-bar-offering-500-reward-after-beloved-djs-custom-tricycle-stolen/",
       "source": "Fox31",
       "pub_date": "2026-08-05T23:29:55+00:00",
-      "age_hours": 10.164018385833334,
+      "age_hours": 12.545941939166665,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Zoe Ma Ma operator opening new Chinese-American joint in Boulder",
       "link": "https://bizwest.com/2026/08/05/zoe-ma-ma-operator-opening-new-chinese-american-joint-in-boulder/",
       "source": "BizWest",
       "pub_date": "2026-08-05T23:11:24+00:00",
-      "age_hours": 10.471734995833334,
+      "age_hours": 12.85389442111111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Cannabis chain laying off 141 at grow house",
       "link": "https://bizwest.com/2026/08/05/cannabis-chain-laying-off-141-at-grow-house/",
       "source": "BizWest",
       "pub_date": "2026-08-05T23:08:23+00:00",
-      "age_hours": 10.52201338611111,
+      "age_hours": 12.904172770277778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Medina Alert issued for hit-and-run with serious injuries in Denver",
       "link": "https://kdvr.com/news/local/medina-alert-issued-for-hit-and-run-with-serious-injuries-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-08-05T22:51:35+00:00",
-      "age_hours": 10.802907138055556,
+      "age_hours": 13.184830683611112,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Tiered or capped? Battle over Colorado\u2019s income taxes might come down to one number",
       "link": "https://www.coloradopolitics.com/2026/08/05/tiered-or-capped-battle-over-colorados-income-taxes-might-come-down-to-one-number/",
       "source": "CO Politics",
       "pub_date": "2026-08-05T22:42:27+00:00",
-      "age_hours": 10.955416686944446,
+      "age_hours": 13.337225083888889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver condo prices are down 14%",
       "link": "https://denverite.com/2026/08/05/denver-condo-prices-down/",
       "source": "Denverite",
       "pub_date": "2026-08-05T22:10:55+00:00",
-      "age_hours": 11.480171990833332,
+      "age_hours": 13.862402204444445,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Gunnison County sheriff vows to end cooperation and communication with ICE",
       "link": "https://coloradosun.com/2026/08/05/gunnison-county-sheriff-quits-ice/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-05T21:53:53+00:00",
-      "age_hours": 11.763986096388889,
+      "age_hours": 14.146254722222222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Rapidly expanding drive-thru coffee chain launches its first mobile app",
       "link": "https://www.9news.com/article/news/nation-world/7-brew-coffee-chain-first-mobile-app-secret-menu/507-a41695b3-378d-4487-90cf-46cd31c61b18",
       "source": "9News",
       "pub_date": "2026-08-05T21:48:59+00:00",
-      "age_hours": 11.845902325277779,
+      "age_hours": 14.2280004975,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Scooter rider involved in serious injury crash in Denver",
       "link": "https://kdvr.com/news/local/scooter-rider-involved-in-serious-injury-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-08-05T21:17:57+00:00",
-      "age_hours": 12.363462793333333,
+      "age_hours": 14.745386340833335,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Longmont council hears plans for Sundance impacts",
       "link": "https://bizwest.com/2026/08/05/longmont-council-hears-plans-for-sundance-impacts/",
       "source": "BizWest",
       "pub_date": "2026-08-05T21:03:41+00:00",
-      "age_hours": 12.6003467675,
+      "age_hours": 14.982506143333334,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Aragon-Mitotes among BizWest\u2019s 2026 Women of Distinction",
       "link": "https://bizwest.com/2026/08/05/aragon-mitotes-among-bizwests-2026-women-of-distinction/",
       "source": "BizWest",
       "pub_date": "2026-08-05T20:54:25+00:00",
-      "age_hours": 12.754791243333333,
+      "age_hours": 15.136950616666667,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Greeley to take legal action on dormant hotel",
       "link": "https://bizwest.com/2026/08/05/greeley-to-take-legal-action-on-dormant-hotel/",
       "source": "BizWest",
       "pub_date": "2026-08-05T20:33:38+00:00",
-      "age_hours": 13.101180168611112,
+      "age_hours": 15.48333954,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Greeley council OKs agreement for downtown civic campus",
-      "link": "https://bizwest.com/2026/08/05/greeley-council-oks-agreement-for-downtown-civic-campus/",
-      "source": "BizWest",
-      "pub_date": "2026-08-05T20:30:56+00:00",
-      "age_hours": 13.146180198055555,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "New Colorado laws going into effect cover AI disclosures, medical marijuana access and gambling limits",
-      "link": "https://www.coloradopolitics.com/2026/08/05/new-colorado-laws-going-into-effect-cover-ai-disclosures-medical-marijuana-access-and-gambling-limits/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-05T20:26:51+00:00",
-      "age_hours": 13.215416866944443,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "RTD starts training for bus drivers on new east Colfax project",
-      "link": "https://kdvr.com/news/local/rtd-starts-training-for-bus-drivers-on-new-east-colfax-project/",
-      "source": "Fox31",
-      "pub_date": "2026-08-05T19:23:03+00:00",
-      "age_hours": 14.278462924722222,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Verdant Capital Partners Completes Acquisition of Native Roots Retail",
-      "link": "https://milehighcre.com/verdant-capital-partners-completes-acquisition-of-native-roots-retail/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-05T19:11:50+00:00",
-      "age_hours": 14.464742813611112,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "OnKure Therapeutics has cash runway into 2029",
-      "link": "https://bizwest.com/2026/08/05/onkure-therapeutics-has-cash-runway-into-2029/",
-      "source": "BizWest",
-      "pub_date": "2026-08-05T19:10:37+00:00",
-      "age_hours": 14.484791315833334,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     }
   ]
 }
