@@ -1,132 +1,141 @@
 {
   "fetched_date": "2026-08-07",
-  "fetched_at": "2026-08-07 19:54:29",
+  "fetched_at": "2026-08-07 20:41:36",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "CSU\u2019s Walker among BizWest\u2019s 2026 Women of Distinction",
+      "link": "https://bizwest.com/2026/08/07/csus-walker-among-bizwests-2026-women-of-distinction/",
+      "source": "BizWest",
+      "pub_date": "2026-08-07T20:39:46+00:00",
+      "age_hours": 0.025702185833333332,
+      "breaking": true,
+      "time_ago": "1 min ago"
+    },
+    {
+      "title": "Aurora council to consider 6-month pause on new data center development in the city",
+      "link": "https://sentinelcolorado.com/metro/aurora-council-to-consider-6-month-pause-on-new-data-center-development-in-the-city/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-07T20:01:47+00:00",
+      "age_hours": 0.6599969538888889,
+      "breaking": true,
+      "time_ago": "39 min ago"
+    },
     {
       "title": "New commander set to take over 140th Colorado Air National Guard Wing at Buckley",
       "link": "https://sentinelcolorado.com/metro/new-commander-set-to-take-over-140th-colorado-air-national-guard-wing-at-buckley/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T19:48:01+00:00",
-      "age_hours": 0.10430972666666667,
+      "age_hours": 0.8894414133333333,
       "breaking": true,
-      "time_ago": "6 min ago"
+      "time_ago": "53 min ago"
     },
     {
       "title": "New Momentum Scholarship offers free tuition at Community College of Aurora for 2026 APS graduates",
       "link": "https://sentinelcolorado.com/metro/education/new-momentum-scholarship-offers-free-tuition-at-community-college-of-aurora-for-2026-aps-graduates/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T19:39:42+00:00",
-      "age_hours": 0.24292111972222222,
+      "age_hours": 1.0280527952777778,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Future Legends bankruptcy case moved to Colorado",
       "link": "https://bizwest.com/2026/08/07/future-legends-bankruptcy-case-moved-to-colorado/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:12:22+00:00",
-      "age_hours": 0.6973868791666666,
+      "age_hours": 1.482369758611111,
       "breaking": true,
-      "time_ago": "41 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Split Boulder council fails to forward DDA plan to voters",
       "link": "https://bizwest.com/2026/08/07/split-boulder-council-fails-to-forward-dda-plan-to-voters/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:09:28+00:00",
-      "age_hours": 0.7457207730555555,
+      "age_hours": 1.5307031427777777,
       "breaking": true,
-      "time_ago": "44 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Biodesix boosts sales, trims loss as diagnostics firm pushes toward profitability",
       "link": "https://bizwest.com/2026/08/07/biodesix-boosts-sales-trims-loss-as-diagnostics-firm-pushes-toward-profitability/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:07:11+00:00",
-      "age_hours": 0.7837763366666666,
+      "age_hours": 1.5687587083333334,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Pedestrian killed following overnight crash in Denver",
       "link": "https://kdvr.com/news/local/pedestrian-killed-following-overnight-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-08-07T19:00:52+00:00",
-      "age_hours": 0.8897770786111111,
+      "age_hours": 1.6749542816666667,
       "breaking": true,
-      "time_ago": "53 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Noah Kahan in Colorado: What to know for the stadium concerts",
       "link": "https://www.9news.com/article/entertainment/noah-kahan-colorado-coors-field-stadium-concerts/73-467405f4-cd4e-4d8a-9a06-0f6a6ea0a0ec",
       "source": "9News",
       "pub_date": "2026-08-07T18:01:20+00:00",
-      "age_hours": 1.8817927761111113,
+      "age_hours": 2.6669151127777777,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "A Russian retail giant\u2019s warehouse burns after Ukraine\u2019s latest long-range drone attack",
       "link": "https://sentinelcolorado.com/uncategorized/a-russian-retail-giants-warehouse-burns-after-ukraines-latest-long-range-drone-attack/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T16:20:06+00:00",
-      "age_hours": 3.569588033888889,
+      "age_hours": 4.354719717222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "FACT FOCUS: Trump boasts about the economy but there\u2019s more to the story",
       "link": "https://sentinelcolorado.com/uncategorized/fact-focus-trump-boasts-about-the-economy-but-theres-more-to-the-story/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T16:19:59+00:00",
-      "age_hours": 3.571532834166667,
+      "age_hours": 4.356664528055556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Why celebrities from Zendaya to Kylie Jenner are wearing Fecal Matter",
-      "link": "https://sentinelcolorado.com/uncategorized/why-celebrities-from-zendaya-to-kylie-jenner-are-wearing-fecal-matter/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-07T16:18:53+00:00",
-      "age_hours": 3.589866503055555,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Passenger killed in late-night shooting in Denver",
       "link": "https://kdvr.com/news/local/passenger-killed-in-late-night-shooting-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-08-07T15:55:43+00:00",
-      "age_hours": 3.9756103708333335,
+      "age_hours": 4.760787573611111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Charminar Express Brings Hyderabadi Street Food to Denver",
       "link": "https://www.westword.com/food-drink/indian-food-truck-charminar-express-denver-40920143/",
       "source": "Westword",
       "pub_date": "2026-08-07T11:38:44-06:00",
-      "age_hours": 2.2588047819444443,
+      "age_hours": 3.0439716355555553,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Glenwood Springs leaders vote to sue landlord of ICE detention center in state court",
       "link": "https://coloradosun.com/2026/08/07/glenwood-springs-leaders-vote-to-sue-landlord-of-ice-detention-center-in-state-court/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-07T10:00:00+00:00",
-      "age_hours": 9.903796186666668,
+      "age_hours": 10.68893794638889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Proposition NN is the best investment for Colorado\u2019s students and schools | GUEST COLUMN",
       "link": "https://www.coloradopolitics.com/2026/08/07/proposition-nn-is-the-best-investment-for-colorados-students-and-schools-guest-column/",
       "source": "CO Politics",
       "pub_date": "2026-08-07T06:45:00+00:00",
-      "age_hours": 13.154520662222222,
+      "age_hours": 13.939695680833333,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -135,25 +144,7 @@
       "link": "https://www.9news.com/article/tech/waymo-begins-fully-driverless-vehicle-tests-denver/73-097d8065-cc62-4104-9339-429105444a56",
       "source": "9News",
       "pub_date": "2026-08-07T04:34:18+00:00",
-      "age_hours": 15.332348488333333,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "1 killed in crash in Denver's Park Hill neighborhood",
-      "link": "https://www.9news.com/article/news/local/deadly-crash-denver-17th-glencoe-park-hill/73-43a28b1d-b684-4258-8418-3aa7925c779e",
-      "source": "9News",
-      "pub_date": "2026-08-07T04:13:36+00:00",
-      "age_hours": 15.677348551666666,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Dillon Marina adapts to 20-foot water drop with new venues, resilient operations",
-      "link": "https://www.9news.com/article/news/dillon-marina-20-foot-reservoir-resilient-operations/73-a57f6541-8dfd-47d4-a5ce-e3066766f075",
-      "source": "9News",
-      "pub_date": "2026-08-07T03:53:04+00:00",
-      "age_hours": 16.019570812777776,
+      "age_hours": 16.117470784166667,
       "breaking": false,
       "time_ago": "16 hrs ago"
     },
@@ -162,27 +153,36 @@
       "link": "https://www.coloradopolitics.com/2026/08/06/polis-administration-relaunches-colorado-e-bike-rebates-with-3-million/",
       "source": "CO Politics",
       "pub_date": "2026-08-06T22:55:39+00:00",
-      "age_hours": 20.97702069416667,
+      "age_hours": 21.76219571388889,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Yak and Yeti owner barred from new liquor applications for two years after Ultra nightclub shooting",
       "link": "https://denverite.com/2026/08/06/ultra-lounge-shooting-yak-and-yeti-licenses/",
       "source": "Denverite",
       "pub_date": "2026-08-06T22:37:50+00:00",
-      "age_hours": 21.273373143333334,
+      "age_hours": 22.058419955277778,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Edgewise ups R&D spending as pharma firm focuses on cardiovascular pipeline",
       "link": "https://bizwest.com/2026/08/06/edgewise-ups-rd-spending-as-pharma-firm-focuses-on-cardiovascular-pipeline/",
       "source": "BizWest",
       "pub_date": "2026-08-06T22:00:12+00:00",
-      "age_hours": 21.90016523166667,
+      "age_hours": 22.685147606388888,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
+    },
+    {
+      "title": "Gogo posts earnings, revenue drop in second quarter",
+      "link": "https://bizwest.com/2026/08/06/gogo-posts-earnings-revenue-drop-in-second-quarter/",
+      "source": "BizWest",
+      "pub_date": "2026-08-06T21:56:17+00:00",
+      "age_hours": 22.750425391944447,
+      "breaking": false,
+      "time_ago": "22 hrs ago"
     }
   ]
 }
