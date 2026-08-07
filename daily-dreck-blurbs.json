@@ -1,40 +1,40 @@
 {
-  "generated_date": "2026-08-05",
-  "lead_headline": "Subscriptions net +3 yesterday \u2014 best single-day gain in a week \u2014 while restaurant tracker flags 5 new leads (openings in Rosedale, Union Station, City Park; closures in West Colfax, Berkeley).",
+  "generated_date": "2026-08-07",
+  "lead_headline": "Restaurant tracker logs just 1 new lead today \u2014 Carmine's on McGregor Square closing after 5 years \u2014 as foreclosure watch flags two $15M Weld County filings for next round of auctions.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 leads today</strong> \u2014 Openings: Wapos Cantina (Rosedale), Mendocino Farms (Union Station), G-Que BBQ (Union Station). Closures: Powered By Besitos food truck (West Colfax), New Dragon (Berkeley temp closed after fire).",
+      "blurb": "<strong>1 lead today</strong> \u2014 Closure: Carmine's on McGregor Square (Union Station) shuttered July 18 after 5-year run.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22122",
+        "value2": "1",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+166",
+        "value1": "167",
         "label2": "closed",
-        "value2": "\u2212154",
+        "value2": "154",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "One $15 million filing scheduled for July 31 auction in Weld County.",
+      "blurb": "<strong>Two $15 million filings</strong> both scheduled for Weld County auctions \u2014 one yesterday (July 31), one today (August 7) \u2014 though both list only \"FOR INFORMATIONAL PURPOSES ONLY\" addresses.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "0",
+        "value2": "3",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "11",
+        "value1": "70",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,51 +43,51 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>8 applications filed Tuesday</strong> as post-drought momentum continues. Restaurant permits dominate: Senor Tanuki (Brighton Blvd), Yoshi (17th Ave), Benihana Express (16th St Mall) all pending hotel/restaurant licenses. Mynt tavern-cabaret at 117 Broadway and Bakery Four beer/wine at Tennyson both already cleared to active status. Peak Sim Racking seeks beer/wine permit for Broadway location, M&A Demoz files for Quebec Street tasting room, Cruise Room/Starbucks combo targets DIA concourse AM-2. Second consecutive 8-application day after 11-day July freeze ended Monday \u2014 August opening at accelerated pace.",
+      "blurb": "<strong>1 application filed Wednesday</strong> \u2014 The Coastal Service seeks hotel/restaurant license for 8125 E Belleview Ave (status: pending). Delinquency wave hits 7 operators including The Delorean (Broadway), Old Santa Fe (11th Ave), Urban Cafe (Broadway), Necio Latin Eatery (Tejon), LIV Denver (Market St), Denver Wine Merchant (Fox St), and 3 Margaritas at Northfield. Four licenses cleared delinquency: 7-Eleven Colfax, Lost City (Ringsby), Holey Moley (18th St), Devil's Drink (Platte). Application pace slows to single-digit territory after Monday-Tuesday 19-permit burst.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "8",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "16",
+        "value1": "10",
         "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Tuesday</strong> \u2014 consecutive blank days now stretch media drought into third day. Seven-day window holds at <strong>6 total mentions</strong> across 5 sources, down 93% from prior week's 80. Instagram (2 citations) led recent activity, Building Salt Lake covered Alterra ski HQ consideration, Denver Post reported Fire on the Mountain expansion. Week's 0.9 mentions/day average remains lowest sustained rate since tracking launch. If silence extends through Wednesday, August's opening week will mark unprecedented media quiet period \u2014 current pace projects to ~4 mentions for full week vs. typical 60-80.",
+      "blurb": "<strong>Zero mentions Wednesday</strong> \u2014 fourth consecutive blank day extends August media blackout into unprecedented territory. Seven-day window remains frozen at <strong>0 total mentions</strong> from 0 sources, down from prior week's 40. No Instagram citations, no local pickups, no trade coverage. If drought persists through Friday, full week will close with ~0-2 mentions maximum \u2014 would mark lowest weekly total since tracking began and represent 95%+ collapse from typical 60-80 weekly baseline. Current pace projects August opening week at catastrophic sub-5 mention range. Year-to-date 1,167 mentions from 111 sources now aging rapidly without fresh additions.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
-        "value1": "6",
+        "value1": "0",
         "class1": "down",
         "label2": "sources",
-        "value2": "5",
+        "value2": "0",
         "class2": "down",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +3 yesterday</strong> (6 new, 3 canceled) \u2014 strongest single-day gain since July 31 \u2014 lifts MTD to <strong>+3</strong> (+0.8/day), 90-day net rises to <strong>+102</strong>. Tuesday's performance breaks four-day pattern of churn (+1, \u22121, +1, +0) and suggests August momentum building after volatile late July. Seven-day window now shows <strong>+14 net</strong> (28 new, 14 canceled), down from prior week's +27 but holding steady above midsummer lows. Recent two-week stretch demonstrates stabilization: last 14 days averaged +1.2/day vs. +1.0/day YTD baseline. If Tuesday's +3 pace sustains through week, MTD could reach +15-20 range by Sunday \u2014 meaningful reversal from July's closing weakness. Annual net holds at +219 (+1.0/day).",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) \u2014 single cancellation with zero acquisitions pulls MTD back to <strong>+3</strong> (+0.5/day), 90-day net sits at <strong>+94</strong>. Wednesday's goose egg on new subscribers follows Tuesday's +6 performance, illustrating ongoing volatility in daily acquisition patterns. Seven-day window now shows <strong>+9 net</strong> (29 new, 20 canceled) vs. prior week's +22 \u2014 deceleration driven by 43% drop in new subscriber volume (29 vs. 35) rather than increased churn. Recent 14-day pattern shows clustering: strong bursts (July 28: +9, July 31: +6, Aug 4: +3) offset by flat/negative days. Current +0.5/day MTD pace runs half speed vs. +1.0/day YTD baseline \u2014 August will need sustained daily +2-3 performance to match long-term trajectory.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "3",
       "net_ytd": "219",
-      "net_mtd_per_day": "0.8",
+      "net_mtd_per_day": "0.5",
       "net_ytd_per_day": "1.0",
-      "annual_mtd": "0",
-      "annual_ytd": "0",
-      "monthly_mtd": "0",
-      "monthly_ytd": "0"
+      "annual_mtd": "2",
+      "annual_ytd": "175",
+      "monthly_mtd": "1",
+      "monthly_ytd": "44"
     }
   }
 }
