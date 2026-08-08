@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-08",
-  "fetched_at": "2026-08-08 01:43:48",
+  "fetched_at": "2026-08-08 03:26:48",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Waymo begins fully driverless vehicle tests in Denver, eyes wider rollout later this year",
+      "link": "https://www.9news.com/article/tech/waymo-begins-fully-driverless-vehicle-tests-denver/73-097d8065-cc62-4104-9339-429105444a56",
+      "source": "9News",
+      "pub_date": "2026-08-08T02:51:39+00:00",
+      "age_hours": 0.5812610113888889,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
     {
       "title": "Frontier passenger denied boarding due to aircraft swap, highlighting airline rule loophole",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/frontier-passenger-denied-boarding-aircraft-swap/73-00094539-bb32-431c-a59e-9ddc006a1a00",
       "source": "9News",
       "pub_date": "2026-08-08T00:57:36+00:00",
-      "age_hours": 0.7652811558333333,
+      "age_hours": 2.482094438888889,
       "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver\u2019s music scene to honor Cass Ivey this weekend",
       "link": "https://www.9news.com/article/news/entertainment-news/denvers-music-scene-to-honor-cass-ivey/73-a7439956-272c-4998-82fc-5be3dbf2c313",
       "source": "9News",
       "pub_date": "2026-08-08T00:23:37+00:00",
-      "age_hours": 1.331670098611111,
+      "age_hours": 3.0484833727777776,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Democratic group aims Spanish-language TV ad at Gabe Evans in Colorado\u2019s battleground 8th CD",
       "link": "https://www.coloradopolitics.com/2026/08/07/democratic-group-aims-spanish-language-tv-ad-at-gabe-evans-in-colorados-battleground-8th-cd/",
       "source": "CO Politics",
       "pub_date": "2026-08-08T00:06:49+00:00",
-      "age_hours": 1.6123390972222222,
+      "age_hours": 3.32957236,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Weld County officials have told an AI company to stop construction on a new data center. Three times.",
       "link": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/",
       "source": "CPR",
       "pub_date": "2026-08-07T21:55:50+00:00",
-      "age_hours": 3.7947049286111114,
+      "age_hours": 5.511452645555555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Construction to rebuild a stretch of Santa Fe Drive starts Aug. 10",
       "link": "https://denverite.com/2026/08/07/santa-fe-drive-construction-begins/",
       "source": "Denverite",
       "pub_date": "2026-08-07T21:52:29+00:00",
-      "age_hours": 3.850514668611111,
+      "age_hours": 5.567125257222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Greeley could seek tax hike to tackle Catalyst debt",
       "link": "https://bizwest.com/2026/08/07/greeley-could-seek-tax-hike-to-tackle-catalyst-debt/",
       "source": "BizWest",
       "pub_date": "2026-08-07T21:03:38+00:00",
-      "age_hours": 4.664188544166667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.380528125833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "CSU\u2019s Walker among BizWest\u2019s 2026 Women of Distinction",
       "link": "https://bizwest.com/2026/08/07/csus-walker-among-bizwests-2026-women-of-distinction/",
       "source": "BizWest",
       "pub_date": "2026-08-07T20:39:46+00:00",
-      "age_hours": 5.061967012777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.778306416388888,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Aurora council to consider 6-month pause on new data center development in the city",
       "link": "https://sentinelcolorado.com/metro/aurora-council-to-consider-6-month-pause-on-new-data-center-development-in-the-city/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T20:01:47+00:00",
-      "age_hours": 5.696244970277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.413543994166666,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "New commander set to take over 140th Colorado Air National Guard Wing at Buckley",
       "link": "https://sentinelcolorado.com/metro/new-commander-set-to-take-over-140th-colorado-air-national-guard-wing-at-buckley/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T19:48:01+00:00",
-      "age_hours": 5.925689433611112,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.642988450833333,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "New Momentum Scholarship offers free tuition at Community College of Aurora for 2026 APS graduates",
       "link": "https://sentinelcolorado.com/metro/education/new-momentum-scholarship-offers-free-tuition-at-community-college-of-aurora-for-2026-aps-graduates/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T19:39:42+00:00",
-      "age_hours": 6.064300792222222,
+      "age_hours": 7.781599828055556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Future Legends bankruptcy case moved to Colorado",
       "link": "https://bizwest.com/2026/08/07/future-legends-bankruptcy-case-moved-to-colorado/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:12:22+00:00",
-      "age_hours": 6.518633724444444,
+      "age_hours": 8.234973123333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Split Boulder council fails to forward DDA plan to voters",
       "link": "https://bizwest.com/2026/08/07/split-boulder-council-fails-to-forward-dda-plan-to-voters/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:09:28+00:00",
-      "age_hours": 6.566967086666667,
+      "age_hours": 8.283306484444443,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Biodesix boosts sales, trims loss as diagnostics firm pushes toward profitability",
       "link": "https://bizwest.com/2026/08/07/biodesix-boosts-sales-trims-loss-as-diagnostics-firm-pushes-toward-profitability/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:07:11+00:00",
-      "age_hours": 6.605022648333334,
+      "age_hours": 8.32136204611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Pedestrian killed following overnight crash in Denver",
       "link": "https://kdvr.com/news/local/pedestrian-killed-following-overnight-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-08-07T19:00:52+00:00",
-      "age_hours": 6.711209795,
+      "age_hours": 8.428070903333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Detailed Design Plans Revealed For Women's Soccer Stadium: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/development/detailed-design-plans-revealed-for-women-soccer-stadium-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-07T18:06:24-04:00",
-      "age_hours": 3.618136385,
+      "age_hours": 5.334534258888889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Noah Kahan in Colorado: What to know for the stadium concerts",
       "link": "https://www.9news.com/article/entertainment/noah-kahan-colorado-coors-field-stadium-concerts/73-467405f4-cd4e-4d8a-9a06-0f6a6ea0a0ec",
       "source": "9News",
       "pub_date": "2026-08-07T18:01:20+00:00",
-      "age_hours": 7.703059135555556,
+      "age_hours": 9.419872404166666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "A Russian retail giant\u2019s warehouse burns after Ukraine\u2019s latest long-range drone attack",
       "link": "https://sentinelcolorado.com/uncategorized/a-russian-retail-giants-warehouse-burns-after-ukraines-latest-long-range-drone-attack/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T16:20:06+00:00",
-      "age_hours": 9.39096770361111,
+      "age_hours": 11.108266741388888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "FACT FOCUS: Trump boasts about the economy but there\u2019s more to the story",
       "link": "https://sentinelcolorado.com/uncategorized/fact-focus-trump-boasts-about-the-economy-but-theres-more-to-the-story/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T16:19:59+00:00",
-      "age_hours": 9.392912499166666,
+      "age_hours": 11.110211544722222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Passenger killed in late-night shooting in Denver",
       "link": "https://kdvr.com/news/local/passenger-killed-in-late-night-shooting-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-08-07T15:55:43+00:00",
-      "age_hours": 9.797043077777777,
+      "age_hours": 11.513904189722222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Charminar Express Brings Hyderabadi Street Food to Denver",
-      "link": "https://www.westword.com/food-drink/indian-food-truck-charminar-express-denver-40920143/",
-      "source": "Westword",
-      "pub_date": "2026-08-07T11:38:44-06:00",
-      "age_hours": 8.080218109444445,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     }
   ]
 }
