@@ -1,33 +1,42 @@
 {
   "fetched_date": "2026-08-09",
-  "fetched_at": "2026-08-09 09:40:32",
+  "fetched_at": "2026-08-09 10:35:49",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "The last rodeo: Why this bucking stock contractor is hanging up her hat",
+      "link": "https://coloradosun.com/2026/08/09/colorado-rodeo-veteran-kirsten-vold-retiring/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-09T10:00:00+00:00",
+      "age_hours": 0.5938551750000001,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
     {
       "title": "Buc-ee's files trademark lawsuit against family-owned convenience store in Beavercreek, Ohio",
       "link": "https://www.9news.com/article/news/nation-world/buc-ees-defends-lawsuit-ohio-convenience-store/507-d11c858a-dc40-4be7-ab32-136147469198",
       "source": "9News",
       "pub_date": "2026-08-08T14:00:56+00:00",
-      "age_hours": 19.656459366666663,
+      "age_hours": 20.578483349722223,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "What\u2019s Working: How Justice Ramos turned need into entrepreneurship for kids in Cortez and on the Navajo Nation",
       "link": "https://coloradosun.com/2026/08/08/navajo-nation-entrepreneurship-kids-cortez-training-jobs/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-08T10:00:00+00:00",
-      "age_hours": 23.671795581944444,
+      "age_hours": 24.59385528277778,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver nonprofit Warren Village reacts to proposed Head Start overhaul",
       "link": "https://www.9news.com/article/news/education/denver-nonprofit-warren-village-reacts-to-proposed-head-start-overhaul/73-5f6f386d-5cfc-4c25-b8e3-de01727198f5",
       "source": "9News",
       "pub_date": "2026-08-08T04:43:47+00:00",
-      "age_hours": 28.942292770833333,
+      "age_hours": 29.864316763055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -36,7 +45,7 @@
       "link": "https://www.9news.com/article/news/local/local-politics/denver-theater-never-opens-defaults-on-400000-taxpayer-loan-after-eviction/73-d836c47c-d2b2-4c80-b6c9-808222b935ab",
       "source": "9News",
       "pub_date": "2026-08-08T03:29:00+00:00",
-      "age_hours": 30.188681700833335,
+      "age_hours": 31.11070569611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://www.9news.com/article/tech/waymo-begins-fully-driverless-vehicle-tests-denver/73-097d8065-cc62-4104-9339-429105444a56",
       "source": "9News",
       "pub_date": "2026-08-08T02:51:39+00:00",
-      "age_hours": 30.811181705833334,
+      "age_hours": 31.73320570138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/frontier-passenger-denied-boarding-aircraft-swap/73-00094539-bb32-431c-a59e-9ddc006a1a00",
       "source": "9News",
       "pub_date": "2026-08-08T00:57:36+00:00",
-      "age_hours": 32.712015101388886,
+      "age_hours": 33.634039100833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://www.9news.com/article/news/entertainment-news/denvers-music-scene-to-honor-cass-ivey/73-a7439956-272c-4998-82fc-5be3dbf2c313",
       "source": "9News",
       "pub_date": "2026-08-08T00:23:37+00:00",
-      "age_hours": 33.278404037777776,
+      "age_hours": 34.200428036666665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/07/democratic-group-aims-spanish-language-tv-ad-at-gabe-evans-in-colorados-battleground-8th-cd/",
       "source": "CO Politics",
       "pub_date": "2026-08-08T00:06:49+00:00",
-      "age_hours": 33.55875665916667,
+      "age_hours": 34.480985230277774,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/",
       "source": "CPR",
       "pub_date": "2026-08-07T21:55:50+00:00",
-      "age_hours": 35.74137011916667,
+      "age_hours": 36.663442304166665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://denverite.com/2026/08/07/santa-fe-drive-construction-begins/",
       "source": "Denverite",
       "pub_date": "2026-08-07T21:52:29+00:00",
-      "age_hours": 35.79714404305555,
+      "age_hours": 36.71926341722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/08/07/greeley-could-seek-tax-hike-to-tackle-catalyst-debt/",
       "source": "BizWest",
       "pub_date": "2026-08-07T21:03:38+00:00",
-      "age_hours": 36.61090499944444,
+      "age_hours": 37.533067065000004,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/08/07/csus-walker-among-bizwests-2026-women-of-distinction/",
       "source": "BizWest",
       "pub_date": "2026-08-07T20:39:46+00:00",
-      "age_hours": 37.00868336388889,
+      "age_hours": 37.93084542361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://sentinelcolorado.com/metro/aurora-council-to-consider-6-month-pause-on-new-data-center-development-in-the-city/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T20:01:47+00:00",
-      "age_hours": 37.64268008055556,
+      "age_hours": 38.56489135361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://sentinelcolorado.com/metro/new-commander-set-to-take-over-140th-colorado-air-national-guard-wing-at-buckley/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T19:48:01+00:00",
-      "age_hours": 37.872124535,
+      "age_hours": 38.794335814166665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://sentinelcolorado.com/metro/education/new-momentum-scholarship-offers-free-tuition-at-community-college-of-aurora-for-2026-aps-graduates/",
       "source": "Sentinel",
       "pub_date": "2026-08-07T19:39:42+00:00",
-      "age_hours": 38.01073591027777,
+      "age_hours": 38.932947192499995,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/08/07/future-legends-bankruptcy-case-moved-to-colorado/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:12:22+00:00",
-      "age_hours": 38.46535006944444,
+      "age_hours": 39.38751213,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/08/07/split-boulder-council-fails-to-forward-dda-plan-to-voters/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:09:28+00:00",
-      "age_hours": 38.51368343111111,
+      "age_hours": 39.43584549138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/08/07/biodesix-boosts-sales-trims-loss-as-diagnostics-firm-pushes-toward-profitability/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:07:11+00:00",
-      "age_hours": 38.55173899277778,
+      "age_hours": 39.473901053055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://kdvr.com/news/local/pedestrian-killed-following-overnight-crash-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-08-07T19:00:52+00:00",
-      "age_hours": 38.65771375361111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Detailed Design Plans Revealed For Women's Soccer Stadium: The Denver Deal Sheet",
-      "link": "https://www.bisnow.com/news/denver/development/detailed-design-plans-revealed-for-women-soccer-stadium-the-denver-deal-sheet",
-      "source": "Bisnow",
-      "pub_date": "2026-08-07T18:06:24-04:00",
-      "age_hours": 35.56486377416667,
+      "age_hours": 39.57989105138889,
       "breaking": false,
       "time_ago": "1 day ago"
     }
