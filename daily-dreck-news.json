@@ -1,60 +1,51 @@
 {
   "fetched_date": "2026-08-10",
-  "fetched_at": "2026-08-10 18:58:28",
+  "fetched_at": "2026-08-10 19:57:14",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 10,
   "articles": [
     {
-      "title": "New Seafood and Oyster Bar Coming to the Denver Tech Center",
-      "link": "https://milehighcre.com/new-seafood-and-oyster-bar-coming-to-the-denver-tech-center/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-10T18:35:44+00:00",
-      "age_hours": 0.37439398611111113,
+      "title": "Experts analyze the effects of Adams County in-person visitor ban, challenged in court",
+      "link": "https://sentinelcolorado.com/metro/experts-analyze-the-effects-of-adams-county-in-person-visitor-ban-challenged-in-court/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-10T19:43:39+00:00",
+      "age_hours": 0.22231209222222223,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "5 young people dead after car drives off cliff in Grand Junction, police say",
+      "link": "https://coloradosun.com/2026/08/10/5-killed-car-drove-off-cliff-grand-junction-colorado/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-10T19:19:50+00:00",
+      "age_hours": 0.618082158611111,
+      "breaking": true,
+      "time_ago": "37 min ago"
     },
     {
       "title": "Aurora council to consider 6-month pause, restrictions on new data center development in the city",
       "link": "https://www.cpr.org/2026/08/10/aurora-council-to-consider-6-month-pause-restrictions-on-new-data-center-development-in-the-city/",
       "source": "CPR",
       "pub_date": "2026-08-10T17:24:50+00:00",
-      "age_hours": 1.5561810550000001,
+      "age_hours": 2.534929760277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Iconic DIA artwork returning from storage to terminal",
       "link": "https://kdvr.com/news/local/iconic-dia-artwork-returning-from-storage-to-terminal/",
       "source": "Fox31",
       "pub_date": "2026-08-10T17:18:26+00:00",
-      "age_hours": 1.6630681294444445,
+      "age_hours": 2.6422681675,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Concrete company in preferred Broncos stadium footprint buys new site",
       "link": "https://www.9news.com/article/money/business/srm-concrete-broncos-stadium-footprint/73-5480159c-546d-445a-b4ed-25efbc710e7f",
       "source": "9News",
       "pub_date": "2026-08-10T17:06:58+00:00",
-      "age_hours": 1.8540298238888888,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "The Mark Fort Collins Debuts Near Colorado State University",
-      "link": "https://milehighcre.com/the-mark-fort-collins-debuts-near-colorado-state-university/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-10T17:02:59+00:00",
-      "age_hours": 1.9202273413888888,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Historic Golden Community Trades After Nearly 30 Years",
-      "link": "https://milehighcre.com/historic-golden-community-trades-after-nearly-30-years/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-10T16:46:33+00:00",
-      "age_hours": 2.1941162405555557,
+      "age_hours": 2.832768352777778,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -63,115 +54,106 @@
       "link": "https://www.cpr.org/2026/08/10/opioid-addiction-recovery-denver-wellpower-suboxone/",
       "source": "CPR",
       "pub_date": "2026-08-10T16:35:48+00:00",
-      "age_hours": 2.373403296388889,
+      "age_hours": 3.352152002222222,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Dunkin' reveals '1 million' giveaway after teasing latest deal",
       "link": "https://www.9news.com/article/news/nation-world/dunkin-teases-1-million-giveaway-monday/507-f89eb71d-bae3-4fb6-baab-68ad828bc376",
       "source": "9News",
       "pub_date": "2026-08-10T16:30:52+00:00",
-      "age_hours": 2.455696515833333,
+      "age_hours": 3.4344350450000003,
       "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Trump scoffs at Iran\u2019s demand for war reparations and other Mideast developments",
-      "link": "https://sentinelcolorado.com/nation-world/irans-president-says-supreme-leader-urges-unity-amid-us-sanctions-and-other-mideast-developments/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-10T16:05:17+00:00",
-      "age_hours": 2.882456086111111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "New era for Broncos mascot Thunder as owner, rider, handler pass reins after 33 years",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/thunder-owner-rider-handlers-broncos-retirement/73-df5f9ad9-f52a-422a-ab7c-f0faf305ebbe",
       "source": "9News",
       "pub_date": "2026-08-10T15:49:22+00:00",
-      "age_hours": 3.1473632105555556,
+      "age_hours": 4.126101738888889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "'REI meets a library': First nature library in US opens in Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/first-nature-library-colorado/73-1a4a281c-05e5-4864-8fbb-83d5e6f1cf14",
       "source": "9News",
       "pub_date": "2026-08-10T14:48:06+00:00",
-      "age_hours": 4.168474343611111,
+      "age_hours": 5.147212870555555,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "A last look inside the Sports Castle before its transformation",
       "link": "https://denverite.com/2026/08/10/sports-castle-denver-architecture-tour/",
       "source": "Denverite",
       "pub_date": "2026-08-10T10:00:00+00:00",
-      "age_hours": 8.970058020555555,
+      "age_hours": 9.948735366944444,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Local governments in Colorado enact moratoriums on data centers",
       "link": "https://www.westword.com/news/colorado-local-governments-data-center-moratoriums-40921701/",
       "source": "Westword",
       "pub_date": "2026-08-10T08:54:27-06:00",
-      "age_hours": 4.062927090277777,
+      "age_hours": 5.042191770277777,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "By the students, for the students: Sierra High School represents Colorado in developing national AI framework",
       "link": "https://www.coloradopolitics.com/2026/08/10/by-the-students-for-the-students-sierra-high-school-represents-colorado-in-developing-national-ai-framework/",
       "source": "CO Politics",
       "pub_date": "2026-08-10T06:01:00+00:00",
-      "age_hours": 12.953825732777778,
+      "age_hours": 13.933112747222221,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Grass fire near Greeley causes concern, power outage for nearby business",
       "link": "https://kdvr.com/news/local/woman-found-dead-in-grass-fire-burn-zone-near-greeley-on-saturday/",
       "source": "Fox31",
       "pub_date": "2026-08-10T02:50:50+00:00",
-      "age_hours": 16.12306817611111,
+      "age_hours": 17.102268213888888,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Video shows man throwing rocks into Denver ice cream shop",
       "link": "https://kdvr.com/news/local/video-shows-man-throwing-rocks-into-denver-ice-cream-shop/",
       "source": "Fox31",
       "pub_date": "2026-08-10T02:34:21+00:00",
-      "age_hours": 16.397790383055558,
+      "age_hours": 17.376990420555554,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Waters named CEO at I and Love and You",
       "link": "https://bizwest.com/2026/08/09/waters-named-ceo-at-i-and-love-and-you/",
       "source": "BizWest",
       "pub_date": "2026-08-09T19:30:11+00:00",
-      "age_hours": 23.466402249444446,
+      "age_hours": 24.441306437777776,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Mueller Pye promotes 3 to ownership roles",
       "link": "https://bizwest.com/2026/08/09/mueller-pye-promotes-3-to-ownership-roles/",
       "source": "BizWest",
       "pub_date": "2026-08-09T19:09:50+00:00",
-      "age_hours": 23.80556943166667,
+      "age_hours": 24.780473695277777,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Renovare targets osteoarthritis with regenerative therapies",
       "link": "https://bizwest.com/2026/08/09/renovare-targets-osteoarthritis-with-regenerative-therapies/",
       "source": "BizWest",
       "pub_date": "2026-08-09T16:28:43+00:00",
-      "age_hours": 26.490847218888888,
+      "age_hours": 27.465751483333335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,9 +162,27 @@
       "link": "https://coloradosun.com/2026/08/09/colorado-rodeo-veteran-kirsten-vold-retiring/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-09T10:00:00+00:00",
-      "age_hours": 32.970019854722224,
+      "age_hours": 33.948638477222225,
       "breaking": false,
       "time_ago": "1 day ago"
+    },
+    {
+      "title": "Democratic group aims Spanish-language TV ad at Gabe Evans in Colorado\u2019s battleground 8th CD",
+      "link": "https://www.coloradopolitics.com/2026/08/07/democratic-group-aims-spanish-language-tv-ad-at-gabe-evans-in-colorados-battleground-8th-cd/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-08T00:06:49+00:00",
+      "age_hours": 67.83616836861111,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "Aurora City Council to discuss data center regulations, business permits",
+      "link": "https://www.coloradopolitics.com/2026/08/07/aurora-city-council-to-discuss-data-center-regulations-business-permits/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-07T22:03:05+00:00",
+      "age_hours": 69.8983906186111,
+      "breaking": false,
+      "time_ago": "2 days ago"
     }
   ]
 }
