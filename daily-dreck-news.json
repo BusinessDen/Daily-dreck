@@ -1,78 +1,114 @@
 {
   "fetched_date": "2026-08-10",
-  "fetched_at": "2026-08-10 13:10:11",
+  "fetched_at": "2026-08-10 14:59:14",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "'REI meets a library': First nature library in US opens in Colorado",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/first-nature-library-colorado/73-1a4a281c-05e5-4864-8fbb-83d5e6f1cf14",
+      "source": "9News",
+      "pub_date": "2026-08-10T14:48:06+00:00",
+      "age_hours": 0.181013575,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "New era for Broncos mascot Thunder as owner, rider, handler pass reigns after 33 years",
+      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/thunder-owner-rider-handlers-broncos-retirement/73-df5f9ad9-f52a-422a-ab7c-f0faf305ebbe",
+      "source": "9News",
+      "pub_date": "2026-08-10T14:45:41+00:00",
+      "age_hours": 0.22129140277777778,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "Dunkin' teases mysterious '1 million' giveaway for Monday",
+      "link": "https://www.9news.com/article/news/nation-world/dunkin-teases-1-million-giveaway-monday/507-f89eb71d-bae3-4fb6-baab-68ad828bc376",
+      "source": "9News",
+      "pub_date": "2026-08-10T13:21:57+00:00",
+      "age_hours": 1.6168469847222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Aurora council to consider 6-month pause, restrictions on new data center development in the city",
       "link": "https://sentinelcolorado.com/metro/aurora-council-to-consider-6-month-pause-on-new-data-center-development-in-the-city/",
       "source": "Sentinel",
       "pub_date": "2026-08-10T11:58:47+00:00",
-      "age_hours": 1.185963918888889,
+      "age_hours": 3.0035689688888887,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "A last look inside the Sports Castle before its transformation",
       "link": "https://denverite.com/2026/08/10/sports-castle-denver-architecture-tour/",
       "source": "Denverite",
       "pub_date": "2026-08-10T10:00:00+00:00",
-      "age_hours": 3.1646084625,
+      "age_hours": 4.982544014444445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Local governments in Colorado enact moratoriums on data centers",
+      "link": "https://www.westword.com/news/colorado-local-governments-data-center-moratoriums-40921701/",
+      "source": "Westword",
+      "pub_date": "2026-08-10T08:54:27-06:00",
+      "age_hours": 0.07567085833333334,
+      "breaking": true,
+      "time_ago": "4 min ago"
     },
     {
       "title": "Grass fire near Greeley causes concern, power outage for nearby business",
       "link": "https://kdvr.com/news/local/woman-found-dead-in-grass-fire-burn-zone-near-greeley-on-saturday/",
       "source": "Fox31",
       "pub_date": "2026-08-10T02:50:50+00:00",
-      "age_hours": 10.317998078055556,
+      "age_hours": 12.135625285,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Video shows man throwing rocks into Denver ice cream shop",
       "link": "https://kdvr.com/news/local/video-shows-man-throwing-rocks-into-denver-ice-cream-shop/",
       "source": "Fox31",
       "pub_date": "2026-08-10T02:34:21+00:00",
-      "age_hours": 10.592720276111113,
+      "age_hours": 12.410347479722223,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Waters named CEO at I and Love and You",
       "link": "https://bizwest.com/2026/08/09/waters-named-ceo-at-i-and-love-and-you/",
       "source": "BizWest",
       "pub_date": "2026-08-09T19:30:11+00:00",
-      "age_hours": 17.661062274722223,
+      "age_hours": 19.47905228388889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Mueller Pye promotes 3 to ownership roles",
       "link": "https://bizwest.com/2026/08/09/mueller-pye-promotes-3-to-ownership-roles/",
       "source": "BizWest",
       "pub_date": "2026-08-09T19:09:50+00:00",
-      "age_hours": 18.000229351666665,
+      "age_hours": 19.818219539444442,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Renovare targets osteoarthritis with regenerative therapies",
       "link": "https://bizwest.com/2026/08/09/renovare-targets-osteoarthritis-with-regenerative-therapies/",
       "source": "BizWest",
       "pub_date": "2026-08-09T16:28:43+00:00",
-      "age_hours": 20.685507136666665,
+      "age_hours": 22.503497326944444,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "The last rodeo: Why this bucking stock contractor is hanging up her hat",
       "link": "https://coloradosun.com/2026/08/09/colorado-rodeo-veteran-kirsten-vold-retiring/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-09T10:00:00+00:00",
-      "age_hours": 27.16452284611111,
+      "age_hours": 28.98248112916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/07/democratic-group-aims-spanish-language-tv-ad-at-gabe-evans-in-colorados-battleground-8th-cd/",
       "source": "CO Politics",
       "pub_date": "2026-08-08T00:06:49+00:00",
-      "age_hours": 61.05201524555555,
+      "age_hours": 62.86964578916666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -90,7 +126,7 @@
       "link": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/",
       "source": "CPR",
       "pub_date": "2026-08-07T21:55:50+00:00",
-      "age_hours": 63.234151967777784,
+      "age_hours": 65.05204101083334,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -99,7 +135,7 @@
       "link": "https://denverite.com/2026/08/07/santa-fe-drive-construction-begins/",
       "source": "Denverite",
       "pub_date": "2026-08-07T21:52:29+00:00",
-      "age_hours": 63.289886289444446,
+      "age_hours": 65.10782186722221,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -108,7 +144,7 @@
       "link": "https://bizwest.com/2026/08/07/greeley-could-seek-tax-hike-to-tackle-catalyst-debt/",
       "source": "BizWest",
       "pub_date": "2026-08-07T21:03:38+00:00",
-      "age_hours": 64.10356271388889,
+      "age_hours": 65.92155291,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +153,7 @@
       "link": "https://bizwest.com/2026/08/07/csus-walker-among-bizwests-2026-women-of-distinction/",
       "source": "BizWest",
       "pub_date": "2026-08-07T20:39:46+00:00",
-      "age_hours": 64.50134051944444,
+      "age_hours": 66.31933072472222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +162,7 @@
       "link": "https://bizwest.com/2026/08/07/future-legends-bankruptcy-case-moved-to-colorado/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:12:22+00:00",
-      "age_hours": 65.95800721527779,
+      "age_hours": 67.77599742777778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +171,7 @@
       "link": "https://bizwest.com/2026/08/07/split-boulder-council-fails-to-forward-dda-plan-to-voters/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:09:28+00:00",
-      "age_hours": 66.00634056916667,
+      "age_hours": 67.82433078805555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,45 +180,9 @@
       "link": "https://bizwest.com/2026/08/07/biodesix-boosts-sales-trims-loss-as-diagnostics-firm-pushes-toward-profitability/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:07:11+00:00",
-      "age_hours": 66.04439612777777,
+      "age_hours": 67.86238634861111,
       "breaking": false,
       "time_ago": "2 days ago"
-    },
-    {
-      "title": "Detailed Design Plans Revealed For Women's Soccer Stadium: The Denver Deal Sheet",
-      "link": "https://www.bisnow.com/news/denver/development/detailed-design-plans-revealed-for-women-soccer-stadium-the-denver-deal-sheet",
-      "source": "Bisnow",
-      "pub_date": "2026-08-07T18:06:24-04:00",
-      "age_hours": 63.05758518083333,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Passenger killed in late-night shooting in Denver",
-      "link": "https://kdvr.com/news/local/passenger-killed-in-late-night-shooting-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-08-07T15:55:43+00:00",
-      "age_hours": 69.23660926277778,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Charminar Express Brings Hyderabadi Street Food to Denver",
-      "link": "https://www.westword.com/food-drink/indian-food-truck-charminar-express-denver-40920143/",
-      "source": "Westword",
-      "pub_date": "2026-08-07T11:38:44-06:00",
-      "age_hours": 67.51986788277777,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Proposition NN is the best investment for Colorado\u2019s students and schools | GUEST COLUMN",
-      "link": "https://www.coloradopolitics.com/2026/08/07/proposition-nn-is-the-best-investment-for-colorados-students-and-schools-guest-column/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-07T06:45:00+00:00",
-      "age_hours": 78.41562639555556,
-      "breaking": false,
-      "time_ago": "3 days ago"
     }
   ]
 }
