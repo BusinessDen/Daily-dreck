@@ -1,69 +1,69 @@
 {
   "fetched_date": "2026-08-10",
-  "fetched_at": "2026-08-10 09:23:06",
+  "fetched_at": "2026-08-10 11:09:52",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "A last look inside the Sports Castle before its transformation",
+      "link": "https://denverite.com/2026/08/10/sports-castle-denver-architecture-tour/",
+      "source": "Denverite",
+      "pub_date": "2026-08-10T10:00:00+00:00",
+      "age_hours": 1.1609967430555557,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Grass fire near Greeley causes concern, power outage for nearby business",
       "link": "https://kdvr.com/news/local/woman-found-dead-in-grass-fire-burn-zone-near-greeley-on-saturday/",
       "source": "Fox31",
       "pub_date": "2026-08-10T02:50:50+00:00",
-      "age_hours": 6.534247766666667,
+      "age_hours": 8.314150863055556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Video shows man throwing rocks into Denver ice cream shop",
       "link": "https://kdvr.com/news/local/video-shows-man-throwing-rocks-into-denver-ice-cream-shop/",
       "source": "Fox31",
       "pub_date": "2026-08-10T02:34:21+00:00",
-      "age_hours": 6.808969958055556,
+      "age_hours": 8.58887305388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Waters named CEO at I and Love and You",
       "link": "https://bizwest.com/2026/08/09/waters-named-ceo-at-i-and-love-and-you/",
       "source": "BizWest",
       "pub_date": "2026-08-09T19:30:11+00:00",
-      "age_hours": 13.877685515833333,
+      "age_hours": 15.657643779166667,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Mueller Pye promotes 3 to ownership roles",
       "link": "https://bizwest.com/2026/08/09/mueller-pye-promotes-3-to-ownership-roles/",
       "source": "BizWest",
       "pub_date": "2026-08-09T19:09:50+00:00",
-      "age_hours": 14.216852696666667,
+      "age_hours": 15.996810942222222,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Renovare targets osteoarthritis with regenerative therapies",
       "link": "https://bizwest.com/2026/08/09/renovare-targets-osteoarthritis-with-regenerative-therapies/",
       "source": "BizWest",
       "pub_date": "2026-08-09T16:28:43+00:00",
-      "age_hours": 16.902130484166666,
+      "age_hours": 18.68208872916667,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "The last rodeo: Why this bucking stock contractor is hanging up her hat",
       "link": "https://coloradosun.com/2026/08/09/colorado-rodeo-veteran-kirsten-vold-retiring/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-09T10:00:00+00:00",
-      "age_hours": 23.381122915833334,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "What\u2019s Working: How Justice Ramos turned need into entrepreneurship for kids in Cortez and on the Navajo Nation",
-      "link": "https://coloradosun.com/2026/08/08/navajo-nation-entrepreneurship-kids-cortez-training-jobs/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-08T10:00:00+00:00",
-      "age_hours": 47.38112302361111,
+      "age_hours": 25.160964230555553,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/07/democratic-group-aims-spanish-language-tv-ad-at-gabe-evans-in-colorados-battleground-8th-cd/",
       "source": "CO Politics",
       "pub_date": "2026-08-08T00:06:49+00:00",
-      "age_hours": 57.26804782166666,
+      "age_hours": 59.04798336333333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/",
       "source": "CPR",
       "pub_date": "2026-08-07T21:55:50+00:00",
-      "age_hours": 59.45065997138889,
+      "age_hours": 61.230504535,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://denverite.com/2026/08/07/santa-fe-drive-construction-begins/",
       "source": "Denverite",
       "pub_date": "2026-08-07T21:52:29+00:00",
-      "age_hours": 59.50643521916667,
+      "age_hours": 61.286274579444445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://bizwest.com/2026/08/07/greeley-could-seek-tax-hike-to-tackle-catalyst-debt/",
       "source": "BizWest",
       "pub_date": "2026-08-07T21:03:38+00:00",
-      "age_hours": 60.320186067777776,
+      "age_hours": 62.10014431305555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://bizwest.com/2026/08/07/csus-walker-among-bizwests-2026-women-of-distinction/",
       "source": "BizWest",
       "pub_date": "2026-08-07T20:39:46+00:00",
-      "age_hours": 60.717963875833334,
+      "age_hours": 62.497922125,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://bizwest.com/2026/08/07/future-legends-bankruptcy-case-moved-to-colorado/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:12:22+00:00",
-      "age_hours": 62.17463058388889,
+      "age_hours": 63.95458882944444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://bizwest.com/2026/08/07/split-boulder-council-fails-to-forward-dda-plan-to-voters/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:09:28+00:00",
-      "age_hours": 62.222963945555556,
+      "age_hours": 64.00292218944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/08/07/biodesix-boosts-sales-trims-loss-as-diagnostics-firm-pushes-toward-profitability/",
       "source": "BizWest",
       "pub_date": "2026-08-07T19:07:11+00:00",
-      "age_hours": 62.26101950583334,
+      "age_hours": 64.04097774944444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.bisnow.com/news/denver/development/detailed-design-plans-revealed-for-women-soccer-stadium-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-07T18:06:24-04:00",
-      "age_hours": 59.27415209694445,
+      "age_hours": 61.05411607138888,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://kdvr.com/news/local/passenger-killed-in-late-night-shooting-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-08-07T15:55:43+00:00",
-      "age_hours": 65.45285898583333,
+      "age_hours": 67.23276206722223,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,16 +162,7 @@
       "link": "https://www.westword.com/food-drink/indian-food-truck-charminar-express-denver-40920143/",
       "source": "Westword",
       "pub_date": "2026-08-07T11:38:44-06:00",
-      "age_hours": 63.73601439166667,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Glenwood Springs leaders vote to sue landlord of ICE detention center in state court",
-      "link": "https://coloradosun.com/2026/08/07/glenwood-springs-leaders-vote-to-sue-landlord-of-ice-detention-center-in-state-court/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-07T10:00:00+00:00",
-      "age_hours": 71.38112367222222,
+      "age_hours": 65.51590834194444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +171,16 @@
       "link": "https://www.coloradopolitics.com/2026/08/07/proposition-nn-is-the-best-investment-for-colorados-students-and-schools-guest-column/",
       "source": "CO Politics",
       "pub_date": "2026-08-07T06:45:00+00:00",
-      "age_hours": 74.63165898277778,
+      "age_hours": 76.41159452361111,
+      "breaking": false,
+      "time_ago": "3 days ago"
+    },
+    {
+      "title": "Polis administration relaunches Colorado e-bike rebates with $3 million",
+      "link": "https://www.coloradopolitics.com/2026/08/06/polis-administration-relaunches-colorado-e-bike-rebates-with-3-million/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-06T22:55:39+00:00",
+      "age_hours": 84.23409455055555,
       "breaking": false,
       "time_ago": "3 days ago"
     }
