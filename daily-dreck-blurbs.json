@@ -1,34 +1,34 @@
 {
-  "generated_date": "2026-08-10",
-  "lead_headline": "Weekend restaurant tracker adds 5 leads: Snarf's Sandwiches hits Montbello, Neo Latin Cuisine builds out Colfax, SOL Mexican Cocina confirms Cherry Creek closure after 10-year run.",
+  "generated_date": "2026-08-11",
+  "lead_headline": "Restaurant tracker adds Snarf's Sandwiches in Montbello, TBirds closure in Wheat Ridge; subscribers log sixth straight negative day at \u22126.",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>5 leads since Friday</strong> \u2014 Openings: Snarf's Sandwiches (Montbello), Neo Latin Cuisine under construction (Cheesman Park). Closures: SOL Mexican Cocina (Cherry Creek, 10-year run), Little India Downtown (CBD, fire damage), Quad Side Tavern reclassified.",
+      "blurb": "<strong>1 opening, 1 closure</strong> \u2014 Snarf's Sandwiches debuts in Montbello (chain's summer expansion continues). TBirds bar & grill shutters in Wheat Ridge after multi-year run.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+1",
         "label2": "closed",
-        "value2": "\u22123",
-        "period": "since Friday"
+        "value2": "\u22121",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "169",
         "label2": "closed",
-        "value2": "157",
+        "value2": "158",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "Nothing new to report today.",
+      "blurb": "<strong>One $15M filing</strong> surfaces in Weld County this week \u2014 informational placeholder at ZIP 80634 tops recent foreclosure pipeline by 20x margin over next-highest Douglas County residential at $696K.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "0",
+        "value2": "1",
         "class2": "",
         "period": "today"
       },
@@ -43,28 +43,28 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications filed over the weekend</strong> \u2014 Sunday-Monday blackout follows Wednesday's single-permit filing (The Coastal Service, hotel/restaurant, 8125 E Belleview). Seven-day window holds at <strong>11 total applications</strong>, all filed Monday-Wednesday this week after prior week's complete drought. No status changes, no new delinquencies, no clearances since Thursday's activity. Pace now averaging 1.6 permits/day across active filing days vs. typical 8-12 daily baseline \u2014 suggests continued industry hesitation or seasonal August slowdown compressing new license activity into concentrated weekday bursts rather than steady flow.",
+      "blurb": "<strong>Zero applications filed Monday</strong> \u2014 extends weekend blackout to fourth consecutive filing day with no new permits, no status changes, no clearances. Seven-day window frozen at <strong>271 total applications</strong>, all filed in concentrated Monday-Wednesday bursts last week following prior week's complete drought. August opening 10 days now show extreme volatility: complete filing freeze Thursday-Monday bracketed by compressed Wednesday activity spikes. Current 0-permit Monday baseline vs. typical 8-12 daily flow suggests industry hesitation or seasonal compression continues \u2014 pace now requires minimum 5-7 permits daily through month-end to approach historical August averages.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "11",
+        "value1": "271",
         "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions over the weekend</strong> \u2014 Friday-Sunday blank extends media blackout to full week at <strong>0 total mentions</strong> from 0 sources, down from prior week's 21. Five consecutive days without single citation now establishes August opening week as lowest on record \u2014 represents 100% collapse from typical 60-80 weekly baseline and 88% drop vs. recent 7-day comparison period. No Instagram pickups, no local media, no trade coverage since Monday, July 28. Current pace projects first full calendar week in tracking history with sub-5 mention count. Year-to-date 1,167 total mentions from 111 sources remains frozen at Thursday's level with zero weekend additions.",
+      "blurb": "<strong>Zero mentions Monday</strong> \u2014 extends media blackout to full calendar week at <strong>0 total mentions</strong> from 0 sources vs. prior week's 6. Six consecutive filing days without single citation establishes August opening week as unprecedented in tracking history \u2014 represents 100% collapse from typical 60-80 weekly baseline. No Instagram pickups, no local media, no trade coverage since late July. Year-to-date 1,167 total mentions from 111 sources remains frozen since Thursday with zero additions across weekend and Monday. Current trajectory projects first sub-10 weekly close in program history.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u221220 on Wednesday</strong> (2 new, 22 canceled) \u2014 single-day hemorrhage driven by 22-subscriber exodus drops MTD to <strong>\u221216</strong> (\u22121.8/day), though 90-day net still holds at <strong>+71</strong>. Wednesday's mass cancellation event marks worst single-day performance in recent tracking window, erasing prior week's cumulative gains in one session. Seven-day window now shows <strong>\u221215 net</strong> (24 new, 39 canceled) vs. prior week's +19 \u2014 reversal driven by 160% churn spike (39 vs. 15 canceled) rather than acquisition collapse. Recent pattern shows volatility clustering around mid-week: strong acquisition days (July 28: +10 new, July 31: +7 new) now overwhelmed by Wednesday's catastrophic 22-cancel event. Current \u22121.8/day MTD pace runs inverse to +0.9/day YTD baseline \u2014 August needs immediate +3-4 daily performance through month-end to avoid first negative monthly close in tracking history.",
+      "blurb": "<strong>Net \u22126 yesterday</strong> (1 new, 7 canceled) \u2014 sixth consecutive negative day drives MTD to <strong>\u221222</strong> (\u22122.2/day), though 90-day net holds at <strong>+67</strong>. Past week shows <strong>\u221222 net</strong> (18 new, 40 canceled) vs. prior week's +23 \u2014 complete reversal driven by 167% churn spike (40 vs. 15 canceled) overwhelming steady acquisition. Recent pattern: persistent cancellation pressure (7-day average: 5.7 canceled/day) now triple-strength vs. 2.6 new/day acquisition rate. August's \u22122.2/day MTD pace runs inverse to +0.9/day YTD baseline and marks steepest sustained decline in tracking window. Trajectory requires immediate +4-5 daily net through month-end to avoid first negative monthly close on record.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-16",
-      "net_ytd": "200",
-      "net_mtd_per_day": "-1.8",
+      "net_mtd": "-22",
+      "net_ytd": "194",
+      "net_mtd_per_day": "-2.2",
       "net_ytd_per_day": "0.9",
-      "annual_mtd": "0",
-      "annual_ytd": "0",
-      "monthly_mtd": "0",
-      "monthly_ytd": "0"
+      "annual_mtd": "-18",
+      "annual_ytd": "156",
+      "monthly_mtd": "-4",
+      "monthly_ytd": "38"
     }
   }
 }
