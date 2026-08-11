@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-11",
-  "fetched_at": "2026-08-11 16:05:10",
+  "fetched_at": "2026-08-11 17:57:09",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "As Trump Media scraps some businesses, it\u2019s doubling down on Truth Social and the president",
+      "link": "https://sentinelcolorado.com/uncategorized/as-trump-media-scraps-some-businesses-its-doubling-down-on-truth-social-and-the-president/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-11T17:49:48+00:00",
+      "age_hours": 0.11805414666666667,
+      "breaking": true,
+      "time_ago": "7 min ago"
+    },
+    {
+      "title": "Zuckerberg manifesto sketches out Meta\u2019s ambitions for world-changing AI technology",
+      "link": "https://sentinelcolorado.com/uncategorized/zuckerberg-manifesto-sketches-out-metas-ambitions-for-world-changing-ai-technology/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-11T17:47:16+00:00",
+      "age_hours": 0.16027666555555556,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "'The industry is in the dumps': Denver distillery announces closure after 10 years",
+      "link": "https://kdvr.com/denver-guide/the-industry-is-in-the-dumps-denver-distillery-announces-closure-after-10-years/",
+      "source": "Fox31",
+      "pub_date": "2026-08-11T17:10:14+00:00",
+      "age_hours": 0.7770062511111111,
+      "breaking": true,
+      "time_ago": "46 min ago"
+    },
+    {
+      "title": "SERHANT. Brings AI-Powered Brokerage Platform to Denver",
+      "link": "https://milehighcre.com/serhant-brings-ai-powered-brokerage-platform-to-denver/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-08-11T17:01:13+00:00",
+      "age_hours": 0.9264601219444444,
+      "breaking": true,
+      "time_ago": "55 min ago"
+    },
+    {
+      "title": "Gaia stock sinks after streamer reported soft second-quarter sales",
+      "link": "https://bizwest.com/2026/08/11/gaia-stock-sinks-after-streamer-reported-soft-second-quarter-sales/",
+      "source": "BizWest",
+      "pub_date": "2026-08-11T16:25:30+00:00",
+      "age_hours": 1.5214683213888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "$29M construction project beginning on Santa Fe Drive",
       "link": "https://www.9news.com/article/traffic/road-project-santa-fe-drive-construction/73-e4970eda-6ccc-45ca-b74e-8051d65a72e2",
       "source": "9News",
       "pub_date": "2026-08-11T15:57:36+00:00",
-      "age_hours": 0.12182915277777777,
+      "age_hours": 1.987215201111111,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Parker data center could get $19M tax rebate from Douglas County",
       "link": "https://www.coloradopolitics.com/2026/08/11/parker-data-center-could-get-19m-tax-rebate-from-douglas-county/",
       "source": "CO Politics",
       "pub_date": "2026-08-11T15:57:22+00:00",
-      "age_hours": 0.1260667113888889,
+      "age_hours": 1.9916312772222222,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Terra CO2 Breaks Ground on New Golden HQ and R&D Facility",
       "link": "https://milehighcre.com/terra-co2-breaks-ground-on-new-golden-hq-and-rd-facility/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-11T15:43:03+00:00",
-      "age_hours": 0.3640709702777778,
+      "age_hours": 2.2292379180555555,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Longmont council to mull Micron incentive extension, tax-hike ballot issues",
       "link": "https://bizwest.com/2026/08/11/longmont-council-to-mull-micron-incentive-extension-tax-hike-ballot-issues/",
       "source": "BizWest",
       "pub_date": "2026-08-11T13:13:31+00:00",
-      "age_hours": 2.856045304166667,
+      "age_hours": 4.721190564166666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Morgus named COO at Elevate Quantum",
       "link": "https://bizwest.com/2026/08/11/morgus-named-coo-at-elevate-quantum/",
       "source": "BizWest",
       "pub_date": "2026-08-11T13:04:12+00:00",
-      "age_hours": 3.0113241363888887,
+      "age_hours": 4.8764687425,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Braverman named Longmont Symphony executive director",
       "link": "https://bizwest.com/2026/08/11/braverman-named-longmont-symphony-executive-director/",
       "source": "BizWest",
       "pub_date": "2026-08-11T12:59:01+00:00",
-      "age_hours": 3.0977130849999996,
+      "age_hours": 4.962857654444444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Advocates demand state action as GEO Group blocks health probes into TB case at Aurora immigration jail",
-      "link": "https://sentinelcolorado.com/metro/advocates-demand-state-action-as-geo-group-blocks-health-probes-into-tb-case-at-aurora-immigration-jail/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-11T12:41:45+00:00",
-      "age_hours": 3.3863655930555554,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado audit finds $175K wasted on unused state-issued cellphones",
       "link": "https://www.9news.com/article/news/local/local-politics/audit-wasted-unused-state-issued-cellphones/73-78e89af0-9b43-467a-b574-996aa7e15c9d",
       "source": "9News",
       "pub_date": "2026-08-11T12:35:28+00:00",
-      "age_hours": 3.490718108611111,
+      "age_hours": 5.356104133055556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Real Capital Solutions Launches 'Contrarian' Office Fund With $50M From CEO",
+      "link": "https://www.bisnow.com/news/national/office/real-capital-solutions-launches-office-fund-with-50m-from-ceo",
+      "source": "Bisnow",
+      "pub_date": "2026-08-11T12:30:47-04:00",
+      "age_hours": 1.4335454547222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Distillery to close its doors after 10 years in Denver",
       "link": "https://www.9news.com/article/money/business/block-distilling-company-closes/73-1e85a50a-9f56-471d-9a60-27fb40b8a167",
       "source": "9News",
       "pub_date": "2026-08-11T12:14:13+00:00",
-      "age_hours": 3.844884833888889,
+      "age_hours": 5.710270850833334,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "The city tried to radically change La Alma Lincoln Park once. What will the Broncos do?",
       "link": "https://denverite.com/2026/08/11/la-alma-lincoln-park-history-denver-broncos-stadium/",
       "source": "Denverite",
       "pub_date": "2026-08-11T10:00:00+00:00",
-      "age_hours": 6.081691292777777,
+      "age_hours": 7.9468744241666665,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
-      "title": "Aurora considers data center moratorium as state's largest facility prepares to open",
-      "link": "https://www.9news.com/article/news/local/local-politics/aurora-data-center-moratorium/73-149513e1-28af-4c60-bc98-46b6f24a2902",
-      "source": "9News",
-      "pub_date": "2026-08-11T00:49:39+00:00",
-      "age_hours": 15.254329413333334,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Denver city council approves $248 million in DIA contracts",
+      "title": "Denver City Council approves $248 million in DIA contracts",
       "link": "https://www.denver7.com/news/local-news/denver-city-council-approves-248-million-in-dia-contracts",
       "source": "Denver7",
       "pub_date": "2026-08-11T00:16:49+00:00",
-      "age_hours": 15.801679818055556,
+      "age_hours": 17.667124055555554,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Xcel Energy rate increase request scaled back, but Colorado customers say any hike is too much",
       "link": "https://www.denver7.com/news/local-news/in-your-community/jeffco/xcel-energy-rate-increase-request-scaled-back-but-colorado-customers-say-any-hike-is-too-much",
       "source": "Denver7",
       "pub_date": "2026-08-10T23:52:05+00:00",
-      "age_hours": 16.21390204861111,
+      "age_hours": 18.079346286944443,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Lauren Boebert\u2019s son charged with sexual exploitation",
       "link": "https://coloradosun.com/2026/08/10/lauren-boebert-son-charged-with-sexual-exploitation/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-10T23:43:35+00:00",
-      "age_hours": 16.35524333111111,
+      "age_hours": 18.22039982472222,
       "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Denver Broncos coach Sean Payton frustrated by ongoing soft tissue injuries",
-      "link": "https://kdvr.com/sports/denver-broncos/denver-broncos-coach-sean-payton-frustrated-by-ongoing-soft-tissue-injuries/",
-      "source": "Fox31",
-      "pub_date": "2026-08-10T22:49:34+00:00",
-      "age_hours": 17.255871053333333,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Indian aerospace firm, international grocer seek Westminster incentives",
       "link": "https://bizwest.com/2026/08/10/indian-aerospace-firm-international-grocer-seek-westminster-incentives/",
       "source": "BizWest",
       "pub_date": "2026-08-10T21:36:58+00:00",
-      "age_hours": 18.4652131525,
+      "age_hours": 20.330357676666665,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Longtime glass firm seeks Chapter 7 liquidation",
       "link": "https://bizwest.com/2026/08/10/longtime-glass-firm-seeks-chapter-7-liquidation/",
       "source": "BizWest",
       "pub_date": "2026-08-10T21:29:20+00:00",
-      "age_hours": 18.59243545361111,
+      "age_hours": 20.457579926666668,
       "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Family-owned Ward Electric keeps charging ahead",
-      "link": "https://bizwest.com/2026/08/10/family-owned-ward-electric-keeps-charging-ahead/",
-      "source": "BizWest",
-      "pub_date": "2026-08-10T21:19:50+00:00",
-      "age_hours": 18.750768846666666,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Alpen promotes Heintz to COO",
-      "link": "https://bizwest.com/2026/08/10/alpen-promotes-heintz-to-coo/",
-      "source": "BizWest",
-      "pub_date": "2026-08-10T21:10:59+00:00",
-      "age_hours": 18.898268906111113,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Real Capital Solutions Launches Contrarian Office Fund",
-      "link": "https://milehighcre.com/real-capital-solutions-launches-contrarian-office-fund/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-10T20:53:42+00:00",
-      "age_hours": 19.186571005833333,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     }
   ]
 }
