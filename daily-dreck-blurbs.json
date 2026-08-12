@@ -1,34 +1,34 @@
 {
-  "generated_date": "2026-08-11",
-  "lead_headline": "Restaurant tracker adds Snarf's Sandwiches in Montbello, TBirds closure in Wheat Ridge; subscribers log sixth straight negative day at \u22126.",
+  "generated_date": "2026-08-12",
+  "lead_headline": "Restaurant tracker catches one Cicis Pizza closure in Lakewood; foreclosure pipeline frozen at zero $4M+ filings; liquor adds MDE Lounge application downtown",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 opening, 1 closure</strong> \u2014 Snarf's Sandwiches debuts in Montbello (chain's summer expansion continues). TBirds bar & grill shutters in Wheat Ridge after multi-year run.",
+      "blurb": "<strong>1 closure</strong> \u2014 Cicis Pizza in Lakewood shutters (4.1-star rating, operated 2-3 years before closing 2022-2025 window).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "0",
         "label2": "closed",
         "value2": "\u22121",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "169",
+        "value1": "+169",
         "label2": "closed",
-        "value2": "158",
+        "value2": "\u2212159",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "<strong>One $15M filing</strong> surfaces in Weld County this week \u2014 informational placeholder at ZIP 80634 tops recent foreclosure pipeline by 20x margin over next-highest Douglas County residential at $696K.",
+      "blurb": "Nothing new to report today.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "1",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
@@ -43,23 +43,23 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications filed Monday</strong> \u2014 extends weekend blackout to fourth consecutive filing day with no new permits, no status changes, no clearances. Seven-day window frozen at <strong>271 total applications</strong>, all filed in concentrated Monday-Wednesday bursts last week following prior week's complete drought. August opening 10 days now show extreme volatility: complete filing freeze Thursday-Monday bracketed by compressed Wednesday activity spikes. Current 0-permit Monday baseline vs. typical 8-12 daily flow suggests industry hesitation or seasonal compression continues \u2014 pace now requires minimum 5-7 permits daily through month-end to approach historical August averages.",
+      "blurb": "<strong>One application Tuesday</strong> \u2014 MDE Lounge LLC files for liquor license at 918 W 1st Ave Suite 110, status pending. <strong>15 status changes</strong>: 8 businesses clear delinquency (including 3 Margaritas Northfield, Mississippi Boy Catfish), 7 fall delinquent (Gunners Bar & Grill at Lowry, Nola Jane downtown, Bakery Four on Tennyson among lapses). Seven-day window adds 264 applications total \u2014 explosive 3,200% spike vs. prior week's 8 filings marks return to filing velocity after multi-day freeze.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
-        "class1": "down",
+        "value1": "1",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "271",
-        "class1": "",
+        "value1": "264",
+        "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Monday</strong> \u2014 extends media blackout to full calendar week at <strong>0 total mentions</strong> from 0 sources vs. prior week's 6. Six consecutive filing days without single citation establishes August opening week as unprecedented in tracking history \u2014 represents 100% collapse from typical 60-80 weekly baseline. No Instagram pickups, no local media, no trade coverage since late July. Year-to-date 1,167 total mentions from 111 sources remains frozen since Thursday with zero additions across weekend and Monday. Current trajectory projects first sub-10 weekly close in program history.",
+      "blurb": "<strong>Zero mentions Tuesday</strong> \u2014 media blackout extends to <strong>7 consecutive calendar days</strong> at 0 total pickups from 0 sources. One full week without single citation establishes unprecedented drought vs. typical 60-80 weekly baseline. Year-to-date total frozen at 1,167 mentions from 111 sources with zero additions since late July. Past 30 days show 165 mentions (5.5/day historical average), making current 7-day void 100% below norm. Pattern suggests structural pause in citation flow vs. weekend slowdowns.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,11 +78,11 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22126 yesterday</strong> (1 new, 7 canceled) \u2014 sixth consecutive negative day drives MTD to <strong>\u221222</strong> (\u22122.2/day), though 90-day net holds at <strong>+67</strong>. Past week shows <strong>\u221222 net</strong> (18 new, 40 canceled) vs. prior week's +23 \u2014 complete reversal driven by 167% churn spike (40 vs. 15 canceled) overwhelming steady acquisition. Recent pattern: persistent cancellation pressure (7-day average: 5.7 canceled/day) now triple-strength vs. 2.6 new/day acquisition rate. August's \u22122.2/day MTD pace runs inverse to +0.9/day YTD baseline and marks steepest sustained decline in tracking window. Trajectory requires immediate +4-5 daily net through month-end to avoid first negative monthly close on record.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) \u2014 first zero-activity day in two weeks provides pause after 6-day negative streak. MTD deteriorates to <strong>\u221222</strong> (\u22122.0/day) while 90-day net holds at <strong>+67</strong>. Past week: <strong>\u221225 net</strong> (12 new, 37 canceled) vs. prior week's +13 \u2014 driven by 95% churn spike (37 vs. 19 canceled prior week). Recent pattern shows sustained cancellation pressure (7-day average: 5.3/day) overwhelming 1.7/day acquisition rate. August's \u22122.0/day MTD pace runs inverse to +0.9/day YTD baseline. Yesterday's flat reading interrupts decline but doesn't reverse trajectory.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "-22",
       "net_ytd": "194",
-      "net_mtd_per_day": "-2.2",
+      "net_mtd_per_day": "-2.0",
       "net_ytd_per_day": "0.9",
       "annual_mtd": "-18",
       "annual_ytd": "156",
