@@ -1,87 +1,123 @@
 {
   "fetched_date": "2026-08-12",
-  "fetched_at": "2026-08-12 11:47:24",
+  "fetched_at": "2026-08-12 13:11:37",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "New Colorado rideshare safety provisions take effect",
+      "link": "https://coloradosun.com/2026/08/12/colorado-uber-lyft-new-rules/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-12T12:49:33+00:00",
+      "age_hours": 0.3628219913888889,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Penner pushes for a 2031 Broncos stadium, not a bigger stake in the Rockies",
+      "link": "https://sentinelcolorado.com/sports/penner-pushes-for-a-2031-broncos-stadium-not-a-bigger-stake-in-the-rockies/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-12T12:45:32+00:00",
+      "age_hours": 0.43094101833333337,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
+    {
+      "title": "Spirit Halloween strikes deal to buy Hot Topic",
+      "link": "https://www.9news.com/article/news/nation-world/spirit-halloween-owner-buy-hot-topic/507-5152e126-6b7c-4d5c-bce1-48f77ad1b5c1",
+      "source": "9News",
+      "pub_date": "2026-08-12T12:19:52+00:00",
+      "age_hours": 0.8577317677777777,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
+    {
+      "title": "$29M construction project beginning on Santa Fe Drive",
+      "link": "https://www.9news.com/article/traffic/road-project-santa-fe-drive-construction/73-e4970eda-6ccc-45ca-b74e-8051d65a72e2",
+      "source": "9News",
+      "pub_date": "2026-08-12T12:07:59+00:00",
+      "age_hours": 1.0557873616666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Another lawsuit threatens to upend Colorado\u2019s recycling expansion",
       "link": "https://coloradosun.com/2026/08/12/colorado-recycling-expansion-lawsuits-threat/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-12T10:08:00+00:00",
-      "age_hours": 1.6524649658333332,
+      "age_hours": 3.0553225336111107,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
-      "title": "Drop in winter spending in Colorado mountain towns in has communities cutting budgets",
+      "title": "Drop in winter spending in Colorado mountain towns has communities cutting budgets",
       "link": "https://coloradosun.com/2026/08/12/colorado-winter-spending-tax-collections-mountain-towns/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-12T09:45:00+00:00",
-      "age_hours": 2.0357990619444446,
+      "age_hours": 3.4386564797222223,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Shake Shack says technical glitch caused kiosk tip pricing confusion seen in viral TikTok",
       "link": "https://www.9news.com/article/news/nation-world/shake-shack-tip-pricing-kiosk-tiktok/507-e60db032-1a83-4e36-a084-d63c9bb21212",
       "source": "9News",
       "pub_date": "2026-08-12T03:42:20+00:00",
-      "age_hours": 8.08043232638889,
+      "age_hours": 9.483287410277777,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver tests Alameda Avenue 'road diet' after months of controversy",
       "link": "https://www.9news.com/article/traffic/denver-tests-alameda-avenue-road-diet/73-2ed0f8f3-bccc-4566-8dd5-d67c4d0e30bb",
       "source": "9News",
       "pub_date": "2026-08-12T03:22:02+00:00",
-      "age_hours": 8.41876571388889,
+      "age_hours": 9.821620780833333,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "McDonald's is bringing Red Bull to the menu, marking its first-ever energy drink",
       "link": "https://www.9news.com/article/news/nation-world/mcdonalds-red-bull-energy-drinks/507-9eafd5ee-4546-426f-8711-9f2bea153060",
       "source": "9News",
       "pub_date": "2026-08-12T01:25:12+00:00",
-      "age_hours": 10.365987976388888,
+      "age_hours": 11.768843034166668,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
-      "title": "Douglas County Commissioners approve $19 million tax rebate for company building data center in Parker",
+      "title": "Douglas County approves $19M tax rebate for company building data center",
       "link": "https://www.9news.com/article/news/local/colorado-news/douglas-county-commissioners-approve-tax-break-data-center-parker/73-052402a1-7e24-4d2d-8d8c-24104fa031b4",
       "source": "9News",
       "pub_date": "2026-08-12T00:28:02+00:00",
-      "age_hours": 11.318765809166667,
+      "age_hours": 12.721620855277777,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Broncos close on concrete property as work continues toward new stadium",
       "link": "https://kdvr.com/news/local/broncos-close-on-concrete-property-as-work-continues-toward-new-stadium/",
       "source": "Fox31",
       "pub_date": "2026-08-12T00:18:29+00:00",
-      "age_hours": 11.478375454444445,
+      "age_hours": 12.881114820555556,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
+    },
+    {
+      "title": "Xcel's coal plant has been offline for a year. Who will pay the repair bill?",
+      "link": "https://www.denver7.com/news/local-news/xcels-coal-plant-has-been-offline-for-a-year-who-will-pay-the-repair-bill",
+      "source": "Denver7",
+      "pub_date": "2026-08-11T23:43:27+00:00",
+      "age_hours": 13.464795330555555,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Shooting in Denver leaves 2 hospitalized",
       "link": "https://kdvr.com/news/local/shooting-in-denver-leaves-2-hospitalized/",
       "source": "Fox31",
       "pub_date": "2026-08-11T23:41:27+00:00",
-      "age_hours": 12.095597644444444,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Financial constraints lead to closure of Bridge House homeless program in Aurora",
-      "link": "https://sentinelcolorado.com/metro/financial-constraints-lead-to-closure-of-bridge-house-homeless-program-in-aurora/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-11T22:38:44+00:00",
-      "age_hours": 13.141074739999999,
+      "age_hours": 13.498337015833332,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -90,97 +126,61 @@
       "link": "https://www.9news.com/article/news/local/colorado-news/fort-collins-proposing-new-solution-downtown-paid-parking/73-6f18935c-e867-4b79-8fdf-15f68a94add1",
       "source": "9News",
       "pub_date": "2026-08-11T22:37:51+00:00",
-      "age_hours": 13.15515472611111,
+      "age_hours": 14.55800978861111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver nightclub's licenses suspended over security guard allegations",
       "link": "https://kdvr.com/news/local/denver-nightclubs-licenses-suspended-over-security-guard-allegations/",
       "source": "Fox31",
       "pub_date": "2026-08-11T22:34:32+00:00",
-      "age_hours": 13.210875362222222,
+      "age_hours": 14.613614736666667,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado audit finds $175K wasted on unused state-issued cellphones",
       "link": "https://www.9news.com/article/news/local/local-politics/audit-wasted-unused-state-issued-cellphones/73-78e89af0-9b43-467a-b574-996aa7e15c9d",
       "source": "9News",
       "pub_date": "2026-08-11T22:32:47+00:00",
-      "age_hours": 13.239599217499999,
+      "age_hours": 14.642454268888889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Batista scion taking top global job at JBS",
       "link": "https://bizwest.com/2026/08/11/batista-scion-taking-top-global-job-at-jbs/",
       "source": "BizWest",
       "pub_date": "2026-08-11T20:46:18+00:00",
-      "age_hours": 15.01365630611111,
+      "age_hours": 16.41656630611111,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "VA clinic set to return to Greeley by 2028",
       "link": "https://bizwest.com/2026/08/11/va-clinic-set-to-return-to-greeley-by-2028/",
       "source": "BizWest",
       "pub_date": "2026-08-11T20:38:50+00:00",
-      "age_hours": 15.138101254722221,
+      "age_hours": 16.54101118722222,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Collins Communications to expand to north Denver by 2027",
       "link": "https://bizwest.com/2026/08/11/collins-communications-to-expand-to-north-denver-by-2027/",
       "source": "BizWest",
       "pub_date": "2026-08-11T20:30:00+00:00",
-      "age_hours": 15.285323514722222,
+      "age_hours": 16.688233441111112,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Fueled by feedback, Fort Collins eyes parking options",
       "link": "https://bizwest.com/2026/08/11/fueled-by-feedback-fort-collins-eyes-parking-options/",
       "source": "BizWest",
       "pub_date": "2026-08-11T20:26:39+00:00",
-      "age_hours": 15.341156878888889,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Kraft among BizWest\u2019s 2026 Women of Distinction",
-      "link": "https://bizwest.com/2026/08/11/kraft-among-bizwests-2026-women-of-distinction/",
-      "source": "BizWest",
-      "pub_date": "2026-08-11T20:20:58+00:00",
-      "age_hours": 15.435879130833333,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports scoreboard, 8.11.26",
-      "link": "https://sentinelcolorado.com/sports/preps/aurora-prep-sports-scoreboard-8-11-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-11T20:07:18+00:00",
-      "age_hours": 15.664963806666666,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Treasury releases five-step guidance for employers to make contributions to Trump Accounts",
-      "link": "https://www.coloradopolitics.com/2026/08/11/treasury-releases-five-step-guidance-for-employers-to-make-contributions-to-trump-accounts/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-11T19:59:35+00:00",
-      "age_hours": 15.793551759722222,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Denver schools to refinance bonds to create capacity for future borrowing",
-      "link": "https://www.coloradopolitics.com/2026/08/11/denver-schools-to-refinance-bonds-to-create-capacity-for-future-borrowing/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-11T19:40:01+00:00",
-      "age_hours": 16.11966288361111,
+      "age_hours": 16.7440668,
       "breaking": false,
       "time_ago": "16 hrs ago"
     }
