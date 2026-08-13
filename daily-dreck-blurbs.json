@@ -1,40 +1,40 @@
 {
-  "generated_date": "2026-08-12",
-  "lead_headline": "Restaurant tracker catches one Cicis Pizza closure in Lakewood; foreclosure pipeline frozen at zero $4M+ filings; liquor adds MDE Lounge application downtown",
+  "generated_date": "2026-08-13",
+  "lead_headline": "Restaurant tracker logs zero changes overnight; $15M Weld County foreclosure filing leads active pipeline; liquor adds Poison Pit tavern and Glosshouz downtown applications",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 closure</strong> \u2014 Cicis Pizza in Lakewood shutters (4.1-star rating, operated 2-3 years before closing 2022-2025 window).",
+      "blurb": "<strong>Zero new leads</strong> \u2014 tracker shows no overnight additions. Active pipeline holds 169 opening leads, 159 closure/temp closure leads (328 total).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
-        "value2": "\u22121",
+        "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+169",
+        "value1": "169",
         "label2": "closed",
-        "value2": "\u2212159",
+        "value2": "159",
         "period": "all leads"
       }
     },
     "foreclosure": {
-      "blurb": "Nothing new to report today.",
+      "blurb": "<strong>$15M filing</strong> \u2014 Weld County property at undisclosed address (marked \"FOR INFORMATIONAL PURPOSES ONLY\") scheduled for August 7 auction, highest-value case in active pipeline.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new filings",
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "0",
+        "value2": "1",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "66",
+        "value1": "72",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,28 +43,28 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>One application Tuesday</strong> \u2014 MDE Lounge LLC files for liquor license at 918 W 1st Ave Suite 110, status pending. <strong>15 status changes</strong>: 8 businesses clear delinquency (including 3 Margaritas Northfield, Mississippi Boy Catfish), 7 fall delinquent (Gunners Bar & Grill at Lowry, Nola Jane downtown, Bakery Four on Tennyson among lapses). Seven-day window adds 264 applications total \u2014 explosive 3,200% spike vs. prior week's 8 filings marks return to filing velocity after multi-day freeze.",
+      "blurb": "<strong>4 applications Wednesday</strong> \u2014 Poison Pit tavern files for 608 E 13th Ave (Capitol Hill), Glosshouz at 357 S Bannock Unit 130 (Golden Triangle), Denver Wine Merchant tastings license for 3911 N Fox St (RiNo), Wingstop of Montbello seeks combined liquor transfer at 5125 N Chambers Rd. <strong>4 status changes</strong>: Ajinoya Ramen clears delinquency at Colorado/Evans Junction Food & Drink, L.Chaim kosher restaurant falls delinquent on S Oneida, Circle K #2744089 reinstates active status, The Cut/Call Me Dirty/Peach & Jack's Patio patio bar cluster issues first license at 776 N Lincoln.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "1",
+        "value1": "4",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "264",
-        "class1": "up",
+        "value1": "267",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Tuesday</strong> \u2014 media blackout extends to <strong>7 consecutive calendar days</strong> at 0 total pickups from 0 sources. One full week without single citation establishes unprecedented drought vs. typical 60-80 weekly baseline. Year-to-date total frozen at 1,167 mentions from 111 sources with zero additions since late July. Past 30 days show 165 mentions (5.5/day historical average), making current 7-day void 100% below norm. Pattern suggests structural pause in citation flow vs. weekend slowdowns.",
+      "blurb": "<strong>Zero mentions Wednesday</strong> \u2014 media drought extends to <strong>8 consecutive days</strong> with zero total pickups from zero sources. Streak establishes new record for sustained blackout vs. typical 60-80 weekly baseline (8.6-11.4/day historical). YTD frozen at 1,167 mentions from 111 sources with no additions since late July. Past 30 days: 154 mentions (5.1/day average) makes current void 100% below norm. Eight-day silence suggests systemic pause in citation flow beyond standard weekend lulls.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) \u2014 first zero-activity day in two weeks provides pause after 6-day negative streak. MTD deteriorates to <strong>\u221222</strong> (\u22122.0/day) while 90-day net holds at <strong>+67</strong>. Past week: <strong>\u221225 net</strong> (12 new, 37 canceled) vs. prior week's +13 \u2014 driven by 95% churn spike (37 vs. 19 canceled prior week). Recent pattern shows sustained cancellation pressure (7-day average: 5.3/day) overwhelming 1.7/day acquisition rate. August's \u22122.0/day MTD pace runs inverse to +0.9/day YTD baseline. Yesterday's flat reading interrupts decline but doesn't reverse trajectory.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) \u2014 second consecutive flat reading after prior 6-day decline. MTD deteriorates to <strong>\u221222</strong> (\u22121.8/day average) while 90-day net holds at <strong>+67</strong>. Past week compresses to <strong>\u221224 net</strong> (8 new, 32 canceled) vs. prior week's +10 \u2014 churn acceleration (32 canceled vs. 22 prior) overwhelms acquisition slowdown (8 vs. 32 new). August's \u22121.8/day MTD pace runs inverse to +0.9/day YTD baseline. Two-day pause arrests decline but doesn't signal reversal \u2014 need sustained positive days to rebuild momentum.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "-22",
       "net_ytd": "194",
-      "net_mtd_per_day": "-2.0",
+      "net_mtd_per_day": "-1.8",
       "net_ytd_per_day": "0.9",
-      "annual_mtd": "-18",
-      "annual_ytd": "156",
-      "monthly_mtd": "-4",
-      "monthly_ytd": "38"
+      "annual_mtd": "-15",
+      "annual_ytd": "145",
+      "monthly_mtd": "-7",
+      "monthly_ytd": "49"
     }
   }
 }
