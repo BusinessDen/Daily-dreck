@@ -1,105 +1,132 @@
 {
   "fetched_date": "2026-08-13",
-  "fetched_at": "2026-08-13 21:46:38",
+  "fetched_at": "2026-08-13 22:42:55",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "CU Boulder economic data offers mixed outlook",
+      "link": "https://bizwest.com/2026/08/13/cu-boulder-economic-data-offers-mixed-outlook/",
+      "source": "BizWest",
+      "pub_date": "2026-08-13T22:08:28+00:00",
+      "age_hours": 0.5685938688888889,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
+    {
+      "title": "Future Legends lender alleges delay tactics with bankruptcy filing",
+      "link": "https://bizwest.com/2026/08/13/future-legends-lender-alleges-delay-tactics-with-bankruptcy-filing/",
+      "source": "BizWest",
+      "pub_date": "2026-08-13T21:58:21+00:00",
+      "age_hours": 0.7372055477777778,
+      "breaking": true,
+      "time_ago": "44 min ago"
+    },
+    {
+      "title": "Liquor execs look to recapture the spirit",
+      "link": "https://bizwest.com/2026/08/13/liquor-execs-look-to-recapture-the-spirit/",
+      "source": "BizWest",
+      "pub_date": "2026-08-13T21:50:45+00:00",
+      "age_hours": 0.8638722463888888,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
     {
       "title": "Infleqtion doubles sales, triples loss",
       "link": "https://bizwest.com/2026/08/13/infleqtion-doubles-sales-triples-loss/",
       "source": "BizWest",
       "pub_date": "2026-08-13T21:42:33+00:00",
-      "age_hours": 0.06334991694444445,
+      "age_hours": 1.0005389391666666,
       "breaking": true,
-      "time_ago": "3 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Gama among BizWest Women of Distinction honorees",
       "link": "https://bizwest.com/2026/08/13/gama-among-bizwest-women-of-distinction-honorees/",
       "source": "BizWest",
       "pub_date": "2026-08-13T21:34:55+00:00",
-      "age_hours": 0.19057215638888889,
+      "age_hours": 1.1277611672222223,
       "breaking": true,
-      "time_ago": "11 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Commercial building on Boulder\u2019s University Hill fetches $3.3M",
       "link": "https://bizwest.com/2026/08/13/commercial-building-on-boulders-university-hill-fetches-3-3m/",
       "source": "BizWest",
       "pub_date": "2026-08-13T21:27:43+00:00",
-      "age_hours": 0.31057266472222217,
+      "age_hours": 1.2477611941666666,
       "breaking": true,
-      "time_ago": "18 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Bullet found on United flight at Denver International Airport",
       "link": "https://kdvr.com/news/local/bullet-united-flight-denver-airport/",
       "source": "Fox31",
       "pub_date": "2026-08-13T21:24:07+00:00",
-      "age_hours": 0.37116817055555557,
+      "age_hours": 1.3088363469444446,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Bat in Denver home sends baby for rabies shots",
       "link": "https://kdvr.com/news/local/bat-in-denver-home-sends-baby-for-rabies-shots/",
       "source": "Fox31",
       "pub_date": "2026-08-13T21:15:35+00:00",
-      "age_hours": 0.5133904316666666,
+      "age_hours": 1.4510586247222221,
       "breaking": true,
-      "time_ago": "30 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Broncos hope to start stadium construction by spring 2027",
       "link": "https://denverite.com/2026/08/13/broncos-stadium-construction-start-date/",
       "source": "Denverite",
       "pub_date": "2026-08-13T20:37:07+00:00",
-      "age_hours": 1.1543126855555557,
+      "age_hours": 2.091793873333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Business is booming for Colorado lettuce farm amid food recalls",
       "link": "https://kdvr.com/news/local/business-is-booming-for-colorado-lettuce-farm/",
       "source": "Fox31",
       "pub_date": "2026-08-13T19:37:30+00:00",
-      "age_hours": 2.1481128030555556,
+      "age_hours": 3.085780980833333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Cause of the City Park bandstand fire remains unknown, investigation finds",
       "link": "https://denverite.com/2026/08/13/city-park-bandstand-fire-cause-unknown/",
       "source": "Denverite",
       "pub_date": "2026-08-13T19:31:14+00:00",
-      "age_hours": 2.2523682555555555,
+      "age_hours": 3.1898494441666667,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Bryan Construction Expands to Alabama",
       "link": "https://milehighcre.com/bryan-construction-expands-to-alabama/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-13T18:09:24+00:00",
-      "age_hours": 3.616110094444444,
+      "age_hours": 4.553538523333334,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Uncharted Territory: How AEC Marketers Are Mapping a Path Forward at SWRC 2026",
       "link": "https://milehighcre.com/uncharted-territory-how-aec-marketers-are-mapping-a-path-forward-at-swrc-2026/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-13T18:08:30+00:00",
-      "age_hours": 3.631110114166667,
+      "age_hours": 4.568538544166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Zach Bryan returns to Denver: What to know for 'Heaven On Tour' stadium concerts",
       "link": "https://www.9news.com/article/life/style/colorado-guide/zach-bryan-denver-stadium-concerts/73-a82a79d2-a484-4e35-a79e-11388f31ec1f",
       "source": "9News",
       "pub_date": "2026-08-13T17:45:41+00:00",
-      "age_hours": 4.011605503888889,
+      "age_hours": 4.9491533586111105,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -108,81 +135,54 @@
       "link": "https://kdvr.com/news/local/17-arrested-15-pounds-of-cocaine-seized-in-major-network-including-east-colfax/",
       "source": "Fox31",
       "pub_date": "2026-08-13T17:19:07+00:00",
-      "age_hours": 4.454501420555555,
+      "age_hours": 5.392169613888889,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "A popular chain is offering 30,000 free cookies for college freshmen. Here's how to claim yours.",
       "link": "https://www.9news.com/article/news/nation-world/insomina-cookies-back-to-school-giveaway/507-3c76df82-843a-4d27-8f5c-9dc346509076",
       "source": "9News",
       "pub_date": "2026-08-13T15:58:52+00:00",
-      "age_hours": 5.7918833350000005,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.729431191388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Brinkman Construction Breaks Ground on Touchmark on Harmony Ridge",
       "link": "https://milehighcre.com/brinkman-construction-breaks-ground-on-touchmark-on-harmony-ridge/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-13T14:32:31+00:00",
-      "age_hours": 7.230832344444444,
+      "age_hours": 8.168260776666667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "What to do in Colorado this week: Denver\u2019s annual Shakespeare in the Park",
       "link": "https://coloradosun.com/2026/08/13/whats-happening-shakespeare-in-the-park-centennial-denver/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-13T14:00:00+00:00",
-      "age_hours": 7.772870316944444,
+      "age_hours": 8.710257414166668,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Cargill meatpackers in Fort Morgan expected to take another vote on contract they rejected",
       "link": "https://coloradosun.com/2026/08/13/cargill-meatpackers-fort-morgan-vote-teamsters/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-13T10:00:00+00:00",
-      "age_hours": 11.772870946666666,
+      "age_hours": 12.710257935000001,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Cap Hill businesses want you to stay in the neighborhood all day this Saturday",
       "link": "https://denverite.com/2026/08/13/capitol-hill-third-saturdays-on-13th/",
       "source": "Denverite",
       "pub_date": "2026-08-13T10:00:00+00:00",
-      "age_hours": 11.772923817499999,
+      "age_hours": 12.710405006944445,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver sues tobacco companies over cleanup costs of cigarette butt litter",
-      "link": "https://kdvr.com/news/local/denver-sues-tobacco-companies-over-cleanup-costs-of-cigarette-butt-litter/",
-      "source": "Fox31",
-      "pub_date": "2026-08-13T01:26:48+00:00",
-      "age_hours": 20.32644617777778,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Levy named a VP at ANB Bank in Fort Collins",
-      "link": "https://bizwest.com/2026/08/12/levy-named-a-vp-at-anb-bank-in-fort-collins/",
-      "source": "BizWest",
-      "pub_date": "2026-08-13T00:03:15+00:00",
-      "age_hours": 21.71835048138889,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Code Talker Hall opens, adding 332 beds at CU Boulder",
-      "link": "https://bizwest.com/2026/08/12/code-talker-hall-opens-adding-332-beds-at-cu-boulder/",
-      "source": "BizWest",
-      "pub_date": "2026-08-12T23:29:19+00:00",
-      "age_hours": 22.283906075555556,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "12 hrs ago"
     }
   ]
 }
