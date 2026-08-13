@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-13",
-  "fetched_at": "2026-08-13 02:04:07",
+  "fetched_at": "2026-08-13 04:51:29",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Denver reviews Veo contract as sidewalk-riding complaints continue",
+      "link": "https://www.9news.com/article/news/local/local-politics/denver-reviews-veo-contract-as-sidewalk-riding-complaints-continue/73-3a5db77b-b9f4-4e95-b0a7-93b425d2335a",
+      "source": "9News",
+      "pub_date": "2026-08-13T04:00:38+00:00",
+      "age_hours": 0.8435078030555556,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
     {
       "title": "Denver sues tobacco companies over cleanup costs of cigarette butt litter",
       "link": "https://kdvr.com/news/local/denver-sues-tobacco-companies-over-cleanup-costs-of-cigarette-butt-litter/",
       "source": "Fox31",
       "pub_date": "2026-08-13T01:26:48+00:00",
-      "age_hours": 0.6181914508333334,
+      "age_hours": 3.407675086388889,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Levy named a VP at ANB Bank in Fort Collins",
       "link": "https://bizwest.com/2026/08/12/levy-named-a-vp-at-anb-bank-in-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-08-13T00:03:15+00:00",
-      "age_hours": 2.0098470994444444,
+      "age_hours": 4.7992037977777775,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Code Talker Hall opens, adding 332 beds at CU Boulder",
       "link": "https://bizwest.com/2026/08/12/code-talker-hall-opens-adding-332-beds-at-cu-boulder/",
       "source": "BizWest",
       "pub_date": "2026-08-12T23:29:19+00:00",
-      "age_hours": 2.5754031780555553,
+      "age_hours": 5.364759923055556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "CU Denver buys downtown tower for nearly $2 million less than expected",
       "link": "https://www.9news.com/article/news/local/independence-plaza-denver-sold/73-740252b8-7176-45a6-878d-09ba68cd33ff",
       "source": "9News",
       "pub_date": "2026-08-12T23:04:06+00:00",
-      "age_hours": 2.996259283888889,
+      "age_hours": 5.785730115555555,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Neighbors and businesses weigh in on Alameda road diet",
       "link": "https://kdvr.com/news/local/neighbors-and-businesses-weigh-in-on-alameda-road-diet/",
       "source": "Fox31",
       "pub_date": "2026-08-12T22:52:54+00:00",
-      "age_hours": 3.183191501111111,
+      "age_hours": 5.972675136944445,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "CU Denver Acquires Independence Plaza for $28M",
       "link": "https://milehighcre.com/cu-denver-acquires-independence-plaza-for-28m/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-12T22:24:08+00:00",
-      "age_hours": 3.6621207691666666,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.4514421113888885,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Flatirons Habitat for Humanity builds on housing-affordability mission",
       "link": "https://bizwest.com/2026/08/12/flatirons-habitat-for-humanity-builds-on-housing-affordability-mission/",
       "source": "BizWest",
       "pub_date": "2026-08-12T21:42:00+00:00",
-      "age_hours": 4.364014325277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.1533710675,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "PVSD Weld RE-7 Celebrates Grand Opening of New Middle School",
       "link": "https://milehighcre.com/pvsd-weld-re-7-celebrates-grand-opening-of-new-middle-school/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-12T21:33:41+00:00",
-      "age_hours": 4.50295412,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.292275459444444,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Uneasy CU economists cut their new jobs forecast by more than half",
       "link": "https://www.cpr.org/2026/08/12/cu-economists-cut-new-jobs-forecast/",
       "source": "CPR",
       "pub_date": "2026-08-12T21:28:27+00:00",
-      "age_hours": 4.59033479111111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.3797950075,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Quantinuum stock price leaps after strong sales report",
       "link": "https://bizwest.com/2026/08/12/quantinuum-stock-price-leaps-after-strong-sales-report/",
       "source": "BizWest",
       "pub_date": "2026-08-12T21:14:09+00:00",
-      "age_hours": 4.828181024166667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.617537766111111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Eagle Rock\u2019s Loveland distribution facility sells for $64.3M",
       "link": "https://bizwest.com/2026/08/12/eagle-rocks-loveland-distribution-facility-sells-for-64-3m/",
       "source": "BizWest",
       "pub_date": "2026-08-12T21:05:26+00:00",
-      "age_hours": 4.9734588083333335,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.76281555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Greeley\u2019s MERGE project price tag swells",
       "link": "https://bizwest.com/2026/08/12/greeleys-merge-project-price-tag-swells/",
       "source": "BizWest",
       "pub_date": "2026-08-12T20:55:55+00:00",
-      "age_hours": 5.132069958888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.921426696388888,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver wins lawsuit over its new electrification requirements for commercial buildings",
       "link": "https://denverite.com/2026/08/12/denver-electrification-commercial-buildings-lawsuit-win/",
       "source": "Denverite",
       "pub_date": "2026-08-12T20:54:10+00:00",
-      "age_hours": 5.1616984597222215,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.951073078055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Boulder\u2019s median home price cracks $1.5M again",
       "link": "https://bizwest.com/2026/08/12/boulders-median-home-price-cracks-1-5m-again/",
       "source": "BizWest",
       "pub_date": "2026-08-12T20:43:34+00:00",
-      "age_hours": 5.3379033258333335,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.127260075,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Trimble reports Q2 sales bump, raises revenue guidance",
       "link": "https://bizwest.com/2026/08/12/trimble-reports-q2-sales-bump-raises-revenue-guidance/",
       "source": "BizWest",
       "pub_date": "2026-08-12T20:36:57+00:00",
-      "age_hours": 5.448181110277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.237537860555555,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Aurora City Council approves accountability plan for regional navigation campus",
       "link": "https://sentinelcolorado.com/metro/aurora-city-council-approves-accountability-plan-for-regional-navigation-campus/",
       "source": "Sentinel",
       "pub_date": "2026-08-12T20:11:36+00:00",
-      "age_hours": 5.871794217222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.661376913888889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Broncos release first unofficial depth chart: Here's what to know",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-first-official-depth-chart/73-7faf0a83-f98d-4bbb-ae88-11d74ca0ccd4",
       "source": "9News",
       "pub_date": "2026-08-12T17:38:50+00:00",
-      "age_hours": 8.417370474166667,
+      "age_hours": 11.206841293611111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Zach Bryan returns to Denver: What to know for the stadium concerts",
       "link": "https://www.9news.com/article/life/style/colorado-guide/zach-bryan-denver-stadium-concerts/73-a82a79d2-a484-4e35-a79e-11388f31ec1f",
       "source": "9News",
       "pub_date": "2026-08-12T17:31:14+00:00",
-      "age_hours": 8.544037155277778,
+      "age_hours": 11.333507970833333,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Eagle Apartment Community Fights Back Against Market-Rate Conversion",
       "link": "https://milehighcre.com/eagle-apartment-community-fights-back-against-market-rate-conversion/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-12T16:48:40+00:00",
-      "age_hours": 9.253232141388889,
+      "age_hours": 12.042553480833334,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Los Angeles Lakers sold to Josh Kushner and Bob Iger for record-breaking price",
-      "link": "https://www.9news.com/article/news/nation-world/los-angeles-lakers-sold-josh-kushner-bob-iger-record-breaking-price/507-afb94e32-eecd-4840-8cad-2950e6fb5c06",
-      "source": "9News",
-      "pub_date": "2026-08-12T16:18:43+00:00",
-      "age_hours": 9.752648295277776,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     }
   ]
 }
