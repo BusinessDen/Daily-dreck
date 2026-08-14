@@ -1,51 +1,78 @@
 {
   "fetched_date": "2026-08-14",
-  "fetched_at": "2026-08-14 18:55:23",
+  "fetched_at": "2026-08-14 19:49:33",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Denver data center developer exploring $10B IPO, report says",
+      "link": "https://www.9news.com/article/money/business/denver-data-center-developer-exploring-10b-ipo-report-says/73-8800e322-fe36-4992-8270-dd9cfb7057c8",
+      "source": "9News",
+      "pub_date": "2026-08-14T19:35:08+00:00",
+      "age_hours": 0.2357735511111111,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Alterra Mountain Co. lays off employees amid push keep headquarters in Denver",
+      "link": "https://www.9news.com/article/news/local/alterra-mountain-company-layoffs/73-9f08a662-dfbc-431f-ae40-b6216fc57cb1",
+      "source": "9News",
+      "pub_date": "2026-08-14T19:24:11+00:00",
+      "age_hours": 0.41827356222222223,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
     {
       "title": "Suspect arrested in connection with random Aurora shooting on Mississippi Avenue",
       "link": "https://sentinelcolorado.com/metro/suspect-arrested-in-connection-with-random-aurora-shooting-on-mississippi-avenue/",
       "source": "Sentinel",
       "pub_date": "2026-08-14T18:18:08+00:00",
-      "age_hours": 0.6172132166666666,
+      "age_hours": 1.5197731147222222,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Arapahoe County Sheriff's Office looking for missing 10-year-old girl",
       "link": "https://www.9news.com/article/news/local/missing-10-year-old-girl-arapahoe-county/73-2104716f-e211-4ed6-b890-50191bcc7dae",
       "source": "9News",
       "pub_date": "2026-08-14T17:49:44+00:00",
-      "age_hours": 1.0901153416666667,
+      "age_hours": 1.9924402516666666,
       "breaking": true,
       "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Ikon Pass company cuts jobs in Denver and beyond amid several changes",
+      "link": "https://www.coloradopolitics.com/2026/08/14/ikon-pass-company-cuts-jobs-in-denver-and-beyond-amid-several-changes/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-14T17:11:36+00:00",
+      "age_hours": 2.628606065277778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "How Colorado's new sports betting regulations affect platforms, bettors",
       "link": "https://www.denver7.com/money/consumer/how-colorados-new-sports-betting-regulations-affect-platforms-bettors",
       "source": "Denver7",
       "pub_date": "2026-08-14T16:45:41+00:00",
-      "age_hours": 2.157761199722222,
+      "age_hours": 3.0600853375000003,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Public Schools has 25 new electric buses just ahead of the school year",
       "link": "https://kdvr.com/news/local/denver-public-schools-has-25-new-electric-buses-just-ahead-of-the-school-year/",
       "source": "Fox31",
       "pub_date": "2026-08-14T16:08:26+00:00",
-      "age_hours": 2.7786268677777777,
+      "age_hours": 3.6811046941666663,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "George Paton's nephew Eli to play before sold-out Coors Field crowds as part of Savannah Bananas experience",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/eli-paton-savannah-bananas-indianapolis-clowns/73-8a2e384a-f0e0-42e0-86a2-ff4e4811bbe4",
       "source": "9News",
       "pub_date": "2026-08-14T15:52:25+00:00",
-      "age_hours": 3.0453931683333333,
+      "age_hours": 3.9477180950000004,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -54,88 +81,79 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/lowes-building-new-store-colorado/73-e42f638d-a4dd-441d-8564-a6073b10c894",
       "source": "9News",
       "pub_date": "2026-08-14T14:36:34+00:00",
-      "age_hours": 4.309559854166666,
+      "age_hours": 5.211884783055556,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "3 big questions to ask your aging parents",
       "link": "https://sentinelcolorado.com/uncategorized/3-big-questions-to-ask-your-aging-parents/",
       "source": "Sentinel",
       "pub_date": "2026-08-14T13:02:54+00:00",
-      "age_hours": 5.871102399444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.773662334722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Aurora gets $75K NEA grant for \u2018community-driven\u2019 Fletcher Plaza renewal on Colfax",
       "link": "https://sentinelcolorado.com/metro/aurora-gets-75k-nea-grant-for-community-driven-fletcher-plaza-renewal-on-colfax/",
       "source": "Sentinel",
       "pub_date": "2026-08-14T12:47:33+00:00",
-      "age_hours": 6.126936029722223,
+      "age_hours": 7.029495957222222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Krispy Kreme partners with iconic franchise to celebrate 30th anniversary",
       "link": "https://www.9news.com/article/news/nation-world/krispy-kreme-pokemon-30th-anniversary/507-ac19c562-6f7e-4a16-814c-8d048b426ba8",
       "source": "9News",
       "pub_date": "2026-08-14T12:19:40+00:00",
-      "age_hours": 6.591226606944445,
+      "age_hours": 7.493551545833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Drought stinks and you can smell it in Ca\u00f1on City\u2019s water",
       "link": "https://coloradosun.com/2026/08/14/canon-city-water-smell-algae-growth-drought/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:14:00+00:00",
-      "age_hours": 8.685398457222222,
+      "age_hours": 9.587704224166666,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado relaunching e-bike rebate lottery for $1,000 off, starting Aug. 24",
       "link": "https://coloradosun.com/2026/08/14/colorado-e-bike-rebates-1000-revived/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:08:00+00:00",
-      "age_hours": 8.78539851611111,
+      "age_hours": 9.687704304722223,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver Water backs wildfire and water protection ballot initiative",
       "link": "https://coloradosun.com/2026/08/14/proposition-308-wildfire-water-protection-ballot-measure/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:02:00+00:00",
-      "age_hours": 8.885398540277777,
+      "age_hours": 9.787704335277779,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Small Bites: Legal woes rain down on Denver bars, former restaurant owner",
       "link": "https://www.westword.com/food-drink/the-block-rino-lawsuit-40922271/",
       "source": "Westword",
       "pub_date": "2026-08-14T08:00:00-06:00",
-      "age_hours": 4.919320323333333,
+      "age_hours": 5.8218149666666665,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Cause of historic City Park Bandstand fire still a mystery",
       "link": "https://www.9news.com/article/news/local/cause-of-bandstand-fire-still-a-mystery/73-3560344e-5d29-427c-aa84-b36710fa0676",
       "source": "9News",
       "pub_date": "2026-08-14T04:50:06+00:00",
-      "age_hours": 14.084004403888889,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Passengers evacuated after bullet found on plane at DIA",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/bullet-found-united-plane-denver-international-airport/73-647f6b6c-9e15-4800-bdb4-bbd490eb9f91",
-      "source": "9News",
-      "pub_date": "2026-08-14T04:27:15+00:00",
-      "age_hours": 14.464837781388889,
+      "age_hours": 14.986329344722224,
       "breaking": false,
       "time_ago": "14 hrs ago"
     },
@@ -144,45 +162,27 @@
       "link": "https://kdvr.com/news/local/softball-tournament-in-honor-of-late-denver-officer-donnie-young-continues/",
       "source": "Fox31",
       "pub_date": "2026-08-14T04:09:58+00:00",
-      "age_hours": 14.75307151722222,
+      "age_hours": 15.655549368055555,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "DPS board sends $44 million tax increase to Denver voters",
       "link": "https://www.coloradopolitics.com/2026/08/13/dps-board-sends-44-million-tax-increase-to-denver-voters/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T02:36:10+00:00",
-      "age_hours": 16.316628010833334,
+      "age_hours": 17.219161732499998,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver neighborhood group fighting escort service license application",
       "link": "https://kdvr.com/news/local/denver-neighborhood-group-fighting-escort-service-license-application/",
       "source": "Fox31",
       "pub_date": "2026-08-14T02:20:37+00:00",
-      "age_hours": 16.575571480833336,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Colorado demands answers on tuberculosis at Aurora immigrant detention facility with new health order",
-      "link": "https://coloradosun.com/2026/08/13/tuberculosis-immigrant-detention-center-ice-geo/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-14T01:10:52+00:00",
-      "age_hours": 17.73762136527778,
+      "age_hours": 17.478049327222223,
       "breaking": false,
       "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Weld officials sued over justice center expenditure",
-      "link": "https://bizwest.com/2026/08/13/weld-officials-sued-over-justice-center-expenditure/",
-      "source": "BizWest",
-      "pub_date": "2026-08-14T00:20:08+00:00",
-      "age_hours": 18.58284891166667,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
     }
   ]
 }
