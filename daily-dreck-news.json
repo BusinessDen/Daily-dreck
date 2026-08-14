@@ -1,60 +1,87 @@
 {
   "fetched_date": "2026-08-14",
-  "fetched_at": "2026-08-14 22:23:53",
+  "fetched_at": "2026-08-14 23:22:29",
   "article_count": 20,
-  "breaking_count": 17,
+  "breaking_count": 18,
   "articles": [
+    {
+      "title": "Denver reopening online dispute portal",
+      "link": "https://www.9news.com/article/news/local/denver-parking-ticket-dispute-online/73-08292e6a-db06-4873-a63b-c63f4ef90f28",
+      "source": "9News",
+      "pub_date": "2026-08-14T23:18:30+00:00",
+      "age_hours": 0.06312989083333333,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "Teenagers arrested in deadly shooting of passenger in Denver",
+      "link": "https://kdvr.com/news/local/teenagers-arrested-in-deadly-shooting-of-passenger-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-08-14T23:09:05+00:00",
+      "age_hours": 0.22030595611111112,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "Suspect arrested for thousands of dollars in vandalism at East Colfax businesses",
+      "link": "https://kdvr.com/news/local/suspect-arrested-for-thousands-of-dollars-in-vandalism-at-east-colfax-businesses/",
+      "source": "Fox31",
+      "pub_date": "2026-08-14T22:23:54+00:00",
+      "age_hours": 0.9733614655555555,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
     {
       "title": "Developer sues over Berthoud\u2019s Tundra Flats denial",
       "link": "https://bizwest.com/2026/08/14/developer-sues-over-berthouds-tundra-flats-denial/",
       "source": "BizWest",
       "pub_date": "2026-08-14T22:01:25+00:00",
-      "age_hours": 0.37000027750000003,
+      "age_hours": 1.3473703697222221,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Laird Superfood supersizes sales following pair of spring acquisitions",
       "link": "https://bizwest.com/2026/08/14/laird-superfood-supersizes-sales-following-pair-of-spring-acquisitions/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:54:10+00:00",
-      "age_hours": 0.4908336291666666,
+      "age_hours": 1.4682037175,
       "breaking": true,
-      "time_ago": "29 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Merge Studio aims to build long-term relationships with clients",
       "link": "https://bizwest.com/2026/08/14/merge-studio-aims-to-build-long-term-relationships-with-clients/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:44:43+00:00",
-      "age_hours": 0.6483336366666667,
+      "age_hours": 1.6257037233333334,
       "breaking": true,
-      "time_ago": "38 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "SciTec wins $94M Space Force contract",
       "link": "https://bizwest.com/2026/08/14/scitec-wins-94m-space-force-contract/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:34:07+00:00",
-      "age_hours": 0.8250003083333334,
+      "age_hours": 1.8023703941666667,
       "breaking": true,
-      "time_ago": "49 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Real Capital Solutions launches \u2018contrarian\u2019 fund for distressed offices",
       "link": "https://bizwest.com/2026/08/14/real-capital-solutions-launches-contrarian-fund-for-distressed-offices/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:28:22+00:00",
-      "age_hours": 0.9208336466666667,
+      "age_hours": 1.8982037313888889,
       "breaking": true,
-      "time_ago": "55 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Thought-leader group to eye Colorado music scene",
       "link": "https://bizwest.com/2026/08/14/thought-leader-group-to-eye-colorado-music-scene/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:22:22+00:00",
-      "age_hours": 1.0208336516666667,
+      "age_hours": 1.998203735833333,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -63,34 +90,34 @@
       "link": "https://bizwest.com/2026/08/14/fort-collins-winter-market-to-go-year-round-at-foothills-mall/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:16:23+00:00",
-      "age_hours": 1.12055639,
+      "age_hours": 2.0979263705555558,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Aurora Rep. Lindsay defends handling of caucus funds but admits to poor understanding",
       "link": "https://sentinelcolorado.com/metro/state-house-begins-ethics-hearing-linked-to-aurora-rep-lindsays-caucus-fund-allegations/",
       "source": "Sentinel",
       "pub_date": "2026-08-14T21:13:45+00:00",
-      "age_hours": 1.1658972855555556,
+      "age_hours": 2.142982909166667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Arapahoe County Sheriff's Office looking for missing 13-year-old girl",
       "link": "https://www.9news.com/article/news/local/missing-10-year-old-girl-arapahoe-county/73-2104716f-e211-4ed6-b890-50191bcc7dae",
       "source": "9News",
       "pub_date": "2026-08-14T20:28:35+00:00",
-      "age_hours": 1.9181543061111113,
+      "age_hours": 2.895074407777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO Brian Thompson murder case",
       "link": "https://www.coloradopolitics.com/2026/08/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceo-brian-thompson-murder-case/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T20:23:36+00:00",
-      "age_hours": 2.0017200475,
+      "age_hours": 2.9787818725,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -99,90 +126,63 @@
       "link": "https://www.9news.com/article/news/local/deadly-crash-denver-17th-glencoe-park-hill/73-43a28b1d-b684-4258-8418-3aa7925c779e",
       "source": "9News",
       "pub_date": "2026-08-14T20:15:21+00:00",
-      "age_hours": 2.1387098744444444,
+      "age_hours": 3.115629969444444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado minimum wage will jump in 2027 to $15.71/hour, $12.69 tipped",
       "link": "https://www.9news.com/article/news/local/colorado-minimum-wage-2027/73-55a3430b-152e-44ca-9111-2fd9e04ade16",
       "source": "9News",
       "pub_date": "2026-08-14T19:57:53+00:00",
-      "age_hours": 2.429821036388889,
+      "age_hours": 3.4067411141666666,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver data center developer exploring $10B IPO, report says",
       "link": "https://www.9news.com/article/money/business/denver-data-center-developer-exploring-10b-ipo-report-says/73-8800e322-fe36-4992-8270-dd9cfb7057c8",
       "source": "9News",
       "pub_date": "2026-08-14T19:35:08+00:00",
-      "age_hours": 2.808987759166667,
+      "age_hours": 3.785907823888889,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Alterra Mountain Co. lays off employees amid push keep headquarters in Denver",
       "link": "https://www.9news.com/article/news/local/alterra-mountain-company-layoffs/73-9f08a662-dfbc-431f-ae40-b6216fc57cb1",
       "source": "9News",
       "pub_date": "2026-08-14T19:24:11+00:00",
-      "age_hours": 2.991487764722222,
+      "age_hours": 3.9684078277777775,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "CU Denver Purchases Independence Plaza: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/deal-sheet/cu-denver-purchases-independence-plaza-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-14T17:56:25-04:00",
-      "age_hours": 0.45342991222222223,
+      "age_hours": 1.4307855102777778,
       "breaking": true,
-      "time_ago": "27 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Ikon Pass company cuts jobs in Denver and beyond amid several changes",
       "link": "https://www.coloradopolitics.com/2026/08/14/ikon-pass-company-cuts-jobs-in-denver-and-beyond-amid-several-changes/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T17:11:36+00:00",
-      "age_hours": 5.201720079166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.178781898055555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "How Colorado's new sports betting regulations affect platforms, bettors",
       "link": "https://www.denver7.com/money/consumer/how-colorados-new-sports-betting-regulations-affect-platforms-bettors",
       "source": "Denver7",
       "pub_date": "2026-08-14T16:45:41+00:00",
-      "age_hours": 5.633322483611112,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Denver Public Schools has 25 new electric buses just ahead of the school year",
-      "link": "https://kdvr.com/news/local/denver-public-schools-has-25-new-electric-buses-just-ahead-of-the-school-year/",
-      "source": "Fox31",
-      "pub_date": "2026-08-14T16:08:26+00:00",
-      "age_hours": 6.254188594444444,
+      "age_hours": 6.610144056388889,
       "breaking": false,
       "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "George Paton's nephew Eli to play before sold-out Coors Field crowds as part of Savannah Bananas experience",
-      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/eli-paton-savannah-bananas-indianapolis-clowns/73-8a2e384a-f0e0-42e0-86a2-ff4e4811bbe4",
-      "source": "9News",
-      "pub_date": "2026-08-14T15:52:25+00:00",
-      "age_hours": 6.520932269444444,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Lowe's to build new store in northern Colorado",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/lowes-building-new-store-colorado/73-e42f638d-a4dd-441d-8564-a6073b10c894",
-      "source": "9News",
-      "pub_date": "2026-08-14T14:36:34+00:00",
-      "age_hours": 7.785098955833334,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
     }
   ]
 }
