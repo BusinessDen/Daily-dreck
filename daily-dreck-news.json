@@ -1,69 +1,87 @@
 {
   "fetched_date": "2026-08-14",
-  "fetched_at": "2026-08-14 20:31:43",
+  "fetched_at": "2026-08-14 21:25:40",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "Thought-leader group to eye Colorado music scene",
+      "link": "https://bizwest.com/2026/08/14/thought-leader-group-to-eye-colorado-music-scene/",
+      "source": "BizWest",
+      "pub_date": "2026-08-14T21:22:22+00:00",
+      "age_hours": 0.050889822777777774,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "Fort Collins winter market to go year-round at Foothills Mall",
+      "link": "https://bizwest.com/2026/08/14/fort-collins-winter-market-to-go-year-round-at-foothills-mall/",
+      "source": "BizWest",
+      "pub_date": "2026-08-14T21:16:23+00:00",
+      "age_hours": 0.15061255,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Aurora Rep. Lindsay defends handling of caucus funds but admits to poor understanding",
+      "link": "https://sentinelcolorado.com/metro/state-house-begins-ethics-hearing-linked-to-aurora-rep-lindsays-caucus-fund-allegations/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-14T21:13:45+00:00",
+      "age_hours": 0.19584566833333333,
+      "breaking": true,
+      "time_ago": "11 min ago"
+    },
+    {
+      "title": "Arapahoe County Sheriff's Office looking for missing 13-year-old girl",
+      "link": "https://www.9news.com/article/news/local/missing-10-year-old-girl-arapahoe-county/73-2104716f-e211-4ed6-b890-50191bcc7dae",
+      "source": "9News",
+      "pub_date": "2026-08-14T20:28:35+00:00",
+      "age_hours": 0.9477475855555556,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
     {
       "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO Brian Thompson murder case",
       "link": "https://www.coloradopolitics.com/2026/08/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceo-brian-thompson-murder-case/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T20:23:36+00:00",
-      "age_hours": 0.13192694555555556,
+      "age_hours": 1.03160073,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "1 killed in crash in Denver's Park Hill neighborhood",
       "link": "https://www.9news.com/article/news/local/deadly-crash-denver-17th-glencoe-park-hill/73-43a28b1d-b684-4258-8418-3aa7925c779e",
       "source": "9News",
       "pub_date": "2026-08-14T20:15:21+00:00",
-      "age_hours": 0.26894506444444444,
+      "age_hours": 1.1683031541666666,
       "breaking": true,
-      "time_ago": "16 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado minimum wage will jump in 2027 to $15.71/hour, $12.69 tipped",
       "link": "https://www.9news.com/article/news/local/colorado-minimum-wage-2027/73-55a3430b-152e-44ca-9111-2fd9e04ade16",
       "source": "9News",
       "pub_date": "2026-08-14T19:57:53+00:00",
-      "age_hours": 0.5600562269444445,
+      "age_hours": 1.459414311111111,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver data center developer exploring $10B IPO, report says",
       "link": "https://www.9news.com/article/money/business/denver-data-center-developer-exploring-10b-ipo-report-says/73-8800e322-fe36-4992-8270-dd9cfb7057c8",
       "source": "9News",
       "pub_date": "2026-08-14T19:35:08+00:00",
-      "age_hours": 0.9392229519444445,
+      "age_hours": 1.8385810347222222,
       "breaking": true,
-      "time_ago": "56 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Alterra Mountain Co. lays off employees amid push keep headquarters in Denver",
       "link": "https://www.9news.com/article/news/local/alterra-mountain-company-layoffs/73-9f08a662-dfbc-431f-ae40-b6216fc57cb1",
       "source": "9News",
       "pub_date": "2026-08-14T19:24:11+00:00",
-      "age_hours": 1.1217229575,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Suspect arrested in connection with random Aurora shooting on Mississippi Avenue",
-      "link": "https://sentinelcolorado.com/metro/suspect-arrested-in-connection-with-random-aurora-shooting-on-mississippi-avenue/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-14T18:18:08+00:00",
-      "age_hours": 2.223046908888889,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Arapahoe County Sheriff's Office looking for missing 10-year-old girl",
-      "link": "https://www.9news.com/article/news/local/missing-10-year-old-girl-arapahoe-county/73-2104716f-e211-4ed6-b890-50191bcc7dae",
-      "source": "9News",
-      "pub_date": "2026-08-14T17:49:44+00:00",
-      "age_hours": 2.6958896436111113,
+      "age_hours": 2.02108104,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -72,117 +90,99 @@
       "link": "https://www.coloradopolitics.com/2026/08/14/ikon-pass-company-cuts-jobs-in-denver-and-beyond-amid-several-changes/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T17:11:36+00:00",
-      "age_hours": 3.3319269858333334,
+      "age_hours": 4.231600768055555,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "How Colorado's new sports betting regulations affect platforms, bettors",
       "link": "https://www.denver7.com/money/consumer/how-colorados-new-sports-betting-regulations-affect-platforms-bettors",
       "source": "Denver7",
       "pub_date": "2026-08-14T16:45:41+00:00",
-      "age_hours": 3.7635147905555555,
+      "age_hours": 4.662943672222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver Public Schools has 25 new electric buses just ahead of the school year",
       "link": "https://kdvr.com/news/local/denver-public-schools-has-25-new-electric-buses-just-ahead-of-the-school-year/",
       "source": "Fox31",
       "pub_date": "2026-08-14T16:08:26+00:00",
-      "age_hours": 4.384383472222223,
+      "age_hours": 5.283962684166666,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "George Paton's nephew Eli to play before sold-out Coors Field crowds as part of Savannah Bananas experience",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/eli-paton-savannah-bananas-indianapolis-clowns/73-8a2e384a-f0e0-42e0-86a2-ff4e4811bbe4",
       "source": "9News",
       "pub_date": "2026-08-14T15:52:25+00:00",
-      "age_hours": 4.651167467222223,
+      "age_hours": 5.550525536944444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Lowe's to build new store in northern Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/lowes-building-new-store-colorado/73-e42f638d-a4dd-441d-8564-a6073b10c894",
       "source": "9News",
       "pub_date": "2026-08-14T14:36:34+00:00",
-      "age_hours": 5.915334153055555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "3 big questions to ask your aging parents",
-      "link": "https://sentinelcolorado.com/uncategorized/3-big-questions-to-ask-your-aging-parents/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-14T13:02:54+00:00",
-      "age_hours": 7.476936243611111,
+      "age_hours": 6.814692222222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Aurora gets $75K NEA grant for \u2018community-driven\u2019 Fletcher Plaza renewal on Colfax",
-      "link": "https://sentinelcolorado.com/metro/aurora-gets-75k-nea-grant-for-community-driven-fletcher-plaza-renewal-on-colfax/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-14T12:47:33+00:00",
-      "age_hours": 7.732770014166666,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Drought stinks and you can smell it in Ca\u00f1on City\u2019s water",
       "link": "https://coloradosun.com/2026/08/14/canon-city-water-smell-algae-growth-drought/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:14:00+00:00",
-      "age_hours": 10.291294418333333,
+      "age_hours": 11.190615811666667,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado relaunching e-bike rebate lottery for $1,000 off, starting Aug. 24",
       "link": "https://coloradosun.com/2026/08/14/colorado-e-bike-rebates-1000-revived/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:08:00+00:00",
-      "age_hours": 10.391294476944445,
+      "age_hours": 11.290615881944444,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver Water backs wildfire and water protection ballot initiative",
       "link": "https://coloradosun.com/2026/08/14/proposition-308-wildfire-water-protection-ballot-measure/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:02:00+00:00",
-      "age_hours": 10.491294501111112,
+      "age_hours": 11.390615906944443,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Small Bites: Legal woes rain down on Denver bars, former restaurant owner",
       "link": "https://www.westword.com/food-drink/the-block-rino-lawsuit-40922271/",
       "source": "Westword",
       "pub_date": "2026-08-14T08:00:00-06:00",
-      "age_hours": 6.525033549444444,
+      "age_hours": 7.424674381111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Softball tournament in honor of late Denver officer Donnie Young continues",
       "link": "https://kdvr.com/news/local/softball-tournament-in-honor-of-late-denver-officer-donnie-young-continues/",
       "source": "Fox31",
       "pub_date": "2026-08-14T04:09:58+00:00",
-      "age_hours": 16.35882812166667,
+      "age_hours": 17.258407331388888,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "DPS board sends $44 million tax increase to Denver voters",
       "link": "https://www.coloradopolitics.com/2026/08/13/dps-board-sends-44-million-tax-increase-to-denver-voters/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T02:36:10+00:00",
-      "age_hours": 17.922482645,
+      "age_hours": 18.822156436666667,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
