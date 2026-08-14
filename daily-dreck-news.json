@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-14",
-  "fetched_at": "2026-08-14 11:44:38",
+  "fetched_at": "2026-08-14 13:08:17",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "3 big questions to ask your aging parents",
+      "link": "https://sentinelcolorado.com/uncategorized/3-big-questions-to-ask-your-aging-parents/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-14T13:02:54+00:00",
+      "age_hours": 0.08617846944444443,
+      "breaking": true,
+      "time_ago": "5 min ago"
+    },
+    {
+      "title": "Aurora gets $75K NEA grant for \u2018community-driven\u2019 Fletcher Plaza renewal on Colfax",
+      "link": "https://sentinelcolorado.com/metro/aurora-gets-75k-nea-grant-for-community-driven-fletcher-plaza-renewal-on-colfax/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-14T12:47:33+00:00",
+      "age_hours": 0.3420120961111111,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Krispy Kreme partners with iconic franchise to celebrate 30th anniversary",
+      "link": "https://www.9news.com/article/news/nation-world/krispy-kreme-pokemon-30th-anniversary/507-ac19c562-6f7e-4a16-814c-8d048b426ba8",
+      "source": "9News",
+      "pub_date": "2026-08-14T12:19:40+00:00",
+      "age_hours": 0.8062065605555555,
+      "breaking": true,
+      "time_ago": "48 min ago"
+    },
     {
       "title": "Drought stinks and you can smell it in Ca\u00f1on City\u2019s water",
       "link": "https://coloradosun.com/2026/08/14/canon-city-water-smell-algae-growth-drought/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:14:00+00:00",
-      "age_hours": 1.5061831405555555,
+      "age_hours": 2.9004120897222223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado relaunching e-bike rebate lottery for $1,000 off, starting Aug. 24",
       "link": "https://coloradosun.com/2026/08/14/colorado-e-bike-rebates-1000-revived/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:08:00+00:00",
-      "age_hours": 1.606183218888889,
+      "age_hours": 3.0004121502777776,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Denver Water backs wildfire and water protection ballot initiative",
       "link": "https://coloradosun.com/2026/08/14/proposition-308-wildfire-water-protection-ballot-measure/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T10:02:00+00:00",
-      "age_hours": 1.7061832441666667,
+      "age_hours": 3.1004121744444446,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Cause of historic City Park Bandstand fire still a mystery",
       "link": "https://www.9news.com/article/news/local/cause-of-bandstand-fire-still-a-mystery/73-3560344e-5d29-427c-aa84-b36710fa0676",
       "source": "9News",
       "pub_date": "2026-08-14T04:50:06+00:00",
-      "age_hours": 6.904834147222222,
+      "age_hours": 8.298984376666667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Passengers evacuated after bullet found on plane at DIA",
       "link": "https://www.9news.com/article/travel/denver-international-airport/bullet-found-united-plane-denver-international-airport/73-647f6b6c-9e15-4800-bdb4-bbd490eb9f91",
       "source": "9News",
       "pub_date": "2026-08-14T04:27:15+00:00",
-      "age_hours": 7.285667541944444,
+      "age_hours": 8.679817755555556,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Softball tournament in honor of late Denver officer Donnie Young continues",
       "link": "https://kdvr.com/news/local/softball-tournament-in-honor-of-late-denver-officer-donnie-young-continues/",
       "source": "Fox31",
       "pub_date": "2026-08-14T04:09:58+00:00",
-      "age_hours": 7.573975358888888,
+      "age_hours": 8.968258058611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "State House begins ethics hearing linked to Aurora Rep. Lindsay\u2019s caucus fund allegations",
       "link": "https://sentinelcolorado.com/metro/state-house-begins-ethics-hearing-linked-to-aurora-rep-lindsays-caucus-fund-allegations/",
       "source": "Sentinel",
       "pub_date": "2026-08-14T03:24:59+00:00",
-      "age_hours": 8.324063666666666,
+      "age_hours": 9.718123683055556,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Former AJ's Pit Bar-B-Q owner sentenced for fraud",
       "link": "https://www.9news.com/article/news/crime/former-ajs-pit-bar-b-q-owner-sentenced/73-8ad73216-bbd1-40ce-a0f7-3b0aa6d4520d",
       "source": "9News",
       "pub_date": "2026-08-14T03:10:21+00:00",
-      "age_hours": 8.567334265,
+      "age_hours": 9.961484471944445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado orders GEO Group to reveal info on Aurora tuberculosis case",
       "link": "https://sentinelcolorado.com/metro/colorado-orders-geo-group-to-reveal-info-on-aurora-tuberculosis-case/",
       "source": "Sentinel",
       "pub_date": "2026-08-14T03:00:41+00:00",
-      "age_hours": 8.729063951111112,
+      "age_hours": 10.12312393,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver neighborhood group fighting escort service license application",
       "link": "https://kdvr.com/news/local/denver-neighborhood-group-fighting-escort-service-license-application/",
       "source": "Fox31",
       "pub_date": "2026-08-14T02:20:37+00:00",
-      "age_hours": 9.3964753175,
+      "age_hours": 10.790758023055556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine",
-      "link": "https://sentinelcolorado.com/nation-world/nation/forbes-editor-out-report-says-he-took-6m-from-founder-of-firm-that-does-business-with-magazine/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-14T01:56:33+00:00",
-      "age_hours": 9.797953125833333,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Colorado demands answers on tuberculosis at Aurora immigrant detention facility with new health order",
       "link": "https://coloradosun.com/2026/08/13/tuberculosis-immigrant-detention-center-ice-geo/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-14T01:10:52+00:00",
-      "age_hours": 10.558406064166668,
+      "age_hours": 11.952634976388888,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver is testing a road diet on Alameda, but neighbors are gathering their own data",
       "link": "https://www.9news.com/article/news/local/denver-road-diet-alameda-neighbors-data/73-e1c90d89-312a-464d-9b7c-586b0172afc9",
       "source": "9News",
       "pub_date": "2026-08-14T00:46:11+00:00",
-      "age_hours": 10.970112068055556,
+      "age_hours": 12.364262267777779,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Weld officials sued over justice center expenditure",
       "link": "https://bizwest.com/2026/08/13/weld-officials-sued-over-justice-center-expenditure/",
       "source": "BizWest",
       "pub_date": "2026-08-14T00:20:08+00:00",
-      "age_hours": 11.403531218333333,
+      "age_hours": 12.797949617777778,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Teen photographer captures firefighters at work",
       "link": "https://www.9news.com/article/news/local/colorado-news/colorado-teen-photographer-firefighters/73-cabf2721-3bfe-4cd1-bcd8-dd70dde8d493",
       "source": "9News",
       "pub_date": "2026-08-13T22:54:28+00:00",
-      "age_hours": 12.832056594166668,
+      "age_hours": 14.226206800555556,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "CU Boulder economic data offers mixed outlook",
       "link": "https://bizwest.com/2026/08/13/cu-boulder-economic-data-offers-mixed-outlook/",
       "source": "BizWest",
       "pub_date": "2026-08-13T22:08:28+00:00",
-      "age_hours": 13.597975686666667,
+      "age_hours": 14.992394075000002,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Future Legends lender alleges delay tactics with bankruptcy filing",
       "link": "https://bizwest.com/2026/08/13/future-legends-lender-alleges-delay-tactics-with-bankruptcy-filing/",
       "source": "BizWest",
       "pub_date": "2026-08-13T21:58:21+00:00",
-      "age_hours": 13.766587365277777,
+      "age_hours": 15.161005753888888,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Liquor execs look to recapture the spirit",
       "link": "https://bizwest.com/2026/08/13/liquor-execs-look-to-recapture-the-spirit/",
       "source": "BizWest",
       "pub_date": "2026-08-13T21:50:45+00:00",
-      "age_hours": 13.893254065277777,
+      "age_hours": 15.287672454444445,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Infleqtion doubles sales, triples loss",
-      "link": "https://bizwest.com/2026/08/13/infleqtion-doubles-sales-triples-loss/",
-      "source": "BizWest",
-      "pub_date": "2026-08-13T21:42:33+00:00",
-      "age_hours": 14.029920760000001,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Gama among BizWest Women of Distinction honorees",
-      "link": "https://bizwest.com/2026/08/13/gama-among-bizwest-women-of-distinction-honorees/",
-      "source": "BizWest",
-      "pub_date": "2026-08-13T21:34:55+00:00",
-      "age_hours": 14.157142988611112,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     }
   ]
 }
