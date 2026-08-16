@@ -1,15 +1,15 @@
 {
-  "generated_date": "2026-08-15",
-  "lead_headline": "Restaurant tracker adds zero Friday leads; no foreclosures over $4M; liquor licensing goes dark for second straight day",
+  "generated_date": "2026-08-16",
+  "lead_headline": "Restaurant tracker stalls with single Saturday lead; liquor licensing awakens with 9 status flips after two-day freeze; subscribers slip \u22121 despite mid-week rally",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads Friday</strong> \u2014 quiet close caps week with no overnight additions. Active pipeline holds at 171 opening leads, 161 closures/temp closures (332 total).",
+      "blurb": "<strong>1 new lead Saturday</strong>: Wellness Sushi closed July on Congress Park's Colfax after 7-year vegan run. Active pipeline: 171 openings, 161 closures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "0",
         "label2": "closed",
-        "value2": "0",
+        "value2": "1",
         "period": "today"
       },
       "ticker_weekly": {
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications Friday</strong> \u2014 second consecutive blank day ends week with complete application freeze after Wednesday's 267-filing anomaly burst. No status changes detected. Week totals <strong>266 new applications</strong> vs. 10 prior week\u201426.6x surge concentrated in single-day Wednesday spike suggests batch processing event or data correction flush. Pipeline returns to dormancy after extraordinary midweek volume, leaving unanswered whether spike represents backlog clearance or system artifact.",
+      "blurb": "<strong>Zero new applications Saturday</strong> but <strong>9 status changes</strong> break two-day silence \u2014 six businesses (Arbor Liquors, L.Chaim.MM, Thai Monkey Club, Hilton Garden Inn Downtown, Lucy's, Mint Indian) cleared delinquency to active; three (Bombshells Arapahoe, Adobo, M. Vince Nail Spa) flipped delinquent. One license removed. Week closes at <strong>265 new applications</strong> vs. 11 prior week (24.1x surge) \u2014 Wednesday's 267-filing anomaly dominates while weekend processing resumes modest administrative churn. Status flux suggests routine compliance cycle independent of application flood.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -53,13 +53,13 @@
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "266",
+        "value1": "265",
         "class1": "up",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Friday</strong> \u2014 citation drought extends to <strong>10 consecutive days</strong> with no pickups, establishing new record blackout period. Zero sources active. YTD remains frozen at 1,167 mentions (111 sources) with no movement since late July. Past 30 days: 128 mentions (4.3/day) makes current void 100% below norm vs. typical 60-80 weekly baseline. Ten-day freeze surpasses any prior weekend/holiday lull\u2014points to sustained monitoring pipeline disruption or syndication outage beyond standard news cycle variance.",
+      "blurb": "<strong>Zero mentions Saturday</strong> extends citation blackout to <strong>11 consecutive days</strong> \u2014 new record void period with no pickups since early August. Zero active sources. YTD frozen at 1,167 mentions (111 sources). Past 30 days: 119 mentions (4.0/day avg) makes current 11-day freeze 100% below baseline vs. typical 60-80 weekly norm. Eleven-day drought surpasses any prior weekend lull or holiday gap \u2014 indicates sustained pipeline disruption beyond standard news cycle variance, possibly syndication outage or monitoring tool failure affecting vendor feed.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +6 Thursday</strong> (10 new, 4 canceled) \u2014 strongest single-day acquisition in two weeks breaks recent stagnation pattern. MTD improves to <strong>\u221212</strong> (\u22120.9/day) from yesterday's \u221218, while 90-day net climbs to <strong>+75</strong>. Past week rebounds to <strong>+4 net</strong> (21 new, 17 canceled) vs. prior week's \u221216 (24 new, 40 canceled) \u2014 churn compression (40\u219217 cancellations) drives turnaround. August's \u22120.9/day MTD drag still trails +0.9/day YTD baseline but gap narrows. Thursday's 10 new subscribers matches highest single-day count since late July. Pattern suggests late-week recovery stabilizing after mid-month turbulence \u2014 need sustained acquisition above 4-5 daily to restore positive trajectory, but momentum shift evident.",
+      "blurb": "<strong>Net \u22121 Friday</strong> (0 new, 1 canceled) erases prior day's +6 rally as acquisition flatlines into weekend. MTD slips to <strong>\u221213</strong> (\u22120.9/day), while 90-day net holds at <strong>+72</strong>. Past week finishes <strong>+3 net</strong> (21 new, 18 canceled) vs. prior week's \u221216 (24 new, 40 canceled) \u2014 sharp churn compression (40\u219218 cancellations) drives modest recovery despite weekend stall. Thursday's 10-new spike isolated event; Friday's zero acquisition returns to recent dormancy pattern. August's \u22120.9/day MTD drag still trails +0.9/day YTD baseline. Week-over-week improvement real but fragile \u2014 need sustained 4-5 daily new subscribers to restore positive momentum; current weekend pause threatens nascent rebound.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-12",
-      "net_ytd": "204",
+      "net_mtd": "-13",
+      "net_ytd": "+203",
       "net_mtd_per_day": "-0.9",
-      "net_ytd_per_day": "0.9",
-      "annual_mtd": "-8",
-      "annual_ytd": "184",
-      "monthly_mtd": "-4",
-      "monthly_ytd": "20"
+      "net_ytd_per_day": "+0.9",
+      "annual_mtd": "0",
+      "annual_ytd": "0",
+      "monthly_mtd": "0",
+      "monthly_ytd": "0"
     }
   }
 }
