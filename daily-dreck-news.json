@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-08-16",
-  "fetched_at": "2026-08-16 09:28:06",
+  "fetched_at": "2026-08-16 10:23:42",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "As rapidly aging Colorado confronts social isolation, DU students join nationwide effort to bridge the gap",
+      "link": "https://coloradosun.com/2026/08/16/denver-university-perfect-pair-program-students-seniors/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-16T10:00:00+00:00",
+      "age_hours": 0.39041127611111115,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
     {
       "title": "Evergreen business sees flooding three times in two months, with more rain on the way",
       "link": "https://kdvr.com/news/local/evergreen-business-sees-flooding-three-times-in-two-months-with-more-rain-on-the-way/",
       "source": "Fox31",
       "pub_date": "2026-08-15T22:34:12+00:00",
-      "age_hours": 10.894934900555555,
+      "age_hours": 11.82083716888889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "What\u2019s Working: As Colorado\u2019s minimum wage heads higher in 2027, some impact shows up in the data",
       "link": "https://coloradosun.com/2026/08/15/colorado-minimum-wage-2027-impact-data/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-15T10:00:00+00:00",
-      "age_hours": 23.464687557777776,
+      "age_hours": 24.390412122222223,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "New photo exhibit in Greenwood Village celebrates Colorado\u2019s 150th birthday",
       "link": "https://www.cpr.org/2026/08/15/colorado-history-photo-exhibit/",
       "source": "CPR",
       "pub_date": "2026-08-15T10:00:00+00:00",
-      "age_hours": 23.464778914444445,
+      "age_hours": 24.390536189444443,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Rain welcome, but causing problems for neglected gutters on Denver homes",
       "link": "https://kdvr.com/news/local/rain-welcome-but-causing-problems-for-neglected-gutters-on-denver-homes/",
       "source": "Fox31",
       "pub_date": "2026-08-15T00:08:54+00:00",
-      "age_hours": 33.31660165722222,
+      "age_hours": 34.242503928055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +54,7 @@
       "link": "https://www.9news.com/article/news/local/denver-parking-ticket-dispute-online/73-08292e6a-db06-4873-a63b-c63f4ef90f28",
       "source": "9News",
       "pub_date": "2026-08-14T23:18:30+00:00",
-      "age_hours": 34.15647820555556,
+      "age_hours": 35.08227386694444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +63,7 @@
       "link": "https://kdvr.com/news/local/suspect-arrested-for-thousands-of-dollars-in-vandalism-at-east-colfax-businesses/",
       "source": "Fox31",
       "pub_date": "2026-08-14T22:23:54+00:00",
-      "age_hours": 35.06660166333333,
+      "age_hours": 35.99250393388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://bizwest.com/2026/08/14/developer-sues-over-berthouds-tundra-flats-denial/",
       "source": "BizWest",
       "pub_date": "2026-08-14T22:01:25+00:00",
-      "age_hours": 35.440700775277776,
+      "age_hours": 36.366396512777776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://bizwest.com/2026/08/14/laird-superfood-supersizes-sales-following-pair-of-spring-acquisitions/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:54:10+00:00",
-      "age_hours": 35.56153412361111,
+      "age_hours": 36.48722986888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/08/14/merge-studio-aims-to-build-long-term-relationships-with-clients/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:44:43+00:00",
-      "age_hours": 35.71903413111111,
+      "age_hours": 36.64472988111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://bizwest.com/2026/08/14/scitec-wins-94m-space-force-contract/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:34:07+00:00",
-      "age_hours": 35.895700803055554,
+      "age_hours": 36.8213965575,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/08/14/real-capital-solutions-launches-contrarian-fund-for-distressed-offices/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:28:22+00:00",
-      "age_hours": 35.99153414166667,
+      "age_hours": 36.91722989972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/08/14/thought-leader-group-to-eye-colorado-music-scene/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:22:22+00:00",
-      "age_hours": 36.0915341475,
+      "age_hours": 37.017229909166666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/08/14/fort-collins-winter-market-to-go-year-round-at-foothills-mall/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:16:23+00:00",
-      "age_hours": 36.19125695861111,
+      "age_hours": 37.116953190833335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://sentinelcolorado.com/metro/state-house-begins-ethics-hearing-linked-to-aurora-rep-lindsays-caucus-fund-allegations/",
       "source": "Sentinel",
       "pub_date": "2026-08-14T21:13:45+00:00",
-      "age_hours": 36.236067991666665,
+      "age_hours": 37.16197643416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceo-brian-thompson-murder-case/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T20:23:36+00:00",
-      "age_hours": 37.07187294472222,
+      "age_hours": 37.99776800194445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://www.bisnow.com/news/denver/deal-sheet/cu-denver-purchases-independence-plaza-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-14T17:56:25-04:00",
-      "age_hours": 35.52413320861111,
+      "age_hours": 36.44980565888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/14/ikon-pass-company-cuts-jobs-in-denver-and-beyond-amid-several-changes/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T17:11:36+00:00",
-      "age_hours": 40.27187297333334,
+      "age_hours": 41.19776803194444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.denver7.com/money/consumer/how-colorados-new-sports-betting-regulations-affect-platforms-bettors",
       "source": "Denver7",
       "pub_date": "2026-08-14T16:45:41+00:00",
-      "age_hours": 40.70353480861111,
+      "age_hours": 41.62933583972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://kdvr.com/news/local/denver-public-schools-has-25-new-electric-buses-just-ahead-of-the-school-year/",
       "source": "Fox31",
       "pub_date": "2026-08-14T16:08:26+00:00",
-      "age_hours": 41.324379524166666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Drought stinks and you can smell it in Ca\u00f1on City\u2019s water",
-      "link": "https://coloradosun.com/2026/08/14/canon-city-water-smell-algae-growth-drought/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-14T10:14:00+00:00",
-      "age_hours": 47.23135489138888,
+      "age_hours": 42.25028179416667,
       "breaking": false,
       "time_ago": "1 day ago"
     }
