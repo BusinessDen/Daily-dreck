@@ -1,51 +1,78 @@
 {
   "fetched_date": "2026-08-16",
-  "fetched_at": "2026-08-16 17:19:49",
+  "fetched_at": "2026-08-16 18:30:10",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Animal Friends Alliance launches \u2018Saving Pets Challenge\u2019",
+      "link": "https://bizwest.com/2026/08/16/animal-friends-alliance-launches-saving-pets-challenge/",
+      "source": "BizWest",
+      "pub_date": "2026-08-16T17:53:14+00:00",
+      "age_hours": 0.6105816897222223,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "Jessup Farm drive benefits nonprofits",
+      "link": "https://bizwest.com/2026/08/16/jessup-farm-drive-benefits-nonprofits/",
+      "source": "BizWest",
+      "pub_date": "2026-08-16T17:42:48+00:00",
+      "age_hours": 0.7844708930555555,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
+    {
+      "title": "Human Bean raises $5K for nonprofits",
+      "link": "https://bizwest.com/2026/08/16/human-bean-raises-5k-for-nonprofits/",
+      "source": "BizWest",
+      "pub_date": "2026-08-16T17:25:27+00:00",
+      "age_hours": 1.0736375772222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Nonprofit Spotlight: Center for People with Disabilities",
       "link": "https://bizwest.com/2026/08/16/nonprofit-spotlight-center-for-people-with-disabilities/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:10:20+00:00",
-      "age_hours": 0.1531315491666667,
+      "age_hours": 1.3255820386111112,
       "breaking": true,
-      "time_ago": "9 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Rodeo Dunes golf resort tees up 2027 public debut",
       "link": "https://bizwest.com/2026/08/16/rodeo-dunes-golf-resort-tees-up-2027-public-debut/",
       "source": "BizWest",
       "pub_date": "2026-08-16T15:54:04+00:00",
-      "age_hours": 1.424243543611111,
+      "age_hours": 2.596693165833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "As rapidly aging Colorado confronts social isolation, DU students join nationwide effort to bridge the gap",
       "link": "https://coloradosun.com/2026/08/16/denver-university-perfect-pair-program-students-seniors/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-16T10:00:00+00:00",
-      "age_hours": 7.325732288611111,
+      "age_hours": 8.498105384166667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Evergreen business sees flooding three times in two months, with more rain on the way",
       "link": "https://kdvr.com/news/local/evergreen-business-sees-flooding-three-times-in-two-months-with-more-rain-on-the-way/",
       "source": "Fox31",
       "pub_date": "2026-08-15T22:34:12+00:00",
-      "age_hours": 18.756062453055556,
+      "age_hours": 19.928714980277775,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "What\u2019s Working: As Colorado\u2019s minimum wage heads higher in 2027, some impact shows up in the data",
       "link": "https://coloradosun.com/2026/08/15/colorado-minimum-wage-2027-impact-data/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-15T10:00:00+00:00",
-      "age_hours": 31.325733120277775,
+      "age_hours": 32.49810585694445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +81,7 @@
       "link": "https://www.cpr.org/2026/08/15/colorado-history-photo-exhibit/",
       "source": "CPR",
       "pub_date": "2026-08-15T10:00:00+00:00",
-      "age_hours": 31.325849469722222,
+      "age_hours": 32.49828792638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +90,7 @@
       "link": "https://kdvr.com/news/local/rain-welcome-but-causing-problems-for-neglected-gutters-on-denver-homes/",
       "source": "Fox31",
       "pub_date": "2026-08-15T00:08:54+00:00",
-      "age_hours": 41.177729211666666,
+      "age_hours": 42.3503817,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +99,7 @@
       "link": "https://www.9news.com/article/news/local/denver-parking-ticket-dispute-online/73-08292e6a-db06-4873-a63b-c63f4ef90f28",
       "source": "9News",
       "pub_date": "2026-08-14T23:18:30+00:00",
-      "age_hours": 42.01760629583334,
+      "age_hours": 43.190036557499994,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +108,7 @@
       "link": "https://kdvr.com/news/local/suspect-arrested-for-thousands-of-dollars-in-vandalism-at-east-colfax-businesses/",
       "source": "Fox31",
       "pub_date": "2026-08-14T22:23:54+00:00",
-      "age_hours": 42.927729217777774,
+      "age_hours": 44.10038170361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +117,7 @@
       "link": "https://bizwest.com/2026/08/14/developer-sues-over-berthouds-tundra-flats-denial/",
       "source": "BizWest",
       "pub_date": "2026-08-14T22:01:25+00:00",
-      "age_hours": 43.30174360361111,
+      "age_hours": 44.474193182777775,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +126,7 @@
       "link": "https://bizwest.com/2026/08/14/laird-superfood-supersizes-sales-following-pair-of-spring-acquisitions/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:54:10+00:00",
-      "age_hours": 43.42257694972222,
+      "age_hours": 44.59502652027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +135,7 @@
       "link": "https://bizwest.com/2026/08/14/merge-studio-aims-to-build-long-term-relationships-with-clients/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:44:43+00:00",
-      "age_hours": 43.58007695888889,
+      "age_hours": 44.75252652305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +144,7 @@
       "link": "https://bizwest.com/2026/08/14/scitec-wins-94m-space-force-contract/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:34:07+00:00",
-      "age_hours": 43.756743632777784,
+      "age_hours": 44.92919319194444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,25 +153,7 @@
       "link": "https://bizwest.com/2026/08/14/real-capital-solutions-launches-contrarian-fund-for-distressed-offices/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:28:22+00:00",
-      "age_hours": 43.852576972222224,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Thought-leader group to eye Colorado music scene",
-      "link": "https://bizwest.com/2026/08/14/thought-leader-group-to-eye-colorado-music-scene/",
-      "source": "BizWest",
-      "pub_date": "2026-08-14T21:22:22+00:00",
-      "age_hours": 43.952576979166665,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Fort Collins winter market to go year-round at Foothills Mall",
-      "link": "https://bizwest.com/2026/08/14/fort-collins-winter-market-to-go-year-round-at-foothills-mall/",
-      "source": "BizWest",
-      "pub_date": "2026-08-14T21:16:23+00:00",
-      "age_hours": 44.05229925277778,
+      "age_hours": 45.025026527499996,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://sentinelcolorado.com/metro/state-house-begins-ethics-hearing-linked-to-aurora-rep-lindsays-caucus-fund-allegations/",
       "source": "Sentinel",
       "pub_date": "2026-08-14T21:13:45+00:00",
-      "age_hours": 44.09721721361111,
+      "age_hours": 45.26991415805555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceo-brian-thompson-murder-case/",
       "source": "CO Politics",
       "pub_date": "2026-08-14T20:23:36+00:00",
-      "age_hours": 44.93301418472222,
+      "age_hours": 46.10570813388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,18 +180,9 @@
       "link": "https://www.bisnow.com/news/denver/deal-sheet/cu-denver-purchases-independence-plaza-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-14T17:56:25-04:00",
-      "age_hours": 43.385160166388886,
+      "age_hours": 44.5576192725,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "Ikon Pass company cuts jobs in Denver and beyond amid several changes",
-      "link": "https://www.coloradopolitics.com/2026/08/14/ikon-pass-company-cuts-jobs-in-denver-and-beyond-amid-several-changes/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-14T17:11:36+00:00",
-      "age_hours": 48.133014215833335,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
