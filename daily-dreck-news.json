@@ -1,42 +1,51 @@
 {
   "fetched_date": "2026-08-17",
-  "fetched_at": "2026-08-17 13:39:32",
+  "fetched_at": "2026-08-17 14:28:56",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Denver Public Schools' ban on cell phones, smartwatches in classrooms starts as students return to classroom",
+      "link": "https://www.9news.com/article/news/education/denver-public-schools-cell-phone-ban/73-cefe17a7-445b-4d7e-9933-d622e4286af0",
+      "source": "9News",
+      "pub_date": "2026-08-17T14:08:40+00:00",
+      "age_hours": 0.33357641027777774,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
     {
       "title": "Boulder renews e-scooter, bike rental contracts with Lime, BCycle",
       "link": "https://bizwest.com/2026/08/17/boulder-renews-e-scooter-bike-rental-contracts-with-lime-bcycle/",
       "source": "BizWest",
       "pub_date": "2026-08-17T13:12:33+00:00",
-      "age_hours": 0.44454023388888886,
+      "age_hours": 1.2641070125,
       "breaking": true,
-      "time_ago": "26 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Hotel Boulderado named finalist for Historic Hotels of America awards",
       "link": "https://bizwest.com/2026/08/17/hotel-boulderado-named-finalist-for-historic-hotels-of-america-awards/",
       "source": "BizWest",
       "pub_date": "2026-08-17T13:08:34+00:00",
-      "age_hours": 0.5109295302777778,
+      "age_hours": 1.3304964955555556,
       "breaking": true,
-      "time_ago": "30 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aims\u2019 Bornstein among BizWest Women of Distinction honorees",
       "link": "https://bizwest.com/2026/08/17/aims-bornstein-among-bizwest-women-of-distinction-honorees/",
       "source": "BizWest",
       "pub_date": "2026-08-17T13:03:50+00:00",
-      "age_hours": 0.5898184483333334,
+      "age_hours": 1.4093854177777778,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "The hidden politics of time: How clocks, calendars \u2014 and now-contentious time zones \u2014 came to be",
       "link": "https://sentinelcolorado.com/uncategorized/the-hidden-politics-of-time-how-clocks-calendars-and-now-contentious-time-zones-came-to-be/",
       "source": "Sentinel",
       "pub_date": "2026-08-17T12:36:45+00:00",
-      "age_hours": 1.042439446111111,
+      "age_hours": 1.8662915258333332,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -45,70 +54,70 @@
       "link": "https://kdvr.com/news/denver-tattoo-shop-vandalized-with-used-biohazard-needles-and-fake-blood-dumped-on-doorstep/",
       "source": "Fox31",
       "pub_date": "2026-08-17T12:09:30+00:00",
-      "age_hours": 1.4961942780555557,
+      "age_hours": 2.3200884600000005,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver firefighters union sues state union over bill for $389K in unpaid dues",
       "link": "https://www.denver7.com/news/front-range/denver/denver-firefighters-union-sues-state-union-over-bill-for-389k-in-unpaid-dues",
       "source": "Denver7",
       "pub_date": "2026-08-17T11:52:51+00:00",
-      "age_hours": 1.7735940991666665,
+      "age_hours": 2.597430796388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "South Denver Historic Museum seeks $1.3M to preserve neighborhood's untold stories",
       "link": "https://www.denver7.com/news/front-range/denver/south-denver-historic-museum-seeks-1-3m-to-preserve-neighborhoods-untold-stories",
       "source": "Denver7",
       "pub_date": "2026-08-17T11:28:19+00:00",
-      "age_hours": 2.182483051666667,
+      "age_hours": 3.006319746666667,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Aurora considers renaming Central Library",
       "link": "https://www.9news.com/article/life/style/colorado-guide/aurora-may-rename-central-library/73-34bf33a4-d4ad-4eba-ab47-3614b33d0667",
       "source": "9News",
       "pub_date": "2026-08-17T11:17:44+00:00",
-      "age_hours": 2.358714612777778,
+      "age_hours": 3.182465415555556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado\u2019s bears are hungry. And they\u2019re dining in town.",
       "link": "https://coloradosun.com/2026/08/17/bears-feeding-weak-berry-acorn-crops-trash-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-17T10:20:00+00:00",
-      "age_hours": 3.3206874033333333,
+      "age_hours": 4.144461567777777,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Ruins of lost towns are reemerging as Colorado\u2019s reservoirs shrink",
       "link": "https://coloradosun.com/2026/08/17/ruins-of-lost-towns-under-colorado-reservoirs/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-17T09:25:00+00:00",
-      "age_hours": 4.237354697777778,
+      "age_hours": 5.061128994722222,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado's summer heat takes toll on local food truck",
       "link": "https://kdvr.com/news/local/colorados-summer-heat-takes-toll-on-local-food-truck/",
       "source": "Fox31",
       "pub_date": "2026-08-17T00:41:19+00:00",
-      "age_hours": 12.965916550277777,
+      "age_hours": 13.789810756388889,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver minimum wage hike means bigger paychecks for workers, higher costs for some businesses",
       "link": "https://www.denver7.com/news/local-news/denver-minimum-wage-hike-means-bigger-paychecks-for-workers-higher-costs-for-some-businesses",
       "source": "Denver7",
       "pub_date": "2026-08-16T21:30:25+00:00",
-      "age_hours": 16.1474830925,
+      "age_hours": 16.971319801944443,
       "breaking": false,
       "time_ago": "16 hrs ago"
     },
@@ -117,52 +126,52 @@
       "link": "https://bizwest.com/2026/08/16/animal-friends-alliance-launches-saving-pets-challenge/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:53:14+00:00",
-      "age_hours": 19.766485145833332,
+      "age_hours": 20.586052120555554,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Jessup Farm drive benefits nonprofits",
       "link": "https://bizwest.com/2026/08/16/jessup-farm-drive-benefits-nonprofits/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:42:48+00:00",
-      "age_hours": 19.940374062777778,
+      "age_hours": 20.759941042222223,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Human Bean raises $5K for nonprofits",
       "link": "https://bizwest.com/2026/08/16/human-bean-raises-5k-for-nonprofits/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:25:27+00:00",
-      "age_hours": 20.229540750277778,
+      "age_hours": 21.049107734444448,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Nonprofit Spotlight: Center for People with Disabilities",
       "link": "https://bizwest.com/2026/08/16/nonprofit-spotlight-center-for-people-with-disabilities/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:10:20+00:00",
-      "age_hours": 20.481485222222222,
+      "age_hours": 21.30105220722222,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Rodeo Dunes golf resort tees up 2027 public debut",
       "link": "https://bizwest.com/2026/08/16/rodeo-dunes-golf-resort-tees-up-2027-public-debut/",
       "source": "BizWest",
       "pub_date": "2026-08-16T15:54:04+00:00",
-      "age_hours": 21.752596356944448,
+      "age_hours": 22.57216334611111,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "As rapidly aging Colorado confronts social isolation, DU students join nationwide effort to bridge the gap",
       "link": "https://coloradosun.com/2026/08/16/denver-university-perfect-pair-program-students-seniors/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-16T10:00:00+00:00",
-      "age_hours": 27.654021905833332,
+      "age_hours": 28.47779634416667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,18 +180,9 @@
       "link": "https://kdvr.com/news/local/evergreen-business-sees-flooding-three-times-in-two-months-with-more-rain-on-the-way/",
       "source": "Fox31",
       "pub_date": "2026-08-15T22:34:12+00:00",
-      "age_hours": 39.084527682499996,
+      "age_hours": 39.908421903611114,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "New photo exhibit in Greenwood Village celebrates Colorado\u2019s 150th birthday",
-      "link": "https://www.cpr.org/2026/08/15/colorado-history-photo-exhibit/",
-      "source": "CPR",
-      "pub_date": "2026-08-15T10:00:00+00:00",
-      "age_hours": 51.65420872027778,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
