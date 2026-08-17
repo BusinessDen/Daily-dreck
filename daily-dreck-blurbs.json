@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-08-16",
-  "lead_headline": "Restaurant tracker stalls with single Saturday lead; liquor licensing awakens with 9 status flips after two-day freeze; subscribers slip \u22121 despite mid-week rally",
+  "generated_date": "2026-08-17",
+  "lead_headline": "Weekend restaurant activity surges: 8 new leads detected Friday-Sunday including Syrup Cherry Creek's 16-year closure and Peach & Jack's Capitol Hill bar debut",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead Saturday</strong>: Wellness Sushi closed July on Congress Park's Colfax after 7-year vegan run. Active pipeline: 171 openings, 161 closures.",
+      "blurb": "<strong>8 leads since Friday</strong>: Syrup Cherry Creek shutters after 16 years; Peach & Jack's bar opens Capitol Hill; 85\u00b0C Bakery preps Colorado's first location Aurora. Active: 171 openings, 165 closures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+3",
         "label2": "closed",
-        "value2": "1",
-        "period": "today"
+        "value2": "\u22125",
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
         "value1": "171",
         "label2": "closed",
-        "value2": "161",
+        "value2": "165",
         "period": "all leads"
       }
     },
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications Saturday</strong> but <strong>9 status changes</strong> break two-day silence \u2014 six businesses (Arbor Liquors, L.Chaim.MM, Thai Monkey Club, Hilton Garden Inn Downtown, Lucy's, Mint Indian) cleared delinquency to active; three (Bombshells Arapahoe, Adobo, M. Vince Nail Spa) flipped delinquent. One license removed. Week closes at <strong>265 new applications</strong> vs. 11 prior week (24.1x surge) \u2014 Wednesday's 267-filing anomaly dominates while weekend processing resumes modest administrative churn. Status flux suggests routine compliance cycle independent of application flood.",
+      "blurb": "<strong>Zero new applications weekend</strong> but <strong>3 status changes today</strong> continue administrative churn \u2014 Taqueria El Oso (Federal), Tony P's (Zuni), Sorry Gorgeous (40th) all flip delinquent. Week closes at <strong>265 applications</strong> vs. 11 prior week \u2014 Wednesday's 267-filing anomaly still drives 24x surge while weekend processing returns to routine compliance cycles.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Saturday</strong> extends citation blackout to <strong>11 consecutive days</strong> \u2014 new record void period with no pickups since early August. Zero active sources. YTD frozen at 1,167 mentions (111 sources). Past 30 days: 119 mentions (4.0/day avg) makes current 11-day freeze 100% below baseline vs. typical 60-80 weekly norm. Eleven-day drought surpasses any prior weekend lull or holiday gap \u2014 indicates sustained pipeline disruption beyond standard news cycle variance, possibly syndication outage or monitoring tool failure affecting vendor feed.",
+      "blurb": "<strong>Zero mentions Sunday</strong> extends citation blackout to <strong>12 consecutive days</strong> \u2014 new record void with no pickups since early August. Zero active sources. YTD frozen at 1,167 mentions (111 sources). Past 30 days: 110 mentions vs. typical 60-80 weekly baseline. Twelve-day freeze unprecedented \u2014 surpasses holiday gaps, suggests sustained syndication outage or monitoring feed failure rather than standard news cycle variance.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 Friday</strong> (0 new, 1 canceled) erases prior day's +6 rally as acquisition flatlines into weekend. MTD slips to <strong>\u221213</strong> (\u22120.9/day), while 90-day net holds at <strong>+72</strong>. Past week finishes <strong>+3 net</strong> (21 new, 18 canceled) vs. prior week's \u221216 (24 new, 40 canceled) \u2014 sharp churn compression (40\u219218 cancellations) drives modest recovery despite weekend stall. Thursday's 10-new spike isolated event; Friday's zero acquisition returns to recent dormancy pattern. August's \u22120.9/day MTD drag still trails +0.9/day YTD baseline. Week-over-week improvement real but fragile \u2014 need sustained 4-5 daily new subscribers to restore positive momentum; current weekend pause threatens nascent rebound.",
+      "blurb": "<strong>Net +4 since Friday</strong> (11 new, 7 canceled) as weekend acquisitions offset Friday dormancy. MTD improves to <strong>\u221214</strong> (\u22120.9/day) while 90-day net holds at <strong>+67</strong>. Past week: <strong>+2 net</strong> (22 new, 20 canceled) vs. prior week's \u221221 \u2014 churn compression drives improvement (46\u219220 cancellations). Weekend acquisition strength (11 new Sat-Sun) reverses Friday's zero-new stall. August MTD drag persists below +0.9/day YTD baseline but week-over-week momentum real: cancellation discipline and sporadic new-subscriber bursts suggest fragile stabilization.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-13",
-      "net_ytd": "+203",
+      "net_mtd": "-14",
+      "net_ytd": "202",
       "net_mtd_per_day": "-0.9",
-      "net_ytd_per_day": "+0.9",
-      "annual_mtd": "0",
-      "annual_ytd": "0",
-      "monthly_mtd": "0",
-      "monthly_ytd": "0"
+      "net_ytd_per_day": "0.9",
+      "annual_mtd": "-12",
+      "annual_ytd": "180",
+      "monthly_mtd": "-2",
+      "monthly_ytd": "22"
     }
   }
 }

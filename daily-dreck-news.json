@@ -1,51 +1,60 @@
 {
   "fetched_date": "2026-08-17",
-  "fetched_at": "2026-08-17 10:32:57",
+  "fetched_at": "2026-08-17 11:27:14",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Aurora considers renaming Central Library",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/aurora-may-rename-central-library/73-34bf33a4-d4ad-4eba-ab47-3614b33d0667",
+      "source": "9News",
+      "pub_date": "2026-08-17T11:17:44+00:00",
+      "age_hours": 0.15414593583333336,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
     {
       "title": "Colorado\u2019s bears are hungry. And they\u2019re dining in town.",
       "link": "https://coloradosun.com/2026/08/17/bears-feeding-weak-berry-acorn-crops-trash-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-17T10:20:00+00:00",
-      "age_hours": 0.2108601911111111,
+      "age_hours": 1.116127736111111,
       "breaking": true,
-      "time_ago": "12 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Ruins of lost towns are reemerging as Colorado\u2019s reservoirs shrink",
       "link": "https://coloradosun.com/2026/08/17/ruins-of-lost-towns-under-colorado-reservoirs/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-17T09:25:00+00:00",
-      "age_hours": 1.1275275719444444,
+      "age_hours": 2.0327951616666664,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Obesity drugs show early promise against the hormonal disorder PMOS, giving a suffering Colorado family hope",
       "link": "https://sentinelcolorado.com/metro/obesity-drugs-show-early-promise-against-the-hormonal-disorder-pmos-giving-a-suffering-colorado-family-hope/",
       "source": "Sentinel",
       "pub_date": "2026-08-17T03:38:16+00:00",
-      "age_hours": 6.907464428888889,
+      "age_hours": 7.81267345,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado's summer heat takes toll on local food truck",
       "link": "https://kdvr.com/news/local/colorados-summer-heat-takes-toll-on-local-food-truck/",
       "source": "Fox31",
       "pub_date": "2026-08-17T00:41:19+00:00",
-      "age_hours": 9.8562192725,
+      "age_hours": 10.761349755277777,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver minimum wage hike means bigger paychecks for workers, higher costs for some businesses",
       "link": "https://www.denver7.com/news/local-news/denver-minimum-wage-hike-means-bigger-paychecks-for-workers-higher-costs-for-some-businesses",
       "source": "Denver7",
       "pub_date": "2026-08-16T21:30:25+00:00",
-      "age_hours": 13.0377420025,
+      "age_hours": 13.942868825000001,
       "breaking": false,
       "time_ago": "13 hrs ago"
     },
@@ -54,52 +63,52 @@
       "link": "https://bizwest.com/2026/08/16/animal-friends-alliance-launches-saving-pets-challenge/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:53:14+00:00",
-      "age_hours": 16.6565537975,
+      "age_hours": 17.561972711666666,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Jessup Farm drive benefits nonprofits",
       "link": "https://bizwest.com/2026/08/16/jessup-farm-drive-benefits-nonprofits/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:42:48+00:00",
-      "age_hours": 16.83044316638889,
+      "age_hours": 17.735862176944444,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Human Bean raises $5K for nonprofits",
       "link": "https://bizwest.com/2026/08/16/human-bean-raises-5k-for-nonprofits/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:25:27+00:00",
-      "age_hours": 17.119609864444445,
+      "age_hours": 18.025028873333333,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Nonprofit Spotlight: Center for People with Disabilities",
       "link": "https://bizwest.com/2026/08/16/nonprofit-spotlight-center-for-people-with-disabilities/",
       "source": "BizWest",
       "pub_date": "2026-08-16T17:10:20+00:00",
-      "age_hours": 17.371554337777777,
+      "age_hours": 18.276973347777776,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Rodeo Dunes golf resort tees up 2027 public debut",
       "link": "https://bizwest.com/2026/08/16/rodeo-dunes-golf-resort-tees-up-2027-public-debut/",
       "source": "BizWest",
       "pub_date": "2026-08-16T15:54:04+00:00",
-      "age_hours": 18.64266547611111,
+      "age_hours": 19.548084487222223,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "As rapidly aging Colorado confronts social isolation, DU students join nationwide effort to bridge the gap",
       "link": "https://coloradosun.com/2026/08/16/denver-university-perfect-pair-program-students-seniors/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-16T10:00:00+00:00",
-      "age_hours": 24.544194866944444,
+      "age_hours": 25.449462491111113,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://kdvr.com/news/local/evergreen-business-sees-flooding-three-times-in-two-months-with-more-rain-on-the-way/",
       "source": "Fox31",
       "pub_date": "2026-08-15T22:34:12+00:00",
-      "age_hours": 35.97483042694444,
+      "age_hours": 36.87996090194444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://www.cpr.org/2026/08/15/colorado-history-photo-exhibit/",
       "source": "CPR",
       "pub_date": "2026-08-15T10:00:00+00:00",
-      "age_hours": 48.544353019166664,
+      "age_hours": 49.44961670166666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://kdvr.com/news/local/suspect-arrested-for-thousands-of-dollars-in-vandalism-at-east-colfax-businesses/",
       "source": "Fox31",
       "pub_date": "2026-08-14T22:23:54+00:00",
-      "age_hours": 60.146497157499994,
+      "age_hours": 61.05162763444444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/08/14/developer-sues-over-berthouds-tundra-flats-denial/",
       "source": "BizWest",
       "pub_date": "2026-08-14T22:01:25+00:00",
-      "age_hours": 60.52016550527778,
+      "age_hours": 61.42558451777778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/08/14/laird-superfood-supersizes-sales-following-pair-of-spring-acquisitions/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:54:10+00:00",
-      "age_hours": 60.640998844722226,
+      "age_hours": 61.546417858055555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/08/14/merge-studio-aims-to-build-long-term-relationships-with-clients/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:44:43+00:00",
-      "age_hours": 60.79849884888889,
+      "age_hours": 61.70391786333334,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/08/14/scitec-wins-94m-space-force-contract/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:34:07+00:00",
-      "age_hours": 60.97516551888889,
+      "age_hours": 61.880584534444445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/08/14/real-capital-solutions-launches-contrarian-fund-for-distressed-offices/",
       "source": "BizWest",
       "pub_date": "2026-08-14T21:28:22+00:00",
-      "age_hours": 61.07099885555556,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO Brian Thompson murder case",
-      "link": "https://www.coloradopolitics.com/2026/08/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceo-brian-thompson-murder-case/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-14T20:23:36+00:00",
-      "age_hours": 62.15178934833333,
+      "age_hours": 61.97641787194445,
       "breaking": false,
       "time_ago": "2 days ago"
     }
