@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-08-17",
-  "lead_headline": "Weekend restaurant activity surges: 8 new leads detected Friday-Sunday including Syrup Cherry Creek's 16-year closure and Peach & Jack's Capitol Hill bar debut",
+  "generated_date": "2026-08-18",
+  "lead_headline": "Denver restaurants churn Monday: Call Your Mother opens Union Station bagel shop while Challengers Sports Bar and Falafel King shutter after years-long runs",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>8 leads since Friday</strong>: Syrup Cherry Creek shutters after 16 years; Peach & Jack's bar opens Capitol Hill; 85\u00b0C Bakery preps Colorado's first location Aurora. Active: 171 openings, 165 closures.",
+      "blurb": "<strong>3 leads today</strong>: Call Your Mother opens Union Station, Challengers Sports Bar (Aurora) and Falafel King (Congress Park) close. Active: 172 openings, 166 closures.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+3",
+        "value1": "+1",
         "label2": "closed",
-        "value2": "\u22125",
-        "period": "since Friday"
+        "value2": "\u22122",
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "171",
+        "value1": "172",
         "label2": "closed",
-        "value2": "165",
+        "value2": "166",
         "period": "all leads"
       }
     },
@@ -43,23 +43,23 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications weekend</strong> but <strong>3 status changes today</strong> continue administrative churn \u2014 Taqueria El Oso (Federal), Tony P's (Zuni), Sorry Gorgeous (40th) all flip delinquent. Week closes at <strong>265 applications</strong> vs. 11 prior week \u2014 Wednesday's 267-filing anomaly still drives 24x surge while weekend processing returns to routine compliance cycles.",
+      "blurb": "<strong>2 new applications today</strong>: Two Hands (hotel/restaurant, Milwaukee St) and Colorado Blvd Fastbreak join pending queue. <strong>2 status flips</strong> \u2014 Stoney's Bar & Grill (Raleigh) turns delinquent while Ariat (Larimer) clears back to active. Week finishes at <strong>7 applications</strong> vs. 271 prior \u2014 post-anomaly processing normalizes as administrative teams clear Wednesday's 267-filing backlog and return to baseline application flow.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
+        "value1": "2",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "265",
-        "class1": "up",
+        "value1": "7",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Sunday</strong> extends citation blackout to <strong>12 consecutive days</strong> \u2014 new record void with no pickups since early August. Zero active sources. YTD frozen at 1,167 mentions (111 sources). Past 30 days: 110 mentions vs. typical 60-80 weekly baseline. Twelve-day freeze unprecedented \u2014 surpasses holiday gaps, suggests sustained syndication outage or monitoring feed failure rather than standard news cycle variance.",
+      "blurb": "<strong>Zero mentions Monday</strong> pushes citation drought to <strong>13 consecutive days</strong> \u2014 longest void on record with no pickups since August 4. Zero active sources. All-time total frozen at 1,167 mentions (111 sources lifetime). Past 30 days: 104 mentions vs. typical 70-90 weekly baseline. Thirteen-day freeze now unprecedented territory, eclipsing all prior holiday gaps \u2014 points to sustained syndication failure or monitoring outage rather than normal editorial cycle variance.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +4 since Friday</strong> (11 new, 7 canceled) as weekend acquisitions offset Friday dormancy. MTD improves to <strong>\u221214</strong> (\u22120.9/day) while 90-day net holds at <strong>+67</strong>. Past week: <strong>+2 net</strong> (22 new, 20 canceled) vs. prior week's \u221221 \u2014 churn compression drives improvement (46\u219220 cancellations). Weekend acquisition strength (11 new Sat-Sun) reverses Friday's zero-new stall. August MTD drag persists below +0.9/day YTD baseline but week-over-week momentum real: cancellation discipline and sporadic new-subscriber bursts suggest fragile stabilization.",
+      "blurb": "<strong>Net +12 yesterday</strong> (13 new, 1 canceled) as Sunday acquisition surge continues post-weekend momentum. MTD improves to <strong>\u22123</strong> (\u22120.2/day) while 90-day net climbs to <strong>+74</strong>. Past 7 days: <strong>+19 net</strong> (33 new, 14 canceled) vs. prior week's \u221219 \u2014 sharp reversal driven by sustained low churn (14 vs. 41 cancellations) and steady new-subscriber flow. Weekend strength real: Sunday's 13-new performance matches Thursday/Wednesday acquisition spikes. August MTD drag narrows toward breakeven as weekly momentum builds \u2014 cancellation discipline holds while sporadic new bursts suggest stabilization gaining traction.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-14",
-      "net_ytd": "202",
-      "net_mtd_per_day": "-0.9",
+      "net_mtd": "-3",
+      "net_ytd": "213",
+      "net_mtd_per_day": "-0.2",
       "net_ytd_per_day": "0.9",
-      "annual_mtd": "-12",
-      "annual_ytd": "180",
-      "monthly_mtd": "-2",
-      "monthly_ytd": "22"
+      "annual_mtd": "-2",
+      "annual_ytd": "178",
+      "monthly_mtd": "-1",
+      "monthly_ytd": "35"
     }
   }
 }
