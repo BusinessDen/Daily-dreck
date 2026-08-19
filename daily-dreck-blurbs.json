@@ -1,13 +1,13 @@
 {
-  "generated_date": "2026-08-18",
-  "lead_headline": "Denver restaurants churn Monday: Call Your Mother opens Union Station bagel shop while Challengers Sports Bar and Falafel King shutter after years-long runs",
+  "generated_date": "2026-08-19",
+  "lead_headline": "Snarf's expands to Montbello, 85\u00b0C Bakery preps Aurora debut, Syrup Cherry Creek closes after 16 years",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>3 leads today</strong>: Call Your Mother opens Union Station, Challengers Sports Bar (Aurora) and Falafel King (Congress Park) close. Active: 172 openings, 166 closures.",
+      "blurb": "<strong>2 new leads</strong>: Snarf's opens Montbello location, 85\u00b0C Bakery (Taiwanese chain) preps Kennedy debut. <strong>Closures</strong>: Syrup Cherry Creek ends 16-year run, Wellness Sushi shutters Congress Park.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "+2",
         "label2": "closed",
         "value2": "\u22122",
         "period": "today"
@@ -43,11 +43,11 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>2 new applications today</strong>: Two Hands (hotel/restaurant, Milwaukee St) and Colorado Blvd Fastbreak join pending queue. <strong>2 status flips</strong> \u2014 Stoney's Bar & Grill (Raleigh) turns delinquent while Ariat (Larimer) clears back to active. Week finishes at <strong>7 applications</strong> vs. 271 prior \u2014 post-anomaly processing normalizes as administrative teams clear Wednesday's 267-filing backlog and return to baseline application flow.",
+      "blurb": "<strong>Zero new applications Tuesday</strong> as liquor processing returns to dead calm after last week's administrative backlog purge. <strong>No status changes, no removals</strong> \u2014 complete standstill contrasts sharply with Wednesday's 267-filing anomaly. Week finishes at <strong>7 applications total</strong> vs. prior week's 263 (inflated by anomaly spike). System stabilizes at pre-anomaly baseline: typical weeks run 5-8 filings, suggesting normal administrative cadence resumes after processing teams cleared Wednesday's data dump.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "2",
+        "value1": "0",
         "class1": "",
         "period": "today"
       },
@@ -59,34 +59,34 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Monday</strong> pushes citation drought to <strong>13 consecutive days</strong> \u2014 longest void on record with no pickups since August 4. Zero active sources. All-time total frozen at 1,167 mentions (111 sources lifetime). Past 30 days: 104 mentions vs. typical 70-90 weekly baseline. Thirteen-day freeze now unprecedented territory, eclipsing all prior holiday gaps \u2014 points to sustained syndication failure or monitoring outage rather than normal editorial cycle variance.",
+      "blurb": "<strong>Zero mentions Tuesday</strong> extends citation blackout to <strong>14 consecutive days</strong> \u2014 BusinessDen invisible across all monitored outlets since August 4. Zero active sources, all-time total frozen at 1,167 mentions from 111 lifetime sources. Past 30 days: 98 mentions total (down from 104 yesterday as August 4 citations age out of 30-day window). Two-week freeze unprecedented in outlet's history \u2014 exceeds all prior holiday gaps and seasonal lulls. Points to sustained syndication breakdown, monitoring failure, or editorial cycle shift rather than normal variance.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "label2": "sources",
         "value2": "0",
-        "class2": "down",
+        "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +12 yesterday</strong> (13 new, 1 canceled) as Sunday acquisition surge continues post-weekend momentum. MTD improves to <strong>\u22123</strong> (\u22120.2/day) while 90-day net climbs to <strong>+74</strong>. Past 7 days: <strong>+19 net</strong> (33 new, 14 canceled) vs. prior week's \u221219 \u2014 sharp reversal driven by sustained low churn (14 vs. 41 cancellations) and steady new-subscriber flow. Weekend strength real: Sunday's 13-new performance matches Thursday/Wednesday acquisition spikes. August MTD drag narrows toward breakeven as weekly momentum builds \u2014 cancellation discipline holds while sporadic new bursts suggest stabilization gaining traction.",
+      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) as Monday acquisition trickles to single-digit gain. MTD improves to <strong>+4</strong> (+0.2/day) while 90-day net reaches <strong>+80</strong>. Past 7 days: <strong>+23 net</strong> (37 new, 14 canceled) vs. prior week's \u221221 \u2014 clean reversal driven by low churn (14 vs. 40 cancellations) and steady acquisition pace. Recent pattern: sporadic new-subscriber bursts (Saturday's 13, Sunday's 7) offset by quiet weekdays like Monday's lone add. Week-over-week momentum real but lumpy \u2014 cancellation discipline holds while acquisition remains event-driven rather than steady-state. MTD crawls toward breakeven as August stabilizes after early-month churn drag.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "-3",
-      "net_ytd": "213",
-      "net_mtd_per_day": "-0.2",
-      "net_ytd_per_day": "0.9",
-      "annual_mtd": "-2",
-      "annual_ytd": "178",
-      "monthly_mtd": "-1",
+      "net_mtd": "4",
+      "net_ytd": "220",
+      "net_mtd_per_day": "0.2",
+      "net_ytd_per_day": "1.0",
+      "annual_mtd": "3",
+      "annual_ytd": "185",
+      "monthly_mtd": "1",
       "monthly_ytd": "35"
     }
   }
