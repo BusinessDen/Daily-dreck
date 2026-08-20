@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-08-19",
-  "lead_headline": "Snarf's expands to Montbello, 85\u00b0C Bakery preps Aurora debut, Syrup Cherry Creek closes after 16 years",
+  "generated_date": "2026-08-20",
+  "lead_headline": "Recess Beer Garden expands to Auraria Campus, Call Your Mother Deli lands near Union Station, Challengers Sports Bar closes Aurora location",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>2 new leads</strong>: Snarf's opens Montbello location, 85\u00b0C Bakery (Taiwanese chain) preps Kennedy debut. <strong>Closures</strong>: Syrup Cherry Creek ends 16-year run, Wellness Sushi shutters Congress Park.",
+      "blurb": "<strong>3 new leads</strong>: Recess opens Tivoli Student Union location, Call Your Mother Deli lands near Union Station, Mynt tavern replaces BoyzTown cabaret. <strong>Closures</strong>: Challengers Sports Bar (Aurora), Old Zeppelin Station food hall effectively shuttered.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+3",
         "label2": "closed",
         "value2": "\u22122",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "172",
+        "value1": "174",
         "label2": "closed",
-        "value2": "166",
+        "value2": "167",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "35",
+        "value1": "41",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications Tuesday</strong> as liquor processing returns to dead calm after last week's administrative backlog purge. <strong>No status changes, no removals</strong> \u2014 complete standstill contrasts sharply with Wednesday's 267-filing anomaly. Week finishes at <strong>7 applications total</strong> vs. prior week's 263 (inflated by anomaly spike). System stabilizes at pre-anomaly baseline: typical weeks run 5-8 filings, suggesting normal administrative cadence resumes after processing teams cleared Wednesday's data dump.",
+      "blurb": "<strong>Zero new applications Wednesday</strong> \u2014 third straight day with no filings as administrative freeze continues. <strong>3 status changes</strong>: Old Santa Fe Mexican Grill reactivated (from delinquent), Art Gym Denver slides delinquent, South Broadway Country Club back online. <strong>Week total: 6 applications</strong> vs. prior week's 263 (anomaly-inflated). Normal cadence solidifies \u2014 system runs at typical 5-8 weekly baseline after last week's backlog purge. Two-week pattern clear: Wednesday's 267-filing spike was administrative catch-up, not recurring volume.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -53,13 +53,13 @@
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "7",
+        "value1": "6",
         "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Tuesday</strong> extends citation blackout to <strong>14 consecutive days</strong> \u2014 BusinessDen invisible across all monitored outlets since August 4. Zero active sources, all-time total frozen at 1,167 mentions from 111 lifetime sources. Past 30 days: 98 mentions total (down from 104 yesterday as August 4 citations age out of 30-day window). Two-week freeze unprecedented in outlet's history \u2014 exceeds all prior holiday gaps and seasonal lulls. Points to sustained syndication breakdown, monitoring failure, or editorial cycle shift rather than normal variance.",
+      "blurb": "<strong>Zero mentions Wednesday</strong> pushes citation blackout to <strong>15 consecutive days</strong> \u2014 longest gap in BusinessDen's monitored history. Zero active sources, all-time total frozen at 1,167 mentions from 111 lifetime outlets. Past 30 days: 86 mentions (down from 98 yesterday as early-August citations age out). <strong>Two-week freeze</strong> now exceeds all prior holiday lulls and seasonal dips \u2014 points to systemic syndication breakdown, monitoring infrastructure failure, or major editorial cycle shift rather than normal variance. No precedent for 15-day silence in outlet's tracking record.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +1 yesterday</strong> (1 new, 0 canceled) as Monday acquisition trickles to single-digit gain. MTD improves to <strong>+4</strong> (+0.2/day) while 90-day net reaches <strong>+80</strong>. Past 7 days: <strong>+23 net</strong> (37 new, 14 canceled) vs. prior week's \u221221 \u2014 clean reversal driven by low churn (14 vs. 40 cancellations) and steady acquisition pace. Recent pattern: sporadic new-subscriber bursts (Saturday's 13, Sunday's 7) offset by quiet weekdays like Monday's lone add. Week-over-week momentum real but lumpy \u2014 cancellation discipline holds while acquisition remains event-driven rather than steady-state. MTD crawls toward breakeven as August stabilizes after early-month churn drag.",
+      "blurb": "<strong>Net +9 yesterday</strong> (14 new, 5 canceled) as Tuesday acquisition jumps to strongest single-day performance in two weeks. MTD climbs to <strong>+12</strong> (+0.6/day) while 90-day net reaches <strong>+85</strong>. Past 7 days: <strong>+30 net</strong> (47 new, 17 canceled) vs. prior week's \u221220 \u2014 clean 50-subscriber swing driven by sustained low churn (17 vs. 38 cancellations) and steady new-subscriber flow. Recent two weeks show bifurcated pattern: Week 1 bled \u221220 on heavy cancellations (38), Week 2 gains +30 as churn discipline holds (17) and acquisition pace accelerates. MTD momentum builds as August stabilizes after early-month drag \u2014 year-long trend (+228 YTD, +1.0/day) confirms structural health beneath weekly noise.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "4",
-      "net_ytd": "220",
-      "net_mtd_per_day": "0.2",
+      "net_mtd": "12",
+      "net_ytd": "228",
+      "net_mtd_per_day": "0.6",
       "net_ytd_per_day": "1.0",
-      "annual_mtd": "3",
-      "annual_ytd": "185",
-      "monthly_mtd": "1",
-      "monthly_ytd": "35"
+      "annual_mtd": "10",
+      "annual_ytd": "195",
+      "monthly_mtd": "2",
+      "monthly_ytd": "33"
     }
   }
 }
