@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-20",
-  "fetched_at": "2026-08-20 09:35:19",
+  "fetched_at": "2026-08-20 10:31:12",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Colorado residential electric bills will rise $5 per month \u2014 about half what Xcel requested",
+      "link": "https://coloradosun.com/2026/08/20/electric-bills-increase-xcel-energy-colorado/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-20T10:26:00+00:00",
+      "age_hours": 0.08202103472222223,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "A judge told Xcel it couldn\u2019t condemn a farmer\u2019s land. Now the utility is headed to the state Supreme Court.",
+      "link": "https://coloradosun.com/2026/08/20/xcel-condemnation-power-lines-dryland-partners-wind-power/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-20T10:09:00+00:00",
+      "age_hours": 0.36535504,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
     {
       "title": "Denver man saves 4-year-old girl falling from window",
       "link": "https://kdvr.com/news/local/denver-man-catches-4-year-old-girl-falling-from-window/",
       "source": "Fox31",
       "pub_date": "2026-08-20T04:51:33+00:00",
-      "age_hours": 4.725385354722222,
+      "age_hours": 5.656789934444444,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 8.19.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-8-19-26/",
       "source": "Sentinel",
       "pub_date": "2026-08-20T04:43:44+00:00",
-      "age_hours": 4.855907874444445,
+      "age_hours": 5.787440621388889,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Former Aurora officer accused of stealing, using drugs charged with misconduct, DUI",
       "link": "https://sentinelcolorado.com/metro/former-aurora-officer-accused-of-stealing-using-drugs-charged-with-misconduct-dui/",
       "source": "Sentinel",
       "pub_date": "2026-08-20T02:45:09+00:00",
-      "age_hours": 6.832297050833333,
+      "age_hours": 7.763829880555556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver tenants unionize over safety, security concerns",
       "link": "https://kdvr.com/news/local/denver-tenants-unionize-over-safety-security-concerns/",
       "source": "Fox31",
       "pub_date": "2026-08-20T00:18:14+00:00",
-      "age_hours": 9.280663191111111,
+      "age_hours": 10.212067801944446,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "City Park Bandstand proposal approved",
       "link": "https://www.9news.com/article/news/local/cause-of-bandstand-fire-still-a-mystery/73-3560344e-5d29-427c-aa84-b36710fa0676",
       "source": "9News",
       "pub_date": "2026-08-20T00:14:58+00:00",
-      "age_hours": 9.33491335361111,
+      "age_hours": 10.266315450277778,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Longmont domestic violence shelter seeks $295K to stay open",
       "link": "https://kdvr.com/news/local/longmont-domestic-violence-shelter-seeks-295k-to-stay-open/",
       "source": "Fox31",
       "pub_date": "2026-08-20T00:06:22+00:00",
-      "age_hours": 9.478440996388889,
+      "age_hours": 10.409845619444445,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Sheridan police officer suspended after accidentally firing handgun in department meeting room",
       "link": "https://www.9news.com/article/news/local/officer-fired-for-text-messages-suspended-in-new-job-after-accidentally-firing-weapon-in-department-meeting-room/73-0940515d-f0f2-4ab5-b212-6f53ef9fe2a8",
       "source": "9News",
       "pub_date": "2026-08-19T22:36:29+00:00",
-      "age_hours": 10.9763022925,
+      "age_hours": 11.907704403333332,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "10th Circuit rejects invitation for full-court review of tax-avoidance case",
       "link": "https://www.coloradopolitics.com/2026/08/19/10th-circuit-rejects-invitation-for-full-court-review-of-tax-avoidance-case/",
       "source": "CO Politics",
       "pub_date": "2026-08-19T22:15:04+00:00",
-      "age_hours": 11.333645587777777,
+      "age_hours": 12.2651674825,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Buffalo Wild Wings is kicking it back to the 2000s with 6 throwback menu items",
       "link": "https://www.9news.com/article/news/nation-world/buffalo-wild-wings-2000s-throwback-menu/507-3e49c2f8-9a2b-4c3a-bdae-11876335a6a7",
       "source": "9News",
       "pub_date": "2026-08-19T21:42:19+00:00",
-      "age_hours": 11.87908011611111,
+      "age_hours": 12.810482244722223,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Families of 4 Colorado dairy farm workers file wrongful death lawsuit",
       "link": "https://coloradosun.com/2026/08/19/wrongful-death-lawsuit-colorado-dairy/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-19T21:39:06+00:00",
-      "age_hours": 11.932564129722222,
+      "age_hours": 12.863689207777778,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Indie 102.3 presents Dead Pioneers at the Stanley Hotel",
       "link": "https://www.cpr.org/2026/08/19/indie-102-3-presents-dead-pioneers-at-the-stanley-hotel/",
       "source": "CPR",
       "pub_date": "2026-08-19T21:10:08+00:00",
-      "age_hours": 12.415430276666665,
+      "age_hours": 13.346610480555555,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Ruling nears on lawsuit over Greeley election",
       "link": "https://bizwest.com/2026/08/19/ruling-nears-on-lawsuit-over-greeley-election/",
       "source": "BizWest",
       "pub_date": "2026-08-19T21:09:38+00:00",
-      "age_hours": 12.423206371388888,
+      "age_hours": 13.354409169722222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Colorado sues operator of Aurora immigrant detention center to enforce tuberculosis order",
       "link": "https://coloradosun.com/2026/08/19/geo-group-lawsuit-tuberculosis/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-19T21:02:21+00:00",
-      "age_hours": 12.545064476666667,
+      "age_hours": 13.476189650277778,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Cops credit Flock cameras in arrest linked to fatal hit-and-run of cyclist in Aurora",
       "link": "https://sentinelcolorado.com/orecent-headlines/cops-credit-flock-cameras-after-in-arrest-linked-to-fatal-hit-and-run-cyclist-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-08-19T20:44:12+00:00",
-      "age_hours": 12.848130466666666,
+      "age_hours": 13.779663320833333,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "High school dual enrollment accounts for 40% of all community college students in Colorado",
       "link": "https://sentinelcolorado.com/metro/education/high-school-dual-enrollment-accounts-for-40-of-all-community-college-students-in-colorado/",
       "source": "Sentinel",
       "pub_date": "2026-08-19T20:23:14+00:00",
-      "age_hours": 13.197575148333334,
+      "age_hours": 14.129108076666666,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Loveland chamber expands to include Johnstown",
       "link": "https://bizwest.com/2026/08/19/loveland-chamber-expands-to-include-johnstown/",
       "source": "BizWest",
       "pub_date": "2026-08-19T20:15:57+00:00",
-      "age_hours": 13.317929000555555,
+      "age_hours": 14.24913191138889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Deputy tried to serve civil papers to Deion Sanders at Colorado practice, but coach was unavailable",
       "link": "https://coloradosun.com/2026/08/19/deion-sanders-unavailable-to-receive-subpoena-in-boulder/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-19T20:11:07+00:00",
-      "age_hours": 13.398953858333334,
+      "age_hours": 14.33007917972222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Loveland settles lawsuit for $42K over muted public comment",
       "link": "https://bizwest.com/2026/08/19/loveland-settles-lawsuit-for-42k-over-muted-public-comment/",
       "source": "BizWest",
       "pub_date": "2026-08-19T19:59:49+00:00",
-      "age_hours": 13.58681791361111,
+      "age_hours": 14.518020832222222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Aurora recruiting its first police, fire \u2018accountability\u2019 monitor",
-      "link": "https://sentinelcolorado.com/metro/aurora-recruiting-its-first-police-fire-accountability-monitor/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-19T19:51:37+00:00",
-      "age_hours": 13.72451975111111,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Infleqtion consolidating at expanded Louisville HQ",
-      "link": "https://bizwest.com/2026/08/19/infleqtion-consolidating-at-expanded-louisville-hq/",
-      "source": "BizWest",
-      "pub_date": "2026-08-19T19:47:41+00:00",
-      "age_hours": 13.789040162500001,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     }
   ]
 }
