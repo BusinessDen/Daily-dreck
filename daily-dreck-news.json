@@ -1,123 +1,132 @@
 {
   "fetched_date": "2026-08-20",
-  "fetched_at": "2026-08-20 13:47:49",
+  "fetched_at": "2026-08-20 14:36:48",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 17,
   "articles": [
+    {
+      "title": "Fort Collins Apartment Complex Sells for $62.7M",
+      "link": "https://milehighcre.com/fort-collins-apartment-complex-sells-for-62-7m/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-08-20T14:11:26+00:00",
+      "age_hours": 0.4179440075,
+      "breaking": true,
+      "time_ago": "25 min ago"
+    },
     {
       "title": "Denver named finalist to host 2028 presidential convention",
       "link": "https://www.9news.com/article/news/politics/national-politics/democratic-national-convention-2028-denver/73-40e1dae6-138f-488a-892d-3e7e65bd862e",
       "source": "9News",
       "pub_date": "2026-08-20T13:40:03+00:00",
-      "age_hours": 0.1253495622222222,
+      "age_hours": 0.9415467158333334,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "56 min ago"
     },
     {
       "title": "How one gardener\u2019s neighbors shared their land to help her start a flower business",
       "link": "https://sentinelcolorado.com/uncategorized/how-one-gardeners-neighbors-shared-their-land-to-help-her-start-a-flower-business/",
       "source": "Sentinel",
       "pub_date": "2026-08-20T13:30:56+00:00",
-      "age_hours": 0.2779238580555556,
+      "age_hours": 1.0939553355555556,
       "breaking": true,
-      "time_ago": "16 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver brunch restaurant closes after 16 years",
       "link": "https://www.9news.com/article/life/style/colorado-guide/syrup-cherry-creek-restaurant-closes/73-921de728-4062-4190-a84d-4e315f499eb2",
       "source": "9News",
       "pub_date": "2026-08-20T13:14:53+00:00",
-      "age_hours": 0.5447940702777778,
+      "age_hours": 1.3609912169444445,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "The US national debt now stands at $40 trillion",
       "link": "https://sentinelcolorado.com/nation-world/nation/the-us-national-debt-now-stands-at-40-trillion/",
       "source": "Sentinel",
       "pub_date": "2026-08-20T13:14:43+00:00",
-      "age_hours": 0.5482019991666667,
+      "age_hours": 1.3642334169444443,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
       "link": "https://sentinelcolorado.com/sentinel-biz-news/amazon-set-to-expand-drone-delivery-of-lightweight-packages-to-500-us-cities/",
       "source": "Sentinel",
       "pub_date": "2026-08-20T13:13:41+00:00",
-      "age_hours": 0.5654242297222223,
+      "age_hours": 1.3814556461111112,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Democrats select Denver, two other finalist cities for 2028 presidential convention",
       "link": "https://sentinelcolorado.com/metro/democrats-select-denver-two-other-finalist-cities-for-2028-presidential-convention/",
       "source": "Sentinel",
       "pub_date": "2026-08-20T13:12:19+00:00",
-      "age_hours": 0.5882022647222223,
+      "age_hours": 1.404233645833333,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Democrats narrow their list of 2028 presidential convention sites to Denver, Boston and Philadelphia",
       "link": "https://coloradosun.com/2026/08/20/denver-finalist-2028-dnc/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-20T13:08:10+00:00",
-      "age_hours": 0.6565486816666666,
+      "age_hours": 1.4727226263888888,
       "breaking": true,
-      "time_ago": "39 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "JHL Constructors Celebrates Ribbon Cutting of Big Sky PK-8",
       "link": "https://milehighcre.com/jhl-constructors-celebrates-ribbon-cutting-of-big-sky-pk-8/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-20T13:00:59+00:00",
-      "age_hours": 0.7762086763888889,
+      "age_hours": 1.592110695,
       "breaking": true,
-      "time_ago": "46 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Seasons at Horsetooth Crossing trades for $62.7M",
       "link": "https://bizwest.com/2026/08/20/seasons-at-horsetooth-crossing-trades-for-62-7m/",
       "source": "BizWest",
       "pub_date": "2026-08-20T12:26:04+00:00",
-      "age_hours": 1.3578862377777778,
+      "age_hours": 2.1737597716666666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Greeley annexes 325 acres of Great Western Industrial Park",
       "link": "https://bizwest.com/2026/08/20/greeley-annexes-325-acres-of-great-western-industrial-park/",
       "source": "BizWest",
       "pub_date": "2026-08-20T12:20:47+00:00",
-      "age_hours": 1.4459423505555555,
+      "age_hours": 2.2618158244444446,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "GlobalAI drops Weld appeal, will work to cure violations",
       "link": "https://bizwest.com/2026/08/20/globalai-drops-weld-appeal-will-work-to-cure-violations/",
       "source": "BizWest",
       "pub_date": "2026-08-20T12:12:03+00:00",
-      "age_hours": 1.5914979425,
+      "age_hours": 2.4073714180555554,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Grab your free tulip bulbs from Boulder businesses",
       "link": "https://www.9news.com/article/life/style/colorado-guide/free-tulip-bulbs-pearl-street-mall/73-e56bcded-31d9-4808-8ac4-c82601dff901",
       "source": "9News",
       "pub_date": "2026-08-20T10:51:00+00:00",
-      "age_hours": 2.9428497066666663,
+      "age_hours": 3.7590468444444443,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Aurora diner demolished after 25 years: What's next for the site",
       "link": "https://www.9news.com/article/life/style/colorado-guide/sams-no-3-diner-demolished/73-7373ba28-19eb-45e4-b303-8f5b94249286",
       "source": "9News",
       "pub_date": "2026-08-20T10:39:07+00:00",
-      "age_hours": 3.1409053200000003,
+      "age_hours": 3.9571024458333337,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -126,63 +135,54 @@
       "link": "https://coloradosun.com/2026/08/20/electric-bills-increase-xcel-energy-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-20T10:26:00+00:00",
-      "age_hours": 3.35932707,
+      "age_hours": 4.175500933888889,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "A judge told Xcel it couldn\u2019t condemn a farmer\u2019s land. Now the utility is headed to the state Supreme Court.",
       "link": "https://coloradosun.com/2026/08/20/xcel-condemnation-power-lines-dryland-partners-wind-power/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-20T10:09:00+00:00",
-      "age_hours": 3.642661021111111,
+      "age_hours": 4.458834879166667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "How bars and restaurants are adjusting to the sober-curious trend",
       "link": "https://www.westword.com/food-drink/denver-bars-restaurants-non-alcoholic-drink-trend-40924723/",
       "source": "Westword",
       "pub_date": "2026-08-20T07:30:00-06:00",
-      "age_hours": 0.29328712333333334,
+      "age_hours": 1.109311575,
       "breaking": true,
-      "time_ago": "17 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Denver man saves 4-year-old girl falling from window",
       "link": "https://kdvr.com/news/local/denver-man-catches-4-year-old-girl-falling-from-window/",
       "source": "Fox31",
       "pub_date": "2026-08-20T04:51:33+00:00",
-      "age_hours": 8.93400117361111,
+      "age_hours": 9.750042722222222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver tenants unionize over safety, security concerns",
       "link": "https://kdvr.com/news/local/denver-tenants-unionize-over-safety-security-concerns/",
       "source": "Fox31",
       "pub_date": "2026-08-20T00:18:14+00:00",
-      "age_hours": 13.489279081944444,
+      "age_hours": 14.305320616666666,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "City Park Bandstand proposal approved",
       "link": "https://www.9news.com/article/news/local/cause-of-bandstand-fire-still-a-mystery/73-3560344e-5d29-427c-aa84-b36710fa0676",
       "source": "9News",
       "pub_date": "2026-08-20T00:14:58+00:00",
-      "age_hours": 13.543405416111112,
+      "age_hours": 14.359602541944446,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Longmont domestic violence shelter seeks $295K to stay open",
-      "link": "https://kdvr.com/news/local/longmont-domestic-violence-shelter-seeks-295k-to-stay-open/",
-      "source": "Fox31",
-      "pub_date": "2026-08-20T00:06:22+00:00",
-      "age_hours": 13.68705689611111,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     }
   ]
 }
