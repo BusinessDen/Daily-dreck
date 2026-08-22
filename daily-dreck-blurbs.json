@@ -1,23 +1,23 @@
 {
-  "generated_date": "2026-08-21",
-  "lead_headline": "Subscriber net surges to +4 yesterday on lowest weekly churn in months as 15-day citation blackout stretches media silence",
+  "generated_date": "2026-08-22",
+  "lead_headline": "Restaurant closures accelerate with Syrup Cherry Creek (16 years), Church and Union Denver (2 years), and Table 6 (22 years) all shuttering within days",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>4 new leads</strong>: Peach & Jack's Bar & Grill replaces The Pearl in Capitol Hill, 85\u00b0C Bakery Cafe preps Colorado's first location (Aurora), Dairy Queen closures confirmed (Westminster, Littleton). <strong>Closures</strong>: Wellness Sushi, Falafel King, Syrup Cherry Creek (16 years).",
+      "blurb": "<strong>1 new lead</strong>: Recess Tivoli opens at Auraria Campus this month. <strong>16 closures detected</strong> including Church and Union Denver (LoDo), Table 6 (22 years), Park Burger Highlands (15 years).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "+1",
         "label2": "closed",
-        "value2": "\u22125",
+        "value2": "\u221216",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "174",
+        "value1": "24",
         "label2": "closed",
-        "value2": "168",
-        "period": "all leads"
+        "value2": "16",
+        "period": "this week"
       }
     },
     "foreclosure": {
@@ -28,13 +28,13 @@
         "value1": "0",
         "class1": "",
         "label2": "upcoming auctions",
-        "value2": "5",
+        "value2": "0",
         "class2": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "78",
+        "value1": "66",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,23 +43,23 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications Thursday</strong> \u2014 fourth consecutive day without new filings as post-purge baseline solidifies. No status changes, no removals. <strong>Week total holds at 2 applications</strong> vs. prior week's 267 (administrative anomaly). Normal 5-8 weekly cadence confirmed as liquor board returns to standard processing rhythm after last week's backlog dump. Two-week pattern locked: Week 1 cleared multi-month queue, Week 2 resumes business-as-usual filing pace.",
+      "blurb": "<strong>1 application Friday</strong>: Que Bueno Mexican Grille (DIA concourse BC-22) applies for hotel/restaurant license, flagged delinquent on arrival. Single status upgrade: The Patio at Sloans clears delinquency to active. <strong>Week closes at 3 applications</strong> vs. prior week's 267 \u2014 post-purge baseline confirms 5-8 weekly cadence as liquor board's administrative backlog dump recedes into rearview. Three-license week represents cleanest read on normal filing velocity since multi-month queue cleared last Friday.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "0",
+        "value1": "1",
         "class1": "",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "2",
+        "value1": "3",
         "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Thursday</strong> extends citation drought to <strong>16 consecutive days</strong> \u2014 BusinessDen's longest monitored silence on record. All-time total frozen at 1,167 mentions from 111 sources. Past 30 days: 68 mentions (down from 86 yesterday as early-August citations roll off). <strong>16-day blackout</strong> now definitively exceeds every prior holiday gap, summer lull, and editorial pause in outlet's tracking history \u2014 signals structural syndication collapse, monitoring system failure, or fundamental shift in industry citation patterns. No comparable precedent in multi-year dataset.",
+      "blurb": "<strong>Zero mentions Friday</strong> pushes citation blackout to <strong>17 consecutive days</strong> \u2014 longest monitored silence in outlet's tracking history. All-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 56 mentions (down from 68 yesterday as July citations expire). <strong>17-day void</strong> now exceeds every prior holiday gap, summer lull, and editorial cycle in multi-year dataset \u2014 either syndication infrastructure collapsed, monitoring system broke, or fundamental shift in industry citation behavior occurred mid-August with zero warning signals.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +4 yesterday</strong> (7 new, 3 canceled) as Wednesday holds acquisition gains despite modest churn uptick. MTD climbs to <strong>+16</strong> (+0.8/day) while 90-day net reaches <strong>+87</strong>. Past 7 days: <strong>+34 net</strong> (51 new, 17 canceled) vs. prior week's \u221216 \u2014 clean 50-subscriber reversal powered by churn discipline (17 vs. 39 cancellations) and accelerating new-subscriber flow (51 vs. 23). Recent fortnight bifurcates cleanly: Week 1 bled \u221216 on heavy attrition, Week 2 gains +34 as cancellations drop 56% and acquisition pace doubles. August momentum builds as month escapes early drag \u2014 YTD trend (+233, +1.0/day) confirms structural health beneath weekly volatility.",
+      "blurb": "<strong>Net +5 yesterday</strong> (6 new, 1 canceled) as Friday acquisition holds steady with minimal churn drag. MTD advances to <strong>+21</strong> (+1.0/day) while 90-day net climbs to <strong>+92</strong>. Past 7 days: <strong>+33 net</strong> (47 new, 14 canceled) vs. prior week's +3 \u2014 thirty-subscriber gain powered by acquisition acceleration (47 vs. 21 new) and tightened churn discipline (14 vs. 18 cancels). Recent fortnight shows clean momentum reversal: Week 1 crawled to +3 on modest flow, Week 2 surges to +33 as new-subscriber pace doubles and cancellation rate drops 22%. August escapes early-month weakness as YTD trend (+238, +1.0/day) confirms structural stability beneath weekly swings.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "16",
-      "net_ytd": "233",
-      "net_mtd_per_day": "0.8",
+      "net_mtd": "21",
+      "net_ytd": "238",
+      "net_mtd_per_day": "1.0",
       "net_ytd_per_day": "1.0",
-      "annual_mtd": "14",
-      "annual_ytd": "204",
-      "monthly_mtd": "2",
-      "monthly_ytd": "29"
+      "annual_mtd": "18",
+      "annual_ytd": "201",
+      "monthly_mtd": "3",
+      "monthly_ytd": "37"
     }
   }
 }
