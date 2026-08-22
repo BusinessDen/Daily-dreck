@@ -1,60 +1,60 @@
 {
   "fetched_date": "2026-08-22",
-  "fetched_at": "2026-08-22 06:40:55",
+  "fetched_at": "2026-08-22 07:32:19",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 1,
   "articles": [
     {
       "title": "E-bike battery explosion leaves home destroyed, cat dies in fire",
       "link": "https://kdvr.com/news/local/e-bike-battery-explosion-leaves-home-destroyed-cat-dies-in-fire/",
       "source": "Fox31",
       "pub_date": "2026-08-22T04:02:54+00:00",
-      "age_hours": 2.6309432116666667,
+      "age_hours": 3.4861503805555554,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Listen: Everything we saw at DIA\u2019s wild \u2018plane crash\u2019 simulation",
       "link": "https://www.cpr.org/2026/08/21/listen-dias-plane-crash-simulation/",
       "source": "CPR",
       "pub_date": "2026-08-22T01:31:12+00:00",
-      "age_hours": 5.159041970555555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.014274738888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "TikTok reaches $400 million settlement with US Justice Department over children's privacy",
       "link": "https://www.9news.com/article/news/nation-world/tiktok-settlement-justice-department-children-privacy/507-116d939d-893c-4449-b6b6-713227af97d0",
       "source": "9News",
       "pub_date": "2026-08-22T01:21:02+00:00",
-      "age_hours": 5.328561730277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.1837409425,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "'Just stop': Denver garden center hit again after 8 thefts",
       "link": "https://kdvr.com/news/local/just-stop-denver-garden-center-hit-again-after-8-thefts/",
       "source": "Fox31",
       "pub_date": "2026-08-21T23:59:20+00:00",
-      "age_hours": 6.690387718055556,
+      "age_hours": 7.5455948911111115,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver dog is a finalist for a national pet award after a mishap while playing fetch",
       "link": "https://www.9news.com/article/life/pets/denver-dog-national-pet-award/73-f091ca5b-cdb2-4970-b344-b59a65b95be5",
       "source": "9News",
       "pub_date": "2026-08-21T23:11:44+00:00",
-      "age_hours": 7.483561776944445,
+      "age_hours": 8.338740989166666,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Discovery of historic sewer caused $18 million in over-budget costs to 16th Street Improvement Project",
       "link": "https://denverite.com/2026/08/21/16th-street-mall-project-millions-over-budget/",
       "source": "Denverite",
       "pub_date": "2026-08-21T22:36:29+00:00",
-      "age_hours": 8.070939588888889,
+      "age_hours": 8.926141959722223,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -63,16 +63,16 @@
       "link": "https://bizwest.com/2026/08/21/environment-group-sues-over-plan-to-shutter-ncar/",
       "source": "BizWest",
       "pub_date": "2026-08-21T20:53:26+00:00",
-      "age_hours": 9.788133955,
+      "age_hours": 10.643201060833334,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "New Aurora data center regulations up for discussion this Monday",
       "link": "https://sentinelcolorado.com/metro/new-aurora-data-center-regulations-up-for-discussion-this-monday/",
       "source": "Sentinel",
       "pub_date": "2026-08-21T20:33:39+00:00",
-      "age_hours": 10.118713165277779,
+      "age_hours": 10.973924864444445,
       "breaking": false,
       "time_ago": "10 hrs ago"
     },
@@ -81,106 +81,106 @@
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-2026-aurora-week-zero-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-08-21T20:01:06+00:00",
-      "age_hours": 10.661213591944444,
+      "age_hours": 11.516425282222222,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Supreme Court\u2019s chief justice allows work on Trump\u2019s $400M White House ballroom to continue for now",
       "link": "https://sentinelcolorado.com/uncategorized/supreme-courts-chief-justice-allows-work-on-trumps-400m-white-house-ballroom-to-continue-for-now/",
       "source": "Sentinel",
       "pub_date": "2026-08-21T19:57:36+00:00",
-      "age_hours": 10.719547322777778,
+      "age_hours": 11.57475902388889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado jobless rate flat in July",
       "link": "https://bizwest.com/2026/08/21/colorado-jobless-rate-flat-in-july/",
       "source": "BizWest",
       "pub_date": "2026-08-21T19:42:21+00:00",
-      "age_hours": 10.97285722888889,
+      "age_hours": 11.827923868055557,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Proposal to cap Colorado income tax rate qualifies for November ballot",
       "link": "https://www.coloradopolitics.com/2026/08/21/proposal-to-cap-colorado-income-tax-rate-qualifies-for-november-ballot/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T19:24:56+00:00",
-      "age_hours": 11.263962266944445,
+      "age_hours": 12.119179222777777,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Trump reaches deal to halt tariffs on beef for 90 days in bid to lower prices",
       "link": "https://www.coloradopolitics.com/2026/08/21/trump-reaches-deal-to-halt-tariffs-on-beef-for-90-days-in-bid-to-lower-prices/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T19:05:19+00:00",
-      "age_hours": 11.590906725555556,
+      "age_hours": 12.446123689722222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Budget red ink threatens to spike inflation and unemployment",
       "link": "https://www.coloradopolitics.com/2026/08/21/budget-red-ink-threatens-to-spike-inflation-and-unemployment/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T18:59:52+00:00",
-      "age_hours": 11.681740149166668,
+      "age_hours": 12.536957110833333,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Local Coffee Shop To Open Third Location: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/deal-sheet/coffee-shop-to-open-third-location-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-21T17:00:21-04:00",
-      "age_hours": 9.672939050277778,
+      "age_hours": 10.527986103888889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Plan to turn downtown Boulder parking lot into hotel moves forward",
       "link": "https://bizwest.com/2026/08/21/plan-to-turn-downtown-boulder-parking-lot-into-hotel-moves-forward/",
       "source": "BizWest",
       "pub_date": "2026-08-21T16:52:05+00:00",
-      "age_hours": 13.810635066944444,
+      "age_hours": 14.665701680833333,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
+    },
+    {
+      "title": "Thompson Thrift Expands Denver Corporate Office",
+      "link": "https://milehighcre.com/thompson-thrift-expands-denver-corporate-office/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-08-21T13:30:24+00:00",
+      "age_hours": 18.027353529722223,
+      "breaking": false,
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Stored Energy Systems powers up in larger Longmont space",
       "link": "https://bizwest.com/2026/08/21/stored-energy-systems-powers-up-in-larger-longmont-space/",
       "source": "BizWest",
       "pub_date": "2026-08-21T13:03:05+00:00",
-      "age_hours": 17.62730174472222,
+      "age_hours": 18.482368354166667,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "\u2018Exceptional volunteer\u2019 Galloway among BizWest Women of Distinction honorees",
       "link": "https://bizwest.com/2026/08/21/exceptional-volunteer-galloway-among-bizwest-women-of-distinction-honorees/",
       "source": "BizWest",
       "pub_date": "2026-08-21T12:55:34+00:00",
-      "age_hours": 17.75257959388889,
+      "age_hours": 18.60764616388889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Healthcare Freefall: Longer drives, fewer options for maternity care in Colorado",
       "link": "https://www.coloradopolitics.com/2026/08/21/healthcare-freefall-longer-drives-fewer-options-for-maternity-care-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T11:00:00+00:00",
-      "age_hours": 19.679518025277776,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Waymo cars will land in Denver \u201csoon.\u201d Here\u2019s what you should know before hopping in one.",
-      "link": "https://coloradosun.com/2026/08/21/waymo-cars-denver-map-laws-autonomous/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-21T10:00:00+00:00",
-      "age_hours": 20.67894628333333,
+      "age_hours": 20.534734986944443,
       "breaking": false,
       "time_ago": "20 hrs ago"
     }
