@@ -1,69 +1,78 @@
 {
   "fetched_date": "2026-08-23",
-  "fetched_at": "2026-08-23 03:03:25",
+  "fetched_at": "2026-08-23 04:37:50",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Iran security chief threatens neighbors against economic measures, and other Mideast developments",
+      "link": "https://sentinelcolorado.com/nation-world/world/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-23T04:07:49+00:00",
+      "age_hours": 0.4978085666666667,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
     {
       "title": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
       "link": "https://www.9news.com/article/news/nation-world/what-to-know-about-trump-tariffs-on-canadian-goods/507-0ac83428-99c9-4c77-b0d1-223d0cd549bf",
       "source": "9News",
       "pub_date": "2026-08-22T22:56:21+00:00",
-      "age_hours": 4.1134072519444445,
+      "age_hours": 5.688524241666666,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Did you buy a home in recent years? You could be eligible for part of a $28.5M settlement",
       "link": "https://www.9news.com/article/news/nation-world/homebuyer-settlement-remax-keller-williams/507-a4b41d0f-df5e-4777-8c83-d79c0b87693b",
       "source": "9News",
       "pub_date": "2026-08-22T19:38:30+00:00",
-      "age_hours": 7.410907274166667,
+      "age_hours": 8.986024263055555,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Concertgoer speaks out about accessible seating frustration at Noah Kahan show at Coors Field",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/noah-kahan-coors-field-accessible-seating-frustration/73-801bbeab-affd-4abb-9ea1-93891e072774",
       "source": "9News",
       "pub_date": "2026-08-22T13:28:39+00:00",
-      "age_hours": 13.575073970277778,
+      "age_hours": 15.1501909675,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "What\u2019s Working: Colorado\u2019s slow job growth doesn\u2019t mean no one is hiring",
       "link": "https://coloradosun.com/2026/08/22/colorado-job-growth-hiring-alternatives/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-22T10:00:00+00:00",
-      "age_hours": 17.052355240833332,
+      "age_hours": 18.627568855555555,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Every opening and closing this week:\u00a0Temaki Den chef opens po\u2019 boy pop-up",
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-closings-po-boy-chili-verde-40925145/",
       "source": "Westword",
       "pub_date": "2026-08-22T08:14:30-06:00",
-      "age_hours": 12.811256755555554,
+      "age_hours": 14.386304382777778,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "E-bike battery explosion leaves home destroyed, cat dies in fire",
       "link": "https://kdvr.com/news/local/e-bike-battery-explosion-leaves-home-destroyed-cat-dies-in-fire/",
       "source": "Fox31",
       "pub_date": "2026-08-22T04:02:54+00:00",
-      "age_hours": 23.004487596666667,
+      "age_hours": 24.579525095277777,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Listen: Everything we saw at DIA\u2019s wild \u2018plane crash\u2019 simulation",
       "link": "https://www.cpr.org/2026/08/21/listen-dias-plane-crash-simulation/",
       "source": "CPR",
       "pub_date": "2026-08-22T01:31:12+00:00",
-      "age_hours": 25.532525604444444,
+      "age_hours": 27.10763756388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.9news.com/article/news/nation-world/tiktok-settlement-justice-department-children-privacy/507-116d939d-893c-4449-b6b6-713227af97d0",
       "source": "9News",
       "pub_date": "2026-08-22T01:21:02+00:00",
-      "age_hours": 25.702018444722224,
+      "age_hours": 27.27713544111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://kdvr.com/news/local/just-stop-denver-garden-center-hit-again-after-8-thefts/",
       "source": "Fox31",
       "pub_date": "2026-08-21T23:59:20+00:00",
-      "age_hours": 27.063932112222222,
+      "age_hours": 28.638969610555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.9news.com/article/life/pets/denver-dog-national-pet-award/73-f091ca5b-cdb2-4970-b344-b59a65b95be5",
       "source": "9News",
       "pub_date": "2026-08-21T23:11:44+00:00",
-      "age_hours": 27.857018498055552,
+      "age_hours": 29.432135482222225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://denverite.com/2026/08/21/16th-street-mall-project-millions-over-budget/",
       "source": "Denverite",
       "pub_date": "2026-08-21T22:36:29+00:00",
-      "age_hours": 28.444405174444444,
+      "age_hours": 30.019564728611112,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/08/21/environment-group-sues-over-plan-to-shutter-ncar/",
       "source": "BizWest",
       "pub_date": "2026-08-21T20:53:26+00:00",
-      "age_hours": 30.161502079444443,
+      "age_hours": 31.73672881611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://sentinelcolorado.com/metro/new-aurora-data-center-regulations-up-for-discussion-this-monday/",
       "source": "Sentinel",
       "pub_date": "2026-08-21T20:33:39+00:00",
-      "age_hours": 30.4922477825,
+      "age_hours": 32.06725304555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,16 +135,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-2026-aurora-week-zero-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-08-21T20:01:06+00:00",
-      "age_hours": 31.03474820222222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Supreme Court\u2019s chief justice allows work on Trump\u2019s $400M White House ballroom to continue for now",
-      "link": "https://sentinelcolorado.com/uncategorized/supreme-courts-chief-justice-allows-work-on-trumps-400m-white-house-ballroom-to-continue-for-now/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-21T19:57:36+00:00",
-      "age_hours": 31.093081935277777,
+      "age_hours": 32.60975342583333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://bizwest.com/2026/08/21/colorado-jobless-rate-flat-in-july/",
       "source": "BizWest",
       "pub_date": "2026-08-21T19:42:21+00:00",
-      "age_hours": 31.34622489527778,
+      "age_hours": 32.921451554722225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/21/proposal-to-cap-colorado-income-tax-rate-qualifies-for-november-ballot/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T19:24:56+00:00",
-      "age_hours": 31.637488220555557,
+      "age_hours": 33.212514329444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/21/trump-reaches-deal-to-halt-tariffs-on-beef-for-90-days-in-bid-to-lower-prices/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T19:05:19+00:00",
-      "age_hours": 31.964432678888887,
+      "age_hours": 33.539458789166666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/21/budget-red-ink-threatens-to-spike-inflation-and-unemployment/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T18:59:52+00:00",
-      "age_hours": 32.05526610638889,
+      "age_hours": 33.63029221027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.bisnow.com/news/denver/deal-sheet/coffee-shop-to-open-third-location-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-21T17:00:21-04:00",
-      "age_hours": 30.046310851944444,
+      "age_hours": 31.621553929444445,
       "breaking": false,
       "time_ago": "1 day ago"
     }
