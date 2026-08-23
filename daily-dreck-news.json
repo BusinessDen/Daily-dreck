@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-08-23",
-  "fetched_at": "2026-08-23 17:20:46",
+  "fetched_at": "2026-08-23 18:30:58",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Bear found in Denver neighborhood",
+      "link": "https://www.9news.com/article/life/animals/bear-platt-park-denver/73-ec264c2f-4c28-42d2-8fac-08d4259c85d8",
+      "source": "9News",
+      "pub_date": "2026-08-23T18:07:26+00:00",
+      "age_hours": 0.3880844494444444,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
     {
       "title": "Execs say work needed to keep tech startups in Colorado",
       "link": "https://bizwest.com/2026/08/23/execs-say-work-needed-to-keep-tech-startups-in-colorado/",
       "source": "BizWest",
       "pub_date": "2026-08-23T15:20:57+00:00",
-      "age_hours": 1.992197853888889,
+      "age_hours": 3.1622812191666667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Taxpayers donate to tax increase campaign | Jon Caldara",
       "link": "https://www.coloradopolitics.com/2026/08/23/taxpayers-donate-to-tax-increase-campaign-jon-caldara/",
       "source": "CO Politics",
       "pub_date": "2026-08-23T11:00:00+00:00",
-      "age_hours": 6.342531443611111,
+      "age_hours": 7.512562424166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Iran security chief threatens neighbors against economic measures, and other Mideast developments",
       "link": "https://sentinelcolorado.com/nation-world/world/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/",
       "source": "Sentinel",
       "pub_date": "2026-08-23T04:07:49+00:00",
-      "age_hours": 13.212292456388889,
+      "age_hours": 14.382340986111112,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "What to know about President Trump's 50% tariffs on Canadian goods that went into effect",
       "link": "https://www.9news.com/article/news/nation-world/what-to-know-about-trump-tariffs-on-canadian-goods/507-0ac83428-99c9-4c77-b0d1-223d0cd549bf",
       "source": "9News",
       "pub_date": "2026-08-22T22:56:21+00:00",
-      "age_hours": 18.40277103361111,
+      "age_hours": 19.57280678,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Did you buy a home in recent years? You could be eligible for part of a $28.5M settlement",
       "link": "https://www.9news.com/article/news/nation-world/homebuyer-settlement-remax-keller-williams/507-a4b41d0f-df5e-4777-8c83-d79c0b87693b",
       "source": "9News",
       "pub_date": "2026-08-22T19:38:30+00:00",
-      "age_hours": 21.7002710575,
+      "age_hours": 22.870306800277778,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Concertgoer speaks out about accessible seating frustration at Noah Kahan show at Coors Field",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/noah-kahan-coors-field-accessible-seating-frustration/73-801bbeab-affd-4abb-9ea1-93891e072774",
       "source": "9News",
       "pub_date": "2026-08-22T13:28:39+00:00",
-      "age_hours": 27.864437753888886,
+      "age_hours": 29.034473494722224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://coloradosun.com/2026/08/22/colorado-job-growth-hiring-alternatives/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-22T10:00:00+00:00",
-      "age_hours": 31.341765705277776,
+      "age_hours": 32.51177111527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-closings-po-boy-chili-verde-40925145/",
       "source": "Westword",
       "pub_date": "2026-08-22T08:14:30-06:00",
-      "age_hours": 27.10065549638889,
+      "age_hours": 28.270638730555554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://kdvr.com/news/local/e-bike-battery-explosion-leaves-home-destroyed-cat-dies-in-fire/",
       "source": "Fox31",
       "pub_date": "2026-08-22T04:02:54+00:00",
-      "age_hours": 37.29388453222222,
+      "age_hours": 38.463862614722224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.cpr.org/2026/08/21/listen-dias-plane-crash-simulation/",
       "source": "CPR",
       "pub_date": "2026-08-22T01:31:12+00:00",
-      "age_hours": 39.82187096027778,
+      "age_hours": 40.991939377499996,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://www.9news.com/article/news/nation-world/tiktok-settlement-justice-department-children-privacy/507-116d939d-893c-4449-b6b6-713227af97d0",
       "source": "9News",
       "pub_date": "2026-08-22T01:21:02+00:00",
-      "age_hours": 39.99138222777778,
+      "age_hours": 41.16141796944444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://denverite.com/2026/08/21/16th-street-mall-project-millions-over-budget/",
       "source": "Denverite",
       "pub_date": "2026-08-21T22:36:29+00:00",
-      "age_hours": 42.73374847055556,
+      "age_hours": 43.90380880111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/08/21/environment-group-sues-over-plan-to-shutter-ncar/",
       "source": "BizWest",
       "pub_date": "2026-08-21T20:53:26+00:00",
-      "age_hours": 44.45080947527777,
+      "age_hours": 45.620893234166665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://sentinelcolorado.com/metro/new-aurora-data-center-regulations-up-for-discussion-this-monday/",
       "source": "Sentinel",
       "pub_date": "2026-08-21T20:33:39+00:00",
-      "age_hours": 44.78173693972223,
+      "age_hours": 45.951785466388884,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-2026-aurora-week-zero-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-08-21T20:01:06+00:00",
-      "age_hours": 45.324237321388885,
+      "age_hours": 46.49428588944444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/08/21/colorado-jobless-rate-flat-in-july/",
       "source": "BizWest",
       "pub_date": "2026-08-21T19:42:21+00:00",
-      "age_hours": 45.63553173527778,
+      "age_hours": 46.80561551388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/21/proposal-to-cap-colorado-income-tax-rate-qualifies-for-november-ballot/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T19:24:56+00:00",
-      "age_hours": 45.92697596222222,
+      "age_hours": 47.09700693916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/21/trump-reaches-deal-to-halt-tariffs-on-beef-for-90-days-in-bid-to-lower-prices/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T19:05:19+00:00",
-      "age_hours": 46.253920416666666,
+      "age_hours": 47.423951393888885,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/21/budget-red-ink-threatens-to-spike-inflation-and-unemployment/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T18:59:52+00:00",
-      "age_hours": 46.34475383916667,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Local Coffee Shop To Open Third Location: The Denver Deal Sheet",
-      "link": "https://www.bisnow.com/news/denver/deal-sheet/coffee-shop-to-open-third-location-the-denver-deal-sheet",
-      "source": "Bisnow",
-      "pub_date": "2026-08-21T17:00:21-04:00",
-      "age_hours": 44.33563815638889,
+      "age_hours": 47.51478482,
       "breaking": false,
       "time_ago": "1 day ago"
     }
