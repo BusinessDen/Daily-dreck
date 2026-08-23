@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-08-22",
-  "lead_headline": "Restaurant closures accelerate with Syrup Cherry Creek (16 years), Church and Union Denver (2 years), and Table 6 (22 years) all shuttering within days",
+  "generated_date": "2026-08-23",
+  "lead_headline": "Hearth Patisserie expands to Highlands as restaurant tracker logs one new opening against 14-closure week",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead</strong>: Recess Tivoli opens at Auraria Campus this month. <strong>16 closures detected</strong> including Church and Union Denver (LoDo), Table 6 (22 years), Park Burger Highlands (15 years).",
+      "blurb": "<strong>1 new lead today</strong>: Hearth Patisserie (third location) opens at 3617 W 32nd Ave in Highlands Square. <strong>14 closures this week</strong> \u2014 tracker quiet ahead of Labor Day weekend.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
         "value1": "+1",
         "label2": "closed",
-        "value2": "\u221216",
+        "value2": "\u22120",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "24",
+        "value1": "+22",
         "label2": "closed",
-        "value2": "16",
+        "value2": "\u221214",
         "period": "this week"
       }
     },
@@ -43,11 +43,11 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>1 application Friday</strong>: Que Bueno Mexican Grille (DIA concourse BC-22) applies for hotel/restaurant license, flagged delinquent on arrival. Single status upgrade: The Patio at Sloans clears delinquency to active. <strong>Week closes at 3 applications</strong> vs. prior week's 267 \u2014 post-purge baseline confirms 5-8 weekly cadence as liquor board's administrative backlog dump recedes into rearview. Three-license week represents cleanest read on normal filing velocity since multi-month queue cleared last Friday.",
+      "blurb": "<strong>Zero applications Saturday</strong> as weekend filing freeze continues. One status upgrade: SAFTA Denver clears delinquency to active at 3330 N Brighton. <strong>Week finishes at 3 applications</strong> \u2014 matching prior week's baseline as liquor board confirms sustained administrative velocity after multi-month backlog purge. Three-license week validates 5-8 weekly cadence as new normal following record 267-application dump cycle.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
-        "value1": "1",
+        "value1": "0",
         "class1": "",
         "period": "today"
       },
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Friday</strong> pushes citation blackout to <strong>17 consecutive days</strong> \u2014 longest monitored silence in outlet's tracking history. All-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 56 mentions (down from 68 yesterday as July citations expire). <strong>17-day void</strong> now exceeds every prior holiday gap, summer lull, and editorial cycle in multi-year dataset \u2014 either syndication infrastructure collapsed, monitoring system broke, or fundamental shift in industry citation behavior occurred mid-August with zero warning signals.",
+      "blurb": "<strong>Zero mentions Saturday</strong> extends BusinessDen citation blackout to <strong>18 consecutive days</strong> \u2014 unprecedented silence now spans three full weeks without single media pickup. All-time total remains frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 40 mentions (down from 56 yesterday as July data rolls off). <strong>18-day void</strong> surpasses every prior gap in multi-year tracking \u2014 either syndication feeds severed, monitoring infrastructure failed, or industry citation patterns fundamentally shifted mid-August with zero detectable signals.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +5 yesterday</strong> (6 new, 1 canceled) as Friday acquisition holds steady with minimal churn drag. MTD advances to <strong>+21</strong> (+1.0/day) while 90-day net climbs to <strong>+92</strong>. Past 7 days: <strong>+33 net</strong> (47 new, 14 canceled) vs. prior week's +3 \u2014 thirty-subscriber gain powered by acquisition acceleration (47 vs. 21 new) and tightened churn discipline (14 vs. 18 cancels). Recent fortnight shows clean momentum reversal: Week 1 crawled to +3 on modest flow, Week 2 surges to +33 as new-subscriber pace doubles and cancellation rate drops 22%. August escapes early-month weakness as YTD trend (+238, +1.0/day) confirms structural stability beneath weekly swings.",
+      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) as Saturday acquisition stalls while single churn drags daily count. MTD advances to <strong>+22</strong> (+1.0/day), 90-day net holds at <strong>+93</strong>. Past 7 days: <strong>+35 net</strong> (49 new, 14 canceled) vs. prior week's +1 \u2014 thirty-four-subscriber gain marks cleanest weekly performance in recent months. Two-week pattern shows structural momentum: Week 1 crawled to +1 on anemic 21-subscriber intake, Week 2 surges to +35 as acquisition pace more than doubles (49 new) while churn drops 30% (14 vs. 20 cancels). August escapes early-month drag as YTD trend (+239, +1.0/day) confirms stable baseline beneath week-to-week volatility.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "21",
-      "net_ytd": "238",
+      "net_mtd": "22",
+      "net_ytd": "239",
       "net_mtd_per_day": "1.0",
       "net_ytd_per_day": "1.0",
-      "annual_mtd": "18",
-      "annual_ytd": "201",
-      "monthly_mtd": "3",
-      "monthly_ytd": "37"
+      "annual_mtd": "17",
+      "annual_ytd": "191",
+      "monthly_mtd": "5",
+      "monthly_ytd": "48"
     }
   }
 }
