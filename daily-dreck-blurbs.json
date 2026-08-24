@@ -1,23 +1,23 @@
 {
-  "generated_date": "2026-08-23",
-  "lead_headline": "Hearth Patisserie expands to Highlands as restaurant tracker logs one new opening against 14-closure week",
+  "generated_date": "2026-08-24",
+  "lead_headline": "No new restaurant leads detected over weekend \u2014 tracking system enters third consecutive day of zero new data signals",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>1 new lead today</strong>: Hearth Patisserie (third location) opens at 3617 W 32nd Ave in Highlands Square. <strong>14 closures this week</strong> \u2014 tracker quiet ahead of Labor Day weekend.",
+      "blurb": "<strong>Zero new leads since Friday</strong> \u2014 tracking system silent through weekend window. <strong>3 leads detected this week</strong> include Hearth Patisserie (Highlands Square), Little India Downtown (fire closure downtown).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+1",
+        "value1": "0",
         "label2": "closed",
-        "value2": "\u22120",
-        "period": "today"
+        "value2": "0",
+        "period": "since Friday"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "+22",
+        "value1": "175",
         "label2": "closed",
-        "value2": "\u221214",
-        "period": "this week"
+        "value2": "169",
+        "period": "all leads"
       }
     },
     "foreclosure": {
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero applications Saturday</strong> as weekend filing freeze continues. One status upgrade: SAFTA Denver clears delinquency to active at 3330 N Brighton. <strong>Week finishes at 3 applications</strong> \u2014 matching prior week's baseline as liquor board confirms sustained administrative velocity after multi-month backlog purge. Three-license week validates 5-8 weekly cadence as new normal following record 267-application dump cycle.",
+      "blurb": "<strong>Zero new applications Sunday</strong> as weekend filing freeze continues. Four license downgrades today: Black Pearl Restaurant (S Pearl), The Plimoth (E 28th Ave), La Finca Colombiana (E Colfax), and Chiili's (Central Park) all shift to delinquent status. <strong>3 applications this week</strong> \u2014 matching prior week's post-backlog baseline as liquor board settles into sustained low-volume administrative cadence.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Saturday</strong> extends BusinessDen citation blackout to <strong>18 consecutive days</strong> \u2014 unprecedented silence now spans three full weeks without single media pickup. All-time total remains frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 40 mentions (down from 56 yesterday as July data rolls off). <strong>18-day void</strong> surpasses every prior gap in multi-year tracking \u2014 either syndication feeds severed, monitoring infrastructure failed, or industry citation patterns fundamentally shifted mid-August with zero detectable signals.",
+      "blurb": "<strong>Zero mentions Sunday</strong> extends BusinessDen citation blackout to <strong>19 consecutive days</strong> \u2014 nearly three full weeks without single media pickup. All-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 29 mentions (down from 40 Saturday as more July data rolls off). <strong>19-day void</strong> now longest gap in multi-year tracking history \u2014 either syndication infrastructure collapsed, monitoring feeds severed, or industry citation patterns fundamentally shifted with zero recovery signals.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -70,24 +70,24 @@
       "ticker_weekly": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "label2": "sources",
         "value2": "0",
-        "class2": "",
+        "class2": "down",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net \u22121 yesterday</strong> (0 new, 1 canceled) as Saturday acquisition stalls while single churn drags daily count. MTD advances to <strong>+22</strong> (+1.0/day), 90-day net holds at <strong>+93</strong>. Past 7 days: <strong>+35 net</strong> (49 new, 14 canceled) vs. prior week's +1 \u2014 thirty-four-subscriber gain marks cleanest weekly performance in recent months. Two-week pattern shows structural momentum: Week 1 crawled to +1 on anemic 21-subscriber intake, Week 2 surges to +35 as acquisition pace more than doubles (49 new) while churn drops 30% (14 vs. 20 cancels). August escapes early-month drag as YTD trend (+239, +1.0/day) confirms stable baseline beneath week-to-week volatility.",
+      "blurb": "<strong>Net +6 since Friday</strong> (8 new, 2 canceled) advances MTD to <strong>+22</strong> (+1.0/day), 90-day net at <strong>+88</strong>. Past 7 days: <strong>+37 net</strong> (49 new, 12 canceled) vs. prior week's +13 \u2014 twenty-four-subscriber gain reflects strengthening weekend acquisition as churn drops 40% week-over-week (12 vs. 21 cancels). Two-week trajectory shows accelerating momentum: Week 1 crawled to +13 on modest intake, Week 2 nearly triples output to +37 as new subscriber pace climbs 44% while retention tightens. August shakes off early-month stall as YTD baseline (+239, +1.0/day) confirms stable long-term trend beneath strengthening weekly performance.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "22",
       "net_ytd": "239",
       "net_mtd_per_day": "1.0",
       "net_ytd_per_day": "1.0",
-      "annual_mtd": "17",
-      "annual_ytd": "191",
-      "monthly_mtd": "5",
-      "monthly_ytd": "48"
+      "annual_mtd": "0",
+      "annual_ytd": "0",
+      "monthly_mtd": "0",
+      "monthly_ytd": "0"
     }
   }
 }
