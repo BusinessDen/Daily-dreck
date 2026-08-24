@@ -1,123 +1,150 @@
 {
   "fetched_date": "2026-08-24",
-  "fetched_at": "2026-08-24 16:38:14",
+  "fetched_at": "2026-08-24 17:31:53",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Boulder architect, developer alleges bookkeeper made off with $1.3M",
+      "link": "https://bizwest.com/2026/08/24/boulder-architect-developer-alleges-bookkeeper-made-off-with-1-3m/",
+      "source": "BizWest",
+      "pub_date": "2026-08-24T17:29:06+00:00",
+      "age_hours": 0.041616466666666664,
+      "breaking": true,
+      "time_ago": "2 min ago"
+    },
+    {
+      "title": "Dacono considering data-center moratorium",
+      "link": "https://bizwest.com/2026/08/24/dacono-considering-data-center-moratorium/",
+      "source": "BizWest",
+      "pub_date": "2026-08-24T17:10:05+00:00",
+      "age_hours": 0.3585609261111111,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "These are the best airports and airlines for flight deals, report finds",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/airport-best-deals-denver/73-d47faa7c-5468-438c-b242-ecf90b8cc530",
+      "source": "9News",
+      "pub_date": "2026-08-24T16:46:55+00:00",
+      "age_hours": 0.7451193508333332,
+      "breaking": true,
+      "time_ago": "44 min ago"
+    },
     {
       "title": "Healthcare Freefall: Longer drives, fewer options for maternity care in Colorado",
       "link": "https://www.coloradopolitics.com/2026/08/24/healthcare-freefall-longer-drives-fewer-options-for-maternity-care-in-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-08-24T15:56:29+00:00",
-      "age_hours": 0.6917091122222222,
+      "age_hours": 1.586228021111111,
       "breaking": true,
-      "time_ago": "41 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "How much household income is needed to afford a starter home in Denver?",
       "link": "https://www.9news.com/article/money/markets/real-estate/starter-homes-real-estate/73-d7f5fe4a-d766-4506-b2bb-3fbdd46ef517",
       "source": "9News",
       "pub_date": "2026-08-24T15:52:33+00:00",
-      "age_hours": 0.7566255541666667,
+      "age_hours": 1.6512305533333334,
       "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "United Completes Phase One Expansion of Pilot Training Facility",
       "link": "https://milehighcre.com/united-completes-phase-one-expansion-of-pilot-training-facility/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-24T14:39:10+00:00",
-      "age_hours": 1.9789699005555557,
+      "age_hours": 2.8740905325,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Stella Lefty announces 2027 headline tour with Colorado stop",
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/stella-lefty-headline-tour/73-06b43a7a-f2ac-4d2b-8034-db156a5f7978",
       "source": "9News",
       "pub_date": "2026-08-24T14:30:40+00:00",
-      "age_hours": 2.121347821666667,
+      "age_hours": 3.015952822777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Education has helped steer Brackens\u2019 path",
       "link": "https://bizwest.com/2026/08/24/education-has-helped-steer-brackens-path/",
       "source": "BizWest",
       "pub_date": "2026-08-24T13:47:34+00:00",
-      "age_hours": 2.838643405277778,
+      "age_hours": 3.7338392594444443,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "United CEO grounds rumors of Denver headquarters move",
       "link": "https://www.9news.com/article/travel/denver-international-airport/united-airlines-rumors-denver-headquarters-move/73-f2b8717d-d283-43ab-a75c-6f69596f0b5d",
       "source": "9News",
       "pub_date": "2026-08-24T13:28:30+00:00",
-      "age_hours": 3.1574589502777775,
+      "age_hours": 4.052063951666667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "USPS unveils Christmas Cookie Forever stamps",
       "link": "https://www.9news.com/article/life/holidays/christmas/usps-christmas-cookie-forever-stamps/73-a8fbe11a-bafc-4cd9-a8b2-eb44f0c4c6a8",
       "source": "9News",
       "pub_date": "2026-08-24T13:13:26+00:00",
-      "age_hours": 3.4085700827777776,
+      "age_hours": 4.303175076666666,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Proposal to limit \u2018socioeconomic impact\u2019 business density returns to Aurora City Council",
       "link": "https://sentinelcolorado.com/metro/proposal-to-limit-socioeconomic-impact-business-density-returns-to-aurora-city-council/",
       "source": "Sentinel",
       "pub_date": "2026-08-24T12:53:07+00:00",
-      "age_hours": 3.747886277777778,
+      "age_hours": 4.64236364111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Northern Colorado pizza restaurant makes national rankings",
       "link": "https://www.9news.com/article/life/style/colorado-guide/postcard-pizza-restaurant-rankings/73-980a8f09-a367-44f2-9347-b7d60ee1e7e8",
       "source": "9News",
       "pub_date": "2026-08-24T12:51:16+00:00",
-      "age_hours": 3.778014575,
+      "age_hours": 4.672619560555556,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Boulder eatery lands on Bon App\u00e9tit\u2019s list of best new restaurants",
       "link": "https://www.westword.com/food-drink/bon-appetit-best-new-restaurats-2026-casa-juani-40926836/",
       "source": "Westword",
       "pub_date": "2026-08-24T10:11:49-06:00",
-      "age_hours": 0.43604014750000003,
+      "age_hours": 1.3304983852777779,
       "breaking": true,
-      "time_ago": "26 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Nothing in Tina Peters\u2019 parole stops her from working in elections again",
       "link": "https://coloradosun.com/2026/08/24/nothing-in-tina-peters-parole-stops-her-from-working-in-elections-again/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-24T10:01:00+00:00",
-      "age_hours": 6.615174415833333,
+      "age_hours": 7.510237074722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Spyder Moving and Storage builds business on word of mouth",
       "link": "https://www.westword.com/sponsored/spyder-moving-and-storage-builds-business-on-word-of-mouth-40924526/",
       "source": "Westword",
       "pub_date": "2026-08-24T09:18:15-06:00",
-      "age_hours": 1.328818062222222,
+      "age_hours": 2.223276276388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Colorado measure redirects sales tax revenue from sporting goods, equipment to conservation programs",
       "link": "https://www.coloradopolitics.com/2026/08/23/colorado-measure-redirects-sales-tax-revenue-from-sporting-goods-equipment-to-conservation-programs/",
       "source": "CO Politics",
       "pub_date": "2026-08-23T21:32:22+00:00",
-      "age_hours": 19.093653701111112,
+      "age_hours": 19.988172597222224,
       "breaking": false,
       "time_ago": "19 hrs ago"
     },
@@ -126,16 +153,16 @@
       "link": "https://kdvr.com/news/local/bear-in-denver-falls-out-of-tree-after-being-tranquilized-by-cpw-police/",
       "source": "Fox31",
       "pub_date": "2026-08-23T18:57:17+00:00",
-      "age_hours": 21.678017534722223,
+      "age_hours": 22.57251588722222,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Execs say work needed to keep tech startups in Colorado",
       "link": "https://bizwest.com/2026/08/23/execs-say-work-needed-to-keep-tech-startups-in-colorado/",
       "source": "BizWest",
       "pub_date": "2026-08-23T15:20:57+00:00",
-      "age_hours": 25.2822555275,
+      "age_hours": 26.177450405000002,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/23/taxpayers-donate-to-tax-increase-campaign-jon-caldara/",
       "source": "CO Politics",
       "pub_date": "2026-08-23T11:00:00+00:00",
-      "age_hours": 29.63309817722222,
+      "age_hours": 30.52761707222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/22/aurora-lawmakers-to-discuss-first-of-new-data-center-regulations/",
       "source": "CO Politics",
       "pub_date": "2026-08-22T12:23:00+00:00",
-      "age_hours": 52.24976485222222,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Every opening and closing this week:\u00a0Temaki Den chef opens po\u2019 boy pop-up",
-      "link": "https://www.westword.com/food-drink/denver-restaurant-openings-closings-po-boy-chili-verde-40925145/",
-      "source": "Westword",
-      "pub_date": "2026-08-22T08:14:30-06:00",
-      "age_hours": 50.391318105277776,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "E-bike battery explosion leaves home destroyed, cat dies in fire",
-      "link": "https://kdvr.com/news/local/e-bike-battery-explosion-leaves-home-destroyed-cat-dies-in-fire/",
-      "source": "Fox31",
-      "pub_date": "2026-08-22T04:02:54+00:00",
-      "age_hours": 60.584406512222216,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Listen: Everything we saw at DIA\u2019s wild \u2018plane crash\u2019 simulation",
-      "link": "https://www.cpr.org/2026/08/21/listen-dias-plane-crash-simulation/",
-      "source": "CPR",
-      "pub_date": "2026-08-22T01:31:12+00:00",
-      "age_hours": 63.11202441861111,
+      "age_hours": 53.1442837475,
       "breaking": false,
       "time_ago": "2 days ago"
     }
