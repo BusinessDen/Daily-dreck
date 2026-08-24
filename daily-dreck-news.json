@@ -1,69 +1,69 @@
 {
   "fetched_date": "2026-08-24",
-  "fetched_at": "2026-08-24 07:00:05",
+  "fetched_at": "2026-08-24 08:01:43",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 1,
   "articles": [
     {
       "title": "Bear found in Denver neighborhood",
       "link": "https://www.9news.com/article/life/animals/bear-platt-park-denver/73-ec264c2f-4c28-42d2-8fac-08d4259c85d8",
       "source": "9News",
       "pub_date": "2026-08-24T03:36:36+00:00",
-      "age_hours": 3.38747093,
+      "age_hours": 4.414463991666667,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Community group looks to bring grocery store to Montbello food desert",
       "link": "https://www.9news.com/article/news/local/community-group-looks-to-bring-grocery-store-montbello-food-desert/73-96fa8333-2c29-4d00-9b37-9ae12bf58b43",
       "source": "9News",
       "pub_date": "2026-08-24T01:27:16+00:00",
-      "age_hours": 5.543026543055555,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.5700196024999995,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado measure redirects sales tax revenue from sporting goods, equipment to conservation programs",
       "link": "https://www.coloradopolitics.com/2026/08/23/colorado-measure-redirects-sales-tax-revenue-from-sporting-goods-equipment-to-conservation-programs/",
       "source": "CO Politics",
       "pub_date": "2026-08-23T21:32:22+00:00",
-      "age_hours": 9.458433865555556,
+      "age_hours": 10.485385807222222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Bear in Denver falls out of tree after being tranquilized by CPW, police",
       "link": "https://kdvr.com/news/local/bear-in-denver-falls-out-of-tree-after-being-tranquilized-by-cpw-police/",
       "source": "Fox31",
       "pub_date": "2026-08-23T18:57:17+00:00",
-      "age_hours": 12.042978701388888,
+      "age_hours": 13.069955734166667,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Execs say work needed to keep tech startups in Colorado",
       "link": "https://bizwest.com/2026/08/23/execs-say-work-needed-to-keep-tech-startups-in-colorado/",
       "source": "BizWest",
       "pub_date": "2026-08-23T15:20:57+00:00",
-      "age_hours": 15.647767720277779,
+      "age_hours": 16.67493168472222,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Taxpayers donate to tax increase campaign | Jon Caldara",
       "link": "https://www.coloradopolitics.com/2026/08/23/taxpayers-donate-to-tax-increase-campaign-jon-caldara/",
       "source": "CO Politics",
       "pub_date": "2026-08-23T11:00:00+00:00",
-      "age_hours": 19.997878328611108,
+      "age_hours": 21.024830266666665,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 8.22.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-8-22-26/",
       "source": "Sentinel",
       "pub_date": "2026-08-23T05:15:36+00:00",
-      "age_hours": 25.737886763055556,
+      "age_hours": 26.764849996388886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://sentinelcolorado.com/nation-world/world/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/",
       "source": "Sentinel",
       "pub_date": "2026-08-23T04:07:49+00:00",
-      "age_hours": 26.86760932583333,
+      "age_hours": 27.8945725725,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://www.9news.com/article/news/nation-world/what-to-know-about-trump-tariffs-on-canadian-goods/507-0ac83428-99c9-4c77-b0d1-223d0cd549bf",
       "source": "9News",
       "pub_date": "2026-08-22T22:56:21+00:00",
-      "age_hours": 32.058304433055554,
+      "age_hours": 33.085297502222225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://www.9news.com/article/news/nation-world/homebuyer-settlement-remax-keller-williams/507-a4b41d0f-df5e-4777-8c83-d79c0b87693b",
       "source": "9News",
       "pub_date": "2026-08-22T19:38:30+00:00",
-      "age_hours": 35.355804451944444,
+      "age_hours": 36.38279752138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://www.9news.com/article/entertainment/music/colorado-music/noah-kahan-coors-field-accessible-seating-frustration/73-801bbeab-affd-4abb-9ea1-93891e072774",
       "source": "9News",
       "pub_date": "2026-08-22T13:28:39+00:00",
-      "age_hours": 41.51997114444444,
+      "age_hours": 42.54696421333333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://coloradosun.com/2026/08/22/colorado-job-growth-hiring-alternatives/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-22T10:00:00+00:00",
-      "age_hours": 44.99731174972222,
+      "age_hours": 46.024336823333336,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-closings-po-boy-chili-verde-40925145/",
       "source": "Westword",
       "pub_date": "2026-08-22T08:14:30-06:00",
-      "age_hours": 40.75616907805555,
+      "age_hours": 41.78309369055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://kdvr.com/news/local/e-bike-battery-explosion-leaves-home-destroyed-cat-dies-in-fire/",
       "source": "Fox31",
       "pub_date": "2026-08-22T04:02:54+00:00",
-      "age_hours": 50.94936767388889,
+      "age_hours": 51.97634471777778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://www.cpr.org/2026/08/21/listen-dias-plane-crash-simulation/",
       "source": "CPR",
       "pub_date": "2026-08-22T01:31:12+00:00",
-      "age_hours": 53.477455195833336,
+      "age_hours": 54.50441304305556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://denverite.com/2026/08/21/16th-street-mall-project-millions-over-budget/",
       "source": "Denverite",
       "pub_date": "2026-08-21T22:36:29+00:00",
-      "age_hours": 56.389331267500005,
+      "age_hours": 57.416317666666664,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/08/21/environment-group-sues-over-plan-to-shutter-ncar/",
       "source": "BizWest",
       "pub_date": "2026-08-21T20:53:26+00:00",
-      "age_hours": 58.10637935972222,
+      "age_hours": 59.13354333916667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://sentinelcolorado.com/metro/new-aurora-data-center-regulations-up-for-discussion-this-monday/",
       "source": "Sentinel",
       "pub_date": "2026-08-21T20:33:39+00:00",
-      "age_hours": 58.43705413611111,
+      "age_hours": 59.46401739444445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/08/21/colorado-jobless-rate-flat-in-july/",
       "source": "BizWest",
       "pub_date": "2026-08-21T19:42:21+00:00",
-      "age_hours": 59.291101616944445,
+      "age_hours": 60.31826559527778,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/21/proposal-to-cap-colorado-income-tax-rate-qualifies-for-november-ballot/",
       "source": "CO Politics",
       "pub_date": "2026-08-21T19:24:56+00:00",
-      "age_hours": 59.58232283444445,
+      "age_hours": 60.60927476472222,
       "breaking": false,
       "time_ago": "2 days ago"
     }
