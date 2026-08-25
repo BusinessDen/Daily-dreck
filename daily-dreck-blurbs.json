@@ -1,20 +1,20 @@
 {
-  "generated_date": "2026-08-24",
-  "lead_headline": "No new restaurant leads detected over weekend \u2014 tracking system enters third consecutive day of zero new data signals",
+  "generated_date": "2026-08-25",
+  "lead_headline": "Restaurant tracker flags two new leads Monday \u2014 Sabores De La Preferida (Park Hill) and Peach & Jack's Bar (Capitol Hill) \u2014 as system resumes after weekend silence",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads since Friday</strong> \u2014 tracking system silent through weekend window. <strong>3 leads detected this week</strong> include Hearth Patisserie (Highlands Square), Little India Downtown (fire closure downtown).",
+      "blurb": "<strong>2 new leads Monday</strong> \u2014 Sabores De La Preferida (Park Hill gas station counter) and Peach & Jack's Bar & Grill (Capitol Hill, former Pearl lesbian bar space). System resumes post-weekend.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "0",
+        "value1": "+2",
         "label2": "closed",
         "value2": "0",
-        "period": "since Friday"
+        "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "175",
+        "value1": "176",
         "label2": "closed",
         "value2": "169",
         "period": "all leads"
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "66",
+        "value1": "69",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications Sunday</strong> as weekend filing freeze continues. Four license downgrades today: Black Pearl Restaurant (S Pearl), The Plimoth (E 28th Ave), La Finca Colombiana (E Colfax), and Chiili's (Central Park) all shift to delinquent status. <strong>3 applications this week</strong> \u2014 matching prior week's post-backlog baseline as liquor board settles into sustained low-volume administrative cadence.",
+      "blurb": "<strong>Zero new applications Monday</strong> as filing freeze persists into fourth consecutive business day. No status changes, no removals \u2014 administrative machinery entirely idle. <strong>3 applications this week</strong> remain steady at prior week's baseline, confirming sustained post-backlog plateau as liquor board maintains low-volume operational rhythm with no signals of reacceleration.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -59,7 +59,7 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Sunday</strong> extends BusinessDen citation blackout to <strong>19 consecutive days</strong> \u2014 nearly three full weeks without single media pickup. All-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 29 mentions (down from 40 Saturday as more July data rolls off). <strong>19-day void</strong> now longest gap in multi-year tracking history \u2014 either syndication infrastructure collapsed, monitoring feeds severed, or industry citation patterns fundamentally shifted with zero recovery signals.",
+      "blurb": "<strong>Zero mentions Monday</strong> pushes BusinessDen citation blackout to <strong>20 consecutive days</strong> \u2014 full three weeks without single media pickup. All-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 23 mentions (down from 29 Sunday as more July data ages out). <strong>Twenty-day void</strong> now exceeds all prior gaps in tracking history \u2014 monitoring feeds appear severed or industry citation infrastructure fundamentally broken with zero recovery trajectory.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +6 since Friday</strong> (8 new, 2 canceled) advances MTD to <strong>+22</strong> (+1.0/day), 90-day net at <strong>+88</strong>. Past 7 days: <strong>+37 net</strong> (49 new, 12 canceled) vs. prior week's +13 \u2014 twenty-four-subscriber gain reflects strengthening weekend acquisition as churn drops 40% week-over-week (12 vs. 21 cancels). Two-week trajectory shows accelerating momentum: Week 1 crawled to +13 on modest intake, Week 2 nearly triples output to +37 as new subscriber pace climbs 44% while retention tightens. August shakes off early-month stall as YTD baseline (+239, +1.0/day) confirms stable long-term trend beneath strengthening weekly performance.",
+      "blurb": "<strong>Net +9 yesterday</strong> (11 new, 2 canceled) lifts MTD to <strong>+31</strong> (+1.3/day), 90-day net at <strong>+93</strong>. Past 7 days: <strong>+34 net</strong> (47 new, 13 canceled) vs. prior week's +25 \u2014 nine-subscriber gain reflects steadier acquisition momentum as Sunday's strong close (+6 net) extends weekend strength into Monday. Two-week pattern shows consistent improvement: Week 1 posted +25 baseline, Week 2 climbs to +34 as new subscriber intake rises 18% (47 vs. 40) while churn holds steady. August maintains recovery trajectory as YTD baseline (+248, +1.1/day) confirms long-term stability beneath accelerating weekly performance.",
       "meta": "Updated today \u00b7 5:15 AM",
-      "net_mtd": "22",
-      "net_ytd": "239",
-      "net_mtd_per_day": "1.0",
-      "net_ytd_per_day": "1.0",
-      "annual_mtd": "0",
-      "annual_ytd": "0",
-      "monthly_mtd": "0",
-      "monthly_ytd": "0"
+      "net_mtd": "31",
+      "net_ytd": "248",
+      "net_mtd_per_day": "1.3",
+      "net_ytd_per_day": "1.1",
+      "annual_mtd": "25",
+      "annual_ytd": "198",
+      "monthly_mtd": "6",
+      "monthly_ytd": "50"
     }
   }
 }
