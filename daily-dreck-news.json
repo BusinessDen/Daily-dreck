@@ -1,132 +1,141 @@
 {
   "fetched_date": "2026-08-25",
-  "fetched_at": "2026-08-25 21:29:08",
+  "fetched_at": "2026-08-25 22:28:25",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Canada targets US goods as trade war escalates. Here are the products that could impact American consumers.",
+      "link": "https://www.9news.com/article/news/nation-world/us-canada-trade-war-american-goods-tariffs/507-ece23780-5c0b-4c19-bac7-c84a504661d7",
+      "source": "9News",
+      "pub_date": "2026-08-25T22:23:14+00:00",
+      "age_hours": 0.08163982472222223,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "Berthoud\u2019s Ursa Major going public in $1.6B SPAC deal",
+      "link": "https://bizwest.com/2026/08/25/berthouds-ursa-major-going-public-in-1-6b-spac-deal/",
+      "source": "BizWest",
+      "pub_date": "2026-08-25T21:54:19+00:00",
+      "age_hours": 0.5628120616666666,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
     {
       "title": "Boulder Longevity Institute buys building for $7.25M",
       "link": "https://bizwest.com/2026/08/25/boulder-longevity-institute-buys-building-for-7-25m/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:13:28+00:00",
-      "age_hours": 0.25546864611111114,
+      "age_hours": 1.24364574,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Boulder\u2019s Casa Juani named one of Bon App\u00e9tit\u2019s best new eateries",
       "link": "https://bizwest.com/2026/08/25/boulders-casa-juani-named-one-of-bon-appetits-best-new-eateries/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:10:18+00:00",
-      "age_hours": 0.30824692666666664,
+      "age_hours": 1.29642354,
       "breaking": true,
-      "time_ago": "18 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Tayer: Election season: Please pay attention",
       "link": "https://bizwest.com/2026/08/25/tayer-election-season-please-pay-attention/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:08:15+00:00",
-      "age_hours": 0.3424136366666667,
+      "age_hours": 1.33059023,
       "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "New Mexico, Albuquerque chip in for Quantinuum expansion",
       "link": "https://bizwest.com/2026/08/25/new-mexico-albuquerque-chip-in-for-quantinuum-expansion/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:06:13+00:00",
-      "age_hours": 0.37630253277777775,
+      "age_hours": 1.3644791233333333,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Colorado colleges review federal inquiry into campus policies \u2018to build trust\u2019",
       "link": "https://sentinelcolorado.com/metro/colorado-colleges-review-federal-inquiry-into-campus-policies-to-build-trust/",
       "source": "Sentinel",
       "pub_date": "2026-08-25T20:55:23+00:00",
-      "age_hours": 0.5587811575,
+      "age_hours": 1.5465904630555554,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Aurora moves forward with data center regulations",
       "link": "https://www.coloradopolitics.com/2026/08/25/aurora-moves-forward-with-data-center-regulations/",
       "source": "CO Politics",
       "pub_date": "2026-08-25T20:15:17+00:00",
-      "age_hours": 1.2269964997222222,
+      "age_hours": 2.214868046388889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Aurora City Council considers stricter food truck regulations",
       "link": "https://www.coloradopolitics.com/2026/08/25/aurora-city-council-considers-stricter-food-truck-regulations/",
       "source": "CO Politics",
       "pub_date": "2026-08-25T19:49:06+00:00",
-      "age_hours": 1.6633853994444445,
+      "age_hours": 2.651256943888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "FDA approves blood test to help detect Alzheimer\u2019s disease in people 55 and older",
       "link": "https://www.9news.com/article/news/nation-world/fda-approves-blood-test-alzheimers-disease/507-76d96e20-768e-4a16-8d1b-c7d575dde848",
       "source": "9News",
       "pub_date": "2026-08-25T19:42:18+00:00",
-      "age_hours": 1.7755517536111112,
+      "age_hours": 2.7638621225000004,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver Water to consider lawn watering ban starting in October",
       "link": "https://kdvr.com/news/local/denver-water-to-consider-lawn-watering-ban-starting-in-october/",
       "source": "Fox31",
       "pub_date": "2026-08-25T18:15:20+00:00",
-      "age_hours": 3.225276075,
+      "age_hours": 4.213590106944444,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Disney releases Broncos, NFL apparel collaboration",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
       "source": "9News",
       "pub_date": "2026-08-25T15:47:47+00:00",
-      "age_hours": 5.684162925833333,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 6.672473268055556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "United to add nonstop flight from Denver to Paris in major expansion",
       "link": "https://kdvr.com/news/local/united-to-add-nonstop-flight-from-denver-to-paris-in-major-expansion/",
       "source": "Fox31",
       "pub_date": "2026-08-25T14:33:21+00:00",
-      "age_hours": 6.924998431944444,
+      "age_hours": 7.913312421944444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado Construction Employment Rises 3% Year Over Year",
       "link": "https://milehighcre.com/colorado-construction-employment-rises-3-year-over-year/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-25T14:20:53+00:00",
-      "age_hours": 7.13216152861111,
+      "age_hours": 8.12033636111111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Sterling Ranch\u2019s First Douglas County Elementary School Tops Out",
       "link": "https://milehighcre.com/sterling-ranchs-first-douglas-county-elementary-school-tops-out/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-25T13:37:00+00:00",
-      "age_hours": 7.863550437222222,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "President Trump floats renaming Lake Ontario as 'Lake America' as trade war with Canada escalates",
-      "link": "https://www.9news.com/article/news/nation-world/lake-america-ontario-united-states-canada/507-671edcc5-5d13-45c5-ad41-ad995c0e7331",
-      "source": "9News",
-      "pub_date": "2026-08-25T12:31:12+00:00",
-      "age_hours": 8.960551868888889,
+      "age_hours": 8.851725266666667,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
@@ -135,54 +144,45 @@
       "link": "https://www.cpr.org/2026/08/25/denver-chef-penelope-wong-yuan-wonton-james-beard-award/",
       "source": "CPR",
       "pub_date": "2026-08-25T10:00:00+00:00",
-      "age_hours": 11.480465441388889,
+      "age_hours": 12.468778854722222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Are you a Colorado high school student wanting to report, edit or take photos? Apply to our workshop.",
       "link": "https://coloradosun.com/2026/08/25/high-school-students-rise-and-shine-journalism-workshop/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-25T09:56:00+00:00",
-      "age_hours": 11.546955687222223,
+      "age_hours": 12.535240584444445,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Colorado is eager for Sundance. But how much has it done for indie films?",
       "link": "https://coloradosun.com/2026/08/25/colorado-is-eager-for-sundance-but-how-much-has-it-done-for-indie-films/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-25T09:55:00+00:00",
-      "age_hours": 11.563623018333335,
+      "age_hours": 12.551907696944443,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Zoned in, funded out: Denver\u2019s ADU dream faces budget wall",
       "link": "https://www.westword.com/news/denver-adu-housing-program-faces-budget-wall-40925027/",
       "source": "Westword",
       "pub_date": "2026-08-25T06:43:31-06:00",
-      "age_hours": 8.755695343333333,
+      "age_hours": 9.744140674444445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Historic Denver Turnverein dance hall seeks community help to stay open after fire",
       "link": "https://kdvr.com/news/local/historic-denver-turnverein-dance-hall-seeks-community-help-to-stay-open-after-fire/",
       "source": "Fox31",
       "pub_date": "2026-08-25T03:45:52+00:00",
-      "age_hours": 17.716387408055557,
+      "age_hours": 18.70470136388889,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "I-70 to close in Wheat Ridge for several weekends soon: What to know",
-      "link": "https://kdvr.com/news/local/i-70-to-close-in-wheat-ridge-for-several-weekends-soon-what-to-know/",
-      "source": "Fox31",
-      "pub_date": "2026-08-24T23:59:20+00:00",
-      "age_hours": 21.49194292166667,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
