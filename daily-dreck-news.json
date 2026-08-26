@@ -1,24 +1,42 @@
 {
   "fetched_date": "2026-08-26",
-  "fetched_at": "2026-08-26 19:04:12",
+  "fetched_at": "2026-08-26 22:49:33",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 20,
   "articles": [
     {
-      "title": "From cranky politicians to Mile High highs and lows, Westword founder Patty Calhoun takes on 50 years of Denver history",
-      "link": "https://www.cpr.org/2026/08/26/westword-founder-patty-calhoun-50-years-of-denver-history/",
-      "source": "CPR",
-      "pub_date": "2026-08-26T18:22:55+00:00",
-      "age_hours": 0.683240166111111,
+      "title": "Colorado ranchers urge President Trump to reconsider beef tariff plan",
+      "link": "https://www.9news.com/article/news/local/colorado-ranchers-trump-beef-imports/73-1f99cda1-b709-4ad4-b60b-4a83d3e69a4f",
+      "source": "9News",
+      "pub_date": "2026-08-26T22:46:12+00:00",
+      "age_hours": 0.05191653555555556,
       "breaking": true,
-      "time_ago": "40 min ago"
+      "time_ago": "3 min ago"
     },
     {
-      "title": "Denver Water board votes to end lawn watering season in October",
-      "link": "https://denverite.com/2026/08/26/denver-water-board-votes-to-end-lawn-watering-season-in-october/",
-      "source": "Denverite",
-      "pub_date": "2026-08-26T17:14:08+00:00",
-      "age_hours": 1.8295387977777777,
+      "title": "El Paso County Commissioners set to hear Buc-ee\u2019s zoning appeal",
+      "link": "https://www.cpr.org/2026/08/26/el-paso-county-commissioners-to-rule-on-buc-ees-zoning-appeal/",
+      "source": "CPR",
+      "pub_date": "2026-08-26T22:29:10+00:00",
+      "age_hours": 0.33575878333333337,
+      "breaking": true,
+      "time_ago": "20 min ago"
+    },
+    {
+      "title": "Polis pardons 29 people in 2nd round of clemency this year",
+      "link": "https://coloradosun.com/2026/08/26/polis-pardons-29-in-another-round-of-clemency-this-year/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-26T21:59:53+00:00",
+      "age_hours": 0.8236383569444444,
+      "breaking": true,
+      "time_ago": "49 min ago"
+    },
+    {
+      "title": "'Prolific shoplifters' sought by Aurora police, responsible for over 100 incidents",
+      "link": "https://kdvr.com/news/local/prolific-shoplifters-sought-by-aurora-police-responsible-for-over-100-incidents/",
+      "source": "Fox31",
+      "pub_date": "2026-08-26T21:47:23+00:00",
+      "age_hours": 1.0323867483333333,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -26,163 +44,145 @@
       "title": "Denver Water bans lawn watering after September",
       "link": "https://www.9news.com/article/life/style/colorado-guide/denver-water-ending-lawn-watering/73-eed4d9c4-7893-49de-8ef4-04dda19b4785",
       "source": "9News",
-      "pub_date": "2026-08-26T16:52:43+00:00",
-      "age_hours": 2.18661724,
+      "pub_date": "2026-08-26T21:46:46+00:00",
+      "age_hours": 1.0424721683333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Voters will decide whether to require people to verify their identity on Colorado ballots with social security, driver\u2019s license numbers",
+      "link": "https://coloradosun.com/2026/08/26/mail-ballot-id-colorado-initiative/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-26T21:17:05+00:00",
+      "age_hours": 1.5369724008333332,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Dan Haley on the role of oil and gas in Colorado\u2019s energy future | The OpEdge Podcast",
+      "link": "https://www.coloradopolitics.com/2026/08/26/dan-haley-on-the-role-of-oil-and-gas-in-colorados-energy-future-the-opedge-podcast/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-26T21:13:01+00:00",
+      "age_hours": 1.6053455186111112,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "AI adoption in Boulder Valley, Northern Colorado among state\u2019s highest",
+      "link": "https://bizwest.com/2026/08/26/ai-adoption-in-boulder-valley-northern-colorado-among-states-highest/",
+      "source": "BizWest",
+      "pub_date": "2026-08-26T21:09:38+00:00",
+      "age_hours": 1.6606545344444446,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Dance pros and their celebrity partners give it their all at 16th Dancing with the Denver Stars\u00a0|\u00a0NONPROFIT REGISTER",
+      "link": "https://www.coloradopolitics.com/2026/08/26/dance-pros-and-their-celebrity-partners-give-it-their-all-at-16th-dancing-with-the-denver-stars-nonprofit-register/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-26T21:08:25+00:00",
+      "age_hours": 1.6820122,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Bankruptcy judge demands Future Legends owner hire an attorney or risk dismissal",
+      "link": "https://bizwest.com/2026/08/26/bankruptcy-judge-demands-future-legends-owner-hire-an-attorney-or-risk-dismissal/",
+      "source": "BizWest",
+      "pub_date": "2026-08-26T21:07:49+00:00",
+      "age_hours": 1.6909328241666668,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Former Denver restaurant owner sentenced in Chicago for COVID-relief fraud",
+      "link": "https://kdvr.com/news/local/former-denver-restaurant-owner-sentenced-in-chicago-for-covid-relief-fraud/",
+      "source": "Fox31",
+      "pub_date": "2026-08-26T21:04:52+00:00",
+      "age_hours": 1.7409978430555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Greeley won\u2019t ask voters to OK sales tax hike to tackle Catalyst debt this year",
+      "link": "https://bizwest.com/2026/08/26/greeley-wont-ask-voters-to-ok-sales-tax-hike-to-tackle-catalyst-debt-this-year/",
+      "source": "BizWest",
+      "pub_date": "2026-08-26T21:04:05+00:00",
+      "age_hours": 1.7531550555555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "The Vesper on Tennyson Apartments Now Leasing",
+      "link": "https://milehighcre.com/the-vesper-on-tennyson-apartments-now-leasing/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-08-26T21:03:11+00:00",
+      "age_hours": 1.7685628116666667,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Aurora police warn of 5 suspects investigators say are behind $60,000 in shoplifting thefts",
+      "link": "https://sentinelcolorado.com/metro/aurora-police-warn-of-5-suspects-investigators-say-are-behind-60000-in-shoplifting-thefts/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-26T21:02:31+00:00",
+      "age_hours": 1.7803827997222221,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Aurora Pride plans big annual festival at Winged Melody Park this Saturday",
+      "link": "https://sentinelcolorado.com/metro/aurora-pride-plans-big-annual-festival-at-winged-melody-park-this-saturday/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-26T20:20:37+00:00",
+      "age_hours": 2.4787164727777777,
       "breaking": true,
       "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver Water approves Oct. 1 ban on lawn watering, threatening fines",
+      "link": "https://coloradosun.com/2026/08/26/denver-water-approves-oct-1-ban-on-lawn-watering/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-26T19:44:40+00:00",
+      "age_hours": 3.077250847777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Trump says the US doesn\u2019t need Canada. America\u2019s economy says otherwise.",
+      "link": "https://www.coloradopolitics.com/2026/08/26/trump-says-the-us-doesnt-need-canada-americas-economy-says-otherwise/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-26T19:39:20+00:00",
+      "age_hours": 3.1667345525,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "From cranky politicians to Mile High highs and lows, Westword founder Patty Calhoun takes on 50 years of Denver history",
+      "link": "https://www.cpr.org/2026/08/26/westword-founder-patty-calhoun-50-years-of-denver-history/",
+      "source": "CPR",
+      "pub_date": "2026-08-26T18:22:55+00:00",
+      "age_hours": 4.439925511388889,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Denver Water board votes to end lawn watering season in October",
+      "link": "https://denverite.com/2026/08/26/denver-water-board-votes-to-end-lawn-watering-season-in-october/",
+      "source": "Denverite",
+      "pub_date": "2026-08-26T17:14:08+00:00",
+      "age_hours": 5.586200284444445,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Montrose\u2019s Cornerstone Club Announces Expansion and Golf Course Renovation",
       "link": "https://milehighcre.com/montroses-cornerstone-club-announces-expansion-and-golf-course-renovation/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-26T16:52:36+00:00",
-      "age_hours": 2.1882267325,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Colorado due nearly $615M in Meta\u2019s $17B+ social media addiction settlement",
-      "link": "https://bizwest.com/2026/08/26/colorado-due-nearly-615m-in-metas-17b-social-media-addiction-settlement/",
-      "source": "BizWest",
-      "pub_date": "2026-08-26T16:52:07+00:00",
-      "age_hours": 2.196024030833333,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Wells: Pricing strategy is paramount",
-      "link": "https://bizwest.com/2026/08/26/wells-pricing-strategy-is-paramount/",
-      "source": "BizWest",
-      "pub_date": "2026-08-26T16:41:29+00:00",
-      "age_hours": 2.3732462697222223,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Windsor DDA chief Vance among BizWest Women of Distinction honorees",
-      "link": "https://bizwest.com/2026/08/26/windsor-dda-chief-vance-among-bizwest-women-of-distinction-honorees/",
-      "source": "BizWest",
-      "pub_date": "2026-08-26T15:20:29+00:00",
-      "age_hours": 3.7232468591666668,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Sales tax issue heads for Larimer ballot",
-      "link": "https://bizwest.com/2026/08/26/sales-tax-issue-heads-for-larimer-ballot/",
-      "source": "BizWest",
-      "pub_date": "2026-08-26T15:18:14+00:00",
-      "age_hours": 3.760746867777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Colorado will get nearly $615M as Meta reaches $17B settlement with states over teen social media addiction",
-      "link": "https://coloradosun.com/2026/08/26/colorado-meta-lawsuit-settlement/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-26T15:04:51+00:00",
-      "age_hours": 3.984127946388889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "United Airlines announces large international expansion with new Denver flight",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-paris-nonstop-flights-united-airlines/73-80e0cbbf-d77e-4e2b-8230-c60bddde8d1b",
-      "source": "9News",
-      "pub_date": "2026-08-26T14:12:42+00:00",
-      "age_hours": 4.8535617802777775,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Can third-party candidates gain traction in Colorado? Maybe not, but it\u2019s not stopping them from trying.",
-      "link": "https://coloradosun.com/2026/08/26/third-party-candidates-colorado-2026/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-26T13:16:40+00:00",
-      "age_hours": 5.787184103333334,
+      "age_hours": 5.9449517541666665,
       "breaking": true,
       "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "A popular snack brand is teaming up with a high-end chocolatier to make 3 new chocolate bars",
-      "link": "https://www.9news.com/article/news/nation-world/little-debbie-chocolate-bars/507-bcb4c57f-62f9-4ec6-bdc5-8b7ffd0c3035",
-      "source": "9News",
-      "pub_date": "2026-08-26T13:14:33+00:00",
-      "age_hours": 5.822728496666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "In a divided America, the left and right unite to oppose artificial intelligence data centers",
-      "link": "https://sentinelcolorado.com/nation-world/nation/in-a-divided-america-the-left-and-right-unite-to-oppose-artificial-intelligence-data-centers/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-26T13:01:01+00:00",
-      "age_hours": 6.048931253888889,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Renters in this western Colorado town were almost displaced. Here\u2019s how a public-private partnership kept them home.",
-      "link": "https://coloradosun.com/2026/08/26/affordable-housing-eagle-county-ulysses-development-group/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-26T10:20:00+00:00",
-      "age_hours": 8.731629408055555,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Westminster\u2019s Camp Bow Wow grows Texas franchise footprint",
-      "link": "https://bizwest.com/2026/08/25/westminsters-camp-bow-wow-grows-texas-franchise-footprint/",
-      "source": "BizWest",
-      "pub_date": "2026-08-26T00:33:08+00:00",
-      "age_hours": 18.51241354027778,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Berthoud\u2019s Ursa Major going public in $1.6B SPAC deal",
-      "link": "https://bizwest.com/2026/08/25/berthouds-ursa-major-going-public-in-1-6b-spac-deal/",
-      "source": "BizWest",
-      "pub_date": "2026-08-25T21:54:19+00:00",
-      "age_hours": 21.15935801361111,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Boulder Longevity Institute buys building for $7.25M",
-      "link": "https://bizwest.com/2026/08/25/boulder-longevity-institute-buys-building-for-7-25m/",
-      "source": "BizWest",
-      "pub_date": "2026-08-25T21:13:28+00:00",
-      "age_hours": 21.84019138361111,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Boulder\u2019s Casa Juani named one of Bon App\u00e9tit\u2019s best new eateries",
-      "link": "https://bizwest.com/2026/08/25/boulders-casa-juani-named-one-of-bon-appetits-best-new-eateries/",
-      "source": "BizWest",
-      "pub_date": "2026-08-25T21:10:18+00:00",
-      "age_hours": 21.89296919,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Tayer: Election season: Please pay attention",
-      "link": "https://bizwest.com/2026/08/25/tayer-election-season-please-pay-attention/",
-      "source": "BizWest",
-      "pub_date": "2026-08-25T21:08:15+00:00",
-      "age_hours": 21.927135892777777,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Aurora moves forward with data center regulations",
-      "link": "https://www.coloradopolitics.com/2026/08/25/aurora-moves-forward-with-data-center-regulations/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-25T20:15:17+00:00",
-      "age_hours": 22.81111801361111,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
     }
   ]
 }
