@@ -1,168 +1,177 @@
 {
   "fetched_date": "2026-08-26",
-  "fetched_at": "2026-08-26 14:45:17",
+  "fetched_at": "2026-08-26 16:18:05",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Windsor DDA chief Vance among BizWest Women of Distinction honorees",
+      "link": "https://bizwest.com/2026/08/26/windsor-dda-chief-vance-among-bizwest-women-of-distinction-honorees/",
+      "source": "BizWest",
+      "pub_date": "2026-08-26T15:20:29+00:00",
+      "age_hours": 0.9555077336111111,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
+    {
+      "title": "Sales tax issue heads for Larimer ballot",
+      "link": "https://bizwest.com/2026/08/26/sales-tax-issue-heads-for-larimer-ballot/",
+      "source": "BizWest",
+      "pub_date": "2026-08-26T15:18:14+00:00",
+      "age_hours": 0.9930077477777777,
+      "breaking": true,
+      "time_ago": "59 min ago"
+    },
+    {
+      "title": "Colorado will get nearly $615M as Meta reaches $17B settlement with states over teen social media addiction",
+      "link": "https://coloradosun.com/2026/08/26/colorado-meta-lawsuit-settlement/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-26T15:04:51+00:00",
+      "age_hours": 1.216434635277778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "United Airlines announces large international expansion with new Denver flight",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-paris-nonstop-flights-united-airlines/73-80e0cbbf-d77e-4e2b-8230-c60bddde8d1b",
       "source": "9News",
       "pub_date": "2026-08-26T14:12:42+00:00",
-      "age_hours": 0.5381472261111111,
+      "age_hours": 2.0858820905555557,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Can third-party candidates gain traction in Colorado? Maybe not, but it\u2019s not stopping them from trying.",
       "link": "https://coloradosun.com/2026/08/26/third-party-candidates-colorado-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-26T13:16:40+00:00",
-      "age_hours": 1.4718783202777779,
+      "age_hours": 3.0194907363888888,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "A popular snack brand is teaming up with a high-end chocolatier to make 3 new chocolate bars",
       "link": "https://www.9news.com/article/news/nation-world/little-debbie-chocolate-bars/507-bcb4c57f-62f9-4ec6-bdc5-8b7ffd0c3035",
       "source": "9News",
       "pub_date": "2026-08-26T13:14:33+00:00",
-      "age_hours": 1.5073139624999998,
+      "age_hours": 3.055048811111111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "In a divided America, the left and right unite to oppose artificial intelligence data centers",
       "link": "https://sentinelcolorado.com/nation-world/nation/in-a-divided-america-the-left-and-right-unite-to-oppose-artificial-intelligence-data-centers/",
       "source": "Sentinel",
       "pub_date": "2026-08-26T13:01:01+00:00",
-      "age_hours": 1.7334324605555556,
+      "age_hours": 3.281043325555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Renters in this western Colorado town were almost displaced. Here\u2019s how a public-private partnership kept them home.",
       "link": "https://coloradosun.com/2026/08/26/affordable-housing-eagle-county-ulysses-development-group/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-26T10:20:00+00:00",
-      "age_hours": 4.416323693333333,
+      "age_hours": 5.9639360252777776,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "For Denver's youngest readers, Dolly Parton's legacy lives on one book at a time",
       "link": "https://www.9news.com/article/life/people/for-denvers-youngest-readers-dolly-partons-legacy-lives-on-one-book-at-a-time/73-4ee5df1f-a49f-4786-84de-a7491d9cd493",
       "source": "9News",
       "pub_date": "2026-08-26T04:07:59+00:00",
-      "age_hours": 10.616758546111111,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "$29M construction project beginning on Santa Fe Drive",
-      "link": "https://www.9news.com/article/traffic/road-project-santa-fe-drive-construction/73-e4970eda-6ccc-45ca-b74e-8051d65a72e2",
-      "source": "9News",
-      "pub_date": "2026-08-26T02:37:08+00:00",
-      "age_hours": 12.130925270833332,
+      "age_hours": 12.164493383055555,
       "breaking": false,
       "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "'Nothing Is Easy': Westwood business owner shares struggles with mayor, UnidosUS",
-      "link": "https://www.9news.com/article/money/business/small-business/westwood-business-owner-shares-struggles-mayor/73-b1b75fa2-1375-40aa-83b5-0b57c56f0605",
-      "source": "9News",
-      "pub_date": "2026-08-26T01:20:47+00:00",
-      "age_hours": 13.403425290833333,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
     },
     {
       "title": "Westminster\u2019s Camp Bow Wow grows Texas franchise footprint",
       "link": "https://bizwest.com/2026/08/25/westminsters-camp-bow-wow-grows-texas-franchise-footprint/",
       "source": "BizWest",
       "pub_date": "2026-08-26T00:33:08+00:00",
-      "age_hours": 14.196503210555555,
+      "age_hours": 15.744674421666668,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Berthoud\u2019s Ursa Major going public in $1.6B SPAC deal",
       "link": "https://bizwest.com/2026/08/25/berthouds-ursa-major-going-public-in-1-6b-spac-deal/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:54:19+00:00",
-      "age_hours": 16.84344796722222,
+      "age_hours": 18.39161914027778,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Boulder Longevity Institute buys building for $7.25M",
       "link": "https://bizwest.com/2026/08/25/boulder-longevity-institute-buys-building-for-7-25m/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:13:28+00:00",
-      "age_hours": 17.524281609722223,
+      "age_hours": 19.072452738611112,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Boulder\u2019s Casa Juani named one of Bon App\u00e9tit\u2019s best new eateries",
       "link": "https://bizwest.com/2026/08/25/boulders-casa-juani-named-one-of-bon-appetits-best-new-eateries/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:10:18+00:00",
-      "age_hours": 17.577059419166666,
+      "age_hours": 19.125230546666668,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Tayer: Election season: Please pay attention",
       "link": "https://bizwest.com/2026/08/25/tayer-election-season-please-pay-attention/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:08:15+00:00",
-      "age_hours": 17.611226122777776,
+      "age_hours": 19.15939724777778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "New Mexico, Albuquerque chip in for Quantinuum expansion",
       "link": "https://bizwest.com/2026/08/25/new-mexico-albuquerque-chip-in-for-quantinuum-expansion/",
       "source": "BizWest",
       "pub_date": "2026-08-25T21:06:13+00:00",
-      "age_hours": 17.645115017777776,
+      "age_hours": 19.1932861425,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Aurora moves forward with data center regulations",
       "link": "https://www.coloradopolitics.com/2026/08/25/aurora-moves-forward-with-data-center-regulations/",
       "source": "CO Politics",
       "pub_date": "2026-08-25T20:15:17+00:00",
-      "age_hours": 18.495621601944443,
+      "age_hours": 20.043236034444444,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Aurora City Council considers stricter food truck regulations",
       "link": "https://www.coloradopolitics.com/2026/08/25/aurora-city-council-considers-stricter-food-truck-regulations/",
       "source": "CO Politics",
       "pub_date": "2026-08-25T19:49:06+00:00",
-      "age_hours": 18.932010501388888,
+      "age_hours": 20.47962493361111,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Denver Water to consider lawn watering ban starting in October",
       "link": "https://kdvr.com/news/local/denver-water-to-consider-lawn-watering-ban-starting-in-october/",
       "source": "Fox31",
       "pub_date": "2026-08-25T18:15:20+00:00",
-      "age_hours": 20.494535915833335,
+      "age_hours": 22.042181479722224,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "United to add nonstop flight from Denver to Paris in major expansion",
       "link": "https://kdvr.com/news/local/united-to-add-nonstop-flight-from-denver-to-paris-in-major-expansion/",
       "source": "Fox31",
       "pub_date": "2026-08-25T14:33:21+00:00",
-      "age_hours": 24.19425828388889,
+      "age_hours": 25.741903817222223,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://milehighcre.com/colorado-construction-employment-rises-3-year-over-year/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-25T14:20:53+00:00",
-      "age_hours": 24.400929984444442,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Sterling Ranch\u2019s First Douglas County Elementary School Tops Out",
-      "link": "https://milehighcre.com/sterling-ranchs-first-douglas-county-elementary-school-tops-out/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-25T13:37:00+00:00",
-      "age_hours": 25.132318893333334,
+      "age_hours": 25.949130065,
       "breaking": false,
       "time_ago": "1 day ago"
     }
