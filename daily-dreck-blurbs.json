@@ -1,22 +1,22 @@
 {
-  "generated_date": "2026-08-25",
-  "lead_headline": "Restaurant tracker flags two new leads Monday \u2014 Sabores De La Preferida (Park Hill) and Peach & Jack's Bar (Capitol Hill) \u2014 as system resumes after weekend silence",
+  "generated_date": "2026-08-26",
+  "lead_headline": "Restaurant tracker silent Tuesday \u2014 zero new leads detected as foreclosure filings hit 81 this week with $2.2M Kingston Street property topping value chart",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>2 new leads Monday</strong> \u2014 Sabores De La Preferida (Park Hill gas station counter) and Peach & Jack's Bar & Grill (Capitol Hill, former Pearl lesbian bar space). System resumes post-weekend.",
+      "blurb": "<strong>Zero new leads Tuesday</strong> \u2014 system idle for second time this month. Active pipeline holds at 347 leads (177 openings, 170 closures) pending verification.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
-        "value1": "+2",
+        "value1": "0",
         "label2": "closed",
         "value2": "0",
         "period": "today"
       },
       "ticker_weekly": {
         "label1": "opened",
-        "value1": "176",
+        "value1": "177",
         "label2": "closed",
-        "value2": "169",
+        "value2": "170",
         "period": "all leads"
       }
     },
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "69",
+        "value1": "81",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications Monday</strong> as filing freeze persists into fourth consecutive business day. No status changes, no removals \u2014 administrative machinery entirely idle. <strong>3 applications this week</strong> remain steady at prior week's baseline, confirming sustained post-backlog plateau as liquor board maintains low-volume operational rhythm with no signals of reacceleration.",
+      "blurb": "<strong>Zero new applications Tuesday</strong> \u2014 filing freeze extends to <strong>five consecutive business days</strong> without single submission. No status changes, no removals. <strong>1 application this week</strong> marks seven-day collapse from prior week's 7-app baseline as liquor board activity flatlines to near-zero operational cadence. Five-day void approaches record territory.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -53,13 +53,13 @@
       },
       "ticker_weekly": {
         "label1": "applications",
-        "value1": "3",
-        "class1": "",
+        "value1": "1",
+        "class1": "down",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Monday</strong> pushes BusinessDen citation blackout to <strong>20 consecutive days</strong> \u2014 full three weeks without single media pickup. All-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 23 mentions (down from 29 Sunday as more July data ages out). <strong>Twenty-day void</strong> now exceeds all prior gaps in tracking history \u2014 monitoring feeds appear severed or industry citation infrastructure fundamentally broken with zero recovery trajectory.",
+      "blurb": "<strong>Zero mentions Tuesday</strong> extends BusinessDen citation blackout to <strong>21 consecutive days</strong> \u2014 three full weeks without single media pickup. All-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 21 mentions (down from 23 Monday as more late-July data ages out). <strong>Twenty-one-day void</strong> now definitively exceeds all prior gaps in tracking history.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +9 yesterday</strong> (11 new, 2 canceled) lifts MTD to <strong>+31</strong> (+1.3/day), 90-day net at <strong>+93</strong>. Past 7 days: <strong>+34 net</strong> (47 new, 13 canceled) vs. prior week's +25 \u2014 nine-subscriber gain reflects steadier acquisition momentum as Sunday's strong close (+6 net) extends weekend strength into Monday. Two-week pattern shows consistent improvement: Week 1 posted +25 baseline, Week 2 climbs to +34 as new subscriber intake rises 18% (47 vs. 40) while churn holds steady. August maintains recovery trajectory as YTD baseline (+248, +1.1/day) confirms long-term stability beneath accelerating weekly performance.",
+      "blurb": "<strong>Net +0 yesterday</strong> (3 new, 3 canceled) holds MTD at <strong>+31</strong> (+1.2/day), 90-day net at <strong>+88</strong>. Past 7 days: <strong>+28 net</strong> (43 new, 15 canceled) vs. prior week's +31 \u2014 modest three-subscriber decline as weekend strength (Sunday's +6, Monday's +9) gives way to flat Tuesday. Two-week pattern shows late-week surges: Week 1 delivered +31 baseline, Week 2 currently tracking +28 despite stronger Sunday-Monday opens. August maintains recovery trajectory as YTD baseline (+248, +1.0/day) confirms structural stability beneath choppy daily volatility.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "31",
       "net_ytd": "248",
-      "net_mtd_per_day": "1.3",
-      "net_ytd_per_day": "1.1",
-      "annual_mtd": "25",
-      "annual_ytd": "198",
-      "monthly_mtd": "6",
-      "monthly_ytd": "50"
+      "net_mtd_per_day": "1.2",
+      "net_ytd_per_day": "1.0",
+      "annual_mtd": "0",
+      "annual_ytd": "0",
+      "monthly_mtd": "0",
+      "monthly_ytd": "0"
     }
   }
 }
