@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-08-27",
-  "fetched_at": "2026-08-27 16:10:31",
+  "fetched_date": "2026-08-28",
+  "fetched_at": "2026-08-28 01:19:12",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Family seeks help identifying driver in hit-and-run that left woman seriously hurt",
+      "link": "https://kdvr.com/news/local/family-seeks-help-identifying-driver-in-hit-and-run-that-left-woman-seriously-hurt/",
+      "source": "Fox31",
+      "pub_date": "2026-08-28T00:02:45+00:00",
+      "age_hours": 1.270238417222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Waymo hit in Denver crash",
+      "link": "https://www.9news.com/article/traffic/waymo-denver-crash/73-6db18f3c-926d-40e6-88dc-65e7da028940",
+      "source": "9News",
+      "pub_date": "2026-08-27T23:31:02+00:00",
+      "age_hours": 1.798472069722222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Erie Town Council reverses course on mineral rights sale, energy company pulls plug on deal",
+      "link": "https://www.9news.com/article/money/business/erie-town-council-mineral-rights/73-ec736b7b-fa17-4acd-96c9-79e69e239012",
+      "source": "9News",
+      "pub_date": "2026-08-27T23:28:33+00:00",
+      "age_hours": 1.8398610030555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado's connection to NASA's newest and most powerful space telescope",
+      "link": "https://www.denver7.com/news/local-news/colorados-connection-to-nasas-newest-and-most-powerful-space-telescope",
+      "source": "Denver7",
+      "pub_date": "2026-08-27T23:14:45+00:00",
+      "age_hours": 2.0700874069444444,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Statue stolen from Denver school overnight; photo shows suspected truck used in theft",
+      "link": "https://kdvr.com/news/local/statue-stolen-from-denver-school-overnight-photo-shows-suspected-truck-used-in-theft/",
+      "source": "Fox31",
+      "pub_date": "2026-08-27T22:07:22+00:00",
+      "age_hours": 3.1932940261111114,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "3 area cities rank high in national ratings",
+      "link": "https://bizwest.com/2026/08/27/3-area-cities-rank-high-in-national-ratings/",
+      "source": "BizWest",
+      "pub_date": "2026-08-27T21:07:13+00:00",
+      "age_hours": 4.194898373611111,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Infleqtion inks $20M NASA contract to put quantum gravity sensor in space",
+      "link": "https://bizwest.com/2026/08/27/infleqtion-inks-20m-nasa-contract-to-put-quantum-gravity-sensor-in-space/",
+      "source": "BizWest",
+      "pub_date": "2026-08-27T21:06:15+00:00",
+      "age_hours": 4.211010044722222,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Broomfield getting new wing joint",
+      "link": "https://bizwest.com/2026/08/27/broomfield-getting-new-wing-joint/",
+      "source": "BizWest",
+      "pub_date": "2026-08-27T21:05:25+00:00",
+      "age_hours": 4.2248989475,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Football: Aurora\u2019s 2026 Week 1 schedule",
+      "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-1-schedule/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-27T20:50:54+00:00",
+      "age_hours": 4.468044171666667,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Sable Altura Fire Rescue opens new Sage Ridge substation in Watkinds, expanding coverage",
+      "link": "https://sentinelcolorado.com/metro/sable-altura-fire-rescue-opens-new-sage-ridge-substation-in-watkinds-expanding-coverage/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-27T20:35:16+00:00",
+      "age_hours": 4.7286001169444445,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+      "link": "https://sentinelcolorado.com/uncategorized/regional-powers-seek-off-ramp-from-iran-war-and-other-middle-east-developments-2/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-27T20:30:03+00:00",
+      "age_hours": 4.815544885,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Business Hall of Fame scholarship to honor banker Puzio",
+      "link": "https://bizwest.com/2026/08/27/business-hall-of-fame-scholarship-to-honor-banker-puzio/",
+      "source": "BizWest",
+      "pub_date": "2026-08-27T19:57:19+00:00",
+      "age_hours": 5.359898978055556,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Robotic household device mirrors Bradbury\u2019s 1950s prediction",
+      "link": "https://bizwest.com/2026/08/27/robotic-household-device-mirrors-bradburys-1950s-prediction/",
+      "source": "BizWest",
+      "pub_date": "2026-08-27T19:46:23+00:00",
+      "age_hours": 5.5421212325,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Vail Resorts shareholder sues company, board over alleged price fixing",
+      "link": "https://bizwest.com/2026/08/27/vail-resorts-shareholder-sues-company-board-over-alleged-price-fixing/",
+      "source": "BizWest",
+      "pub_date": "2026-08-27T19:34:57+00:00",
+      "age_hours": 5.7326768225,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Dolly Parton\u2019s work will continue through a slate of projects for decades to come, her team says",
+      "link": "https://www.9news.com/article/news/entertainment-news/dolly-parton-upcoming-projects/507-5096f452-dd9a-4923-89f9-c27dc2eb981d",
+      "source": "9News",
+      "pub_date": "2026-08-27T18:31:32+00:00",
+      "age_hours": 6.790138888055555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Colorado road funding ballot measure will be pulled following deal reached with state lawmakers",
+      "link": "https://coloradosun.com/2026/08/27/road-funding-ballot-measure-pulled-after-deal-reached-with-lawmakers/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-27T17:47:22+00:00",
+      "age_hours": 7.526064048055555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Denver mayor\u2019s popularity slides as socialism gains",
+      "link": "https://denverite.com/2026/08/27/denver-mayor-mike-johnston-socialism-survey/",
+      "source": "Denverite",
+      "pub_date": "2026-08-27T17:32:28+00:00",
+      "age_hours": 7.7745036716666664,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
     {
       "title": "What to do in Colorado this week: A John Denver ballet in Aspen",
       "link": "https://coloradosun.com/2026/08/27/whats-happening-john-denver-ballet-dance-aspen/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-27T14:00:00+00:00",
-      "age_hours": 2.1706982572222224,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "What is the wealthiest ZIP code in Denver metro?",
-      "link": "https://www.9news.com/article/money/markets/real-estate/wealthiest-zip-code-denver/73-aa34ac97-6584-4cf0-88d7-48303f03075f",
-      "source": "9News",
-      "pub_date": "2026-08-27T12:37:58+00:00",
-      "age_hours": 3.538125456111111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Denver Water bans lawn watering after September",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/denver-water-ending-lawn-watering/73-eed4d9c4-7893-49de-8ef4-04dda19b4785",
-      "source": "9News",
-      "pub_date": "2026-08-27T11:12:33+00:00",
-      "age_hours": 4.961736625277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 11.315508575833332,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "4 largest ski resort companies are a \u201ccartel\u201d scheming to raise prices, Colorado lawsuit alleges",
       "link": "https://coloradosun.com/2026/08/27/antitrust-lawsuit-targeting-resort-operators/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-27T10:16:00+00:00",
-      "age_hours": 5.904032266111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 15.048842529444444,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Tempers flare in southern Colorado as popular museum requests nearly $1M in taxpayer support",
       "link": "https://coloradosun.com/2026/08/27/da-vinci-museum-pueblo-public-funding/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-27T10:15:00+00:00",
-      "age_hours": 5.920699558888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Facial Aesthetics Opening Littleton Bowles Crossing Location",
-      "link": "https://milehighcre.com/facial-aesthetics-opening-littleton-bowles-crossing-location/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-27T00:16:22+00:00",
-      "age_hours": 15.89782743888889,
+      "age_hours": 15.06550982138889,
       "breaking": false,
       "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Aurora police warn businesses of 5 shoplifters involved in 139 crimes",
-      "link": "https://www.coloradopolitics.com/2026/08/26/aurora-police-warn-businesses-of-5-shoplifters-involved-in-139-crimes/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-26T23:18:55+00:00",
-      "age_hours": 16.856343244166666,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "El Paso County Commissioners set to hear Buc-ee\u2019s zoning appeal",
-      "link": "https://www.cpr.org/2026/08/26/el-paso-county-commissioners-to-rule-on-buc-ees-zoning-appeal/",
-      "source": "CPR",
-      "pub_date": "2026-08-26T22:29:10+00:00",
-      "age_hours": 17.68471561,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Polis pardons 29 people in 2nd round of clemency this year",
-      "link": "https://coloradosun.com/2026/08/26/polis-pardons-29-in-another-round-of-clemency-this-year/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-26T21:59:53+00:00",
-      "age_hours": 18.172644015555555,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "'Prolific shoplifters' sought by Aurora police, responsible for over 100 incidents",
-      "link": "https://kdvr.com/news/local/prolific-shoplifters-sought-by-aurora-police-responsible-for-over-100-incidents/",
-      "source": "Fox31",
-      "pub_date": "2026-08-26T21:47:23+00:00",
-      "age_hours": 18.381487428611113,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Voters will decide whether to require people to verify their identity on Colorado ballots with social security, driver\u2019s license numbers",
-      "link": "https://coloradosun.com/2026/08/26/mail-ballot-id-colorado-initiative/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-26T21:17:05+00:00",
-      "age_hours": 18.8859780575,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Federal science agency gives CU Boulder $37.5M to supercharge its quantum studies",
-      "link": "https://www.coloradopolitics.com/2026/08/26/federal-science-agency-gives-cu-boulder-37-5m-to-supercharge-its-quantum-studies/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-26T21:15:47+00:00",
-      "age_hours": 18.908565491944444,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Dan Haley on the role of oil and gas in Colorado\u2019s energy future | The OpEdge Podcast",
-      "link": "https://www.coloradopolitics.com/2026/08/26/dan-haley-on-the-role-of-oil-and-gas-in-colorados-energy-future-the-opedge-podcast/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-26T21:13:01+00:00",
-      "age_hours": 18.954676611944443,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "AI adoption in Boulder Valley, Northern Colorado among state\u2019s highest",
-      "link": "https://bizwest.com/2026/08/26/ai-adoption-in-boulder-valley-northern-colorado-among-states-highest/",
-      "source": "BizWest",
-      "pub_date": "2026-08-26T21:09:38+00:00",
-      "age_hours": 19.00965022777778,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Dance pros and their celebrity partners give it their all at 16th Dancing with the Denver Stars\u00a0|\u00a0NONPROFIT REGISTER",
-      "link": "https://www.coloradopolitics.com/2026/08/26/dance-pros-and-their-celebrity-partners-give-it-their-all-at-16th-dancing-with-the-denver-stars-nonprofit-register/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-26T21:08:25+00:00",
-      "age_hours": 19.03134328722222,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Bankruptcy judge demands Future Legends owner hire an attorney or risk dismissal",
-      "link": "https://bizwest.com/2026/08/26/bankruptcy-judge-demands-future-legends-owner-hire-an-attorney-or-risk-dismissal/",
-      "source": "BizWest",
-      "pub_date": "2026-08-26T21:07:49+00:00",
-      "age_hours": 19.03992857388889,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Former Denver restaurant owner sentenced in Chicago for COVID-relief fraud",
-      "link": "https://kdvr.com/news/local/former-denver-restaurant-owner-sentenced-in-chicago-for-covid-relief-fraud/",
-      "source": "Fox31",
-      "pub_date": "2026-08-26T21:04:52+00:00",
-      "age_hours": 19.090098514444442,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Greeley won\u2019t ask voters to OK sales tax hike to tackle Catalyst debt this year",
-      "link": "https://bizwest.com/2026/08/26/greeley-wont-ask-voters-to-ok-sales-tax-hike-to-tackle-catalyst-debt-this-year/",
-      "source": "BizWest",
-      "pub_date": "2026-08-26T21:04:05+00:00",
-      "age_hours": 19.10215080527778,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "The Vesper on Tennyson Apartments Now Leasing",
-      "link": "https://milehighcre.com/the-vesper-on-tennyson-apartments-now-leasing/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-26T21:03:11+00:00",
-      "age_hours": 19.11754992388889,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "New Library Brings Books, Resources to Sterling Ranch",
-      "link": "https://milehighcre.com/new-library-brings-books-resources-to-sterling-ranch/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-26T20:50:05+00:00",
-      "age_hours": 19.33588326888889,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
     }
   ]
 }
