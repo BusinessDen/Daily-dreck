@@ -1,60 +1,78 @@
 {
   "fetched_date": "2026-08-30",
-  "fetched_at": "2026-08-30 19:05:52",
+  "fetched_at": "2026-08-30 22:28:10",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Aurora police warn of \u2018gifting scam\u2019 targeting valuable jewelry",
+      "link": "https://kdvr.com/news/local/aurora-police-warn-of-gifting-scam-targeting-valuable-jewelry/",
+      "source": "Fox31",
+      "pub_date": "2026-08-30T22:00:03+00:00",
+      "age_hours": 0.4645568844444445,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "Broncos' Jonathon Cooper to start season on commissioner's exempt list, AP source says",
+      "link": "https://kdvr.com/sports/ap-sports/ap-broncos-jonathon-cooper-to-start-season-on-commissioners-exempt-list-ap-source-says/",
+      "source": "Fox31",
+      "pub_date": "2026-08-30T19:42:15+00:00",
+      "age_hours": 2.7612235941666667,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "University of Colorado scientists aim ultrasound at tumors",
       "link": "https://bizwest.com/2026/08/30/university-of-colorado-scientists-aim-ultrasound-at-tumors/",
       "source": "BizWest",
       "pub_date": "2026-08-30T15:56:11+00:00",
-      "age_hours": 3.157324287777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.528200061944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Pink pigs, blue ribbons and a lifetime of memories made at northeast Colorado\u2019s county fairs",
       "link": "https://coloradosun.com/2026/08/30/northeast-colorado-county-fairs/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-30T09:58:00+00:00",
-      "age_hours": 9.127390963611111,
+      "age_hours": 12.498270214166668,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "The Bookies Bookstore suggests titles full of obits, sorcery, angst",
       "link": "https://coloradosun.com/2026/08/30/bookies-bookstore-august-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-30T08:05:00+00:00",
-      "age_hours": 11.010724381111112,
+      "age_hours": 14.381603623055556,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "BizWest wins 6 Colorado Press Association awards",
       "link": "https://bizwest.com/2026/08/29/bizwest-wins-6-colorado-press-association-awards/",
       "source": "BizWest",
       "pub_date": "2026-08-30T05:14:13+00:00",
-      "age_hours": 13.856769136666665,
+      "age_hours": 17.227644913611112,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Aurora city officials consider tighter regulations on food truck operators",
       "link": "https://www.9news.com/article/news/local/local-politics/aurora-city-officials-consider-tighter-regulations-on-food-truck-operators/73-8d835eaa-a1d2-409f-a06f-af6531227fb7",
       "source": "9News",
       "pub_date": "2026-08-30T01:03:25+00:00",
-      "age_hours": 18.03734424111111,
+      "age_hours": 21.408194042222224,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Larimer awards $3M in grants to 43 organizations",
       "link": "https://bizwest.com/2026/08/29/larimer-awards-3m-in-grants-to-43-organizations/",
       "source": "BizWest",
       "pub_date": "2026-08-29T17:20:33+00:00",
-      "age_hours": 25.751213610555556,
+      "age_hours": 29.122089388055553,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +81,7 @@
       "link": "https://coloradosun.com/2026/08/29/rural-chamber-of-commerce-timnath-severence/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 33.09405802361111,
+      "age_hours": 36.46493725222223,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +90,7 @@
       "link": "https://www.cpr.org/2026/08/29/kids-pornography-online-exposure/",
       "source": "CPR",
       "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 33.09420186305556,
+      "age_hours": 36.465099987222224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +99,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-and-closings-chicago-mikes-40927843/",
       "source": "Westword",
       "pub_date": "2026-08-29T07:15:00-06:00",
-      "age_hours": 29.844740644722222,
+      "age_hours": 33.21547632527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://www.cpr.org/2026/08/28/colorado-connector-front-range-rail-sales-tax-ballot-question/",
       "source": "CPR",
       "pub_date": "2026-08-28T23:24:43+00:00",
-      "age_hours": 43.6822574425,
+      "age_hours": 47.05315556638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/28/puc-adds-weekly-comment-after-killing-private-talks/",
       "source": "CO Politics",
       "pub_date": "2026-08-28T23:13:17+00:00",
-      "age_hours": 43.87347005527778,
+      "age_hours": 47.244251178055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,52 +126,52 @@
       "link": "https://bizwest.com/2026/08/28/tax-for-passenger-rail-expansion-okd-for-ballot/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:41:24+00:00",
-      "age_hours": 45.40371361527778,
+      "age_hours": 48.77458939277778,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Construction execs navigate regulations, costs, labor pains",
       "link": "https://bizwest.com/2026/08/28/construction-execs-navigate-regulations-costs-labor-pains/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:28:40+00:00",
-      "age_hours": 45.61593586444444,
+      "age_hours": 48.98681164333333,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "SummitStone\u2019s Dodds among BizWest Women of Distinction honorees",
       "link": "https://bizwest.com/2026/08/28/summitstones-dodds-among-bizwest-women-of-distinction-honorees/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:24:47+00:00",
-      "age_hours": 45.68065809055555,
+      "age_hours": 49.05153386916667,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Colorado bankruptcies increase 11% in July",
       "link": "https://bizwest.com/2026/08/28/colorado-bankruptcies-increase-11-in-july/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:01:29+00:00",
-      "age_hours": 46.06899145111111,
+      "age_hours": 49.439867230000004,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Colorado River District warns of unequal impacts from new conservation program",
       "link": "https://sentinelcolorado.com/metro/colorado-river-district-warns-of-unequal-impacts-from-new-conservation-program/",
       "source": "Sentinel",
       "pub_date": "2026-08-28T20:30:49+00:00",
-      "age_hours": 46.5812951525,
+      "age_hours": 49.952037411944445,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "10 people qualify for Denver City Council\u2019s special November election",
       "link": "https://denverite.com/2026/08/28/denver-city-council-at-large-seat/",
       "source": "Denverite",
       "pub_date": "2026-08-28T18:27:57+00:00",
-      "age_hours": 48.628325088055554,
+      "age_hours": 51.99925037916667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://www.bisnow.com/news/denver/deal-sheet/wellness-spa-proposed-former-greyhound-site-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-28T14:17:52-04:00",
-      "age_hours": 48.79609804861111,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado Governor Pardons More People For Marijuana Convictions",
-      "link": "https://www.marijuanamoment.net/colorado-governor-pardons-more-people-for-marijuana-convictions/",
-      "source": "MJ Moment",
-      "pub_date": "2026-08-28T12:16:06+00:00",
-      "age_hours": 54.826912057499996,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Healthcare freefall: Economic ripple effects grow as Colorado hospitals face financial strain",
-      "link": "https://www.coloradopolitics.com/2026/08/28/healthcare-freefall-economic-ripple-effects-grow-as-colorado-hospitals-face-financial-strain/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-28T11:00:00+00:00",
-      "age_hours": 56.094859069444446,
+      "age_hours": 52.166866903611115,
       "breaking": false,
       "time_ago": "2 days ago"
     }
