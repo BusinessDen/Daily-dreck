@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-08-30",
-  "fetched_at": "2026-08-30 15:11:32",
+  "fetched_at": "2026-08-30 19:05:52",
   "article_count": 20,
   "breaking_count": 1,
   "articles": [
+    {
+      "title": "University of Colorado scientists aim ultrasound at tumors",
+      "link": "https://bizwest.com/2026/08/30/university-of-colorado-scientists-aim-ultrasound-at-tumors/",
+      "source": "BizWest",
+      "pub_date": "2026-08-30T15:56:11+00:00",
+      "age_hours": 3.157324287777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Pink pigs, blue ribbons and a lifetime of memories made at northeast Colorado\u2019s county fairs",
       "link": "https://coloradosun.com/2026/08/30/northeast-colorado-county-fairs/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-30T09:58:00+00:00",
-      "age_hours": 5.221386200555556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.127390963611111,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "The Bookies Bookstore suggests titles full of obits, sorcery, angst",
       "link": "https://coloradosun.com/2026/08/30/bookies-bookstore-august-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-30T08:05:00+00:00",
-      "age_hours": 7.1047196363888885,
+      "age_hours": 11.010724381111112,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "BizWest wins 6 Colorado Press Association awards",
       "link": "https://bizwest.com/2026/08/29/bizwest-wins-6-colorado-press-association-awards/",
       "source": "BizWest",
       "pub_date": "2026-08-30T05:14:13+00:00",
-      "age_hours": 9.950764351944443,
+      "age_hours": 13.856769136666665,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Aurora city officials consider tighter regulations on food truck operators",
       "link": "https://www.9news.com/article/news/local/local-politics/aurora-city-officials-consider-tighter-regulations-on-food-truck-operators/73-8d835eaa-a1d2-409f-a06f-af6531227fb7",
       "source": "9News",
       "pub_date": "2026-08-30T01:03:25+00:00",
-      "age_hours": 14.1314035025,
+      "age_hours": 18.03734424111111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Larimer awards $3M in grants to 43 organizations",
       "link": "https://bizwest.com/2026/08/29/larimer-awards-3m-in-grants-to-43-organizations/",
       "source": "BizWest",
       "pub_date": "2026-08-29T17:20:33+00:00",
-      "age_hours": 21.84520939861111,
+      "age_hours": 25.751213610555556,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "What\u2019s Working: Dustin Peyser built a chamber of commerce from scratch in Timnath. Then Timnath\u2019s neighbor asked him to run its chamber.",
       "link": "https://coloradosun.com/2026/08/29/rural-chamber-of-commerce-timnath-severence/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 29.188053445,
+      "age_hours": 33.09405802361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://www.cpr.org/2026/08/29/kids-pornography-online-exposure/",
       "source": "CPR",
       "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 29.1882706725,
+      "age_hours": 33.09420186305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-and-closings-chicago-mikes-40927843/",
       "source": "Westword",
       "pub_date": "2026-08-29T07:15:00-06:00",
-      "age_hours": 25.938661269444445,
+      "age_hours": 29.844740644722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.cpr.org/2026/08/28/colorado-connector-front-range-rail-sales-tax-ballot-question/",
       "source": "CPR",
       "pub_date": "2026-08-28T23:24:43+00:00",
-      "age_hours": 39.776326258611114,
+      "age_hours": 43.6822574425,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/28/puc-adds-weekly-comment-after-killing-private-talks/",
       "source": "CO Politics",
       "pub_date": "2026-08-28T23:13:17+00:00",
-      "age_hours": 39.96745862361111,
+      "age_hours": 43.87347005527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/08/28/tax-for-passenger-rail-expansion-okd-for-ballot/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:41:24+00:00",
-      "age_hours": 41.49770940861111,
+      "age_hours": 45.40371361527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/08/28/construction-execs-navigate-regulations-costs-labor-pains/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:28:40+00:00",
-      "age_hours": 41.70993166694444,
+      "age_hours": 45.61593586444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/08/28/summitstones-dodds-among-bizwest-women-of-distinction-honorees/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:24:47+00:00",
-      "age_hours": 41.77465389472222,
+      "age_hours": 45.68065809055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://bizwest.com/2026/08/28/colorado-bankruptcies-increase-11-in-july/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:01:29+00:00",
-      "age_hours": 42.16298726361111,
+      "age_hours": 46.06899145111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://sentinelcolorado.com/metro/colorado-river-district-warns-of-unequal-impacts-from-new-conservation-program/",
       "source": "Sentinel",
       "pub_date": "2026-08-28T20:30:49+00:00",
-      "age_hours": 42.67527286472222,
+      "age_hours": 46.5812951525,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,25 +153,25 @@
       "link": "https://denverite.com/2026/08/28/denver-city-council-at-large-seat/",
       "source": "Denverite",
       "pub_date": "2026-08-28T18:27:57+00:00",
-      "age_hours": 44.72236990638889,
+      "age_hours": 48.628325088055554,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Wellness Spa Proposed At Former Greyhound Site: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/deal-sheet/wellness-spa-proposed-former-greyhound-site-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-08-28T14:17:52-04:00",
-      "age_hours": 44.890030368333335,
+      "age_hours": 48.79609804861111,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Colorado Governor Pardons More People For Marijuana Convictions",
       "link": "https://www.marijuanamoment.net/colorado-governor-pardons-more-people-for-marijuana-convictions/",
       "source": "MJ Moment",
       "pub_date": "2026-08-28T12:16:06+00:00",
-      "age_hours": 50.9217900375,
+      "age_hours": 54.826912057499996,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/28/healthcare-freefall-economic-ripple-effects-grow-as-colorado-hospitals-face-financial-strain/",
       "source": "CO Politics",
       "pub_date": "2026-08-28T11:00:00+00:00",
-      "age_hours": 52.18884767,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Why does Colorado limit who can safeguard taxpayer dollars? | GUEST COLUMN",
-      "link": "https://www.coloradopolitics.com/2026/08/28/why-does-colorado-limit-who-can-safeguard-taxpayer-dollars-guest-column/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-28T06:45:00+00:00",
-      "age_hours": 56.438847760833326,
+      "age_hours": 56.094859069444446,
       "breaking": false,
       "time_ago": "2 days ago"
     }
