@@ -1,69 +1,78 @@
 {
   "fetched_date": "2026-08-31",
-  "fetched_at": "2026-08-31 01:08:40",
+  "fetched_at": "2026-08-31 08:14:03",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Sentinel Colorado wins state journalism awards for public service, social justice, editorials",
+      "link": "https://sentinelcolorado.com/metro/sentinel-colorado-wins-state-journalism-awards-for-public-service-social-justice-editorials/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-31T04:15:46+00:00",
+      "age_hours": 3.9673432833333333,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Rocky Mountain Advanced Manufacturing Expo set for Sept. 18 in Greeley",
       "link": "https://bizwest.com/2026/08/30/rocky-mountain-advanced-manufacturing-expo-set-for-sept-18-in-greeley/",
       "source": "BizWest",
       "pub_date": "2026-08-30T23:26:02+00:00",
-      "age_hours": 1.7065645552777777,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 8.7951581525,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Aurora police warn of \u2018gifting scam\u2019 targeting valuable jewelry",
       "link": "https://kdvr.com/news/local/aurora-police-warn-of-gifting-scam-targeting-valuable-jewelry/",
       "source": "Fox31",
       "pub_date": "2026-08-30T22:00:03+00:00",
-      "age_hours": 3.140318432777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.229066821388889,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "University of Colorado scientists aim ultrasound at tumors",
       "link": "https://bizwest.com/2026/08/30/university-of-colorado-scientists-aim-ultrasound-at-tumors/",
       "source": "BizWest",
       "pub_date": "2026-08-30T15:56:11+00:00",
-      "age_hours": 9.204065067777778,
+      "age_hours": 16.29265854861111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Pink pigs, blue ribbons and a lifetime of memories made at northeast Colorado\u2019s county fairs",
       "link": "https://coloradosun.com/2026/08/30/northeast-colorado-county-fairs/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-30T09:58:00+00:00",
-      "age_hours": 15.174155828888889,
+      "age_hours": 22.262775774166666,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "The Bookies Bookstore suggests titles full of obits, sorcery, angst",
       "link": "https://coloradosun.com/2026/08/30/bookies-bookstore-august-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-30T08:05:00+00:00",
-      "age_hours": 17.0574892575,
+      "age_hours": 24.146109189444445,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "BizWest wins 6 Colorado Press Association awards",
       "link": "https://bizwest.com/2026/08/29/bizwest-wins-6-colorado-press-association-awards/",
       "source": "BizWest",
       "pub_date": "2026-08-30T05:14:13+00:00",
-      "age_hours": 19.903509545555554,
+      "age_hours": 26.992103019722222,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Aurora city officials consider tighter regulations on food truck operators",
       "link": "https://www.9news.com/article/news/local/local-politics/aurora-city-officials-consider-tighter-regulations-on-food-truck-operators/73-8d835eaa-a1d2-409f-a06f-af6531227fb7",
       "source": "9News",
       "pub_date": "2026-08-30T01:03:25+00:00",
-      "age_hours": 24.0840109125,
+      "age_hours": 31.172695094444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-1-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-08-29T23:45:00+00:00",
-      "age_hours": 25.391344211666667,
+      "age_hours": 32.48012139055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://bizwest.com/2026/08/29/larimer-awards-3m-in-grants-to-43-organizations/",
       "source": "BizWest",
       "pub_date": "2026-08-29T17:20:33+00:00",
-      "age_hours": 31.797954024444444,
+      "age_hours": 38.88654749472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://coloradosun.com/2026/08/29/rural-chamber-of-commerce-timnath-severence/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 39.14082297,
+      "age_hours": 46.22944281694445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://www.cpr.org/2026/08/29/kids-pornography-online-exposure/",
       "source": "CPR",
       "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 39.140906171944444,
+      "age_hours": 46.22954965472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-and-closings-chicago-mikes-40927843/",
       "source": "Westword",
       "pub_date": "2026-08-29T07:15:00-06:00",
-      "age_hours": 35.89123082527777,
+      "age_hours": 42.98001363277778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://www.cpr.org/2026/08/28/colorado-connector-front-range-rail-sales-tax-ballot-question/",
       "source": "CPR",
       "pub_date": "2026-08-28T23:24:43+00:00",
-      "age_hours": 49.72896175583333,
+      "age_hours": 56.817605235,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://www.coloradopolitics.com/2026/08/28/puc-adds-weekly-comment-after-killing-private-talks/",
       "source": "CO Politics",
       "pub_date": "2026-08-28T23:13:17+00:00",
-      "age_hours": 49.919938102500005,
+      "age_hours": 57.00870144333333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/08/28/tax-for-passenger-rail-expansion-okd-for-ballot/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:41:24+00:00",
-      "age_hours": 51.450454030277776,
+      "age_hours": 58.53904749944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/08/28/construction-execs-navigate-regulations-costs-labor-pains/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:28:40+00:00",
-      "age_hours": 51.66267628638889,
+      "age_hours": 58.75126975111111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/08/28/summitstones-dodds-among-bizwest-women-of-distinction-honorees/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:24:47+00:00",
-      "age_hours": 51.727398513055554,
+      "age_hours": 58.815991976944446,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,16 +171,7 @@
       "link": "https://bizwest.com/2026/08/28/colorado-bankruptcies-increase-11-in-july/",
       "source": "BizWest",
       "pub_date": "2026-08-28T21:01:29+00:00",
-      "age_hours": 52.11573188055556,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado River District warns of unequal impacts from new conservation program",
-      "link": "https://sentinelcolorado.com/metro/colorado-river-district-warns-of-unequal-impacts-from-new-conservation-program/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-28T20:30:49+00:00",
-      "age_hours": 52.627733597222225,
+      "age_hours": 59.204325340833336,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://denverite.com/2026/08/28/denver-city-council-at-large-seat/",
       "source": "Denverite",
       "pub_date": "2026-08-28T18:27:57+00:00",
-      "age_hours": 54.6750482875,
+      "age_hours": 61.76367065083333,
       "breaking": false,
       "time_ago": "2 days ago"
     }
