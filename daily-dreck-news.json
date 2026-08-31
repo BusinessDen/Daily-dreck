@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-08-31",
-  "fetched_at": "2026-08-31 16:47:11",
+  "fetched_at": "2026-08-31 21:45:32",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 16,
   "articles": [
+    {
+      "title": "Aurora Pride and Latino Pride draw crowds to Winged Melody Park in Aurora Highlands",
+      "link": "https://sentinelcolorado.com/metro/aurora-pride-and-latino-pride-draw-crowds-to-winged-melody-park-in-aurora-highlands/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-31T21:32:02+00:00",
+      "age_hours": 0.22132869249999998,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "Jonathon Cooper\u00a0pleads not guilty to domestic violence charges",
+      "link": "https://kdvr.com/news/local/jonathon-cooper-pleads-not-guilty-to-domestic-violence-charges/",
+      "source": "Fox31",
+      "pub_date": "2026-08-31T20:49:25+00:00",
+      "age_hours": 0.9311498480555555,
+      "breaking": true,
+      "time_ago": "55 min ago"
+    },
+    {
+      "title": "Rally King Brewing closes after 11 years",
+      "link": "https://bizwest.com/2026/08/31/rally-king-brewing-closes-after-11-years/",
+      "source": "BizWest",
+      "pub_date": "2026-08-31T20:42:55+00:00",
+      "age_hours": 1.0386061030555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "What happens when robotaxis meet motorcades in DC? The mother of all traffic jams, says AI expert",
+      "link": "https://www.coloradopolitics.com/2026/08/31/what-happens-when-robotaxis-meet-motorcades-in-dc-the-mother-of-all-traffic-jams-says-ai-expert/",
+      "source": "CO Politics",
+      "pub_date": "2026-08-31T20:37:15+00:00",
+      "age_hours": 1.1341890430555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "The Riverside event venue in Boulder faces foreclosure",
+      "link": "https://bizwest.com/2026/08/31/the-riverside-event-venue-in-boulder-faces-foreclosure/",
+      "source": "BizWest",
+      "pub_date": "2026-08-31T20:37:00+00:00",
+      "age_hours": 1.1372178891666667,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Northern Colorado Workforce Symposium set for Sept. 9",
+      "link": "https://bizwest.com/2026/08/31/northern-colorado-workforce-symposium-set-for-sept-9/",
+      "source": "BizWest",
+      "pub_date": "2026-08-31T20:26:32+00:00",
+      "age_hours": 1.3116623780555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Plans call for 55-foot apartments wrapping Lincoln Hall on Naropa campus",
+      "link": "https://bizwest.com/2026/08/31/plans-call-for-55-foot-apartments-wrapping-lincoln-hall-on-naropa-campus/",
+      "source": "BizWest",
+      "pub_date": "2026-08-31T20:21:23+00:00",
+      "age_hours": 1.3974957194444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Federal Trade Commission accuses Amazon of overcharging advertisers in new lawsuit",
+      "link": "https://www.9news.com/article/news/nation-world/federal-trade-commission-amazon-overcharging-advertisers-lawsuit/507-c852264f-794b-49d1-be10-6c51a08511e0",
+      "source": "9News",
+      "pub_date": "2026-08-31T20:19:47+00:00",
+      "age_hours": 1.4247187208333334,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Aurora lawmakers consider limits on food trucks to ease complaints of crowding, storage",
+      "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-consider-limits-on-food-trucks-to-ease-complaints-of-crowding-storage/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-31T19:50:42+00:00",
+      "age_hours": 1.9102179133333335,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "JHL Celebrates Completion of Thornton Charter School Expansion",
+      "link": "https://milehighcre.com/jhl-celebrates-completion-of-thornton-charter-school-expansion/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-08-31T19:10:04+00:00",
+      "age_hours": 2.5863987208333334,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "2 juveniles arrested in connection with Friday shooting",
+      "link": "https://kdvr.com/news/local/2-juveniles-arrested-in-connection-with-friday-shooting/",
+      "source": "Fox31",
+      "pub_date": "2026-08-31T18:37:26+00:00",
+      "age_hours": 3.1308720344444443,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Georgia restaurant celebrates customer's 98th birthday at his 'second home'",
+      "link": "https://www.9news.com/article/news/nation-world/georgia-restaurant-celebrates-customer-98th-birthday-walter-arnett/507-9a510f86-2e21-4ec5-a333-6eb0608031c8",
+      "source": "9News",
+      "pub_date": "2026-08-31T18:25:57+00:00",
+      "age_hours": 3.3219409888888887,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Prospect Innovation Campus Sells to ZS Capital Partners for $42M",
+      "link": "https://milehighcre.com/prospect-innovation-campus-sells-to-zs-capital-partners-for-42m/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-08-31T18:24:20+00:00",
+      "age_hours": 3.348621182777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Trump warns communities without data centers will be \u2018backwards and poor\u2019",
+      "link": "https://www.9news.com/article/news/nation-world/trump-data-center-comments/507-1764d144-ca9c-495e-b012-0175ec8701e2",
+      "source": "9News",
+      "pub_date": "2026-08-31T18:13:20+00:00",
+      "age_hours": 3.5322187969444445,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Business Buzz: A record $29 billion for tourism, but the Colorado River crisis looms over our economic future",
+      "link": "https://www.9news.com/article/money/business-brief/record-29-billion-tourism-but-colorado-river-crisis-looms/73-ed3061c2-1b01-4fa4-8953-972839397ecf",
+      "source": "9News",
+      "pub_date": "2026-08-31T17:49:39+00:00",
+      "age_hours": 3.9269410275,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Denver Forming Working Group Around Data Centers",
       "link": "https://milehighcre.com/denver-forming-working-group-around-data-centers/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-31T16:18:29+00:00",
-      "age_hours": 0.4742184202777778,
+      "age_hours": 5.446121193333333,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Canvas Credit Union Relocates to Restored Historic Building Near DU",
       "link": "https://milehighcre.com/canvas-credit-union-relocates-to-restored-historic-building-near-du/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-31T15:44:25+00:00",
-      "age_hours": 1.041996513888889,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.0138991936111115,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Chipotle brings back chicken recipe, introduces new chip",
       "link": "https://www.9news.com/article/life/style/colorado-guide/chipotle-pollo-asado-chili-lime-chips/73-33b40296-585d-4de4-870f-177b5dbc0357",
       "source": "9News",
       "pub_date": "2026-08-31T15:20:36+00:00",
-      "age_hours": 1.4391214808333332,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.41110773638889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Real estate affordabilty in Colorado: Where people are looking outside of Denver",
       "link": "https://www.9news.com/article/money/markets/real-estate/real-estate-affordabilty-colorado-homes/73-0bbabb02-b5e1-4f1c-8bec-74ae60d7d3f8",
       "source": "9News",
       "pub_date": "2026-08-31T14:46:30+00:00",
-      "age_hours": 2.0074548869444446,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.979441108055556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Smucker\u2019s Rider among BizWest Women of Distinction honorees",
       "link": "https://bizwest.com/2026/08/31/smuckers-rider-among-bizwest-women-of-distinction-honorees/",
       "source": "BizWest",
       "pub_date": "2026-08-31T13:32:43+00:00",
-      "age_hours": 3.236727441666667,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Innosphere\u2019s NSF ASCEND engine names accelerator cohorts",
-      "link": "https://bizwest.com/2026/08/31/innospheres-nsf-ascend-engine-names-accelerator-cohorts/",
-      "source": "BizWest",
-      "pub_date": "2026-08-31T13:27:47+00:00",
-      "age_hours": 3.318950227222222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Family struggled to locate Aurora ICE detainee from Washington released into the wrong state",
-      "link": "https://sentinelcolorado.com/metro/family-struggled-to-locate-aurora-ice-detainee-from-washington-released-into-the-wrong-state/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-31T13:05:14+00:00",
-      "age_hours": 3.695635489722222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Cheese heiress lists Colorado mountain compound for $30M",
-      "link": "https://www.9news.com/article/money/markets/real-estate/450-acre-colorado-mountain-compound-listed-for-30m/73-66058c76-bd66-44a3-88ed-c2bdcba25633",
-      "source": "9News",
-      "pub_date": "2026-08-31T12:23:16+00:00",
-      "age_hours": 4.394677166666667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Amazon spends $24M on Aurora land",
-      "link": "https://www.9news.com/article/money/business/amazon-spends-24m-on-aurora-land/73-b507f8c6-8449-4028-aa0b-3cb304e34803",
-      "source": "9News",
-      "pub_date": "2026-08-31T12:20:03+00:00",
-      "age_hours": 4.448288290555555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "BLM will offer parcels near Aurora Reservoir for oil and gas drilling",
-      "link": "https://coloradosun.com/2026/08/31/blm-auction-aurora-reservoir-oil-and-gas-star-crestone/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-31T10:13:00+00:00",
-      "age_hours": 6.565682585,
+      "age_hours": 8.208606883333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Edgewater tested a new Colorado law that changed how much tipped workers are paid. Here\u2019s what\u2019s happened so far.",
-      "link": "https://coloradosun.com/2026/08/31/edgewater-tipped-minimum-wage-workers-colorado/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-31T10:00:00+00:00",
-      "age_hours": 6.782349916944445,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Colorado voters will be asked to redirect sporting goods sales tax revenue to conservation and wildfire restoration",
-      "link": "https://coloradosun.com/2026/08/31/proposition-137-goco-wildfire-mitigation/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-31T10:00:00+00:00",
-      "age_hours": 6.782350699444445,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Sentinel Colorado wins state journalism awards for public service, social justice, editorials",
-      "link": "https://sentinelcolorado.com/metro/sentinel-colorado-wins-state-journalism-awards-for-public-service-social-justice-editorials/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-31T04:15:46+00:00",
-      "age_hours": 12.520079957777778,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Rocky Mountain Advanced Manufacturing Expo set for Sept. 18 in Greeley",
-      "link": "https://bizwest.com/2026/08/30/rocky-mountain-advanced-manufacturing-expo-set-for-sept-18-in-greeley/",
-      "source": "BizWest",
-      "pub_date": "2026-08-30T23:26:02+00:00",
-      "age_hours": 17.34811690277778,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Aurora police warn of \u2018gifting scam\u2019 targeting valuable jewelry",
-      "link": "https://kdvr.com/news/local/aurora-police-warn-of-gifting-scam-targeting-valuable-jewelry/",
-      "source": "Fox31",
-      "pub_date": "2026-08-30T22:00:03+00:00",
-      "age_hours": 18.781804232499997,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "University of Colorado scientists aim ultrasound at tumors",
-      "link": "https://bizwest.com/2026/08/30/university-of-colorado-scientists-aim-ultrasound-at-tumors/",
-      "source": "BizWest",
-      "pub_date": "2026-08-30T15:56:11+00:00",
-      "age_hours": 24.845616936944445,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Pink pigs, blue ribbons and a lifetime of memories made at northeast Colorado\u2019s county fairs",
-      "link": "https://coloradosun.com/2026/08/30/northeast-colorado-county-fairs/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-30T09:58:00+00:00",
-      "age_hours": 30.815684062777777,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "BizWest wins 6 Colorado Press Association awards",
-      "link": "https://bizwest.com/2026/08/29/bizwest-wins-6-colorado-press-association-awards/",
-      "source": "BizWest",
-      "pub_date": "2026-08-30T05:14:13+00:00",
-      "age_hours": 35.545061411666666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Larimer awards $3M in grants to 43 organizations",
-      "link": "https://bizwest.com/2026/08/29/larimer-awards-3m-in-grants-to-43-organizations/",
-      "source": "BizWest",
-      "pub_date": "2026-08-29T17:20:33+00:00",
-      "age_hours": 47.439505887222225,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Kids are seeing pornography online earlier and more often, counselor says. Here\u2019s what parents need to know",
-      "link": "https://www.cpr.org/2026/08/29/kids-pornography-online-exposure/",
-      "source": "CPR",
-      "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 54.78241527666667,
-      "breaking": false,
-      "time_ago": "2 days ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
