@@ -1,60 +1,159 @@
 {
   "fetched_date": "2026-08-31",
-  "fetched_at": "2026-08-31 08:14:03",
+  "fetched_at": "2026-08-31 16:47:11",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Denver Forming Working Group Around Data Centers",
+      "link": "https://milehighcre.com/denver-forming-working-group-around-data-centers/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-08-31T16:18:29+00:00",
+      "age_hours": 0.4742184202777778,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "Canvas Credit Union Relocates to Restored Historic Building Near DU",
+      "link": "https://milehighcre.com/canvas-credit-union-relocates-to-restored-historic-building-near-du/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-08-31T15:44:25+00:00",
+      "age_hours": 1.041996513888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Chipotle brings back chicken recipe, introduces new chip",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/chipotle-pollo-asado-chili-lime-chips/73-33b40296-585d-4de4-870f-177b5dbc0357",
+      "source": "9News",
+      "pub_date": "2026-08-31T15:20:36+00:00",
+      "age_hours": 1.4391214808333332,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Real estate affordabilty in Colorado: Where people are looking outside of Denver",
+      "link": "https://www.9news.com/article/money/markets/real-estate/real-estate-affordabilty-colorado-homes/73-0bbabb02-b5e1-4f1c-8bec-74ae60d7d3f8",
+      "source": "9News",
+      "pub_date": "2026-08-31T14:46:30+00:00",
+      "age_hours": 2.0074548869444446,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Smucker\u2019s Rider among BizWest Women of Distinction honorees",
+      "link": "https://bizwest.com/2026/08/31/smuckers-rider-among-bizwest-women-of-distinction-honorees/",
+      "source": "BizWest",
+      "pub_date": "2026-08-31T13:32:43+00:00",
+      "age_hours": 3.236727441666667,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Innosphere\u2019s NSF ASCEND engine names accelerator cohorts",
+      "link": "https://bizwest.com/2026/08/31/innospheres-nsf-ascend-engine-names-accelerator-cohorts/",
+      "source": "BizWest",
+      "pub_date": "2026-08-31T13:27:47+00:00",
+      "age_hours": 3.318950227222222,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Family struggled to locate Aurora ICE detainee from Washington released into the wrong state",
+      "link": "https://sentinelcolorado.com/metro/family-struggled-to-locate-aurora-ice-detainee-from-washington-released-into-the-wrong-state/",
+      "source": "Sentinel",
+      "pub_date": "2026-08-31T13:05:14+00:00",
+      "age_hours": 3.695635489722222,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Cheese heiress lists Colorado mountain compound for $30M",
+      "link": "https://www.9news.com/article/money/markets/real-estate/450-acre-colorado-mountain-compound-listed-for-30m/73-66058c76-bd66-44a3-88ed-c2bdcba25633",
+      "source": "9News",
+      "pub_date": "2026-08-31T12:23:16+00:00",
+      "age_hours": 4.394677166666667,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Amazon spends $24M on Aurora land",
+      "link": "https://www.9news.com/article/money/business/amazon-spends-24m-on-aurora-land/73-b507f8c6-8449-4028-aa0b-3cb304e34803",
+      "source": "9News",
+      "pub_date": "2026-08-31T12:20:03+00:00",
+      "age_hours": 4.448288290555555,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "BLM will offer parcels near Aurora Reservoir for oil and gas drilling",
+      "link": "https://coloradosun.com/2026/08/31/blm-auction-aurora-reservoir-oil-and-gas-star-crestone/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-31T10:13:00+00:00",
+      "age_hours": 6.565682585,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Edgewater tested a new Colorado law that changed how much tipped workers are paid. Here\u2019s what\u2019s happened so far.",
+      "link": "https://coloradosun.com/2026/08/31/edgewater-tipped-minimum-wage-workers-colorado/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-31T10:00:00+00:00",
+      "age_hours": 6.782349916944445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Colorado voters will be asked to redirect sporting goods sales tax revenue to conservation and wildfire restoration",
+      "link": "https://coloradosun.com/2026/08/31/proposition-137-goco-wildfire-mitigation/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-08-31T10:00:00+00:00",
+      "age_hours": 6.782350699444445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Sentinel Colorado wins state journalism awards for public service, social justice, editorials",
       "link": "https://sentinelcolorado.com/metro/sentinel-colorado-wins-state-journalism-awards-for-public-service-social-justice-editorials/",
       "source": "Sentinel",
       "pub_date": "2026-08-31T04:15:46+00:00",
-      "age_hours": 3.9673432833333333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 12.520079957777778,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Rocky Mountain Advanced Manufacturing Expo set for Sept. 18 in Greeley",
       "link": "https://bizwest.com/2026/08/30/rocky-mountain-advanced-manufacturing-expo-set-for-sept-18-in-greeley/",
       "source": "BizWest",
       "pub_date": "2026-08-30T23:26:02+00:00",
-      "age_hours": 8.7951581525,
+      "age_hours": 17.34811690277778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Aurora police warn of \u2018gifting scam\u2019 targeting valuable jewelry",
       "link": "https://kdvr.com/news/local/aurora-police-warn-of-gifting-scam-targeting-valuable-jewelry/",
       "source": "Fox31",
       "pub_date": "2026-08-30T22:00:03+00:00",
-      "age_hours": 10.229066821388889,
+      "age_hours": 18.781804232499997,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "University of Colorado scientists aim ultrasound at tumors",
       "link": "https://bizwest.com/2026/08/30/university-of-colorado-scientists-aim-ultrasound-at-tumors/",
       "source": "BizWest",
       "pub_date": "2026-08-30T15:56:11+00:00",
-      "age_hours": 16.29265854861111,
+      "age_hours": 24.845616936944445,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Pink pigs, blue ribbons and a lifetime of memories made at northeast Colorado\u2019s county fairs",
       "link": "https://coloradosun.com/2026/08/30/northeast-colorado-county-fairs/",
       "source": "Colorado Sun",
       "pub_date": "2026-08-30T09:58:00+00:00",
-      "age_hours": 22.262775774166666,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "The Bookies Bookstore suggests titles full of obits, sorcery, angst",
-      "link": "https://coloradosun.com/2026/08/30/bookies-bookstore-august-recommendations-2026/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-30T08:05:00+00:00",
-      "age_hours": 24.146109189444445,
+      "age_hours": 30.815684062777777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,25 +162,7 @@
       "link": "https://bizwest.com/2026/08/29/bizwest-wins-6-colorado-press-association-awards/",
       "source": "BizWest",
       "pub_date": "2026-08-30T05:14:13+00:00",
-      "age_hours": 26.992103019722222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Aurora city officials consider tighter regulations on food truck operators",
-      "link": "https://www.9news.com/article/news/local/local-politics/aurora-city-officials-consider-tighter-regulations-on-food-truck-operators/73-8d835eaa-a1d2-409f-a06f-af6531227fb7",
-      "source": "9News",
-      "pub_date": "2026-08-30T01:03:25+00:00",
-      "age_hours": 31.172695094444446,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Football: Aurora\u2019s 2026 Week 1 results",
-      "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-1-scoreboard-schedule/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-29T23:45:00+00:00",
-      "age_hours": 32.48012139055555,
+      "age_hours": 35.545061411666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,16 +171,7 @@
       "link": "https://bizwest.com/2026/08/29/larimer-awards-3m-in-grants-to-43-organizations/",
       "source": "BizWest",
       "pub_date": "2026-08-29T17:20:33+00:00",
-      "age_hours": 38.88654749472222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "What\u2019s Working: Dustin Peyser built a chamber of commerce from scratch in Timnath. Then Timnath\u2019s neighbor asked him to run its chamber.",
-      "link": "https://coloradosun.com/2026/08/29/rural-chamber-of-commerce-timnath-severence/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 46.22944281694445,
+      "age_hours": 47.439505887222225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,79 +180,7 @@
       "link": "https://www.cpr.org/2026/08/29/kids-pornography-online-exposure/",
       "source": "CPR",
       "pub_date": "2026-08-29T10:00:00+00:00",
-      "age_hours": 46.22954965472222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Every opening and closing this week:\u00a0Chicago Mike\u2019s closes after owner\u2019s death",
-      "link": "https://www.westword.com/food-drink/denver-restaurant-openings-and-closings-chicago-mikes-40927843/",
-      "source": "Westword",
-      "pub_date": "2026-08-29T07:15:00-06:00",
-      "age_hours": 42.98001363277778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Voters in the Front Range Passenger Rail District will weigh in on new sales tax for CoCo passenger train",
-      "link": "https://www.cpr.org/2026/08/28/colorado-connector-front-range-rail-sales-tax-ballot-question/",
-      "source": "CPR",
-      "pub_date": "2026-08-28T23:24:43+00:00",
-      "age_hours": 56.817605235,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "PUC adds weekly comment after killing private talks",
-      "link": "https://www.coloradopolitics.com/2026/08/28/puc-adds-weekly-comment-after-killing-private-talks/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-28T23:13:17+00:00",
-      "age_hours": 57.00870144333333,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Tax for passenger rail expansion OK\u2019d for ballot",
-      "link": "https://bizwest.com/2026/08/28/tax-for-passenger-rail-expansion-okd-for-ballot/",
-      "source": "BizWest",
-      "pub_date": "2026-08-28T21:41:24+00:00",
-      "age_hours": 58.53904749944445,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Construction execs navigate regulations, costs, labor pains",
-      "link": "https://bizwest.com/2026/08/28/construction-execs-navigate-regulations-costs-labor-pains/",
-      "source": "BizWest",
-      "pub_date": "2026-08-28T21:28:40+00:00",
-      "age_hours": 58.75126975111111,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "SummitStone\u2019s Dodds among BizWest Women of Distinction honorees",
-      "link": "https://bizwest.com/2026/08/28/summitstones-dodds-among-bizwest-women-of-distinction-honorees/",
-      "source": "BizWest",
-      "pub_date": "2026-08-28T21:24:47+00:00",
-      "age_hours": 58.815991976944446,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado bankruptcies increase 11% in July",
-      "link": "https://bizwest.com/2026/08/28/colorado-bankruptcies-increase-11-in-july/",
-      "source": "BizWest",
-      "pub_date": "2026-08-28T21:01:29+00:00",
-      "age_hours": 59.204325340833336,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "10 people qualify for Denver City Council\u2019s special November election",
-      "link": "https://denverite.com/2026/08/28/denver-city-council-at-large-seat/",
-      "source": "Denverite",
-      "pub_date": "2026-08-28T18:27:57+00:00",
-      "age_hours": 61.76367065083333,
+      "age_hours": 54.78241527666667,
       "breaking": false,
       "time_ago": "2 days ago"
     }
