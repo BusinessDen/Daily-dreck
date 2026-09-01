@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-09-01",
-  "fetched_at": "2026-09-01 07:24:32",
+  "fetched_at": "2026-09-01 13:11:24",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Apple\u2019s new CEO, John Ternus, takes over from Tim Cook after 15 years",
+      "link": "https://sentinelcolorado.com/nation-world/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-01T12:48:36+00:00",
+      "age_hours": 0.3762940938888889,
+      "breaking": true,
+      "time_ago": "22 min ago"
+    },
+    {
+      "title": "More Colorado schools exit \u2018accountability clock\u2019 with performance gains, including Aurora Central",
+      "link": "https://sentinelcolorado.com/metro/more-colorado-schools-exit-accountability-clock-with-performance-gains-including-aurora-central/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-01T12:41:19+00:00",
+      "age_hours": 0.49768342694444445,
+      "breaking": true,
+      "time_ago": "29 min ago"
+    },
+    {
+      "title": "Aurora seeks resident input on potential gas station buffer zones",
+      "link": "https://sentinelcolorado.com/metro/aurora-seeks-resident-input-on-potential-gas-station-buffer-zones/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-01T12:13:00+00:00",
+      "age_hours": 0.9696281483333333,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
+    {
+      "title": "New species coming to Denver for first time in zoo's 130-year history",
+      "link": "https://www.9news.com/article/life/animals/new-species-coming-to-denver-zoo/73-536d3ef2-deb5-45aa-9c60-f42d8c8e77d1",
+      "source": "9News",
+      "pub_date": "2026-09-01T11:51:30+00:00",
+      "age_hours": 1.3265736888888888,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Atom Computing names new CFO as company scales operations",
+      "link": "https://bizwest.com/2026/09/01/atom-computing-names-new-cfo-as-company-scales-operations/",
+      "source": "BizWest",
+      "pub_date": "2026-09-01T11:49:28+00:00",
+      "age_hours": 1.3596697675,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Georgia Boys BBQ closes Greeley location, plans Loveland expansion",
+      "link": "https://bizwest.com/2026/09/01/georgia-boys-bbq-closes-greeley-location-plans-loveland-expansion/",
+      "source": "BizWest",
+      "pub_date": "2026-09-01T11:31:07+00:00",
+      "age_hours": 1.6655037227777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "6 new additions coming to Orchard Town Center",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/orchard-town-center-new-stores/73-04e40db1-f176-4e02-89d5-7816184835da",
+      "source": "9News",
+      "pub_date": "2026-09-01T10:52:10+00:00",
+      "age_hours": 2.315462678611111,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "This western Colorado town once had sundown laws, study finds",
+      "link": "https://coloradosun.com/2026/09/01/this-western-colorado-town-once-had-sundown-laws-study-finds/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-01T10:00:00+00:00",
+      "age_hours": 3.184533167777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Why do 2 Colorado towns have the same person running their chambers of commerce?",
+      "link": "https://coloradosun.com/2026/09/01/why-two-rural-colorado-chambers-teamed-up/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-01T09:39:00+00:00",
+      "age_hours": 3.5345342855555555,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Kidney donation connects 2 Denver families in ways they never imagined",
       "link": "https://www.9news.com/article/news/health/kidney-donation-connects-two-families-in-the-denver-metro-area-in-ways-they-never-imagined/73-c42caf95-dc7c-483d-bdee-a5415bc48094",
       "source": "9News",
       "pub_date": "2026-09-01T05:08:33+00:00",
-      "age_hours": 2.2582523977777775,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 8.042407227222222,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "TSA accepting new Colorado mobile ID at Denver airport",
       "link": "https://www.9news.com/article/news/local/colorado-news/tsa-accepting-colorado-mobile-id-dia/73-3c5082f9-983d-40e8-b8de-e24b2ff2b36c",
       "source": "9News",
       "pub_date": "2026-09-01T04:40:23+00:00",
-      "age_hours": 2.7276969225,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 8.511851741111112,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Sweetwater Lake mudslide further raises concerns for residents over state park plan",
       "link": "https://kdvr.com/news/local/sweetwater-lake-mudslide-further-raises-concerns-for-residents-over-state-park-plan/",
       "source": "Fox31",
       "pub_date": "2026-09-01T04:12:20+00:00",
-      "age_hours": 3.1953201649999996,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.98040756638889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Businesses worry about Santa Fe construction impacts",
       "link": "https://www.9news.com/article/money/business/small-business/businesses-worry-santa-fe-construction-impacts/73-3d9ec8c5-ccae-4bc2-b9f5-87ed9a6c58f7",
       "source": "9News",
       "pub_date": "2026-09-01T04:10:48+00:00",
-      "age_hours": 3.220752520277778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.0049073475,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Domino's offers free pizza to people who eat at other fast food restaurants",
       "link": "https://www.9news.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
       "source": "9News",
       "pub_date": "2026-09-01T02:16:50+00:00",
-      "age_hours": 5.1201969766666675,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.904351804444444,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver police respond to another street takeover on Broadway",
       "link": "https://kdvr.com/news/local/denver-police-respond-to-another-street-takeover-on-broadway/",
       "source": "Fox31",
       "pub_date": "2026-09-01T02:03:32+00:00",
-      "age_hours": 5.341986802222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.127074187777778,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Hundreds of teens cause chaos in Aurora Sunday afternoon",
       "link": "https://kdvr.com/news/local/hundreds-of-teens-cause-chaos-in-aurora-sunday-afternoon/",
       "source": "Fox31",
       "pub_date": "2026-09-01T01:25:52+00:00",
-      "age_hours": 5.969764527222223,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.754851880277778,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "'Did I leave a tip?': Man mails $50 to California restaurant weeks after visit",
       "link": "https://www.9news.com/article/news/nation-world/man-mails-tip-california-restaurant-weeks-after-visit/507-2baa3430-5dd4-4e29-a5c2-c41c825e1e57",
       "source": "9News",
       "pub_date": "2026-08-31T23:34:33+00:00",
-      "age_hours": 7.82491928,
+      "age_hours": 13.609074115555554,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "The Stockman, Auberge Collection Breaks Ground",
       "link": "https://milehighcre.com/the-stockman-auberge-collection-breaks-ground/",
       "source": "Mile High CRE",
       "pub_date": "2026-08-31T22:02:55+00:00",
-      "age_hours": 9.351932354444445,
+      "age_hours": 15.135799829444444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Aurora Pride and Latino Pride draw crowds to Winged Melody Park in Aurora Highlands",
       "link": "https://sentinelcolorado.com/metro/aurora-pride-and-latino-pride-draw-crowds-to-winged-melody-park-in-aurora-highlands/",
       "source": "Sentinel",
       "pub_date": "2026-08-31T21:32:02+00:00",
-      "age_hours": 9.8671800825,
+      "age_hours": 15.652406221388889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Jonathon Cooper\u00a0pleads not guilty to domestic violence charges",
       "link": "https://kdvr.com/news/local/jonathon-cooper-pleads-not-guilty-to-domestic-violence-charges/",
       "source": "Fox31",
       "pub_date": "2026-08-31T20:49:25+00:00",
-      "age_hours": 10.577264693055556,
+      "age_hours": 16.36235212472222,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Rally King Brewing closes after 11 years",
-      "link": "https://bizwest.com/2026/08/31/rally-king-brewing-closes-after-11-years/",
-      "source": "BizWest",
-      "pub_date": "2026-08-31T20:42:55+00:00",
-      "age_hours": 10.684942735277778,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "What happens when robotaxis meet motorcades in DC? The mother of all traffic jams, says AI expert",
-      "link": "https://www.coloradopolitics.com/2026/08/31/what-happens-when-robotaxis-meet-motorcades-in-dc-the-mother-of-all-traffic-jams-says-ai-expert/",
-      "source": "CO Politics",
-      "pub_date": "2026-08-31T20:37:15+00:00",
-      "age_hours": 10.780204520277778,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "The Riverside event venue in Boulder faces foreclosure",
-      "link": "https://bizwest.com/2026/08/31/the-riverside-event-venue-in-boulder-faces-foreclosure/",
-      "source": "BizWest",
-      "pub_date": "2026-08-31T20:37:00+00:00",
-      "age_hours": 10.783554712222223,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Northern Colorado Workforce Symposium set for Sept. 9",
-      "link": "https://bizwest.com/2026/08/31/northern-colorado-workforce-symposium-set-for-sept-9/",
-      "source": "BizWest",
-      "pub_date": "2026-08-31T20:26:32+00:00",
-      "age_hours": 10.95799921361111,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Plans call for 55-foot apartments wrapping Lincoln Hall on Naropa campus",
-      "link": "https://bizwest.com/2026/08/31/plans-call-for-55-foot-apartments-wrapping-lincoln-hall-on-naropa-campus/",
-      "source": "BizWest",
-      "pub_date": "2026-08-31T20:21:23+00:00",
-      "age_hours": 11.043832558055554,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Federal Trade Commission accuses Amazon of overcharging advertisers in new lawsuit",
-      "link": "https://www.9news.com/article/news/nation-world/federal-trade-commission-amazon-overcharging-advertisers-lawsuit/507-c852264f-794b-49d1-be10-6c51a08511e0",
-      "source": "9News",
-      "pub_date": "2026-08-31T20:19:47+00:00",
-      "age_hours": 11.071030505277779,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Aurora lawmakers consider limits on food trucks to ease complaints of crowding, storage",
-      "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-consider-limits-on-food-trucks-to-ease-complaints-of-crowding-storage/",
-      "source": "Sentinel",
-      "pub_date": "2026-08-31T19:50:42+00:00",
-      "age_hours": 11.556069395,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "JHL Celebrates Completion of Thornton Charter School Expansion",
-      "link": "https://milehighcre.com/jhl-celebrates-completion-of-thornton-charter-school-expansion/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-08-31T19:10:04+00:00",
-      "age_hours": 12.232765706944445,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "2 juveniles arrested in connection with Friday shooting",
-      "link": "https://kdvr.com/news/local/2-juveniles-arrested-in-connection-with-friday-shooting/",
-      "source": "Fox31",
-      "pub_date": "2026-08-31T18:37:26+00:00",
-      "age_hours": 12.776986871944445,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "16 hrs ago"
     }
   ]
 }
