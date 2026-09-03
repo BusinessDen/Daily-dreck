@@ -1,150 +1,177 @@
 {
   "fetched_date": "2026-09-03",
-  "fetched_at": "2026-09-03 03:24:53",
+  "fetched_at": "2026-09-03 08:38:41",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "No driver, no problem? Denver cyclists sound off on Waymo",
+      "link": "https://www.9news.com/article/news/community/transportation/no-driver-no-problem-denver-cyclists-sound-off-on-waymo/73-97e38b0d-6c23-490f-8c09-926bed50702a",
+      "source": "9News",
+      "pub_date": "2026-09-03T04:42:23+00:00",
+      "age_hours": 3.9339201444444445,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Tariff on imports could fuel auto parts price increase for Colorado consumers",
+      "link": "https://www.9news.com/article/money/economy/tariff-on-imports-could-fuel-auto-parts-price-increase-for-colorado-consumers/73-32db2484-a0dd-4ab2-bd07-3fe70f56b9d4",
+      "source": "9News",
+      "pub_date": "2026-09-03T04:40:16+00:00",
+      "age_hours": 3.9691979858333335,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "CEO and president of Good Good Golf ousted after much-criticized driver ad, reports say",
+      "link": "https://www.9news.com/article/news/nation-world/ceo-president-good-good-golf-ousted-criticized-driver-ad/507-60a8d312-3aae-4e75-9e28-e3b3730360ca",
+      "source": "9News",
+      "pub_date": "2026-09-03T03:58:26+00:00",
+      "age_hours": 4.666420273333333,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Westminster exempts diapers, formula, and feminine hygiene products from city sales tax",
       "link": "https://www.denver7.com/news/local-news/westminster-exempts-diapers-formula-and-feminine-hygiene-products-from-city-sales-tax",
       "source": "Denver7",
       "pub_date": "2026-09-03T00:36:40+00:00",
-      "age_hours": 2.799843741388889,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 8.029362078611111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Barry Morphew placed on house arrest after alleged Denver hit-and-run",
       "link": "https://kdvr.com/news/local/barry-morphew-placed-on-house-arrest-after-alleged-denver-hit-and-run/",
       "source": "Fox31",
       "pub_date": "2026-09-02T23:44:42+00:00",
-      "age_hours": 3.6659940724999998,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.895648131388889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Fed economists say lack of workers is holding Colorado, nearby states back",
       "link": "https://www.cpr.org/2026/09/02/colorado-jobs-limited-fed-economists-report/",
       "source": "CPR",
       "pub_date": "2026-09-02T22:34:17+00:00",
-      "age_hours": 4.839462050833333,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.068830070555554,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Family files civil rights lawsuit against Aurora, officer over fatal shooting of Rajon Belt-Stubblefield",
       "link": "https://sentinelcolorado.com/metro/family-sues-aurora-officer-city-over-fatal-police-shooting-of-rajon-belt-stubblefield/",
       "source": "Sentinel",
       "pub_date": "2026-09-02T22:04:31+00:00",
-      "age_hours": 5.336115325,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.565619999166667,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "What will it take to fix Sloan\u2019s Lake? $50 million.",
       "link": "https://coloradosun.com/2026/09/02/denver-sloans-lake-proposed-project-50-million/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-02T21:52:55+00:00",
-      "age_hours": 5.528807093888888,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.758122687499998,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Living with mold, leaks and garbage shines a light on renters\u2019 rights and wrongs in Aurora",
       "link": "https://sentinelcolorado.com/metro/living-with-mold-leaks-and-garbage-shines-a-light-on-renters-rights-and-wrongs-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-09-02T21:32:36+00:00",
-      "age_hours": 5.868060160000001,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.097564832500002,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Neenan Archistruction Completes Junior High School Campus in Fort Collins",
       "link": "https://milehighcre.com/neenan-archistruction-completes-junior-high-school-campus-in-fort-collins/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-02T19:28:57+00:00",
-      "age_hours": 7.928134481388889,
+      "age_hours": 13.157461381666668,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Greystar Sells Denver Apartment Building For $110M",
       "link": "https://www.bisnow.com/news/denver/multifamily/greystar-sells-denver-apartment-building-carmel-partners",
       "source": "Bisnow",
       "pub_date": "2026-09-02T19:25:04-04:00",
-      "age_hours": 3.9926685477777775,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.222004473333334,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Flintco Selected as Construction Partner for The Ranch Master Plan",
       "link": "https://milehighcre.com/flintco-selected-as-construction-partner-for-the-ranch-master-plan/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-02T18:55:16+00:00",
-      "age_hours": 8.489523668611112,
+      "age_hours": 13.718850580277778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "1 killed, 2 injured in shooting near Denver School of the Arts",
       "link": "https://kdvr.com/news/local/3-injured-in-shooting-near-denver-school-of-the-arts/",
       "source": "Fox31",
       "pub_date": "2026-09-02T16:31:21+00:00",
-      "age_hours": 10.888494087222224,
+      "age_hours": 16.11814814722222,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Weatherford Hall Breaks Ground at The Brickyard in Castle Rock",
       "link": "https://milehighcre.com/weatherford-hall-breaks-ground-at-the-brickyard-in-castle-rock/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-02T16:17:03+00:00",
-      "age_hours": 11.126468125,
+      "age_hours": 16.355795037500002,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Listen: Denver schools just banned cellphones. Here\u2019s how parents \u2014 and kids \u2014 are taking it",
       "link": "https://www.cpr.org/2026/09/02/denver-public-school-cellphone-ban/",
       "source": "CPR",
       "pub_date": "2026-09-02T16:11:07+00:00",
-      "age_hours": 11.225573213888888,
+      "age_hours": 16.454941238055557,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "New Denver recycling compost ordinance now in effect",
       "link": "https://kdvr.com/news/local/new-denver-recycling-compost-ordinance-now-in-effect/",
       "source": "Fox31",
       "pub_date": "2026-09-02T14:12:28+00:00",
-      "age_hours": 13.203216401388888,
+      "age_hours": 18.432870461666667,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Xcel\u2019s push for fast decision on power line path is rejected by Colorado Supreme Court",
       "link": "https://coloradosun.com/2026/09/02/xcel-power-line-cheyenne-county-condemnation-colorado-supreme-court/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-02T10:09:00+00:00",
-      "age_hours": 17.260751567222222,
+      "age_hours": 22.49006716583333,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Don\u2019t trade away our TABOR refunds | PODIUM",
       "link": "https://www.coloradopolitics.com/2026/09/02/dont-trade-away-our-tabor-refunds-podium/",
       "source": "CO Politics",
       "pub_date": "2026-09-02T07:00:00+00:00",
-      "age_hours": 20.411353818055556,
+      "age_hours": 25.640862572222222,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Waymo welcomes its first Denver-area riders to its cars",
       "link": "https://kdvr.com/news/local/waymo-welcomes-its-first-denver-area-riders-to-its-cars/",
       "source": "Fox31",
       "pub_date": "2026-09-02T01:29:10+00:00",
-      "age_hours": 25.924883179722222,
+      "age_hours": 31.154537249999997,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://kdvr.com/news/local/rideshare-drivers-fear-job-losses-as-waymo-begins-carrying-passengers-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-02T00:28:09+00:00",
-      "age_hours": 26.94182766722222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver police make 7 arrests following street takeover on Broadway",
-      "link": "https://kdvr.com/news/local/denver-police-make-7-arrests-following-street-takeover-on-broadway/",
-      "source": "Fox31",
-      "pub_date": "2026-09-01T23:57:51+00:00",
-      "age_hours": 27.44682757888889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Capped or graduated income tax rate? Colorado voters to decide",
-      "link": "https://www.coloradopolitics.com/2026/09/01/capped-or-graduated-income-tax-rate-colorado-voters-to-decide/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-01T22:19:49+00:00",
-      "age_hours": 29.081076069166667,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "4 things to know about Waste No More, Denver\u2019s new recycling rules",
-      "link": "https://denverite.com/2026/09/01/new-denver-recycling-compost-rules/",
-      "source": "Denverite",
-      "pub_date": "2026-09-01T22:04:21+00:00",
-      "age_hours": 29.338305929444445,
+      "age_hours": 32.17148174555555,
       "breaking": false,
       "time_ago": "1 day ago"
     }
