@@ -1,96 +1,78 @@
 {
-  "fetched_date": "2026-09-02",
-  "fetched_at": "2026-09-02 23:03:08",
+  "fetched_date": "2026-09-03",
+  "fetched_at": "2026-09-03 03:24:53",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Westminster exempts diapers, formula, and feminine hygiene products from city sales tax",
+      "link": "https://www.denver7.com/news/local-news/westminster-exempts-diapers-formula-and-feminine-hygiene-products-from-city-sales-tax",
+      "source": "Denver7",
+      "pub_date": "2026-09-03T00:36:40+00:00",
+      "age_hours": 2.799843741388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Barry Morphew placed on house arrest after alleged Denver hit-and-run",
+      "link": "https://kdvr.com/news/local/barry-morphew-placed-on-house-arrest-after-alleged-denver-hit-and-run/",
+      "source": "Fox31",
+      "pub_date": "2026-09-02T23:44:42+00:00",
+      "age_hours": 3.6659940724999998,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Fed economists say lack of workers is holding Colorado, nearby states back",
       "link": "https://www.cpr.org/2026/09/02/colorado-jobs-limited-fed-economists-report/",
       "source": "CPR",
       "pub_date": "2026-09-02T22:34:17+00:00",
-      "age_hours": 0.47641125138888885,
+      "age_hours": 4.839462050833333,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Family files civil rights lawsuit against Aurora, officer over fatal shooting of Rajon Belt-Stubblefield",
       "link": "https://sentinelcolorado.com/metro/family-sues-aurora-officer-city-over-fatal-police-shooting-of-rajon-belt-stubblefield/",
       "source": "Sentinel",
       "pub_date": "2026-09-02T22:04:31+00:00",
-      "age_hours": 0.9730072961111111,
+      "age_hours": 5.336115325,
       "breaking": true,
-      "time_ago": "58 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "What will it take to fix Sloan\u2019s Lake? $50 million.",
       "link": "https://coloradosun.com/2026/09/02/denver-sloans-lake-proposed-project-50-million/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-02T21:52:55+00:00",
-      "age_hours": 1.1657892,
+      "age_hours": 5.528807093888888,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Living with mold, leaks and garbage shines a light on renters\u2019 rights and wrongs in Aurora",
       "link": "https://sentinelcolorado.com/metro/living-with-mold-leaks-and-garbage-shines-a-light-on-renters-rights-and-wrongs-in-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-09-02T21:32:36+00:00",
-      "age_hours": 1.5049521158333332,
+      "age_hours": 5.868060160000001,
       "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Planners urge Weld to OK GlobalAI\u2019s data-center permit",
-      "link": "https://bizwest.com/2026/09/02/planners-urge-weld-to-ok-globalais-data-center-permit/",
-      "source": "BizWest",
-      "pub_date": "2026-09-02T21:22:59+00:00",
-      "age_hours": 1.6642968658333332,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Greeley sends 0.6% sales, use tax to ballot",
-      "link": "https://bizwest.com/2026/09/02/greeley-sends-0-6-sales-use-tax-to-ballot/",
-      "source": "BizWest",
-      "pub_date": "2026-09-02T20:56:49+00:00",
-      "age_hours": 2.1004085019444445,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "FNBO to acquire Inbank in $200M deal, expand Colorado footprint",
-      "link": "https://bizwest.com/2026/09/02/fnbo-to-acquire-inbank-in-200m-deal-expand-colorado-footprint/",
-      "source": "BizWest",
-      "pub_date": "2026-09-02T20:45:28+00:00",
-      "age_hours": 2.2895751777777775,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Loveland likely to impose data-center moratorium",
-      "link": "https://bizwest.com/2026/09/02/loveland-likely-to-impose-data-center-moratorium/",
-      "source": "BizWest",
-      "pub_date": "2026-09-02T19:53:36+00:00",
-      "age_hours": 3.154019627777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Collegiate Peaks opens Boulder loan office, eyes bank branch",
-      "link": "https://bizwest.com/2026/09/02/collegiate-peaks-opens-boulder-loan-office-eyes-bank-branch/",
-      "source": "BizWest",
-      "pub_date": "2026-09-02T19:37:57+00:00",
-      "age_hours": 3.4148529919444446,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Neenan Archistruction Completes Junior High School Campus in Fort Collins",
       "link": "https://milehighcre.com/neenan-archistruction-completes-junior-high-school-campus-in-fort-collins/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-02T19:28:57+00:00",
-      "age_hours": 3.565145613888889,
+      "age_hours": 7.928134481388889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Greystar Sells Denver Apartment Building For $110M",
+      "link": "https://www.bisnow.com/news/denver/multifamily/greystar-sells-denver-apartment-building-carmel-partners",
+      "source": "Bisnow",
+      "pub_date": "2026-09-02T19:25:04-04:00",
+      "age_hours": 3.9926685477777775,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -99,90 +81,108 @@
       "link": "https://milehighcre.com/flintco-selected-as-construction-partner-for-the-ranch-master-plan/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-02T18:55:16+00:00",
-      "age_hours": 4.1265348005555555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Watchmaker Genomics leases 100K SF in Boulder\u2019s Flatiron Park",
-      "link": "https://bizwest.com/2026/09/02/watchmaker-genomics-leases-100k-sf-in-boulders-flatiron-park/",
-      "source": "BizWest",
-      "pub_date": "2026-09-02T17:25:04+00:00",
-      "age_hours": 5.629575244444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.489523668611112,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "1 killed, 2 injured in shooting near Denver School of the Arts",
       "link": "https://kdvr.com/news/local/3-injured-in-shooting-near-denver-school-of-the-arts/",
       "source": "Fox31",
       "pub_date": "2026-09-02T16:31:21+00:00",
-      "age_hours": 6.525543541666667,
+      "age_hours": 10.888494087222224,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Weatherford Hall Breaks Ground at The Brickyard in Castle Rock",
       "link": "https://milehighcre.com/weatherford-hall-breaks-ground-at-the-brickyard-in-castle-rock/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-02T16:17:03+00:00",
-      "age_hours": 6.763479256388889,
+      "age_hours": 11.126468125,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Listen: Denver schools just banned cellphones. Here\u2019s how parents \u2014 and kids \u2014 are taking it",
       "link": "https://www.cpr.org/2026/09/02/denver-public-school-cellphone-ban/",
       "source": "CPR",
       "pub_date": "2026-09-02T16:11:07+00:00",
-      "age_hours": 6.862522417222222,
+      "age_hours": 11.225573213888888,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "New Denver recycling compost ordinance now in effect",
       "link": "https://kdvr.com/news/local/new-denver-recycling-compost-ordinance-now-in-effect/",
       "source": "Fox31",
       "pub_date": "2026-09-02T14:12:28+00:00",
-      "age_hours": 8.840265848055555,
+      "age_hours": 13.203216401388888,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
-      "title": "FNBO plans to buy Denver-based InBank",
-      "link": "https://www.9news.com/article/money/business/fnbo-plans-to-buy-denver-based-inbank/73-891b2f8e-5ef4-43a3-9c34-4200eed00903",
-      "source": "9News",
-      "pub_date": "2026-09-02T13:24:10+00:00",
-      "age_hours": 9.645069656111112,
+      "title": "Xcel\u2019s push for fast decision on power line path is rejected by Colorado Supreme Court",
+      "link": "https://coloradosun.com/2026/09/02/xcel-power-line-cheyenne-county-condemnation-colorado-supreme-court/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-02T10:09:00+00:00",
+      "age_hours": 17.260751567222222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
-      "title": "Denver science museum opens new wing after record donation",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/denver-science-museum-opens-new-wing-after-record-donation/73-14e1bcc3-4023-471b-b793-3047e594b131",
-      "source": "9News",
-      "pub_date": "2026-09-02T13:22:46+00:00",
-      "age_hours": 9.668402997777777,
+      "title": "Don\u2019t trade away our TABOR refunds | PODIUM",
+      "link": "https://www.coloradopolitics.com/2026/09/02/dont-trade-away-our-tabor-refunds-podium/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-02T07:00:00+00:00",
+      "age_hours": 20.411353818055556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
-      "title": "Wellington\u2019s Visocky among BizWest Women of Distinction honorees",
-      "link": "https://bizwest.com/2026/09/02/wellingtons-visocky-among-bizwest-women-of-distinction-honorees/",
-      "source": "BizWest",
-      "pub_date": "2026-09-02T13:13:29+00:00",
-      "age_hours": 9.822630805833333,
+      "title": "Waymo welcomes its first Denver-area riders to its cars",
+      "link": "https://kdvr.com/news/local/waymo-welcomes-its-first-denver-area-riders-to-its-cars/",
+      "source": "Fox31",
+      "pub_date": "2026-09-02T01:29:10+00:00",
+      "age_hours": 25.924883179722222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
-      "title": "Bank of Colorado to relocate in downtown Loveland in November",
-      "link": "https://bizwest.com/2026/09/02/bank-of-colorado-to-relocate-in-downtown-loveland-in-november/",
-      "source": "BizWest",
-      "pub_date": "2026-09-02T13:06:15+00:00",
-      "age_hours": 9.943186396944444,
+      "title": "Rideshare drivers fear job losses as Waymo begins carrying passengers in Denver",
+      "link": "https://kdvr.com/news/local/rideshare-drivers-fear-job-losses-as-waymo-begins-carrying-passengers-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-09-02T00:28:09+00:00",
+      "age_hours": 26.94182766722222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Denver police make 7 arrests following street takeover on Broadway",
+      "link": "https://kdvr.com/news/local/denver-police-make-7-arrests-following-street-takeover-on-broadway/",
+      "source": "Fox31",
+      "pub_date": "2026-09-01T23:57:51+00:00",
+      "age_hours": 27.44682757888889,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Capped or graduated income tax rate? Colorado voters to decide",
+      "link": "https://www.coloradopolitics.com/2026/09/01/capped-or-graduated-income-tax-rate-colorado-voters-to-decide/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-01T22:19:49+00:00",
+      "age_hours": 29.081076069166667,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "4 things to know about Waste No More, Denver\u2019s new recycling rules",
+      "link": "https://denverite.com/2026/09/01/new-denver-recycling-compost-rules/",
+      "source": "Denverite",
+      "pub_date": "2026-09-01T22:04:21+00:00",
+      "age_hours": 29.338305929444445,
+      "breaking": false,
+      "time_ago": "1 day ago"
     }
   ]
 }
