@@ -1,42 +1,87 @@
 {
   "fetched_date": "2026-09-04",
-  "fetched_at": "2026-09-04 20:24:34",
+  "fetched_at": "2026-09-04 22:49:34",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "SENTINEL MUSE: Spend part of Labor Day checking out the real thing at the Gully House",
+      "link": "https://sentinelcolorado.com/metro/sentinel-muse-spend-part-of-labor-day-checking-out-the-real-thing-at-the-gully-house/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-04T21:39:53+00:00",
+      "age_hours": 1.1568170325,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver cleaners fire displaces employees, damages 3,000 garments",
+      "link": "https://kdvr.com/news/local/denver-cleaners-fire-displaces-employees-damages-3000-garments/",
+      "source": "Fox31",
+      "pub_date": "2026-09-04T21:35:34+00:00",
+      "age_hours": 1.2284625669444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Man injured in shooting during dispute at condemned northwest Aurora apartment",
+      "link": "https://sentinelcolorado.com/metro/man-injured-in-shooting-during-dispute-at-condemned-northwest-aurora-apartment/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-04T21:28:41+00:00",
+      "age_hours": 1.3434840749999999,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado-wide student protest against ICE turns violent in Denver",
+      "link": "https://coloradosun.com/2026/09/04/colorado-ice-protests-students-denver-immigration/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-04T20:46:44+00:00",
+      "age_hours": 2.0418503341666665,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "El National Western Center inicia la construcci\u00f3n de una nueva pista ecuestre",
       "link": "https://www.9news.com/article/news/el-national-western-center-inicia-la-construccin-de-una-nueva-pista-ecuestre/73-f00544de-c245-4611-82c2-d4f302ea0e75",
       "source": "9News",
       "pub_date": "2026-09-04T19:52:24+00:00",
-      "age_hours": 0.5328341841666666,
+      "age_hours": 2.947600495277778,
       "breaking": true,
-      "time_ago": "31 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "After \u201csuspicious\u201d dropout, judge lets Colorado Libertarians pick new secretary of state candidate",
       "link": "https://coloradosun.com/2026/09/04/colorado-judge-allows-libertarian-party-pick-secretary-of-state-candidate/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-04T19:35:07+00:00",
-      "age_hours": 0.8206764858333333,
+      "age_hours": 3.23546205,
       "breaking": true,
-      "time_ago": "49 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "10th Circuit upholds finding of no racial discrimination against family at Denver Chili\u2019s",
       "link": "https://www.coloradopolitics.com/2026/09/04/10th-circuit-upholds-finding-of-no-racial-discrimination-against-family-at-denver-chilis/",
       "source": "CO Politics",
       "pub_date": "2026-09-04T18:30:29+00:00",
-      "age_hours": 1.898836901388889,
+      "age_hours": 4.313465493055555,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Amazon opens new fulfillment center in northern Colorado",
       "link": "https://www.9news.com/article/money/business/amazon-opens-new-northern-colorado-fulfillment-center/73-dd16027b-9464-433c-8d3d-9ccb2b3d6b30",
       "source": "9News",
       "pub_date": "2026-09-04T17:44:46+00:00",
-      "age_hours": 2.66005645,
+      "age_hours": 5.074822741666667,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Nearly 35K SF Shopping Center Sells For $8.5M: The Denver Deal Sheet",
+      "link": "https://www.bisnow.com/news/denver/deal-sheet/nearly-35k-sf-shopping-center-sells-for-8-5m-the-denver-deal-sheet",
+      "source": "Bisnow",
+      "pub_date": "2026-09-04T16:09:35-04:00",
+      "age_hours": 2.6606450794444445,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
@@ -45,144 +90,99 @@
       "link": "https://www.9news.com/article/life/style/colorado-guide/threshing-day-rebecca-yarros-bringing-fourth-wing-book-tour-to-colorado/73-faf2807a-e35f-41d5-97d1-c48b822f03c5",
       "source": "9News",
       "pub_date": "2026-09-04T14:10:29+00:00",
-      "age_hours": 6.231445436666666,
+      "age_hours": 8.646211726666667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "US job market rebounds with 162,000 new jobs; unemployment rate stays at 4.1%",
       "link": "https://www.9news.com/article/news/nation-world/us-job-market-rebounds-unemployment-rate-unchanged/507-3eda97aa-ff7a-499b-920c-0dd52c1f2c56",
       "source": "9News",
       "pub_date": "2026-09-04T14:07:07+00:00",
-      "age_hours": 6.287556556666666,
+      "age_hours": 8.702322845833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "National Western Center breaks ground on new equestrian arena",
       "link": "https://www.9news.com/article/entertainment/events/national-western-stock-show/national-western-center-breaks-ground-on-new-equestrian-arena/73-46c86e66-f150-4d55-be3d-8b27366fd080",
       "source": "9News",
       "pub_date": "2026-09-04T14:02:10+00:00",
-      "age_hours": 6.3700566025,
+      "age_hours": 8.784822889722221,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "8 bands to see at Denver\u2019s debut PorchFest",
       "link": "https://www.cpr.org/2026/09/04/8-bands-to-see-at-denvers-debut-porchfest/",
       "source": "CPR",
       "pub_date": "2026-09-04T13:57:58+00:00",
-      "age_hours": 6.440027762222223,
+      "age_hours": 8.8547493975,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado\u2019s bats live in surprising places. Biologists, and volunteer observers, are trying to find them.",
       "link": "https://coloradosun.com/2026/09/04/colorado-bat-watch-program-white-nose-syndrome-research/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-04T10:02:00+00:00",
-      "age_hours": 10.372621716388888,
+      "age_hours": 12.787407243055556,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "United Airline\u2019s CEO on investments in Denver, AI, and green aviation fuel",
       "link": "https://www.cpr.org/2026/09/04/united-airlines-ceo-scott-kirby-denver-ai-sustainable-fuel/",
       "source": "CPR",
       "pub_date": "2026-09-04T10:00:00+00:00",
-      "age_hours": 10.406138929722221,
+      "age_hours": 12.820860565833334,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Grand Junction cuts tree protection over development concerns",
       "link": "https://www.cpr.org/2026/09/04/grand-junction-cuts-tree-protection/",
       "source": "CPR",
       "pub_date": "2026-09-04T10:00:00+00:00",
-      "age_hours": 10.406138945833334,
+      "age_hours": 12.820860572777777,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Amy Redford says Sundance connects Colorado filmmakers in an isolated industry",
       "link": "https://coloradosun.com/2026/09/04/amy-redford-sundance-film-festival-q-and-a/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-04T09:50:00+00:00",
-      "age_hours": 10.572622203055555,
+      "age_hours": 12.987407728888888,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Are the 2 tallest buildings in Colorado Springs in foreclosure?",
       "link": "https://coloradosun.com/2026/09/04/two-tallest-buildings-in-colorado-springs-in-foreclosure/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-04T09:30:00+00:00",
-      "age_hours": 10.905956225277778,
+      "age_hours": 13.320741723055557,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Regulators knew this marijuana product was harming people. It stayed on shelves for more than a year",
       "link": "https://www.coloradopolitics.com/2026/09/04/regulators-knew-this-marijuana-product-was-harming-people-it-stayed-on-shelves-for-more-than-a-year/",
       "source": "CO Politics",
       "pub_date": "2026-09-04T09:00:00+00:00",
-      "age_hours": 11.406892558611112,
+      "age_hours": 13.821521148055554,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Attempted murder suspect arrested in Denver",
       "link": "https://kdvr.com/news/local/attempted-murder-suspect-arrested-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-04T00:47:43+00:00",
-      "age_hours": 19.611207076666666,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Group forming to try and help save Neighborhood Lake",
-      "link": "https://kdvr.com/news/local/group-forming-to-try-and-help-save-neighborhood-lake/",
-      "source": "Fox31",
-      "pub_date": "2026-09-04T00:12:51+00:00",
-      "age_hours": 20.192318144166666,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Colorado stalling out at the intersection of construction and competition",
-      "link": "https://www.cpr.org/2026/09/03/colorado-construction-jobs-competition/",
-      "source": "CPR",
-      "pub_date": "2026-09-03T21:56:20+00:00",
-      "age_hours": 22.467250073611112,
+      "age_hours": 22.0259627275,
       "breaking": false,
       "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Ikon Pass company Alterra to move into former Denver Post building, create downtown \u2018outdoor hub\u2019",
-      "link": "https://www.coloradopolitics.com/2026/09/03/ikon-pass-company-alterra-to-move-into-former-denver-post-building-create-downtown-outdoor-hub/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-03T20:47:20+00:00",
-      "age_hours": 23.618003808333334,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Why Denver and Colorado offered millions to move ski giant Alterra 2 miles",
-      "link": "https://denverite.com/2026/09/03/denver-post-building-sold-alterra/",
-      "source": "Denverite",
-      "pub_date": "2026-09-03T18:54:36+00:00",
-      "age_hours": 25.49605719722222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Fentanyl sentencing, tax overhauls and transgender\u2011related issues anchor Colorado\u2019s 14 ballot measures",
-      "link": "https://www.coloradopolitics.com/2026/09/03/fentanyl-sentencing-tax-overhauls-and-transgender-related-issues-anchor-colorados-14-ballot-measures/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-03T18:16:25+00:00",
-      "age_hours": 26.13328159611111,
-      "breaking": false,
-      "time_ago": "1 day ago"
     }
   ]
 }
