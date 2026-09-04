@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-09-03",
-  "fetched_at": "2026-09-03 23:01:31",
+  "fetched_date": "2026-09-04",
+  "fetched_at": "2026-09-04 03:23:02",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Elmo baby teething toys recalled over choking hazard from detaching eyes",
+      "link": "https://www.9news.com/article/news/nation-world/elmo-teethers-recalled-choking-hazard-detaching-eyes/507-5514ef2d-25dc-40c1-8656-98d654095a23",
+      "source": "9News",
+      "pub_date": "2026-09-04T01:05:24+00:00",
+      "age_hours": 2.290382462777778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Attempted murder suspect arrested in Denver",
+      "link": "https://kdvr.com/news/local/attempted-murder-suspect-arrested-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-09-04T00:47:43+00:00",
+      "age_hours": 2.5853494458333333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver man turns sidewalk frustrations into website to track walkability problems",
+      "link": "https://www.9news.com/article/news/community/denver-man-sidewalk-frustrations-website-to-walkability-problems/73-ebc5dcde-7e20-4f8c-a636-1e1779dd7c9f",
+      "source": "9News",
+      "pub_date": "2026-09-04T00:46:52+00:00",
+      "age_hours": 2.599271366944444,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Group forming to try and help save Neighborhood Lake",
+      "link": "https://kdvr.com/news/local/group-forming-to-try-and-help-save-neighborhood-lake/",
+      "source": "Fox31",
+      "pub_date": "2026-09-04T00:12:51+00:00",
+      "age_hours": 3.1664605108333332,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "It's the Great Pumpkin Spice Latte, Charlie Brown: Starbucks collabs with Peanuts for new fall collection",
       "link": "https://www.9news.com/article/news/nation-world/snoopy-starbucks-collabs-peanuts-great-pumpkin-charlie-brown/507-e5a42b19-2015-4b33-85f8-77eba3a3c4c3",
       "source": "9News",
       "pub_date": "2026-09-03T22:47:54+00:00",
-      "age_hours": 0.223055485,
+      "age_hours": 4.582049229166667,
       "breaking": true,
-      "time_ago": "13 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Alterra Mountain moving HQ to downtown Denver",
       "link": "https://www.9news.com/article/money/business/alterra-mountain-headquarters-denver-move/73-138878d3-bd1a-48c2-9861-f09e74e04fb7",
       "source": "9News",
       "pub_date": "2026-09-03T22:26:34+00:00",
-      "age_hours": 0.5786110841666666,
+      "age_hours": 4.937604823888889,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado stalling out at the intersection of construction and competition",
       "link": "https://www.cpr.org/2026/09/03/colorado-construction-jobs-competition/",
       "source": "CPR",
       "pub_date": "2026-09-03T21:56:20+00:00",
-      "age_hours": 1.0824043530555556,
+      "age_hours": 5.441383249166666,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "An Aurora star is scheduled to be born Sept. 12 on Time Square. Be there",
       "link": "https://sentinelcolorado.com/metro/an-aurora-star-is-scheduled-to-be-born-sept-12-on-time-square-be-there/",
       "source": "Sentinel",
       "pub_date": "2026-09-03T21:04:50+00:00",
-      "age_hours": 1.9413277405555556,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.3005079575,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Ikon Pass company Alterra to move into former Denver Post building, create downtown \u2018outdoor hub\u2019",
       "link": "https://www.coloradopolitics.com/2026/09/03/ikon-pass-company-alterra-to-move-into-former-denver-post-building-create-downtown-outdoor-hub/",
       "source": "CO Politics",
       "pub_date": "2026-09-03T20:47:20+00:00",
-      "age_hours": 2.2329843677777776,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.592118615555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "E-bike injuries jumped 184% as Children\u2019s Hospital Colorado warns of rising risks",
       "link": "https://sentinelcolorado.com/metro/e-bike-injuries-jumped-184-as-childrens-hospital-colorado-warns-of-rising-risks/",
       "source": "Sentinel",
       "pub_date": "2026-09-03T20:42:43+00:00",
-      "age_hours": 2.309939090555556,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.669119326666666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Why Denver and Colorado offered millions to move ski giant Alterra 2 miles",
       "link": "https://denverite.com/2026/09/03/denver-post-building-sold-alterra/",
       "source": "Denverite",
       "pub_date": "2026-09-03T18:54:36+00:00",
-      "age_hours": 4.111250249444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 8.470200906111112,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Fentanyl sentencing, tax overhauls and transgender\u2011related issues anchor Colorado\u2019s 14 ballot measures",
       "link": "https://www.coloradopolitics.com/2026/09/03/fentanyl-sentencing-tax-overhauls-and-transgender-related-issues-anchor-colorados-14-ballot-measures/",
       "source": "CO Politics",
       "pub_date": "2026-09-03T18:16:25+00:00",
-      "age_hours": 4.748262160555556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Energize Denver Adopts Updated Rules",
-      "link": "https://milehighcre.com/energize-denver-adopts-updated-rules/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-03T17:03:07+00:00",
-      "age_hours": 5.969148521388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.10739640888889,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Listen: Waymo launches in Denver starting Sept. 1",
       "link": "https://www.cpr.org/2026/09/03/listen-waymo-launches-in-denver-starting-sept-1/",
       "source": "CPR",
       "pub_date": "2026-09-03T16:39:48+00:00",
-      "age_hours": 6.357959928333333,
+      "age_hours": 10.716938848611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "In-N-Out eyes vacant Denver restaurant property for new location",
       "link": "https://www.9news.com/article/life/style/colorado-guide/in-n-out-eyes-vacant-denver-restaurant-property-for-new-location/73-210d05ec-a808-4e4c-b3e5-2f3a537995b0",
       "source": "9News",
       "pub_date": "2026-09-03T16:38:42+00:00",
-      "age_hours": 6.376388943888889,
+      "age_hours": 10.73538266611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Hundreds of thousands of holiday travelers expected in Colorado over Labor Day weekend",
-      "link": "https://www.9news.com/article/news/community/transportation/hundreds-of-thousands-holiday-travelers-expected-colorado-labor-day-weekend/73-d99df098-89e7-429f-ba1c-962eb224de00",
-      "source": "9News",
-      "pub_date": "2026-09-03T16:18:47+00:00",
-      "age_hours": 6.708333429722223,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Mile High Transactions Report Week Ending 09.04.26",
-      "link": "https://milehighcre.com/mile-high-transactions-report-week-ending-09-04-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-03T16:06:27+00:00",
-      "age_hours": 6.913592989166667,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Yukon Jack at The Grizzly Rose: Is Garth Brooks returning to the Denver venue?",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/garth-brooks-secret-grizzly-rose-concert-yukon-jack/73-eb547336-06b3-426c-adc7-60ec89ab73b9",
-      "source": "9News",
-      "pub_date": "2026-09-03T15:41:45+00:00",
-      "age_hours": 7.325555705277778,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Arvada considers paid parking in Olde Town",
       "link": "https://kdvr.com/news/local/arvada-considers-paid-parking-in-olde-town/",
       "source": "Fox31",
       "pub_date": "2026-09-03T14:06:25+00:00",
-      "age_hours": 8.914708312777778,
+      "age_hours": 13.27368283888889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 09.04.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-09-04-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-03T13:51:44+00:00",
-      "age_hours": 9.158870775,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Affordable Townhome Community in Clifton Awarded 9% Low-Income Housing Tax Credits",
-      "link": "https://milehighcre.com/affordable-townhome-community-in-clifton-awarded-9-low-income-housing-tax-credits/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-03T13:41:24+00:00",
-      "age_hours": 9.331093007222222,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Rapids make largest cash-for-player trade in MLS history",
-      "link": "https://www.9news.com/article/sports/soccer/colorado-rapids/rafael-navarro-traded-mls-rapids/73-f183d2f7-2c0a-45a1-9f42-13273f093d0a",
-      "source": "9News",
-      "pub_date": "2026-09-03T13:38:53+00:00",
-      "age_hours": 9.373333508333333,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Vail breaks ground on $185M workforce housing project",
-      "link": "https://www.9news.com/article/money/business/vail-affordable-apartments-workforce-housing/73-ef2f4859-6f1e-49cb-9f1c-165388bb1a94",
-      "source": "9News",
-      "pub_date": "2026-09-03T13:33:36+00:00",
-      "age_hours": 9.461389068611112,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Can a Democrat flip the state\u2019s reddest seat? Eileen Laubacher is trying",
       "link": "https://www.cpr.org/2026/09/03/democrat-eileen-laubacher-4th-congressional-district-race/",
       "source": "CPR",
       "pub_date": "2026-09-03T10:00:00+00:00",
-      "age_hours": 13.021293304166667,
+      "age_hours": 17.380272231944446,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "17 hrs ago"
+    },
+    {
+      "title": "Castle Rock Town Council passes measure expanding authority over school-designated land and funds",
+      "link": "https://www.coloradopolitics.com/2026/09/02/castle-rock-town-council-passes-measure-expanding-authority-over-school-designated-land-and-funds/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-03T00:41:29+00:00",
+      "age_hours": 26.689618745555556,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Westminster exempts diapers, formula, and feminine hygiene products from city sales tax",
+      "link": "https://www.denver7.com/news/local-news/westminster-exempts-diapers-formula-and-feminine-hygiene-products-from-city-sales-tax",
+      "source": "Denver7",
+      "pub_date": "2026-09-03T00:36:40+00:00",
+      "age_hours": 26.769370161944444,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Petitions seek to place noise restrictions, surveillance cameras and water limits on Colorado Springs ballot",
+      "link": "https://www.coloradopolitics.com/2026/09/02/petitions-seek-to-place-noise-restrictions-surveillance-cameras-and-water-limits-on-colorado-springs-ballot/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-02T19:42:55+00:00",
+      "age_hours": 31.665729899444447,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Greystar Sells Denver Apartment Building For $110M",
+      "link": "https://www.bisnow.com/news/denver/multifamily/greystar-sells-denver-apartment-building-carmel-partners",
+      "source": "Bisnow",
+      "pub_date": "2026-09-02T19:25:04-04:00",
+      "age_hours": 27.962117901666666,
+      "breaking": false,
+      "time_ago": "1 day ago"
     }
   ]
 }
