@@ -1,69 +1,51 @@
 {
   "fetched_date": "2026-09-05",
-  "fetched_at": "2026-09-05 20:57:46",
+  "fetched_at": "2026-09-05 22:46:19",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Community College of Aurora President Mordecai Brownlee moving to CSU spur",
+      "link": "https://sentinelcolorado.com/metro/mordecai-brownlee-to-step-down-in-december-as-president-of-community-college-of-aurora/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-05T22:19:11+00:00",
+      "age_hours": 0.4484842972222222,
+      "breaking": true,
+      "time_ago": "26 min ago"
+    },
+    {
+      "title": "Motorcyclist dies after vehicle crash in Denver",
+      "link": "https://www.9news.com/article/news/local/motorcyclist-dies-after-vehicle-crash-in-denver/73-febacf11-860f-4f58-a04a-62a2d3868dc7",
+      "source": "9News",
+      "pub_date": "2026-09-05T21:55:33+00:00",
+      "age_hours": 0.8418027247222223,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
+    {
+      "title": "Denver crash leaves 1 dead",
+      "link": "https://www.9news.com/article/traffic/incidents/denver-crash-40th-kittredge/73-1c199df2-2ad5-4814-b5eb-e919415a866d",
+      "source": "9News",
+      "pub_date": "2026-09-05T21:55:33+00:00",
+      "age_hours": 0.8418027655555556,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
     {
       "title": "\u2018Poor choices\u2019 have made Colorado less desirable, says Denver Metro Chamber CEO",
       "link": "https://www.cpr.org/2026/09/05/denver-metro-chamber-ceo-downtown-vacancies-jobs/",
       "source": "CPR",
       "pub_date": "2026-09-05T19:00:00+00:00",
-      "age_hours": 1.9595066241666668,
+      "age_hours": 3.7675845505555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "The fastest growing (and declining) job industries of the next decade: Federal data",
       "link": "https://kdvr.com/news/nationalworld-news/the-fastest-growing-and-declining-job-industries-of-the-next-decade-federal-data/",
       "source": "Fox31",
       "pub_date": "2026-09-05T18:12:15+00:00",
-      "age_hours": 2.755553074166667,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Hope House Northern Colorado plans move to larger Greeley resource center",
-      "link": "https://bizwest.com/2026/09/05/hope-house-northern-colorado-plans-move-to-larger-greeley-resource-center/",
-      "source": "BizWest",
-      "pub_date": "2026-09-05T17:14:29+00:00",
-      "age_hours": 3.7177686624999997,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "3 Square Art names Fort Collins director",
-      "link": "https://bizwest.com/2026/09/05/3-square-art-names-fort-collins-director/",
-      "source": "BizWest",
-      "pub_date": "2026-09-05T17:00:22+00:00",
-      "age_hours": 3.9530469544444444,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "A Woman\u2019s Place seeks buyer, new use for former Greeley safehouse",
-      "link": "https://bizwest.com/2026/09/05/a-womans-place-seeks-buyer-new-use-for-former-greeley-safehouse/",
-      "source": "BizWest",
-      "pub_date": "2026-09-05T16:39:00+00:00",
-      "age_hours": 4.309158097777778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Human Bean to raise funds for firefighter charity",
-      "link": "https://bizwest.com/2026/09/05/human-bean-to-raise-funds-for-firefighter-charity/",
-      "source": "BizWest",
-      "pub_date": "2026-09-05T16:21:54+00:00",
-      "age_hours": 4.594158135,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Avery\u2019s Light plans NoCoFest fundraiser in Fort Collins",
-      "link": "https://bizwest.com/2026/09/05/averys-light-plans-nocofest-fundraiser-in-fort-collins/",
-      "source": "BizWest",
-      "pub_date": "2026-09-05T16:11:39+00:00",
-      "age_hours": 4.764991474444444,
+      "age_hours": 4.56372595638889,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -72,106 +54,106 @@
       "link": "https://www.9news.com/article/news/nation-world/diesel-fuel-price-per-gallon-record-breaking/507-5c05d3f7-91be-431b-92a2-2b1ae80c2e8f",
       "source": "9News",
       "pub_date": "2026-09-05T13:24:35+00:00",
-      "age_hours": 7.549832850833333,
+      "age_hours": 9.357913916111112,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
       "link": "https://sentinelcolorado.com/nation-world/nation/iran-accuses-the-us-of-targeting-a-tanker-near-kharg-island-and-other-key-mideast-developments/",
       "source": "Sentinel",
       "pub_date": "2026-09-05T13:10:10+00:00",
-      "age_hours": 7.7905478299999995,
+      "age_hours": 9.598762195555555,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado just made it easier to get a COVID vaccine this year",
       "link": "https://coloradosun.com/2026/09/05/covid-vaccine-fall-2026-without-prescription/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-05T09:22:00+00:00",
-      "age_hours": 11.592769733333332,
+      "age_hours": 13.400752855277778,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Every opening and closing this week: Two Asian eateries shutter down south",
       "link": "https://www.westword.com/food-drink/denver-restaurant-closings-openings-mian-noodle-rino-treathouse-40930770/",
       "source": "Westword",
       "pub_date": "2026-09-05T07:01:00-06:00",
-      "age_hours": 7.943168741666666,
+      "age_hours": 9.751334780833332,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Football: 2026 Aurora Week 2 scoreboard, schedule",
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-2026-aurora-week-2-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-09-05T06:42:40+00:00",
-      "age_hours": 14.248881176944446,
+      "age_hours": 16.057095536944445,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Denver suspends Nativ Hotel & Gatsby Social's licenses again, citing violence and unlicensed security",
       "link": "https://www.9news.com/article/money/business/denver-suspends-nativ-hotel-gatsby-socials-licenses-again-citing-violence-and-unlicensed-security/73-be4d91dc-f109-4806-bfd6-ad521f327040",
       "source": "9News",
       "pub_date": "2026-09-05T05:17:33+00:00",
-      "age_hours": 15.667055125555557,
+      "age_hours": 17.475136173055557,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Community rallies around food truck owner t-boned during hit-and-run crash",
       "link": "https://kdvr.com/news/local/community-rallying-around-food-truck-owner-t-boned-during-hit-and-run-accident/",
       "source": "Fox31",
       "pub_date": "2026-09-05T03:01:08+00:00",
-      "age_hours": 17.94083080111111,
+      "age_hours": 19.7490036925,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Denver International Airport travelers urged to plan for extra time to navigate holiday traffic, construction",
       "link": "https://www.9news.com/article/news/local/denver-international-airport-holiday-travelers-urged-to-plan-for-extra-time-to-navigate-construction/73-455631e3-bd93-44a0-892f-3b4996f8eefb",
       "source": "9News",
       "pub_date": "2026-09-05T00:39:19+00:00",
-      "age_hours": 20.30427744,
+      "age_hours": 22.112358462499998,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "SENTINEL MUSE: Spend part of Labor Day checking out the real thing at the Gully House",
       "link": "https://sentinelcolorado.com/metro/sentinel-muse-spend-part-of-labor-day-checking-out-the-real-thing-at-the-gully-house/",
       "source": "Sentinel",
       "pub_date": "2026-09-04T21:39:53+00:00",
-      "age_hours": 23.295270449444445,
+      "age_hours": 25.10348475638889,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver cleaners fire displaces employees, damages 3,000 garments",
       "link": "https://kdvr.com/news/local/denver-cleaners-fire-displaces-employees-damages-3000-garments/",
       "source": "Fox31",
       "pub_date": "2026-09-04T21:35:34+00:00",
-      "age_hours": 23.366941852500002,
+      "age_hours": 25.175114759166664,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Man injured in shooting during dispute at condemned northwest Aurora apartment",
       "link": "https://sentinelcolorado.com/metro/man-injured-in-shooting-during-dispute-at-condemned-northwest-aurora-apartment/",
       "source": "Sentinel",
       "pub_date": "2026-09-04T21:28:41+00:00",
-      "age_hours": 23.481937484166664,
+      "age_hours": 25.290151738333336,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado-wide student protest against ICE turns violent in Denver",
       "link": "https://coloradosun.com/2026/09/04/colorado-ice-protests-students-denver-immigration/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-04T20:46:44+00:00",
-      "age_hours": 24.180548576666666,
+      "age_hours": 25.98853116388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +162,25 @@
       "link": "https://www.9news.com/article/news/el-national-western-center-inicia-la-construccin-de-una-nueva-pista-ecuestre/73-f00544de-c245-4611-82c2-d4f302ea0e75",
       "source": "9News",
       "pub_date": "2026-09-04T19:52:24+00:00",
-      "age_hours": 25.086221927500002,
+      "age_hours": 26.894302945,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "After \u201csuspicious\u201d dropout, judge lets Colorado Libertarians pick new secretary of state candidate",
+      "link": "https://coloradosun.com/2026/09/04/colorado-judge-allows-libertarian-party-pick-secretary-of-state-candidate/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-04T19:35:07+00:00",
+      "age_hours": 27.182142786944443,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "10th Circuit upholds finding of no racial discrimination against family at Denver Chili\u2019s",
+      "link": "https://www.coloradopolitics.com/2026/09/04/10th-circuit-upholds-finding-of-no-racial-discrimination-against-family-at-denver-chilis/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-04T18:30:29+00:00",
+      "age_hours": 28.26011204611111,
       "breaking": false,
       "time_ago": "1 day ago"
     }
