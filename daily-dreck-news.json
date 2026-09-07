@@ -1,60 +1,60 @@
 {
-  "fetched_date": "2026-09-06",
-  "fetched_at": "2026-09-06 23:33:57",
+  "fetched_date": "2026-09-07",
+  "fetched_at": "2026-09-07 03:24:34",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 0,
   "articles": [
     {
       "title": "Beloved Denver dive bar seeks community help to survive",
       "link": "https://kdvr.com/news/local/beloved-denver-dive-bar-seeks-community-help-to-survive/",
       "source": "Fox31",
       "pub_date": "2026-09-06T17:06:27+00:00",
-      "age_hours": 6.45412392,
+      "age_hours": 10.297812162222224,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "\u2018Hoarder conditions\u2019 hamper firefighting efforts during Aurora house blaze, possibly sparked by homeless",
       "link": "https://sentinelcolorado.com/metro/hoarder-conditions-hamper-firefighting-efforts-during-aurora-house-blaze-possibly-sparked-by-homeless/",
       "source": "Sentinel",
       "pub_date": "2026-09-06T15:58:12+00:00",
-      "age_hours": 7.591949343055556,
+      "age_hours": 11.435439243888888,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "'We Aren't Competitive': Power, Taxes Keep Colorado On The Data Center Sidelines",
       "link": "https://www.bisnow.com/news/national/data-center-development/-we-aren-t-competitive-power-taxes-keep-colorado-on-the-data-center-sidelines",
       "source": "Bisnow",
       "pub_date": "2026-09-06T15:38:01-04:00",
-      "age_hours": 3.927203628888889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.771101023888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 9.5.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-9-5-26/",
       "source": "Sentinel",
       "pub_date": "2026-09-06T05:15:00+00:00",
-      "age_hours": 18.311949565555555,
+      "age_hours": 22.15543946472222,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Denver's Nob Hill Inn turns to community as BRT construction threatens nearly century-old bar",
       "link": "https://www.9news.com/article/money/business/small-business/denvers-nob-hill-inn-turns-to-community-as-brt-construction-threatens-nearly-century-old-bar/73-924570dc-7f4f-462d-8cc6-18bc5cd814ac",
       "source": "9News",
       "pub_date": "2026-09-06T02:42:52+00:00",
-      "age_hours": 20.846866133055556,
+      "age_hours": 24.69063230861111,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver suspends licenses of downtown bar and hotel again",
       "link": "https://kdvr.com/news/local/denver-suspends-licenses-of-downtown-bar-and-hotel-again/",
       "source": "Fox31",
       "pub_date": "2026-09-05T23:24:24+00:00",
-      "age_hours": 24.154957293055556,
+      "age_hours": 27.998645536666668,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +63,7 @@
       "link": "https://sentinelcolorado.com/metro/mordecai-brownlee-to-step-down-in-december-as-president-of-community-college-of-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-09-05T22:19:11+00:00",
-      "age_hours": 25.242227705555557,
+      "age_hours": 29.08571760138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://www.9news.com/article/news/local/motorcyclist-dies-after-vehicle-crash-in-denver/73-febacf11-860f-4f58-a04a-62a2d3868dc7",
       "source": "9News",
       "pub_date": "2026-09-05T21:55:33+00:00",
-      "age_hours": 25.63547727138889,
+      "age_hours": 29.479243445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://www.9news.com/article/traffic/incidents/denver-crash-40th-kittredge/73-1c199df2-2ad5-4814-b5eb-e919415a866d",
       "source": "9News",
       "pub_date": "2026-09-05T21:55:33+00:00",
-      "age_hours": 25.635477310555554,
+      "age_hours": 29.479243483333335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://www.cpr.org/2026/09/05/denver-metro-chamber-ceo-downtown-vacancies-jobs/",
       "source": "CPR",
       "pub_date": "2026-09-05T19:00:00+00:00",
-      "age_hours": 28.561280190833333,
+      "age_hours": 32.40505034694444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +99,7 @@
       "link": "https://www.9news.com/article/news/nation-world/diesel-fuel-price-per-gallon-record-breaking/507-5c05d3f7-91be-431b-92a2-2b1ae80c2e8f",
       "source": "9News",
       "pub_date": "2026-09-05T13:24:35+00:00",
-      "age_hours": 34.15158846805556,
+      "age_hours": 37.995354643055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://sentinelcolorado.com/nation-world/nation/iran-accuses-the-us-of-targeting-a-tanker-near-kharg-island-and-other-key-mideast-developments/",
       "source": "Sentinel",
       "pub_date": "2026-09-05T13:10:10+00:00",
-      "age_hours": 34.39250560694445,
+      "age_hours": 38.235995501944444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://coloradosun.com/2026/09/05/covid-vaccine-fall-2026-without-prescription/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-05T09:22:00+00:00",
-      "age_hours": 38.19438725833333,
+      "age_hours": 42.03832280388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-closings-openings-mian-noodle-rino-treathouse-40930770/",
       "source": "Westword",
       "pub_date": "2026-09-05T07:01:00-06:00",
-      "age_hours": 34.545050402499996,
+      "age_hours": 38.388676691388895,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-2026-aurora-week-2-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-09-05T06:42:40+00:00",
-      "age_hours": 40.850838949722224,
+      "age_hours": 44.69432885166667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.9news.com/article/money/business/denver-suspends-nativ-hotel-gatsby-socials-licenses-again-citing-violence-and-unlicensed-security/73-be4d91dc-f109-4806-bfd6-ad521f327040",
       "source": "9News",
       "pub_date": "2026-09-05T05:17:33+00:00",
-      "age_hours": 42.26881074361111,
+      "age_hours": 46.11257692111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,16 +153,16 @@
       "link": "https://kdvr.com/news/local/community-rallying-around-food-truck-owner-t-boned-during-hit-and-run-accident/",
       "source": "Fox31",
       "pub_date": "2026-09-05T03:01:08+00:00",
-      "age_hours": 44.54273519361111,
+      "age_hours": 48.38642342055555,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Denver cleaners fire displaces employees, damages 3K garments",
       "link": "https://kdvr.com/news/local/denver-cleaners-fire-displaces-employees-damages-3000-garments/",
       "source": "Fox31",
       "pub_date": "2026-09-04T21:35:34+00:00",
-      "age_hours": 49.96884622527778,
+      "age_hours": 53.81253447388889,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/04/10th-circuit-upholds-finding-of-no-racial-discrimination-against-family-at-denver-chilis/",
       "source": "CO Politics",
       "pub_date": "2026-09-04T18:30:29+00:00",
-      "age_hours": 53.053855766944444,
+      "age_hours": 56.897375160833334,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.bisnow.com/news/denver/deal-sheet/nearly-35k-sf-shopping-center-sells-for-8-5m-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-09-04T16:09:35-04:00",
-      "age_hours": 51.40109254194444,
+      "age_hours": 55.24498992777778,
       "breaking": false,
       "time_ago": "2 days ago"
     }
