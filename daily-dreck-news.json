@@ -1,141 +1,141 @@
 {
-  "fetched_date": "2026-09-07",
-  "fetched_at": "2026-09-07 22:35:40",
+  "fetched_date": "2026-09-08",
+  "fetched_at": "2026-09-08 00:58:37",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Manny Rutinel resigns from Colorado legislature to focus on pivotal congressional race",
+      "link": "https://coloradosun.com/2026/09/07/manny-rutinel-resigns-from-colorado-legislature/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-08T00:13:39+00:00",
+      "age_hours": 0.7383657847222223,
+      "breaking": true,
+      "time_ago": "44 min ago"
+    },
+    {
+      "title": "Monday morning Payton: Crowd noise at Arrowhead on his mind",
+      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-chiefs-arrowhead-stadium-sean-payton/73-150030c7-e3b4-4735-b6aa-b4af6bad8112",
+      "source": "9News",
+      "pub_date": "2026-09-07T22:39:06+00:00",
+      "age_hours": 2.314354106388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Man injured during drive-by shooting Saturday in northwest Aurora",
       "link": "https://sentinelcolorado.com/metro/man-injured-in-drive-by-shooting-in-northwest-aurora-saturday/",
       "source": "Sentinel",
       "pub_date": "2026-09-07T21:56:54+00:00",
-      "age_hours": 0.635588676111111,
+      "age_hours": 3.0180467336111114,
       "breaking": true,
-      "time_ago": "38 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Boy, 17, charged after shooting and assault at southeast Aurora apartments, police say",
       "link": "https://sentinelcolorado.com/metro/boy-17-charged-after-shooting-and-assault-at-southeast-aurora-apartments-police-say/",
       "source": "Sentinel",
       "pub_date": "2026-09-07T21:41:44+00:00",
-      "age_hours": 0.8883665986111111,
+      "age_hours": 3.2708247074999997,
       "breaking": true,
-      "time_ago": "53 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Shooting in Denver over Labor Day weekend leaves 1 dead, 1 injured",
       "link": "https://kdvr.com/news/local/shooting-in-denver-over-labor-day-weekend-leaves-1-dead-1-injured/",
       "source": "Fox31",
       "pub_date": "2026-09-07T18:13:35+00:00",
-      "age_hours": 4.356978633333333,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.739787017499999,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "9NEWS Business Buzz: The AI-Native government, and how a global bond rout hits Colorado wallets",
       "link": "https://www.9news.com/article/money/business-brief/9news-business-buzz-the-ai-native-government-and-how-a-global-bond-rout-hits-colorado-wallets/73-c6c01ba0-ca61-4308-bf38-5ffb1fc9ba33",
       "source": "9News",
       "pub_date": "2026-09-07T17:40:36+00:00",
-      "age_hours": 4.906384993611111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.28935414861111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver homebuyers find deals as nearly 1 in 3 homes see price cuts",
       "link": "https://www.9news.com/article/money/markets/real-estate/homebuyers-deals-september-real-estate/73-8c20a95f-2c8d-4055-a7f5-ee2e1f73bb6d",
       "source": "9News",
       "pub_date": "2026-09-07T17:15:06+00:00",
-      "age_hours": 5.331385005277777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Monday morning Payton: Crowd noise at Arrowhead on his mind",
-      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-chiefs-arrowhead-stadium-sean-payton/73-150030c7-e3b4-4735-b6aa-b4af6bad8112",
-      "source": "9News",
-      "pub_date": "2026-09-07T16:56:57+00:00",
-      "age_hours": 5.633885039722221,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 7.714354161666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "DU professor discusses how the healthcare industry can learn from Lindsay Clancy case",
       "link": "https://kdvr.com/news/local/du-professor-discusses-how-the-healthcare-industry-can-learn-from-lindsay-clancy-case/",
       "source": "Fox31",
       "pub_date": "2026-09-07T16:56:11+00:00",
-      "age_hours": 5.646978674444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.0297870825,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "He got a Denver parking ticket for a plate he hasn't used in 9 years. The city told him he'd have to prove it.",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-problem-parking-tickets/73-8501b150-30be-427b-bb32-a2ec4e629e74",
       "source": "9News",
       "pub_date": "2026-09-07T16:22:29+00:00",
-      "age_hours": 6.208329489722223,
+      "age_hours": 8.591298658888888,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Why do we celebrate Labor Day? A Gilded Age holiday reminds workers of their rights",
       "link": "https://www.9news.com/article/news/nation-world/why-do-we-celebrate-labor-day/507-5ba07623-3763-49dd-97ab-76489a80f5b1",
       "source": "9News",
       "pub_date": "2026-09-07T15:11:54+00:00",
-      "age_hours": 7.3847184383333335,
+      "age_hours": 9.767687625833334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "The poorest in the US, including metro Denver, can\u2019t find housing even as low-income units sit empty",
       "link": "https://sentinelcolorado.com/metro/the-poorest-in-the-us-including-metro-denver-cant-find-housing-even-as-low-income-units-sit-empty/",
       "source": "Sentinel",
       "pub_date": "2026-09-07T12:57:19+00:00",
-      "age_hours": 9.6286445425,
+      "age_hours": 12.011102699444445,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Amazon opens new fulfillment center in northern Colorado",
       "link": "https://www.9news.com/article/money/business/amazon-opens-new-northern-colorado-fulfillment-center/73-dd16027b-9464-433c-8d3d-9ccb2b3d6b30",
       "source": "9News",
       "pub_date": "2026-09-07T12:40:36+00:00",
-      "age_hours": 9.90638513861111,
+      "age_hours": 12.289354345555557,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "United Airlines unveils mountain-themed plane livery",
       "link": "https://www.9news.com/article/travel/denver-international-airport/united-airlines-mountain-themed-livery/73-fc9777ed-55e2-4324-809f-8c632fc877b1",
       "source": "9News",
       "pub_date": "2026-09-07T12:39:49+00:00",
-      "age_hours": 9.919440718333334,
+      "age_hours": 12.302409940277778,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "What's open and closed on Labor Day? It's different from most federal holidays",
       "link": "https://www.9news.com/article/news/nation-world/open-closed-labor-day/507-babbef21-0ad6-4e8c-96ef-badd02d8f6cf",
       "source": "9News",
       "pub_date": "2026-09-07T12:33:24+00:00",
-      "age_hours": 10.026385186666666,
+      "age_hours": 12.409354423333333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Which stores are open and closed on Labor Day",
       "link": "https://www.9news.com/article/money/business/stores-open-closed-labor-day/73-0d974fba-4dff-41d7-8fb4-6650f50483ed",
       "source": "9News",
       "pub_date": "2026-09-07T12:22:26+00:00",
-      "age_hours": 10.209162967500001,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Labor Day 2026: From banks to mail delivery to retail chains, here's a look at what's open, closed",
-      "link": "https://www.9news.com/article/life/holidays/labor-day-2026-september-retail-shopping-mail-delivery-banks-open-closed/507-6b6634a6-c89f-4587-b801-5ed0ed0dd00f",
-      "source": "9News",
-      "pub_date": "2026-09-07T10:20:18+00:00",
-      "age_hours": 12.244718565000001,
+      "age_hours": 12.59213220638889,
       "breaking": false,
       "time_ago": "12 hrs ago"
     },
@@ -144,25 +144,25 @@
       "link": "https://coloradosun.com/2026/09/07/supportive-housing-people-with-disabilities-broomfield-colorado-grove/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-07T10:01:00+00:00",
-      "age_hours": 12.56614660027778,
+      "age_hours": 14.94919984611111,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Dog left in critical condition after being rescued from burning house in central Aurora",
       "link": "https://sentinelcolorado.com/metro/dog-left-in-critical-condition-after-being-rescued-from-burning-house-in-central-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-09-07T03:32:58+00:00",
-      "age_hours": 19.034478116666666,
+      "age_hours": 21.416936518333333,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Beloved Denver dive bar seeks community help to survive",
       "link": "https://kdvr.com/news/local/beloved-denver-dive-bar-seeks-community-help-to-survive/",
       "source": "Fox31",
       "pub_date": "2026-09-06T17:06:27+00:00",
-      "age_hours": 29.47586761111111,
+      "age_hours": 31.858676024999998,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.bisnow.com/news/national/data-center-development/-we-aren-t-competitive-power-taxes-keep-colorado-on-the-data-center-sidelines",
       "source": "Bisnow",
       "pub_date": "2026-09-06T15:38:01-04:00",
-      "age_hours": 26.94887612888889,
+      "age_hours": 29.33197349583333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,9 +180,9 @@
       "link": "https://kdvr.com/news/local/denver-suspends-licenses-of-downtown-bar-and-hotel-again/",
       "source": "Fox31",
       "pub_date": "2026-09-05T23:24:24+00:00",
-      "age_hours": 47.17670095416666,
+      "age_hours": 49.559509383333335,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     }
   ]
 }
