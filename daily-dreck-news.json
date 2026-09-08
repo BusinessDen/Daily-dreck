@@ -1,123 +1,123 @@
 {
   "fetched_date": "2026-09-08",
-  "fetched_at": "2026-09-08 10:47:02",
+  "fetched_at": "2026-09-08 14:57:07",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Police seek suspect in hit-and-run that left e-bike rider with life-threatening injuries",
+      "link": "https://kdvr.com/news/local/police-seek-suspect-in-hit-and-run-that-left-e-bike-rider-with-life-threatening-injuries/",
+      "source": "Fox31",
+      "pub_date": "2026-09-08T14:53:24+00:00",
+      "age_hours": 0.05803250972222222,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "National Western Center Celebrates Groundbreaking of Betty Knoebel Arena",
+      "link": "https://milehighcre.com/national-western-center-celebrates-groundbreaking-of-betty-knoebel-arena/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-08T14:43:20+00:00",
+      "age_hours": 0.225236955,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "Toyota RAV4 vs. Hyundai Tucson, an Edmunds plug-in hybrid SUV comparison",
+      "link": "https://sentinelcolorado.com/uncategorized/toyota-rav4-vs-hyundai-tucson-an-edmunds-plug-in-hybrid-suv-comparison/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-08T13:16:50+00:00",
+      "age_hours": 1.667685033888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Elder\u2019s Ready among BizWest Women of Distinction honorees",
+      "link": "https://bizwest.com/2026/09/08/elders-ready-among-bizwest-women-of-distinction-honorees/",
+      "source": "BizWest",
+      "pub_date": "2026-09-08T13:07:21+00:00",
+      "age_hours": 1.8246300105555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "La Mariposa fulfilled a Cervantes dream",
+      "link": "https://bizwest.com/2026/09/08/la-mariposa-fulfilled-a-cervantes-dream/",
+      "source": "BizWest",
+      "pub_date": "2026-09-08T12:57:36+00:00",
+      "age_hours": 1.9871300280555557,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "House ethics panel calls for Rep. Mandy Lindsay reprimand over caucus cash mismanagement",
+      "link": "https://sentinelcolorado.com/metro/house-ethics-panel-calls-for-rep-mandy-lindsay-reprimand-over-caucus-cash-mismanagement/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-08T12:43:45+00:00",
+      "age_hours": 2.219074246388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Colorado faces a federal oil and gas leasing fire sale. One man on a Moffat County mountain is fighting back.",
       "link": "https://coloradosun.com/2026/09/08/blm-oil-gas-lease-sales-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-08T10:20:00+00:00",
-      "age_hours": 0.4466659272222222,
+      "age_hours": 4.614240193611111,
       "breaking": true,
-      "time_ago": "26 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado photographer's 9/11 images reprinted for new exhibit at CU Denver",
       "link": "https://www.9news.com/article/news/local/colorado-photographers-911-images-reprinted-new-exhibit-cu/73-61d1b14e-a917-4883-ab07-ada653dd1091",
       "source": "9News",
       "pub_date": "2026-09-08T04:19:53+00:00",
-      "age_hours": 6.448788388333334,
+      "age_hours": 10.616434996944445,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Manny Rutinel resigns from Colorado legislature to focus on pivotal congressional race",
       "link": "https://coloradosun.com/2026/09/07/manny-rutinel-resigns-from-colorado-legislature/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-08T00:13:39+00:00",
-      "age_hours": 10.552499490833332,
+      "age_hours": 14.720073821666666,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Monday morning Payton: Crowd noise at Arrowhead on his mind",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-chiefs-arrowhead-stadium-sean-payton/73-150030c7-e3b4-4735-b6aa-b4af6bad8112",
       "source": "9News",
       "pub_date": "2026-09-07T22:39:06+00:00",
-      "age_hours": 12.128510694722223,
+      "age_hours": 16.296157323611112,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Man injured during drive-by shooting Saturday in northwest Aurora",
-      "link": "https://sentinelcolorado.com/metro/man-injured-in-drive-by-shooting-in-northwest-aurora-saturday/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-07T21:56:54+00:00",
-      "age_hours": 12.832262067222223,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Boy, 17, charged after shooting and assault at southeast Aurora apartments, police say",
-      "link": "https://sentinelcolorado.com/metro/boy-17-charged-after-shooting-and-assault-at-southeast-aurora-apartments-police-say/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-07T21:41:44+00:00",
-      "age_hours": 13.0850399875,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Shooting in Denver over Labor Day weekend leaves 1 dead, 1 injured",
       "link": "https://kdvr.com/news/local/shooting-in-denver-over-labor-day-weekend-leaves-1-dead-1-injured/",
       "source": "Fox31",
       "pub_date": "2026-09-07T18:13:35+00:00",
-      "age_hours": 16.55405407388889,
+      "age_hours": 20.7216435725,
       "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "9NEWS Business Buzz: The AI-Native government, and how a global bond rout hits Colorado wallets",
-      "link": "https://www.9news.com/article/money/business-brief/9news-business-buzz-the-ai-native-government-and-how-a-global-bond-rout-hits-colorado-wallets/73-c6c01ba0-ca61-4308-bf38-5ffb1fc9ba33",
-      "source": "9News",
-      "pub_date": "2026-09-07T17:40:36+00:00",
-      "age_hours": 17.103510721944446,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Denver homebuyers find deals as nearly 1 in 3 homes see price cuts",
-      "link": "https://www.9news.com/article/money/markets/real-estate/homebuyers-deals-september-real-estate/73-8c20a95f-2c8d-4055-a7f5-ee2e1f73bb6d",
-      "source": "9News",
-      "pub_date": "2026-09-07T17:15:06+00:00",
-      "age_hours": 17.528510731944444,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "DU professor discusses how the healthcare industry can learn from Lindsay Clancy case",
       "link": "https://kdvr.com/news/local/du-professor-discusses-how-the-healthcare-industry-can-learn-from-lindsay-clancy-case/",
       "source": "Fox31",
       "pub_date": "2026-09-07T16:56:11+00:00",
-      "age_hours": 17.844054120833334,
+      "age_hours": 22.01164368555556,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "He got a Denver parking ticket for a plate he hasn't used in 9 years. The city told him he'd have to prove it.",
-      "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-problem-parking-tickets/73-8501b150-30be-427b-bb32-a2ec4e629e74",
-      "source": "9News",
-      "pub_date": "2026-09-07T16:22:29+00:00",
-      "age_hours": 18.405455209722223,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Why do we celebrate Labor Day? A Gilded Age holiday reminds workers of their rights",
-      "link": "https://www.9news.com/article/news/nation-world/why-do-we-celebrate-labor-day/507-5ba07623-3763-49dd-97ab-76489a80f5b1",
-      "source": "9News",
-      "pub_date": "2026-09-07T15:11:54+00:00",
-      "age_hours": 19.581844155,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "New housing development opens in Broomfield for people with disabilities, but demand far exceeds available units",
       "link": "https://coloradosun.com/2026/09/07/supportive-housing-people-with-disabilities-broomfield-colorado-grove/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-07T10:01:00+00:00",
-      "age_hours": 24.76333340388889,
+      "age_hours": 28.93090787722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://kdvr.com/news/local/beloved-denver-dive-bar-seeks-community-help-to-survive/",
       "source": "Fox31",
       "pub_date": "2026-09-06T17:06:27+00:00",
-      "age_hours": 41.67294305888889,
+      "age_hours": 45.840532635833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,16 +135,25 @@
       "link": "https://www.bisnow.com/news/national/data-center-development/-we-aren-t-competitive-power-taxes-keep-colorado-on-the-data-center-sidelines",
       "source": "Bisnow",
       "pub_date": "2026-09-06T15:38:01-04:00",
-      "age_hours": 39.14606494583333,
+      "age_hours": 43.31362517694445,
       "breaking": false,
       "time_ago": "1 day ago"
+    },
+    {
+      "title": "Tandem Squared reopens with community support",
+      "link": "https://bizwest.com/2026/09/06/tandem-squared-reopens-with-community-support/",
+      "source": "BizWest",
+      "pub_date": "2026-09-06T07:00:00+00:00",
+      "age_hours": 55.94713003555555,
+      "breaking": false,
+      "time_ago": "2 days ago"
     },
     {
       "title": "Denver suspends licenses of downtown bar and hotel again",
       "link": "https://kdvr.com/news/local/denver-suspends-licenses-of-downtown-bar-and-hotel-again/",
       "source": "Fox31",
       "pub_date": "2026-09-05T23:24:24+00:00",
-      "age_hours": 59.3737764125,
+      "age_hours": 63.541365992500005,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,36 +162,27 @@
       "link": "https://www.cpr.org/2026/09/05/denver-metro-chamber-ceo-downtown-vacancies-jobs/",
       "source": "CPR",
       "pub_date": "2026-09-05T19:00:00+00:00",
-      "age_hours": 63.780110775555556,
+      "age_hours": 67.94769341666667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
     {
-      "title": "Every opening and closing this week: Two Asian eateries shutter down south",
-      "link": "https://www.westword.com/food-drink/denver-restaurant-closings-openings-mian-noodle-rino-treathouse-40930770/",
-      "source": "Westword",
-      "pub_date": "2026-09-05T07:01:00-06:00",
-      "age_hours": 69.76383717527779,
+      "title": "Hope House Northern Colorado plans move to larger Greeley resource center",
+      "link": "https://bizwest.com/2026/09/05/hope-house-northern-colorado-plans-move-to-larger-greeley-resource-center/",
+      "source": "BizWest",
+      "pub_date": "2026-09-05T17:14:29+00:00",
+      "age_hours": 69.7057416525,
       "breaking": false,
       "time_ago": "2 days ago"
     },
     {
-      "title": "Community rallies around food truck owner t-boned during hit-and-run crash",
-      "link": "https://kdvr.com/news/local/community-rallying-around-food-truck-owner-t-boned-during-hit-and-run-accident/",
-      "source": "Fox31",
-      "pub_date": "2026-09-05T03:01:08+00:00",
-      "age_hours": 79.76155425694445,
+      "title": "3 Square Art names Fort Collins director",
+      "link": "https://bizwest.com/2026/09/05/3-square-art-names-fort-collins-director/",
+      "source": "BizWest",
+      "pub_date": "2026-09-05T17:00:22+00:00",
+      "age_hours": 69.94101946583334,
       "breaking": false,
-      "time_ago": "3 days ago"
-    },
-    {
-      "title": "Denver cleaners fire displaces employees, damages 3K garments",
-      "link": "https://kdvr.com/news/local/denver-cleaners-fire-displaces-employees-damages-3000-garments/",
-      "source": "Fox31",
-      "pub_date": "2026-09-04T21:35:34+00:00",
-      "age_hours": 85.1876653311111,
-      "breaking": false,
-      "time_ago": "3 days ago"
+      "time_ago": "2 days ago"
     }
   ]
 }
