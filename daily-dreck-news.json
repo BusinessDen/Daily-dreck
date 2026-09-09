@@ -1,105 +1,141 @@
 {
   "fetched_date": "2026-09-09",
-  "fetched_at": "2026-09-09 20:36:31",
+  "fetched_at": "2026-09-09 23:01:03",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 11,
   "articles": [
     {
-      "title": "Denver warns public of 9/11 flyover featuring passenger plane escorted by fighter jets",
+      "title": "'Do not underestimate the power of this technology' | Anthropic researcher resigns with warning about AI development",
+      "link": "https://www.9news.com/article/news/nation-world/anthropic-researcher-resigns-warning-dangers-ai/507-0120e8b1-d22f-4355-9ad4-88d3f635dcf8",
+      "source": "9News",
+      "pub_date": "2026-09-09T22:21:53+00:00",
+      "age_hours": 0.648357846111111,
+      "breaking": true,
+      "time_ago": "38 min ago"
+    },
+    {
+      "title": "United cancels planned 9/11 flyover featuring passenger plane escorted by fighter jets",
       "link": "https://www.9news.com/article/news/local/denver-warns-public-911-flyover-passenger-plane-escorted-by-fighter-jets/73-2fadacc3-82ee-4e95-a826-0845c23a07b3",
       "source": "9News",
-      "pub_date": "2026-09-09T19:34:54+00:00",
-      "age_hours": 1.0190741538888888,
+      "pub_date": "2026-09-09T22:07:37+00:00",
+      "age_hours": 0.8861356324999999,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
+    {
+      "title": "A 2-mile stretch of Colfax construction will end later this month",
+      "link": "https://denverite.com/2026/09/09/colfax-bus-construction-ending/",
+      "source": "Denverite",
+      "pub_date": "2026-09-09T21:51:10+00:00",
+      "age_hours": 1.1601907041666666,
       "breaking": true,
       "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Flight for Life unveils new colors that raised concern among pilots",
+      "link": "https://www.9news.com/article/news/health/flight-for-life-new-colors-concern/73-ef5fee0d-8c00-4829-8a51-4251ff8e2d33",
+      "source": "9News",
+      "pub_date": "2026-09-09T21:00:20+00:00",
+      "age_hours": 2.007524590277778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "TSA considers allowing some travelers to bring full water bottles through security",
+      "link": "https://www.9news.com/article/news/nation-world/tsa-precheck-liquid-requirements-potential-change/507-4aabd51c-89d4-4c02-bdf8-f19eb542c8ae",
+      "source": "9News",
+      "pub_date": "2026-09-09T20:52:49+00:00",
+      "age_hours": 2.1328024172222224,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Mile High Dine and Recline: Blossom by SYC",
       "link": "https://milehighcre.com/mile-high-dine-and-recline-blossom-by-syc/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-09T19:24:48+00:00",
-      "age_hours": 1.1865626605555555,
+      "age_hours": 3.599420740833333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Temporary protections in limbo for Salvadoran immigrants \u2014 4K in Aurora \u2014 as deadline nears",
       "link": "https://sentinelcolorado.com/metro/temporary-protections-in-limbo-for-salvadoran-immigrants-4k-in-aurora-as-deadline-nears/",
       "source": "Sentinel",
       "pub_date": "2026-09-09T19:22:29+00:00",
-      "age_hours": 1.2299411841666668,
+      "age_hours": 3.6390137613888887,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Judge increases bond to $10M for Colorado man charged with killing his wife",
       "link": "https://www.cpr.org/2026/09/09/barry-morphew-bond-colorado-woman-killed/",
       "source": "CPR",
       "pub_date": "2026-09-09T18:54:30+00:00",
-      "age_hours": 1.6923280708333333,
+      "age_hours": 4.104702408888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
-      "title": "Reports: O'Charley's abruptly closing restaurants nationwide. See full list of current locations.",
+      "title": "Reports: O'Charley's abruptly closing almost all restaurants nationwide. See full list of current locations.",
       "link": "https://www.9news.com/article/news/nation-world/o-charleys-closing-reports-locations-list/507-00cb7027-3dea-4a95-816e-4af51141a0fa",
       "source": "9News",
       "pub_date": "2026-09-09T18:29:14+00:00",
-      "age_hours": 2.113518666111111,
+      "age_hours": 4.525858011944444,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Airplane flies low over Denver and returns to DIA after blown tire",
       "link": "https://www.9news.com/article/news/community/transportation/airplane-flies-low-denver-blown-tire/73-907dd2e7-b938-4d32-b583-f66110e8ef6a",
       "source": "9News",
       "pub_date": "2026-09-09T18:00:47+00:00",
-      "age_hours": 2.587685374166667,
+      "age_hours": 5.000024734444445,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Lender Requests Receiver For X Denver Apartment Building Near Coors Field",
+      "link": "https://www.bisnow.com/news/denver/multifamily/lender-requests-receiver-for-x-denver-apartment-building-near-coors-field",
+      "source": "Bisnow",
+      "pub_date": "2026-09-09T17:33:18-04:00",
+      "age_hours": 1.457565575,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Weld County officials will vote on whether to approve a controversial data center on Wednesday",
       "link": "https://www.cpr.org/2026/09/09/weld-county-officials-will-vote-on-whether-to-approve-a-controversial-data-center-on-wednesday/",
       "source": "CPR",
       "pub_date": "2026-09-09T14:37:31+00:00",
-      "age_hours": 5.975383639444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.387757978333333,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Parents seek help after 20-year-old son thrown from scooter in downtown Denver",
       "link": "https://kdvr.com/news/local/parents-seek-help-after-20-year-old-son-thrown-from-scooter-in-downtown-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-09T13:23:57+00:00",
-      "age_hours": 7.205036906666667,
+      "age_hours": 9.614193170555556,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Jeffco Public Schools eliminated 350 jobs as part of budget cuts",
       "link": "https://www.coloradopolitics.com/2026/09/08/jeffco-public-schools-eliminated-350-jobs-as-part-of-budget-cuts/",
       "source": "CO Politics",
       "pub_date": "2026-09-08T22:44:14+00:00",
-      "age_hours": 21.867365260555555,
+      "age_hours": 24.27648394611111,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado judge hikes Barry Morphew\u2019s bond to $10M",
       "link": "https://coloradosun.com/2026/09/08/judge-hikes-barry-morphew-bond-to-10m/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-08T20:44:22+00:00",
-      "age_hours": 23.861026020833332,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Vandals target historic park in Denver",
-      "link": "https://kdvr.com/news/local/vandals-target-historic-park-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-09-08T20:16:22+00:00",
-      "age_hours": 24.331425932222224,
+      "age_hours": 26.273424824166668,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +144,7 @@
       "link": "https://milehighcre.com/stanley-marketplace-in-aurora-sells-for-41m/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-08T19:50:49+00:00",
-      "age_hours": 24.752951788888886,
+      "age_hours": 27.16580992861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,16 +153,7 @@
       "link": "https://www.marijuanamoment.net/colorado-regulators-under-fire-for-delays-in-warning-public-about-reports-of-cannabis-products-with-adverse-effects/",
       "source": "MJ Moment",
       "pub_date": "2026-09-08T17:55:39+00:00",
-      "age_hours": 26.67835394861111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "NFL rates Broncos highly; bettors don't follow suit",
-      "link": "https://kdvr.com/sports/denver-broncos/nfl-rates-broncos-highly-bettors-dont-follow-suit/",
-      "source": "Fox31",
-      "pub_date": "2026-09-08T16:56:38+00:00",
-      "age_hours": 27.660314814166668,
+      "age_hours": 29.087594589722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +162,7 @@
       "link": "https://kdvr.com/news/local/police-seek-suspect-in-hit-and-run-that-left-e-bike-rider-with-life-threatening-injuries/",
       "source": "Fox31",
       "pub_date": "2026-09-08T14:53:24+00:00",
-      "age_hours": 29.714203668055557,
+      "age_hours": 32.123359970555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://milehighcre.com/national-western-center-celebrates-groundbreaking-of-betty-knoebel-arena/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-08T14:43:20+00:00",
-      "age_hours": 29.877674020555556,
+      "age_hours": 32.2905321625,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,36 +180,9 @@
       "link": "https://coloradosun.com/2026/09/08/blm-oil-gas-lease-sales-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-08T10:20:00+00:00",
-      "age_hours": 34.26713718638889,
+      "age_hours": 36.67953599944445,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "'We Aren't Competitive': Power, Taxes Keep Colorado On The Data Center Sidelines",
-      "link": "https://www.bisnow.com/news/national/data-center-development/-we-aren-t-competitive-power-taxes-keep-colorado-on-the-data-center-sidelines",
-      "source": "Bisnow",
-      "pub_date": "2026-09-06T15:38:01-04:00",
-      "age_hours": 72.96610992027779,
-      "breaking": false,
-      "time_ago": "3 days ago"
-    },
-    {
-      "title": "10th Circuit upholds finding of no racial discrimination against family at Denver Chili\u2019s",
-      "link": "https://www.coloradopolitics.com/2026/09/04/10th-circuit-upholds-finding-of-no-racial-discrimination-against-family-at-denver-chilis/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-04T18:30:29+00:00",
-      "age_hours": 122.09653208666667,
-      "breaking": false,
-      "time_ago": "5 days ago"
-    },
-    {
-      "title": "Nearly 35K SF Shopping Center Sells For $8.5M: The Denver Deal Sheet",
-      "link": "https://www.bisnow.com/news/denver/deal-sheet/nearly-35k-sf-shopping-center-sells-for-8-5m-the-denver-deal-sheet",
-      "source": "Bisnow",
-      "pub_date": "2026-09-04T16:09:35-04:00",
-      "age_hours": 120.43999883222223,
-      "breaking": false,
-      "time_ago": "5 days ago"
     }
   ]
 }
