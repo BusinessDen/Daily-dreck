@@ -1,150 +1,159 @@
 {
   "fetched_date": "2026-09-09",
-  "fetched_at": "2026-09-09 03:35:02",
+  "fetched_at": "2026-09-09 08:45:03",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Aurora prep sports scoreboard, 9.8.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-9-8-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-09T05:46:19+00:00",
+      "age_hours": 2.975550354166667,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Airplane flies low over Denver and returns to DIA after blown tire",
       "link": "https://www.9news.com/article/news/community/transportation/airplane-flies-low-denver-blown-tire/73-907dd2e7-b938-4d32-b583-f66110e8ef6a",
       "source": "9News",
       "pub_date": "2026-09-09T01:20:15+00:00",
-      "age_hours": 2.2435098069444446,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.409356901111111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver Trout Unlimited adopts neglected Phil Milstein Park along South Platte River",
       "link": "https://www.9news.com/article/tech/science/environment/denver-trout-unlimited-phil-milstein-park-south-platte-river/73-844432da-18b5-4b88-8c14-dd45a07a5dc6",
       "source": "9News",
       "pub_date": "2026-09-09T00:35:28+00:00",
-      "age_hours": 2.989898761666667,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 8.15574585388889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "'Huge problems to solve': Denver Mayor Mike Johnston launches reelection campaign focusing on affordability",
       "link": "https://www.9news.com/article/news/politics/elections/denver-mayor-mike-johnston-reelection-campaign/73-67692f0b-723a-42a8-a0da-fc02c57b3900",
       "source": "9News",
       "pub_date": "2026-09-09T00:33:01+00:00",
-      "age_hours": 3.030732133888889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.196579227777777,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Former Delta Air Lines CEO shares what happened behind the scenes when the first plane hit the World Trade Center tower",
       "link": "https://www.9news.com/article/news/history/remembering-911/former-delta-ceo-talks-911/507-e649647d-dfad-4b87-b229-fc8460204c17",
       "source": "9News",
       "pub_date": "2026-09-08T23:31:40+00:00",
-      "age_hours": 4.053232194166667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.219079288333333,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Aurora police and regional task force arrest 8 people linked to metro area crime spree",
       "link": "https://sentinelcolorado.com/metro/aurora-police-and-regional-task-force-arrests-eight-people-linked-to-metro-area-crime-spree/",
       "source": "Sentinel",
       "pub_date": "2026-09-08T21:51:06+00:00",
-      "age_hours": 5.729662335277777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.895828492777778,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Barry Morphew's bond increased to $10 million",
       "link": "https://www.9news.com/article/news/crime/barry-morphew-bond-increased/73-57f212d4-3f0b-4657-8c77-fe459a8ed439",
       "source": "9News",
       "pub_date": "2026-09-08T21:50:29+00:00",
-      "age_hours": 5.739621157777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Nuggets preseason schedule released",
-      "link": "https://www.9news.com/article/sports/nba/denver-nuggets/denver-nuggets-preseason-schedule/73-bab11506-ab5b-43ba-8b63-77d64a0e503b",
-      "source": "9News",
-      "pub_date": "2026-09-08T21:07:31+00:00",
-      "age_hours": 6.4557322838888895,
+      "age_hours": 10.905468255277778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "An Iranian port city feels the pain of Washington\u2019s tightening economic measures",
       "link": "https://sentinelcolorado.com/uncategorized/an-iranian-port-city-feels-the-pain-of-washingtons-tightening-economic-measures/",
       "source": "Sentinel",
       "pub_date": "2026-09-08T21:04:42+00:00",
-      "age_hours": 6.5029959761111105,
+      "age_hours": 11.6691621275,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado judge hikes Barry Morphew\u2019s bond to $10M",
       "link": "https://coloradosun.com/2026/09/08/judge-hikes-barry-morphew-bond-to-10m/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-08T20:44:22+00:00",
-      "age_hours": 6.841322728611111,
+      "age_hours": 12.00721947611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Vandals target historic park in Denver",
       "link": "https://kdvr.com/news/local/vandals-target-historic-park-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-08T20:16:22+00:00",
-      "age_hours": 7.308393323333333,
+      "age_hours": 12.474388724722221,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
-      "title": "Douglas County approves $19M tax rebate for company building data center",
-      "link": "https://www.9news.com/article/news/local/colorado-news/douglas-county-commissioners-approve-tax-break-data-center-parker/73-052402a1-7e24-4d2d-8d8c-24104fa031b4",
-      "source": "9News",
-      "pub_date": "2026-09-08T18:24:53+00:00",
-      "age_hours": 9.166287864166668,
+      "title": "Stanley Marketplace in Aurora Sells for $41M",
+      "link": "https://milehighcre.com/stanley-marketplace-in-aurora-sells-for-41m/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-08T19:50:49+00:00",
+      "age_hours": 12.899648295555556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Colorado Regulators Under Fire For Delays In Warning Public About Reports Of Cannabis Products With Adverse Effects",
       "link": "https://www.marijuanamoment.net/colorado-regulators-under-fire-for-delays-in-warning-public-about-reports-of-cannabis-products-with-adverse-effects/",
       "source": "MJ Moment",
       "pub_date": "2026-09-08T17:55:39+00:00",
-      "age_hours": 9.654028045555556,
+      "age_hours": 14.8212727475,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "NFL rates Broncos highly; bettors don't follow suit",
       "link": "https://kdvr.com/sports/denver-broncos/nfl-rates-broncos-highly-bettors-dont-follow-suit/",
       "source": "Fox31",
       "pub_date": "2026-09-08T16:56:38+00:00",
-      "age_hours": 10.63728219111111,
+      "age_hours": 15.803277591944445,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Police seek suspect in hit-and-run that left e-bike rider with life-threatening injuries",
       "link": "https://kdvr.com/news/local/police-seek-suspect-in-hit-and-run-that-left-e-bike-rider-with-life-threatening-injuries/",
       "source": "Fox31",
       "pub_date": "2026-09-08T14:53:24+00:00",
-      "age_hours": 12.691171033333333,
+      "age_hours": 17.857166428055557,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
+    },
+    {
+      "title": "National Western Center Celebrates Groundbreaking of Betty Knoebel Arena",
+      "link": "https://milehighcre.com/national-western-center-celebrates-groundbreaking-of-betty-knoebel-arena/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-08T14:43:20+00:00",
+      "age_hours": 18.024370537777777,
+      "breaking": false,
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Colorado faces a federal oil and gas leasing fire sale. One man on a Moffat County mountain is fighting back.",
       "link": "https://coloradosun.com/2026/09/08/blm-oil-gas-lease-sales-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-08T10:20:00+00:00",
-      "age_hours": 17.247433899444445,
+      "age_hours": 22.41333068777778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Manny Rutinel resigns from Colorado legislature to focus on pivotal congressional race",
       "link": "https://coloradosun.com/2026/09/07/manny-rutinel-resigns-from-colorado-legislature/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-08T00:13:39+00:00",
-      "age_hours": 27.353267509444446,
+      "age_hours": 32.519164519444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://kdvr.com/news/local/shooting-in-denver-over-labor-day-weekend-leaves-1-dead-1-injured/",
       "source": "Fox31",
       "pub_date": "2026-09-07T18:13:35+00:00",
-      "age_hours": 33.354782291388894,
+      "age_hours": 38.52077770138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://kdvr.com/news/local/du-professor-discusses-how-the-healthcare-industry-can-learn-from-lindsay-clancy-case/",
       "source": "Fox31",
       "pub_date": "2026-09-07T16:56:11+00:00",
-      "age_hours": 34.64478224,
+      "age_hours": 39.81077764194444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://kdvr.com/news/local/beloved-denver-dive-bar-seeks-community-help-to-survive/",
       "source": "Fox31",
       "pub_date": "2026-09-06T17:06:27+00:00",
-      "age_hours": 58.473671222777774,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "'We Aren't Competitive': Power, Taxes Keep Colorado On The Data Center Sidelines",
-      "link": "https://www.bisnow.com/news/national/data-center-development/-we-aren-t-competitive-power-taxes-keep-colorado-on-the-data-center-sidelines",
-      "source": "Bisnow",
-      "pub_date": "2026-09-06T15:38:01-04:00",
-      "age_hours": 55.94697842222222,
+      "age_hours": 63.639666625555556,
       "breaking": false,
       "time_ago": "2 days ago"
     }
