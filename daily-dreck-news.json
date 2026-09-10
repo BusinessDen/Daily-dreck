@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-09-10",
-  "fetched_at": "2026-09-10 10:50:23",
+  "fetched_at": "2026-09-10 14:54:15",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Barry Morphew charged in alleged hit-and-run",
+      "link": "https://kdvr.com/news/local/barry-morphew-charged-in-alleged-hit-and-run/",
+      "source": "Fox31",
+      "pub_date": "2026-09-10T14:30:15+00:00",
+      "age_hours": 0.3968729886111111,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
+    {
+      "title": "New child care center opens to serve Vail Valley families",
+      "link": "https://www.9news.com/article/news/education/child-care-center-opens/73-f72ab341-3e1a-42b3-861e-13ec4351763c",
+      "source": "9News",
+      "pub_date": "2026-09-10T14:25:06+00:00",
+      "age_hours": 0.48252222611111106,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "I-270 set for long-awaited expansion as CDOT completes environmental review",
+      "link": "https://www.9news.com/article/news/community/transportation/i-270-set-for-long-awaited-expansion-as-cdot-completes-environmental-review/73-6af849d3-2127-4c55-b205-9d44fa3894ca",
+      "source": "9News",
+      "pub_date": "2026-09-10T14:05:36+00:00",
+      "age_hours": 0.8075222827777778,
+      "breaking": true,
+      "time_ago": "48 min ago"
+    },
+    {
+      "title": "What to do in Colorado this week: Action and adventure at the Winter Park Film Festival",
+      "link": "https://coloradosun.com/2026/09/10/what-to-do-in-colorado-winter-park-film-festival/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-10T14:00:00+00:00",
+      "age_hours": 0.9006706694444444,
+      "breaking": true,
+      "time_ago": "54 min ago"
+    },
+    {
+      "title": "Community college of Aurora tests workforce training model as Commerce City follows",
+      "link": "https://sentinelcolorado.com/metro/community-college-of-aurora-tests-workforce-training-model-as-commerce-city-follows/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-10T13:16:47+00:00",
+      "age_hours": 1.6215587030555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "25 years ago: Invesco Field at Mile High begins new era of Denver",
+      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/invesco-field-at-mile-high/73-1f1f37fb-4e4b-4852-8981-93531dd124f9",
+      "source": "9News",
+      "pub_date": "2026-09-10T12:25:53+00:00",
+      "age_hours": 2.4694668191666667,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "BLM ignored wildlife migration when it leased Colorado land for oil and gas drilling, lawsuit claims",
       "link": "https://coloradosun.com/2026/09/10/blm-oil-and-gas-lease-wildlife-migration-lawsuit/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-10T10:16:00+00:00",
-      "age_hours": 0.5680974536111111,
+      "age_hours": 4.634004556388889,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado wants tougher air pollution limits for state\u2019s only oil refinery",
       "link": "https://coloradosun.com/2026/09/10/suncor-colorado-new-rules-crackdown-air-pollution/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-10T10:08:00+00:00",
-      "age_hours": 0.7014308166666666,
+      "age_hours": 4.767337913333333,
       "breaking": true,
-      "time_ago": "42 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado IT office rehires 15 of 173 laid-off state workers, says overhaul will save at least $6M",
       "link": "https://coloradosun.com/2026/09/10/colorado-information-technology-oit-jobs-layoffs-reorganization/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-10T10:00:00+00:00",
-      "age_hours": 0.8347649016666667,
+      "age_hours": 4.900672009722222,
       "breaking": true,
-      "time_ago": "50 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "We went to a flat-Earth convention and found a lesson about the future of post-truth life",
       "link": "https://coloradosun.com/2026/09/10/colorado-sun-8th-birthday-flat-earth/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-10T10:00:00+00:00",
-      "age_hours": 0.8347655297222222,
+      "age_hours": 4.900672734444445,
       "breaking": true,
-      "time_ago": "50 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Who was Daniel Lewin? American-Israeli mathematician was first person killed in 9/11",
       "link": "https://www.9news.com/article/news/nation-world/daniel-lewin-9-11-september-11th-2001/507-9daa6efd-788a-48a4-a88b-9cb1a7b3e520",
       "source": "9News",
       "pub_date": "2026-09-10T09:10:33+00:00",
-      "age_hours": 1.6592607333333333,
+      "age_hours": 5.7250223975,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Lawsuit filed after Amazon-branded cargo plane goes off runway in Miami, killing five",
       "link": "https://www.9news.com/article/money/business/lawsuit-filed-after-amazon-branded-cargo-plane-goes-off-runway-in-miami-killing-five/73-4fe59ecb-406d-4ae7-8c40-99d6e8f8139e",
       "source": "9News",
       "pub_date": "2026-09-10T04:50:25+00:00",
-      "age_hours": 5.994816346111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.060577987777778,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Why school closures are becoming a bigger issue across metro Denver",
       "link": "https://www.9news.com/article/news/education/why-school-closures-are-becoming-bigger-issue-across-metro-denver/73-9a2baddf-2971-4b0e-ace2-6e4b23f72547",
       "source": "9News",
       "pub_date": "2026-09-10T04:44:31+00:00",
-      "age_hours": 6.093149733055555,
+      "age_hours": 10.158911365,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Flight for Life unveils new colors that raised concern among pilots",
       "link": "https://www.9news.com/article/news/health/flight-for-life-new-colors-concern/73-ef5fee0d-8c00-4829-8a51-4251ff8e2d33",
       "source": "9News",
       "pub_date": "2026-09-10T03:21:00+00:00",
-      "age_hours": 7.485094226388889,
+      "age_hours": 11.550855851388889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Councilwoman Shontel Lewis on bid for Denver mayor",
       "link": "https://www.9news.com/article/news/politics/councilwoman-shontel-lewis-on-bid-for-denver-mayor/73-f4a9f6f6-a4c1-4d8d-a98c-89731bf34478",
       "source": "9News",
       "pub_date": "2026-09-10T03:04:44+00:00",
-      "age_hours": 7.756205385555556,
+      "age_hours": 11.82196700611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Panda Express adds Taiwanese popcorn chicken to menu in 70 locations",
       "link": "https://www.9news.com/article/news/nation-world/panda-express-taiwanese-popcorn-chicken/507-fd2ee01b-7fe6-4b27-860e-d1c14a85c2ea",
       "source": "9News",
       "pub_date": "2026-09-10T03:00:01+00:00",
-      "age_hours": 7.834816535,
+      "age_hours": 11.900578151944444,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "United cancels planned 9/11 flyover featuring passenger plane escorted by fighter jets",
       "link": "https://www.9news.com/article/news/local/denver-warns-public-911-flyover-passenger-plane-escorted-by-fighter-jets/73-2fadacc3-82ee-4e95-a826-0845c23a07b3",
       "source": "9News",
       "pub_date": "2026-09-10T00:03:44+00:00",
-      "age_hours": 10.772872162499999,
+      "age_hours": 14.83863376888889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "United cancels 9/11 Denver flyover with plane, fighter jets citing public concerns",
       "link": "https://kdvr.com/news/local/united-cancels-9-11-denver-flyover-with-plane-fighter-jets-citing-public-concerns/",
       "source": "Fox31",
       "pub_date": "2026-09-09T23:38:16+00:00",
-      "age_hours": 11.197971775,
+      "age_hours": 15.263261926666667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver forgot to tell Clayton neighbors it\u2019s building a 400-bed homeless shelter next door",
       "link": "https://denverite.com/2026/09/09/clayton-homeless-shelter-monroe-street/",
       "source": "Denverite",
       "pub_date": "2026-09-09T23:24:53+00:00",
-      "age_hours": 11.420174053611111,
+      "age_hours": 15.485998863055556,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "'Do not underestimate the power of this technology' | Anthropic researcher resigns with warning about AI development",
-      "link": "https://www.9news.com/article/news/nation-world/anthropic-researcher-resigns-warning-dangers-ai/507-0120e8b1-d22f-4355-9ad4-88d3f635dcf8",
-      "source": "9News",
-      "pub_date": "2026-09-09T22:21:53+00:00",
-      "age_hours": 12.47037225138889,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "A 2-mile stretch of Colfax construction will end later this month",
       "link": "https://denverite.com/2026/09/09/colfax-bus-construction-ending/",
       "source": "Denverite",
       "pub_date": "2026-09-09T21:51:10+00:00",
-      "age_hours": 12.982118553055557,
+      "age_hours": 17.047943361111113,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "TSA considers allowing some travelers to bring full water bottles through security",
-      "link": "https://www.9news.com/article/news/nation-world/tsa-precheck-liquid-requirements-potential-change/507-4aabd51c-89d4-4c02-bdf8-f19eb542c8ae",
-      "source": "9News",
-      "pub_date": "2026-09-09T20:52:49+00:00",
-      "age_hours": 13.9548167225,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Mile High Dine and Recline: Blossom by SYC",
-      "link": "https://milehighcre.com/mile-high-dine-and-recline-blossom-by-syc/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-09T19:24:48+00:00",
-      "age_hours": 15.42133597,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Temporary protections in limbo for Salvadoran immigrants \u2014 4K in Aurora \u2014 as deadline nears",
-      "link": "https://sentinelcolorado.com/metro/temporary-protections-in-limbo-for-salvadoran-immigrants-4k-in-aurora-as-deadline-nears/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-09T19:22:29+00:00",
-      "age_hours": 15.46136764611111,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Judge increases bond to $10M for Colorado man charged with killing his wife",
-      "link": "https://www.cpr.org/2026/09/09/barry-morphew-bond-colorado-woman-killed/",
-      "source": "CPR",
-      "pub_date": "2026-09-09T18:54:30+00:00",
-      "age_hours": 15.926671880277778,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Lender Requests Receiver For X Denver Apartment Building Near Coors Field",
-      "link": "https://www.bisnow.com/news/denver/multifamily/lender-requests-receiver-for-x-denver-apartment-building-near-coors-field",
-      "source": "Bisnow",
-      "pub_date": "2026-09-09T17:33:18-04:00",
-      "age_hours": 13.279507271666667,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
