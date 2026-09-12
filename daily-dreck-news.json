@@ -1,186 +1,186 @@
 {
   "fetched_date": "2026-09-12",
-  "fetched_at": "2026-09-12 03:35:52",
+  "fetched_at": "2026-09-12 08:27:06",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Adams County house fire started from electric vehicle battery in the garage",
+      "link": "https://kdvr.com/news/local/adams-county-house-fire-started-from-electric-vehicle-battery-in-the-garage/",
+      "source": "Fox31",
+      "pub_date": "2026-09-12T03:33:46+00:00",
+      "age_hours": 4.884595097777778,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Denver advances plans for 400-bed shelter before many nearby residents learn about proposal",
       "link": "https://www.9news.com/article/news/local/denver-advances-plans-for-400-bed-shelter-before-many-nearby-residents-learn-about-proposal/73-b297a412-f519-4b4c-b264-a364af5adfec",
       "source": "9News",
       "pub_date": "2026-09-12T01:11:22+00:00",
-      "age_hours": 2.4041885544444446,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.257694837777778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "TSA plans to expand program allowing visitors beyond security at Denver airport",
       "link": "https://www.9news.com/article/news/community/transportation/tsa-expand-program-visitors-security-denver-airport/73-b044eea4-38cc-41fc-b3f3-dcda2cd48daa",
       "source": "9News",
       "pub_date": "2026-09-12T00:51:57+00:00",
-      "age_hours": 2.7277997375,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.581306015,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver Police to re-test 13 cases allegedly affected by \"Missy\" Woods' misconduct",
       "link": "https://kdvr.com/news/local/denver-police-to-re-test-13-cases-allegedly-affected-by-missy-woods-misconduct/",
       "source": "Fox31",
       "pub_date": "2026-09-11T23:21:00+00:00",
-      "age_hours": 4.243832841111111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.097372821111112,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver is home to three neighborhood-sized yard sales this weekend",
       "link": "https://denverite.com/2026/09/11/denver-yard-sales-this-weekend/",
       "source": "Denverite",
       "pub_date": "2026-09-11T21:53:49+00:00",
-      "age_hours": 5.6966043172222225,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.550136803888888,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Ballot measure aims to shift Colorado sporting-goods tax revenue to land, water and wildfire projects",
       "link": "https://www.coloradopolitics.com/2026/09/11/ballot-measure-aims-to-shift-colorado-sporting-goods-tax-revenue-to-land-water-and-wildfire-projects/",
       "source": "CO Politics",
       "pub_date": "2026-09-11T20:24:52+00:00",
-      "age_hours": 7.179572775833334,
+      "age_hours": 12.033088628888889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
-      "title": "Football: Aurora\u2019s 2026 Week 3 scoreboard, schedule",
+      "title": "Football: Aurora\u2019s 2026 Week 3 results",
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-3-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-09-11T19:14:19+00:00",
-      "age_hours": 8.35543434,
+      "age_hours": 13.208956413611112,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Aurora chief defends investigation after family disputes Joseph Jones death",
       "link": "https://sentinelcolorado.com/metro/aurora-chief-defends-investigation-after-family-disputes-joseph-jones-death/",
       "source": "Sentinel",
       "pub_date": "2026-09-11T18:35:37+00:00",
-      "age_hours": 9.000434797777778,
+      "age_hours": 13.853956873333335,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "FACT FOCUS: A look at false and misleading claims during the Republican midterm convention",
       "link": "https://sentinelcolorado.com/nation-world/nation/fact-focus-a-look-at-false-and-misleading-claims-during-the-republican-midterm-convention/",
       "source": "Sentinel",
       "pub_date": "2026-09-11T18:26:20+00:00",
-      "age_hours": 9.1551572075,
+      "age_hours": 14.008679278055556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
       "link": "https://sentinelcolorado.com/uncategorized/us-diesel-prices-soar-past-6-a-gallon-deepening-strain-for-hauling-everyday-goods/",
       "source": "Sentinel",
       "pub_date": "2026-09-11T18:05:52+00:00",
-      "age_hours": 9.49626859111111,
+      "age_hours": 14.349790660833332,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Fertility Provider Opens Clinic At 1900 Lawrence Office Tower: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/office/fertility-provider-opens-clinic-at-1900-lawrence-office-tower-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-09-11T17:17:30-04:00",
-      "age_hours": 6.301564669166666,
+      "age_hours": 11.155111185277777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado Supreme Court changes course, dismisses case about special district bonds",
       "link": "https://www.coloradopolitics.com/2026/09/11/colorado-supreme-court-changes-course-dismisses-case-about-special-district-bonds/",
       "source": "CO Politics",
       "pub_date": "2026-09-11T17:00:19+00:00",
-      "age_hours": 10.588739475555556,
+      "age_hours": 15.442255323333335,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "TSA brings back gate access for some people without plane tickets 25 years after 9/11",
       "link": "https://denverite.com/2026/09/11/gate-access-airports-restored/",
       "source": "Denverite",
       "pub_date": "2026-09-11T16:07:43+00:00",
-      "age_hours": 11.464937671666666,
+      "age_hours": 16.31847016388889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Denver's online parking ticket dispute portal returns next week",
       "link": "https://kdvr.com/news/local/denvers-online-parking-ticket-dispute-portal-returns-next-week/",
       "source": "Fox31",
       "pub_date": "2026-09-11T13:24:59+00:00",
-      "age_hours": 14.177444171666666,
+      "age_hours": 19.030984155555558,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Why a world-traveling mountaineer is teaching kids to sew in a small Colorado town",
       "link": "https://coloradosun.com/2026/09/11/cortez-sewing-nonprofit-everest-expedition-leader/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-11T10:07:00+00:00",
-      "age_hours": 17.47684882277778,
+      "age_hours": 22.330362738055555,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Judge tosses Telluride ski area owner\u2019s lawsuit alleging coercion over failed sale",
       "link": "https://coloradosun.com/2026/09/11/judge-dismisses-telluride-ski-area-owner-lawsuit/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-11T10:05:00+00:00",
-      "age_hours": 17.510183390833333,
+      "age_hours": 22.363696646944444,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "This Colorado photographer gave the world its first glimpse of ground zero",
       "link": "https://www.cpr.org/2026/09/11/colorado-photographer-ground-zero/",
       "source": "CPR",
       "pub_date": "2026-09-11T10:00:00+00:00",
-      "age_hours": 17.593590936666665,
+      "age_hours": 22.447096582500002,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Twenty-five years later,  the lessons of 9/11 are where the past becomes history",
       "link": "https://www.cpr.org/2026/09/11/9-11-counterterrorism-education-learning-lab-denver/",
       "source": "CPR",
       "pub_date": "2026-09-11T10:00:00+00:00",
-      "age_hours": 17.5935909825,
+      "age_hours": 22.447096622500002,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Fix Colorado without shortchanging taxpayers | GUEST COLUMN",
       "link": "https://www.coloradopolitics.com/2026/09/11/fix-colorado-without-shortchanging-taxpayers-guest-column/",
       "source": "CO Politics",
       "pub_date": "2026-09-11T06:45:00+00:00",
-      "age_hours": 20.844017276111114,
+      "age_hours": 25.697533122777777,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Washed out roads in Aurora remain closed three years after floods destroyed them",
       "link": "https://kdvr.com/news/local/washed-out-roads-in-aurora-remain-closed-three-years-after-floods-destroyed-them/",
       "source": "Fox31",
       "pub_date": "2026-09-10T22:52:05+00:00",
-      "age_hours": 28.725777448333332,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Galloway Acquires Indiana-Based Hafer",
-      "link": "https://milehighcre.com/denver-based-galloway-acquires-indiana-based-hafer/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-10T20:41:35+00:00",
-      "age_hours": 30.900374437222222,
+      "age_hours": 33.579317446944444,
       "breaking": false,
       "time_ago": "1 day ago"
     }
