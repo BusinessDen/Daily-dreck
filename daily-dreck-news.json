@@ -1,60 +1,141 @@
 {
   "fetched_date": "2026-09-14",
-  "fetched_at": "2026-09-14 12:04:25",
+  "fetched_at": "2026-09-14 18:23:31",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "2026 MICHELIN Guide: All recognized restaurants in Colorado",
+      "link": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/",
+      "source": "Fox31",
+      "pub_date": "2026-09-14T18:04:44+00:00",
+      "age_hours": 0.30911158333333333,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "Leasing Activity Reflects Continued Occupier Demand at 1800 Larimer",
+      "link": "https://milehighcre.com/leasing-activity-reflects-continued-occupier-demand-at-1800-larimer/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-14T17:58:57+00:00",
+      "age_hours": 0.40493404611111117,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
+    {
+      "title": "Kennedy Center board to propose new options for honoring President Trump",
+      "link": "https://www.9news.com/article/news/nation-world/kennedy-center-board-new-options-donald-trump-name/507-e4e855fe-1e5e-4baa-8afc-cec71a5bb351",
+      "source": "9News",
+      "pub_date": "2026-09-14T17:49:51+00:00",
+      "age_hours": 0.5569384177777778,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
+    {
+      "title": "Boa and longtime Denver Zoo ambassador dies",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/denver-zoo-boa-snake-ambassador-dies-flavio/73-96ebf4c2-cc08-451d-bf6b-d8f05d215fe0",
+      "source": "9News",
+      "pub_date": "2026-09-14T17:36:10+00:00",
+      "age_hours": 0.7849939841666668,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
+    {
+      "title": "Layton Construction Opens New Office in DTC",
+      "link": "https://milehighcre.com/layton-construction-opens-new-office-in-dtc/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-14T16:46:32+00:00",
+      "age_hours": 1.611878508888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Trump says the only AI regulation needed is a \u2018High IQ\u2019 president",
+      "link": "https://www.coloradopolitics.com/2026/09/14/trump-says-the-only-ai-regulation-needed-is-a-high-iq-president/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-14T16:35:43+00:00",
+      "age_hours": 1.7929419363888888,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Vance says AI doom warnings from tech CEOs feel like a \u2018Trojan horse\u2019",
+      "link": "https://www.coloradopolitics.com/2026/09/14/vance-says-ai-doom-warnings-from-tech-ceos-feel-like-a-trojan-horse/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-14T16:21:46+00:00",
+      "age_hours": 2.0254419566666666,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "15 more Colorado restaurants make Michelin Guide",
+      "link": "https://www.cpr.org/2026/09/14/colorado-michelin-guide-2026/",
+      "source": "CPR",
+      "pub_date": "2026-09-14T15:45:38+00:00",
+      "age_hours": 2.627133177222222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Starbucks' Peanuts fall collab launches Tuesday, including Snoopy-inspired cups and mugs",
+      "link": "https://www.9news.com/article/news/nation-world/starbucks-snoopy-cup-peanuts-collection-release-date/507-20c3ad04-495d-44ff-b2bf-7a085ff61614",
+      "source": "9News",
+      "pub_date": "2026-09-14T15:32:24+00:00",
+      "age_hours": 2.84777186,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver restaurant awarded Michelin Star as guide expands across Colorado",
+      "link": "https://www.9news.com/article/life/food/denver-restaurants-michelin-star/73-57a4fdb2-2de4-4808-bff0-6728edae0c27",
+      "source": "9News",
+      "pub_date": "2026-09-14T14:40:31+00:00",
+      "age_hours": 3.7124941341666666,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Denver restaurant snags coveted Michelin recognition",
+      "link": "https://coloradosun.com/2026/09/14/one-michelin-star-for-colorado-restaurants/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-14T13:59:23+00:00",
+      "age_hours": 4.397779601944444,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Old Farmer's Almanac releases winter 2026-2027 forecast: Here's what it predicts in Colorado",
+      "link": "https://www.9news.com/article/weather/weather-colorado/old-farmers-almanac-releases-winter-2026-2027-forecast-heres-what-it-predicts-in-colorado/73-1477607f-9ff0-4962-b5e6-1249dc77fc6b",
+      "source": "9News",
+      "pub_date": "2026-09-14T13:31:50+00:00",
+      "age_hours": 4.8572164013888885,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Southbound I-25 reopen after crash involving 4 vehicles",
+      "link": "https://kdvr.com/news/local/southbound-i-25-partially-closed-for-crash-involving-4-vehicles/",
+      "source": "Fox31",
+      "pub_date": "2026-09-14T13:31:22+00:00",
+      "age_hours": 4.865222723055555,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Five things to know about the future of Denver\u2019s water",
       "link": "https://www.cpr.org/2026/09/14/denver-water-outlook/",
       "source": "CPR",
       "pub_date": "2026-09-14T10:00:00+00:00",
-      "age_hours": 2.069319358888889,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Fast response contains fire at North Aurora strip mall unit",
-      "link": "https://sentinelcolorado.com/metro/fast-response-contains-fire-at-north-aurora-strip-mall-unit/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-14T01:28:08+00:00",
-      "age_hours": 10.600854641666666,
+      "age_hours": 8.387688778888888,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
-      "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/strait-of-hormuz-iran-war-attack-commercial-ship-vessel-death/507-991ab2cb-2dc1-4d29-ad6a-6910a904d376",
-      "source": "9News",
-      "pub_date": "2026-09-14T01:24:43+00:00",
-      "age_hours": 10.657428113055555,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Denver's online parking ticket dispute system returns Monday",
-      "link": "https://www.9news.com/article/news/local/denver-online-parking-ticket-dispute-system-returns/73-5284ba5d-d0a5-4fb0-bf9d-559b94ef9b13",
-      "source": "9News",
-      "pub_date": "2026-09-14T00:12:43+00:00",
-      "age_hours": 11.857428170277778,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Ruling not yet a green light for Catalyst, Cascadia",
-      "link": "https://bizwest.com/2026/09/13/ruling-not-yet-a-green-light-for-catalyst-cascadia/",
-      "source": "BizWest",
-      "pub_date": "2026-09-13T15:12:54+00:00",
-      "age_hours": 20.85377942083333,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Grand Canyon flooding threatens economy that\u2019s still recovering from a fire | OUT WEST ROUNDUP",
       "link": "https://www.coloradopolitics.com/2026/09/13/grand-canyon-flooding-threatens-economy-thats-still-recovering-from-a-fire-out-west-roundup/",
       "source": "CO Politics",
       "pub_date": "2026-09-13T11:00:00+00:00",
-      "age_hours": 25.069714075833335,
+      "age_hours": 31.388219782777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +144,7 @@
       "link": "https://coloradosun.com/2026/09/13/black-eyed-peas-soul-food-scholar-adrian-miller/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-13T10:00:00+00:00",
-      "age_hours": 26.069210084166667,
+      "age_hours": 32.38750242361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +153,7 @@
       "link": "https://www.cpr.org/2026/09/13/discounted-admission-ebt/",
       "source": "CPR",
       "pub_date": "2026-09-13T10:00:00+00:00",
-      "age_hours": 26.069319443055555,
+      "age_hours": 32.387688840555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,34 +162,16 @@
       "link": "https://coloradosun.com/2026/09/13/amendment-87-taxes-opinion-littwin/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-13T09:05:00+00:00",
-      "age_hours": 26.9858775675,
+      "age_hours": 33.30416991138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
     {
-      "title": "Windsor buys 70 acres of open space for $6M",
-      "link": "https://bizwest.com/2026/09/12/windsor-buys-70-acres-of-open-space-for-6m/",
-      "source": "BizWest",
-      "pub_date": "2026-09-12T13:47:15+00:00",
-      "age_hours": 46.28128000638889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Integral buys Heritage Environmental Consultants",
-      "link": "https://bizwest.com/2026/09/12/integral-buys-heritage-environmental-consultants/",
-      "source": "BizWest",
-      "pub_date": "2026-09-12T13:38:08+00:00",
-      "age_hours": 46.43322445916667,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "What\u2019s Working: Colorado\u2019s aerospace industry fears it may be losing ground",
-      "link": "https://coloradosun.com/2026/09/12/colorado-aerospace-job-growth-flat-business/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 50.06921096944444,
+      "title": "To build or to ban: Colorado municipalities grapple with data centers",
+      "link": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-12T11:32:00+00:00",
+      "age_hours": 54.85488658222222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -117,70 +180,7 @@
       "link": "https://www.cpr.org/2026/09/12/storyteller-new-leader-the-word-sanctuary/",
       "source": "CPR",
       "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 50.06931947944444,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Proposed board changes for Vail Resorts has its battered stock ticking up",
-      "link": "https://www.cpr.org/2026/09/12/proposed-board-changes-vail-resorts-stock/",
-      "source": "CPR",
-      "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 50.06931952694445,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Every opening and closing this week:\u00a0 64-year-old Mexican eatery shutters",
-      "link": "https://www.westword.com/food-drink/denver-restaurant-opening-and-closings-40933160/",
-      "source": "Westword",
-      "pub_date": "2026-09-12T07:30:00-06:00",
-      "age_hours": 46.56960376944445,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Adams County house fire started from electric vehicle battery in the garage",
-      "link": "https://kdvr.com/news/local/adams-county-house-fire-started-from-electric-vehicle-battery-in-the-garage/",
-      "source": "Fox31",
-      "pub_date": "2026-09-12T03:33:46+00:00",
-      "age_hours": 56.50680890833333,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Denver Police to retest 13 cases allegedly affected by 'Missy' Woods' misconduct",
-      "link": "https://kdvr.com/news/local/denver-police-to-re-test-13-cases-allegedly-affected-by-missy-woods-misconduct/",
-      "source": "Fox31",
-      "pub_date": "2026-09-11T23:21:00+00:00",
-      "age_hours": 60.71958662083334,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Denver is home to three neighborhood-sized yard sales this weekend",
-      "link": "https://denverite.com/2026/09/11/denver-yard-sales-this-weekend/",
-      "source": "Denverite",
-      "pub_date": "2026-09-11T21:53:49+00:00",
-      "age_hours": 62.17231406305555,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "DigitalOcean secures $725M financing facility",
-      "link": "https://bizwest.com/2026/09/11/digitalocean-secures-725m-financing-facility/",
-      "source": "BizWest",
-      "pub_date": "2026-09-11T21:23:19+00:00",
-      "age_hours": 62.68016893833333,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Wunder, Prime Group launch national solar rollout",
-      "link": "https://bizwest.com/2026/09/11/wunder-prime-group-launch-national-solar-rollout/",
-      "source": "BizWest",
-      "pub_date": "2026-09-11T21:18:56+00:00",
-      "age_hours": 62.753224500277774,
+      "age_hours": 56.387688867499996,
       "breaking": false,
       "time_ago": "2 days ago"
     }
