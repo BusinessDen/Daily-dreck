@@ -1,60 +1,69 @@
 {
-  "fetched_date": "2026-09-13",
-  "fetched_at": "2026-09-13 22:57:11",
+  "fetched_date": "2026-09-14",
+  "fetched_at": "2026-09-14 00:51:57",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Denver's online parking ticket dispute system returns Monday",
+      "link": "https://www.9news.com/article/news/local/denver-online-parking-ticket-dispute-system-returns/73-5284ba5d-d0a5-4fb0-bf9d-559b94ef9b13",
+      "source": "9News",
+      "pub_date": "2026-09-14T00:12:43+00:00",
+      "age_hours": 0.6490831269444445,
+      "breaking": true,
+      "time_ago": "38 min ago"
+    },
+    {
+      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
+      "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/strait-of-hormuz-iran-war-attack-commercial-ship-vessel-death/507-991ab2cb-2dc1-4d29-ad6a-6910a904d376",
+      "source": "9News",
+      "pub_date": "2026-09-13T22:54:43+00:00",
+      "age_hours": 1.9490831694444446,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Grand Canyon flooding threatens economy that\u2019s still recovering from a fire | OUT WEST ROUNDUP",
       "link": "https://www.coloradopolitics.com/2026/09/13/grand-canyon-flooding-threatens-economy-thats-still-recovering-from-a-fire-out-west-roundup/",
       "source": "CO Politics",
       "pub_date": "2026-09-13T11:00:00+00:00",
-      "age_hours": 11.948832971666667,
+      "age_hours": 13.861697739722223,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Snack, side dish, center plate: Colorado\u2019s Soul Food Scholar has recipes for climate-friendly black-eyed peas",
       "link": "https://coloradosun.com/2026/09/13/black-eyed-peas-soul-food-scholar-adrian-miller/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-13T10:00:00+00:00",
-      "age_hours": 12.948396377222222,
+      "age_hours": 14.860781038333332,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "1 in every 10 Coloradans can get into 50 cultural spots with a discount",
       "link": "https://www.cpr.org/2026/09/13/discounted-admission-ebt/",
       "source": "CPR",
       "pub_date": "2026-09-13T10:00:00+00:00",
-      "age_hours": 12.948485923888889,
+      "age_hours": 14.860945953611111,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say",
-      "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/strait-of-hormuz-iran-war-attack-commercial-ship-vessel-death/507-991ab2cb-2dc1-4d29-ad6a-6910a904d376",
-      "source": "9News",
-      "pub_date": "2026-09-13T09:44:08+00:00",
-      "age_hours": 13.212982388611112,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Littwin: Can Coloradans really refuse Amendment 87 and its tax-the-rich, cut-taxes-for-everyone-else promise?",
       "link": "https://coloradosun.com/2026/09/13/amendment-87-taxes-opinion-littwin/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-13T09:05:00+00:00",
-      "age_hours": 13.865063875277778,
+      "age_hours": 15.777448221666667,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "What\u2019s Working: Colorado\u2019s aerospace industry fears it may be losing ground",
       "link": "https://coloradosun.com/2026/09/12/colorado-aerospace-job-growth-flat-business/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 36.948397280833326,
+      "age_hours": 38.86078160305555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://www.cpr.org/2026/09/12/storyteller-new-leader-the-word-sanctuary/",
       "source": "CPR",
       "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 36.948485963888885,
+      "age_hours": 38.86094598666667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://www.cpr.org/2026/09/12/proposed-board-changes-vail-resorts-stock/",
       "source": "CPR",
       "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 36.94848600666667,
+      "age_hours": 38.860946014444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-opening-and-closings-40933160/",
       "source": "Westword",
       "pub_date": "2026-09-12T07:30:00-06:00",
-      "age_hours": 33.448749166111114,
+      "age_hours": 35.36148188111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,16 +99,7 @@
       "link": "https://kdvr.com/news/local/adams-county-house-fire-started-from-electric-vehicle-battery-in-the-garage/",
       "source": "Fox31",
       "pub_date": "2026-09-12T03:33:46+00:00",
-      "age_hours": 43.38588580361112,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver advances plans for 400-bed shelter before many nearby residents learn about proposal",
-      "link": "https://www.9news.com/article/news/local/denver-advances-plans-for-400-bed-shelter-before-many-nearby-residents-learn-about-proposal/73-b297a412-f519-4b4c-b264-a364af5adfec",
-      "source": "9News",
-      "pub_date": "2026-09-12T01:11:22+00:00",
-      "age_hours": 45.75909364888889,
+      "age_hours": 45.29851306055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,16 +108,16 @@
       "link": "https://kdvr.com/news/local/denver-police-to-re-test-13-cases-allegedly-affected-by-missy-woods-misconduct/",
       "source": "Fox31",
       "pub_date": "2026-09-11T23:21:00+00:00",
-      "age_hours": 47.598663521388886,
+      "age_hours": 49.51129079888889,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Denver is home to three neighborhood-sized yard sales this weekend",
       "link": "https://denverite.com/2026/09/11/denver-yard-sales-this-weekend/",
       "source": "Denverite",
       "pub_date": "2026-09-11T21:53:49+00:00",
-      "age_hours": 49.05149138888889,
+      "age_hours": 50.96392325694445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/11/ballot-measure-aims-to-shift-colorado-sporting-goods-tax-revenue-to-land-water-and-wildfire-projects/",
       "source": "CO Politics",
       "pub_date": "2026-09-11T20:24:52+00:00",
-      "age_hours": 50.53438869888888,
+      "age_hours": 52.44725340805556,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://www.bisnow.com/news/denver/office/fertility-provider-opens-clinic-at-1900-lawrence-office-tower-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-09-11T17:17:30-04:00",
-      "age_hours": 49.65644256444444,
+      "age_hours": 51.56883628166666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/11/colorado-supreme-court-changes-course-dismisses-case-about-special-district-bonds/",
       "source": "CO Politics",
       "pub_date": "2026-09-11T17:00:19+00:00",
-      "age_hours": 53.943555386944446,
+      "age_hours": 55.85642009361111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://denverite.com/2026/09/11/gate-access-airports-restored/",
       "source": "Denverite",
       "pub_date": "2026-09-11T16:07:43+00:00",
-      "age_hours": 54.81982474805555,
+      "age_hours": 56.73225661194444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://coloradosun.com/2026/09/11/cortez-sewing-nonprofit-everest-expedition-leader/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-11T10:07:00+00:00",
-      "age_hours": 60.831730659722226,
+      "age_hours": 62.744114966944444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.cpr.org/2026/09/11/colorado-photographer-ground-zero/",
       "source": "CPR",
       "pub_date": "2026-09-11T10:00:00+00:00",
-      "age_hours": 60.94848605194444,
+      "age_hours": 62.86094604222222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.cpr.org/2026/09/11/9-11-counterterrorism-education-learning-lab-denver/",
       "source": "CPR",
       "pub_date": "2026-09-11T10:00:00+00:00",
-      "age_hours": 60.94848608722222,
+      "age_hours": 62.86094606361111,
       "breaking": false,
       "time_ago": "2 days ago"
     }
