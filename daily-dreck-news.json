@@ -1,87 +1,96 @@
 {
   "fetched_date": "2026-09-14",
-  "fetched_at": "2026-09-14 05:53:23",
+  "fetched_at": "2026-09-14 12:04:25",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Five things to know about the future of Denver\u2019s water",
+      "link": "https://www.cpr.org/2026/09/14/denver-water-outlook/",
+      "source": "CPR",
+      "pub_date": "2026-09-14T10:00:00+00:00",
+      "age_hours": 2.069319358888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Fast response contains fire at North Aurora strip mall unit",
       "link": "https://sentinelcolorado.com/metro/fast-response-contains-fire-at-north-aurora-strip-mall-unit/",
       "source": "Sentinel",
       "pub_date": "2026-09-14T01:28:08+00:00",
-      "age_hours": 4.416812690833333,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.600854641666666,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
       "link": "https://www.9news.com/article/news/nation-world/attack-on-iran/strait-of-hormuz-iran-war-attack-commercial-ship-vessel-death/507-991ab2cb-2dc1-4d29-ad6a-6910a904d376",
       "source": "9News",
       "pub_date": "2026-09-14T01:24:43+00:00",
-      "age_hours": 4.473447071111111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.657428113055555,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver's online parking ticket dispute system returns Monday",
       "link": "https://www.9news.com/article/news/local/denver-online-parking-ticket-dispute-system-returns/73-5284ba5d-d0a5-4fb0-bf9d-559b94ef9b13",
       "source": "9News",
       "pub_date": "2026-09-14T00:12:43+00:00",
-      "age_hours": 5.673447160277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.857428170277778,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Ruling not yet a green light for Catalyst, Cascadia",
       "link": "https://bizwest.com/2026/09/13/ruling-not-yet-a-green-light-for-catalyst-cascadia/",
       "source": "BizWest",
       "pub_date": "2026-09-13T15:12:54+00:00",
-      "age_hours": 14.669033733055555,
+      "age_hours": 20.85377942083333,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Grand Canyon flooding threatens economy that\u2019s still recovering from a fire | OUT WEST ROUNDUP",
       "link": "https://www.coloradopolitics.com/2026/09/13/grand-canyon-flooding-threatens-economy-thats-still-recovering-from-a-fire-out-west-roundup/",
       "source": "CO Politics",
       "pub_date": "2026-09-13T11:00:00+00:00",
-      "age_hours": 18.88567198222222,
+      "age_hours": 25.069714075833335,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Snack, side dish, center plate: Colorado\u2019s Soul Food Scholar has recipes for climate-friendly black-eyed peas",
       "link": "https://coloradosun.com/2026/09/13/black-eyed-peas-soul-food-scholar-adrian-miller/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-13T10:00:00+00:00",
-      "age_hours": 19.88438408222222,
+      "age_hours": 26.069210084166667,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "1 in every 10 Coloradans can get into 50 cultural spots with a discount",
       "link": "https://www.cpr.org/2026/09/13/discounted-admission-ebt/",
       "source": "CPR",
       "pub_date": "2026-09-13T10:00:00+00:00",
-      "age_hours": 19.884679064166665,
+      "age_hours": 26.069319443055555,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Littwin: Can Coloradans really refuse Amendment 87 and its tax-the-rich, cut-taxes-for-everyone-else promise?",
       "link": "https://coloradosun.com/2026/09/13/amendment-87-taxes-opinion-littwin/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-13T09:05:00+00:00",
-      "age_hours": 20.801051599722225,
+      "age_hours": 26.9858775675,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Windsor buys 70 acres of open space for $6M",
       "link": "https://bizwest.com/2026/09/12/windsor-buys-70-acres-of-open-space-for-6m/",
       "source": "BizWest",
       "pub_date": "2026-09-12T13:47:15+00:00",
-      "age_hours": 40.09653434416666,
+      "age_hours": 46.28128000638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://bizwest.com/2026/09/12/integral-buys-heritage-environmental-consultants/",
       "source": "BizWest",
       "pub_date": "2026-09-12T13:38:08+00:00",
-      "age_hours": 40.24847879666667,
+      "age_hours": 46.43322445916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,34 +108,34 @@
       "link": "https://coloradosun.com/2026/09/12/colorado-aerospace-job-growth-flat-business/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 43.88438500555556,
+      "age_hours": 50.06921096944444,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Long-time Denver storyteller takes the helm of a storyteller\u2019s sanctuary",
       "link": "https://www.cpr.org/2026/09/12/storyteller-new-leader-the-word-sanctuary/",
       "source": "CPR",
       "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 43.884679107500006,
+      "age_hours": 50.06931947944444,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Proposed board changes for Vail Resorts has its battered stock ticking up",
       "link": "https://www.cpr.org/2026/09/12/proposed-board-changes-vail-resorts-stock/",
       "source": "CPR",
       "pub_date": "2026-09-12T10:00:00+00:00",
-      "age_hours": 43.88467915472222,
+      "age_hours": 50.06931952694445,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Every opening and closing this week:\u00a0 64-year-old Mexican eatery shutters",
       "link": "https://www.westword.com/food-drink/denver-restaurant-opening-and-closings-40933160/",
       "source": "Westword",
       "pub_date": "2026-09-12T07:30:00-06:00",
-      "age_hours": 40.38557200333333,
+      "age_hours": 46.56960376944445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://kdvr.com/news/local/adams-county-house-fire-started-from-electric-vehicle-battery-in-the-garage/",
       "source": "Fox31",
       "pub_date": "2026-09-12T03:33:46+00:00",
-      "age_hours": 50.322761938333336,
+      "age_hours": 56.50680890833333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://kdvr.com/news/local/denver-police-to-re-test-13-cases-allegedly-affected-by-missy-woods-misconduct/",
       "source": "Fox31",
       "pub_date": "2026-09-11T23:21:00+00:00",
-      "age_hours": 54.53553963722222,
+      "age_hours": 60.71958662083334,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://denverite.com/2026/09/11/denver-yard-sales-this-weekend/",
       "source": "Denverite",
       "pub_date": "2026-09-11T21:53:49+00:00",
-      "age_hours": 55.98747726361111,
+      "age_hours": 62.17231406305555,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/09/11/digitalocean-secures-725m-financing-facility/",
       "source": "BizWest",
       "pub_date": "2026-09-11T21:23:19+00:00",
-      "age_hours": 56.495423269166665,
+      "age_hours": 62.68016893833333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/09/11/wunder-prime-group-launch-national-solar-rollout/",
       "source": "BizWest",
       "pub_date": "2026-09-11T21:18:56+00:00",
-      "age_hours": 56.568478830277776,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Gloo revenue nearly triples in second quarter",
-      "link": "https://bizwest.com/2026/09/11/gloo-revenue-nearly-triples-in-second-quarter/",
-      "source": "BizWest",
-      "pub_date": "2026-09-11T21:00:09+00:00",
-      "age_hours": 56.88153441527778,
+      "age_hours": 62.753224500277774,
       "breaking": false,
       "time_ago": "2 days ago"
     }
