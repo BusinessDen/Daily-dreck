@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-09-15",
-  "fetched_at": "2026-09-15 13:13:39",
+  "fetched_at": "2026-09-15 17:59:24",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Aurora to ban most outdoor irrigation from October to May, ban some grasses in new lawns",
+      "link": "https://sentinelcolorado.com/metro/aurora-to-ban-most-outdoor-irrigation-from-october-to-may-ban-some-grasses-in-new-lawns/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-15T17:55:50+00:00",
+      "age_hours": 0.05592431666666667,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "Colorado at risk of being eclipsed by other aerospace hubs, reports warn",
+      "link": "https://www.coloradopolitics.com/2026/09/15/colorado-at-risk-of-being-eclipsed-by-other-aerospace-hubs-reports-warn-4/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-15T17:10:22+00:00",
+      "age_hours": 0.8136231258333333,
+      "breaking": true,
+      "time_ago": "48 min ago"
+    },
+    {
+      "title": "Shooting at Aurora convenience store Monday leaves two women seriously injured",
+      "link": "https://sentinelcolorado.com/metro/shooting-at-aurora-convenience-store-monday-leaves-two-women-seriously-injured/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-15T15:54:51+00:00",
+      "age_hours": 2.072313422222222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Da Vinci Museum\u2019s $885,000 funding request gets thumbs down from City Council",
+      "link": "https://www.coloradopolitics.com/2026/09/15/da-vinci-museums-885000-funding-request-gets-thumbs-down-from-city-council/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-15T15:04:19+00:00",
+      "age_hours": 2.914456521388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "HW Home Opens New Flagship Store at 9+CO",
+      "link": "https://milehighcre.com/hw-home-opens-new-flagship-store-at-9co/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-15T14:22:03+00:00",
+      "age_hours": 3.613698273888889,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "159,000-square-foot Costco coming to Littleton",
       "link": "https://www.9news.com/article/life/style/colorado-guide/159000-square-foot-costco-coming-to-littleton/73-d92e12e4-da20-43f9-9a60-f4f0b8981d19",
       "source": "9News",
       "pub_date": "2026-09-15T12:52:19+00:00",
-      "age_hours": 0.35080103888888886,
+      "age_hours": 5.109671972777778,
       "breaking": true,
-      "time_ago": "21 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act",
       "link": "https://sentinelcolorado.com/nation-world/nation/tech-ceos-call-for-ai-regulation-trump-and-congress-are-not-rushing-to-act/",
       "source": "Sentinel",
       "pub_date": "2026-09-15T12:51:21+00:00",
-      "age_hours": 0.3675133452777778,
+      "age_hours": 5.130647025,
       "breaking": true,
-      "time_ago": "22 min ago"
-    },
-    {
-      "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump\u2019s demands",
-      "link": "https://sentinelcolorado.com/nation-world/nation/federal-reserve-is-expected-to-raise-its-benchmark-rate-defying-trumps-demands/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-15T12:42:58+00:00",
-      "age_hours": 0.5072358708333333,
-      "breaking": true,
-      "time_ago": "30 min ago"
-    },
-    {
-      "title": "Aurora bans evaporative cooling at future data centers, stalls on regulating residential set-backs",
-      "link": "https://sentinelcolorado.com/metro/aurora-bans-evaporative-cooling-at-future-data-centers-stalls-on-regulating-residential-set-backs/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-15T12:27:20+00:00",
-      "age_hours": 0.7677917394444445,
-      "breaking": true,
-      "time_ago": "46 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Nordstrom Rack opening 2 new stores in Colorado",
       "link": "https://www.9news.com/article/life/style/colorado-guide/nordstrom-rack-dillon-colorado/73-92c218ad-8834-44c5-93a8-984b671af8a3",
       "source": "9News",
       "pub_date": "2026-09-15T11:57:53+00:00",
-      "age_hours": 1.2580232952777777,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.0168942175,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Hayden Panettiere's ex-boyfriend detained and his brother arrested for 'disorderly conduct'",
       "link": "https://www.9news.com/article/news/nation-world/hayden-panettiere-south-carolina-boyfriend-detained-brother-arrested/507-0d7ae72a-4293-4f88-b1ef-8e26cf7e9812",
       "source": "9News",
       "pub_date": "2026-09-15T11:35:19+00:00",
-      "age_hours": 1.6341344577777777,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.393005364166666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Fort Collins Mexican restaurant closing after 31 years",
       "link": "https://www.9news.com/article/money/business/los-tarascos-mexican-restaurant-closes/73-acbd0330-c931-4e2b-8ac2-318c86d9d4f4",
       "source": "9News",
       "pub_date": "2026-09-15T11:29:25+00:00",
-      "age_hours": 1.732467829722222,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.491338732222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado watching closely after federal court tosses order to keep coal power plant running in Michigan",
       "link": "https://coloradosun.com/2026/09/15/craig-unit-1-michigan-decision-colorado-coal-power/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-15T10:07:00+00:00",
-      "age_hours": 3.1059394819444446,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.864665086388889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Gabe Evans blames Colorado Democrats for high gasoline prices. The numbers and experts say otherwise.",
       "link": "https://coloradosun.com/2026/09/15/gabe-evans-colorado-gas-prices/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-15T10:00:00+00:00",
-      "age_hours": 3.2226075072222224,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.981332469166667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Groceries or nightclub? Restaurant owners feud over infamous Denver block",
       "link": "https://denverite.com/2026/09/15/the-holly-horizon-development-shenanigans/",
       "source": "Denverite",
       "pub_date": "2026-09-15T10:00:00+00:00",
-      "age_hours": 3.222714142777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.981431511388888,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Drop in international students hits the University of Colorado system\u2019s enrollment",
       "link": "https://www.cpr.org/2026/09/15/drop-international-students-university-colorado-systems/",
       "source": "CPR",
       "pub_date": "2026-09-15T10:00:00+00:00",
-      "age_hours": 3.2227290163888886,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Old Farmer's Almanac releases winter 2026-2027 forecast: Here's what it predicts in Colorado",
-      "link": "https://www.9news.com/article/weather/weather-colorado/old-farmers-almanac-releases-winter-2026-2027-forecast-heres-what-it-predicts-in-colorado/73-1477607f-9ff0-4962-b5e6-1249dc77fc6b",
-      "source": "9News",
-      "pub_date": "2026-09-15T09:49:26+00:00",
-      "age_hours": 3.398856786111111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Aurora city council approves data center regulation",
-      "link": "https://www.9news.com/article/news/politics/aurora-city-council-approves-data-center-regulation/73-fc611142-b10f-4fd7-906c-ce47bde3878a",
-      "source": "9News",
-      "pub_date": "2026-09-15T04:43:07+00:00",
-      "age_hours": 8.504134578055556,
+      "age_hours": 7.981514745277778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Walker runs all over Denver, Mahomes looks healthy as Chiefs beat up Broncos 31-10",
       "link": "https://kdvr.com/sports/denver-broncos/walker-runs-all-over-denver-mahomes-looks-healthy-as-chiefs-beat-up-broncos-31-10/",
       "source": "Fox31",
       "pub_date": "2026-09-15T03:28:39+00:00",
-      "age_hours": 9.745538742499999,
+      "age_hours": 14.504362900555556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
-      "title": "Colorado families increasingly seek help to avoid foreclosure, housing nonprofit says",
-      "link": "https://www.9news.com/article/money/economy/colorado-families-foreclosure/73-500d759b-dfe8-47d0-a7a5-73600e592a4d",
-      "source": "9News",
-      "pub_date": "2026-09-15T00:51:49+00:00",
-      "age_hours": 12.3591346375,
+      "title": "Denver considers restrictions on transgender data",
+      "link": "https://www.coloradopolitics.com/2026/09/14/denver-considers-new-protections-for-transgender-data/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-15T00:29:48+00:00",
+      "age_hours": 17.489734336944444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "La Loter\u00eda Bot\u00e1nica brings Mexican tradition, culture and artists together at the Denver Botanic Gardens",
-      "link": "https://www.9news.com/article/news/local/hispanic-heritage-month/la-loteria-botanica-denver-botanic-gardens/73-60a4e952-fb1d-4a22-ba15-29724e1471aa",
-      "source": "9News",
-      "pub_date": "2026-09-15T00:30:16+00:00",
-      "age_hours": 12.718301313055555,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Denver restaurant awarded Michelin Star as guide expands across Colorado",
-      "link": "https://www.9news.com/article/life/food/denver-restaurants-michelin-star/73-57a4fdb2-2de4-4808-bff0-6728edae0c27",
-      "source": "9News",
-      "pub_date": "2026-09-15T00:21:58+00:00",
-      "age_hours": 12.856634695833334,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Pet daycare owner cited for animal cruelty after dog found dead in vehicle",
       "link": "https://kdvr.com/news/local/pet-daycare-owner-cited-for-animal-cruelty-after-dog-found-dead-in-vehicle/",
       "source": "Fox31",
       "pub_date": "2026-09-14T23:59:49+00:00",
-      "age_hours": 13.226094415833332,
+      "age_hours": 17.984918500833334,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Thousands of fraudulent business filings weeded out by Secretary of State",
       "link": "https://www.coloradopolitics.com/2026/09/14/thousands-of-fraudulent-business-filings-weeded-out-by-secretary-of-state/",
       "source": "CO Politics",
       "pub_date": "2026-09-14T23:21:12+00:00",
-      "age_hours": 13.869984025,
+      "age_hours": 18.633067750555558,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Federal appeals court hears Kappa case over transgender member",
       "link": "https://kdvr.com/news/local/federal-appeals-court-hears-kappa-case-over-transgender-member/",
       "source": "Fox31",
       "pub_date": "2026-09-14T23:00:57+00:00",
-      "age_hours": 14.207205479444443,
+      "age_hours": 18.96602957388889,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "18 hrs ago"
+    },
+    {
+      "title": "Man sentenced to nearly 50 years in prison for deadly 2020 shooting of Denver musician",
+      "link": "https://kdvr.com/news/local/man-sentenced-to-nearly-50-years-in-prison-for-deadly-2020-shooting-of-denver-musician/",
+      "source": "Fox31",
+      "pub_date": "2026-09-14T22:51:31+00:00",
+      "age_hours": 19.12325187861111,
+      "breaking": false,
+      "time_ago": "19 hrs ago"
     }
   ]
 }
