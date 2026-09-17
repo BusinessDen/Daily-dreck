@@ -1,123 +1,150 @@
 {
   "fetched_date": "2026-09-17",
-  "fetched_at": "2026-09-17 01:07:07",
+  "fetched_at": "2026-09-17 07:16:53",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver advances police station rebuild as Colfax leaders push for more housing",
+      "link": "https://www.9news.com/article/news/local/local-politics/denver-advances-police-station-rebuild-as-colfax-leaders-push-for-more-housing/73-d72f64c2-dfdb-459a-85ed-92477f930e96",
+      "source": "9News",
+      "pub_date": "2026-09-17T04:57:46+00:00",
+      "age_hours": 2.315257576388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Why Littleton is using a 30-year tax incentive to attract big business",
+      "link": "https://www.9news.com/article/money/business/why-littleton-is-using-a-30-year-tax-incentive-to-attract-big-business/73-26692356-2d0f-4c93-9d1b-cc0f1c2e85ba",
+      "source": "9News",
+      "pub_date": "2026-09-17T03:50:36+00:00",
+      "age_hours": 3.4347020863888886,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Denver residents go 6 months without mail after USPS suspends service to housing complex",
+      "link": "https://kdvr.com/news/local/denver-residents-go-6-months-without-mail-after-usps-suspends-service-to-housing-complex/",
+      "source": "Fox31",
+      "pub_date": "2026-09-17T01:46:28+00:00",
+      "age_hours": 5.503875363611111,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
     {
       "title": "Paper only: A Denver English class went analog",
       "link": "https://www.9news.com/article/news/education/denver-english-class-went-analog/73-1666ee27-d226-4841-b873-1bafa1397f7b",
       "source": "9News",
       "pub_date": "2026-09-17T00:30:43+00:00",
-      "age_hours": 0.6004293086111111,
-      "breaking": true,
-      "time_ago": "36 min ago"
+      "age_hours": 6.76609106,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Drought forces some Colorado ranchers to sell and ship cattle earlier than usual",
       "link": "https://www.9news.com/article/news/local/colorado-news/drought-forces-colorado-ranchers-to-sell-ship-cattle-early/73-cddd75c4-a077-4b12-ae53-dc64d9a90386",
       "source": "9News",
       "pub_date": "2026-09-16T22:20:42+00:00",
-      "age_hours": 2.767373865277778,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 8.933035583333334,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver ranks among America's best coffee cities: Study",
       "link": "https://kdvr.com/denver-guide/denver-ranks-among-americas-best-coffee-cities-study/",
       "source": "Fox31",
       "pub_date": "2026-09-16T21:38:51+00:00",
-      "age_hours": 3.4650640277777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.6308198875,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Trader Joe's is bringing back Halloween-themed mini tote bags. Here's how to get one",
       "link": "https://www.9news.com/article/news/nation-world/trader-joes-halloween-mini-tote-canvas-bags-2026/507-a1c206d1-5d0a-4e9b-9f75-f0b3c82c7ea9",
       "source": "9News",
       "pub_date": "2026-09-16T21:36:29+00:00",
-      "age_hours": 3.5043183861111107,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.669980085555556,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado Attorney General settles case involving misleading solicitations to businesses",
       "link": "https://www.coloradopolitics.com/2026/09/16/colorado-attorney-general-settles-case-involving-misleading-solicitations-to-businesses/",
       "source": "CO Politics",
       "pub_date": "2026-09-16T20:29:06+00:00",
-      "age_hours": 4.6312710025,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.793555089166667,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut",
       "link": "https://sentinelcolorado.com/nation-world/nation/federal-reserve-hikes-key-rate-for-1st-time-in-3-years-defying-trump-demands-for-a-cut/",
       "source": "Sentinel",
       "pub_date": "2026-09-16T19:42:42+00:00",
-      "age_hours": 5.404633864166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.566925431944446,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
       "link": "https://sentinelcolorado.com/uncategorized/retail-sales-rise-a-better-than-expected-1-2-in-august-after-shoppers-pulled-back-spending-in-july/",
       "source": "Sentinel",
       "pub_date": "2026-09-16T19:34:09+00:00",
-      "age_hours": 5.547134166388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.709425734166667,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "State, national debate over data centers lands in Colorado Springs with Project Taurus vote Thursday",
       "link": "https://www.coloradopolitics.com/2026/09/15/state-national-debate-over-data-centers-lands-in-colorado-springs-thursday-with-project-taurus/",
       "source": "CO Politics",
       "pub_date": "2026-09-16T18:12:12+00:00",
-      "age_hours": 6.912937848333333,
+      "age_hours": 13.075221918055556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Some Coloradans may have been exposed to measles last week",
       "link": "https://www.cpr.org/2026/09/16/measles-exposure-boulder-westminster-lafayette/",
       "source": "CPR",
       "pub_date": "2026-09-16T17:29:30+00:00",
-      "age_hours": 7.620613373333334,
+      "age_hours": 13.786313334722221,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Hotel, restaurant owners oppose more state funds for Gaylord Rockies Resort",
       "link": "https://www.coloradopolitics.com/2026/09/16/hoteliers-restaurants-cry-foul-over-more-state-funds-for-gaylord-rockies-resort/",
       "source": "CO Politics",
       "pub_date": "2026-09-16T12:29:03+00:00",
-      "age_hours": 12.632104491944444,
+      "age_hours": 18.794388564166663,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Tax-funding squabble ends in defeat for Pueblo\u2019s da Vinci Museum",
       "link": "https://coloradosun.com/2026/09/16/da-vinci-museum-tax-funding-pueblo/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-16T10:08:00+00:00",
-      "age_hours": 14.978900016666666,
+      "age_hours": 21.14451871472222,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "From prison coffee to cortados: How Colfax got its newest cafe",
       "link": "https://denverite.com/2026/09/16/convict-coffee-colfax-denver/",
       "source": "Denverite",
       "pub_date": "2026-09-16T10:00:00+00:00",
-      "age_hours": 15.112265560833334,
+      "age_hours": 21.277912799166664,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "The fight over Denver\u2019s clean energy rules isn\u2019t over yet",
       "link": "https://denverite.com/2026/09/15/denver-electrification-requirements-lawsuit-appeal/",
       "source": "Denverite",
       "pub_date": "2026-09-15T22:45:46+00:00",
-      "age_hours": 26.349487843333332,
+      "age_hours": 32.515135075833335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +153,7 @@
       "link": "https://coloradosun.com/2026/09/15/colorado-broadband-office-leader-abruptly-resigns/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-15T21:55:18+00:00",
-      "age_hours": 27.190567407222222,
+      "age_hours": 33.35618605444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/15/aurora-council-approves-creation-of-permit-for-high-risk-businesses/",
       "source": "CO Politics",
       "pub_date": "2026-09-15T21:20:48+00:00",
-      "age_hours": 27.76960459,
+      "age_hours": 33.93188866138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/15/colorado-at-risk-of-being-eclipsed-by-other-aerospace-hubs-reports-warn-4/",
       "source": "CO Politics",
       "pub_date": "2026-09-15T20:27:01+00:00",
-      "age_hours": 28.665993565277777,
+      "age_hours": 34.82827763388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/15/outtherecolorado/analysis-prop-137-would-add-65-million-for-wildfire-mitigation-reduce-tabor-refunds/",
       "source": "CO Politics",
       "pub_date": "2026-09-15T20:10:11+00:00",
-      "age_hours": 28.94654913,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Vance steers clear of AI regulation during \u2018rah-rah political speech\u2019 for House GOP",
-      "link": "https://www.coloradopolitics.com/2026/09/15/vance-steers-clear-of-ai-regulation-during-rah-rah-political-speech-for-house-gop/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-15T18:04:14+00:00",
-      "age_hours": 31.04571582138889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Mountain Developers Look To Mobile Homes, Deed Restrictions For Affordability Solutions",
-      "link": "https://www.bisnow.com/news/denver/affordable-housing/mountain-developers-look-to-mobile-homes-deed-restrictions-for-affordability-solutions",
-      "source": "Bisnow",
-      "pub_date": "2026-09-15T16:29:18-04:00",
-      "age_hours": 28.623716361666666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Da Vinci Museum\u2019s $885,000 funding request gets thumbs down from City Council",
-      "link": "https://www.coloradopolitics.com/2026/09/15/da-vinci-museums-885000-funding-request-gets-thumbs-down-from-city-council/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-15T15:04:19+00:00",
-      "age_hours": 34.04432701305555,
+      "age_hours": 35.10883319777778,
       "breaking": false,
       "time_ago": "1 day ago"
     }
