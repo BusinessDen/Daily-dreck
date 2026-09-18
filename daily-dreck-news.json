@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-09-18",
-  "fetched_at": "2026-09-18 21:27:19",
+  "fetched_at": "2026-09-18 23:56:13",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "I-70 closure happening this weekend in west Denver metro",
+      "link": "https://www.9news.com/article/traffic/i-70-closure-happening-this-weekend-in-west-denver-metro/73-b755f211-2b06-46b9-b9fd-04a7b3470a7d",
+      "source": "9News",
+      "pub_date": "2026-09-18T23:38:35+00:00",
+      "age_hours": 0.28909535805555553,
+      "breaking": true,
+      "time_ago": "17 min ago"
+    },
+    {
+      "title": "Veo crews fish out so many scooters from Denver waterways, they have a specialized team for the job",
+      "link": "https://www.9news.com/article/money/business/veo-scooters-denver-waterways-specialized-team/73-c6ae7375-a5ba-4ebd-a640-20033ba62ff0",
+      "source": "9News",
+      "pub_date": "2026-09-18T23:20:26+00:00",
+      "age_hours": 0.5915954141666667,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
+    {
+      "title": "Anthropic says its model Claude is helping to build the next version of itself",
+      "link": "https://www.9news.com/article/news/nation-world/anthropic-claude-build-next-version-itself/507-60838ba2-24ad-4276-b15c-43f712b14ead",
+      "source": "9News",
+      "pub_date": "2026-09-18T22:34:17+00:00",
+      "age_hours": 1.3607621502777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "No charges to be filed against officers after Denver shooting",
+      "link": "https://kdvr.com/news/local/no-charges-to-be-filed-against-officers-after-denver-shooting/",
+      "source": "Fox31",
+      "pub_date": "2026-09-18T21:37:03+00:00",
+      "age_hours": 2.3149123619444447,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Denver man pleads guilty to attempted murder after shooting at officers",
       "link": "https://kdvr.com/news/local/denver-man-pleads-guilty-to-attempted-murder-after-shooting-at-officers/",
       "source": "Fox31",
       "pub_date": "2026-09-18T20:48:11+00:00",
-      "age_hours": 0.6482338536111111,
+      "age_hours": 3.1293568747222222,
       "breaking": true,
-      "time_ago": "38 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "State revenue gains overshadowed by soaring Medicaid and SNAP obligations",
       "link": "https://www.coloradopolitics.com/2026/09/18/state-revenue-gains-overshadowed-by-soaring-medicaid-and-snap-obligations/",
       "source": "CO Politics",
       "pub_date": "2026-09-18T20:28:29+00:00",
-      "age_hours": 0.9767597344444444,
+      "age_hours": 3.4579585502777777,
       "breaking": true,
-      "time_ago": "58 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Motorcyclist reportedly caught going 111 mph in construction zone",
       "link": "https://kdvr.com/news/local/motorcyclist-reportedly-caught-going-111-mph-in-construction-zone/",
       "source": "Fox31",
       "pub_date": "2026-09-18T20:24:25+00:00",
-      "age_hours": 1.0443449361111112,
+      "age_hours": 3.5254678997222224,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado state budget deficit grows to $1.6B, as Medicaid costs soar",
       "link": "https://coloradosun.com/2026/09/18/colorado-state-budget-woes-september-forecast-medicaid-costs/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-18T20:22:49+00:00",
-      "age_hours": 1.0706818233333333,
+      "age_hours": 3.551630743611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Cierre de la I-70 este fin de semana en el oeste del \u00e1rea metropolitana de Denver",
       "link": "https://www.9news.com/article/news/local/en-espanol/cierre-de-la-i-70-este-fin-de-semana-en-el-oeste-del-rea-metropolitana-de-denver/73-5d25c472-8036-4ec0-8e0e-d6e39a55c9ef",
       "source": "9News",
       "pub_date": "2026-09-18T20:07:03+00:00",
-      "age_hours": 1.3336671113888887,
+      "age_hours": 3.814651063611111,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Colorado unemployment rate climbs back to 4%",
       "link": "https://www.coloradopolitics.com/2026/09/18/colorado-unemployment-rate-climbs-back-to-4/",
       "source": "CO Politics",
       "pub_date": "2026-09-18T19:54:06+00:00",
-      "age_hours": 1.5498153094444445,
+      "age_hours": 4.031014118888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Out-of-state traveler exposed people to measles in Denver, Steamboat Springs",
       "link": "https://coloradosun.com/2026/09/18/measles-exposure-union-station-steamboat/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-18T18:49:17+00:00",
-      "age_hours": 2.629570735277778,
+      "age_hours": 5.110519663333333,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Aging Ball Arena to get $135M renovation to better connect to downtown Denver",
       "link": "https://denverite.com/2026/09/18/ball-arena-renovations-downtown-denver/",
       "source": "Denverite",
       "pub_date": "2026-09-18T18:27:46+00:00",
-      "age_hours": 2.9882280433333337,
+      "age_hours": 5.469243363055556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado Springs City Council punts decision on Project Taurus data center to April 2027 after raucous meeting",
       "link": "https://www.coloradopolitics.com/2026/09/18/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/",
       "source": "CO Politics",
       "pub_date": "2026-09-18T18:21:10+00:00",
-      "age_hours": 3.0987042141666667,
+      "age_hours": 5.579903022222222,
       "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Anthropic says its model Claude is helping to build the next version of itself",
-      "link": "https://sentinelcolorado.com/uncategorized/anthropic-says-its-model-claude-is-helping-to-build-the-next-version-of-itself/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-18T17:47:37+00:00",
-      "age_hours": 3.6579786463888886,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Postal Service chief says work stopped on computer system key to Trump effort to limit mail voting",
       "link": "https://sentinelcolorado.com/uncategorized/postal-service-chief-says-work-stopped-on-computer-system-key-to-trump-effort-to-limit-mail-voting/",
       "source": "Sentinel",
       "pub_date": "2026-09-18T17:47:34+00:00",
-      "age_hours": 3.658812002222222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.139933336388888,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
-      "title": "Graduated tax measure faces lawsuit seeking removal from November ballot",
+      "title": "Lawsuit seeks to remove Colorado graduated income tax measure from ballot",
       "link": "https://www.coloradopolitics.com/2026/09/18/graduated-tax-measure-faces-lawsuit-seeking-removal-from-november-ballot/",
       "source": "CO Politics",
       "pub_date": "2026-09-18T17:35:34+00:00",
-      "age_hours": 3.8587043097222224,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.3399031075,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Kroenke Sports & Entertainment unveils $135M Ball Arena renovation project",
       "link": "https://www.9news.com/article/money/business/kroenke-sports-entertainment-unveils-135m-ball-arena-renovation-project/73-de174c0c-2931-4654-a8f1-276f559367f2",
       "source": "9News",
       "pub_date": "2026-09-18T17:28:18+00:00",
-      "age_hours": 3.9795005275,
+      "age_hours": 6.460484468055555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Kroenke Announces $135M Renovation For Denver's Ball Arena",
+      "link": "https://www.bisnow.com/news/denver/commercial-real-estate/denver-s-ball-arena-to-undergo-135m-renovation",
+      "source": "Bisnow",
+      "pub_date": "2026-09-18T17:06:49-04:00",
+      "age_hours": 2.818071131111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments",
       "link": "https://www.coloradopolitics.com/2026/09/18/iran-claims-it-struck-an-oil-tanker-in-the-strait-of-hormuz-and-other-mideast-developments/",
       "source": "CO Politics",
       "pub_date": "2026-09-18T17:00:11+00:00",
-      "age_hours": 4.448426606666667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.9296254036111105,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Grand Lake unveils affordable apartments with artist studios",
       "link": "https://www.9news.com/article/life/style/colorado-guide/grand-lake-affordable-homes-artists/73-d36fc5af-64ee-41b7-96c9-45f79c5a6e5b",
       "source": "9News",
       "pub_date": "2026-09-18T15:52:37+00:00",
-      "age_hours": 5.574222790277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.055206731388889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "AI restaurant ads are free. But at what cost?",
       "link": "https://www.westword.com/opinion/opinion-ai-restaurant-ads-are-bad-business-40935716/",
       "source": "Westword",
       "pub_date": "2026-09-18T15:25:00-06:00",
-      "age_hours": 0.03468946055555556,
+      "age_hours": 2.515892475555556,
       "breaking": true,
-      "time_ago": "2 min ago"
-    },
-    {
-      "title": "Private jet company halts all flights",
-      "link": "https://www.9news.com/article/money/business/oneflight-international-paused-all-flight-operations/73-bda546cd-d7af-469e-9a15-2cd5a06fd15c",
-      "source": "9News",
-      "pub_date": "2026-09-18T14:30:16+00:00",
-      "age_hours": 6.946722847777777,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Police seek suspect in early-morning shooting in Denver",
-      "link": "https://kdvr.com/news/local/police-seek-suspect-in-early-morning-shooting-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-09-18T14:24:16+00:00",
-      "age_hours": 7.04684508,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Denver police investigating serious 2-vehicle crash",
-      "link": "https://kdvr.com/news/local/denver-police-investigating-serious-2-vehicle-crash/",
-      "source": "Fox31",
-      "pub_date": "2026-09-18T14:05:36+00:00",
-      "age_hours": 7.3579561502777775,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "I-70 closure happening this weekend in west Denver metro",
-      "link": "https://www.9news.com/article/traffic/i-70-closure-happening-this-weekend-in-west-denver-metro/73-b755f211-2b06-46b9-b9fd-04a7b3470a7d",
-      "source": "9News",
-      "pub_date": "2026-09-18T13:29:05+00:00",
-      "age_hours": 7.966445110277778,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "2 hrs ago"
     }
   ]
 }
