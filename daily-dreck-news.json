@@ -1,114 +1,141 @@
 {
-  "fetched_date": "2026-09-19",
-  "fetched_at": "2026-09-19 22:12:05",
+  "fetched_date": "2026-09-20",
+  "fetched_at": "2026-09-20 00:45:17",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Mountain biking is all downhill for Denver firefighter and his son",
+      "link": "https://kdvr.com/news/mountain-biking-is-all-downhill-for-denver-firefighter-and-his-son/",
+      "source": "Fox31",
+      "pub_date": "2026-09-19T23:14:00+00:00",
+      "age_hours": 1.5177626219444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Football: Aurora\u2019s 2026 Week 4 results",
+      "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-4-scoreboard-schedule/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-19T22:45:00+00:00",
+      "age_hours": 2.001355230833333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "\"I still have a bullet inside of me\": Fundraiser hosted for Golden police officer, shot during deadly OIS",
+      "link": "https://kdvr.com/news/local/i-still-have-a-bullet-inside-of-me-fundraiser-hosted-for-golden-police-officer-shot-during-deadly-ois/",
+      "source": "Fox31",
+      "pub_date": "2026-09-19T21:41:32+00:00",
+      "age_hours": 3.0588736416666666,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "12-year-old Tennessee boy gives back after lemonade stand becomes highly successful",
       "link": "https://www.9news.com/article/news/nation-world/lil-mans-tennessee-boy-school-project-lemonade-stand-community/507-281a7c1c-a229-4f21-9eb5-879817c29a0f",
       "source": "9News",
       "pub_date": "2026-09-19T13:33:33+00:00",
-      "age_hours": 8.637334144166667,
+      "age_hours": 11.191782575555555,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "What\u2019s Working: How one Colorado gardener feeds dozens in a San Luis Valley food desert",
       "link": "https://coloradosun.com/2026/09/19/colorado-gardener-crestone-food-desert-jobs/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-19T10:00:00+00:00",
-      "age_hours": 12.196264970833333,
+      "age_hours": 14.75076056722222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
+    },
+    {
+      "title": "Aurora prep sports scoreboard, 9.18.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-9-18-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-19T05:05:00+00:00",
+      "age_hours": 19.668022359166667,
+      "breaking": false,
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Kroenke Sports & Entertainment unveils $135M Ball Arena renovation project",
       "link": "https://www.9news.com/article/money/business/kroenke-sports-entertainment-unveils-135m-ball-arena-renovation-project/73-de174c0c-2931-4654-a8f1-276f559367f2",
       "source": "9News",
       "pub_date": "2026-09-19T04:45:36+00:00",
-      "age_hours": 17.436500832222222,
+      "age_hours": 19.990949269722222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Aviation company says it completed fully autonomous flight across the U.S.",
       "link": "https://www.9news.com/article/news/nation-world/autonomous-plane-flies-california-north-carolina-joby-aviation/507-ece05dd5-37f1-4ac9-974f-3c0a0184969c",
       "source": "9News",
       "pub_date": "2026-09-19T02:04:16+00:00",
-      "age_hours": 20.12538973166667,
+      "age_hours": 22.679838169444444,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Toys'R'Us plans 120 new standalone stores across US for holiday season",
       "link": "https://www.9news.com/article/news/nation-world/toysrus-plans-120-standalone-stores-holiday-season/507-b9d703bb-2c02-4016-b0a7-3f1ccef0e777",
       "source": "9News",
       "pub_date": "2026-09-19T00:48:54+00:00",
-      "age_hours": 21.381500874722224,
+      "age_hours": 23.93594931861111,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "You could buy a Denver house \u2014 or a whole skyscraper. Some are the same price.",
       "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/downtown-denver-skyscraper-costs-office-buildings/73-6610ec46-7d2c-4605-b4df-c8b4034090af",
       "source": "9News",
       "pub_date": "2026-09-19T00:35:19+00:00",
-      "age_hours": 21.60788980027778,
+      "age_hours": 24.162338261944445,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver neighborhood raising questions about a family shelter coming to their neighborhood",
       "link": "https://kdvr.com/news/local/denver-neighborhood-raising-questions-about-a-family-shelter-coming-to-their-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-09-19T00:01:42+00:00",
-      "age_hours": 22.168475320555558,
+      "age_hours": 24.722762737222222,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "I-70 closure happening this weekend in west Denver metro",
       "link": "https://www.9news.com/article/traffic/i-70-closure-happening-this-weekend-in-west-denver-metro/73-b755f211-2b06-46b9-b9fd-04a7b3470a7d",
       "source": "9News",
       "pub_date": "2026-09-18T23:38:35+00:00",
-      "age_hours": 22.55344540638889,
+      "age_hours": 25.107893885277775,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Veo crews fish out so many scooters from Denver waterways, they have a specialized team for the job",
       "link": "https://www.9news.com/article/money/business/veo-scooters-denver-waterways-specialized-team/73-c6ae7375-a5ba-4ebd-a640-20033ba62ff0",
       "source": "9News",
       "pub_date": "2026-09-18T23:20:26+00:00",
-      "age_hours": 22.855945441388887,
+      "age_hours": 25.410393935277778,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Anthropic says its model Claude is helping to build the next version of itself",
       "link": "https://www.9news.com/article/news/nation-world/anthropic-claude-build-next-version-itself/507-60838ba2-24ad-4276-b15c-43f712b14ead",
       "source": "9News",
       "pub_date": "2026-09-18T22:34:17+00:00",
-      "age_hours": 23.625112148611112,
+      "age_hours": 26.179560658055557,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "No charges to be filed against officers after Denver shooting",
       "link": "https://kdvr.com/news/local/no-charges-to-be-filed-against-officers-after-denver-shooting/",
       "source": "Fox31",
       "pub_date": "2026-09-18T21:37:03+00:00",
-      "age_hours": 24.579308604166666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver man pleads guilty to attempted murder after shooting at officers",
-      "link": "https://kdvr.com/news/local/denver-man-pleads-guilty-to-attempted-murder-after-shooting-at-officers/",
-      "source": "Fox31",
-      "pub_date": "2026-09-18T20:48:11+00:00",
-      "age_hours": 25.39375317527778,
+      "age_hours": 27.133596021111114,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/18/state-revenue-gains-overshadowed-by-soaring-medicaid-and-snap-obligations/",
       "source": "CO Politics",
       "pub_date": "2026-09-18T20:28:29+00:00",
-      "age_hours": 25.72238354972222,
+      "age_hours": 28.276603203611113,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +153,7 @@
       "link": "https://kdvr.com/news/local/motorcyclist-reportedly-caught-going-111-mph-in-construction-zone/",
       "source": "Fox31",
       "pub_date": "2026-09-18T20:24:25+00:00",
-      "age_hours": 25.789864205277777,
+      "age_hours": 28.34415162111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,16 +162,7 @@
       "link": "https://coloradosun.com/2026/09/18/colorado-state-budget-woes-september-forecast-medicaid-costs/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-18T20:22:49+00:00",
-      "age_hours": 25.8159877525,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Cierre de la I-70 este fin de semana en el oeste del \u00e1rea metropolitana de Denver",
-      "link": "https://www.9news.com/article/news/local/en-espanol/cierre-de-la-i-70-este-fin-de-semana-en-el-oeste-del-rea-metropolitana-de-denver/73-5d25c472-8036-4ec0-8e0e-d6e39a55c9ef",
-      "source": "9News",
-      "pub_date": "2026-09-18T20:07:03+00:00",
-      "age_hours": 26.079001054166667,
+      "age_hours": 28.370483474444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/18/colorado-unemployment-rate-climbs-back-to-4/",
       "source": "CO Politics",
       "pub_date": "2026-09-18T19:54:06+00:00",
-      "age_hours": 26.295439116944443,
+      "age_hours": 28.84965877666667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://coloradosun.com/2026/09/18/measles-exposure-union-station-steamboat/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-18T18:49:17+00:00",
-      "age_hours": 27.3748766575,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Aging Ball Arena to get $135M renovation to better connect to downtown Denver",
-      "link": "https://denverite.com/2026/09/18/ball-arena-renovations-downtown-denver/",
-      "source": "Denverite",
-      "pub_date": "2026-09-18T18:27:46+00:00",
-      "age_hours": 27.73360513361111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado Springs City Council punts decision on Project Taurus data center to April 2027 after raucous meeting",
-      "link": "https://www.coloradopolitics.com/2026/09/18/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-18T18:21:10+00:00",
-      "age_hours": 27.84432801694444,
+      "age_hours": 29.929372386111112,
       "breaking": false,
       "time_ago": "1 day ago"
     }
