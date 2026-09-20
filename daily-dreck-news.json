@@ -1,186 +1,186 @@
 {
   "fetched_date": "2026-09-20",
-  "fetched_at": "2026-09-20 21:13:19",
+  "fetched_at": "2026-09-20 23:54:51",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "New AdventHealth campus in Aurora will serve growing population",
+      "link": "https://kdvr.com/news/local/new-adventhealth-campus-in-aurora-will-serve-growing-population/",
+      "source": "Fox31",
+      "pub_date": "2026-09-20T23:43:07+00:00",
+      "age_hours": 0.19116442416666665,
+      "breaking": true,
+      "time_ago": "11 min ago"
+    },
+    {
+      "title": "Car crash into store causes significant structural damage",
+      "link": "https://kdvr.com/news/local/car-crash-into-store-causes-significant-structural-damage/",
+      "source": "Fox31",
+      "pub_date": "2026-09-20T23:25:55+00:00",
+      "age_hours": 0.4778309819444444,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
     {
       "title": "Juvenile girl arrested in connection with Saturday stabbing",
       "link": "https://kdvr.com/news/local/juvenile-girl-arrested-in-connection-with-saturday-stabbing/",
       "source": "Fox31",
       "pub_date": "2026-09-20T21:09:05+00:00",
-      "age_hours": 0.06649268694444445,
+      "age_hours": 2.758386605,
       "breaking": true,
-      "time_ago": "3 min ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "1 taken to hospital in serious crash involving pedestrian",
       "link": "https://kdvr.com/news/local/1-taken-to-hospital-in-serious-crash-involving-pedestrian/",
       "source": "Fox31",
       "pub_date": "2026-09-20T20:46:04+00:00",
-      "age_hours": 0.4501037533333333,
+      "age_hours": 3.1419976844444446,
       "breaking": true,
-      "time_ago": "27 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "US Forest Service closing 23 research facilities as part of overhaul under Trump | OUT WEST ROUNDUP",
       "link": "https://www.coloradopolitics.com/2026/09/20/us-forest-service-closing-23-research-facilities-as-part-of-overhaul-under-trump-out-west-roundup-3/",
       "source": "CO Politics",
       "pub_date": "2026-09-20T19:39:22+00:00",
-      "age_hours": 1.5620094191666665,
+      "age_hours": 4.253957629166667,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Lawsuit seeks to remove Colorado graduated income tax measure from ballot",
       "link": "https://www.coloradopolitics.com/2026/09/18/graduated-tax-measure-faces-lawsuit-seeking-removal-from-november-ballot/",
       "source": "CO Politics",
       "pub_date": "2026-09-20T19:26:46+00:00",
-      "age_hours": 1.7720096141666666,
+      "age_hours": 4.463957828333333,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "State revenue gains overshadowed by soaring Medicaid and SNAP obligations",
       "link": "https://www.coloradopolitics.com/2026/09/18/state-revenue-gains-overshadowed-by-soaring-medicaid-and-snap-obligations/",
       "source": "CO Politics",
       "pub_date": "2026-09-20T18:26:41+00:00",
-      "age_hours": 2.773398393611111,
+      "age_hours": 5.465346600833334,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver weather: Gorgeous Sunday that feels like fall",
       "link": "https://kdvr.com/weather/weather-forecast/denver-weather-gorgeous-sunday-that-feels-like-fall/",
       "source": "Fox31",
       "pub_date": "2026-09-20T18:22:25+00:00",
-      "age_hours": 2.8442705216666666,
+      "age_hours": 5.536164462777777,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Healthcare execs seek cures for reimbursement cuts",
       "link": "https://bizwest.com/2026/09/20/healthcare-execs-seek-cures-for-reimbursement-cuts/",
       "source": "BizWest",
       "pub_date": "2026-09-20T18:21:23+00:00",
-      "age_hours": 2.860738271111111,
+      "age_hours": 5.552398538611111,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "In a fading Colorado Eastern Plains town, one man seeks to spark new economic life with an RV park and tiny homes",
       "link": "https://coloradosun.com/2026/09/20/arriba-rv-park-tiny-home-project/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-20T10:30:00+00:00",
-      "age_hours": 10.717539915833333,
+      "age_hours": 13.409252129722223,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Colorado Springs artist paints places before they change",
       "link": "https://www.cpr.org/2026/09/20/colorado-springs-preservationist-artist/",
       "source": "CPR",
       "pub_date": "2026-09-20T10:00:00+00:00",
-      "age_hours": 11.217649755833333,
+      "age_hours": 13.90941147888889,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "First of two extended weekend closures underway at I-70 and Kipling",
       "link": "https://www.9news.com/article/news/local/first-of-two-extended-weekend-closures-70-and-kipling/73-f304e927-3989-489a-8a73-d84de8c67d10",
       "source": "9News",
       "pub_date": "2026-09-20T03:20:12+00:00",
-      "age_hours": 17.881062227222223,
+      "age_hours": 20.572818220277775,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 9.19.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-9-19-26/",
       "source": "Sentinel",
       "pub_date": "2026-09-20T00:59:45+00:00",
-      "age_hours": 20.222326855555554,
+      "age_hours": 22.914292041666666,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Mountain biking is all downhill for Denver firefighter and his son",
       "link": "https://kdvr.com/news/local/mountain-biking-is-all-downhill-for-denver-firefighter-and-his-son/",
       "source": "Fox31",
       "pub_date": "2026-09-19T23:14:00+00:00",
-      "age_hours": 21.98454835861111,
+      "age_hours": 24.676442286666667,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Football: Aurora\u2019s 2026 Week 4 results",
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-4-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-09-19T22:45:00+00:00",
-      "age_hours": 22.46816058583333,
+      "age_hours": 25.160125755277775,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "\"I still have a bullet inside of me\": Fundraiser hosted for Golden police officer, shot during deadly OIS",
       "link": "https://kdvr.com/news/local/i-still-have-a-bullet-inside-of-me-fundraiser-hosted-for-golden-police-officer-shot-during-deadly-ois/",
       "source": "Fox31",
       "pub_date": "2026-09-19T21:41:32+00:00",
-      "age_hours": 23.525659518611114,
+      "age_hours": 26.21755343777778,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "12-year-old Tennessee boy gives back after lemonade stand becomes highly successful",
       "link": "https://www.9news.com/article/news/nation-world/lil-mans-tennessee-boy-school-project-lemonade-stand-community/507-281a7c1c-a229-4f21-9eb5-879817c29a0f",
       "source": "9News",
       "pub_date": "2026-09-19T13:33:33+00:00",
-      "age_hours": 31.658562324722222,
+      "age_hours": 34.350318316388886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
     {
-      "title": "What\u2019s Working: How one Colorado gardener feeds dozens in a San Luis Valley food desert",
-      "link": "https://coloradosun.com/2026/09/19/colorado-gardener-crestone-food-desert-jobs/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-09-19T10:00:00+00:00",
-      "age_hours": 35.217540030833334,
+      "title": "LIFT Fund awards first grants to Northern Colorado organizations",
+      "link": "https://bizwest.com/2026/09/19/lift-fund-awards-first-grants-to-northern-colorado-organizations/",
+      "source": "BizWest",
+      "pub_date": "2026-09-19T11:50:00+00:00",
+      "age_hours": 36.07545465388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
     {
-      "title": "Kroenke Sports & Entertainment unveils $135M Ball Arena renovation project",
-      "link": "https://www.9news.com/article/money/business/kroenke-sports-entertainment-unveils-135m-ball-arena-renovation-project/73-de174c0c-2931-4654-a8f1-276f559367f2",
-      "source": "9News",
-      "pub_date": "2026-09-19T04:45:36+00:00",
-      "age_hours": 40.45772901555556,
+      "title": "Dairy Arts Center revises Co-Production Program",
+      "link": "https://bizwest.com/2026/09/19/dairy-arts-center-revises-co-production-program/",
+      "source": "BizWest",
+      "pub_date": "2026-09-19T11:47:00+00:00",
+      "age_hours": 36.125454695,
       "breaking": false,
       "time_ago": "1 day ago"
     },
     {
-      "title": "Aviation company says it completed fully autonomous flight across the U.S.",
-      "link": "https://www.9news.com/article/news/nation-world/autonomous-plane-flies-california-north-carolina-joby-aviation/507-ece05dd5-37f1-4ac9-974f-3c0a0184969c",
-      "source": "9News",
-      "pub_date": "2026-09-19T02:04:16+00:00",
-      "age_hours": 43.14661791305556,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Toys'R'Us plans 120 new standalone stores across US for holiday season",
-      "link": "https://www.9news.com/article/news/nation-world/toysrus-plans-120-standalone-stores-holiday-season/507-b9d703bb-2c02-4016-b0a7-3f1ccef0e777",
-      "source": "9News",
-      "pub_date": "2026-09-19T00:48:54+00:00",
-      "age_hours": 44.40272906888889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "You could buy a Denver house \u2014 or a whole skyscraper. Some are the same price.",
-      "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/downtown-denver-skyscraper-costs-office-buildings/73-6610ec46-7d2c-4605-b4df-c8b4034090af",
-      "source": "9News",
-      "pub_date": "2026-09-19T00:35:19+00:00",
-      "age_hours": 44.62911802166667,
+      "title": "Crossroads Safehouse to host annual Hope Grows Here Gala",
+      "link": "https://bizwest.com/2026/09/19/crossroads-safehouse-to-host-annual-hope-grows-here-gala/",
+      "source": "BizWest",
+      "pub_date": "2026-09-19T11:46:00+00:00",
+      "age_hours": 36.14212139222222,
       "breaking": false,
       "time_ago": "1 day ago"
     }
