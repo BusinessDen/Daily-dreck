@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-09-22",
-  "fetched_at": "2026-09-22 03:47:21",
+  "fetched_at": "2026-09-22 09:07:10",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Remind me again why we are voting on such things? | Hal Bidlack",
+      "link": "https://www.coloradopolitics.com/2026/09/22/remind-me-again-why-we-are-voting-on-such-things-hal-bidlack/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-22T07:00:00+00:00",
+      "age_hours": 2.1156324802777777,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Ballot questions 87, NN play Colorado voters for suckers | GUEST COLUMN",
+      "link": "https://www.coloradopolitics.com/2026/09/22/ballot-questions-87-nn-play-colorado-voters-for-suckers-guest-column/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-22T06:45:00+00:00",
+      "age_hours": 2.3656325022222218,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Aurora prep sports scoreboard, 9.21.26",
+      "link": "https://sentinelcolorado.com/sports/preps/aurora-prep-sports-scoreboard-9-21-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-22T04:46:35+00:00",
+      "age_hours": 4.339279488888889,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "40+ Double Dutch club gives Denver area women a place to jump, heal and bond",
       "link": "https://www.9news.com/article/life/40-double-dutch-club-denver/73-4a493e3a-0ccf-4060-a1b7-f2cb353b927b",
       "source": "9News",
       "pub_date": "2026-09-22T03:27:59+00:00",
-      "age_hours": 0.3183096511111111,
+      "age_hours": 5.6486927225,
       "breaking": true,
-      "time_ago": "19 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "As Medicaid eligibility tightens, Denver nonprofit helps clients navigate coverage gaps",
       "link": "https://www.9news.com/article/news/health/medicaid-eligibility-tightens-denver-nonprofit/73-e9499c22-9415-44d0-b156-4deba89366e5",
       "source": "9News",
       "pub_date": "2026-09-22T01:14:38+00:00",
-      "age_hours": 2.5408096916666665,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.8711927500000005,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Waymo drives through Denver farmers market during setup",
       "link": "https://kdvr.com/news/local/waymo-drives-through-denver-farmers-market/",
       "source": "Fox31",
       "pub_date": "2026-09-22T01:12:38+00:00",
-      "age_hours": 2.575056565277778,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.904825978611111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver Audubon's fall bird banding effort draws crowds, tracks migratory health",
       "link": "https://www.9news.com/article/life/animals/denver-audubons-fall-bird-banding/73-4969a7e6-080a-4191-bf0a-61dee03dbab4",
       "source": "9News",
       "pub_date": "2026-09-22T00:52:25+00:00",
-      "age_hours": 2.9110875166666665,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 8.241470566944445,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "There's no law to ticket the Waymo that drove through a Denver farmers market",
       "link": "https://www.9news.com/article/news/community/transportation/waymo-drives-denver-farmers-market-no-law/73-a55cac7b-9c76-4003-896b-1dd5ad162dea",
       "source": "9News",
       "pub_date": "2026-09-22T00:43:20+00:00",
-      "age_hours": 3.062476454722222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.392859499444445,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Paramount-Warner merger settlement reached",
       "link": "https://www.coloradopolitics.com/2026/09/21/paramount-warner-merger-settlement-colorado-states/",
       "source": "CO Politics",
       "pub_date": "2026-09-21T23:51:08+00:00",
-      "age_hours": 3.933522361111111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.263410289444446,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Kratom sellers, Colorado reach settlement",
       "link": "https://www.coloradopolitics.com/2026/09/21/kratom-sellers-colorado-reach-settlement/",
       "source": "CO Politics",
       "pub_date": "2026-09-21T23:33:20+00:00",
-      "age_hours": 4.2301890675,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.560076991111112,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Supply shock continues to impact Colorado gas prices",
       "link": "https://www.denver7.com/traffic/gas-prices/supply-shock-continues-to-impact-colorado-gas-prices",
       "source": "Denver7",
       "pub_date": "2026-09-21T23:12:50+00:00",
-      "age_hours": 4.571703081388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.90137291111111,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver's first West Nile virus case of 2026 confirmed",
       "link": "https://kdvr.com/news/local/denvers-first-west-nile-virus-case-of-2026-confirmed/",
       "source": "Fox31",
       "pub_date": "2026-09-21T22:00:03+00:00",
-      "age_hours": 5.7847789516666674,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.1145483325,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Waymo passes barricades, enters Denver farmers market",
       "link": "https://www.9news.com/article/news/local/waymo-denver-farmers-market/73-832b1326-4f44-463a-9875-d50853dd7bb5",
       "source": "9News",
       "pub_date": "2026-09-21T21:59:48+00:00",
-      "age_hours": 5.788032126944445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.11841513138889,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Haselden Construction Completes Historic Sturm Family Wing Expansion",
       "link": "https://milehighcre.com/haselden-construction-completes-historic-sturm-family-wing-expansion/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-21T21:02:43+00:00",
-      "age_hours": 6.738965991111112,
+      "age_hours": 12.069504651666666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Colorado Broadband Office rescinds more than $100M in federal awards to Maverix Broadband amid investigation",
       "link": "https://coloradosun.com/2026/09/21/colorado-broadband-office-rescinds-millions-federal-investigation/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-21T21:02:35+00:00",
-      "age_hours": 6.741243084444445,
+      "age_hours": 12.071856175833334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Liquor, food licenses reinstated for downtown Denver bar and hotel",
       "link": "https://kdvr.com/news/local/liquor-food-licenses-reinstated-for-downtown-denver-bar-and-hotel/",
       "source": "Fox31",
       "pub_date": "2026-09-21T20:25:23+00:00",
-      "age_hours": 7.3625567683333335,
+      "age_hours": 12.692326148888888,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "New AdventHealth ER, medical campus in Aurora Highlands will start seeing patients next week",
       "link": "https://sentinelcolorado.com/metro/new-adventhealth-er-medical-campus-in-aurora-highlands-will-start-seeing-patients-next-week/",
       "source": "Sentinel",
       "pub_date": "2026-09-21T19:51:45+00:00",
-      "age_hours": 7.923255387777778,
+      "age_hours": 13.25316868388889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "UCHealth University Hospital in Aurora beefs up security after oxygen supply interference",
       "link": "https://sentinelcolorado.com/metro/uchealth-university-hospital-in-aurora-beefs-up-security-after-oxygen-supply-interference/",
       "source": "Sentinel",
       "pub_date": "2026-09-21T19:22:14+00:00",
-      "age_hours": 8.415200091944445,
+      "age_hours": 13.745113324166667,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Paramount, Colorado and 11 other states reach settlement to allow $81 billion merger",
       "link": "https://sentinelcolorado.com/sentinel-biz-news/state-business-sentinel-biz-news/paramount-colorado-and-11-other-states-reach-settlement-to-allow-81-billion-merger/",
       "source": "Sentinel",
       "pub_date": "2026-09-21T19:19:51+00:00",
-      "age_hours": 8.45492271,
+      "age_hours": 13.7848358575,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Lions and tigers from Argentina land at DIA",
       "link": "https://kdvr.com/news/local/lions-and-tigers-from-argentina-land-at-dia/",
       "source": "Fox31",
       "pub_date": "2026-09-21T19:16:49+00:00",
-      "age_hours": 8.505334415833333,
+      "age_hours": 13.835103817777776,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "National Christmas retailer files for bankruptcy before start of holiday season",
-      "link": "https://www.9news.com/article/news/nation-world/christmas-retailer-files-bankruptcy-gordon-companies-christmascom-christmas-central-northlight/507-c584d8a5-cd04-4bba-88c9-6000e4c87d2b",
-      "source": "9News",
-      "pub_date": "2026-09-21T19:10:30+00:00",
-      "age_hours": 8.609698842777778,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver reports 1st human West Nile Virus case this year, reminding metro area still at risk",
-      "link": "https://sentinelcolorado.com/metro/denver-reports-1st-human-west-nile-virus-case-this-year-reminding-metro-area-still-at-risk/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-21T19:04:45+00:00",
-      "age_hours": 8.7065893925,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Fort Lupton gets $24M from USDA for wastewater project",
-      "link": "https://www.coloradopolitics.com/2026/09/21/fort-lupton-gets-24-million-from-usda-for-wastewater-project/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-21T18:48:07+00:00",
-      "age_hours": 8.983800201111112,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "13 hrs ago"
     }
   ]
 }
