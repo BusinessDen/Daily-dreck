@@ -1,24 +1,87 @@
 {
   "fetched_date": "2026-09-23",
-  "fetched_at": "2026-09-23 10:57:40",
+  "fetched_at": "2026-09-23 15:23:37",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Arc Thrift Stores opening pay-by-the-pound outlet in Denver on October 5",
+      "link": "https://www.denver7.com/news/local-news/arc-thrift-stores-opening-pay-by-the-pound-outlet-in-denver-on-october-5",
+      "source": "Denver7",
+      "pub_date": "2026-09-23T14:59:22+00:00",
+      "age_hours": 0.4001865658333333,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
+    {
+      "title": "Church sells meth-contaminated building for $1.3M",
+      "link": "https://www.9news.com/article/money/business/mennonite-church-building-meth-sold/73-8d6a10f1-fc9a-4f31-b68b-7b3682bf42c7",
+      "source": "9News",
+      "pub_date": "2026-09-23T12:45:01+00:00",
+      "age_hours": 2.639229948888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Kratom sellers, Colorado reach settlement",
+      "link": "https://www.9news.com/article/money/business/kratom-sellers-colorado-settlement/73-f848ab63-a459-465f-b23a-e1983c18e380",
+      "source": "9News",
+      "pub_date": "2026-09-23T12:41:34+00:00",
+      "age_hours": 2.696730001388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Colorado Mesa to offer guaranteed admission to eligible APS students under new pact",
+      "link": "https://sentinelcolorado.com/metro/colorado-mesa-to-offer-guaranteed-admission-to-eligible-aps-students-under-new-pact/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-23T12:31:56+00:00",
+      "age_hours": 2.8579464855555554,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Telehealth companies keep exposing their customers\u2019 medical data. What should they do?",
+      "link": "https://sentinelcolorado.com/uncategorized/telehealth-companies-keep-exposing-their-customers-medical-data-what-should-they-do/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-23T11:45:08+00:00",
+      "age_hours": 3.6379468844444443,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "link": "https://sentinelcolorado.com/uncategorized/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-23T11:44:16+00:00",
+      "age_hours": 3.6523916383333335,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "$23M investment to fuel production of Michelob Ultra in Colorado",
       "link": "https://www.9news.com/article/money/business/anheuser-busch-fort-collins-colorado-brewery-michelob-ultra/73-04592f36-dea2-4afb-9f81-5abe02843381",
       "source": "9News",
       "pub_date": "2026-09-23T10:42:01+00:00",
-      "age_hours": 0.2562875077777778,
+      "age_hours": 4.689230035555555,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
-      "title": "Health insurance in Colorado is poised for another big price jump in 2027",
+      "title": "Colorado health insurance prices poised for another big jump in 2027",
       "link": "https://coloradosun.com/2026/09/23/health-insurance-prices-2027/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-23T09:18:00+00:00",
-      "age_hours": 1.656307806111111,
+      "age_hours": 6.089213356111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Commerce City joins growing list of cities pausing data center construction",
+      "link": "https://www.westword.com/news/colorado-data-center-moratoriums-growing-commerce-city-40938030/",
+      "source": "Westword",
+      "pub_date": "2026-09-23T08:21:00-06:00",
+      "age_hours": 1.0399927055555556,
       "breaking": true,
       "time_ago": "1 hrs ago"
     },
@@ -27,160 +90,97 @@
       "link": "https://www.coloradopolitics.com/2026/09/23/colorados-flat-tax-is-an-advantage-worth-defending-podium-3/",
       "source": "CO Politics",
       "pub_date": "2026-09-23T07:00:00+00:00",
-      "age_hours": 3.957059943611111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.390134349166667,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
-      "title": "Denver judge says Children\u2019s Hospital not in contempt in gender-affirming care case",
+      "title": "Children\u2019s Hospital Colorado not in contempt in gender-affirming care case, Denver judge says",
       "link": "https://coloradosun.com/2026/09/22/childrens-hospital-colorado-contempt-ruling/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-23T04:59:19+00:00",
-      "age_hours": 5.967697186944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.400602831666665,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Boulder Valley School District will close four schools as enrollment declines",
       "link": "https://coloradosun.com/2026/09/22/boulder-valley-school-district-closing-schools/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-23T02:10:11+00:00",
-      "age_hours": 8.786586502222223,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver's 2027 budget banks on millions more from traffic tickets and parking fees",
-      "link": "https://www.9news.com/article/news/local/local-politics/denvers-2027-budget-traffic-tickets-parking-fees/73-3c2f5eee-1c86-43a8-9158-c9df45b3e526",
-      "source": "9News",
-      "pub_date": "2026-09-23T00:40:01+00:00",
-      "age_hours": 10.289620914444445,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Amid concerns over big tech and water, Amazon announces Colorado River conservation alliance",
-      "link": "https://www.9news.com/article/tech/science/environment/amid-concerns-over-big-tech-and-water-amazon-announces-colorado-river-conservation-alliance-grand-canyon-arizona-phoenix/75-887acd66-f2f0-4397-9656-aa1c7602a7a3",
-      "source": "9News",
-      "pub_date": "2026-09-22T21:22:27+00:00",
-      "age_hours": 13.5823987275,
+      "age_hours": 13.219492246388889,
       "breaking": false,
       "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Aurora may get $15.6M for flood prevention in northwest Aurora after House vote Tuesday",
-      "link": "https://sentinelcolorado.com/metro/aurora-may-get-15-6m-for-flood-prevention-in-northwest-aurora-after-house-vote-tuesday/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-22T21:05:09+00:00",
-      "age_hours": 13.871265689722222,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "40+ Double Dutch club gives Denver area women a place to jump, heal and bond",
-      "link": "https://www.9news.com/article/life/40-double-dutch-club-denver/73-4a493e3a-0ccf-4060-a1b7-f2cb353b927b",
-      "source": "9News",
-      "pub_date": "2026-09-22T20:22:39+00:00",
-      "age_hours": 14.579065402777779,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
     },
     {
       "title": "AdventHealth Opens New Aurora Highlands Medical Campus",
       "link": "https://milehighcre.com/adventhealth-opens-new-aurora-highlands-medical-campus/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-22T16:33:59+00:00",
-      "age_hours": 18.389791832500002,
+      "age_hours": 22.822729898333332,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Middle East wars loom over UN General Assembly, and other Mideast developments",
       "link": "https://www.coloradopolitics.com/2026/09/22/middle-east-wars-loom-over-un-general-assembly-and-other-mideast-developments/",
       "source": "CO Politics",
       "pub_date": "2026-09-22T16:31:00+00:00",
-      "age_hours": 18.4403933275,
+      "age_hours": 22.873467739722223,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Republican senator calls for Don Jr. and Hunter Biden to be subpoenaed over business dealings",
       "link": "https://www.coloradopolitics.com/2026/09/22/republican-senator-calls-for-don-jr-and-hunter-biden-to-be-subpoenaed-over-business-dealings/",
       "source": "CO Politics",
       "pub_date": "2026-09-22T16:27:51+00:00",
-      "age_hours": 18.49289334138889,
+      "age_hours": 22.925967756666665,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "3-Building Denver Multifamily Portfolio Trades for First Time in 50+ Years",
       "link": "https://milehighcre.com/3-building-denver-multifamily-portfolio-trades-for-first-time-in-50-years/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-22T16:08:01+00:00",
-      "age_hours": 18.822569809444442,
+      "age_hours": 23.25550795166667,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Homemade laboratory discovered during death investigation",
       "link": "https://kdvr.com/news/local/homemade-laboratory-discovered-during-death-investigation/",
       "source": "Fox31",
       "pub_date": "2026-09-22T15:36:57+00:00",
-      "age_hours": 19.340972487222224,
+      "age_hours": 23.77393746222222,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Affordable Vet Hospital Opening on Colorado Blvd.",
       "link": "https://milehighcre.com/affordable-vet-hospital-opening-on-colorado-blvd/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-22T14:51:24+00:00",
-      "age_hours": 20.09951426361111,
+      "age_hours": 24.53245240972222,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "2 arrested after late-night shelter-in-place in Denver",
       "link": "https://kdvr.com/news/local/2-arrested-after-late-night-shelter-in-place-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-22T14:31:22+00:00",
-      "age_hours": 20.434028093333335,
+      "age_hours": 24.86699308972222,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado\u2019s first pup Gia \u2014 a 4-legged staple of Jared Polis\u2019 term as governor \u2014 dies at 17",
       "link": "https://coloradosun.com/2026/09/22/jared-polis-gia-dog-obituary/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-22T14:00:41+00:00",
-      "age_hours": 20.944920366666665,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Lawsuit seeks to remove Colorado graduated income tax measure from ballot",
-      "link": "https://www.coloradopolitics.com/2026/09/22/graduated-tax-measure-faces-lawsuit-seeking-removal-from-november-ballot/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-22T12:53:38+00:00",
-      "age_hours": 22.063171211944443,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "State revenue gains overshadowed by soaring Medicaid and SNAP obligations",
-      "link": "https://www.coloradopolitics.com/2026/09/22/state-revenue-gains-overshadowed-by-soaring-medicaid-and-snap-obligations/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-22T12:52:15+00:00",
-      "age_hours": 22.086226826388888,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "The first phase of BRT opens next week. What actually changes?",
-      "link": "https://denverite.com/2026/09/22/colfax-avenue-brt-bus-changes/",
-      "source": "Denverite",
-      "pub_date": "2026-09-22T10:00:00+00:00",
-      "age_hours": 24.956394957222223,
+      "age_hours": 25.37782623472222,
       "breaking": false,
       "time_ago": "1 day ago"
     }
