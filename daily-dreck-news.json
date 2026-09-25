@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-09-25",
-  "fetched_at": "2026-09-25 13:20:18",
+  "fetched_at": "2026-09-25 18:17:00",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Top Colorado Springs leaders are going to Huntsville to make space friends",
+      "link": "https://www.cpr.org/2026/09/25/space-command-huntsville-alabama-discovery-trip-colorado-springs/",
+      "source": "CPR",
+      "pub_date": "2026-09-25T17:42:57+00:00",
+      "age_hours": 0.5631195905555556,
+      "breaking": true,
+      "time_ago": "33 min ago"
+    },
+    {
+      "title": "9Things to do in Colorado this weekend: Sept. 25-27",
+      "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-events-september-25-26-27-colorado/73-edf7cd07-b62b-4b1d-a652-3ea27d8fb643",
+      "source": "9News",
+      "pub_date": "2026-09-25T17:26:26+00:00",
+      "age_hours": 0.8384769297222222,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
+    {
+      "title": "2 taken to hospital after Friday shooting in Five Points neighborhood",
+      "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-friday-shooting-in-five-points-neighborhood/",
+      "source": "Fox31",
+      "pub_date": "2026-09-25T17:21:31+00:00",
+      "age_hours": 0.9206668825,
+      "breaking": true,
+      "time_ago": "55 min ago"
+    },
+    {
+      "title": "McDonald\u2019s bets $8.5 billion on a sweeping restaurant makeover, AI integration and new protein-focused menu",
+      "link": "https://www.9news.com/article/news/nation-world/mcdonalds-bets-8-point-5-billion-restaurant-makeover-ai/507-0f5e01cf-9206-419b-87f1-97cdc9a70a77",
+      "source": "9News",
+      "pub_date": "2026-09-25T17:21:05+00:00",
+      "age_hours": 0.9276436058333334,
+      "breaking": true,
+      "time_ago": "55 min ago"
+    },
+    {
+      "title": "Greeley to adopt wastewater policy for breweries meant to reduce costs",
+      "link": "https://www.coloradopolitics.com/2026/09/25/greeley-brewery-wastewater-policy/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-25T16:45:46+00:00",
+      "age_hours": 1.5168169077777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Presale kicks off for 2027 National Western Stock Show",
+      "link": "https://www.9news.com/article/entertainment/events/national-western-stock-show/tickets-2027-national-western-stock-show-sale/73-ee04f0c3-df1f-4a39-8dd8-7b1e490be431",
+      "source": "9News",
+      "pub_date": "2026-09-25T15:03:18+00:00",
+      "age_hours": 3.2240325669444445,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Worries about an AI internet takeover gain new urgency among doomsday scenarios",
       "link": "https://sentinelcolorado.com/uncategorized/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
       "source": "Sentinel",
       "pub_date": "2026-09-25T13:13:57+00:00",
-      "age_hours": 0.10162052555555555,
+      "age_hours": 5.0471910922222225,
       "breaking": true,
-      "time_ago": "6 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Synthetic motor oil shortage worsens: What oil shortage means for your wallet",
       "link": "https://www.denver7.com/dont-waste-your-money/synthetic-motor-oil-shortage-worsens-what-oil-shortage-means-for-your-wallet",
       "source": "Denver7",
       "pub_date": "2026-09-25T10:26:36+00:00",
-      "age_hours": 2.8900813769444444,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.835819193888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Cash from feds will spark $1.2B electric transmission project in eastern Colorado",
       "link": "https://coloradosun.com/2026/09/25/electric-transmission-project-xcel-colorado-spark/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-25T10:10:00+00:00",
-      "age_hours": 3.166354857777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.11210306861111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Maverix Broadband founder says a paper trail proves the company did not misuse taxpayer funds",
       "link": "https://coloradosun.com/2026/09/25/maverix-broadband-colorado-public-funds/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-25T10:00:00+00:00",
-      "age_hours": 3.333021990833333,
+      "age_hours": 8.278770288611112,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "The business of drag is lifting up the Denver brunch scene",
+      "link": "https://www.westword.com/food-drink/celebrating-denver-drag-brunch-40938372/",
+      "source": "Westword",
+      "pub_date": "2026-09-25T09:31:55-06:00",
+      "age_hours": 2.7474595575,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver 911 callers are waiting longer for someone to answer",
       "link": "https://www.9news.com/article/news/politics/denver-911-callers-are-waiting-longer-for-someone-to-answer/73-a583f713-af4f-47d7-bde3-8c535e1c58b8",
       "source": "9News",
       "pub_date": "2026-09-25T04:22:46+00:00",
-      "age_hours": 8.9537861975,
+      "age_hours": 13.899588191944444,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Colfax BRT construction ends Sunday from Colorado Boulevard to Capitol",
       "link": "https://www.9news.com/article/money/business/colfax-brt-construction-ends-sunday-from-colorado-boulevard-to-capitol/73-c351f25b-4d2a-434d-a7d5-ef0f72b4879a",
       "source": "9News",
       "pub_date": "2026-09-25T02:07:58+00:00",
-      "age_hours": 11.200452909722221,
+      "age_hours": 16.1462549025,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Every Nuggets player featured in ESPN's NBA Rank 2026",
       "link": "https://kdvr.com/sports/denver-nuggets/every-nuggets-player-featured-in-espns-nba-rank-2026/",
       "source": "Fox31",
       "pub_date": "2026-09-25T01:12:56+00:00",
-      "age_hours": 12.118001888333334,
+      "age_hours": 17.06372262861111,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver police motorcycle officer seriously injured in crash",
       "link": "https://kdvr.com/news/local/denver-police-motorcycle-officer-seriously-injured-in-crash/",
       "source": "Fox31",
       "pub_date": "2026-09-25T00:31:34+00:00",
-      "age_hours": 12.807446203333333,
+      "age_hours": 17.753166941666667,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Event introduces girls to transportation and construction careers",
-      "link": "https://www.9news.com/article/news/community/girls-in-construction/73-7ab2c2e0-652d-44fe-962f-e88560d0f06d",
-      "source": "9News",
-      "pub_date": "2026-09-24T22:31:34+00:00",
-      "age_hours": 14.8071196,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Marijuana company recalls contaminated products amid regulatory delays",
       "link": "https://www.coloradopolitics.com/2026/09/24/marijuana-company-recalls-contaminated-products/",
       "source": "CO Politics",
       "pub_date": "2026-09-24T21:50:51+00:00",
-      "age_hours": 15.486472218055555,
+      "age_hours": 20.432094753055555,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "20 hrs ago"
+    },
+    {
+      "title": "Denver trash rates could rise as councilmembers push privatization",
+      "link": "https://www.coloradopolitics.com/2026/09/24/denver-trash-rates-could-rise-as-councilmembers-push-privatization/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-24T21:37:46+00:00",
+      "age_hours": 20.650150366944445,
+      "breaking": false,
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Visitor from Texas raises concerns after spotting needles at Denver park",
       "link": "https://kdvr.com/news/local/visitor-from-texas-raises-concerns-after-spotting-needles-at-denver-park/",
       "source": "Fox31",
       "pub_date": "2026-09-24T21:10:05+00:00",
-      "age_hours": 16.1655018375,
+      "age_hours": 21.11122253055556,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Colorado to receive $250M in federal funds for transmission project",
       "link": "https://www.coloradopolitics.com/2026/09/24/colorado-to-receive-250m-in-federal-funds-for-transmission-project/",
       "source": "CO Politics",
       "pub_date": "2026-09-24T20:40:18+00:00",
-      "age_hours": 16.66230561638889,
+      "age_hours": 21.607928224722226,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
-      "title": "Colorado Lottery winner must claim $1M jackpot by 4:45 p.m. Thursday",
-      "link": "https://www.9news.com/article/news/lottery/colorado-lotto-winner-must-claim-jackpot-deadline/73-f0854a1a-15db-4179-9105-2977c26ef90d",
-      "source": "9News",
-      "pub_date": "2026-09-24T19:50:20+00:00",
-      "age_hours": 17.494341835277776,
+      "title": "Aurora police launch initiative to prevent crime at  businesses",
+      "link": "https://www.coloradopolitics.com/2026/09/24/aurora-police-launch-initiative-to-prevent-crime-at-local-businesses/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-24T20:24:30+00:00",
+      "age_hours": 21.87126156611111,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "What can an MJBowl win do for your cannabis brand?",
-      "link": "https://mjbizdaily.com/news/what-can-an-mjbowl-win-do-for-your-cannabis-brand/618270/",
-      "source": "MJBizDaily",
-      "pub_date": "2026-09-24T19:46:34+00:00",
-      "age_hours": 17.559285580833333,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "BWE Secures Acquisition Financing for Premier Fort Collins Flex Portfolio",
-      "link": "https://milehighcre.com/bwe-secures-acquisition-financing-for-premier-fort-collins-flex-portfolio/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-24T19:34:49+00:00",
-      "age_hours": 17.752633209444443,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Nebraska attorney general probes Colorado cannabis company",
-      "link": "https://mjbizdaily.com/news/nebraska-attorney-general-probes-colorado-cannabis-company/618274/",
-      "source": "MJBizDaily",
-      "pub_date": "2026-09-24T19:05:15+00:00",
-      "age_hours": 18.247896786388885,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Denver Retail Investment Activity Rises 20% as Market Shows Resilience",
-      "link": "https://milehighcre.com/denver-retail-investment-activity-rises-20-as-market-shows-resilience/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-24T19:03:22+00:00",
-      "age_hours": 18.27679989388889,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 09.25.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-09-25-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-24T18:52:23+00:00",
-      "age_hours": 18.4598554575,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "RTD Bus Rapid Transit to welcome first riders for new stretch of bus lanes on east Colfax",
-      "link": "https://kdvr.com/news/local/rtd-bus-rapid-transit-to-welcome-first-riders-for-new-stretch-of-bus-lanes-on-east-colfax/",
-      "source": "Fox31",
-      "pub_date": "2026-09-24T18:39:20+00:00",
-      "age_hours": 18.67800190166667,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Denver police respond to 3 serious injury crashes overnight",
-      "link": "https://kdvr.com/news/local/denver-police-respond-to-3-serious-injury-crashes-overnight/",
-      "source": "Fox31",
-      "pub_date": "2026-09-24T14:25:49+00:00",
-      "age_hours": 22.903279583055554,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "21 hrs ago"
     }
   ]
 }
