@@ -1,78 +1,87 @@
 {
   "fetched_date": "2026-09-26",
-  "fetched_at": "2026-09-26 16:54:03",
+  "fetched_at": "2026-09-26 19:34:04",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Aurora prep sports scoreboard, 9.26.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-9-26-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-26T18:35:45+00:00",
+      "age_hours": 0.9678888366666667,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
+    {
+      "title": "Multiple taken to hospital after overnight shooting in Denver, 1 dead",
+      "link": "https://kdvr.com/news/local/3-taken-to-hospital-after-overnight-shooting-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-09-26T16:57:33+00:00",
+      "age_hours": 2.604291981388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Big Bend region border wall construction begins | OUT WEST ROUNDUP",
       "link": "https://www.coloradopolitics.com/2026/09/26/big-bend-region-border-wall-construction-begins-out-west-roundup-3/",
       "source": "CO Politics",
       "pub_date": "2026-09-26T11:00:00+00:00",
-      "age_hours": 5.896860004444445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.563695389722223,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "What\u2019s Working: Denver business leaders change focus to what\u2019s best about living, working in the city",
       "link": "https://coloradosun.com/2026/09/26/denver-business-leaders-best-return-living-working/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-26T10:00:00+00:00",
-      "age_hours": 6.896061224444444,
+      "age_hours": 9.562911883611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Essay: My $1.1 million business receipt for renting in Boulder",
       "link": "https://coloradosun.com/2026/09/26/opinion-boulder-small-business-struggles/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-26T07:30:00+00:00",
-      "age_hours": 9.39606164361111,
+      "age_hours": 12.062912567222224,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Football: Aurora\u2019s 2026 Week 5 scoreboard, schedule",
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-5-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-09-26T05:42:40+00:00",
-      "age_hours": 11.185774716388888,
+      "age_hours": 13.852611426666666,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Waymo vehicles draw attention after construction, farmers market incidents in Denver",
       "link": "https://www.9news.com/article/news/community/transportation/waymo-vehicles-draw-attention-after-construction-farmers-market-incidents-in-denver/73-2cbe10ab-a1f8-4624-a5e4-4321cf3a87d4",
       "source": "9News",
       "pub_date": "2026-09-26T03:40:57+00:00",
-      "age_hours": 13.213861822777778,
+      "age_hours": 15.880730607777778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver Police surveillance contract drafted just under the $500,000 council vote threshold, again",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-police-surveillance-contract-drafted-council-vote/73-9fbb2f0d-e176-4690-997e-f59b494e70a1",
       "source": "9News",
       "pub_date": "2026-09-26T00:59:33+00:00",
-      "age_hours": 15.90386183611111,
+      "age_hours": 18.570730639166666,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Waymo spotted almost driving onto freshly paved roadway in Denver",
       "link": "https://kdvr.com/news/local/waymo-spotted-almost-driving-onto-freshly-paved-roadway-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T00:28:19+00:00",
-      "age_hours": 16.424685396666668,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Where and when to go to Denver's Dolly Day celebrations",
-      "link": "https://kdvr.com/denver-guide/where-and-when-to-go-to-denvers-dolly-day-celebrations/",
-      "source": "Fox31",
-      "pub_date": "2026-09-25T21:44:55+00:00",
-      "age_hours": 19.148018752777777,
+      "age_hours": 19.09151436277778,
       "breaking": false,
       "time_ago": "19 hrs ago"
     },
@@ -81,88 +90,88 @@
       "link": "https://www.9news.com/article/news/nation-world/sesame-street-movie-netflix-development/507-a11698fa-71be-434c-964c-d2b7c0322be9",
       "source": "9News",
       "pub_date": "2026-09-25T21:26:29+00:00",
-      "age_hours": 19.454972996111113,
+      "age_hours": 22.121841831111112,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "SENTINEL MUSE: Torture, fun, musical misery and everything between on tap for the weekend",
       "link": "https://sentinelcolorado.com/metro/sentinel-muse-torture-fun-musical-misery-and-everything-between-on-tap-for-the-weekend/",
       "source": "Sentinel",
       "pub_date": "2026-09-25T20:31:31+00:00",
-      "age_hours": 20.37160829833333,
+      "age_hours": 23.038445476388887,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Colorado cannabis firm recalls vapes over cancer-causing solvent",
       "link": "https://mjbizdaily.com/news/colorado-cannabis-firm-recalls-vapes-over-cancer-causing-solvent/618301/",
       "source": "MJBizDaily",
       "pub_date": "2026-09-25T20:08:16+00:00",
-      "age_hours": 20.760308210833333,
+      "age_hours": 23.427150159722224,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Aurora NAACP hosts state, CD6 candidate forum Saturday focusing on public safety",
       "link": "https://sentinelcolorado.com/metro/aurora-naacp-hosts-state-cd6-candidate-forum-saturday-focusing-on-public-safety/",
       "source": "Sentinel",
       "pub_date": "2026-09-25T20:03:30+00:00",
-      "age_hours": 20.83855288166667,
+      "age_hours": 23.505390147499998,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Top Colorado Springs leaders are going to Huntsville to make space friends",
       "link": "https://www.cpr.org/2026/09/25/space-command-huntsville-alabama-discovery-trip-colorado-springs/",
       "source": "CPR",
       "pub_date": "2026-09-25T17:42:57+00:00",
-      "age_hours": 23.180401947777778,
+      "age_hours": 25.847278216666666,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Heads up for drivers: I-70 eastbound lanes at Kipling will close over the weekend",
       "link": "https://kdvr.com/news/local/heads-up-for-drivers-i-70-eastbound-lanes-at-kipling-will-close-over-the-weekend/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:28:02+00:00",
-      "age_hours": 23.42940761527778,
+      "age_hours": 26.096236578888888,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "9Things to do in Colorado this weekend: Sept. 25-27",
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-events-september-25-26-27-colorado/73-edf7cd07-b62b-4b1d-a652-3ea27d8fb643",
       "source": "9News",
       "pub_date": "2026-09-25T17:26:26+00:00",
-      "age_hours": 23.455806351388887,
+      "age_hours": 26.122675210555556,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "2 injured after Friday morning shooting in Five Points neighborhood",
       "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-friday-shooting-in-five-points-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:21:31+00:00",
-      "age_hours": 23.53801868861111,
+      "age_hours": 26.20484763083333,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "McDonald\u2019s bets $8.5 billion on a sweeping restaurant makeover, AI integration and new protein-focused menu",
       "link": "https://www.9news.com/article/news/nation-world/mcdonalds-bets-8-point-5-billion-restaurant-makeover-ai/507-0f5e01cf-9206-419b-87f1-97cdc9a70a77",
       "source": "9News",
       "pub_date": "2026-09-25T17:21:05+00:00",
-      "age_hours": 23.544973020277776,
+      "age_hours": 26.211841883055556,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Northern Colorado wastewater billing process to save breweries money",
       "link": "https://www.coloradopolitics.com/2026/09/25/greeley-brewery-wastewater-policy/",
       "source": "CO Politics",
       "pub_date": "2026-09-25T16:45:46+00:00",
-      "age_hours": 24.13408226722222,
+      "age_hours": 26.800917685833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,18 +180,9 @@
       "link": "https://www.bisnow.com/news/denver/office/denver-office-market-shows-signs-of-life-as-tenants-commit-to-longer-leases",
       "source": "Bisnow",
       "pub_date": "2026-09-25T15:50:02-04:00",
-      "age_hours": 21.061953790555556,
+      "age_hours": 23.72880714222222,
       "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Synthetic motor oil shortage worsens: What oil shortage means for your wallet",
-      "link": "https://www.denver7.com/dont-waste-your-money/synthetic-motor-oil-shortage-worsens-what-oil-shortage-means-for-your-wallet",
-      "source": "Denver7",
-      "pub_date": "2026-09-25T10:26:36+00:00",
-      "age_hours": 30.453152063888886,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "23 hrs ago"
     }
   ]
 }
