@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-09-26",
-  "fetched_at": "2026-09-26 07:10:16",
+  "fetched_at": "2026-09-26 12:43:24",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Big Bend region border wall construction begins | OUT WEST ROUNDUP",
+      "link": "https://www.coloradopolitics.com/2026/09/26/big-bend-region-border-wall-construction-begins-out-west-roundup-3/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-26T11:00:00+00:00",
+      "age_hours": 1.7193582258333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "What\u2019s Working: Denver business leaders change focus to what\u2019s best about living, working in the city",
+      "link": "https://coloradosun.com/2026/09/26/denver-business-leaders-best-return-living-working/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-26T10:00:00+00:00",
+      "age_hours": 2.7183300758333337,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Essay: My $1.1 million business receipt for renting in Boulder",
+      "link": "https://coloradosun.com/2026/09/26/opinion-boulder-small-business-struggles/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-26T07:30:00+00:00",
+      "age_hours": 5.218330848611111,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
     {
       "title": "Football: Aurora\u2019s 2026 Week 5 scoreboard, schedule",
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-5-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-09-26T05:42:40+00:00",
-      "age_hours": 1.4560982008333334,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.0082563505555555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Waymo vehicles draw attention after construction, farmers market incidents in Denver",
       "link": "https://www.9news.com/article/news/community/transportation/waymo-vehicles-draw-attention-after-construction-farmers-market-incidents-in-denver/73-2cbe10ab-a1f8-4624-a5e4-4321cf3a87d4",
       "source": "9News",
       "pub_date": "2026-09-26T03:40:57+00:00",
-      "age_hours": 3.4842278547222225,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.035960932222222,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver Police surveillance contract drafted just under the $500,000 council vote threshold, again",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-police-surveillance-contract-drafted-council-vote/73-9fbb2f0d-e176-4690-997e-f59b494e70a1",
       "source": "9News",
       "pub_date": "2026-09-26T00:59:33+00:00",
-      "age_hours": 6.1742278794444445,
+      "age_hours": 11.725960954444444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Waymo spotted almost driving onto freshly paved roadway in Denver",
       "link": "https://kdvr.com/news/local/waymo-spotted-almost-driving-onto-freshly-paved-roadway-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T00:28:19+00:00",
-      "age_hours": 6.695016484999999,
+      "age_hours": 12.247274010833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
+    },
+    {
+      "title": "Townhome community sues Ault over impact fees",
+      "link": "https://bizwest.com/2026/09/25/townhome-community-sues-ault-over-impact-fees/",
+      "source": "BizWest",
+      "pub_date": "2026-09-25T22:03:08+00:00",
+      "age_hours": 14.665742030277777,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Where and when to go to Denver's Dolly Day celebrations",
       "link": "https://kdvr.com/denver-guide/where-and-when-to-go-to-denvers-dolly-day-celebrations/",
       "source": "Fox31",
       "pub_date": "2026-09-25T21:44:55+00:00",
-      "age_hours": 9.418349895555556,
+      "age_hours": 14.970607403333332,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
+    },
+    {
+      "title": "CU spinout Mesa Quantum raises nearly $12M to scale sensor commercialization",
+      "link": "https://bizwest.com/2026/09/25/cu-spinout-mesa-quantum-raises-nearly-12m-to-scale-sensor-commercialization/",
+      "source": "BizWest",
+      "pub_date": "2026-09-25T21:40:45+00:00",
+      "age_hours": 15.03879815,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Longmont chamber lists ballot-issue stances",
+      "link": "https://bizwest.com/2026/09/25/longmont-chamber-lists-ballot-issue-stances/",
+      "source": "BizWest",
+      "pub_date": "2026-09-25T21:32:57+00:00",
+      "age_hours": 15.168798189444445,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Netflix says 'Sesame Street' movie is in development along with more episodes",
       "link": "https://www.9news.com/article/news/nation-world/sesame-street-movie-netflix-development/507-a11698fa-71be-434c-964c-d2b7c0322be9",
       "source": "9News",
       "pub_date": "2026-09-25T21:26:29+00:00",
-      "age_hours": 9.725339061666666,
+      "age_hours": 15.277072153333334,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "BizWest seeks input on economy for Q4",
+      "link": "https://bizwest.com/2026/09/25/bizwest-seeks-input-on-economy-for-q4/",
+      "source": "BizWest",
+      "pub_date": "2026-09-25T21:24:15+00:00",
+      "age_hours": 15.313798225,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "SENTINEL MUSE: Torture, fun, musical misery and everything between on tap for the weekend",
       "link": "https://sentinelcolorado.com/metro/sentinel-muse-torture-fun-musical-misery-and-everything-between-on-tap-for-the-weekend/",
       "source": "Sentinel",
       "pub_date": "2026-09-25T20:31:31+00:00",
-      "age_hours": 10.64193199638889,
+      "age_hours": 16.194090150555557,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Colorado cannabis firm recalls vapes over cancer-causing solvent",
       "link": "https://mjbizdaily.com/news/colorado-cannabis-firm-recalls-vapes-over-cancer-causing-solvent/618301/",
       "source": "MJBizDaily",
       "pub_date": "2026-09-25T20:08:16+00:00",
-      "age_hours": 11.030651824444444,
+      "age_hours": 16.582697230277777,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Aurora NAACP hosts state, CD6 candidate forum Saturday focusing on public safety",
       "link": "https://sentinelcolorado.com/metro/aurora-naacp-hosts-state-cd6-candidate-forum-saturday-focusing-on-public-safety/",
       "source": "Sentinel",
       "pub_date": "2026-09-25T20:03:30+00:00",
-      "age_hours": 11.1088767025,
+      "age_hours": 16.661034848333333,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Top Colorado Springs leaders are going to Huntsville to make space friends",
       "link": "https://www.cpr.org/2026/09/25/space-command-huntsville-alabama-discovery-trip-colorado-springs/",
       "source": "CPR",
       "pub_date": "2026-09-25T17:42:57+00:00",
-      "age_hours": 13.450857350833333,
+      "age_hours": 19.00259427,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Heads up for drivers: I-70 eastbound lanes at Kipling will close over the weekend",
       "link": "https://kdvr.com/news/local/heads-up-for-drivers-i-70-eastbound-lanes-at-kipling-will-close-over-the-weekend/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:28:02+00:00",
-      "age_hours": 13.699738696944443,
+      "age_hours": 19.2519962275,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "9Things to do in Colorado this weekend: Sept. 25-27",
       "link": "https://www.9news.com/article/entertainment/events/9-things-to-do/weekend-events-september-25-26-27-colorado/73-edf7cd07-b62b-4b1d-a652-3ea27d8fb643",
       "source": "9News",
       "pub_date": "2026-09-25T17:26:26+00:00",
-      "age_hours": 13.726172432777778,
+      "age_hours": 19.277905525833336,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "2 injured after Friday morning shooting in Five Points neighborhood",
       "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-friday-shooting-in-five-points-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:21:31+00:00",
-      "age_hours": 13.808349700277779,
+      "age_hours": 19.36060728083333,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "McDonald\u2019s bets $8.5 billion on a sweeping restaurant makeover, AI integration and new protein-focused menu",
-      "link": "https://www.9news.com/article/news/nation-world/mcdonalds-bets-8-point-5-billion-restaurant-makeover-ai/507-0f5e01cf-9206-419b-87f1-97cdc9a70a77",
-      "source": "9News",
-      "pub_date": "2026-09-25T17:21:05+00:00",
-      "age_hours": 13.815339113611111,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Northern Colorado wastewater billing process to save breweries money",
-      "link": "https://www.coloradopolitics.com/2026/09/25/greeley-brewery-wastewater-policy/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-25T16:45:46+00:00",
-      "age_hours": 14.404397049444444,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Denver Office Market Shows Signs Of Life As Tenants Commit To Longer Leases",
-      "link": "https://www.bisnow.com/news/denver/office/denver-office-market-shows-signs-of-life-as-tenants-commit-to-longer-leases",
-      "source": "Bisnow",
-      "pub_date": "2026-09-25T15:50:02-04:00",
-      "age_hours": 11.332408753611112,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Synthetic motor oil shortage worsens: What oil shortage means for your wallet",
-      "link": "https://www.denver7.com/dont-waste-your-money/synthetic-motor-oil-shortage-worsens-what-oil-shortage-means-for-your-wallet",
-      "source": "Denver7",
-      "pub_date": "2026-09-25T10:26:36+00:00",
-      "age_hours": 20.72351888972222,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Cash from feds will spark $1.2B electric transmission project in eastern Colorado",
-      "link": "https://coloradosun.com/2026/09/25/electric-transmission-project-xcel-colorado-spark/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-09-25T10:10:00+00:00",
-      "age_hours": 20.999918030277776,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Maverix Broadband founder says a paper trail proves the company did not misuse taxpayer funds",
-      "link": "https://coloradosun.com/2026/09/25/maverix-broadband-colorado-public-funds/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-09-25T10:00:00+00:00",
-      "age_hours": 21.166585234166668,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "The business of drag is lifting up the Denver brunch scene",
-      "link": "https://www.westword.com/food-drink/celebrating-denver-drag-brunch-40938372/",
-      "source": "Westword",
-      "pub_date": "2026-09-25T09:31:55-06:00",
-      "age_hours": 15.635096234444445,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "19 hrs ago"
     }
   ]
 }
