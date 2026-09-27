@@ -1,69 +1,87 @@
 {
   "fetched_date": "2026-09-27",
-  "fetched_at": "2026-09-27 07:42:31",
+  "fetched_at": "2026-09-27 13:35:26",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Mahjong, the 150-year-old Chinese tile game that never really left, is back",
+      "link": "https://coloradosun.com/2026/09/27/mahjong-in-colorado-chinese-tile-game-modern-resurgence/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-27T10:00:00+00:00",
+      "age_hours": 3.5871049800000003,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "A builder of tiny homes sees big potential in small Plains town",
+      "link": "https://www.cpr.org/2026/09/27/arriba-tiny-home-builder-economic-development/",
+      "source": "CPR",
+      "pub_date": "2026-09-27T10:00:00+00:00",
+      "age_hours": 3.5871901708333334,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Colorado warns of hazardous marijuana vapes sold at 405 dispensaries",
       "link": "https://www.coloradopolitics.com/2026/09/26/colorado-warns-of-hazardous-marijuana-vapes-sold-at-405-dispensaries-6/",
       "source": "CO Politics",
       "pub_date": "2026-09-27T00:50:48+00:00",
-      "age_hours": 6.8586012669444445,
+      "age_hours": 12.740983078333334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Aurora man killed Friday after being struck by two cars on South Peoria Street",
       "link": "https://sentinelcolorado.com/metro/police-courts/aurora-man-killed-friday-after-being-struck-by-two-cars-on-south-peoria-street/",
       "source": "Sentinel",
       "pub_date": "2026-09-27T00:27:58+00:00",
-      "age_hours": 7.239185823333333,
+      "age_hours": 13.12160196,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 9.26.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-9-26-26/",
       "source": "Sentinel",
       "pub_date": "2026-09-26T18:35:45+00:00",
-      "age_hours": 13.109463823333334,
+      "age_hours": 18.99187997972222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Multiple taken to hospital after overnight shooting in Denver, 1 dead",
       "link": "https://kdvr.com/news/local/3-taken-to-hospital-after-overnight-shooting-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T16:57:33+00:00",
-      "age_hours": 14.745929767777778,
+      "age_hours": 20.628238644166668,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Big Bend region border wall construction begins | OUT WEST ROUNDUP",
       "link": "https://www.coloradopolitics.com/2026/09/26/big-bend-region-border-wall-construction-begins-out-west-roundup-3/",
       "source": "CO Politics",
       "pub_date": "2026-09-26T11:00:00+00:00",
-      "age_hours": 20.705267972777776,
+      "age_hours": 26.587649775555555,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "What\u2019s Working: Denver business leaders change focus to what\u2019s best about living, working in the city",
       "link": "https://coloradosun.com/2026/09/26/denver-business-leaders-best-return-living-working/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-26T10:00:00+00:00",
-      "age_hours": 21.704779585277777,
+      "age_hours": 27.58710582972222,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Essay: My $1.1 million business receipt for renting in Boulder",
       "link": "https://coloradosun.com/2026/09/26/opinion-boulder-small-business-struggles/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-26T07:30:00+00:00",
-      "age_hours": 24.204781077499998,
+      "age_hours": 30.087106652777777,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +90,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-5-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-09-26T05:42:40+00:00",
-      "age_hours": 25.99418645,
+      "age_hours": 31.87660269277778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +99,7 @@
       "link": "https://www.9news.com/article/news/community/transportation/waymo-vehicles-draw-attention-after-construction-farmers-market-incidents-in-denver/73-2cbe10ab-a1f8-4624-a5e4-4321cf3a87d4",
       "source": "9News",
       "pub_date": "2026-09-26T03:40:57+00:00",
-      "age_hours": 28.022398829722224,
+      "age_hours": 33.90474388833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://www.9news.com/article/news/local/local-politics/denver-police-surveillance-contract-drafted-council-vote/73-9fbb2f0d-e176-4690-997e-f59b494e70a1",
       "source": "9News",
       "pub_date": "2026-09-26T00:59:33+00:00",
-      "age_hours": 30.71239885027778,
+      "age_hours": 36.59474390722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +117,7 @@
       "link": "https://kdvr.com/news/local/waymo-spotted-almost-driving-onto-freshly-paved-roadway-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T00:28:19+00:00",
-      "age_hours": 31.23315212611111,
+      "age_hours": 37.11546101472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,16 +126,7 @@
       "link": "https://www.9news.com/article/news/nation-world/sesame-street-movie-netflix-development/507-a11698fa-71be-434c-964c-d2b7c0322be9",
       "source": "9News",
       "pub_date": "2026-09-25T21:26:29+00:00",
-      "age_hours": 34.26351005111111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "SENTINEL MUSE: Torture, fun, musical misery and everything between on tap for the weekend",
-      "link": "https://sentinelcolorado.com/metro/sentinel-muse-torture-fun-musical-misery-and-everything-between-on-tap-for-the-weekend/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-25T20:31:31+00:00",
-      "age_hours": 35.18002060472222,
+      "age_hours": 40.145855097222224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,16 +135,7 @@
       "link": "https://mjbizdaily.com/news/colorado-cannabis-firm-recalls-vapes-over-cancer-causing-solvent/618301/",
       "source": "MJBizDaily",
       "pub_date": "2026-09-25T20:08:16+00:00",
-      "age_hours": 35.56862333388889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Aurora NAACP hosts state, CD6 candidate forum Saturday focusing on public safety",
-      "link": "https://sentinelcolorado.com/metro/aurora-naacp-hosts-state-cd6-candidate-forum-saturday-focusing-on-public-safety/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-25T20:03:30+00:00",
-      "age_hours": 35.64696530972222,
+      "age_hours": 41.45006027027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.cpr.org/2026/09/25/space-command-huntsville-alabama-discovery-trip-colorado-springs/",
       "source": "CPR",
       "pub_date": "2026-09-25T17:42:57+00:00",
-      "age_hours": 37.989002535833336,
+      "age_hours": 43.87135691388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://kdvr.com/news/local/heads-up-for-drivers-i-70-eastbound-lanes-at-kipling-will-close-over-the-weekend/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:28:02+00:00",
-      "age_hours": 38.23787434277778,
+      "age_hours": 44.120183229999995,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-friday-shooting-in-five-points-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:21:31+00:00",
-      "age_hours": 38.346485407222225,
+      "age_hours": 44.228794280555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/25/greeley-brewery-wastewater-policy/",
       "source": "CO Politics",
       "pub_date": "2026-09-25T16:45:46+00:00",
-      "age_hours": 38.94249026055555,
+      "age_hours": 44.82487206194445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://www.bisnow.com/news/denver/office/denver-office-market-shows-signs-of-life-as-tenants-commit-to-longer-leases",
       "source": "Bisnow",
       "pub_date": "2026-09-25T15:50:02-04:00",
-      "age_hours": 35.870613515833334,
+      "age_hours": 41.753055653888886,
       "breaking": false,
       "time_ago": "1 day ago"
     }
