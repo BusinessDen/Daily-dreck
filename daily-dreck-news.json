@@ -1,78 +1,96 @@
 {
   "fetched_date": "2026-09-28",
-  "fetched_at": "2026-09-28 06:23:15",
+  "fetched_at": "2026-09-28 15:02:05",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Late pass interference call on Rams negates interception, swings momentum as Broncos win 30-26",
+      "link": "https://kdvr.com/sports/denver-broncos/late-pass-interference-call-on-rams-negates-interception-swings-momentum-as-broncos-win-30-26/",
+      "source": "Fox31",
+      "pub_date": "2026-09-28T14:58:14+00:00",
+      "age_hours": 0.05934147555555556,
+      "breaking": true,
+      "time_ago": "3 min ago"
+    },
+    {
+      "title": "Johnson\u2019s Station Receives 2026 AIA Colorado Design Award",
+      "link": "https://milehighcre.com/johnsons-station-receives-2026-aia-colorado-design-award/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-28T14:28:47+00:00",
+      "age_hours": 0.5497634658333334,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
+    {
+      "title": "Aurora lawmakers consider council rebuke of Colorado\u2019s Prop 132 fentanyl prison measure",
+      "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-consider-council-rebuke-of-colorados-prop-132-fentanyl-prison-measure/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-28T12:00:21+00:00",
+      "age_hours": 3.0249294730555554,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Motorcyclist killed in Denver crash",
       "link": "https://www.9news.com/article/news/local/motorcyclist-killed-denver-crash/73-8d4b3ad3-d111-4f34-b847-fe32fb4bb76c",
       "source": "9News",
       "pub_date": "2026-09-28T00:37:23+00:00",
-      "age_hours": 5.76015777638889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 14.406587610833334,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Bus-only lanes open on Colfax Avenue after years of construction",
       "link": "https://www.9news.com/article/news/local/bus-only-lanes-open-colfax-avenue-construction/73-ed6560a6-71bc-4b09-a063-aeb2757c10fe",
       "source": "9News",
       "pub_date": "2026-09-27T23:44:12+00:00",
-      "age_hours": 6.646546708611111,
+      "age_hours": 15.29297654,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Walmart says it's not using personal information to set prices as it expands digital shelf labels",
-      "link": "https://kdvr.com/news/money/ap-walmart-says-its-not-using-personal-information-to-set-prices-as-it-expands-digital-shelf-labels/",
-      "source": "Fox31",
-      "pub_date": "2026-09-27T19:59:00+00:00",
-      "age_hours": 10.400151589722222,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Businesses hope new bus-only lanes on East Colfax will boost business after 2-year construction period",
       "link": "https://kdvr.com/news/local/businesses-hope-new-bus-only-lanes-on-east-colfax-will-boost-business-after-2-year-construction-period/",
       "source": "Fox31",
       "pub_date": "2026-09-27T17:45:24+00:00",
-      "age_hours": 12.626818107777776,
+      "age_hours": 21.27323037472222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "New Retail Tenants Coming To Cherry Creek North: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/retail/new-retail-tenants-coming-to-cherry-creek-north-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-09-27T13:45:55-04:00",
-      "age_hours": 12.617269535,
+      "age_hours": 21.26401012722222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Mahjong, the 150-year-old Chinese tile game with a complicated history, is taking over Colorado",
       "link": "https://coloradosun.com/2026/09/27/mahjong-in-colorado-chinese-tile-game-modern-resurgence/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-27T10:00:00+00:00",
-      "age_hours": 20.382864684444446,
+      "age_hours": 29.0295426225,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "A builder of tiny homes sees big potential in small Plains town",
       "link": "https://www.cpr.org/2026/09/27/arriba-tiny-home-builder-economic-development/",
       "source": "CPR",
       "pub_date": "2026-09-27T10:00:00+00:00",
-      "age_hours": 20.383074531111113,
+      "age_hours": 29.029595868888887,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado warns of hazardous marijuana vapes sold at 405 dispensaries",
       "link": "https://www.coloradopolitics.com/2026/09/26/colorado-warns-of-hazardous-marijuana-vapes-sold-at-405-dispensaries-6/",
       "source": "CO Politics",
       "pub_date": "2026-09-27T00:50:48+00:00",
-      "age_hours": 29.537096394444443,
+      "age_hours": 38.184044443611114,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +99,7 @@
       "link": "https://kdvr.com/news/local/3-taken-to-hospital-after-overnight-shooting-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T16:57:33+00:00",
-      "age_hours": 37.424318130555555,
+      "age_hours": 46.070730391388885,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,34 +108,16 @@
       "link": "https://www.coloradopolitics.com/2026/09/26/big-bend-region-border-wall-construction-begins-out-west-roundup-3/",
       "source": "CO Politics",
       "pub_date": "2026-09-26T11:00:00+00:00",
-      "age_hours": 43.38376309027778,
+      "age_hours": 52.03071114611111,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "What\u2019s Working: Denver business leaders change focus to what\u2019s best about living, working in the city",
       "link": "https://coloradosun.com/2026/09/26/denver-business-leaders-best-return-living-working/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-26T10:00:00+00:00",
-      "age_hours": 44.382865415833336,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Essay: My $1.1 million business receipt for renting in Boulder",
-      "link": "https://coloradosun.com/2026/09/26/opinion-boulder-small-business-struggles/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-09-26T07:30:00+00:00",
-      "age_hours": 46.88286607027777,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Waymo vehicles draw attention after construction, farmers market incidents in Denver",
-      "link": "https://www.9news.com/article/news/community/transportation/waymo-vehicles-draw-attention-after-construction-farmers-market-incidents-in-denver/73-2cbe10ab-a1f8-4624-a5e4-4321cf3a87d4",
-      "source": "9News",
-      "pub_date": "2026-09-26T03:40:57+00:00",
-      "age_hours": 50.70071349305556,
+      "age_hours": 53.029543396388895,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -126,7 +126,25 @@
       "link": "https://kdvr.com/news/local/waymo-spotted-almost-driving-onto-freshly-paved-roadway-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T00:28:19+00:00",
-      "age_hours": 53.911540468333335,
+      "age_hours": 62.55795273027778,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "Aurora council to vote on state, municipal mandatory minimum sentences",
+      "link": "https://www.coloradopolitics.com/2026/09/25/aurora-council-to-vote-on-state-municipal-mandatory-minimum-sentences/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-25T22:38:06+00:00",
+      "age_hours": 64.39571117305556,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "Denver reports mixed results on five-year housing goals",
+      "link": "https://www.coloradopolitics.com/2026/09/25/denver-reports-mixed-results-on-five-year-housing-goals/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-25T22:34:09+00:00",
+      "age_hours": 64.4615445875,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://mjbizdaily.com/news/colorado-cannabis-firm-recalls-vapes-over-cancer-causing-solvent/618301/",
       "source": "MJBizDaily",
       "pub_date": "2026-09-25T20:08:16+00:00",
-      "age_hours": 58.24732599,
+      "age_hours": 66.89425091944445,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://www.cpr.org/2026/09/25/space-command-huntsville-alabama-discovery-trip-colorado-springs/",
       "source": "CPR",
       "pub_date": "2026-09-25T17:42:57+00:00",
-      "age_hours": 60.66724128111111,
+      "age_hours": 69.31376260611111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://kdvr.com/news/local/heads-up-for-drivers-i-70-eastbound-lanes-at-kipling-will-close-over-the-weekend/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:28:02+00:00",
-      "age_hours": 60.91626268527778,
+      "age_hours": 69.56267494722222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-friday-shooting-in-five-points-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:21:31+00:00",
-      "age_hours": 61.02487375916667,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Northern Colorado wastewater billing process to save breweries money",
-      "link": "https://www.coloradopolitics.com/2026/09/25/greeley-brewery-wastewater-policy/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-25T16:45:46+00:00",
-      "age_hours": 61.620985374722224,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Denver Office Market Shows Signs Of Life As Tenants Commit To Longer Leases",
-      "link": "https://www.bisnow.com/news/denver/office/denver-office-market-shows-signs-of-life-as-tenants-commit-to-longer-leases",
-      "source": "Bisnow",
-      "pub_date": "2026-09-25T15:50:02-04:00",
-      "age_hours": 58.54865843694444,
+      "age_hours": 69.67128601472223,
       "breaking": false,
       "time_ago": "2 days ago"
     }
