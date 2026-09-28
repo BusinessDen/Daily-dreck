@@ -1,51 +1,132 @@
 {
   "fetched_date": "2026-09-28",
-  "fetched_at": "2026-09-28 15:02:05",
+  "fetched_at": "2026-09-28 21:37:58",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "What to expect from the new Colfax Avenue",
+      "link": "https://denverite.com/2026/09/28/new-colfax-avenue-bus-lanes-how-to-ride/",
+      "source": "Denverite",
+      "pub_date": "2026-09-28T21:03:13+00:00",
+      "age_hours": 0.5743896269444445,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
+    {
+      "title": "SpaceX\u2019s supersized Starship launches into orbit for the first time but flight ends early",
+      "link": "https://sentinelcolorado.com/nation-world/nation/spacexs-supersized-starship-launches-into-orbit-for-the-first-time-but-flight-ends-early/",
+      "source": "Sentinel",
+      "pub_date": "2026-09-28T21:01:01+00:00",
+      "age_hours": 0.6118435088888889,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "2 killed in Denver crash",
+      "link": "https://www.9news.com/article/news/local/motorcyclist-killed-denver-crash/73-8d4b3ad3-d111-4f34-b847-fe32fb4bb76c",
+      "source": "9News",
+      "pub_date": "2026-09-28T20:04:36+00:00",
+      "age_hours": 1.551407438611111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "34-Unit Affordable Housing Community Opens in Crested Butte",
+      "link": "https://milehighcre.com/34-unit-affordable-housing-community-opens-in-crested-butte/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-28T19:52:57+00:00",
+      "age_hours": 1.7453016619444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Barb Kirkmeyer: Colorado has a spending problem | The OpEdge Podcast",
+      "link": "https://www.coloradopolitics.com/2026/09/28/barb-kirkmeyer-colorado-has-a-spending-problem-the-opedge-podcast/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-28T19:26:41+00:00",
+      "age_hours": 2.1840186908333337,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "President Trump announces $15 billion steel mill planned for Iowa",
+      "link": "https://www.9news.com/article/news/nation-world/steel-mill-planned-for-iowa-minnesota-company-trump-oval-office-announcement/507-52545368-4469-4d4e-8828-ebd472fd2ff1",
+      "source": "9News",
+      "pub_date": "2026-09-28T19:09:38+00:00",
+      "age_hours": 2.4675185855555557,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Business Buzz: Scaling outdoor apparel through economic headwinds and closing the tech capital gap",
+      "link": "https://www.9news.com/article/money/business-brief/scaling-outdoor-apparel-and-closing-tech-capital-gap/73-dd54d4b6-8be9-4d4d-96a1-122a22e4a0f4",
+      "source": "9News",
+      "pub_date": "2026-09-28T18:24:59+00:00",
+      "age_hours": 3.2116852644444442,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Pinkard Tops Out on the Daylight Collective Campus",
+      "link": "https://milehighcre.com/pinkard-tops-out-on-the-daylight-collective-campus/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-28T16:24:18+00:00",
+      "age_hours": 5.2228016791666665,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Trump administration begins airing 2024 Trump campaign ad",
+      "link": "https://www.coloradopolitics.com/2026/09/28/trump-administration-begins-airing-2024-trump-campaign-ad/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-28T15:40:24+00:00",
+      "age_hours": 5.955407635277778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Trump administration lowers fuel economy standards, critics say at a significant environmental cost",
+      "link": "https://www.9news.com/article/news/nation-world/trump-lowers-fuel-economy-standards-automakers-pollution-control/507-13267431-a6c2-46c9-b06d-b655a3fb8da9",
+      "source": "9News",
+      "pub_date": "2026-09-28T15:38:19+00:00",
+      "age_hours": 5.989463104166667,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Niwot voters to decide on creating a town government",
+      "link": "https://kdvr.com/news/local/niwot-voters-to-decide-on-creating-a-town-government/",
+      "source": "Fox31",
+      "pub_date": "2026-09-28T15:18:11+00:00",
+      "age_hours": 6.3252668863888895,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Late pass interference call on Rams negates interception, swings momentum as Broncos win 30-26",
       "link": "https://kdvr.com/sports/denver-broncos/late-pass-interference-call-on-rams-negates-interception-swings-momentum-as-broncos-win-30-26/",
       "source": "Fox31",
       "pub_date": "2026-09-28T14:58:14+00:00",
-      "age_hours": 0.05934147555555556,
-      "breaking": true,
-      "time_ago": "3 min ago"
+      "age_hours": 6.657766868055556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Johnson\u2019s Station Receives 2026 AIA Colorado Design Award",
       "link": "https://milehighcre.com/johnsons-station-receives-2026-aia-colorado-design-award/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-28T14:28:47+00:00",
-      "age_hours": 0.5497634658333334,
-      "breaking": true,
-      "time_ago": "32 min ago"
-    },
-    {
-      "title": "Aurora lawmakers consider council rebuke of Colorado\u2019s Prop 132 fentanyl prison measure",
-      "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-consider-council-rebuke-of-colorados-prop-132-fentanyl-prison-measure/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-28T12:00:21+00:00",
-      "age_hours": 3.0249294730555554,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Motorcyclist killed in Denver crash",
-      "link": "https://www.9news.com/article/news/local/motorcyclist-killed-denver-crash/73-8d4b3ad3-d111-4f34-b847-fe32fb4bb76c",
-      "source": "9News",
-      "pub_date": "2026-09-28T00:37:23+00:00",
-      "age_hours": 14.406587610833334,
+      "age_hours": 7.148079465555555,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
-      "title": "Bus-only lanes open on Colfax Avenue after years of construction",
-      "link": "https://www.9news.com/article/news/local/bus-only-lanes-open-colfax-avenue-construction/73-ed6560a6-71bc-4b09-a063-aeb2757c10fe",
-      "source": "9News",
-      "pub_date": "2026-09-27T23:44:12+00:00",
-      "age_hours": 15.29297654,
+      "title": "City Council voted to end the Old Colorado City DDA. What comes next?",
+      "link": "https://www.coloradopolitics.com/2026/09/28/city-council-voted-end-old-colorado-city-dda/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-28T06:00:00+00:00",
+      "age_hours": 15.62874098861111,
       "breaking": false,
       "time_ago": "15 hrs ago"
     },
@@ -54,25 +135,25 @@
       "link": "https://kdvr.com/news/local/businesses-hope-new-bus-only-lanes-on-east-colfax-will-boost-business-after-2-year-construction-period/",
       "source": "Fox31",
       "pub_date": "2026-09-27T17:45:24+00:00",
-      "age_hours": 21.27323037472222,
+      "age_hours": 27.87165584138889,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "New Retail Tenants Coming To Cherry Creek North: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/retail/new-retail-tenants-coming-to-cherry-creek-north-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-09-27T13:45:55-04:00",
-      "age_hours": 21.26401012722222,
+      "age_hours": 27.86237822138889,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Mahjong, the 150-year-old Chinese tile game with a complicated history, is taking over Colorado",
       "link": "https://coloradosun.com/2026/09/27/mahjong-in-colorado-chinese-tile-game-modern-resurgence/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-27T10:00:00+00:00",
-      "age_hours": 29.0295426225,
+      "age_hours": 35.62786664916666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +162,7 @@
       "link": "https://www.cpr.org/2026/09/27/arriba-tiny-home-builder-economic-development/",
       "source": "CPR",
       "pub_date": "2026-09-27T10:00:00+00:00",
-      "age_hours": 29.029595868888887,
+      "age_hours": 35.62804288888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/26/colorado-warns-of-hazardous-marijuana-vapes-sold-at-405-dispensaries-6/",
       "source": "CO Politics",
       "pub_date": "2026-09-27T00:50:48+00:00",
-      "age_hours": 38.184044443611114,
+      "age_hours": 44.78207433638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,88 +180,7 @@
       "link": "https://kdvr.com/news/local/3-taken-to-hospital-after-overnight-shooting-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T16:57:33+00:00",
-      "age_hours": 46.070730391388885,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Big Bend region border wall construction begins | OUT WEST ROUNDUP",
-      "link": "https://www.coloradopolitics.com/2026/09/26/big-bend-region-border-wall-construction-begins-out-west-roundup-3/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-26T11:00:00+00:00",
-      "age_hours": 52.03071114611111,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "What\u2019s Working: Denver business leaders change focus to what\u2019s best about living, working in the city",
-      "link": "https://coloradosun.com/2026/09/26/denver-business-leaders-best-return-living-working/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-09-26T10:00:00+00:00",
-      "age_hours": 53.029543396388895,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Waymo spotted almost driving onto freshly paved roadway in Denver",
-      "link": "https://kdvr.com/news/local/waymo-spotted-almost-driving-onto-freshly-paved-roadway-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-09-26T00:28:19+00:00",
-      "age_hours": 62.55795273027778,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Aurora council to vote on state, municipal mandatory minimum sentences",
-      "link": "https://www.coloradopolitics.com/2026/09/25/aurora-council-to-vote-on-state-municipal-mandatory-minimum-sentences/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-25T22:38:06+00:00",
-      "age_hours": 64.39571117305556,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Denver reports mixed results on five-year housing goals",
-      "link": "https://www.coloradopolitics.com/2026/09/25/denver-reports-mixed-results-on-five-year-housing-goals/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-25T22:34:09+00:00",
-      "age_hours": 64.4615445875,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado cannabis firm recalls vapes over cancer-causing solvent",
-      "link": "https://mjbizdaily.com/news/colorado-cannabis-firm-recalls-vapes-over-cancer-causing-solvent/618301/",
-      "source": "MJBizDaily",
-      "pub_date": "2026-09-25T20:08:16+00:00",
-      "age_hours": 66.89425091944445,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Top Colorado Springs leaders are going to Huntsville to make space friends",
-      "link": "https://www.cpr.org/2026/09/25/space-command-huntsville-alabama-discovery-trip-colorado-springs/",
-      "source": "CPR",
-      "pub_date": "2026-09-25T17:42:57+00:00",
-      "age_hours": 69.31376260611111,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Heads up for drivers: I-70 eastbound lanes at Kipling will close over the weekend",
-      "link": "https://kdvr.com/news/local/heads-up-for-drivers-i-70-eastbound-lanes-at-kipling-will-close-over-the-weekend/",
-      "source": "Fox31",
-      "pub_date": "2026-09-25T17:28:02+00:00",
-      "age_hours": 69.56267494722222,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "2 injured after Friday morning shooting in Five Points neighborhood",
-      "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-friday-shooting-in-five-points-neighborhood/",
-      "source": "Fox31",
-      "pub_date": "2026-09-25T17:21:31+00:00",
-      "age_hours": 69.67128601472223,
+      "age_hours": 52.66915585305556,
       "breaking": false,
       "time_ago": "2 days ago"
     }
