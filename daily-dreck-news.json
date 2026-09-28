@@ -1,69 +1,87 @@
 {
-  "fetched_date": "2026-09-27",
-  "fetched_at": "2026-09-27 21:52:24",
+  "fetched_date": "2026-09-28",
+  "fetched_at": "2026-09-28 00:20:52",
   "article_count": 20,
   "breaking_count": 2,
   "articles": [
+    {
+      "title": "Bus-only lanes open on Colfax Avenue after years of construction",
+      "link": "https://www.9news.com/article/news/local/bus-only-lanes-open-colfax-avenue-construction/73-ed6560a6-71bc-4b09-a063-aeb2757c10fe",
+      "source": "9News",
+      "pub_date": "2026-09-27T23:44:12+00:00",
+      "age_hours": 0.6069598252777778,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "Walmart says it's not using personal information to set prices as it expands digital shelf labels",
+      "link": "https://kdvr.com/news/money/ap-walmart-says-its-not-using-personal-information-to-set-prices-as-it-expands-digital-shelf-labels/",
+      "source": "Fox31",
+      "pub_date": "2026-09-27T19:59:00+00:00",
+      "age_hours": 4.360551454444445,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Businesses hope new bus-only lanes on East Colfax will boost business after 2-year construction period",
       "link": "https://kdvr.com/news/local/businesses-hope-new-bus-only-lanes-on-east-colfax-will-boost-business-after-2-year-construction-period/",
       "source": "Fox31",
       "pub_date": "2026-09-27T17:45:24+00:00",
-      "age_hours": 4.112604815,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.587218017222223,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "New Retail Tenants Coming To Cherry Creek North: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/retail/new-retail-tenants-coming-to-cherry-creek-north-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-09-27T13:45:55-04:00",
-      "age_hours": 4.102257515,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 6.577795013611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Mahjong, the 150-year-old Chinese tile game with a complicated history, is taking over Colorado",
       "link": "https://coloradosun.com/2026/09/27/mahjong-in-colorado-chinese-tile-game-modern-resurgence/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-27T10:00:00+00:00",
-      "age_hours": 11.867838793611112,
+      "age_hours": 14.343373339722222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "A builder of tiny homes sees big potential in small Plains town",
       "link": "https://www.cpr.org/2026/09/27/arriba-tiny-home-builder-economic-development/",
       "source": "CPR",
       "pub_date": "2026-09-27T10:00:00+00:00",
-      "age_hours": 11.867971956111111,
+      "age_hours": 14.343519196944445,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colorado warns of hazardous marijuana vapes sold at 405 dispensaries",
       "link": "https://www.coloradopolitics.com/2026/09/26/colorado-warns-of-hazardous-marijuana-vapes-sold-at-405-dispensaries-6/",
       "source": "CO Politics",
       "pub_date": "2026-09-27T00:50:48+00:00",
-      "age_hours": 21.022940607777777,
+      "age_hours": 23.497520556666665,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Aurora man killed Friday after being struck by two cars on South Peoria Street",
       "link": "https://sentinelcolorado.com/metro/police-courts/aurora-man-killed-friday-after-being-struck-by-two-cars-on-south-peoria-street/",
       "source": "Sentinel",
       "pub_date": "2026-09-27T00:27:58+00:00",
-      "age_hours": 21.403653306666666,
+      "age_hours": 23.878213216666666,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 9.26.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-9-26-26/",
       "source": "Sentinel",
       "pub_date": "2026-09-26T18:35:45+00:00",
-      "age_hours": 27.273931219444446,
+      "age_hours": 29.74849114222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +90,7 @@
       "link": "https://kdvr.com/news/local/3-taken-to-hospital-after-overnight-shooting-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T16:57:33+00:00",
-      "age_hours": 28.910104830833333,
+      "age_hours": 31.38471803361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +99,7 @@
       "link": "https://www.coloradopolitics.com/2026/09/26/big-bend-region-border-wall-construction-begins-out-west-roundup-3/",
       "source": "CO Politics",
       "pub_date": "2026-09-26T11:00:00+00:00",
-      "age_hours": 34.86960729361111,
+      "age_hours": 37.344187247499995,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +108,7 @@
       "link": "https://coloradosun.com/2026/09/26/denver-business-leaders-best-return-living-working/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-26T10:00:00+00:00",
-      "age_hours": 35.86783931138889,
+      "age_hours": 38.34337392333333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +117,7 @@
       "link": "https://coloradosun.com/2026/09/26/opinion-boulder-small-business-struggles/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-26T07:30:00+00:00",
-      "age_hours": 38.36783980888889,
+      "age_hours": 40.84337450083333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +126,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-5-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-09-26T05:42:40+00:00",
-      "age_hours": 40.15865371888889,
+      "age_hours": 42.63321365472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +135,7 @@
       "link": "https://www.9news.com/article/news/community/transportation/waymo-vehicles-draw-attention-after-construction-farmers-market-incidents-in-denver/73-2cbe10ab-a1f8-4624-a5e4-4321cf3a87d4",
       "source": "9News",
       "pub_date": "2026-09-26T03:40:57+00:00",
-      "age_hours": 42.185541989444445,
+      "age_hours": 44.661126576388895,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +144,7 @@
       "link": "https://www.9news.com/article/news/local/local-politics/denver-police-surveillance-contract-drafted-council-vote/73-9fbb2f0d-e176-4690-997e-f59b494e70a1",
       "source": "9News",
       "pub_date": "2026-09-26T00:59:33+00:00",
-      "age_hours": 44.875542000555555,
+      "age_hours": 47.35112658777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://kdvr.com/news/local/waymo-spotted-almost-driving-onto-freshly-paved-roadway-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-09-26T00:28:19+00:00",
-      "age_hours": 45.39732712083334,
+      "age_hours": 47.87194033583334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://mjbizdaily.com/news/colorado-cannabis-firm-recalls-vapes-over-cancer-causing-solvent/618301/",
       "source": "MJBizDaily",
       "pub_date": "2026-09-25T20:08:16+00:00",
-      "age_hours": 49.73307576083333,
+      "age_hours": 52.207743485277774,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://www.cpr.org/2026/09/25/space-command-huntsville-alabama-discovery-trip-colorado-springs/",
       "source": "CPR",
       "pub_date": "2026-09-25T17:42:57+00:00",
-      "age_hours": 52.15213866861111,
+      "age_hours": 54.627685929444446,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://kdvr.com/news/local/heads-up-for-drivers-i-70-eastbound-lanes-at-kipling-will-close-over-the-weekend/",
       "source": "Fox31",
       "pub_date": "2026-09-25T17:28:02+00:00",
-      "age_hours": 52.402049339722225,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "2 injured after Friday morning shooting in Five Points neighborhood",
-      "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-friday-shooting-in-five-points-neighborhood/",
-      "source": "Fox31",
-      "pub_date": "2026-09-25T17:21:31+00:00",
-      "age_hours": 52.510660424444445,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Northern Colorado wastewater billing process to save breweries money",
-      "link": "https://www.coloradopolitics.com/2026/09/25/greeley-brewery-wastewater-policy/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-25T16:45:46+00:00",
-      "age_hours": 53.10682955777778,
+      "age_hours": 54.876662554444444,
       "breaking": false,
       "time_ago": "2 days ago"
     }
