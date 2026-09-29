@@ -1,186 +1,186 @@
 {
   "fetched_date": "2026-09-29",
-  "fetched_at": "2026-09-29 07:59:22",
+  "fetched_at": "2026-09-29 14:48:14",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 12,
   "articles": [
     {
-      "title": "Proposed Trident data center proposal in northeast sparks anger among residents",
-      "link": "https://sentinelcolorado.com/metro/proposed-trident-data-center-proposal-in-northeast-sparks-anger-among-residents/",
+      "title": "Denver Water bans lawn watering Thursday, warns of hefty fines for violators",
+      "link": "https://www.9news.com/article/tech/science/environment/denver-water-bans-lawn-watering-thursday-warns-of-hefty-fines-for-violators/73-11e77736-6d87-4cd2-99ee-392223677cb8",
+      "source": "9News",
+      "pub_date": "2026-09-29T14:16:48+00:00",
+      "age_hours": 0.51958792,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "Niagara Bottling buys water from Greeley to avoid Aurora drought violation",
+      "link": "https://sentinelcolorado.com/metro/niagara-bottling-buys-water-from-greeley-to-avoid-aurora-drought-violation/",
       "source": "Sentinel",
-      "pub_date": "2026-09-29T05:58:10+00:00",
-      "age_hours": 2.015720913611111,
+      "pub_date": "2026-09-29T14:05:20+00:00",
+      "age_hours": 0.7109744344444444,
+      "breaking": true,
+      "time_ago": "42 min ago"
+    },
+    {
+      "title": "'Polar Express Train Ride' returns to Colorado for holiday season",
+      "link": "https://www.9news.com/article/life/holidays/holiday-guide/polar-express-train-ride-colorado/73-b0dc4da8-f740-4a6d-8227-7b8b8a3aae26",
+      "source": "9News",
+      "pub_date": "2026-09-29T13:54:20+00:00",
+      "age_hours": 0.8940324288888889,
+      "breaking": true,
+      "time_ago": "53 min ago"
+    },
+    {
+      "title": "CGRS acquires Phoenix-based Tank Solutions",
+      "link": "https://bizwest.com/2026/09/29/cgrs-acquires-phoenix-based-tank-solutions/",
+      "source": "BizWest",
+      "pub_date": "2026-09-29T13:22:18+00:00",
+      "age_hours": 1.4273813980555554,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "'Threshing Day' arrives: Colorado's Rebecca Yarros releases new 'Fourth Wing' book",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/new-fourth-wing-book-rebecca-yarros/73-4f0c0393-9e7b-431e-8d79-0875db85e7e4",
+      "source": "9News",
+      "pub_date": "2026-09-29T13:20:32+00:00",
+      "age_hours": 1.457365821388889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Johnson\u2019s Station receives AIA design award",
+      "link": "https://bizwest.com/2026/09/29/johnsons-station-receives-aia-design-award/",
+      "source": "BizWest",
+      "pub_date": "2026-09-29T13:14:32+00:00",
+      "age_hours": 1.556825856111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Prime Day in October: Amazon's next big sale is right around the corner",
+      "link": "https://www.9news.com/article/news/nation-world/amazon-prime-big-deal-days-2026-details-competing-sales/507-ea58b35a-3df3-4705-9c65-67e08fc58354",
+      "source": "9News",
+      "pub_date": "2026-09-29T12:54:32+00:00",
+      "age_hours": 1.8906991805555557,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "$2.5M campaign launched to fix Denver's perception",
+      "link": "https://www.9news.com/article/money/business/campaign-launched-fix-denver-perception-problems/73-b9543b5f-1191-4df9-afa7-a8ca5af5c255",
+      "source": "9News",
+      "pub_date": "2026-09-29T12:17:22+00:00",
+      "age_hours": 2.510143642777778,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
     {
-      "title": "Aurora prep sports scoreboard, 9.28.26",
-      "link": "https://sentinelcolorado.com/1gridpreps/aurora-prep-sports-scoreboard-9-28-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-29T04:30:00+00:00",
-      "age_hours": 3.4851655755555555,
+      "title": "From motorcycles to booze, US ban on $1 billion worth of Canadian imports goes into effect",
+      "link": "https://www.9news.com/article/news/nation-world/us-ban-on-1-billion-in-canadian-imports-goes-into-effect/507-657338e9-766e-493a-aeb2-d6e6dc42111a",
+      "source": "9News",
+      "pub_date": "2026-09-29T10:30:22+00:00",
+      "age_hours": 4.293477055833333,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Crocs and Malta: How US companies are using tax havens to shield profits",
+      "link": "https://www.cpr.org/2026/09/29/crocs-us-companies-malta-tax-breaks/",
+      "source": "CPR",
+      "pub_date": "2026-09-29T10:15:00+00:00",
+      "age_hours": 4.549527446666667,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Xcel customers are being left in the dark by frequent outages, Colorado regulators say",
+      "link": "https://coloradosun.com/2026/09/29/xcel-energy-customers-in-colorado-facing-frequent-power-outages/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-29T10:00:00+00:00",
+      "age_hours": 4.799415429444444,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Amendment 81: Colorado police, prosecutors would be forced to alert ICE after filing certain charges",
+      "link": "https://coloradosun.com/2026/09/29/amendment-81-explained-colorado-immigration/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-09-29T09:30:00+00:00",
+      "age_hours": 5.299415964722223,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "'This is a 100-year mistake': Neighbors of Russell Square Park question tree removal",
       "link": "https://kdvr.com/news/local/this-is-a-100-year-mistake-neighbors-of-russell-square-park-question-tree-removal/",
       "source": "Fox31",
       "pub_date": "2026-09-29T01:51:36+00:00",
-      "age_hours": 6.124893133055556,
+      "age_hours": 12.939660655,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver's newest community park officially opened over the weekend",
       "link": "https://www.9news.com/video/news/local/denvers-newest-community-park-officially-opened-in-globeville/73-9c19ed3b-d1e1-4bba-b2a7-9822384f52ed",
       "source": "9News",
       "pub_date": "2026-09-29T00:47:25+00:00",
-      "age_hours": 7.194332024166667,
+      "age_hours": 14.009310432222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "AI a focus at Colorado Springs judicial conference",
       "link": "https://www.coloradopolitics.com/2026/09/28/ai-a-focus-at-colorado-springs-judicial-conference-2/",
       "source": "CO Politics",
       "pub_date": "2026-09-29T00:00:52+00:00",
-      "age_hours": 7.970688117777778,
+      "age_hours": 14.7854033475,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Deadly Denver shooting puts long-standing parking lot concerns back in focus",
       "link": "https://kdvr.com/news/local/deadly-denver-shooting-puts-long-standing-parking-lot-concerns-back-in-focus/",
       "source": "Fox31",
       "pub_date": "2026-09-28T23:20:33+00:00",
-      "age_hours": 8.642393074722222,
+      "age_hours": 15.457160589444445,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Alito won\u2019t take part in appeal of Boulder climate case",
+      "link": "https://bizwest.com/2026/09/28/alito-wont-take-part-in-appeal-of-boulder-climate-case/",
+      "source": "BizWest",
+      "pub_date": "2026-09-28T23:01:29+00:00",
+      "age_hours": 15.7743264425,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Fort Collins planners to eye project that\u2019s \u2018not a data center\u2019",
+      "link": "https://bizwest.com/2026/09/28/fort-collins-planners-to-eye-project-thats-not-a-data-center/",
+      "source": "BizWest",
+      "pub_date": "2026-09-28T22:02:18+00:00",
+      "age_hours": 16.760715376388887,
+      "breaking": false,
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "After proposing a citywide upzoning, Denver scales back \u2018Unlocking Housing Choices\u2019",
       "link": "https://denverite.com/2026/09/28/unlocking-housing-choices-zoning-denver/",
       "source": "Denverite",
       "pub_date": "2026-09-28T21:58:03+00:00",
-      "age_hours": 10.016891431666668,
+      "age_hours": 16.83197447638889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Aurora neighbors plan to flood City Council Monday to protest massive Trident data center",
-      "link": "https://sentinelcolorado.com/metro/aurora-neighbors-plan-to-flood-city-council-monday-to-protest-massive-trident-data-center/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-28T21:45:44+00:00",
-      "age_hours": 10.222943620277777,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "2 killed in Denver crash",
-      "link": "https://www.9news.com/article/news/local/motorcyclist-killed-denver-crash/73-8d4b3ad3-d111-4f34-b847-fe32fb4bb76c",
-      "source": "9News",
-      "pub_date": "2026-09-28T21:41:29+00:00",
-      "age_hours": 10.293220978888888,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "What to expect from the new Colfax Avenue",
       "link": "https://denverite.com/2026/09/28/new-colfax-avenue-bus-lanes-how-to-ride/",
       "source": "Denverite",
       "pub_date": "2026-09-28T21:03:13+00:00",
-      "age_hours": 10.930780366111112,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "SpaceX\u2019s supersized Starship launches into orbit for the first time but flight ends early",
-      "link": "https://sentinelcolorado.com/nation-world/nation/spacexs-supersized-starship-launches-into-orbit-for-the-first-time-but-flight-ends-early/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-28T21:01:01+00:00",
-      "age_hours": 10.968221735,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "34-Unit Affordable Housing Community Opens in Crested Butte",
-      "link": "https://milehighcre.com/34-unit-affordable-housing-community-opens-in-crested-butte/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-28T19:52:57+00:00",
-      "age_hours": 12.101722216944443,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Barb Kirkmeyer: Colorado has a spending problem | The OpEdge Podcast",
-      "link": "https://www.coloradopolitics.com/2026/09/28/barb-kirkmeyer-colorado-has-a-spending-problem-the-opedge-podcast/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-28T19:26:41+00:00",
-      "age_hours": 12.540410374166667,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "President Trump announces $15 billion steel mill planned for Iowa",
-      "link": "https://www.9news.com/article/news/nation-world/steel-mill-planned-for-iowa-minnesota-company-trump-oval-office-announcement/507-52545368-4469-4d4e-8828-ebd472fd2ff1",
-      "source": "9News",
-      "pub_date": "2026-09-28T19:09:38+00:00",
-      "age_hours": 12.82405435611111,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Business Buzz: Scaling outdoor apparel through economic headwinds and closing the tech capital gap",
-      "link": "https://www.9news.com/article/money/business-brief/scaling-outdoor-apparel-and-closing-tech-capital-gap/73-dd54d4b6-8be9-4d4d-96a1-122a22e4a0f4",
-      "source": "9News",
-      "pub_date": "2026-09-28T18:24:59+00:00",
-      "age_hours": 13.568221033888888,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Pinkard Tops Out on the Daylight Collective Campus",
-      "link": "https://milehighcre.com/pinkard-tops-out-on-the-daylight-collective-campus/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-28T16:24:18+00:00",
-      "age_hours": 15.579222233055557,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Trump administration begins airing 2024 Trump campaign ad",
-      "link": "https://www.coloradopolitics.com/2026/09/28/trump-administration-begins-airing-2024-trump-campaign-ad/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-28T15:40:24+00:00",
-      "age_hours": 16.311799301666667,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Niwot voters to decide on creating a town government",
-      "link": "https://kdvr.com/news/local/niwot-voters-to-decide-on-creating-a-town-government/",
-      "source": "Fox31",
-      "pub_date": "2026-09-28T15:18:11+00:00",
-      "age_hours": 16.68183764638889,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Late pass interference call on Rams negates interception, swings momentum as Broncos win 30-26",
-      "link": "https://kdvr.com/sports/denver-broncos/late-pass-interference-call-on-rams-negates-interception-swings-momentum-as-broncos-win-30-26/",
-      "source": "Fox31",
-      "pub_date": "2026-09-28T14:58:14+00:00",
-      "age_hours": 17.014337636666667,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Johnson\u2019s Station Receives 2026 AIA Colorado Design Award",
-      "link": "https://milehighcre.com/johnsons-station-receives-2026-aia-colorado-design-award/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-09-28T14:28:47+00:00",
-      "age_hours": 17.504500019444443,
+      "age_hours": 17.74586343111111,
       "breaking": false,
       "time_ago": "17 hrs ago"
     }
