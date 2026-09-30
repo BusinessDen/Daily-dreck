@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-09-30",
-  "fetched_at": "2026-09-30 10:57:31",
+  "fetched_at": "2026-09-30 16:45:59",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "New nonstop service launching between Denver and Dallas area",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/avelo-airlines-nonstop-service-flights-denver-dallas-mckinney-airports/73-a7cb337a-880b-45a9-bc79-a97084954847",
+      "source": "9News",
+      "pub_date": "2026-09-30T16:15:28+00:00",
+      "age_hours": 0.5003840525000001,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "Denver Construction Costs Rise 4.55% Amid Split Market Conditions",
+      "link": "https://milehighcre.com/denver-construction-costs-rise-4-55-amid-split-market-conditions/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-30T16:01:07+00:00",
+      "age_hours": 0.7392888855555556,
+      "breaking": true,
+      "time_ago": "44 min ago"
+    },
+    {
+      "title": "Nederland officials seek state help to keep town's Eldora deal alive",
+      "link": "https://www.9news.com/article/money/business/nederland-officials-seek-state-help-to-keep-towns-eldora-deal-alive/73-9d105657-65b2-410a-90fd-7874e4de91f5",
+      "source": "9News",
+      "pub_date": "2026-09-30T15:25:06+00:00",
+      "age_hours": 1.3398285677777777,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado drivers rank among the worst in US for speeding",
+      "link": "https://www.9news.com/article/news/community/transportation/colorado-drivers-rank-worst-speeders/73-b9379e17-806b-425a-a29b-ee3f1b41c9cf",
+      "source": "9News",
+      "pub_date": "2026-09-30T15:18:00+00:00",
+      "age_hours": 1.4581619063888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Bifrost Electronics appoints Doug Campbell as CEO",
+      "link": "https://bizwest.com/2026/09/30/bifrost-electronics-appoints-doug-campbell-as-ceo/",
+      "source": "BizWest",
+      "pub_date": "2026-09-30T13:47:05+00:00",
+      "age_hours": 2.9729099880555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "PAULS Acquires Award-Winning Regency Plaza",
+      "link": "https://milehighcre.com/pauls-acquires-award-winning-regency-plaza/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-30T13:28:36+00:00",
+      "age_hours": 3.2812333474999997,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "As Design Workshop Evolves, New Brand and Website",
+      "link": "https://milehighcre.com/as-design-workshop-evolves-new-brand-and-website/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-30T13:25:00+00:00",
+      "age_hours": 3.341233354722222,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "US economy grew a solid 2.2% in the second quarter, government says",
+      "link": "https://www.coloradopolitics.com/2026/09/30/us-economy-grew-a-solid-2-2-in-the-second-quarter-government-says/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-30T13:08:11+00:00",
+      "age_hours": 3.625953835833333,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Republicans say they learned from Biden\u2019s mistakes on issue of economy",
+      "link": "https://www.coloradopolitics.com/2026/09/30/republicans-say-they-learned-from-bidens-mistakes-on-issue-of-economy/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-30T12:58:15+00:00",
+      "age_hours": 3.791509403611111,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "'Polar Express Train Ride' returns to Colorado for holiday season",
+      "link": "https://www.9news.com/article/life/holidays/holiday-guide/polar-express-train-ride-colorado/73-b0dc4da8-f740-4a6d-8227-7b8b8a3aae26",
+      "source": "9News",
+      "pub_date": "2026-09-30T12:32:55+00:00",
+      "age_hours": 4.209550855,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
       "link": "https://www.9news.com/article/news/nation-world/trump-vows-to-never-stifle-ai-as-leading-executives-urge-caution/616-7d1f3dbe-dfdb-45c5-9e38-3507078d614f",
       "source": "9News",
       "pub_date": "2026-09-30T10:52:01+00:00",
-      "age_hours": 0.0877209025,
+      "age_hours": 5.891217584166666,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Ballot Issue 7A: Front Range voters will weigh sales tax hike to pay for passenger train service",
       "link": "https://coloradosun.com/2026/09/30/ballot-issue-7a-front-range-voters-will-weigh-sales-tax-hike-to-pay-for-passenger-train-service/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-30T10:08:00+00:00",
-      "age_hours": 0.8211198730555556,
-      "breaking": true,
-      "time_ago": "49 min ago"
+      "age_hours": 6.6246677625,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado\u2019s only active gold mine generated $830 million in economic activity last year, report finds",
       "link": "https://coloradosun.com/2026/09/30/cripple-creek-victor-gold-mine-economic-impact-study/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-30T10:03:00+00:00",
-      "age_hours": 0.9044532402777777,
-      "breaking": true,
-      "time_ago": "54 min ago"
+      "age_hours": 6.708001127222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Why this may be the best week of the year to buy a home",
       "link": "https://www.9news.com/article/money/markets/real-estate/best-week-to-buy-homes/73-71b1a522-6787-434f-9941-2f6556a01004",
       "source": "9News",
       "pub_date": "2026-09-30T09:39:48+00:00",
-      "age_hours": 1.291332051111111,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.094828714444445,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Proposition 137: $175M in existing Colorado tax revenue would be routed to conservation, wildfire mitigation",
       "link": "https://coloradosun.com/2026/09/30/proposition-137-colorado-conservation-wildfire-funding/",
       "source": "Colorado Sun",
       "pub_date": "2026-09-30T09:30:00+00:00",
-      "age_hours": 1.4544536033333333,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Brach's is releasing a candy corn perfume. Here's when to get it.",
-      "link": "https://www.9news.com/article/news/nation-world/brachs-candy-corn-perfume-release/507-c938bf44-f2f1-4a6e-a695-5d8dfc7c4dab",
-      "source": "9News",
-      "pub_date": "2026-09-30T00:51:10+00:00",
-      "age_hours": 10.101887711388889,
+      "age_hours": 7.258001501111111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
-      "title": "Daughtry adds Denver stop to second leg of '20 Years Unplugged' tour",
-      "link": "https://kdvr.com/denver-guide/daughtry-adds-denver-stop-to-second-leg-of-20-years-unplugged-tour/",
+      "title": "Denver Water warns customers of hefty fines for violating watering restrictions",
+      "link": "https://kdvr.com/news/local/denver-water-warns-customers-of-hefty-fines-for-violating-watering-restrictions/",
       "source": "Fox31",
-      "pub_date": "2026-09-30T00:19:09+00:00",
-      "age_hours": 10.635801536944445,
+      "pub_date": "2026-09-30T02:33:15+00:00",
+      "age_hours": 14.204373407222223,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Spirit Christmas opening new locations this holiday season: See the full list",
-      "link": "https://www.9news.com/article/news/nation-world/spirit-christmas-locations-2026-full-list/507-e1168795-4e33-4e66-b6e5-837c18a5f9cf",
-      "source": "9News",
-      "pub_date": "2026-09-29T23:32:28+00:00",
-      "age_hours": 11.413554389722222,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Vail Resort's Epic Pass sales drop sharply after poor winter",
-      "link": "https://www.9news.com/article/money/business/epic-pass-sales-drop-vail-resorts/73-b49c4d7b-ea4d-47ae-8e7a-225d2de6baed",
-      "source": "9News",
-      "pub_date": "2026-09-29T23:15:34+00:00",
-      "age_hours": 11.695221098333334,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver Water bans lawn watering starting Thursday, warns of hefty fines for violators",
-      "link": "https://www.9news.com/article/tech/science/environment/denver-water-bans-lawn-watering-thursday-warns-of-hefty-fines-for-violators/73-11e77736-6d87-4cd2-99ee-392223677cb8",
-      "source": "9News",
-      "pub_date": "2026-09-29T23:15:02+00:00",
-      "age_hours": 11.7041099925,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Evergreen businesses ready for relief as Highway 74 work nears finish",
-      "link": "https://kdvr.com/news/local/evergreen-businesses-ready-for-relief-as-highway-74-work-nears-finish/",
-      "source": "Fox31",
-      "pub_date": "2026-09-29T22:41:18+00:00",
-      "age_hours": 12.266634820277778,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Capitol Hill police station gets $68M from City Council as calls for more housing fall flat",
       "link": "https://denverite.com/2026/09/29/capitol-hill-police-station-funding-no-housing/",
       "source": "Denverite",
       "pub_date": "2026-09-29T22:12:17+00:00",
-      "age_hours": 12.74985442861111,
+      "age_hours": 18.553338231944444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Lawsuit links DIA runway death to failures in airport security and mental health care",
       "link": "https://www.cpr.org/2026/09/29/denver-airport-runway-death-lawsuit/",
       "source": "CPR",
       "pub_date": "2026-09-29T21:05:17+00:00",
-      "age_hours": 13.866567755555556,
+      "age_hours": 19.67005035027778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
+    },
+    {
+      "title": "Proposed ballot issues could curb Weld data centers",
+      "link": "https://bizwest.com/2026/09/29/proposed-ballot-issues-could-curb-weld-data-centers/",
+      "source": "BizWest",
+      "pub_date": "2026-09-29T21:01:33+00:00",
+      "age_hours": 19.731799445555556,
+      "breaking": false,
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Crews break ground on highly-anticipated pedestrian bridge over Parker Road in Aurora",
       "link": "https://kdvr.com/news/local/crews-break-ground-on-highly-anticipated-pedestrian-bridge-over-parker-road-in-aurora/",
       "source": "Fox31",
       "pub_date": "2026-09-29T20:16:51+00:00",
-      "age_hours": 14.67413475,
+      "age_hours": 20.47770681111111,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Aurora considers second massive data center proposal near Aurora Highlands",
-      "link": "https://sentinelcolorado.com/sentinel-biz-news/aurora-considers-second-massive-data-center-proposal-near-aurora-highlands/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-29T20:12:00+00:00",
-      "age_hours": 14.755187226666665,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Americans\u2019 view of the economy sinks to the lowest level since 2014, Conference Board survey says",
-      "link": "https://sentinelcolorado.com/nation-world/americans-view-of-the-economy-sinks-to-the-lowest-level-since-2014-conference-board-survey-says/",
-      "source": "Sentinel",
-      "pub_date": "2026-09-29T20:08:07+00:00",
-      "age_hours": 14.819909711944444,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "State awards $1M grant for human-bear conflict mitigation",
-      "link": "https://www.coloradopolitics.com/2026/09/29/state-awards-1-million-grant-for-human-bear-conflict-mitigation/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-29T19:25:42+00:00",
-      "age_hours": 15.526836679722223,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "RTD reduces A Line service to airport by half because of construction",
-      "link": "https://kdvr.com/news/local/rtd-reduces-a-line-service-to-airport-by-half-because-of-construction/",
-      "source": "Fox31",
-      "pub_date": "2026-09-29T18:35:46+00:00",
-      "age_hours": 16.358857133333334,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "US ban on $1 billion worth of Canadian liquor, dairy, goes into effect",
-      "link": "https://www.coloradopolitics.com/2026/09/29/us-ban-on-1-billion-worth-of-canadian-liquor-dairy-goes-into-effect/",
-      "source": "CO Politics",
-      "pub_date": "2026-09-29T17:06:58+00:00",
-      "age_hours": 17.839058936944443,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "First look: What\u2019s old is new again at The Fort\u2019s new whiskey library",
-      "link": "https://www.westword.com/food-drink/the-fort-morrison-new-whiskey-library-40924097/",
-      "source": "Westword",
-      "pub_date": "2026-09-29T17:00:00-06:00",
-      "age_hours": 11.955049959722222,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "20 hrs ago"
     }
   ]
 }
