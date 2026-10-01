@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-09-30",
-  "fetched_at": "2026-09-30 21:16:30",
+  "fetched_date": "2026-10-01",
+  "fetched_at": "2026-10-01 01:07:47",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "A 'Word of Thanks' from Next: Helping provide temporary housing and support services for families",
+      "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/word-of-thanks-next/73-c9bcc07a-7413-4074-88ad-f9fed07a1c72",
+      "source": "9News",
+      "pub_date": "2026-09-30T23:50:52+00:00",
+      "age_hours": 1.2736574066666668,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Changes to Medicaid and SNAP go into effect Oct. 1",
+      "link": "https://www.coloradopolitics.com/2026/09/30/changes-medicaid-snap-go-into-effect-colorado/",
+      "source": "CO Politics",
+      "pub_date": "2026-09-30T23:26:15+00:00",
+      "age_hours": 1.6881469969444445,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Pediatric cancer patient and family share story of hospital stays in Denver",
+      "link": "https://kdvr.com/news/local/pediatric-cancer-patient-and-family-share-story-of-hospital-stays-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-09-30T22:28:28+00:00",
+      "age_hours": 2.6472561872222222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "$5K reward offered for information on murder of 16-year-old in Aurora",
+      "link": "https://kdvr.com/news/local/5k-reward-offered-for-information-on-murder-of-16-year-old-in-aurora/",
+      "source": "Fox31",
+      "pub_date": "2026-09-30T22:03:15+00:00",
+      "age_hours": 3.0675338883333336,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "UDG Celebrates the Groundbreaking of Ponderosa Pines",
+      "link": "https://milehighcre.com/udg-celebrates-the-groundbreaking-of-ponderosa-pines/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-30T21:28:58+00:00",
+      "age_hours": 3.638281983611111,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Unidentified girl injured by \u2018grazing\u2019 gunshot wound Tuesday in Aurora apartment parking lot",
       "link": "https://sentinelcolorado.com/metro/unidentified-girl-injured-by-grazing-gunshot-wound-tuesday-in-aurora-apartment-parking-lot/",
       "source": "Sentinel",
       "pub_date": "2026-09-30T21:14:56+00:00",
-      "age_hours": 0.02205507777777778,
+      "age_hours": 3.8768414791666665,
       "breaking": true,
-      "time_ago": "1 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Phil Weiser sues feds to stop them from opening new ICE detention center in Hudson",
       "link": "https://sentinelcolorado.com/metro/phil-weiser-sues-feds-to-stop-them-from-opening-new-ice-detention-center-in-hudson/",
       "source": "Sentinel",
       "pub_date": "2026-09-30T20:04:38+00:00",
-      "age_hours": 1.1937219288888887,
+      "age_hours": 5.048508293888889,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Trump\u2019s shift from \u2018Housing First\u2019 is causing upheaval for homelessness programs and many they serve",
       "link": "https://sentinelcolorado.com/uncategorized/trumps-shift-from-housing-first-is-causing-upheaval-for-homelessness-programs-and-many-they-serve/",
       "source": "Sentinel",
       "pub_date": "2026-09-30T19:52:42+00:00",
-      "age_hours": 1.3926111208333332,
+      "age_hours": 5.247397399444444,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Griffis Residential Secures $86M Refinancing for Denver Property",
       "link": "https://milehighcre.com/griffis-residential-secures-86m-refinancing-for-denver-property/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-30T19:43:18+00:00",
-      "age_hours": 1.548138881388889,
+      "age_hours": 5.399393110555556,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "K9 finds three missing Denver kids",
       "link": "https://kdvr.com/news/local/k9-finds-three-missing-denver-kids/",
       "source": "Fox31",
       "pub_date": "2026-09-30T19:29:34+00:00",
-      "age_hours": 1.7777018500000001,
+      "age_hours": 5.6289228272222225,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Ali Hazelwood\u2019s 'The Love Hypothesis' is getting a sequel. Here\u2019s what to know",
       "link": "https://www.9news.com/article/news/nation-world/ali-hazelwood-the-love-hypothesis-sequel/507-614bf510-220b-4bc4-a355-dd504ab0a921",
       "source": "9News",
       "pub_date": "2026-09-30T18:48:51+00:00",
-      "age_hours": 2.456150348888889,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.3072685788888885,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Zoox robotaxis to test winter driving conditions in Denver",
       "link": "https://www.9news.com/article/money/business/amazon-zoox-robotaxi-testing-winter-driving-conditions/73-86f062a4-6d2d-46f4-9d28-8dcdc046b26f",
       "source": "9News",
       "pub_date": "2026-09-30T17:03:00+00:00",
-      "age_hours": 4.2203170475,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 8.071435271666667,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Aurora ordinance targets concentration of high-risk businesses in lower-income neighborhoods",
       "link": "https://www.denver7.com/news/local-news/in-your-community/aurora-arapahoe-county/aurora-ordinance-targets-concentration-of-high-risk-businesses-in-lower-income-neighborhoods",
       "source": "Denver7",
       "pub_date": "2026-09-30T16:48:26+00:00",
-      "age_hours": 4.463222256666667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 8.314318363333333,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "New nonstop service launching between Denver and Dallas area",
       "link": "https://www.9news.com/article/travel/denver-international-airport/avelo-airlines-nonstop-service-flights-denver-dallas-mckinney-airports/73-a7cb337a-880b-45a9-bc79-a97084954847",
       "source": "9News",
       "pub_date": "2026-09-30T16:15:28+00:00",
-      "age_hours": 5.012539314166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.863657523055556,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver Construction Costs Rise 4.55% Amid Split Market Conditions",
       "link": "https://milehighcre.com/denver-construction-costs-rise-4-55-amid-split-market-conditions/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-30T16:01:07+00:00",
-      "age_hours": 5.251194452777777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Nederland officials seek state help to keep town's Eldora deal alive",
-      "link": "https://www.9news.com/article/money/business/nederland-officials-seek-state-help-to-keep-towns-eldora-deal-alive/73-9d105657-65b2-410a-90fd-7874e4de91f5",
-      "source": "9News",
-      "pub_date": "2026-09-30T15:25:06+00:00",
-      "age_hours": 5.8519838108333335,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Colorado drivers rank among the worst in US for speeding",
-      "link": "https://www.9news.com/article/news/community/transportation/colorado-drivers-rank-worst-speeders/73-b9379e17-806b-425a-a29b-ee3f1b41c9cf",
-      "source": "9News",
-      "pub_date": "2026-09-30T15:18:00+00:00",
-      "age_hours": 5.970317147777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.102448673055555,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "This Michelin-recommended restaurant\u2019s secret weapon? Mom\u2019s garden",
       "link": "https://www.westword.com/food-drink/denver-wildflower-restaurant-aiden-tibbetts-intervi-40941085/",
       "source": "Westword",
       "pub_date": "2026-09-30T13:32:00-06:00",
-      "age_hours": 1.7374147241666666,
+      "age_hours": 5.588665288333334,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "PAULS Acquires Award-Winning Regency Plaza",
       "link": "https://milehighcre.com/pauls-acquires-award-winning-regency-plaza/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-30T13:28:36+00:00",
-      "age_hours": 7.793138905555556,
+      "age_hours": 11.644393123333332,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "As Design Workshop Evolves, New Brand and Website",
       "link": "https://milehighcre.com/as-design-workshop-evolves-new-brand-and-website/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-30T13:25:00+00:00",
-      "age_hours": 7.853138922777778,
+      "age_hours": 11.704393126944446,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "US economy grew a solid 2.2% in the second quarter, government says",
       "link": "https://www.coloradopolitics.com/2026/09/30/us-economy-grew-a-solid-2-2-in-the-second-quarter-government-says/",
       "source": "CO Politics",
       "pub_date": "2026-09-30T13:08:11+00:00",
-      "age_hours": 8.134516040277777,
+      "age_hours": 11.989258218055555,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Republicans say they learned from Biden\u2019s mistakes on issue of economy",
       "link": "https://www.coloradopolitics.com/2026/09/30/republicans-say-they-learned-from-bidens-mistakes-on-issue-of-economy/",
       "source": "CO Politics",
       "pub_date": "2026-09-30T12:58:15+00:00",
-      "age_hours": 8.300071607222222,
+      "age_hours": 12.15481377861111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "'Polar Express Train Ride' returns to Colorado for holiday season",
-      "link": "https://www.9news.com/article/life/holidays/holiday-guide/polar-express-train-ride-colorado/73-b0dc4da8-f740-4a6d-8227-7b8b8a3aae26",
-      "source": "9News",
-      "pub_date": "2026-09-30T12:32:55+00:00",
-      "age_hours": 8.721706082777779,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Ballot Issue 7A: Front Range voters will weigh sales tax hike to pay for passenger train service",
-      "link": "https://coloradosun.com/2026/09/30/ballot-issue-7a-explained-colorado-train-tax/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-09-30T10:08:00+00:00",
-      "age_hours": 11.136573470277776,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Colorado\u2019s only active gold mine generated $830 million in economic activity last year, report finds",
-      "link": "https://coloradosun.com/2026/09/30/cripple-creek-victor-gold-mine-economic-impact-study/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-09-30T10:03:00+00:00",
-      "age_hours": 11.219906837222222,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "12 hrs ago"
     }
   ]
 }
