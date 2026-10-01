@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-01",
-  "fetched_at": "2026-10-01 16:04:37",
+  "fetched_at": "2026-10-01 21:36:35",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "Rob Bonta subpoenas OpenAI over Hugging Face hack",
+      "link": "https://www.coloradopolitics.com/2026/10/01/rob-bonta-subpoenas-openai-over-hugging-face-hack/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-01T20:30:03+00:00",
+      "age_hours": 1.1047848133333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver Summit FC Breaks Ground at Santa Fe Yards",
+      "link": "https://milehighcre.com/denver-summit-fc-breaks-ground-at-santa-fe-yards/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-01T20:02:50+00:00",
+      "age_hours": 1.5533378133333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver women\u2019s soccer team breaks ground on delayed stadium",
+      "link": "https://coloradosun.com/2026/10/01/summit-fc-breaks-ground-on-new-stadium-in-denver/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-01T19:16:54+00:00",
+      "age_hours": 2.319479055,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "The ABCs of HVAC Commissioning for Historic Buildings",
+      "link": "https://milehighcre.com/the-abcs-of-hvac-commissioning-for-historic-buildings/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-01T18:46:45+00:00",
+      "age_hours": 2.821393801388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "From Perception to Progress: What\u2019s Really Happening Downtown?",
+      "link": "https://milehighcre.com/from-perception-to-progress-whats-really-happening-downtown/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-01T18:13:10+00:00",
+      "age_hours": 3.3811160366666666,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Federal scholarships for  private schools, homeschooling open",
+      "link": "https://www.coloradopolitics.com/2026/10/01/federal-scholarships-for-private-schools-homeschooling-open-5/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-01T16:28:50+00:00",
+      "age_hours": 5.125062635833333,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "The Red Clay Strays announce 'Grateful Tour' stop at Colorado amphitheater",
+      "link": "https://www.9news.com/article/entertainment/music/colorado-music/the-red-clay-strays-grateful-tour-fiddlers-green/73-15ced2d6-c1dd-4a02-84a5-9bc7c76979f9",
+      "source": "9News",
+      "pub_date": "2026-10-01T16:13:32+00:00",
+      "age_hours": 5.375765960277778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Fire on the Mountain opens third Denver location",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/fire-on-the-mountain-third-denver-location/73-f3fbede5-d21b-4f93-a46a-b827e9c8f594",
+      "source": "9News",
+      "pub_date": "2026-10-01T15:15:45+00:00",
+      "age_hours": 6.338821523888888,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "What to do in Colorado this week: TED Talks in Breckenridge, Original Thinkers in Telluride and free music in Denver",
       "link": "https://coloradosun.com/2026/10/01/what-to-do-in-colorado-ted-talk-breckenridge/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-01T14:00:00+00:00",
-      "age_hours": 2.0689256916666667,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Amp Robotics scores $70M loan to build Virginia waste-sorting facility",
-      "link": "https://bizwest.com/2026/10/01/amp-robotics-scores-70m-loan-to-build-virginia-waste-sorting-facility/",
-      "source": "BizWest",
-      "pub_date": "2026-10-01T13:12:57+00:00",
-      "age_hours": 2.852716491111111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Weld County citizens file petitions to challenge global AI data center",
-      "link": "https://sentinelcolorado.com/metro/weld-county-citizens-file-petitions-to-challenge-global-ai-data-center/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-01T12:46:11+00:00",
-      "age_hours": 3.3039208161111113,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.601145797777778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado bakeries have a good reason to bet on local grains despite rising food costs",
       "link": "https://coloradosun.com/2026/10/01/local-grain-flour-bakeries-colorado-bake-fest/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-01T10:15:00+00:00",
-      "age_hours": 5.8189262425,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.3511463275,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado PERA\u2019s bonuses were modeled after much larger pensions",
       "link": "https://coloradosun.com/2026/10/01/colorado-pera-bonuses-modeled-larger-pensions/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-01T10:00:00+00:00",
-      "age_hours": 6.068926831388889,
+      "age_hours": 11.601146873611112,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver artist Danielle SeeWalker paints murals with Palestinians in West Bank",
       "link": "https://www.cpr.org/2026/10/01/denver-artist-danielle-seewalker-palestine-murals/",
       "source": "CPR",
       "pub_date": "2026-10-01T10:00:00+00:00",
-      "age_hours": 6.068990433888889,
+      "age_hours": 11.601273757500001,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver library closed following HAZMAT investigation, fentanyl-mixed substance found",
       "link": "https://kdvr.com/news/local/denver-library-closed-following-hazmat-investigation-fentanyl-mixed-substance-found/",
       "source": "Fox31",
       "pub_date": "2026-10-01T02:10:19+00:00",
-      "age_hours": 13.901483316944445,
+      "age_hours": 19.429622912777777,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Changes to Medicaid and SNAP go into effect Oct. 1",
       "link": "https://www.coloradopolitics.com/2026/09/30/changes-medicaid-snap-go-into-effect-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-09-30T23:26:15+00:00",
-      "age_hours": 16.63612614361111,
+      "age_hours": 22.168118296666666,
       "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Pediatric cancer patient and family share story of hospital stays in Denver",
-      "link": "https://kdvr.com/news/local/pediatric-cancer-patient-and-family-share-story-of-hospital-stays-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-09-30T22:28:28+00:00",
-      "age_hours": 17.598983398888887,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "$5K reward offered for information on murder of 16-year-old in Aurora",
       "link": "https://kdvr.com/news/local/5k-reward-offered-for-information-on-murder-of-16-year-old-in-aurora/",
       "source": "Fox31",
       "pub_date": "2026-09-30T22:03:15+00:00",
-      "age_hours": 18.01926102138889,
+      "age_hours": 23.547400764444443,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Coloradans find it\u2019s a lot harder to find jobs now \u2014 even if qualified",
       "link": "https://www.coloradopolitics.com/2026/09/30/coloradans-find-its-a-lot-harder-to-find-jobs-now-even-if-qualified/",
       "source": "CO Politics",
       "pub_date": "2026-09-30T21:37:55+00:00",
-      "age_hours": 18.441681818055557,
+      "age_hours": 23.973673960833334,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "UDG Celebrates the Groundbreaking of Ponderosa Pines",
       "link": "https://milehighcre.com/udg-celebrates-the-groundbreaking-of-ponderosa-pines/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-30T21:28:58+00:00",
-      "age_hours": 18.58603606222222,
+      "age_hours": 24.117783269722224,
       "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Boulder\u2019s pedal-cab licensing regs in effect as of Saturday",
-      "link": "https://bizwest.com/2026/09/30/boulders-pedal-cab-licensing-regs-in-effect-as-of-saturday/",
-      "source": "BizWest",
-      "pub_date": "2026-09-30T20:24:13+00:00",
-      "age_hours": 19.66493929611111,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Horizon Family Brands elevates chief customer officer",
-      "link": "https://bizwest.com/2026/09/30/horizon-family-brands-elevates-chief-customer-officer/",
-      "source": "BizWest",
-      "pub_date": "2026-09-30T20:19:51+00:00",
-      "age_hours": 19.737717113055556,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Brewer brings back Oktoberfest in Loveland",
-      "link": "https://bizwest.com/2026/09/30/brewer-brings-back-oktoberfest-in-loveland/",
-      "source": "BizWest",
-      "pub_date": "2026-09-30T20:14:36+00:00",
-      "age_hours": 19.825217142777777,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "CSU unveils larger veterinary teaching hospital",
-      "link": "https://bizwest.com/2026/09/30/csu-unveils-larger-veterinary-teaching-hospital/",
-      "source": "BizWest",
-      "pub_date": "2026-09-30T20:06:07+00:00",
-      "age_hours": 19.966606061666667,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Colorado bankruptcies climb 16% in August",
-      "link": "https://bizwest.com/2026/09/30/colorado-bankruptcies-climb-16-in-august/",
-      "source": "BizWest",
-      "pub_date": "2026-09-30T20:00:44+00:00",
-      "age_hours": 20.056328295,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Griffis Residential Secures $86M Refinancing for Denver Property",
       "link": "https://milehighcre.com/griffis-residential-secures-86m-refinancing-for-denver-property/",
       "source": "Mile High CRE",
       "pub_date": "2026-09-30T19:43:18+00:00",
-      "age_hours": 20.347147208611112,
+      "age_hours": 25.8788943925,
       "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "K9 finds three missing Denver kids",
-      "link": "https://kdvr.com/news/local/k9-finds-three-missing-denver-kids/",
-      "source": "Fox31",
-      "pub_date": "2026-09-30T19:29:34+00:00",
-      "age_hours": 20.580650143055557,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Aurora ordinance targets concentration of high-risk businesses in lower-income neighborhoods",
       "link": "https://www.denver7.com/news/local-news/in-your-community/aurora-arapahoe-county/aurora-ordinance-targets-concentration-of-high-risk-businesses-in-lower-income-neighborhoods",
       "source": "Denver7",
       "pub_date": "2026-09-30T16:48:26+00:00",
-      "age_hours": 23.26604540111111,
+      "age_hours": 28.79420922111111,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Denver Construction Costs Rise 4.55% Amid Split Market Conditions",
+      "link": "https://milehighcre.com/denver-construction-costs-rise-4-55-amid-split-market-conditions/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-09-30T16:01:07+00:00",
+      "age_hours": 29.581949958611112,
+      "breaking": false,
+      "time_ago": "1 day ago"
     }
   ]
 }
