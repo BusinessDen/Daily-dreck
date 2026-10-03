@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-03",
-  "fetched_at": "2026-10-03 00:12:47",
+  "fetched_at": "2026-10-03 06:07:12",
   "article_count": 20,
-  "breaking_count": 11,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver eyes more locations where it can use red light cameras, photo radar",
+      "link": "https://www.9news.com/article/news/politics/denver-colorado-fines-red-light-cameras/73-c6605317-f188-4acf-ab67-1a44943847f0",
+      "source": "9News",
+      "pub_date": "2026-10-03T04:45:06+00:00",
+      "age_hours": 1.3639377430555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Football: Aurora 2026 Week 6 scoreboard, schedule",
+      "link": "https://sentinelcolorado.com/sports/preps/football-aurora-2026-week-6-scoreboard-schedule/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-03T04:04:00+00:00",
+      "age_hours": 2.049368772777778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Victor Marx campaign receives one of the largest fines in state history",
+      "link": "https://coloradosun.com/2026/10/02/victor-marx-campaign-receives-one-of-the-largest-fines-in-colorado-history/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-03T01:23:06+00:00",
+      "age_hours": 4.730426903611112,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "International Taco Bell 50K Ultramarathon returns to Denver",
       "link": "https://kdvr.com/denver-guide/international-taco-bell-50k-ultramarathon-returns-to-denver/",
       "source": "Fox31",
       "pub_date": "2026-10-02T23:27:02+00:00",
-      "age_hours": 0.7520560252777778,
-      "breaking": true,
-      "time_ago": "45 min ago"
-    },
-    {
-      "title": "Davis: You know what you\u2019ve built \u2014 is it enough?",
-      "link": "https://bizwest.com/2026/10/02/davis-you-know-what-youve-built-is-it-enough/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T23:20:00+00:00",
-      "age_hours": 0.8681007686111111,
-      "breaking": true,
-      "time_ago": "52 min ago"
-    },
-    {
-      "title": "Big decisions loom for Erie\u2019s new leaders",
-      "link": "https://bizwest.com/2026/10/02/big-decisions-loom-for-eries-new-leaders/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T23:16:00+00:00",
-      "age_hours": 0.9347674505555555,
-      "breaking": true,
-      "time_ago": "56 min ago"
+      "age_hours": 6.6651967688888885,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Man sentenced to prison for role in puppy theft at Centennial pet store",
       "link": "https://kdvr.com/news/local/man-sentenced-to-prison-for-role-in-puppy-theft-at-centennial-pet-store/",
       "source": "Fox31",
       "pub_date": "2026-10-02T21:37:04+00:00",
-      "age_hours": 2.5848338702777776,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Loveland data center discussions continued at least through August",
-      "link": "https://bizwest.com/2026/10/02/loveland-data-center-discussions-continued-at-least-through-august/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T20:58:08+00:00",
-      "age_hours": 3.232545806944444,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Pessimism persists among Colorado biz leaders",
-      "link": "https://bizwest.com/2026/10/02/pessimism-persists-among-colorado-biz-leaders/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T20:21:19+00:00",
-      "age_hours": 3.8461569525,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.49797462361111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "SENTINEL MUSE: Fall hard for fun and thrills inside and out in and near Aurora",
       "link": "https://sentinelcolorado.com/uncategorized/sentinel-muse-fall-hard-for-fun-and-thrills-inside-and-out-in-and-near-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-10-02T19:46:15+00:00",
-      "age_hours": 4.43194101,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Boulder Medical Center eyes redevelopment of site into apartments",
-      "link": "https://bizwest.com/2026/10/02/boulder-medical-center-eyes-redevelopment-of-site-into-apartments/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T19:30:13+00:00",
-      "age_hours": 4.6978236494444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.345202539722221,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Weiser joins lawsuit challenging new federal fuel economy standards",
       "link": "https://www.coloradopolitics.com/2026/10/02/weiser-joins-lawsuit-challenging-new-fuel-economy-standards/",
       "source": "CO Politics",
       "pub_date": "2026-10-02T18:54:27+00:00",
-      "age_hours": 5.2952620419444445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.208501699444446,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Health problems reported after Colorado cannabis vaporizer recall",
       "link": "https://mjbizdaily.com/news/health-problems-reported-after-colorado-cannabis-vaporizer-recall/618431/",
       "source": "MJBizDaily",
       "pub_date": "2026-10-02T18:27:50+00:00",
-      "age_hours": 5.746850286388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.653224631666667,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Vance embodies Nixon\u2019s populist, outsider qualities",
       "link": "https://www.coloradopolitics.com/2026/10/02/vance-embodies-nixons-populist-outsider-qualities/",
       "source": "CO Politics",
       "pub_date": "2026-10-02T16:59:40+00:00",
-      "age_hours": 7.208317701388889,
+      "age_hours": 13.1215573525,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Boulder\u2019s Pearl West building trades for nearly $57M",
-      "link": "https://bizwest.com/2026/10/02/boulders-pearl-west-building-trades-for-nearly-57m/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T16:54:58+00:00",
-      "age_hours": 7.285323655555556,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "USPS hosting largest processing plant hiring effort in more than a decade",
       "link": "https://www.9news.com/article/money/business/processing-plant-hiring-jobs-fair-hiring-denver-postal-service/73-c6134e90-a009-4a67-bfe3-b835921c8d21",
       "source": "9News",
       "pub_date": "2026-10-02T16:52:29+00:00",
-      "age_hours": 7.327189147222222,
+      "age_hours": 13.2408823625,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Restaurants express cautious optimism as Colfax emerges from BRT \u2018nightmare\u2019",
       "link": "https://www.westword.com/food-drink/colfax-brt-opening-restaurant-reactions-denver-40942279/",
       "source": "Westword",
       "pub_date": "2026-10-02T16:28:48-06:00",
-      "age_hours": 1.722650945,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Burger slider chain opening 2nd Colorado location",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/smalls-sliders-opens-new-colorado-location/73-a09fde8a-5b97-4e68-a388-fd67e3fa7046",
-      "source": "9News",
-      "pub_date": "2026-10-02T15:50:36+00:00",
-      "age_hours": 8.358578106388888,
+      "age_hours": 7.635865090833333,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver travel disruptions: Speer Boulevard, Broadway road closures this weekend",
-      "link": "https://www.9news.com/article/news/community/transportation/denver-closure-speer-boulevard-franklin-road-updates/73-f99612b3-cbe0-437b-abd5-4535814d4f70",
-      "source": "9News",
-      "pub_date": "2026-10-02T15:31:50+00:00",
-      "age_hours": 8.671355960277777,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Los Dos Potrillos plans Loveland restaurant",
-      "link": "https://bizwest.com/2026/10/02/los-dos-potrillos-plans-loveland-restaurant/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T13:27:59+00:00",
-      "age_hours": 10.735045911944445,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Amendment 87 | Graduated income tax rate",
       "link": "https://www.coloradopolitics.com/2026/10/02/graduated-income-tax-colorado-amendment-87/",
       "source": "CO Politics",
       "pub_date": "2026-10-02T11:00:00+00:00",
-      "age_hours": 13.202762279166667,
+      "age_hours": 19.1160019475,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Proposition NN | Allow state to keep, spend all money collected",
       "link": "https://www.coloradopolitics.com/2026/10/02/tabor-refunds-proposition-nn-colorado/",
       "source": "CO Politics",
       "pub_date": "2026-10-02T11:00:00+00:00",
-      "age_hours": 13.20276235888889,
+      "age_hours": 19.11600202972222,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Proposition 136 | Capping the income tax rate at 4.4%",
       "link": "https://www.coloradopolitics.com/2026/10/02/income-tax-cap-colorado-proposition-136/",
       "source": "CO Politics",
       "pub_date": "2026-10-02T11:00:00+00:00",
-      "age_hours": 13.2027623925,
+      "age_hours": 19.116002058055557,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
+    },
+    {
+      "title": "Proposition 137 | Redirecting sporting goods sales tax revenue",
+      "link": "https://www.coloradopolitics.com/2026/10/02/sporting-goods-sales-tax-colorado-proposition-137/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-02T11:00:00+00:00",
+      "age_hours": 19.116002145277776,
+      "breaking": false,
+      "time_ago": "19 hrs ago"
+    },
+    {
+      "title": "State Treasurer | Grantham, Bridges, Barr seek top financial position",
+      "link": "https://www.coloradopolitics.com/2026/10/02/state-treasurer-grantham-bridges-barr-seek-top-financial-position-3/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-02T11:00:00+00:00",
+      "age_hours": 19.116002214166667,
+      "breaking": false,
+      "time_ago": "19 hrs ago"
+    },
+    {
+      "title": "Amendment 87: A graduated income tax would raise taxes on Colorado\u2019s highest earners",
+      "link": "https://coloradosun.com/2026/10/02/amendment-87-graduated-income-tax-colorado-voters-guide/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-02T10:00:00+00:00",
+      "age_hours": 20.115427660555554,
+      "breaking": false,
+      "time_ago": "20 hrs ago"
+    },
+    {
+      "title": "Why Leslie Jones, whose comedy career began in Fort Collins, is a terrible liar",
+      "link": "https://www.cpr.org/2026/10/02/comedian-leslie-jones-returns-to-colorado/",
+      "source": "CPR",
+      "pub_date": "2026-10-02T10:00:00+00:00",
+      "age_hours": 20.115553001388886,
+      "breaking": false,
+      "time_ago": "20 hrs ago"
+    },
+    {
+      "title": "Colorado halts lethal removal of problem wolves, sparking rural outcry",
+      "link": "https://www.coloradopolitics.com/2026/10/01/outtherecolorado/cpw-halts-removal-of-problem-wolves-sparking-rural-outcry/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-01T23:38:04+00:00",
+      "age_hours": 30.481557876944446,
+      "breaking": false,
+      "time_ago": "1 day ago"
+    },
+    {
+      "title": "Second large data center proposed for Aurora Highlands area",
+      "link": "https://www.coloradopolitics.com/2026/10/01/second-large-data-center-proposed-for-aurora-highlands-area/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-01T23:00:50+00:00",
+      "age_hours": 31.102113530555556,
+      "breaking": false,
+      "time_ago": "1 day ago"
     }
   ]
 }
