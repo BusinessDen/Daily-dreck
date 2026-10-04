@@ -1,132 +1,150 @@
 {
-  "fetched_date": "2026-10-03",
-  "fetched_at": "2026-10-03 23:33:56",
+  "fetched_date": "2026-10-04",
+  "fetched_at": "2026-10-04 04:46:48",
   "article_count": 20,
-  "breaking_count": 1,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Bison sculpture made by Native youth stolen while on statewide education tour",
+      "link": "https://kdvr.com/news/local/bison-sculpture-made-by-native-youth-stolen-while-on-statewide-education-tour/",
+      "source": "Fox31",
+      "pub_date": "2026-10-04T03:38:24+00:00",
+      "age_hours": 1.1358992447222223,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Police arrest teens, charge parent after fight involving nearly 250 teens at Illinois Raising Cane's",
+      "link": "https://www.9news.com/article/news/nation-world/illinois-police-arrest-teens-charge-parent-after-fight/507-cc4c8b86-bd5b-48f6-931a-ff6dae372812",
+      "source": "9News",
+      "pub_date": "2026-10-04T03:30:09+00:00",
+      "age_hours": 1.2727696480555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Gripped by Netflix's Lizzie Borden slasher? Here are haunted mansions in Colorado to checkout before Halloween",
       "link": "https://kdvr.com/news/local/gripped-by-netflixs-lizzie-borden-slasher-here-are-haunted-mansions-in-colorado-to-checkout-before-halloween/",
       "source": "Fox31",
       "pub_date": "2026-10-03T19:40:05+00:00",
-      "age_hours": 3.8935041216666666,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.107843761388889,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Nonprofit Spotlight: Colorado Horse Rescue",
       "link": "https://bizwest.com/2026/10/03/nonprofit-spotlight-colorado-horse-rescue/",
       "source": "BizWest",
       "pub_date": "2026-10-03T17:31:04+00:00",
-      "age_hours": 6.043007625277778,
+      "age_hours": 11.256895339166666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Person found dead near busy Broadway intersection",
       "link": "https://kdvr.com/news/local/person-found-dead-near-busy-broadway-intersection/",
       "source": "Fox31",
       "pub_date": "2026-10-03T14:29:21+00:00",
-      "age_hours": 9.072392937777778,
+      "age_hours": 14.28673253,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally",
       "link": "https://sentinelcolorado.com/nation-world/nation/a-gut-punch-in-ohio-nearly-1400-laid-off-at-truck-factory-just-days-before-trump-rally/",
       "source": "Sentinel",
       "pub_date": "2026-10-03T12:50:04+00:00",
-      "age_hours": 10.727321210833333,
+      "age_hours": 15.94166234638889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "The Supreme Court will hear a climate change case involving the devastating Marshall wildfire",
       "link": "https://sentinelcolorado.com/metro/the-supreme-court-will-hear-a-climate-change-case-involving-the-devastating-marshall-wildfire/",
       "source": "Sentinel",
       "pub_date": "2026-10-03T12:47:43+00:00",
-      "age_hours": 10.766488200833333,
+      "age_hours": 15.98082927527778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "George Gillett, whose\u00a0 ownership of Vail Associates helped modernize the ski resort industry, dies at 87",
       "link": "https://coloradosun.com/2026/10/03/george-gillett-obituary-vail-resorts-swift-hockey/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-03T10:24:00+00:00",
-      "age_hours": 13.161131532777777,
+      "age_hours": 18.375002542500003,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "22 Colorado ski swaps to help you save on winter gear",
       "link": "https://coloradosun.com/2026/10/03/colorado-ski-swaps-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-03T10:00:00+00:00",
-      "age_hours": 13.561131563333333,
+      "age_hours": 18.775002566666668,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "What\u2019s Working: Gov. Polis picks 91 Colorado regions for potentially billions in investment",
       "link": "https://coloradosun.com/2026/10/03/opportunity-zones-low-income-colorado-investors-tax-break/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-03T10:00:00+00:00",
-      "age_hours": 13.561131584444444,
+      "age_hours": 18.77500258111111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Proposition NN: Colorado TABOR refunds would be diverted to K-12 education",
       "link": "https://coloradosun.com/2026/10/03/proposition-nn-colorado-tabor-refunds-would-be-diverted-to-k-12-education/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-03T10:00:00+00:00",
-      "age_hours": 13.561131600277777,
+      "age_hours": 18.775002593333333,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 10.2.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-10-2-26/",
       "source": "Sentinel",
       "pub_date": "2026-10-03T05:00:00+00:00",
-      "age_hours": 18.561766093055557,
+      "age_hours": 23.776107163611112,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Denver eyes more locations where it can use red light cameras, photo radar",
       "link": "https://www.9news.com/article/news/politics/denver-colorado-fines-red-light-cameras/73-c6605317-f188-4acf-ab67-1a44943847f0",
       "source": "9News",
       "pub_date": "2026-10-03T04:45:06+00:00",
-      "age_hours": 18.809578106388887,
+      "age_hours": 24.02360306361111,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Football: Aurora 2026 Week 6 scoreboard, schedule",
       "link": "https://sentinelcolorado.com/sports/preps/football-aurora-2026-week-6-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-10-03T04:04:00+00:00",
-      "age_hours": 19.495099792777776,
+      "age_hours": 24.70944081027778,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Victor Marx\u2019s campaign receives one of the largest fines in state history",
       "link": "https://coloradosun.com/2026/10/02/victor-marx-campaign-receives-one-of-the-largest-fines-in-colorado-history/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-03T01:23:06+00:00",
-      "age_hours": 22.176131684166666,
+      "age_hours": 27.39000267777778,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "International Taco Bell 50K Ultramarathon returns to Denver",
       "link": "https://kdvr.com/denver-guide/international-taco-bell-50k-ultramarathon-returns-to-denver/",
       "source": "Fox31",
       "pub_date": "2026-10-02T23:27:02+00:00",
-      "age_hours": 24.111004215277777,
+      "age_hours": 29.325343824444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +153,7 @@
       "link": "https://bizwest.com/2026/10/02/davis-you-know-what-youve-built-is-it-enough/",
       "source": "BizWest",
       "pub_date": "2026-10-02T23:20:00+00:00",
-      "age_hours": 24.22745265055556,
+      "age_hours": 29.44134019722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://bizwest.com/2026/10/02/big-decisions-loom-for-eries-new-leaders/",
       "source": "BizWest",
       "pub_date": "2026-10-02T23:16:00+00:00",
-      "age_hours": 24.2941193275,
+      "age_hours": 29.508006871666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +171,7 @@
       "link": "https://kdvr.com/news/local/man-sentenced-to-prison-for-role-in-puppy-theft-at-centennial-pet-store/",
       "source": "Fox31",
       "pub_date": "2026-10-02T21:37:04+00:00",
-      "age_hours": 25.943782042777777,
+      "age_hours": 31.158121645833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,25 +180,7 @@
       "link": "https://bizwest.com/2026/10/02/loveland-data-center-discussions-continued-at-least-through-august/",
       "source": "BizWest",
       "pub_date": "2026-10-02T20:58:08+00:00",
-      "age_hours": 26.591897141388888,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Pessimism persists among Colorado biz leaders",
-      "link": "https://bizwest.com/2026/10/02/pessimism-persists-among-colorado-biz-leaders/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T20:21:19+00:00",
-      "age_hours": 27.205508284444445,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Boulder Medical Center eyes redevelopment of site into apartments",
-      "link": "https://bizwest.com/2026/10/02/boulder-medical-center-eyes-redevelopment-of-site-into-apartments/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T19:30:13+00:00",
-      "age_hours": 28.05717498055556,
+      "age_hours": 31.805784679166667,
       "breaking": false,
       "time_ago": "1 day ago"
     }
