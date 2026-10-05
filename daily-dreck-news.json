@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-05",
-  "fetched_at": "2026-10-05 08:32:13",
+  "fetched_at": "2026-10-05 18:02:25",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 13,
   "articles": [
     {
-      "title": "Two people wounded in a car shooting Saturday at an Aurora apartment complex",
-      "link": "https://sentinelcolorado.com/metro/two-people-wounded-in-a-car-shooting-saturday-at-an-aurora-apartment-complex/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-05T04:12:11+00:00",
-      "age_hours": 4.3302543233333335,
+      "title": "Here's who's running for Colorado Secretary of State in the 2026 election",
+      "link": "https://www.9news.com/article/news/politics/elections/heres-whos-running-for-colorado-secretary-of-state-2026-election/73-36c12cbe-3331-415c-a4b0-519e9429a8ec",
+      "source": "9News",
+      "pub_date": "2026-10-05T17:56:42+00:00",
+      "age_hours": 0.08659570277777778,
       "breaking": true,
-      "time_ago": "4 hrs ago"
+      "time_ago": "5 min ago"
     },
     {
-      "title": "Man seriously injured Sunday in shooting at Aurora apartment complex parking lot",
-      "link": "https://sentinelcolorado.com/metro/man-seriously-injured-sunday-in-shooting-at-aurora-apartment-complex-parking-lot/",
+      "title": "Spike in mortgage rates compounds inflation and debt woes",
+      "link": "https://www.coloradopolitics.com/2026/10/05/spike-in-mortgage-rates-compounds-inflation-and-debt-woes/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-05T17:29:29+00:00",
+      "age_hours": 0.5449154333333333,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
+    {
+      "title": "Bolsonaro and Lula head to a runoff in Brazil\u2019s presidential election",
+      "link": "https://sentinelcolorado.com/uncategorized/bolsonaro-and-lula-head-to-a-runoff-in-brazils-presidential-election/",
       "source": "Sentinel",
-      "pub_date": "2026-10-05T03:18:56+00:00",
-      "age_hours": 5.217754472499999,
+      "pub_date": "2026-10-05T17:03:50+00:00",
+      "age_hours": 0.9725221333333333,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
+    {
+      "title": "True Food Kitchen files for bankruptcy, closes 12 restaurants",
+      "link": "https://www.9news.com/article/news/nation-world/true-food-kitchen-files-bankruptcy-closes-12-restaurants/507-83f03b4a-cee6-4493-bf6f-f91c7faccac2",
+      "source": "9News",
+      "pub_date": "2026-10-05T16:40:38+00:00",
+      "age_hours": 1.3543735158333334,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver distillery plans $3M airport lounge",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-distillery-plans-3m-airport-lounge/73-e093a370-d039-4d2a-b5cf-6981b0f60686",
+      "source": "9News",
+      "pub_date": "2026-10-05T16:37:54+00:00",
+      "age_hours": 1.3999290916666667,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Top Iranian official admits dire state of the economy: Report",
+      "link": "https://www.coloradopolitics.com/2026/10/05/top-iranian-official-admits-dire-state-of-the-economy-report/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-05T16:37:21+00:00",
+      "age_hours": 1.4138043830555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Revel Strength & Wellness Marks Full Launch of Denver Health Collective",
+      "link": "https://milehighcre.com/revel-strength-wellness-marks-full-launch-of-denver-health-collective/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-05T15:50:54+00:00",
+      "age_hours": 2.1827910283333334,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "United launches year-round flights linking Denver and Moab",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-moab-utah-flights-united-airlines/73-3ffeb943-e7df-4e49-a078-61bf8561e935",
+      "source": "9News",
+      "pub_date": "2026-10-05T14:09:40+00:00",
+      "age_hours": 3.8704846849999996,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Westminster says its water is safe to drink despite taste and smell issues",
+      "link": "https://www.9news.com/article/news/health/westminster-water-safe-drink-taste-smell/73-2c67dd49-c1e1-45d9-8d0e-39d4fbbb3b0d",
+      "source": "9News",
+      "pub_date": "2026-10-05T14:05:18+00:00",
+      "age_hours": 3.9432624855555556,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Walmart delivery drones are coming to Colorado",
+      "link": "https://www.9news.com/article/money/business/walmart-delivery-drones-denver-seattle/73-05416c06-4973-43f5-a9c9-74e477783599",
+      "source": "9News",
+      "pub_date": "2026-10-05T13:00:41+00:00",
+      "age_hours": 5.020206974166666,
       "breaking": true,
       "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Live Nation seeks city approval to expand use of Denver music venue",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/live-nation-seeks-city-approval-to-expand-use-of-denver-music-venue/73-126d110e-014c-47ef-829a-eaec7e622aa0",
+      "source": "9News",
+      "pub_date": "2026-10-05T12:37:13+00:00",
+      "age_hours": 5.411318106944444,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Boulder kicks off major flood mitigation project",
+      "link": "https://www.9news.com/article/weather/weather-colorado/boulder-creek-major-flood-mitigation-project/73-fea6ded5-4929-4fb8-a850-ea0958fcda4d",
+      "source": "9News",
+      "pub_date": "2026-10-05T12:30:12+00:00",
+      "age_hours": 5.528262553888888,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Coming in hot: Absolut Tabasco spices up Denver\u2019s bar scene",
+      "link": "https://www.westword.com/sponsored/absolut-tabasco-spices-up-denver-bar-scene-40941331/",
+      "source": "Westword",
+      "pub_date": "2026-10-05T11:24:48-06:00",
+      "age_hours": 0.618608531111111,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Feel-good campaign can\u2019t fix what Dems have wrought | Dick Wadhams",
+      "link": "https://www.coloradopolitics.com/2026/10/05/feel-good-campaign-cant-fix-what-dems-have-wrought-dick-wadhams/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-05T11:00:00+00:00",
+      "age_hours": 7.036304428055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Colorado data center fight heads to Brighton next as opposition grows",
+      "link": "https://coloradosun.com/2026/10/05/colorado-data-center-fight-brighton-weld-county/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-05T10:08:00+00:00",
+      "age_hours": 7.897939017222223,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado\u2019s US Senate race",
+      "link": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-05T10:04:00+00:00",
+      "age_hours": 7.9646056963888885,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Knocking down buildings in Denver drags up bad memories, but empty office space drags on the economy",
+      "link": "https://denverite.com/2026/10/05/denver-office-demolition-history/",
+      "source": "Denverite",
+      "pub_date": "2026-10-05T10:00:00+00:00",
+      "age_hours": 8.031435931666667,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Where the candidates for Colorado state treasurer stand on the issues",
+      "link": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-05T09:58:00+00:00",
+      "age_hours": 8.0646059875,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Attention from national Democrats, Republicans signals Colorado\u2019s 3rd Congressional District race is in play",
+      "link": "https://coloradosun.com/2026/10/05/colorado-3rd-congressional-district-competitive/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-05T09:00:00+00:00",
+      "age_hours": 9.031272908611111,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Longmont\u2019s lower downtown dreams finally taking shape",
       "link": "https://bizwest.com/2026/10/04/longmonts-lower-downtown-dreams-finally-taking-shape/",
       "source": "BizWest",
       "pub_date": "2026-10-04T16:32:35+00:00",
-      "age_hours": 15.989101129722222,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Who will stop the draining of San Luis Valley\u2019s water lifeline?",
-      "link": "https://coloradosun.com/2026/10/04/colorado-potato-farming-san-luis-valley-water-drought/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-04T10:29:00+00:00",
-      "age_hours": 22.049167135555557,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "The Bookies Bookstore suggests fiction that spans genres",
-      "link": "https://coloradosun.com/2026/10/04/bookies-bookstore-october-2026-recommendations/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-04T08:05:00+00:00",
-      "age_hours": 24.449167815277775,
+      "age_hours": 25.487746373611113,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "Monument seeks increase for use tax on construction materials",
-      "link": "https://www.coloradopolitics.com/2026/10/04/monument-seeks-increase-for-use-tax-on-construction-materials/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-04T06:15:00+00:00",
-      "age_hours": 26.283278940555554,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Federal jobs report shows rise in unemployment rates",
-      "link": "https://www.9news.com/article/money/economy/federal-jobs-report-rise-unemployment-rates/73-5349b576-be62-4a97-881e-3c0f3f3aa5f9",
-      "source": "9News",
-      "pub_date": "2026-10-04T05:21:59+00:00",
-      "age_hours": 27.166345763333336,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Aurora prep sports scoreboard, 10.3.26",
-      "link": "https://sentinelcolorado.com/1gridpreps/aurora-prep-sports-scoreboard-10-3-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-04T04:12:00+00:00",
-      "age_hours": 28.33331019,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Bison sculpture made by Native youth stolen while on statewide education tour",
-      "link": "https://kdvr.com/news/local/bison-sculpture-made-by-native-youth-stolen-while-on-statewide-education-tour/",
-      "source": "Fox31",
-      "pub_date": "2026-10-04T03:38:24+00:00",
-      "age_hours": 28.893093104722222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Illinois police arrest teens, charge parent after fight involving nearly 250 teens at Raising Cane's",
-      "link": "https://www.9news.com/article/news/nation-world/illinois-police-arrest-teens-charge-parent-after-fight/507-cc4c8b86-bd5b-48f6-931a-ff6dae372812",
-      "source": "9News",
-      "pub_date": "2026-10-04T03:30:09+00:00",
-      "age_hours": 29.030234695555556,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Football: Aurora 2026 Week 6 results",
-      "link": "https://sentinelcolorado.com/sports/preps/football-aurora-2026-week-6-scoreboard-schedule/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-03T23:04:00+00:00",
-      "age_hours": 33.466643794444444,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Gripped by Netflix's Lizzie Borden slasher? Here are haunted mansions in Colorado to checkout before Halloween",
-      "link": "https://kdvr.com/news/local/gripped-by-netflixs-lizzie-borden-slasher-here-are-haunted-mansions-in-colorado-to-checkout-before-halloween/",
-      "source": "Fox31",
-      "pub_date": "2026-10-03T19:40:05+00:00",
-      "age_hours": 36.86503759888889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Nonprofit Spotlight: Colorado Horse Rescue",
-      "link": "https://bizwest.com/2026/10/03/nonprofit-spotlight-colorado-horse-rescue/",
-      "source": "BizWest",
-      "pub_date": "2026-10-03T17:31:04+00:00",
-      "age_hours": 39.014379310555555,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Person found dead near busy Broadway intersection",
-      "link": "https://kdvr.com/news/local/person-found-dead-near-busy-broadway-intersection/",
-      "source": "Fox31",
-      "pub_date": "2026-10-03T14:29:21+00:00",
-      "age_hours": 42.04392636805555,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver eyes more locations where it can use red light cameras, photo radar",
-      "link": "https://www.9news.com/article/news/politics/denver-colorado-fines-red-light-cameras/73-c6605317-f188-4acf-ab67-1a44943847f0",
-      "source": "9News",
-      "pub_date": "2026-10-03T04:45:06+00:00",
-      "age_hours": 51.78106809472222,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Davis: You know what you\u2019ve built \u2014 is it enough?",
-      "link": "https://bizwest.com/2026/10/02/davis-you-know-what-youve-built-is-it-enough/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T23:20:00+00:00",
-      "age_hours": 57.19882378,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Big decisions loom for Erie\u2019s new leaders",
-      "link": "https://bizwest.com/2026/10/02/big-decisions-loom-for-eries-new-leaders/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T23:16:00+00:00",
-      "age_hours": 57.265490452222224,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Man sentenced to prison for role in puppy theft at Centennial pet store",
-      "link": "https://kdvr.com/news/local/man-sentenced-to-prison-for-role-in-puppy-theft-at-centennial-pet-store/",
-      "source": "Fox31",
-      "pub_date": "2026-10-02T21:37:04+00:00",
-      "age_hours": 58.915315433055554,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Loveland data center discussions continued at least through August",
-      "link": "https://bizwest.com/2026/10/02/loveland-data-center-discussions-continued-at-least-through-august/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T20:58:08+00:00",
-      "age_hours": 59.56326825638889,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Pessimism persists among Colorado biz leaders",
-      "link": "https://bizwest.com/2026/10/02/pessimism-persists-among-colorado-biz-leaders/",
-      "source": "BizWest",
-      "pub_date": "2026-10-02T20:21:19+00:00",
-      "age_hours": 60.17687939194444,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
