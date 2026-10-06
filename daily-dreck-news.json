@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-10-05",
-  "fetched_at": "2026-10-05 18:02:25",
+  "fetched_date": "2026-10-06",
+  "fetched_at": "2026-10-06 00:38:22",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 14,
   "articles": [
+    {
+      "title": "Aurora Mayor Coffman seeks to halt Trident data center project after public backlash",
+      "link": "https://sentinelcolorado.com/metro/aurora-mayor-coffman-seeks-to-halt-trident-data-center-project-after-public-backlash/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-05T23:34:03+00:00",
+      "age_hours": 1.068059186111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Delivery drones are coming to Denver. But who regulates them?",
+      "link": "https://www.cpr.org/2026/10/05/delivery-drones-coming-denver-regulations/",
+      "source": "CPR",
+      "pub_date": "2026-10-05T23:21:30+00:00",
+      "age_hours": 1.2768022844444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Intermountain Health cutting 100+ jobs from Broomfield\u2019s Trinsic ops",
+      "link": "https://bizwest.com/2026/10/05/intermountain-health-cutting-100-jobs-from-broomfields-trinsic-ops/",
+      "source": "BizWest",
+      "pub_date": "2026-10-05T23:21:20+00:00",
+      "age_hours": 1.2790354905555557,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Westminster says its water is safe to drink despite taste and smell issues",
+      "link": "https://www.9news.com/article/news/health/westminster-water-safe-drink-taste-smell/73-2c67dd49-c1e1-45d9-8d0e-39d4fbbb3b0d",
+      "source": "9News",
+      "pub_date": "2026-10-05T22:55:54+00:00",
+      "age_hours": 1.7035834713888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado home sellers are cutting prices more than people in other states",
+      "link": "https://www.cpr.org/2026/10/05/colorado-home-listings-price-cuts/",
+      "source": "CPR",
+      "pub_date": "2026-10-05T22:54:49+00:00",
+      "age_hours": 1.7215245955555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Lawsuits accused flight service of taking customers' cash as charter business was failing financially",
+      "link": "https://www.9news.com/article/news/investigations/lawsuits-accused-flight-service-of-taking-customers-cash-charter-business-failing-financially/73-6ed3e3d1-c4e3-4b3d-8b5d-7fe8fe2fe672",
+      "source": "9News",
+      "pub_date": "2026-10-05T22:53:55+00:00",
+      "age_hours": 1.7366391222222224,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Greeley Demands Better to appeal court\u2019s Catalyst decision",
+      "link": "https://bizwest.com/2026/10/05/greeley-demands-better-to-appeal-courts-catalyst-decision/",
+      "source": "BizWest",
+      "pub_date": "2026-10-05T21:11:00+00:00",
+      "age_hours": 3.4512584430555555,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Four Greeley apartment complexes face $18M foreclosure",
+      "link": "https://bizwest.com/2026/10/05/four-greeley-apartment-complexes-face-18m-foreclosure/",
+      "source": "BizWest",
+      "pub_date": "2026-10-05T20:59:37+00:00",
+      "age_hours": 3.640980717777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Boulder rallies as SCOTUS hears landmark climate case",
+      "link": "https://bizwest.com/2026/10/05/boulder-rallies-as-scotus-hears-landmark-climate-case/",
+      "source": "BizWest",
+      "pub_date": "2026-10-05T20:41:35+00:00",
+      "age_hours": 3.9415363038888884,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Tributes to Justice Melissa Hart | COURT CRAWL",
+      "link": "https://www.coloradopolitics.com/2026/10/05/tributes-to-justice-melissa-hart-court-crawl-2/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-05T20:14:45+00:00",
+      "age_hours": 4.389708951944445,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Colorado extends Aurora Water\u2019s comment deadline for Wild Horse Reservoir permit",
+      "link": "https://sentinelcolorado.com/metro/colorado-extends-aurora-waters-comment-deadline-for-wild-horse-reservoir-permit/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-05T20:02:42+00:00",
+      "age_hours": 4.590559478055556,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Judge rejects request to intervene in Aurora\u2019s 3 bond-issue ballot props with election underway",
+      "link": "https://sentinelcolorado.com/metro/judge-rejects-request-to-intervene-in-auroras-3-bond-issue-ballot-props-with-election-underway/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-05T19:55:20+00:00",
+      "age_hours": 4.713337624999999,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Retail Momentum Builds at Parkside @ City Centre",
+      "link": "https://milehighcre.com/retail-momentum-builds-at-parkside-city-centre/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-05T19:40:03+00:00",
+      "age_hours": 4.967487036944445,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Here's who's running for Colorado Secretary of State in the 2026 election",
       "link": "https://www.9news.com/article/news/politics/elections/heres-whos-running-for-colorado-secretary-of-state-2026-election/73-36c12cbe-3331-415c-a4b0-519e9429a8ec",
       "source": "9News",
       "pub_date": "2026-10-05T17:56:42+00:00",
-      "age_hours": 0.08659570277777778,
-      "breaking": true,
-      "time_ago": "5 min ago"
+      "age_hours": 6.690250420277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Spike in mortgage rates compounds inflation and debt woes",
       "link": "https://www.coloradopolitics.com/2026/10/05/spike-in-mortgage-rates-compounds-inflation-and-debt-woes/",
       "source": "CO Politics",
       "pub_date": "2026-10-05T17:29:29+00:00",
-      "age_hours": 0.5449154333333333,
-      "breaking": true,
-      "time_ago": "32 min ago"
-    },
-    {
-      "title": "Bolsonaro and Lula head to a runoff in Brazil\u2019s presidential election",
-      "link": "https://sentinelcolorado.com/uncategorized/bolsonaro-and-lula-head-to-a-runoff-in-brazils-presidential-election/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-05T17:03:50+00:00",
-      "age_hours": 0.9725221333333333,
-      "breaking": true,
-      "time_ago": "58 min ago"
+      "age_hours": 7.14415342638889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "True Food Kitchen files for bankruptcy, closes 12 restaurants",
       "link": "https://www.9news.com/article/news/nation-world/true-food-kitchen-files-bankruptcy-closes-12-restaurants/507-83f03b4a-cee6-4493-bf6f-f91c7faccac2",
       "source": "9News",
       "pub_date": "2026-10-05T16:40:38+00:00",
-      "age_hours": 1.3543735158333334,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.958028274166666,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver distillery plans $3M airport lounge",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-distillery-plans-3m-airport-lounge/73-e093a370-d039-4d2a-b5cf-6981b0f60686",
       "source": "9News",
       "pub_date": "2026-10-05T16:37:54+00:00",
-      "age_hours": 1.3999290916666667,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 8.003583886666666,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Top Iranian official admits dire state of the economy: Report",
       "link": "https://www.coloradopolitics.com/2026/10/05/top-iranian-official-admits-dire-state-of-the-economy-report/",
       "source": "CO Politics",
       "pub_date": "2026-10-05T16:37:21+00:00",
-      "age_hours": 1.4138043830555556,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 8.013042418888888,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Revel Strength & Wellness Marks Full Launch of Denver Health Collective",
       "link": "https://milehighcre.com/revel-strength-wellness-marks-full-launch-of-denver-health-collective/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-05T15:50:54+00:00",
-      "age_hours": 2.1827910283333334,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "United launches year-round flights linking Denver and Moab",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-moab-utah-flights-united-airlines/73-3ffeb943-e7df-4e49-a078-61bf8561e935",
-      "source": "9News",
-      "pub_date": "2026-10-05T14:09:40+00:00",
-      "age_hours": 3.8704846849999996,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Westminster says its water is safe to drink despite taste and smell issues",
-      "link": "https://www.9news.com/article/news/health/westminster-water-safe-drink-taste-smell/73-2c67dd49-c1e1-45d9-8d0e-39d4fbbb3b0d",
-      "source": "9News",
-      "pub_date": "2026-10-05T14:05:18+00:00",
-      "age_hours": 3.9432624855555556,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Walmart delivery drones are coming to Colorado",
-      "link": "https://www.9news.com/article/money/business/walmart-delivery-drones-denver-seattle/73-05416c06-4973-43f5-a9c9-74e477783599",
-      "source": "9News",
-      "pub_date": "2026-10-05T13:00:41+00:00",
-      "age_hours": 5.020206974166666,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Live Nation seeks city approval to expand use of Denver music venue",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/live-nation-seeks-city-approval-to-expand-use-of-denver-music-venue/73-126d110e-014c-47ef-829a-eaec7e622aa0",
-      "source": "9News",
-      "pub_date": "2026-10-05T12:37:13+00:00",
-      "age_hours": 5.411318106944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Boulder kicks off major flood mitigation project",
-      "link": "https://www.9news.com/article/weather/weather-colorado/boulder-creek-major-flood-mitigation-project/73-fea6ded5-4929-4fb8-a850-ea0958fcda4d",
-      "source": "9News",
-      "pub_date": "2026-10-05T12:30:12+00:00",
-      "age_hours": 5.528262553888888,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Coming in hot: Absolut Tabasco spices up Denver\u2019s bar scene",
-      "link": "https://www.westword.com/sponsored/absolut-tabasco-spices-up-denver-bar-scene-40941331/",
-      "source": "Westword",
-      "pub_date": "2026-10-05T11:24:48-06:00",
-      "age_hours": 0.618608531111111,
-      "breaking": true,
-      "time_ago": "37 min ago"
-    },
-    {
-      "title": "Feel-good campaign can\u2019t fix what Dems have wrought | Dick Wadhams",
-      "link": "https://www.coloradopolitics.com/2026/10/05/feel-good-campaign-cant-fix-what-dems-have-wrought-dick-wadhams/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-05T11:00:00+00:00",
-      "age_hours": 7.036304428055556,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Colorado data center fight heads to Brighton next as opposition grows",
-      "link": "https://coloradosun.com/2026/10/05/colorado-data-center-fight-brighton-weld-county/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-05T10:08:00+00:00",
-      "age_hours": 7.897939017222223,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Where John Hickenlooper, Mark Baisley stand on the issues in Colorado\u2019s US Senate race",
-      "link": "https://coloradosun.com/2026/10/05/colorado-senate-race-candidate-guide/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-05T10:04:00+00:00",
-      "age_hours": 7.9646056963888885,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Knocking down buildings in Denver drags up bad memories, but empty office space drags on the economy",
-      "link": "https://denverite.com/2026/10/05/denver-office-demolition-history/",
-      "source": "Denverite",
-      "pub_date": "2026-10-05T10:00:00+00:00",
-      "age_hours": 8.031435931666667,
+      "age_hours": 8.786653727500001,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
     {
-      "title": "Where the candidates for Colorado state treasurer stand on the issues",
-      "link": "https://coloradosun.com/2026/10/05/jeff-bridges-kevin-grantham-colorado-treasurer-issue-guide/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-05T09:58:00+00:00",
-      "age_hours": 8.0646059875,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Attention from national Democrats, Republicans signals Colorado\u2019s 3rd Congressional District race is in play",
-      "link": "https://coloradosun.com/2026/10/05/colorado-3rd-congressional-district-competitive/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-05T09:00:00+00:00",
-      "age_hours": 9.031272908611111,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Longmont\u2019s lower downtown dreams finally taking shape",
-      "link": "https://bizwest.com/2026/10/04/longmonts-lower-downtown-dreams-finally-taking-shape/",
-      "source": "BizWest",
-      "pub_date": "2026-10-04T16:32:35+00:00",
-      "age_hours": 25.487746373611113,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "title": "Denver Construction Costs On The Rise, Surpass National Increases",
+      "link": "https://www.bisnow.com/news/denver/construction-development/denver-construction-costs-on-the-rise-surpass-national-costs",
+      "source": "Bisnow",
+      "pub_date": "2026-10-05T15:30:56-04:00",
+      "age_hours": 5.119138379444444,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
     }
   ]
 }
