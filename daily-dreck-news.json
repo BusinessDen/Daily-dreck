@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-06",
-  "fetched_at": "2026-10-06 14:49:39",
+  "fetched_at": "2026-10-06 20:00:58",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Trump won\u2019t reimburse taxpayers for campaign-style PSAs",
+      "link": "https://www.coloradopolitics.com/2026/10/06/trump-wont-reimburse-taxpayers-for-campaign-style-psas/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-06T19:37:40+00:00",
+      "age_hours": 0.3843279041666667,
+      "breaking": true,
+      "time_ago": "23 min ago"
+    },
+    {
+      "title": "Galway Companies Adds New Tenants, Advances Major Reinvestment at The Promenade Shops Centerra",
+      "link": "https://milehighcre.com/galway-companies-adds-new-tenants-advances-major-reinvestment-at-the-promenade-shops-centerra/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-06T19:29:51+00:00",
+      "age_hours": 0.5137770613888889,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "Pok\u00e9mon Fossil Museum making stop in Denver",
+      "link": "https://kdvr.com/denver-guide/pokemon-fossil-museum-making-stop-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-10-06T19:22:46+00:00",
+      "age_hours": 0.6322791119444444,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Afghanistan 25 years later: Veteran finds peace at Denver Krishna temple after traumatic deployments",
+      "link": "https://kdvr.com/news/problem-solvers/serving-those-who-serve/afghanistan-25-years-later-veteran-finds-peace-at-denver-krishna-temple-after-traumatic-deployments/",
+      "source": "Fox31",
+      "pub_date": "2026-10-06T19:02:34+00:00",
+      "age_hours": 0.9689458272222223,
+      "breaking": true,
+      "time_ago": "58 min ago"
+    },
+    {
+      "title": "Promenade Shops adds tenants, makes improvements",
+      "link": "https://bizwest.com/2026/10/06/promenade-shops-adds-tenants-makes-improvements/",
+      "source": "BizWest",
+      "pub_date": "2026-10-06T18:42:53+00:00",
+      "age_hours": 1.2962737908333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "AGC Biologics plants in Boulder, Longmont sold to auction house",
+      "link": "https://bizwest.com/2026/10/06/agc-biologics-plants-in-boulder-longmont-sold-to-auction-house/",
+      "source": "BizWest",
+      "pub_date": "2026-10-06T18:39:05+00:00",
+      "age_hours": 1.3596071374999998,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "National Taco Day: Deals and discounts from Moe's Southwest Grill, Chuy's and more",
+      "link": "https://www.9news.com/article/news/nation-world/national-taco-day-deals-freebies-moes-taco-bell-chuys/507-5039c883-4183-4c84-ba95-63fc2aacf199",
+      "source": "9News",
+      "pub_date": "2026-10-06T17:50:28+00:00",
+      "age_hours": 2.170467645,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver council passes \u2018good governance\u2019 measure for behavioral health spending",
+      "link": "https://www.cpr.org/2026/10/06/caring-for-denver-increased-oversight-ordinance-passes/",
+      "source": "CPR",
+      "pub_date": "2026-10-06T17:35:28+00:00",
+      "age_hours": 2.4204268094444443,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "State money will help build 82 condos near Denver Health",
+      "link": "https://denverite.com/2026/10/06/baker-condo-construction-prop-123/",
+      "source": "Denverite",
+      "pub_date": "2026-10-06T17:14:00+00:00",
+      "age_hours": 2.778098683055555,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Supercross returning to Denver stadium in 2027",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/monster-energy-smx-world-championship-denver-may-2027/73-3a424d4a-b9e2-494c-8347-30adc2c8d171",
+      "source": "9News",
+      "pub_date": "2026-10-06T16:52:55+00:00",
+      "age_hours": 3.1296343488888887,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "NAKO Launches to Help Lenders and Developers Rescue Distressed Real Estate",
+      "link": "https://milehighcre.com/nako-launches-to-help-lenders-and-developers-rescue-distressed-real-estate/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-06T15:38:42+00:00",
+      "age_hours": 4.3662770802777775,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Paramount and Warner Bros. have merged. Will streaming get more expensive?",
+      "link": "https://www.9news.com/article/news/nation-world/paramount-warner-bros-merger-streaming-cost/507-97cbac3c-dd71-4afd-9474-08ef90eb755a",
+      "source": "9News",
+      "pub_date": "2026-10-06T15:13:49+00:00",
+      "age_hours": 4.781301034166666,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Top Iranian official admits dire state of the economy: Report",
       "link": "https://www.coloradopolitics.com/2026/10/06/top-iranian-official-admits-dire-state-of-the-economy-report/",
       "source": "CO Politics",
       "pub_date": "2026-10-06T14:35:18+00:00",
-      "age_hours": 0.2350725225,
+      "age_hours": 5.423772384444444,
       "breaking": true,
-      "time_ago": "14 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Garrett Companies Acquires Former RK Industries Site for $16.78M",
       "link": "https://milehighcre.com/garrett-companies-acquires-former-rk-industries-site-for-16-78m/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-06T14:26:58+00:00",
-      "age_hours": 0.37329817277777777,
+      "age_hours": 5.561832641944444,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Leaf and pumpkin composting: Free Denver sites are open this fall",
       "link": "https://www.9news.com/article/life/style/colorado-guide/leaf-pumpkin-composting-free-denver-sites/73-d8cc8462-bb3f-4b70-bc9d-dc38b59f6874",
       "source": "9News",
       "pub_date": "2026-10-06T14:21:14+00:00",
-      "age_hours": 0.4690408058333333,
+      "age_hours": 5.657689973888888,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Construction Launches on Whole Foods, Skj\u00f3l at Village at Avon",
       "link": "https://milehighcre.com/construction-launches-on-whole-foods-skjol-at-village-at-avon/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-06T13:27:03+00:00",
-      "age_hours": 1.3719093,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "VOTER GUIDE: Aurora\u2019s CD6, Denver and CD 7 in JeffCo choosing CU regents amid AI, oversight concerns",
-      "link": "https://sentinelcolorado.com/voter-guide/voter-guide-auroras-cd6-denver-and-cd-7-in-jeffco-choosing-cu-regents-amid-ai-oversight-concerns/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-06T12:48:19+00:00",
-      "age_hours": 2.0181440075,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.5604437594444445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Starbucks unveils holiday menu: Here's the festive lineup",
       "link": "https://www.9news.com/article/life/holidays/holiday-guide/starbucks-holiday-menu-drinks-treats-2026/507-0ad8d985-6665-49ae-8a0e-04abfb8d4673",
       "source": "9News",
       "pub_date": "2026-10-06T12:15:51+00:00",
-      "age_hours": 2.558763159444444,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.747412260277778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Amazon, Target and Walmart all have fall sales this week. Here's what discounts they're offering.",
       "link": "https://www.9news.com/article/news/nation-world/fall-sales-amazon-target-walmart/507-fba5608a-672c-469b-af76-9ac1db8c7885",
       "source": "9News",
       "pub_date": "2026-10-06T12:08:18+00:00",
-      "age_hours": 2.6845965647222223,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "CDOT begins project to reduce I-225 congestion",
-      "link": "https://www.9news.com/article/news/community/transportation/cdot-project-interstate-225/73-9d8dd0e2-abb9-4927-b21c-d80866115f9f",
-      "source": "9News",
-      "pub_date": "2026-10-06T11:32:57+00:00",
-      "age_hours": 3.273763253888889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Grocery delivery drones set to launch in Denver metro",
-      "link": "https://www.9news.com/article/money/business/grocery-delivery-drones-denver-metro/73-99664878-ef64-471b-899f-b2a38ae42cc6",
-      "source": "9News",
-      "pub_date": "2026-10-06T10:05:18+00:00",
-      "age_hours": 4.734596618333334,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.873245621111112,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Meet the woman behind the Colorado ballot measures this year on transgender youth",
       "link": "https://coloradosun.com/2026/10/06/transgender-ballot-measures-wellington-mother/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-06T10:00:00+00:00",
-      "age_hours": 4.822817891111111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Hispanic Heritage Month | Denver High School students perform a story close to their hearts",
-      "link": "https://www.9news.com/article/news/education/hispanic-heritage-month-manual-high-school-students-perform/73-3d6f8eb9-1ec1-4162-9149-4be0bedad112",
-      "source": "9News",
-      "pub_date": "2026-10-06T04:44:43+00:00",
-      "age_hours": 10.077652251111111,
+      "age_hours": 10.01135703611111,
       "breaking": false,
       "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Denver City Council grapples with doing business with companies tied to immigration enforcement",
-      "link": "https://www.9news.com/article/news/latest-news-ott/denver-city-council-immigration-enforcement-key-lime-air/73-ec1af651-f813-49dd-92c0-29503ae02c06",
-      "source": "9News",
-      "pub_date": "2026-10-06T04:30:43+00:00",
-      "age_hours": 10.310985677777778,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Denver\u2019s District 6 police station set for $68M rebuild",
-      "link": "https://kdvr.com/news/local/denvers-district-6-police-station-set-for-68m-rebuild/",
-      "source": "Fox31",
-      "pub_date": "2026-10-06T02:28:56+00:00",
-      "age_hours": 12.340968519444443,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
     },
     {
       "title": "Delivery drones are coming to Colorado, and there's not much local government can do about it",
       "link": "https://kdvr.com/news/local/delivery-drones-are-coming-to-colorado-and-theres-not-much-local-government-can-do-about-it/",
       "source": "Fox31",
       "pub_date": "2026-10-06T02:03:33+00:00",
-      "age_hours": 12.764023988888889,
+      "age_hours": 17.952557,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Details made public in Tren De Aragua torture case in Denver",
-      "link": "https://kdvr.com/news/local/details-made-public-in-tren-de-aragua-torture-case-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-10-06T01:31:04+00:00",
-      "age_hours": 13.305412860555556,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Walmart delivery drones are coming to Colorado",
-      "link": "https://www.9news.com/article/money/business/walmart-delivery-drones-denver-seattle/73-05416c06-4973-43f5-a9c9-74e477783599",
-      "source": "9News",
-      "pub_date": "2026-10-06T01:03:00+00:00",
-      "age_hours": 13.772930149444445,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "East Colfax ballot box honors late refugee, symbolizing community's fight for access and representation",
-      "link": "https://www.9news.com/article/news/community/east-colfax-ballot-box-honors-refugee/73-de0b4787-f145-4f84-ab64-d1714b0a74ae",
-      "source": "9News",
-      "pub_date": "2026-10-06T00:54:30+00:00",
-      "age_hours": 13.914596893055556,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Lawsuits accused flight service of taking customers' cash as charter business was failing financially",
-      "link": "https://www.9news.com/article/news/investigations/lawsuits-accused-flight-service-of-taking-customers-cash-charter-business-failing-financially/73-6ed3e3d1-c4e3-4b3d-8b5d-7fe8fe2fe672",
-      "source": "9News",
-      "pub_date": "2026-10-06T00:54:03+00:00",
-      "age_hours": 13.922096958611112,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Delivery drones are coming to Denver. But who regulates them?",
-      "link": "https://www.cpr.org/2026/10/05/delivery-drones-coming-denver-regulations/",
-      "source": "CPR",
-      "pub_date": "2026-10-05T23:21:30+00:00",
-      "age_hours": 15.464567521944444,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Intermountain Health cutting 100+ jobs from Broomfield\u2019s Trinsic ops",
-      "link": "https://bizwest.com/2026/10/05/intermountain-health-cutting-100-jobs-from-broomfields-trinsic-ops/",
-      "source": "BizWest",
-      "pub_date": "2026-10-05T23:21:20+00:00",
-      "age_hours": 15.466896001944445,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
