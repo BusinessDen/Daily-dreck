@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-06",
-  "fetched_at": "2026-10-06 00:38:22",
+  "fetched_at": "2026-10-06 07:16:03",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Aurora prep sports scoreboard, 10.5.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-10-5-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-06T05:26:54+00:00",
+      "age_hours": 1.8156085691666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Hispanic Heritage Month | Denver High School students perform a story close to their hearts",
+      "link": "https://www.9news.com/article/news/education/hispanic-heritage-month-manual-high-school-students-perform/73-3d6f8eb9-1ec1-4162-9149-4be0bedad112",
+      "source": "9News",
+      "pub_date": "2026-10-06T04:44:43+00:00",
+      "age_hours": 2.5183241186111114,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver City Council grapples with doing business with companies tied to immigration enforcement",
+      "link": "https://www.9news.com/article/news/latest-news-ott/denver-city-council-immigration-enforcement-key-lime-air/73-ec1af651-f813-49dd-92c0-29503ae02c06",
+      "source": "9News",
+      "pub_date": "2026-10-06T04:30:43+00:00",
+      "age_hours": 2.751657519166667,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver\u2019s District 6 police station set for $68M rebuild",
+      "link": "https://kdvr.com/news/local/denvers-district-6-police-station-set-for-68m-rebuild/",
+      "source": "Fox31",
+      "pub_date": "2026-10-06T02:28:56+00:00",
+      "age_hours": 4.781538081666667,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Delivery drones are coming to Colorado, and there's not much local government can do about it",
+      "link": "https://kdvr.com/news/local/delivery-drones-are-coming-to-colorado-and-theres-not-much-local-government-can-do-about-it/",
+      "source": "Fox31",
+      "pub_date": "2026-10-06T02:03:33+00:00",
+      "age_hours": 5.204593525277778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Details made public in Tren De Aragua torture case in Denver",
+      "link": "https://kdvr.com/news/local/details-made-public-in-tren-de-aragua-torture-case-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-10-06T01:31:04+00:00",
+      "age_hours": 5.745982377222222,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Walmart delivery drones are coming to Colorado",
+      "link": "https://www.9news.com/article/money/business/walmart-delivery-drones-denver-seattle/73-05416c06-4973-43f5-a9c9-74e477783599",
+      "source": "9News",
+      "pub_date": "2026-10-06T01:03:00+00:00",
+      "age_hours": 6.213601995555556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "East Colfax ballot box honors late refugee, symbolizing community's fight for access and representation",
+      "link": "https://www.9news.com/article/news/community/east-colfax-ballot-box-honors-refugee/73-de0b4787-f145-4f84-ab64-d1714b0a74ae",
+      "source": "9News",
+      "pub_date": "2026-10-06T00:54:30+00:00",
+      "age_hours": 6.355268702777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Lawsuits accused flight service of taking customers' cash as charter business was failing financially",
+      "link": "https://www.9news.com/article/news/investigations/lawsuits-accused-flight-service-of-taking-customers-cash-charter-business-failing-financially/73-6ed3e3d1-c4e3-4b3d-8b5d-7fe8fe2fe672",
+      "source": "9News",
+      "pub_date": "2026-10-06T00:54:03+00:00",
+      "age_hours": 6.362768736944445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Aurora Mayor Coffman seeks to halt Trident data center project after public backlash",
       "link": "https://sentinelcolorado.com/metro/aurora-mayor-coffman-seeks-to-halt-trident-data-center-project-after-public-backlash/",
       "source": "Sentinel",
       "pub_date": "2026-10-05T23:34:03+00:00",
-      "age_hours": 1.068059186111111,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.696442291388889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Delivery drones are coming to Denver. But who regulates them?",
       "link": "https://www.cpr.org/2026/10/05/delivery-drones-coming-denver-regulations/",
       "source": "CPR",
       "pub_date": "2026-10-05T23:21:30+00:00",
-      "age_hours": 1.2768022844444444,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.905225978888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Intermountain Health cutting 100+ jobs from Broomfield\u2019s Trinsic ops",
       "link": "https://bizwest.com/2026/10/05/intermountain-health-cutting-100-jobs-from-broomfields-trinsic-ops/",
       "source": "BizWest",
       "pub_date": "2026-10-05T23:21:20+00:00",
-      "age_hours": 1.2790354905555557,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.907563668888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Westminster says its water is safe to drink despite taste and smell issues",
       "link": "https://www.9news.com/article/news/health/westminster-water-safe-drink-taste-smell/73-2c67dd49-c1e1-45d9-8d0e-39d4fbbb3b0d",
       "source": "9News",
       "pub_date": "2026-10-05T22:55:54+00:00",
-      "age_hours": 1.7035834713888889,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 8.331935471944444,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado home sellers are cutting prices more than people in other states",
       "link": "https://www.cpr.org/2026/10/05/colorado-home-listings-price-cuts/",
       "source": "CPR",
       "pub_date": "2026-10-05T22:54:49+00:00",
-      "age_hours": 1.7215245955555556,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Lawsuits accused flight service of taking customers' cash as charter business was failing financially",
-      "link": "https://www.9news.com/article/news/investigations/lawsuits-accused-flight-service-of-taking-customers-cash-charter-business-failing-financially/73-6ed3e3d1-c4e3-4b3d-8b5d-7fe8fe2fe672",
-      "source": "9News",
-      "pub_date": "2026-10-05T22:53:55+00:00",
-      "age_hours": 1.7366391222222224,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 8.349948261388889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Greeley Demands Better to appeal court\u2019s Catalyst decision",
       "link": "https://bizwest.com/2026/10/05/greeley-demands-better-to-appeal-courts-catalyst-decision/",
       "source": "BizWest",
       "pub_date": "2026-10-05T21:11:00+00:00",
-      "age_hours": 3.4512584430555555,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.07978646972222,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Four Greeley apartment complexes face $18M foreclosure",
       "link": "https://bizwest.com/2026/10/05/four-greeley-apartment-complexes-face-18m-foreclosure/",
       "source": "BizWest",
       "pub_date": "2026-10-05T20:59:37+00:00",
-      "age_hours": 3.640980717777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.269508729722222,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Boulder rallies as SCOTUS hears landmark climate case",
       "link": "https://bizwest.com/2026/10/05/boulder-rallies-as-scotus-hears-landmark-climate-case/",
       "source": "BizWest",
       "pub_date": "2026-10-05T20:41:35+00:00",
-      "age_hours": 3.9415363038888884,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.570064312500001,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Tributes to Justice Melissa Hart | COURT CRAWL",
       "link": "https://www.coloradopolitics.com/2026/10/05/tributes-to-justice-melissa-hart-court-crawl-2/",
       "source": "CO Politics",
       "pub_date": "2026-10-05T20:14:45+00:00",
-      "age_hours": 4.389708951944445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 11.018091555555555,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado extends Aurora Water\u2019s comment deadline for Wild Horse Reservoir permit",
       "link": "https://sentinelcolorado.com/metro/colorado-extends-aurora-waters-comment-deadline-for-wild-horse-reservoir-permit/",
       "source": "Sentinel",
       "pub_date": "2026-10-05T20:02:42+00:00",
-      "age_hours": 4.590559478055556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 11.21894252861111,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Judge rejects request to intervene in Aurora\u2019s 3 bond-issue ballot props with election underway",
       "link": "https://sentinelcolorado.com/metro/judge-rejects-request-to-intervene-in-auroras-3-bond-issue-ballot-props-with-election-underway/",
       "source": "Sentinel",
       "pub_date": "2026-10-05T19:55:20+00:00",
-      "age_hours": 4.713337624999999,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Retail Momentum Builds at Parkside @ City Centre",
-      "link": "https://milehighcre.com/retail-momentum-builds-at-parkside-city-centre/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-05T19:40:03+00:00",
-      "age_hours": 4.967487036944445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Here's who's running for Colorado Secretary of State in the 2026 election",
-      "link": "https://www.9news.com/article/news/politics/elections/heres-whos-running-for-colorado-secretary-of-state-2026-election/73-36c12cbe-3331-415c-a4b0-519e9429a8ec",
-      "source": "9News",
-      "pub_date": "2026-10-05T17:56:42+00:00",
-      "age_hours": 6.690250420277778,
+      "age_hours": 11.341720638333333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Spike in mortgage rates compounds inflation and debt woes",
-      "link": "https://www.coloradopolitics.com/2026/10/05/spike-in-mortgage-rates-compounds-inflation-and-debt-woes/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-05T17:29:29+00:00",
-      "age_hours": 7.14415342638889,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "True Food Kitchen files for bankruptcy, closes 12 restaurants",
-      "link": "https://www.9news.com/article/news/nation-world/true-food-kitchen-files-bankruptcy-closes-12-restaurants/507-83f03b4a-cee6-4493-bf6f-f91c7faccac2",
-      "source": "9News",
-      "pub_date": "2026-10-05T16:40:38+00:00",
-      "age_hours": 7.958028274166666,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Denver distillery plans $3M airport lounge",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-distillery-plans-3m-airport-lounge/73-e093a370-d039-4d2a-b5cf-6981b0f60686",
-      "source": "9News",
-      "pub_date": "2026-10-05T16:37:54+00:00",
-      "age_hours": 8.003583886666666,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Top Iranian official admits dire state of the economy: Report",
-      "link": "https://www.coloradopolitics.com/2026/10/05/top-iranian-official-admits-dire-state-of-the-economy-report/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-05T16:37:21+00:00",
-      "age_hours": 8.013042418888888,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Revel Strength & Wellness Marks Full Launch of Denver Health Collective",
-      "link": "https://milehighcre.com/revel-strength-wellness-marks-full-launch-of-denver-health-collective/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-05T15:50:54+00:00",
-      "age_hours": 8.786653727500001,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver Construction Costs On The Rise, Surpass National Increases",
-      "link": "https://www.bisnow.com/news/denver/construction-development/denver-construction-costs-on-the-rise-surpass-national-costs",
-      "source": "Bisnow",
-      "pub_date": "2026-10-05T15:30:56-04:00",
-      "age_hours": 5.119138379444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "11 hrs ago"
     }
   ]
 }
