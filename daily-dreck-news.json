@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-09",
-  "fetched_at": "2026-10-09 15:52:31",
+  "fetched_at": "2026-10-09 20:36:14",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 7,
   "articles": [
+    {
+      "title": "State officials tout expansion of Lockheed Martin Space investment in Colorado",
+      "link": "https://www.cpr.org/2026/10/09/lockheed-martin-space-colorado-expansion/",
+      "source": "CPR",
+      "pub_date": "2026-10-09T20:17:02+00:00",
+      "age_hours": 0.31514109055555556,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "A changing brewing industry mean this year\u2019s Great American Beer Fest has a different look",
+      "link": "https://www.denver7.com/money/consumer/a-changing-brewing-industry-mean-this-years-great-american-beer-fest-has-a-different-look",
+      "source": "Denver7",
+      "pub_date": "2026-10-09T18:22:53+00:00",
+      "age_hours": 2.217978731111111,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Delta CEO says fuel prices will be even higher this fall",
+      "link": "https://www.9news.com/article/news/nation-world/delta-fuel-prices-higher-forecast/507-fa67325c-5200-4ef5-b3b3-2bdf6fadf7b7",
+      "source": "9News",
+      "pub_date": "2026-10-09T16:32:49+00:00",
+      "age_hours": 4.052236468333334,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Trump administration sues Denver over law enforcement mask ban",
       "link": "https://kdvr.com/news/local/trump-administration-sues-denver-over-law-enforcement-mask-ban/",
       "source": "Fox31",
       "pub_date": "2026-10-09T15:42:41+00:00",
-      "age_hours": 0.15934929444444446,
+      "age_hours": 4.888137220833333,
       "breaking": true,
-      "time_ago": "9 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "The Sentinel launches personalized 2026 midterm election guides for Aurora area voters",
       "link": "https://sentinelcolorado.com/voter-guide/the-sentinel-launches-personalized-2026-midterm-election-guides-for-aurora-area-voters/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T15:14:51+00:00",
-      "age_hours": 0.6236146375,
+      "age_hours": 5.352500526666667,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Nadora Healthcare opens Greeley clinic",
       "link": "https://bizwest.com/2026/10/09/nadora-healthcare-opens-greeley-clinic/",
       "source": "BizWest",
       "pub_date": "2026-10-09T15:06:00+00:00",
-      "age_hours": 0.7698693727777778,
+      "age_hours": 5.498495065,
       "breaking": true,
-      "time_ago": "46 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "State and Liberty opens Boulder clothing store",
       "link": "https://bizwest.com/2026/10/09/state-and-liberty-opens-boulder-clothing-store/",
       "source": "BizWest",
       "pub_date": "2026-10-09T15:00:00+00:00",
-      "age_hours": 0.8698698388888888,
+      "age_hours": 5.598495506666667,
       "breaking": true,
-      "time_ago": "52 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Decades-old frozen food aisle favorite being discontinued, will disappear from grocery stores soon",
       "link": "https://www.9news.com/article/news/nation-world/celeste-pizza-discontinued/507-39f281c4-ff2b-41d4-a505-3a18ae7998c6",
       "source": "9News",
       "pub_date": "2026-10-09T13:52:24+00:00",
-      "age_hours": 1.9970718222222221,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.725847603333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "CO VOTE 2026: Aurora proposes $264M infrastructure funding in 3 sales tax votes, whether to change city election years",
       "link": "https://sentinelcolorado.com/1gridelex/co-vote-2026-aurora-proposes-264m-infrastructure-funding-in-3-sales-tax-votes/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T13:21:43+00:00",
-      "age_hours": 2.5091703683333333,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.238056298333333,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "CO VOTE 2026: GOP, Dems battle for key county seats in Arapahoe, Adams and Douglas counties",
       "link": "https://sentinelcolorado.com/1gridelex/co-vote-2026-gop-dems-battle-for-key-county-seats-in-arapahoe-adams-and-douglas-counties/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T13:14:29+00:00",
-      "age_hours": 2.6297259344444446,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.358611866666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Suspects stole high-end vehicles, targeted crash victims in towing scam, indictment says",
       "link": "https://www.9news.com/article/news/crime/high-end-vehicles-stolen-tow-scam/73-d6f24ff1-ab99-4305-b0f6-55e342abbfda",
       "source": "9News",
       "pub_date": "2026-10-09T13:13:29+00:00",
-      "age_hours": 2.6456830019444446,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.374458761666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "CO VOTE 2026: Incumbent Dem Eliza Hamrick faces two challengers for District 61 seat",
       "link": "https://sentinelcolorado.com/voter-guide/co-vote-2026-incumbent-dem-eliza-hamrick-faces-two-challengers-for-district-61-seat/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T12:55:55+00:00",
-      "age_hours": 2.939170473055556,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.668056438055555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "CO VOTE 2026: Dem Naquetta Ricks faces GOP Clinton Porter for House District 40",
       "link": "https://sentinelcolorado.com/voter-guide/co-vote-2026-dem-naquetta-ricks-faces-gop-clinton-porter-for-house-district-40/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T12:46:56+00:00",
-      "age_hours": 3.0888927555555554,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.817778745833333,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "CO VOTE 2026: Dem Rep. Chad Clifford seeks reelection against GOP Jill Thompson",
       "link": "https://sentinelcolorado.com/voter-guide/co-vote-2-26-dem-rep-chad-clifford-seeks-reelection-against-gop-jill-thompson/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T12:42:10+00:00",
-      "age_hours": 3.1683372624999997,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.897223271666666,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "CO VOTE 2026: Rep. Michael Carter faces GOP and Libertarian challengers in District 36",
       "link": "https://sentinelcolorado.com/1gridelex/co-vote-2026-rep-michael-carter-faces-gop-and-libertarian-challengers-in-district-36/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T12:36:12+00:00",
-      "age_hours": 3.2677817675000003,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "CO VOTE 2026: Incumbent Tom Sullivan faces challenges from Lammon and Poague",
-      "link": "https://sentinelcolorado.com/1gridelex/co-vote-2026-incumbent-tom-sullivan-faces-challenges-from-lammon-and-poague/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-09T12:26:01+00:00",
-      "age_hours": 3.437504146388889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "City council avoids staff layoffs in 2027 budget plan requiring $10.2 million in cuts",
-      "link": "https://sentinelcolorado.com/metro/city-council-avoids-staff-layoffs-in-2027-budget-plan-requiring-10-2-million-in-cuts/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-09T11:50:27+00:00",
-      "age_hours": 4.030281986388888,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.996667798055555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Phil Weiser makes his case for Colorado governor while Victor Marx skips debate",
       "link": "https://coloradosun.com/2026/10/09/phil-weiser-makes-his-case-for-colorado-governor-while-victor-marx-skips-debate/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-09T10:41:00+00:00",
-      "age_hours": 5.1868646202777775,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.915607786388888,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Make a call, take a pic, find your soulmate",
       "link": "https://denverite.com/2026/10/09/denver-soulmate-booth/",
       "source": "Denverite",
       "pub_date": "2026-10-09T10:00:00+00:00",
-      "age_hours": 5.870320352777777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.598980835555556,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Aurora Public Schools builds new schools, as declining enrollment leads many metro school districts to close schools",
       "link": "https://www.9news.com/article/news/education/aurora-public-schools-builds-new-schools/73-d17be422-41d9-4e4d-a84f-8e7938156925",
       "source": "9News",
       "pub_date": "2026-10-09T04:17:39+00:00",
-      "age_hours": 11.576238600555556,
+      "age_hours": 16.305014330555558,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Landowner alleges Weld commissioners bent rules for data center",
       "link": "https://bizwest.com/2026/10/08/landowner-alleges-weld-commissioners-bent-rules-for-data-center/",
       "source": "BizWest",
       "pub_date": "2026-10-09T04:01:19+00:00",
-      "age_hours": 11.84792542138889,
+      "age_hours": 16.576551089166667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Local group works to kill invasive 'tree of heaven' populating in Denver neighborhoods",
       "link": "https://www.9news.com/article/news/local/colorado-news/group-works-to-kill-invasive-tree-denver-neighborhoods/73-35f46144-a522-421f-8ce6-577e50fc1df9",
       "source": "9News",
       "pub_date": "2026-10-09T03:52:16+00:00",
-      "age_hours": 11.999294261666668,
+      "age_hours": 16.728069935833332,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "2 taken to hospital after shooting on Stout Street",
-      "link": "https://kdvr.com/news/local/2-taken-to-hospital-after-shooting-on-stout-street/",
-      "source": "Fox31",
-      "pub_date": "2026-10-09T02:16:11+00:00",
-      "age_hours": 13.601015999166666,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "16 hrs ago"
     }
   ]
 }
