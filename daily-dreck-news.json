@@ -1,123 +1,132 @@
 {
   "fetched_date": "2026-10-11",
-  "fetched_at": "2026-10-11 19:58:28",
+  "fetched_at": "2026-10-11 23:34:36",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "FAA replaces 31-year-old runway radar at Denver International Airport",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/faa-replaces-runway-radar-denver-international-airport/73-a45c8525-cb40-4416-9054-d34c5d24998e",
+      "source": "9News",
+      "pub_date": "2026-10-11T22:47:38+00:00",
+      "age_hours": 0.7783557591666667,
+      "breaking": true,
+      "time_ago": "46 min ago"
+    },
     {
       "title": "Rechargeable hand warmers recalled due to risk of fire and burn hazards",
       "link": "https://www.9news.com/article/news/nation-world/hothands-lithium-ion-battery-rechargeable-hand-warmers-recalled-risk-fire-burn-hazards/507-2ddc4273-8409-4840-ae86-bbea3f0df336",
       "source": "9News",
       "pub_date": "2026-10-11T17:23:23+00:00",
-      "age_hours": 2.580565760555556,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.182522479166666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Home sellers grapple with new normal",
       "link": "https://bizwest.com/2026/10/11/home-sellers-grapple-with-new-normal/",
       "source": "BizWest",
       "pub_date": "2026-10-11T17:13:15+00:00",
-      "age_hours": 2.748978789444444,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.3507291694444445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver Police investigating crash that killed pedestrian",
       "link": "https://www.9news.com/article/news/local/fatal-pedestrian-crash-denver/73-e84fed85-5c91-4546-a820-d98afcfd85fc",
       "source": "9News",
       "pub_date": "2026-10-11T17:11:36+00:00",
-      "age_hours": 2.776954663611111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.378911373055556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "10 candidates for 1 seat: Denver\u2019s crowded council race",
       "link": "https://www.coloradopolitics.com/2026/10/11/denver-elections-council-race-voter-guide/",
       "source": "CO Politics",
       "pub_date": "2026-10-11T11:00:00+00:00",
-      "age_hours": 8.970641559166667,
+      "age_hours": 12.572805895833334,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Jeffco commissioner race: Lisa Cutter versus Stephanie VandenBerg",
       "link": "https://www.coloradopolitics.com/2026/10/11/jeffco-commissioner-race-lisa-cutter-versus-stephanie-vandenberg/",
       "source": "CO Politics",
       "pub_date": "2026-10-11T11:00:00+00:00",
-      "age_hours": 8.970641665277778,
+      "age_hours": 12.572805986111112,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Colorado Ballet\u2019s 20-year survival tale includes begging, borrowing and grit",
       "link": "https://coloradosun.com/2026/10/11/colorado-ballet-20-year-survival-tale-includes-begging-borrowing-and-grit/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-11T10:29:00+00:00",
-      "age_hours": 9.486806588055556,
+      "age_hours": 13.088705651666666,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Photos: Colorado Ballet helps children use dance to be themselves",
       "link": "https://coloradosun.com/2026/10/11/colorado-ballet-dance-down-syndrome-be-beautiful-be-yourself/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-11T10:01:00+00:00",
-      "age_hours": 9.953473969444444,
+      "age_hours": 13.555372890833333,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "How much are Colorado\u2019s lawmakers spending on DC housing and meals?",
       "link": "https://www.cpr.org/2026/10/11/colorado-lawmakers-dc-housing-meals/",
       "source": "CPR",
       "pub_date": "2026-10-11T10:00:00+00:00",
-      "age_hours": 9.970265757777778,
+      "age_hours": 13.572168667222224,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 10.10.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-10-10-26/",
       "source": "Sentinel",
       "pub_date": "2026-10-11T05:22:00+00:00",
-      "age_hours": 14.604087843611111,
+      "age_hours": 18.206197047777778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Guatemalan giant kites draw Denver families to honor loved ones who have passed",
       "link": "https://www.9news.com/article/life/guatemalan-giant-kites-draw-denver-families-to-honor-loved-ones-who-have-passed/73-437c28a8-179b-4e51-8ba9-45eee2a3063d",
       "source": "9News",
       "pub_date": "2026-10-11T05:19:59+00:00",
-      "age_hours": 14.637232503055555,
+      "age_hours": 18.239189176666667,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Woman assaulted at Denver's Washington park after suspect harassed her a day before",
       "link": "https://kdvr.com/news/local/woman-assaulted-at-denvers-washington-park-after-suspect-harassed-her-a-day-before/",
       "source": "Fox31",
       "pub_date": "2026-10-10T23:53:14+00:00",
-      "age_hours": 20.083274572222223,
+      "age_hours": 23.685320379444445,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "\"No one fights alone\": Denver event empowers women battling cancer",
       "link": "https://kdvr.com/news/local/no-one-fights-alone-denver-event-empowers-women-battling-cancer/",
       "source": "Fox31",
       "pub_date": "2026-10-10T22:43:00+00:00",
-      "age_hours": 21.25383019194444,
+      "age_hours": 24.855876004166667,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Argument leads to fatal shooting, arrest, at Saddle Rock apartment in southeast Aurora",
       "link": "https://sentinelcolorado.com/metro/argument-leads-to-fatal-shooting-of-man-at-saddle-rock-apartment-in-southeast-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-10-10T16:15:19+00:00",
-      "age_hours": 27.715477091111108,
+      "age_hours": 31.317586240833336,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://www.coloradopolitics.com/2026/10/10/coco-train-ballot-error-election-solution/",
       "source": "CO Politics",
       "pub_date": "2026-10-10T15:47:13+00:00",
-      "age_hours": 28.18369724611111,
+      "age_hours": 31.785861565,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.9news.com/article/news/local/local-politics/trump-administration-sues-denver-mask-ban/73-58b4dbe4-2df6-44fd-8f67-e32bb3607196",
       "source": "9News",
       "pub_date": "2026-10-10T12:19:59+00:00",
-      "age_hours": 31.637232592222226,
+      "age_hours": 35.23918924555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-10T09:55:00+00:00",
-      "age_hours": 34.05347482333333,
+      "age_hours": 37.65537357833333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-week-7-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-10-10T04:00:00+00:00",
-      "age_hours": 39.970755045277784,
+      "age_hours": 43.57286417305555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,27 +171,18 @@
       "link": "https://sentinelcolorado.com/metro/man-surrenders-to-aurora-police-after-12-hour-standoff-after-an-alleged-hit-and-run/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T22:51:21+00:00",
-      "age_hours": 45.11492214388889,
+      "age_hours": 48.71703119000001,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Inflation, loss of SNAP benefits add to struggles families face to eat, Hickenlooper days",
       "link": "https://sentinelcolorado.com/metro/inflation-loss-of-snap-benefits-add-to-struggles-families-face-to-eat-hickenlooper-days/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T21:32:26+00:00",
-      "age_hours": 46.430200101666664,
+      "age_hours": 50.03230912888889,
       "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Longmont\u2019s $70M transit center could be complete by late 2027",
-      "link": "https://bizwest.com/2026/10/09/longmonts-70m-transit-center-could-be-complete-by-late-2027/",
-      "source": "BizWest",
-      "pub_date": "2026-10-09T21:02:51+00:00",
-      "age_hours": 46.92231270861111,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     }
   ]
 }
