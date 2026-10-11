@@ -1,78 +1,87 @@
 {
-  "fetched_date": "2026-10-10",
-  "fetched_at": "2026-10-10 22:16:11",
+  "fetched_date": "2026-10-11",
+  "fetched_at": "2026-10-11 01:36:05",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Woman assaulted at Denver's Washington park after suspect harassed her a day before",
+      "link": "https://kdvr.com/news/local/woman-assaulted-at-denvers-washington-park-after-suspect-harassed-her-a-day-before/",
+      "source": "Fox31",
+      "pub_date": "2026-10-10T23:53:14+00:00",
+      "age_hours": 1.7099318413888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "\"No one fights alone\": Denver event empowers women battling cancer",
+      "link": "https://kdvr.com/news/local/no-one-fights-alone-denver-event-empowers-women-battling-cancer/",
+      "source": "Fox31",
+      "pub_date": "2026-10-10T22:43:00+00:00",
+      "age_hours": 2.880487474166667,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Argument leads to fatal shooting, arrest, at Saddle Rock apartment in southeast Aurora",
       "link": "https://sentinelcolorado.com/metro/argument-leads-to-fatal-shooting-of-man-at-saddle-rock-apartment-in-southeast-aurora/",
       "source": "Sentinel",
       "pub_date": "2026-10-10T16:15:19+00:00",
-      "age_hours": 6.010311838888889,
+      "age_hours": 9.342067458333332,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Election officials settle on fix to \u2018Coco\u2019 train ballot error",
       "link": "https://www.coloradopolitics.com/2026/10/10/coco-train-ballot-error-election-solution/",
       "source": "CO Politics",
       "pub_date": "2026-10-10T15:47:13+00:00",
-      "age_hours": 6.478593998333333,
+      "age_hours": 9.810363390555557,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Trump administration sues Denver for officer mask ban that hasn\u2019t had a single citation or arrest",
       "link": "https://www.9news.com/article/news/local/local-politics/trump-administration-sues-denver-mask-ban/73-58b4dbe4-2df6-44fd-8f67-e32bb3607196",
       "source": "9News",
       "pub_date": "2026-10-10T12:19:59+00:00",
-      "age_hours": 9.931910213055556,
+      "age_hours": 13.263815912222222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Where Phil Weiser, Victor Marx stand on the big issues in Colorado\u2019s race for governor",
       "link": "https://coloradosun.com/2026/10/10/colorado-governor-phil-weiser-victor-marx-voter-guide/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-10T09:55:00+00:00",
-      "age_hours": 12.348063730555555,
+      "age_hours": 15.680045943333333,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Football: Aurora\u2019s Week 7 results",
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-week-7-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-10-10T04:00:00+00:00",
-      "age_hours": 18.265589728055556,
+      "age_hours": 21.597345431666668,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Denver\u2019s first PorchFest brings record sales to Broadway businesses",
       "link": "https://www.9news.com/article/money/business/small-business/denvers-first-porchfest-brings-record-sales-to-broadway-businesses/73-ec8e41a0-47dd-4f40-bf49-e7c345cbbcbe",
       "source": "9News",
       "pub_date": "2026-10-09T23:13:10+00:00",
-      "age_hours": 23.045521386666667,
+      "age_hours": 26.377427143055556,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Man surrenders to Aurora police after 12-hour standoff after an alleged hit-and-run",
       "link": "https://sentinelcolorado.com/metro/man-surrenders-to-aurora-police-after-12-hour-standoff-after-an-alleged-hit-and-run/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T22:51:21+00:00",
-      "age_hours": 23.40975663972222,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Westcliffe needs help following Aspen Acres Fire",
-      "link": "https://kdvr.com/news/local/westcliffe-needs-help-following-aspen-acres-fire/",
-      "source": "Fox31",
-      "pub_date": "2026-10-09T21:38:17+00:00",
-      "age_hours": 24.627224107777778,
+      "age_hours": 26.741512535000002,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://sentinelcolorado.com/metro/inflation-loss-of-snap-benefits-add-to-struggles-families-face-to-eat-hickenlooper-days/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T21:32:26+00:00",
-      "age_hours": 24.725034518333334,
+      "age_hours": 28.05679048527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://coloradosun.com/2026/10/09/federal-government-sues-denver-over-ice-mask-ban/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-09T21:20:10+00:00",
-      "age_hours": 24.928619560833333,
+      "age_hours": 28.260602424722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://bizwest.com/2026/10/09/longmonts-70m-transit-center-could-be-complete-by-late-2027/",
       "source": "BizWest",
       "pub_date": "2026-10-09T21:02:51+00:00",
-      "age_hours": 25.216746488333335,
+      "age_hours": 28.548860474444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://bizwest.com/2026/10/09/early-bird-discount-ends-sunday-for-boulder-valley-real-estate-conference/",
       "source": "BizWest",
       "pub_date": "2026-10-09T20:59:57+00:00",
-      "age_hours": 25.265079835277778,
+      "age_hours": 28.597193832222224,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://bizwest.com/2026/10/09/alpine-bank-acquires-land-for-first-greeley-branch/",
       "source": "BizWest",
       "pub_date": "2026-10-09T20:55:49+00:00",
-      "age_hours": 25.333968729444443,
+      "age_hours": 28.666082745,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://kdvr.com/news/local/prices-and-where-to-stay-during-the-sundance-film-festival/",
       "source": "Fox31",
       "pub_date": "2026-10-09T20:47:17+00:00",
-      "age_hours": 25.47722406861111,
+      "age_hours": 28.809098675555553,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-10-9-26/",
       "source": "Sentinel",
       "pub_date": "2026-10-09T20:46:48+00:00",
-      "age_hours": 25.48559025861111,
+      "age_hours": 28.817346360277778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://www.cpr.org/2026/10/09/lockheed-martin-space-colorado-expansion/",
       "source": "CPR",
       "pub_date": "2026-10-09T20:17:02+00:00",
-      "age_hours": 25.980986379444442,
+      "age_hours": 29.31296197777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,16 +162,7 @@
       "link": "https://www.denver7.com/money/consumer/a-changing-brewing-industry-mean-this-years-great-american-beer-fest-has-a-different-look",
       "source": "Denver7",
       "pub_date": "2026-10-09T18:22:53+00:00",
-      "age_hours": 27.883787414999997,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Delta CEO says fuel prices will be even higher this fall",
-      "link": "https://www.9news.com/article/news/nation-world/delta-fuel-prices-higher-forecast/507-fa67325c-5200-4ef5-b3b3-2bdf6fadf7b7",
-      "source": "9News",
-      "pub_date": "2026-10-09T16:32:49+00:00",
-      "age_hours": 29.718021416944445,
+      "age_hours": 31.21563270472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://www.bisnow.com/news/denver/coworking/coworking-co-opens-golf-focused-space-in-cherry-creek-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-10-09T16:28:33-04:00",
-      "age_hours": 25.788554276388886,
+      "age_hours": 29.120645148333335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/10/09/nadora-healthcare-opens-greeley-clinic/",
       "source": "BizWest",
       "pub_date": "2026-10-09T15:06:00+00:00",
-      "age_hours": 31.164246811944444,
+      "age_hours": 34.49636158888889,
       "breaking": false,
       "time_ago": "1 day ago"
     }
