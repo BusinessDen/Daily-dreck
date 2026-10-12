@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-12",
-  "fetched_at": "2026-10-12 12:50:10",
+  "fetched_at": "2026-10-12 21:36:09",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 11,
   "articles": [
+    {
+      "title": "Summit to seek solutions for affordable housing",
+      "link": "https://bizwest.com/2026/10/12/summit-to-seek-solutions-for-affordable-housing/",
+      "source": "BizWest",
+      "pub_date": "2026-10-12T21:34:09+00:00",
+      "age_hours": 0.028077178333333334,
+      "breaking": true,
+      "time_ago": "1 min ago"
+    },
+    {
+      "title": "Colorado Chamber names \u2018Coolest Thing\u2019 finalists",
+      "link": "https://bizwest.com/2026/10/12/colorado-chamber-names-coolest-thing-finalists/",
+      "source": "BizWest",
+      "pub_date": "2026-10-12T21:26:55+00:00",
+      "age_hours": 0.14863330444444445,
+      "breaking": true,
+      "time_ago": "8 min ago"
+    },
+    {
+      "title": "Aurora unveils designs for newest fire station complete with museum in the Aurora Highlands",
+      "link": "https://sentinelcolorado.com/metro/aurora-unveils-designs-for-newest-fire-station-complete-with-museum-in-the-aurora-highlands/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-12T20:38:07+00:00",
+      "age_hours": 0.9633554186111111,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
+    {
+      "title": "Clubhouse Work & Golf Opens in Cherry Creek",
+      "link": "https://milehighcre.com/clubhouse-work-golf-opens-in-cherry-creek/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-12T19:50:43+00:00",
+      "age_hours": 1.7522979105555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Volunteers surge to monitor Colorado polls amid fears of federal interference",
+      "link": "https://sentinelcolorado.com/metro/volunteers-surge-to-monitor-colorado-polls-amid-fears-of-federal-interference/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-12T19:44:01+00:00",
+      "age_hours": 1.865022384722222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Saudi Arabia responds to drone and cruise missile attacks, and other Mideast developments",
+      "link": "https://sentinelcolorado.com/uncategorized/saudi-arabia-responds-to-drone-and-cruise-missile-attacks-and-other-mideast-developments/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-12T19:35:34+00:00",
+      "age_hours": 2.0058561108333333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Foreclosures",
+      "link": "https://bizwest.com/2026/10/12/foreclosures-2/",
+      "source": "BizWest",
+      "pub_date": "2026-10-12T19:31:11+00:00",
+      "age_hours": 2.077522233333333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Liberal super PAC resurrecting Lauren Boebert\u2019s \u201cBeetlejuice\u201d drama drops $1.5M to block her reelection",
+      "link": "https://coloradosun.com/2026/10/12/lauren-boebert-beetlejuice-ads-2026-eileen-laubacher/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-12T18:32:56+00:00",
+      "age_hours": 3.0487816147222224,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "History Colorado offers sneak peek of first of 3 statues that will create Sand Creek Massacre memorial",
+      "link": "https://coloradosun.com/2026/10/12/history-colorado-sand-creek-massacre-memorial-statue-chief-black-kettle/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-12T17:59:47+00:00",
+      "age_hours": 3.601281658611111,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "CBRE Arranges Sale of Novera Commerce Center",
+      "link": "https://milehighcre.com/cbre-arranges-sale-of-novera-commerce-center/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-12T16:32:04+00:00",
+      "age_hours": 5.063131488055555,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "National Site Selectors Tell Metro Denver What it Takes to Win the Next Wave of Jobs",
+      "link": "https://milehighcre.com/national-site-selectors-tell-metro-denver-what-it-takes-to-win-the-next-wave-of-jobs/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-12T15:40:14+00:00",
+      "age_hours": 5.927020389166667,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "RTD adds Discover to Tap-n-Ride",
+      "link": "https://bizwest.com/2026/10/12/rtd-adds-discover-to-tap-n-ride/",
+      "source": "BizWest",
+      "pub_date": "2026-10-12T13:50:20+00:00",
+      "age_hours": 7.758355590277778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
     {
       "title": "Judge orders Trump administration to cancel taxpayer-funded promotional TV ads",
       "link": "https://www.9news.com/article/news/nation-world/judge-orders-trump-administration-cancel-taxpayer-funded-promotional-tv-ads/507-4b10f8fe-c92c-4908-84e1-8e3af265a781",
       "source": "9News",
       "pub_date": "2026-10-12T12:08:07+00:00",
-      "age_hours": 0.6964113841666666,
-      "breaking": true,
-      "time_ago": "41 min ago"
+      "age_hours": 9.46259887388889,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "This is the hottest housing market in the Denver-metro area",
       "link": "https://www.9news.com/article/money/markets/real-estate/denver-metro-area-housing-market/73-042b98ac-de59-4922-8ec2-889da9f9c4ed",
       "source": "9News",
       "pub_date": "2026-10-12T12:07:27+00:00",
-      "age_hours": 0.70752251,
-      "breaking": true,
-      "time_ago": "42 min ago"
+      "age_hours": 9.473709993333333,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Lockheed Martin expands metro-Denver presence after landing job-growth tax incentives",
       "link": "https://www.9news.com/article/money/business/lockheed-martin-highlands-ranch-expansion/73-0576a420-09dd-49d7-87d4-b6efa65e03e7",
       "source": "9News",
       "pub_date": "2026-10-12T12:02:06+00:00",
-      "age_hours": 0.7966891847222222,
-      "breaking": true,
-      "time_ago": "47 min ago"
+      "age_hours": 9.562876665833333,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Boulder County cement plant to lay off 70 workers",
       "link": "https://www.9news.com/article/money/business/boulder-county-cement-plant-layoffs/73-959b2fb5-1a25-468a-a7f1-4218def62701",
       "source": "9News",
       "pub_date": "2026-10-12T11:56:10+00:00",
-      "age_hours": 0.8955781416666667,
-      "breaking": true,
-      "time_ago": "53 min ago"
-    },
-    {
-      "title": "The Waffle House Index helps Southerners \u2014 and FEMA \u2014 gauge a storm\u2019s severity",
-      "link": "https://sentinelcolorado.com/uncategorized/the-waffle-house-index-helps-southerners-and-fema-gauge-a-storms-severity/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-12T11:39:26+00:00",
-      "age_hours": 1.1751084352777779,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "2 American economists win Nobel for overturning assumptions about how to deal with economic shocks",
-      "link": "https://sentinelcolorado.com/nation-world/world/2-american-economists-win-nobel-for-overturning-assumptions-about-how-to-deal-with-economic-shocks/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-12T11:28:44+00:00",
-      "age_hours": 1.3534422391666665,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 9.661765599444445,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Sorry, we're closed: Before you buy gift cards, know this costly risk",
       "link": "https://www.denver7.com/dont-waste-your-money/sorry-were-closed-before-you-buy-gift-cards-know-this-costly-risk",
       "source": "Denver7",
       "pub_date": "2026-10-12T11:16:07+00:00",
-      "age_hours": 1.5632423991666666,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 10.32944055,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "The Denver area didn\u2019t conserve enough water this summer. Now it\u2019s taking more from the Western Slope.",
       "link": "https://coloradosun.com/2026/10/12/denver-metro-water-reservoir-storage-western-slope/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-12T10:00:00+00:00",
-      "age_hours": 2.8314085844444445,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 11.597671150277778,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Colorado voters may steer roughly $200M a year to land management, but there\u2019s no guarantee it gets there",
       "link": "https://coloradosun.com/2026/10/12/proposition-137-colorado-state-budget-impacts/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-12T09:45:00+00:00",
-      "age_hours": 3.0814090527777775,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "FAA replaces 31-year-old runway radar at Denver International Airport",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/faa-replaces-runway-radar-denver-international-airport/73-a45c8525-cb40-4416-9054-d34c5d24998e",
-      "source": "9News",
-      "pub_date": "2026-10-12T00:08:12+00:00",
-      "age_hours": 12.695022684166666,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Denver Tech Center Office Tower Trades Hands For First Time In 14 Years",
-      "link": "https://www.bisnow.com/news/denver/office/denver-tech-center-office-tower-trades-hands-first-time-in-14-years",
-      "source": "Bisnow",
-      "pub_date": "2026-10-11T21:45:35-04:00",
-      "age_hours": 11.07128909861111,
+      "age_hours": 11.847671478888888,
       "breaking": false,
       "time_ago": "11 hrs ago"
     },
     {
-      "title": "Rechargeable hand warmers recalled due to risk of fire and burn hazards",
-      "link": "https://www.9news.com/article/news/nation-world/hothands-lithium-ion-battery-rechargeable-hand-warmers-recalled-risk-fire-burn-hazards/507-2ddc4273-8409-4840-ae86-bbea3f0df336",
-      "source": "9News",
-      "pub_date": "2026-10-11T17:23:23+00:00",
-      "age_hours": 19.441967198611113,
+      "title": "Cafe Calendar: Argentine wines take the table at Bella Colibri",
+      "link": "https://www.westword.com/food-drink/denver-food-drink-dining-events-this-week-40908870/",
+      "source": "Westword",
+      "pub_date": "2026-10-12T07:34:13-06:00",
+      "age_hours": 8.028140698055555,
       "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Home sellers grapple with new normal",
-      "link": "https://bizwest.com/2026/10/11/home-sellers-grapple-with-new-normal/",
-      "source": "BizWest",
-      "pub_date": "2026-10-11T17:13:15+00:00",
-      "age_hours": 19.60999223527778,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Denver Police investigating crash that killed pedestrian",
-      "link": "https://www.9news.com/article/news/local/fatal-pedestrian-crash-denver/73-e84fed85-5c91-4546-a820-d98afcfd85fc",
-      "source": "9News",
-      "pub_date": "2026-10-11T17:11:36+00:00",
-      "age_hours": 19.638356094166667,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "10 candidates for 1 seat: Denver\u2019s crowded council race",
-      "link": "https://www.coloradopolitics.com/2026/10/11/denver-elections-council-race-voter-guide/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-11T11:00:00+00:00",
-      "age_hours": 25.832228119444444,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Jeffco commissioner race: Lisa Cutter versus Stephanie VandenBerg",
-      "link": "https://www.coloradopolitics.com/2026/10/11/jeffco-commissioner-race-lisa-cutter-versus-stephanie-vandenberg/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-11T11:00:00+00:00",
-      "age_hours": 25.832228233055556,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado Ballet\u2019s 20-year survival tale includes begging, borrowing and grit",
-      "link": "https://coloradosun.com/2026/10/11/colorado-ballet-20-year-survival-tale-includes-begging-borrowing-and-grit/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-11T10:29:00+00:00",
-      "age_hours": 26.34807664472222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Photos: Colorado Ballet helps children use dance to be themselves",
-      "link": "https://coloradosun.com/2026/10/11/colorado-ballet-dance-down-syndrome-be-beautiful-be-yourself/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-11T10:01:00+00:00",
-      "age_hours": 26.814744072777778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "How much are Colorado\u2019s lawmakers spending on DC housing and meals?",
-      "link": "https://www.cpr.org/2026/10/11/colorado-lawmakers-dc-housing-meals/",
-      "source": "CPR",
-      "pub_date": "2026-10-11T10:00:00+00:00",
-      "age_hours": 26.831615696388887,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Guatemalan giant kites draw Denver families to honor loved ones who have passed",
-      "link": "https://www.9news.com/article/life/guatemalan-giant-kites-draw-denver-families-to-honor-loved-ones-who-have-passed/73-437c28a8-179b-4e51-8ba9-45eee2a3063d",
-      "source": "9News",
-      "pub_date": "2026-10-11T05:19:59+00:00",
-      "age_hours": 31.498633909722223,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "8 hrs ago"
     }
   ]
 }
