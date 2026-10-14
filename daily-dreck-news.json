@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-14",
-  "fetched_at": "2026-10-14 01:39:59",
+  "fetched_at": "2026-10-14 07:13:15",
   "article_count": 20,
-  "breaking_count": 16,
+  "breaking_count": 5,
   "articles": [
+    {
+      "title": "Aurora prep sports scoreboard, 10.13.26",
+      "link": "https://sentinelcolorado.com/sports/preps/aurora-prep-sports-scoreboard-10-13-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-14T05:47:02+00:00",
+      "age_hours": 1.4329453283333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Medina Alert issued after hit-and-run in Denver",
+      "link": "https://kdvr.com/news/local/medina-alert-issued-after-hit-and-run-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-10-14T04:21:20+00:00",
+      "age_hours": 2.861000123888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "One man injured by smoke from kitchen fire at central Aurora apartment Tuesday",
+      "link": "https://sentinelcolorado.com/metro/one-man-injured-by-smoke-from-kitchen-fire-at-central-aurora-apartment-tuesday/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-14T03:45:01+00:00",
+      "age_hours": 3.4665567869444445,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Canadian rock band Nickelback coming to Denver in 2027",
       "link": "https://kdvr.com/denver-guide/canadian-rock-band-nickelback-coming-to-denver-in-2027/",
       "source": "Fox31",
       "pub_date": "2026-10-14T01:34:24+00:00",
-      "age_hours": 0.0891371225,
+      "age_hours": 5.643222516388889,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver releases draft plan to guide development around Burnham Yard, the Broncos\u2019 preferred stadium site",
       "link": "https://www.9news.com/article/news/local/colorado-news/denver-releases-draft-plan-burnham-yard-development/73-8d0d28f0-40b3-473c-9721-47cee3ad3e2d",
       "source": "9News",
       "pub_date": "2026-10-14T01:22:11+00:00",
-      "age_hours": 0.29240233527777776,
+      "age_hours": 5.846558565833333,
       "breaking": true,
-      "time_ago": "17 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Golden distillery wants to put Colorado on the map",
       "link": "https://www.9news.com/video/news/local/golden-distillery-wants-to-put-colorado-on-the-map/73-3b078fd2-37b0-414e-a8af-9e93ba35867b",
       "source": "9News",
       "pub_date": "2026-10-14T01:05:51+00:00",
-      "age_hours": 0.5646245908333334,
-      "breaking": true,
-      "time_ago": "33 min ago"
+      "age_hours": 6.118780803333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Video shows RTD bus hit pickup on Colfax 2 days after new center-lane bus service opened",
       "link": "https://www.9news.com/article/news/local/video-shows-rtd-bus-crash-on-colfax-two-days-after-new-center-lane-bus-service-opened/73-9d46a65d-cb23-4dcd-938d-a70435f124b4",
       "source": "9News",
       "pub_date": "2026-10-14T01:00:21+00:00",
-      "age_hours": 0.6562913080555556,
-      "breaking": true,
-      "time_ago": "39 min ago"
+      "age_hours": 6.210447524166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Dancing with the Stars to perform live in Denver",
       "link": "https://kdvr.com/denver-guide/dancing-with-the-stars-to-perform-live-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-10-14T00:59:26+00:00",
-      "age_hours": 0.6719148130555557,
-      "breaking": true,
-      "time_ago": "40 min ago"
+      "age_hours": 6.226000220833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Buc-ee\u2019s submits plans for Monument Hill store despite lawsuit challenging El Paso County zoning decision",
       "link": "https://www.cpr.org/2026/10/13/buc-ees-monument-hill-lawsuit-el-paso-county/",
       "source": "CPR",
       "pub_date": "2026-10-13T23:46:40+00:00",
-      "age_hours": 1.884199988611111,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.438475107777777,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "New way to exchange information after crash coming to Denver",
       "link": "https://kdvr.com/news/local/new-way-to-exchange-information-after-crash-coming-to-denver/",
       "source": "Fox31",
       "pub_date": "2026-10-13T22:53:45+00:00",
-      "age_hours": 2.7666369816666667,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 8.320722403055555,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Executive survey: Economic concerns persist for Q4",
       "link": "https://bizwest.com/2026/10/13/executive-survey-economic-concerns-persist-for-fourth-quarter/",
       "source": "BizWest",
       "pub_date": "2026-10-13T21:41:28+00:00",
-      "age_hours": 3.970090162222222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.524641158333333,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "New Pilgrim\u2019s Pride committee mulling JBS takeover bid",
       "link": "https://bizwest.com/2026/10/13/new-pilgrims-pride-committee-mulling-jbs-takeover-bid/",
       "source": "BizWest",
       "pub_date": "2026-10-13T21:35:22+00:00",
-      "age_hours": 4.0717573894444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.626308345555556,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Expanded Longmont Museum to hold grand reopening Saturday",
       "link": "https://bizwest.com/2026/10/13/expanded-longmont-museum-to-hold-grand-reopening-saturday/",
       "source": "BizWest",
       "pub_date": "2026-10-13T21:27:42+00:00",
-      "age_hours": 4.199535204722222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.754086163055554,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver cemetery asks for respect after suspected photo shoot damages mausoleum",
       "link": "https://kdvr.com/news/local/denver-cemetery-asks-for-respect-after-suspected-photo-shoot-damages-mausoleum/",
       "source": "Fox31",
       "pub_date": "2026-10-13T21:26:50+00:00",
-      "age_hours": 4.215248030555555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.769333403055557,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Stojkovski named CEO at SuperTurbo Technologies",
       "link": "https://bizwest.com/2026/10/13/stojkovski-named-ceo-at-superturbo-technologies/",
       "source": "BizWest",
       "pub_date": "2026-10-13T21:23:42+00:00",
-      "age_hours": 4.266201877777778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.82075283611111,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Cayko: Closed Boulder Valley schools deserve second life",
       "link": "https://bizwest.com/2026/10/13/cayko-closed-boulder-valley-schools-deserve-second-life/",
       "source": "BizWest",
       "pub_date": "2026-10-13T21:17:18+00:00",
-      "age_hours": 4.372868572222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.927419531666668,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Lauren Boebert, Eileen Laubacher appear in lone televised debate ahead of midterms",
       "link": "https://sentinelcolorado.com/1gridelex/lauren-boebert-eileen-laubacher-appear-in-lone-televised-debate-ahead-of-midterms/",
       "source": "Sentinel",
       "pub_date": "2026-10-13T21:15:20+00:00",
-      "age_hours": 4.4072300425,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.961279338333334,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Aurora city manager rebukes protester demands to fire Police Chief Chamberlain",
       "link": "https://sentinelcolorado.com/metro/aurora-city-manager-rebukes-protester-demands-to-fire-police-chief-chamberlain/",
       "source": "Sentinel",
       "pub_date": "2026-10-13T21:06:49+00:00",
-      "age_hours": 4.549174868888889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.10322409361111,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver officials announce designer, new plans for Park Hill Park",
       "link": "https://kdvr.com/news/local/denver-officials-announce-designer-new-plans-for-park-hill-park/",
       "source": "Fox31",
       "pub_date": "2026-10-13T20:01:47+00:00",
-      "age_hours": 5.632748285,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.186833634166668,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Building Affordable Housing isn\u2019t Enough. We Have to Keep it Affordable.",
       "link": "https://milehighcre.com/building-affordable-housing-isnt-enough-we-have-to-keep-it-affordable/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-13T18:31:00+00:00",
-      "age_hours": 7.145103106111111,
+      "age_hours": 12.699400680277778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "New data center restrictions passed by Aurora lawmakers as issue creates regular controversy",
-      "link": "https://sentinelcolorado.com/metro/new-data-center-restrictions-passed-by-aurora-lawmakers-as-issue-creates-regular-controversy/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-13T18:16:29+00:00",
-      "age_hours": 7.388064012777778,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Indie 102.3 Giveaways",
-      "link": "https://www.cpr.org/2026/10/13/indie-102-3-giveaways/",
-      "source": "CPR",
-      "pub_date": "2026-10-13T18:00:00+00:00",
-      "age_hours": 7.661977865,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Lottery player wins $200,000 in Colorado",
-      "link": "https://www.9news.com/article/news/lottery/colorado-lottery-cash-5-player-jackpot-winner/73-1d128c87-9bc6-4c19-ac48-816faf4ed0c5",
-      "source": "9News",
-      "pub_date": "2026-10-13T17:50:32+00:00",
-      "age_hours": 7.819902559722222,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "12 hrs ago"
     }
   ]
 }
