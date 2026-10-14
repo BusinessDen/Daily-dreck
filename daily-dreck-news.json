@@ -1,60 +1,159 @@
 {
   "fetched_date": "2026-10-14",
-  "fetched_at": "2026-10-14 13:23:32",
+  "fetched_at": "2026-10-14 18:21:34",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 13,
   "articles": [
+    {
+      "title": "Cherokee Trail landmark, 17 Mile House, holds free event Saturday focusing on area water",
+      "link": "https://sentinelcolorado.com/metro/cherokee-trail-landmark-17-mile-house-holds-free-event-saturday-focusing-on-area-water/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-14T17:35:57+00:00",
+      "age_hours": 0.7564522327777778,
+      "breaking": true,
+      "time_ago": "45 min ago"
+    },
+    {
+      "title": "Listen: What happens when an arts reporter makes art?",
+      "link": "https://www.cpr.org/2026/10/14/listen-crime-reporter-play-john-moore/",
+      "source": "CPR",
+      "pub_date": "2026-10-14T17:21:04+00:00",
+      "age_hours": 1.0035809875000001,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Delta Air Lines unveils business-class revamp as it bolsters luxury flying experience",
+      "link": "https://www.9news.com/article/news/nation-world/delta-one-class-upgrades-porsche-pick-up-menu/507-f0d17a04-a5ed-4729-a0d2-ca0412a5b059",
+      "source": "9News",
+      "pub_date": "2026-10-14T16:41:04+00:00",
+      "age_hours": 1.6703528230555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Teen dies after crash involving CSP patrol vehicle on I-70",
+      "link": "https://www.9news.com/article/traffic/incidents/csp-trooper-hit-while-responding-to-semi-crash-on-i-70/73-56423231-60a5-4da0-877b-b4132bb36e31",
+      "source": "9News",
+      "pub_date": "2026-10-14T16:28:58+00:00",
+      "age_hours": 1.8720195316666668,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Voter ID, taxes, K-12 measures drive millions in Colorado spending",
+      "link": "https://www.coloradopolitics.com/2026/10/14/colorado-ballot-measure-committees-spend-23-million/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-14T15:59:21+00:00",
+      "age_hours": 2.366324026111111,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver City Council grapples with doing business with companies tied to immigration enforcement",
+      "link": "https://www.9news.com/article/news/latest-news-ott/denver-city-council-immigration-enforcement-key-lime-air/73-ec1af651-f813-49dd-92c0-29503ae02c06",
+      "source": "9News",
+      "pub_date": "2026-10-14T15:18:04+00:00",
+      "age_hours": 3.053686236666667,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Disappearing Dog: Search for missing pup in Yellowstone is under pressure as winter nears",
+      "link": "https://www.9news.com/article/news/nation-world/missing-dog-yellowstone/507-52683a10-0cd4-4fe2-b618-6fe4b9936f71",
+      "source": "9News",
+      "pub_date": "2026-10-14T15:00:05+00:00",
+      "age_hours": 3.353408462222222,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Ex-Fort Collins city manager joins Elevations board",
+      "link": "https://bizwest.com/2026/10/14/ex-fort-collins-city-manager-joins-elevations-board/",
+      "source": "BizWest",
+      "pub_date": "2026-10-14T14:08:27+00:00",
+      "age_hours": 4.213131661944444,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Edeburn named FRCC\u2019s first AVP for IT",
+      "link": "https://bizwest.com/2026/10/14/edeburn-named-frccs-first-avp-for-it/",
+      "source": "BizWest",
+      "pub_date": "2026-10-14T14:02:47+00:00",
+      "age_hours": 4.307576437777778,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Real Capital Solutions, partner acquire DTC office tower",
+      "link": "https://bizwest.com/2026/10/14/real-capital-solutions-partner-acquire-dtc-office-tower/",
+      "source": "BizWest",
+      "pub_date": "2026-10-14T13:56:31+00:00",
+      "age_hours": 4.4120209091666664,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Lone Tree officials consider new development on open space site",
+      "link": "https://kdvr.com/news/local/lone-tree-officials-consider-new-development-on-open-space-site/",
+      "source": "Fox31",
+      "pub_date": "2026-10-14T13:46:16+00:00",
+      "age_hours": 4.583927099444444,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
       "link": "https://sentinelcolorado.com/nation-world/nation/inflation-worsened-last-month-to-3-7-in-sign-that-prices-remain-elevated-as-midterm-elections-near/",
       "source": "Sentinel",
       "pub_date": "2026-10-14T13:00:11+00:00",
-      "age_hours": 0.38486756583333337,
+      "age_hours": 5.352563549166667,
       "breaking": true,
-      "time_ago": "23 min ago"
-    },
-    {
-      "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws",
-      "link": "https://sentinelcolorado.com/nation-world/nation/us-hits-bank-of-america-with-1-2-billion-fine-saying-it-violated-money-laundering-sanctions-laws/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-14T12:49:29+00:00",
-      "age_hours": 0.5632011666666666,
-      "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Safeway to close Arvada grocery store",
       "link": "https://www.9news.com/article/money/business/safeway-closes-arvada-grocery-store/73-cab0091a-8b7c-4fa9-84a6-9eb0fb455cb3",
       "source": "9News",
       "pub_date": "2026-10-14T11:12:52+00:00",
-      "age_hours": 2.1728706172222223,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.140352964722222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Millions in untraceable conservative money is flooding into Colorado to oppose tax-related ballot measures",
       "link": "https://coloradosun.com/2026/10/14/dark-money-colorado-election-2026-ballot-measures/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-14T10:29:00+00:00",
-      "age_hours": 2.903624458055556,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.871069043333334,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Housing is slightly more affordable in Colorado, a report shows. You may not have noticed.",
       "link": "https://coloradosun.com/2026/10/14/housing-affordability-median-prices-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-14T10:00:00+00:00",
-      "age_hours": 3.3869578686111113,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.354402428611111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado can help lead data center construction \u2014 in space | PODIUM",
       "link": "https://www.coloradopolitics.com/2026/10/14/colorado-can-help-lead-data-center-construction-in-space-podium/",
       "source": "CO Politics",
       "pub_date": "2026-10-14T09:06:45+00:00",
-      "age_hours": 4.275393040833333,
+      "age_hours": 9.242990723333332,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
+    },
+    {
+      "title": "These are the best California burritos in Denver",
+      "link": "https://www.westword.com/food-drink/best-california-style-burritos-denver-40948406/",
+      "source": "Westword",
+      "pub_date": "2026-10-14T07:30:00-06:00",
+      "age_hours": 4.8552662675,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -63,126 +162,27 @@
       "link": "https://kdvr.com/news/local/medina-alert-issued-after-hit-and-run-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-10-14T04:21:20+00:00",
-      "age_hours": 9.032088339722222,
+      "age_hours": 13.999482626111112,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Canadian rock band Nickelback coming to Denver in 2027",
-      "link": "https://kdvr.com/denver-guide/canadian-rock-band-nickelback-coming-to-denver-in-2027/",
-      "source": "Fox31",
-      "pub_date": "2026-10-14T01:34:24+00:00",
-      "age_hours": 11.814310766111111,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver releases draft plan to guide development around Burnham Yard, the Broncos\u2019 preferred stadium site",
-      "link": "https://www.9news.com/article/news/local/colorado-news/denver-releases-draft-plan-burnham-yard-development/73-8d0d28f0-40b3-473c-9721-47cee3ad3e2d",
-      "source": "9News",
-      "pub_date": "2026-10-14T01:22:11+00:00",
-      "age_hours": 12.017592908055557,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Golden distillery wants to put Colorado on the map",
-      "link": "https://www.9news.com/video/news/local/golden-distillery-wants-to-put-colorado-on-the-map/73-3b078fd2-37b0-414e-a8af-9e93ba35867b",
-      "source": "9News",
-      "pub_date": "2026-10-14T01:05:51+00:00",
-      "age_hours": 12.289815141111111,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Video shows RTD bus hit pickup on Colfax 2 days after new center-lane bus service opened",
-      "link": "https://www.9news.com/article/news/local/video-shows-rtd-bus-crash-on-colfax-two-days-after-new-center-lane-bus-service-opened/73-9d46a65d-cb23-4dcd-938d-a70435f124b4",
-      "source": "9News",
-      "pub_date": "2026-10-14T01:00:21+00:00",
-      "age_hours": 12.381481843055555,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Dancing with the Stars to perform live in Denver",
       "link": "https://kdvr.com/denver-guide/dancing-with-the-stars-to-perform-live-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-10-14T00:59:26+00:00",
-      "age_hours": 12.397088448333333,
+      "age_hours": 17.364482692499998,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Buc-ee\u2019s submits plans for Monument Hill store despite lawsuit challenging El Paso County zoning decision",
       "link": "https://www.cpr.org/2026/10/13/buc-ees-monument-hill-lawsuit-el-paso-county/",
       "source": "CPR",
       "pub_date": "2026-10-13T23:46:40+00:00",
-      "age_hours": 13.609405444166667,
+      "age_hours": 18.576914371944444,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "New way to exchange information after crash coming to Denver",
-      "link": "https://kdvr.com/news/local/new-way-to-exchange-information-after-crash-coming-to-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-10-13T22:53:45+00:00",
-      "age_hours": 14.491810631388889,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Executive survey: Economic concerns persist for Q4",
-      "link": "https://bizwest.com/2026/10/13/executive-survey-economic-concerns-persist-for-fourth-quarter/",
-      "source": "BizWest",
-      "pub_date": "2026-10-13T21:41:28+00:00",
-      "age_hours": 15.695365823333333,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "New Pilgrim\u2019s Pride committee mulling JBS takeover bid",
-      "link": "https://bizwest.com/2026/10/13/new-pilgrims-pride-committee-mulling-jbs-takeover-bid/",
-      "source": "BizWest",
-      "pub_date": "2026-10-13T21:35:22+00:00",
-      "age_hours": 15.797033005,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Expanded Longmont Museum to hold grand reopening Saturday",
-      "link": "https://bizwest.com/2026/10/13/expanded-longmont-museum-to-hold-grand-reopening-saturday/",
-      "source": "BizWest",
-      "pub_date": "2026-10-13T21:27:42+00:00",
-      "age_hours": 15.92481081861111,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Denver cemetery asks for respect after suspected photo shoot damages mausoleum",
-      "link": "https://kdvr.com/news/local/denver-cemetery-asks-for-respect-after-suspected-photo-shoot-damages-mausoleum/",
-      "source": "Fox31",
-      "pub_date": "2026-10-13T21:26:50+00:00",
-      "age_hours": 15.940421622222223,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Stojkovski named CEO at SuperTurbo Technologies",
-      "link": "https://bizwest.com/2026/10/13/stojkovski-named-ceo-at-superturbo-technologies/",
-      "source": "BizWest",
-      "pub_date": "2026-10-13T21:23:42+00:00",
-      "age_hours": 15.991477491388888,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Cayko: Closed Boulder Valley schools deserve second life",
-      "link": "https://bizwest.com/2026/10/13/cayko-closed-boulder-valley-schools-deserve-second-life/",
-      "source": "BizWest",
-      "pub_date": "2026-10-13T21:17:18+00:00",
-      "age_hours": 16.098144184166667,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
