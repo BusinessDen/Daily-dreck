@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-15",
-  "fetched_at": "2026-10-15 01:16:13",
+  "fetched_at": "2026-10-15 07:05:14",
   "article_count": 20,
-  "breaking_count": 19,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Young voters at MSU Denver say age matters less in U.S. Senate race than affordability solutions",
+      "link": "https://www.9news.com/article/news/politics/young-voters-at-msu-denver-say-age-matters-less-in-us-senate-race-than-affordability-solutions/73-000e4d3a-fadd-4388-bcba-d5d5eb80340d",
+      "source": "9News",
+      "pub_date": "2026-10-15T04:45:20+00:00",
+      "age_hours": 2.3266630044444447,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Burnham Yards small area plan goes public, seeks further community input before approval",
+      "link": "https://kdvr.com/news/local/burnham-yards-small-area-plan-goes-public-seeks-further-community-input-before-approval/",
+      "source": "Fox31",
+      "pub_date": "2026-10-15T04:01:10+00:00",
+      "age_hours": 3.0630803741666663,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Denver boy finalist to become Stan Lee Foundation's 'Super Kid'",
+      "link": "https://kdvr.com/news/local/denver-boy-finalist-to-become-stan-lee-foundations-super-kid/",
+      "source": "Fox31",
+      "pub_date": "2026-10-15T03:53:51+00:00",
+      "age_hours": 3.1850248241666668,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "\u2018You can almost hear a sigh of relief\u2019 | Inside a Denver 911 call taker\u2019s Spanish-language calls",
       "link": "https://www.9news.com/article/news/local/inside-denver-911-call-takers-spanish-language-calls/73-4a975aa9-2c90-4ef8-aa68-23d149c192f0",
       "source": "9News",
       "pub_date": "2026-10-15T00:40:05+00:00",
-      "age_hours": 0.5978384408333333,
-      "breaking": true,
-      "time_ago": "35 min ago"
-    },
-    {
-      "title": "CSPD: THC, psilocybin products seized from unlicensed liquor stores, smoke shops",
-      "link": "https://kdvr.com/news/local/cspd-thc-psilocybin-products-seized-from-unlicensed-liquor-stores-smoke-shops/",
-      "source": "Fox31",
-      "pub_date": "2026-10-15T00:35:43+00:00",
-      "age_hours": 0.6709439269444445,
-      "breaking": true,
-      "time_ago": "40 min ago"
+      "age_hours": 6.414163088055556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver man sues police sergeant for allegedly tackling him at 'No Kings' protest",
       "link": "https://kdvr.com/news/local/denver-man-sues-police-sergeant-for-allegedly-tackling-him-at-no-kings-protest/",
       "source": "Fox31",
       "pub_date": "2026-10-15T00:31:26+00:00",
-      "age_hours": 0.7423327422222222,
-      "breaking": true,
-      "time_ago": "44 min ago"
+      "age_hours": 6.5586358902777775,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "No Kings protester files lawsuit against the Denver police officer who arrested him",
       "link": "https://www.9news.com/article/news/politics/no-kings-protester-files-lawsuit-against-denver-police-officer-who-arrested-him/73-8e207e14-207c-43cc-bff4-1bb5f47e3e26",
       "source": "9News",
       "pub_date": "2026-10-15T00:01:52+00:00",
-      "age_hours": 1.2347829222222224,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.051107566111112,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Denver man sentenced for $1.2M in bank fraud, money laundering",
       "link": "https://kdvr.com/news/local/denver-man-sentenced-for-1-2m-in-bank-fraud-money-laundering/",
       "source": "Fox31",
       "pub_date": "2026-10-14T23:54:48+00:00",
-      "age_hours": 1.3528883447222224,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.169191522777778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado elephant dies at 48",
       "link": "https://www.9news.com/article/life/animals/cheyenne-mountain-zoo-kimba-african-elephant-dies/73-f72eb257-0a5c-4713-8cd6-fce2ac9e850e",
       "source": "9News",
       "pub_date": "2026-10-14T22:15:57+00:00",
-      "age_hours": 3.0000607525,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.816385388611112,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Teen dies after crash involving CSP patrol vehicle on I-70",
       "link": "https://www.9news.com/article/traffic/incidents/csp-trooper-hit-while-responding-to-semi-crash-on-i-70/73-56423231-60a5-4da0-877b-b4132bb36e31",
       "source": "9News",
       "pub_date": "2026-10-14T22:15:11+00:00",
-      "age_hours": 3.0128385508333335,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.829163189166668,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Polis\u00a0Nominates\u00a0DIA\u00a0Land\u00a0for\u00a0Opportunity\u00a0Zone\u00a02.0",
       "link": "https://milehighcre.com/polis-nominates-dia-land-for-opportunity-zone-2-0/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-14T22:13:56+00:00",
-      "age_hours": 3.033323868611111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.848693151944444,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Boulder startup Coheria aims for collaborative AI",
       "link": "https://bizwest.com/2026/10/14/boulder-startup-coheria-aims-for-collaborative-ai/",
       "source": "BizWest",
       "pub_date": "2026-10-14T22:11:06+00:00",
-      "age_hours": 3.0802092633333333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.895623237499999,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "No \u2018business interruption\u2019 expected when Boulder Medical Center moves",
       "link": "https://bizwest.com/2026/10/14/no-business-interruption-expected-when-boulder-medical-center-moves/",
       "source": "BizWest",
       "pub_date": "2026-10-14T21:35:16+00:00",
-      "age_hours": 3.6774317808333334,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.492845781944444,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "AdventHealth breaks ground on new Louisville hospital",
       "link": "https://bizwest.com/2026/10/14/adventhealth-breaks-ground-on-new-louisville-hospital/",
       "source": "BizWest",
       "pub_date": "2026-10-14T21:28:14+00:00",
-      "age_hours": 3.7946540272222222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.610068030555556,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Work underway in Loveland for Schmer Farm Marketplace",
       "link": "https://bizwest.com/2026/10/14/work-underway-in-loveland-for-schmer-farm-marketplace/",
       "source": "BizWest",
       "pub_date": "2026-10-14T21:19:39+00:00",
-      "age_hours": 3.9377096,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.753123606666666,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Popular pickleball franchise files for bankruptcy. Here's what it means for local courts",
       "link": "https://www.9news.com/article/news/nation-world/pickleball-facility-franchiser-picklr-chapter-11-bankruptcy/507-c9764a41-b7d4-4bcd-a87a-736eec44addf",
       "source": "9News",
       "pub_date": "2026-10-14T20:52:39+00:00",
-      "age_hours": 4.388394136388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.204718775,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Ground broken for new School District 6 HQ",
       "link": "https://bizwest.com/2026/10/14/ground-broken-for-new-school-district-6-hq/",
       "source": "BizWest",
       "pub_date": "2026-10-14T20:46:43+00:00",
-      "age_hours": 4.486598492222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.302012499166667,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "King Soopers-Anchored Shopping Center Breaks Ground in Loveland",
       "link": "https://milehighcre.com/king-soopers-anchored-shopping-center-breaks-ground-in-loveland/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-14T20:45:56+00:00",
-      "age_hours": 4.499990546666667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.315359835277777,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
       "link": "https://sentinelcolorado.com/uncategorized/iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-and-other-middle-east-developments/",
       "source": "Sentinel",
       "pub_date": "2026-10-14T20:28:47+00:00",
-      "age_hours": 4.786864896388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.60306542388889,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "CSU to guarantee admission for top in-state high schoolers",
       "link": "https://bizwest.com/2026/10/14/csu-to-guarantee-admission-for-top-in-state-high-schoolers/",
       "source": "BizWest",
       "pub_date": "2026-10-14T20:28:02+00:00",
-      "age_hours": 4.797987398055556,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.613401405833335,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver Coworking: Test the Member Pipeline Before Signing a Lease",
       "link": "https://milehighcre.com/denver-coworking-test-the-member-pipeline-before-signing-a-lease/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-14T20:18:41+00:00",
-      "age_hours": 4.9541572175,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Governor\u2019s Competitiveness Council releases road map recommendations",
-      "link": "https://www.coloradopolitics.com/2026/10/14/governors-competitiveness-council-releases-road-map-recommendations/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-14T19:34:08+00:00",
-      "age_hours": 5.697650174444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Denver\u2019s AI chatbot, Sunny, doesn\u2019t know the city council just doomed it",
-      "link": "https://denverite.com/2026/10/14/denver-website-ai-chatbot/",
-      "source": "Denverite",
-      "pub_date": "2026-10-14T18:36:34+00:00",
-      "age_hours": 6.6563057125,
+      "age_hours": 10.769526506388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
