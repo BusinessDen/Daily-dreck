@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-16",
-  "fetched_at": "2026-10-16 15:16:38",
+  "fetched_at": "2026-10-16 19:23:46",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Savannah Bananas slide back into Denver",
+      "link": "https://kdvr.com/news/local/savannah-bananas-slide-back-into-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-10-16T18:15:56+00:00",
+      "age_hours": 1.1264996147222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "When could Denver get an Aldi store?",
+      "link": "https://kdvr.com/news/local/when-could-denver-get-an-aldi-store/",
+      "source": "Fox31",
+      "pub_date": "2026-10-16T17:46:17+00:00",
+      "age_hours": 1.6206663708333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Major fast-food chain ditches Pepsi for Coca-Cola beverages",
+      "link": "https://www.9news.com/article/news/nation-world/kfc-coca-cola-products-move-ditch-pepsi-after-decades/507-3b7c123d-9739-4ba0-8962-b20dbe3c063e",
+      "source": "9News",
+      "pub_date": "2026-10-16T17:04:23+00:00",
+      "age_hours": 2.318708391111111,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Small Business Administration loans approved for Aspen Acres fire",
+      "link": "https://www.coloradopolitics.com/2026/10/16/small-business-administration-loans-approved-for-aspen-acres-fire/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-16T16:41:23+00:00",
+      "age_hours": 2.702592101944444,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Measles case confirmed in Jefferson County, with possible exposures at DIA and Arvada urgent care",
       "link": "https://www.cpr.org/2026/10/16/measles-denver-international-airport-exposure-jefferson-county/",
       "source": "CPR",
       "pub_date": "2026-10-16T15:11:16+00:00",
-      "age_hours": 0.08446757833333333,
+      "age_hours": 4.203921271111112,
       "breaking": true,
-      "time_ago": "5 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Dunkin' is giving out free bat Koozies for one day only. Here's how to get one.",
       "link": "https://www.9news.com/article/news/nation-world/dunkin-free-bat-koozie/507-91e4b212-d798-4697-a0af-2f7f5e1d0ad7",
       "source": "9News",
       "pub_date": "2026-10-16T13:36:10+00:00",
-      "age_hours": 1.6695061675,
+      "age_hours": 5.788986247777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Pickleball franchise with 5 Colorado locations files for bankruptcy",
       "link": "https://www.9news.com/article/money/business/picklr-pickleball-franchise-files-for-bankruptcy/73-79f93aaa-b68c-480a-8cad-4515b0d73f59",
       "source": "9News",
       "pub_date": "2026-10-16T11:12:23+00:00",
-      "age_hours": 4.065895131666666,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 8.185375204166666,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Is downtown Denver ready for its SoHo moment? Richard Florida hopes so",
       "link": "https://denverite.com/2026/10/16/downtown-denver-revitalization-richard-florida-report/",
       "source": "Denverite",
       "pub_date": "2026-10-16T10:00:00+00:00",
-      "age_hours": 5.271809684166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.391667758055554,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "COLA helps, but seniors need more than an adjustment | GUEST COLUMN",
       "link": "https://www.coloradopolitics.com/2026/10/16/cola-helps-but-seniors-need-more-than-an-adjustment-guest-column-2/",
       "source": "CO Politics",
       "pub_date": "2026-10-16T06:45:00+00:00",
-      "age_hours": 8.522682007777778,
+      "age_hours": 12.64231435111111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Suite Health in Loveland acquired by Lux Infusion",
       "link": "https://bizwest.com/2026/10/15/suite-health-in-loveland-acquired-by-lux-infusion/",
       "source": "BizWest",
       "pub_date": "2026-10-16T03:54:02+00:00",
-      "age_hours": 11.370858051944445,
+      "age_hours": 15.49038994861111,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Redevelopment returns CoorsTek HQ to original Golden site",
       "link": "https://bizwest.com/2026/10/15/redevelopment-returns-coorstek-hq-to-original-golden-site/",
       "source": "BizWest",
       "pub_date": "2026-10-16T03:45:33+00:00",
-      "age_hours": 11.512248021944446,
+      "age_hours": 15.631779404166666,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "State health officials confirm first child death of flu season",
-      "link": "https://www.9news.com/article/news/health/state-health-officials-confirm-first-child-death-of-flu-season/73-a380bedd-cf63-41b4-bf4b-2fab705731af",
-      "source": "9News",
-      "pub_date": "2026-10-16T03:22:30+00:00",
-      "age_hours": 11.897284083333332,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Dealt Social opens as Boulder\u2019s first mahjong parlor",
       "link": "https://bizwest.com/2026/10/15/dealt-social-opens-as-boulders-first-mahjong-parlor/",
       "source": "BizWest",
       "pub_date": "2026-10-16T02:33:52+00:00",
-      "age_hours": 12.706970257222222,
+      "age_hours": 16.826501634444444,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Chick-fil-A is adding a spicy new sauce to its permanent menu",
-      "link": "https://www.9news.com/article/news/nation-world/chick-fil-a-spicy-sauce-permanent-menu/507-e4648dc5-24e1-4aba-b331-24c8e6843c86",
-      "source": "9News",
-      "pub_date": "2026-10-16T02:17:12+00:00",
-      "age_hours": 12.985617461666667,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Possible measles exposures reported at Denver airport and Arvada urgent care",
-      "link": "https://www.9news.com/article/news/health/possible-measles-exposures-dia-arvada/73-12c76b66-d9e4-432e-92b3-38eefc99352f",
-      "source": "9News",
-      "pub_date": "2026-10-16T01:42:48+00:00",
-      "age_hours": 13.558950845277778,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Boulder plans to get rid of photo radar vans, while Denver hopes to have 80 cameras spread across the city",
-      "link": "https://www.9news.com/article/news/local/local-politics/boulder-photo-radar-vans-denver-80-cameras/73-8eeb5f69-92b3-4160-aef7-4528aa999ce1",
-      "source": "9News",
-      "pub_date": "2026-10-16T00:35:48+00:00",
-      "age_hours": 14.67561756388889,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Denver mayor, police chief and DA say they don\u2019t back Prop 132 on fentanyl penalties",
-      "link": "https://www.9news.com/article/news/politics/elections/denver-mayor-police-chief-da-prop-132-fentanyl/73-854e1be9-2781-43c9-ad11-cc88c1221c9f",
-      "source": "9News",
-      "pub_date": "2026-10-16T00:31:21+00:00",
-      "age_hours": 14.749784241111112,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "See your pet in 4K on this iconic Denver landmark",
       "link": "https://kdvr.com/news/local/see-your-pet-in-4k-on-this-iconic-denver-landmark/",
       "source": "Fox31",
       "pub_date": "2026-10-15T23:30:50+00:00",
-      "age_hours": 15.75863772138889,
+      "age_hours": 19.87816644666667,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "How to protect your plants during Denver's first freeze in months",
       "link": "https://kdvr.com/news/local/how-to-protect-your-plants-during-denvers-first-freeze-in-months/",
       "source": "Fox31",
       "pub_date": "2026-10-15T22:59:20+00:00",
-      "age_hours": 16.283637757222223,
+      "age_hours": 20.403166480555555,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Colorado cannabis vape recall expands as health complaints rise",
       "link": "https://mjbizdaily.com/news/colorado-cannabis-vape-recall-expands-as-health-complaints-rise/618658/",
       "source": "MJBizDaily",
       "pub_date": "2026-10-15T22:49:33+00:00",
-      "age_hours": 16.449045566944445,
+      "age_hours": 20.567626578888888,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Colorado Springs City Councilor Dave Donelson is running for mayor",
       "link": "https://www.cpr.org/2026/10/15/dave-donelson-running-colorado-springs-mayor/",
       "source": "CPR",
       "pub_date": "2026-10-15T22:47:57+00:00",
-      "age_hours": 16.473078762222222,
+      "age_hours": 20.592532442777777,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Over 133 pounds of fentanyl seized across Denver during Operation Overdose Intercept",
       "link": "https://kdvr.com/news/local/over-133-pounds-of-fentanyl-seized-across-denver-during-operation-overdose-intercept/",
       "source": "Fox31",
       "pub_date": "2026-10-15T22:16:19+00:00",
-      "age_hours": 17.00058207138889,
+      "age_hours": 21.12011074361111,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Activist investor: Weather not to blame for Vail Resorts\u2019 woes",
       "link": "https://bizwest.com/2026/10/15/activist-investor-weather-not-to-blame-for-vail-resorts-woes/",
       "source": "BizWest",
       "pub_date": "2026-10-15T21:54:21+00:00",
-      "age_hours": 17.36558144388889,
+      "age_hours": 21.485112788611108,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Fort Collins planners eye Foothills Mall redevelopment proposal",
       "link": "https://bizwest.com/2026/10/15/fort-collins-planners-eye-foothills-mall-redevelopment-proposal/",
       "source": "BizWest",
       "pub_date": "2026-10-15T21:44:07+00:00",
-      "age_hours": 17.536137068888888,
+      "age_hours": 21.655668383055556,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "21 hrs ago"
+    },
+    {
+      "title": "Colorado seeks consumer privacy actions in AI startup bankruptcy",
+      "link": "https://www.coloradopolitics.com/2026/10/15/ags-office-seeks-consumer-protections-following-ai-startup-bankruptcy/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-15T21:37:26+00:00",
+      "age_hours": 21.76842549138889,
+      "breaking": false,
+      "time_ago": "21 hrs ago"
     }
   ]
 }
