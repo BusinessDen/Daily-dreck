@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-16",
-  "fetched_at": "2026-10-16 00:15:44",
+  "fetched_at": "2026-10-16 05:33:06",
   "article_count": 20,
-  "breaking_count": 18,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Suite Health in Loveland acquired by Lux Infusion",
+      "link": "https://bizwest.com/2026/10/15/suite-health-in-loveland-acquired-by-lux-infusion/",
+      "source": "BizWest",
+      "pub_date": "2026-10-16T03:54:02+00:00",
+      "age_hours": 1.6460406511111112,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Redevelopment returns CoorsTek HQ to original Golden site",
+      "link": "https://bizwest.com/2026/10/15/redevelopment-returns-coorstek-hq-to-original-golden-site/",
+      "source": "BizWest",
+      "pub_date": "2026-10-16T03:45:33+00:00",
+      "age_hours": 1.7874301247222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "State health officials confirm first child death of flu season",
+      "link": "https://www.9news.com/article/news/health/state-health-officials-confirm-first-child-death-of-flu-season/73-a380bedd-cf63-41b4-bf4b-2fab705731af",
+      "source": "9News",
+      "pub_date": "2026-10-16T03:22:30+00:00",
+      "age_hours": 2.172218321111111,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Dealt Social opens as Boulder\u2019s first mahjong parlor",
+      "link": "https://bizwest.com/2026/10/15/dealt-social-opens-as-boulders-first-mahjong-parlor/",
+      "source": "BizWest",
+      "pub_date": "2026-10-16T02:33:52+00:00",
+      "age_hours": 2.982152355555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Chick-fil-A is adding a spicy new sauce to its permanent menu",
+      "link": "https://www.9news.com/article/news/nation-world/chick-fil-a-spicy-sauce-permanent-menu/507-e4648dc5-24e1-4aba-b331-24c8e6843c86",
+      "source": "9News",
+      "pub_date": "2026-10-16T02:17:12+00:00",
+      "age_hours": 3.2605517108333335,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Possible measles exposures reported at Denver airport and Arvada urgent care",
+      "link": "https://www.9news.com/article/news/health/possible-measles-exposures-dia-arvada/73-12c76b66-d9e4-432e-92b3-38eefc99352f",
+      "source": "9News",
+      "pub_date": "2026-10-16T01:42:48+00:00",
+      "age_hours": 3.833885101111111,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Boulder plans to get rid of photo radar vans, while Denver hopes to have 80 cameras spread across the city",
+      "link": "https://www.9news.com/article/news/local/local-politics/boulder-photo-radar-vans-denver-80-cameras/73-8eeb5f69-92b3-4160-aef7-4528aa999ce1",
+      "source": "9News",
+      "pub_date": "2026-10-16T00:35:48+00:00",
+      "age_hours": 4.950551819444445,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Denver mayor, police chief and DA say they don\u2019t back Prop 132 on fentanyl penalties",
+      "link": "https://www.9news.com/article/news/politics/elections/denver-mayor-police-chief-da-prop-132-fentanyl/73-854e1be9-2781-43c9-ad11-cc88c1221c9f",
+      "source": "9News",
+      "pub_date": "2026-10-16T00:31:21+00:00",
+      "age_hours": 5.024718502777778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
     {
       "title": "See your pet in 4K on this iconic Denver landmark",
       "link": "https://kdvr.com/news/local/see-your-pet-in-4k-on-this-iconic-denver-landmark/",
       "source": "Fox31",
       "pub_date": "2026-10-15T23:30:50+00:00",
-      "age_hours": 0.7441050888888888,
-      "breaking": true,
-      "time_ago": "44 min ago"
+      "age_hours": 6.033574484722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "History Colorado Center reverts to its previous name after 14 years",
       "link": "https://www.9news.com/article/life/style/colorado-guide/history-colorado-center-changes-name-museum/73-7ba23ff0-7518-4d7b-8236-a45779190106",
       "source": "9News",
       "pub_date": "2026-10-15T23:29:19+00:00",
-      "age_hours": 0.7692607166666667,
-      "breaking": true,
-      "time_ago": "46 min ago"
+      "age_hours": 6.058607458611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "The first freeze is here! Have you checked your sprinklers yet?",
       "link": "https://www.9news.com/article/news/local/colorado-news/checking-sprinklers-before-first-freeze-colorado/73-bba0b57d-ad2f-43f5-b008-e286961d7fad",
       "source": "9News",
       "pub_date": "2026-10-15T23:28:17+00:00",
-      "age_hours": 0.7864829830555555,
-      "breaking": true,
-      "time_ago": "47 min ago"
+      "age_hours": 6.075829713055556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Denver amusement park provides close-up look at safety practices",
       "link": "https://www.9news.com/article/news/local/close-up-look-at-denver-amusement-park-safety-practices/73-ab577b8f-009c-449a-828b-0b1015487300",
       "source": "9News",
       "pub_date": "2026-10-15T23:15:01+00:00",
-      "age_hours": 1.0075941016666665,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.2969408300000005,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "How to protect your plants during Denver's first freeze in months",
       "link": "https://kdvr.com/news/local/how-to-protect-your-plants-during-denvers-first-freeze-in-months/",
       "source": "Fox31",
       "pub_date": "2026-10-15T22:59:20+00:00",
-      "age_hours": 1.2691051480555555,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.5585745225,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado cannabis vape recall expands as health complaints rise",
       "link": "https://mjbizdaily.com/news/colorado-cannabis-vape-recall-expands-as-health-complaints-rise/618658/",
       "source": "MJBizDaily",
       "pub_date": "2026-10-15T22:49:33+00:00",
-      "age_hours": 1.433491743888889,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.722999517222222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado Springs City Councilor Dave Donelson is running for mayor",
       "link": "https://www.cpr.org/2026/10/15/dave-donelson-running-colorado-springs-mayor/",
       "source": "CPR",
       "pub_date": "2026-10-15T22:47:57+00:00",
-      "age_hours": 1.4586605350000001,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.7480024575,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "With drug overdose deaths in Denver being high for years, the city is trying a more holistic approach to help",
       "link": "https://www.9news.com/article/news/local/colorado-news/denver-trying-holistic-approach-to-drug-overdoses/73-9ef906bf-d29e-4f26-ac77-d8b46059263c",
       "source": "9News",
       "pub_date": "2026-10-15T22:33:00+00:00",
-      "age_hours": 1.7078719375,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.997218651111111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Over 133 pounds of fentanyl seized across Denver during Operation Overdose Intercept",
       "link": "https://kdvr.com/news/local/over-133-pounds-of-fentanyl-seized-across-denver-during-operation-overdose-intercept/",
       "source": "Fox31",
       "pub_date": "2026-10-15T22:16:19+00:00",
-      "age_hours": 1.9860494525,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.275518830277778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Activist investor: Weather not to blame for Vail Resorts\u2019 woes",
       "link": "https://bizwest.com/2026/10/15/activist-investor-weather-not-to-blame-for-vail-resorts-woes/",
       "source": "BizWest",
       "pub_date": "2026-10-15T21:54:21+00:00",
-      "age_hours": 2.3514884255555555,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.640763510555556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Fort Collins planners eye Foothills Mall redevelopment proposal",
       "link": "https://bizwest.com/2026/10/15/fort-collins-planners-eye-foothills-mall-redevelopment-proposal/",
       "source": "BizWest",
       "pub_date": "2026-10-15T21:44:07+00:00",
-      "age_hours": 2.522045097222222,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.811319104722222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado seeks consumer privacy actions in AI startup bankruptcy",
       "link": "https://www.coloradopolitics.com/2026/10/15/ags-office-seeks-consumer-protections-following-ai-startup-bankruptcy/",
       "source": "CO Politics",
       "pub_date": "2026-10-15T21:37:26+00:00",
-      "age_hours": 2.634366321111111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Revere developer asks court to overturn Berthoud vote",
-      "link": "https://bizwest.com/2026/10/15/revere-developer-asks-court-to-overturn-berthoud-vote/",
-      "source": "BizWest",
-      "pub_date": "2026-10-15T21:37:19+00:00",
-      "age_hours": 2.635378446388889,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Scotts Miracle-Gro puts down roots in Lochbuie",
-      "link": "https://bizwest.com/2026/10/15/scotts-miracle-gro-puts-down-roots-in-lochbuie/",
-      "source": "BizWest",
-      "pub_date": "2026-10-15T21:25:24+00:00",
-      "age_hours": 2.8339896244444445,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "TSA removes DIA from Gateside program",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/tsa-program-precheck-members-dia-security-without-boarding-pass/73-fd44612d-3182-4424-b345-b74fccc5e1d7",
-      "source": "9News",
-      "pub_date": "2026-10-15T20:06:41+00:00",
-      "age_hours": 4.146483112777778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Fired deputy behavioral health commissioner charged with felony theft in tuition scheme",
-      "link": "https://coloradosun.com/2026/10/15/tuition-scheme-behavioral-health-commissioner-casa/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-15T19:19:30+00:00",
-      "age_hours": 4.932650506666667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
-      "link": "https://sentinelcolorado.com/nation-world/nation/states-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-15T19:11:38+00:00",
-      "age_hours": 5.064383416111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Rep. Crow hits $3 million cash mark for fifth CD 6 term while avoiding corporate PAC funds",
-      "link": "https://sentinelcolorado.com/metro/rep-crow-hits-3-million-cash-mark-for-fifth-cd-6-term-while-avoiding-corporate-pac-funds/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-15T19:01:27+00:00",
-      "age_hours": 5.234105954166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Clayworks Development Completes Office Phase",
-      "link": "https://milehighcre.com/clayworks-development-completes-office-phase/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-15T17:55:55+00:00",
-      "age_hours": 6.325635628611111,
+      "age_hours": 7.923723760833333,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Data center opponents in Weld County gather 30K signatures in two weeks to stop development",
-      "link": "https://www.cpr.org/2026/10/15/weld-county-data-center-opposition-petition/",
-      "source": "CPR",
-      "pub_date": "2026-10-15T17:18:12+00:00",
-      "age_hours": 6.9544938975,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "7 hrs ago"
     }
   ]
 }
