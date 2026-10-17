@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-08-26",
-  "lead_headline": "Restaurant tracker silent Tuesday \u2014 zero new leads detected as foreclosure filings hit 81 this week with $2.2M Kingston Street property topping value chart",
+  "generated_date": "2026-10-17",
+  "lead_headline": "Restaurant tracker silent for second straight day \u2014 zero new leads detected as system idles ahead of weekend, liquor board remains frozen",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads Tuesday</strong> \u2014 system idle for second time this month. Active pipeline holds at 347 leads (177 openings, 170 closures) pending verification.",
+      "blurb": "<strong>Zero new leads today</strong> \u2014 second consecutive idle day extends weekly drought. Active pipeline steady at 347 leads (177 openings, 170 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "81",
+        "value1": "1",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,7 +43,7 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications Tuesday</strong> \u2014 filing freeze extends to <strong>five consecutive business days</strong> without single submission. No status changes, no removals. <strong>1 application this week</strong> marks seven-day collapse from prior week's 7-app baseline as liquor board activity flatlines to near-zero operational cadence. Five-day void approaches record territory.",
+      "blurb": "<strong>Zero new applications today</strong> \u2014 six-day filing freeze now unbroken through full work week, matching late-summer voids for longest recorded drought. No status changes, no removals. <strong>1 application this week</strong> represents 86% collapse from prior week's 7-app baseline as state liquor authority processing falls to near-complete standstill. Six-day blackout ties historical record as October filing activity evaporates.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
@@ -54,12 +54,12 @@
       "ticker_weekly": {
         "label1": "applications",
         "value1": "1",
-        "class1": "down",
+        "class1": "",
         "period": "7-day"
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions Tuesday</strong> extends BusinessDen citation blackout to <strong>21 consecutive days</strong> \u2014 three full weeks without single media pickup. All-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30 days: 21 mentions (down from 23 Monday as more late-July data ages out). <strong>Twenty-one-day void</strong> now definitively exceeds all prior gaps in tracking history.",
+      "blurb": "<strong>Zero mentions today</strong> pushes BusinessDen citation drought to <strong>22 consecutive days</strong> \u2014 all-time total frozen at 1,167 mentions from 111 sources since August 5. Past 30-day window holds at 21 mentions as no new late-July data aged out overnight. <strong>22-day void</strong> extends beyond all prior gaps in tracking history as October media blackout deepens with no pickup activity on horizon.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
@@ -70,20 +70,20 @@
       "ticker_weekly": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "down",
+        "class1": "",
         "label2": "sources",
         "value2": "0",
-        "class2": "down",
+        "class2": "",
         "period": "7-day"
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (3 new, 3 canceled) holds MTD at <strong>+31</strong> (+1.2/day), 90-day net at <strong>+88</strong>. Past 7 days: <strong>+28 net</strong> (43 new, 15 canceled) vs. prior week's +31 \u2014 modest three-subscriber decline as weekend strength (Sunday's +6, Monday's +9) gives way to flat Tuesday. Two-week pattern shows late-week surges: Week 1 delivered +31 baseline, Week 2 currently tracking +28 despite stronger Sunday-Monday opens. August maintains recovery trajectory as YTD baseline (+248, +1.0/day) confirms structural stability beneath choppy daily volatility.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) \u2014 first zero-zero day in two weeks holds MTD at <strong>+31</strong> (+1.2/day), 90-day net at <strong>+88</strong>. Past 7 days: <strong>+28 net</strong> (43 new, 15 canceled) vs. prior week's +31 \u2014 modest pullback as mid-week activity vanishes following strong Sunday-Monday opens. Two-week pattern shows late-week surges consistently offsetting mid-week lulls: Week 1 closed at +31, Week 2 tracking +28 as weekend acquisition strength counterbalances weekday flats. October maintains recovery momentum as YTD baseline (+248, +0.9/day) confirms structural stability beneath daily noise.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "31",
       "net_ytd": "248",
       "net_mtd_per_day": "1.2",
-      "net_ytd_per_day": "1.0",
+      "net_ytd_per_day": "0.9",
       "annual_mtd": "0",
       "annual_ytd": "0",
       "monthly_mtd": "0",
