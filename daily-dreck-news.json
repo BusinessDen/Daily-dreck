@@ -1,60 +1,60 @@
 {
   "fetched_date": "2026-10-18",
-  "fetched_at": "2026-10-18 08:38:29",
+  "fetched_at": "2026-10-18 13:02:30",
   "article_count": 20,
   "breaking_count": 1,
   "articles": [
+    {
+      "title": "A farmer and a baker in southwestern Colorado make the case for water-saving grains \u2014 one Zuni cake at a time",
+      "link": "https://coloradosun.com/2026/10/18/colorado-farm-cortez-pueblo-seed-and-food-company-ancient-grains-baked-goods/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-18T09:25:00+00:00",
+      "age_hours": 3.616033851666667,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Denver Water issues $175K in water restriction violations during first part of October",
       "link": "https://www.9news.com/article/money/consumer/denver-water-175k-in-water-restriction-violations-first-part-october/73-a9339739-c93d-4880-bbed-c1af6af52b6e",
       "source": "9News",
       "pub_date": "2026-10-18T03:02:29+00:00",
-      "age_hours": 5.596493999444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.991548378333333,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Sinkhole repair cuts off water for six blocks in Brighton",
       "link": "https://kdvr.com/news/local/sinkhole-repair-cuts-off-water-for-six-blocks-in-brighton/",
       "source": "Fox31",
       "pub_date": "2026-10-17T20:24:26+00:00",
-      "age_hours": 12.230967411111111,
+      "age_hours": 16.625921062222222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Affording Colorado: Childcare a costly challenge for families",
-      "link": "https://www.coloradopolitics.com/2026/10/17/affordability-colorado-child-care-costs-family/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-17T11:00:00+00:00",
-      "age_hours": 21.638415337777776,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "What\u2019s Working: A Durango nonprofit gets to build AI that will help caseworkers spend more time with those they help",
       "link": "https://coloradosun.com/2026/10/17/openai-artificial-intelligence-durango-caseworkers-rural-ai/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-17T10:00:00+00:00",
-      "age_hours": 22.637619584444444,
+      "age_hours": 27.032700651666666,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "This Colorado leadership expert calls out bad management on social media",
       "link": "https://www.cpr.org/2026/10/17/colorado-leadership-expert-social-media/",
       "source": "CPR",
       "pub_date": "2026-10-17T10:00:00+00:00",
-      "age_hours": 22.637844041944444,
+      "age_hours": 27.032899789444443,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "\u2018Food is medicine\u2019: Denver Health clinic hands out free produce to patients",
       "link": "https://www.9news.com/article/news/health/denver-health-clinic-hands-out-free-produce/73-a76fa7ce-2ae0-4ea5-9949-985b707d1152",
       "source": "9News",
       "pub_date": "2026-10-17T03:35:07+00:00",
-      "age_hours": 29.052605215555555,
+      "age_hours": 33.44765961611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +63,7 @@
       "link": "https://kdvr.com/news/local/non-profit-seeking-volunteers-to-help-clean-up-overlooked-denver-park/",
       "source": "Fox31",
       "pub_date": "2026-10-17T01:59:33+00:00",
-      "age_hours": 30.645689784722222,
+      "age_hours": 35.04064348805556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +72,7 @@
       "link": "https://www.9news.com/article/news/local/local-politics/castle-rock-retailers-report-theft/73-74242628-c92d-42db-8676-fb8b91af53d6",
       "source": "9News",
       "pub_date": "2026-10-17T00:52:33+00:00",
-      "age_hours": 31.7620497525,
+      "age_hours": 36.157104186944444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +81,7 @@
       "link": "https://kdvr.com/news/local/city-of-denver-putting-the-heat-on-unlicensed-hot-dog-carts/",
       "source": "Fox31",
       "pub_date": "2026-10-17T00:39:45+00:00",
-      "age_hours": 31.97568972722222,
+      "age_hours": 36.37064340888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +90,7 @@
       "link": "https://www.cpr.org/2026/10/16/colorado-springs-state-of-the-city-yemi-mobolade/",
       "source": "CPR",
       "pub_date": "2026-10-17T00:14:51+00:00",
-      "age_hours": 32.390344051666666,
+      "age_hours": 36.78539979888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,16 +99,7 @@
       "link": "https://kdvr.com/news/local/tsa-removes-denver-international-airport-from-gate-pass-program/",
       "source": "Fox31",
       "pub_date": "2026-10-16T23:25:18+00:00",
-      "age_hours": 33.21652301583333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado\u2019s labor force shrinks to lowest since 1979",
-      "link": "https://coloradosun.com/2026/10/16/colorado-labor-force-shrinks-lowest-jobs-numbers-unemployment/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-16T23:15:00+00:00",
-      "age_hours": 33.38762022888889,
+      "age_hours": 37.611476680833334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +108,7 @@
       "link": "https://www.9news.com/article/news/local/colorado-school-of-mines-alumnis-device-time-best-inventions-2026/73-406d3b7e-18da-404b-bfae-7340f4059ee6",
       "source": "9News",
       "pub_date": "2026-10-16T22:47:31+00:00",
-      "age_hours": 33.8459386875,
+      "age_hours": 38.24099314111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +117,7 @@
       "link": "https://kdvr.com/news/local/denver-wants-more-people-living-downtown-filling-empty-office-spaces/",
       "source": "Fox31",
       "pub_date": "2026-10-16T22:37:58+00:00",
-      "age_hours": 34.00541194388889,
+      "age_hours": 38.40036562388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +126,7 @@
       "link": "https://bizwest.com/2026/10/16/boulder-hotel-workers-seek-sundance-support-in-labor-dispute/",
       "source": "BizWest",
       "pub_date": "2026-10-16T22:04:38+00:00",
-      "age_hours": 34.56008213583333,
+      "age_hours": 38.95510630027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +135,7 @@
       "link": "https://bizwest.com/2026/10/16/court-yet-to-rule-on-lawsuit-against-weld-commissioners/",
       "source": "BizWest",
       "pub_date": "2026-10-16T21:52:48+00:00",
-      "age_hours": 34.75730477638889,
+      "age_hours": 39.152329611111114,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +144,7 @@
       "link": "https://bizwest.com/2026/10/16/colorado-jobless-rate-up-in-september/",
       "source": "BizWest",
       "pub_date": "2026-10-16T21:47:46+00:00",
-      "age_hours": 34.841193697222224,
+      "age_hours": 39.236218578055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +153,7 @@
       "link": "https://bizwest.com/2026/10/16/deadline-nears-to-register-for-affordable-housing-summit/",
       "source": "BizWest",
       "pub_date": "2026-10-16T21:42:44+00:00",
-      "age_hours": 34.92508261333333,
+      "age_hours": 39.32010753611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,18 +162,27 @@
       "link": "https://www.bisnow.com/news/denver/deal-sheet/adventhealth-breaks-ground-on-375k-sf-hospital-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-10-16T17:25:57-04:00",
-      "age_hours": 35.204972355555554,
+      "age_hours": 39.59992802166667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
     {
-      "title": "Small Business Administration loans approved for Aspen Acres fire",
-      "link": "https://www.coloradopolitics.com/2026/10/16/small-business-administration-loans-approved-for-aspen-acres-fire/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-16T16:41:23+00:00",
-      "age_hours": 39.94869324444445,
+      "title": "Measles case confirmed in Jefferson County, with possible exposures at DIA and Arvada urgent care",
+      "link": "https://www.cpr.org/2026/10/16/measles-denver-international-airport-exposure-jefferson-county/",
+      "source": "CPR",
+      "pub_date": "2026-10-16T15:11:16+00:00",
+      "age_hours": 45.845122038888896,
       "breaking": false,
       "time_ago": "1 day ago"
+    },
+    {
+      "title": "Is downtown Denver ready for its SoHo moment? Richard Florida hopes so",
+      "link": "https://denverite.com/2026/10/16/downtown-denver-revitalization-richard-florida-report/",
+      "source": "Denverite",
+      "pub_date": "2026-10-16T10:00:00+00:00",
+      "age_hours": 51.03282585722222,
+      "breaking": false,
+      "time_ago": "2 days ago"
     }
   ]
 }
