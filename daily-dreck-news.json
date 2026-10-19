@@ -1,87 +1,96 @@
 {
   "fetched_date": "2026-10-19",
-  "fetched_at": "2026-10-19 00:53:26",
+  "fetched_at": "2026-10-19 05:49:38",
   "article_count": 20,
   "breaking_count": 1,
   "articles": [
+    {
+      "title": "Broomfield food pantry sees growing demand as 17% of Coloradans say they can't afford grocery bill",
+      "link": "https://www.9news.com/article/news/local/broomfield-food-pantry-sees-growing-demand/73-b938f74c-ec17-4dfc-bdc2-e1ee26147059",
+      "source": "9News",
+      "pub_date": "2026-10-19T03:38:54+00:00",
+      "age_hours": 2.1745883463888886,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Gloo awards $200,000 in AI hackathon",
       "link": "https://bizwest.com/2026/10/18/gloo-awards-200000-in-ai-hackathon/",
       "source": "BizWest",
       "pub_date": "2026-10-18T22:53:05+00:00",
-      "age_hours": 2.0007256866666667,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.937458694166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "UCHealth awards $20,000 to Estes Park nonprofits",
       "link": "https://bizwest.com/2026/10/18/uchealth-awards-20000-to-estes-park-nonprofits/",
       "source": "BizWest",
       "pub_date": "2026-10-18T18:37:54+00:00",
-      "age_hours": 6.253781830833334,
+      "age_hours": 11.190515325000002,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "New owner, same melody at Boulder\u2019s HB Woodsongs",
       "link": "https://bizwest.com/2026/10/18/new-owner-same-melody-at-boulders-hb-woodsongs/",
       "source": "BizWest",
       "pub_date": "2026-10-18T15:14:09+00:00",
-      "age_hours": 9.649615198055557,
+      "age_hours": 14.586348724999999,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Latino voters in Colorado, the West, sour on Trump amid rising economic pressures",
       "link": "https://sentinelcolorado.com/voter-guide/latino-voters-in-colorado-the-west-sour-on-trump-amid-rising-economic-pressures/",
       "source": "Sentinel",
       "pub_date": "2026-10-18T13:55:06+00:00",
-      "age_hours": 10.968070260555555,
+      "age_hours": 15.90518016138889,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
       "link": "https://sentinelcolorado.com/a-town-magazine/lifestyle/consumer-apprehension-grows-as-us-retailers-adopt-ai-assisted-pricing-tools/",
       "source": "Sentinel",
       "pub_date": "2026-10-18T13:17:33+00:00",
-      "age_hours": 11.593903895833332,
+      "age_hours": 16.531013831388886,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "No Kings rallies in Aurora, Denver across US urge voters to cast midterm ballots early",
       "link": "https://sentinelcolorado.com/metro/no-kings-rallies-in-aurora-denver-across-us-urge-voters-to-cast-midterm-ballots-early/",
       "source": "Sentinel",
       "pub_date": "2026-10-18T13:01:05+00:00",
-      "age_hours": 11.868348601944444,
+      "age_hours": 16.80545853222222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "A farmer and a baker in southwestern Colorado make the case for water-saving grains \u2014 one Zuni cake at a time",
       "link": "https://coloradosun.com/2026/10/18/colorado-farm-cortez-pueblo-seed-and-food-company-ancient-grains-baked-goods/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-18T09:25:00+00:00",
-      "age_hours": 15.469135639166666,
+      "age_hours": 20.40592793777778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Denver Water issues $175K in water restriction violations during first part of October",
       "link": "https://www.9news.com/article/money/consumer/denver-water-175k-in-water-restriction-violations-first-part-october/73-a9339739-c93d-4880-bbed-c1af6af52b6e",
       "source": "9News",
       "pub_date": "2026-10-18T03:02:29+00:00",
-      "age_hours": 21.844576137222223,
+      "age_hours": 26.78153296111111,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Sinkhole repair cuts off water for 6 blocks in Brighton",
       "link": "https://kdvr.com/news/local/sinkhole-repair-cuts-off-water-for-six-blocks-in-brighton/",
       "source": "Fox31",
       "pub_date": "2026-10-17T20:24:26+00:00",
-      "age_hours": 28.479036044444445,
+      "age_hours": 33.416036705277776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.coloradopolitics.com/2026/10/17/affordability-colorado-child-care-costs-family/",
       "source": "CO Politics",
       "pub_date": "2026-10-17T11:00:00+00:00",
-      "age_hours": 37.886386918333336,
+      "age_hours": 42.82348813111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://coloradosun.com/2026/10/17/openai-artificial-intelligence-durango-caseworkers-rural-ai/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-17T10:00:00+00:00",
-      "age_hours": 38.88580244083334,
+      "age_hours": 43.82259476666667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.cpr.org/2026/10/17/colorado-leadership-expert-social-media/",
       "source": "CPR",
       "pub_date": "2026-10-17T10:00:00+00:00",
-      "age_hours": 38.88589809611111,
+      "age_hours": 43.82272187777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,25 +126,16 @@
       "link": "https://www.9news.com/article/news/health/denver-health-clinic-hands-out-free-produce/73-a76fa7ce-2ae0-4ea5-9949-985b707d1152",
       "source": "9News",
       "pub_date": "2026-10-17T03:35:07+00:00",
-      "age_hours": 45.30068735555556,
+      "age_hours": 50.23764425666666,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Non-profit seeking volunteers to help clean up 'overlooked' Denver park",
       "link": "https://kdvr.com/news/local/non-profit-seeking-volunteers-to-help-clean-up-overlooked-denver-park/",
       "source": "Fox31",
       "pub_date": "2026-10-17T01:59:33+00:00",
-      "age_hours": 46.89375837944445,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Castle Rock considering law requiring retailers to report theft within four days",
-      "link": "https://www.9news.com/article/news/local/local-politics/castle-rock-retailers-report-theft/73-74242628-c92d-42db-8676-fb8b91af53d6",
-      "source": "9News",
-      "pub_date": "2026-10-17T00:52:33+00:00",
-      "age_hours": 48.01013193138889,
+      "age_hours": 51.830759049166666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://kdvr.com/news/local/city-of-denver-putting-the-heat-on-unlicensed-hot-dog-carts/",
       "source": "Fox31",
       "pub_date": "2026-10-17T00:39:45+00:00",
-      "age_hours": 48.22375832333333,
+      "age_hours": 53.16075898861111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://www.cpr.org/2026/10/16/colorado-springs-state-of-the-city-yemi-mobolade/",
       "source": "CPR",
       "pub_date": "2026-10-17T00:14:51+00:00",
-      "age_hours": 48.63839811166667,
+      "age_hours": 53.575221903333336,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://kdvr.com/news/local/tsa-removes-denver-international-airport-from-gate-pass-program/",
       "source": "Fox31",
       "pub_date": "2026-10-16T23:25:18+00:00",
-      "age_hours": 49.464591544444446,
+      "age_hours": 54.40159220444444,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://kdvr.com/news/local/denver-wants-more-people-living-downtown-filling-empty-office-spaces/",
       "source": "Fox31",
       "pub_date": "2026-10-16T22:37:58+00:00",
-      "age_hours": 50.25348053833333,
+      "age_hours": 55.19048120361111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/10/16/boulder-hotel-workers-seek-sundance-support-in-labor-dispute/",
       "source": "BizWest",
       "pub_date": "2026-10-16T22:04:38+00:00",
-      "age_hours": 50.80822631694444,
+      "age_hours": 55.744959851944444,
       "breaking": false,
       "time_ago": "2 days ago"
     }
