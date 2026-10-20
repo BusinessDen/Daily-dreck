@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-10-19",
-  "fetched_at": "2026-10-19 23:23:39",
+  "fetched_date": "2026-10-20",
+  "fetched_at": "2026-10-20 03:51:46",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "Denver judge hears 10 hours of testimony in Amendment 87 petition fraud case",
+      "link": "https://kdvr.com/news/local/denver-judge-hears-10-hours-of-testimony-in-amendment-87-petition-fraud-case/",
+      "source": "Fox31",
+      "pub_date": "2026-10-20T02:38:39+00:00",
+      "age_hours": 1.2145989533333332,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "ICE flights at Denver International Airport have tripled since 2024, 9NEWS investigation finds",
+      "link": "https://www.9news.com/article/news/investigations/ice-flights-denver-international-airport-tripled-9news-investigation/73-fa24ae86-1c48-4f1c-b667-0727e5323d2b",
+      "source": "9News",
+      "pub_date": "2026-10-20T02:00:00+00:00",
+      "age_hours": 1.8584202872222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Lawsuit: ONEflight sales agent convinced couple to spend $295,000, just before business shut its doors",
+      "link": "https://www.9news.com/article/money/business/lawsuit-oneflight-sales-agent-convinces-couple-to-spend-295000-just-before-business-shut-its-doors/73-cc996afe-a44c-487f-bbad-ce8c6b92330f",
+      "source": "9News",
+      "pub_date": "2026-10-20T01:45:10+00:00",
+      "age_hours": 2.1056425530555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "One of Colorado's most congested corridors is getting its first major upgrade in 60 years",
+      "link": "https://www.9news.com/article/news/community/transportation/interstate-270-improvements-expansion-road-project/73-6d8d9ea2-3dac-46af-b413-8bbc6b3e6c13",
+      "source": "9News",
+      "pub_date": "2026-10-19T23:41:38+00:00",
+      "age_hours": 4.16453148,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Iconic Oscar Mayer Wienermobile coming to Denver for extremely limited time",
       "link": "https://kdvr.com/denver-guide/iconic-oscar-mayer-wienermobile-coming-to-denver-for-extremely-limited-time/",
       "source": "Fox31",
       "pub_date": "2026-10-19T21:46:44+00:00",
-      "age_hours": 1.6112975866666668,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.079876905,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Ritz Crackers releasing gluten-free version of classic cracker, but only at 2 retailers",
       "link": "https://www.9news.com/article/news/nation-world/ritz-gluten-free-crackers-when-is-it-available/507-3ec319a1-64dd-4621-aa8f-8a3f893ace4f",
       "source": "9News",
       "pub_date": "2026-10-19T21:16:33+00:00",
-      "age_hours": 2.114078663611111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.582587105,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "What to buy in October | Consumer Reports",
       "link": "https://www.9news.com/article/money/consumer/what-to-buy-october-consumer-reports/507-efa5139d-a4ff-47ca-94ce-104d1b413df7",
       "source": "9News",
       "pub_date": "2026-10-19T21:14:58+00:00",
-      "age_hours": 2.140467600277778,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.608976034722223,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "McVoy named EVP, CIO at Woodward",
       "link": "https://bizwest.com/2026/10/19/mcvoy-named-evp-cio-at-woodward/",
       "source": "BizWest",
       "pub_date": "2026-10-19T20:47:23+00:00",
-      "age_hours": 2.5996240275,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.067948975,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Citizen-led petitions target Weld, Greeley actions",
       "link": "https://bizwest.com/2026/10/19/citizen-led-petitions-target-weld-greeley-actions/",
       "source": "BizWest",
       "pub_date": "2026-10-19T20:41:26+00:00",
-      "age_hours": 2.6987912569444448,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.1671162130555555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "14 adults, 4 minors arrested in connection with organized crime in Denver area",
       "link": "https://kdvr.com/news/local/14-adults-4-minors-arrested-in-connection-with-organized-crime-in-denver-area/",
       "source": "Fox31",
       "pub_date": "2026-10-19T20:17:38+00:00",
-      "age_hours": 3.0962975044444443,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.5648768113888885,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "France\u2019s prime minister calls for localized curfews in cities to curb rioting and looting",
       "link": "https://sentinelcolorado.com/uncategorized/frances-prime-minister-calls-for-localized-curfews-in-cities-to-curb-rioting-and-looting/",
       "source": "Sentinel",
       "pub_date": "2026-10-19T20:10:55+00:00",
-      "age_hours": 3.208509853333333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.6771882172222226,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Infleqtion seeks local incentives for Louisville expansion",
       "link": "https://bizwest.com/2026/10/19/infleqtion-seeks-local-incentives-for-louisville-expansion/",
       "source": "BizWest",
       "pub_date": "2026-10-19T19:50:51+00:00",
-      "age_hours": 3.541846856111111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.010171805555556,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Arsenal Health considering Louisville for new headquarters",
       "link": "https://bizwest.com/2026/10/19/arsenal-health-considering-louisville-for-new-headquarters/",
       "source": "BizWest",
       "pub_date": "2026-10-19T19:45:50+00:00",
-      "age_hours": 3.6254579744444446,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.093782923333334,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "How does Colorado State University's guaranteed admission program work?",
       "link": "https://www.9news.com/article/news/education/colorado-state-university-guaranteed-admission-program/73-1a19879f-184a-47da-9f91-c657a5b267ae",
       "source": "9News",
       "pub_date": "2026-10-19T17:50:14+00:00",
-      "age_hours": 5.552689869444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.021198293888888,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Union Station Welcomes Maria Empanada to Great Hall",
       "link": "https://milehighcre.com/union-station-welcomes-maria-empanada-to-great-hall/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-19T15:46:08+00:00",
-      "age_hours": 7.620813651388889,
+      "age_hours": 12.089134615555556,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "UCHealth Starts Major Hospital Expansion in Colorado Springs",
       "link": "https://milehighcre.com/uchealth-starts-major-hospital-expansion-in-colorado-springs/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-19T15:15:17+00:00",
-      "age_hours": 8.134980338888889,
+      "age_hours": 12.603301303611111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "High interest rates stall Denver housing market as sellers outnumber buyers",
-      "link": "https://www.9news.com/article/money/markets/real-estate/denver-housing-market-more-sellers-than-buyers/73-0ee723eb-96ba-4294-ae28-c0fc8e528e98",
-      "source": "9News",
-      "pub_date": "2026-10-19T14:56:11+00:00",
-      "age_hours": 8.453523291388889,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "National Guard member injured in shooting on Capitol Hill while attempting to break up fight",
-      "link": "https://www.9news.com/article/news/nation-world/national-guard-member-shooting-washington-dc-fight-injured/507-bb481320-33b2-49ea-9431-44bbd84c9602",
-      "source": "9News",
-      "pub_date": "2026-10-19T14:53:09+00:00",
-      "age_hours": 8.504078852777779,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Overnight crashes in Denver send 2 the hospital",
-      "link": "https://kdvr.com/news/local/overnight-crashes-in-denver-send-2-the-hospital/",
-      "source": "Fox31",
-      "pub_date": "2026-10-19T14:29:19+00:00",
-      "age_hours": 8.901575488333334,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Toddler childcare in Colorado costs more than a year of CU tuition, study says",
-      "link": "https://www.9news.com/article/money/toddler-childcare-in-colorado-costs-more-than-a-year-of-cu-tuition-study-says/73-cbf1a7d4-5ccf-41b1-8ba8-7a7957442ef9",
-      "source": "9News",
-      "pub_date": "2026-10-19T13:53:54+00:00",
-      "age_hours": 9.491578899444445,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver\u00a0Releases\u00a0Burnham\u00a0 Yard\u00a0Small\u00a0Area\u00a0Plan\u00a0Draft",
       "link": "https://milehighcre.com/denver-releases-burnham-yard-small-area-plan-draft/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-19T13:47:09+00:00",
-      "age_hours": 9.603869236388888,
+      "age_hours": 14.072190201111113,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
+    },
+    {
+      "title": "Red House Tools files for Chapter 11 bankruptcy",
+      "link": "https://bizwest.com/2026/10/19/red-house-tools-files-for-chapter-11-bankruptcy/",
+      "source": "BizWest",
+      "pub_date": "2026-10-19T12:11:19+00:00",
+      "age_hours": 15.669060708333333,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Cannabis calendar: Vampire dinner, pumpkin carving, costume skate party",
+      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
+      "source": "Westword",
+      "pub_date": "2026-10-19T12:05:00-06:00",
+      "age_hours": 9.775580525277778,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
     {
-      "title": "Zoo mourns loss of 3-legged African painted dog Nigel",
-      "link": "https://www.9news.com/article/life/animals/three-legged-african-painted-dog-nigel-dies/73-f55d8596-5e83-4726-a8e5-4b2e912a7c89",
-      "source": "9News",
-      "pub_date": "2026-10-19T13:36:08+00:00",
-      "age_hours": 9.787690053055556,
+      "title": "Colorado businesses near this national park are working together to ride out seasonal ups and downs",
+      "link": "https://coloradosun.com/2026/10/19/mancos-seasonal-tourism-cooperation-mesa-verde-burrofest/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-19T10:06:00+00:00",
+      "age_hours": 17.758144304722222,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "One of Colorado's most congested corridors is getting its first major upgrade in 60 years",
-      "link": "https://www.9news.com/article/news/community/transportation/interstate-270-improvements-expansion-road-project/73-6d8d9ea2-3dac-46af-b413-8bbc6b3e6c13",
-      "source": "9News",
-      "pub_date": "2026-10-19T12:50:21+00:00",
-      "age_hours": 10.550745650277777,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Sporting goods chain to close on Thanksgiving, hire 11,000 holiday workers",
-      "link": "https://www.9news.com/article/life/holidays/black-friday/dicks-sporting-goods-holiday-shopping-season-hiring/73-4d642c7a-8cf6-4b6a-bc19-7bd7c18fb4fe",
-      "source": "9News",
-      "pub_date": "2026-10-19T12:47:23+00:00",
-      "age_hours": 10.600190140833332,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
