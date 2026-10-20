@@ -1,24 +1,105 @@
 {
   "fetched_date": "2026-10-20",
-  "fetched_at": "2026-10-20 09:14:07",
+  "fetched_at": "2026-10-20 14:45:38",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 11,
   "articles": [
     {
-      "title": "Aurora prep sports scoreboard, 10.19.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-10-19-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-20T05:27:38+00:00",
-      "age_hours": 3.771214184166667,
+      "title": "Aurora movie theater is permanently closing",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/movie-tavern-marcus-aurora-theater-closure/73-b224c3a5-aa5b-4ac8-be78-1bfc22179b86",
+      "source": "9News",
+      "pub_date": "2026-10-20T14:00:15+00:00",
+      "age_hours": 0.7512819961111111,
       "breaking": true,
-      "time_ago": "3 hrs ago"
+      "time_ago": "45 min ago"
+    },
+    {
+      "title": "Naropa offers new, redesigned degree programs",
+      "link": "https://bizwest.com/2026/10/20/naropa-offers-new-redesigned-degree-programs/",
+      "source": "BizWest",
+      "pub_date": "2026-10-20T13:20:59+00:00",
+      "age_hours": 1.4051266530555555,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Rep. Jason Crow, Colorado Dem lawmakers receive \u2018suspicious substance\u2019 mail",
+      "link": "https://sentinelcolorado.com/metro/rep-jason-crow-colorado-dem-lawmakers-receive-suspicious-substance-mail/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-20T13:07:21+00:00",
+      "age_hours": 1.6339883583333332,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Neoera\u00a0Designs\u00a0Bj\u00f6rn\u2019s\u00a0Colorado\u00a0Honey\u00a0Store\u00a0in\u00a0Boulder",
+      "link": "https://milehighcre.com/neoera-designs-bjorns-colorado-honey-store-in-boulder/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-20T13:00:57+00:00",
+      "age_hours": 1.739289666111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Metro immigrant advocates call for more transparency after monitoring ICE flights",
+      "link": "https://sentinelcolorado.com/metro/metro-immigrant-advocates-call-for-more-transparency-after-monitoring-ice-flights/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-20T12:43:15+00:00",
+      "age_hours": 2.035655328333333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Adams County opening its first self-service library",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/adams-county-anythink-libraries-self-service-express-library/73-3a554e3b-4e1f-4d73-9995-158fd2996c06",
+      "source": "9News",
+      "pub_date": "2026-10-20T12:30:30+00:00",
+      "age_hours": 2.2471153638888888,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Can DC blend horror with a superhero movie? \u2018Clayface\u2019 wants to blur genres",
+      "link": "https://sentinelcolorado.com/uncategorized/can-dc-blend-horror-with-a-superhero-movie-clayface-wants-to-blur-genres/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-20T12:25:31+00:00",
+      "age_hours": 2.3312109263888887,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
     },
     {
       "title": "Denver may use eminent domain to build out East Colfax sidewalks",
       "link": "https://www.9news.com/article/news/politics/denver-may-use-eminent-domain-build-out-east-colfax-sidewalks/73-90816673-9951-4673-9160-f67779c5f980",
       "source": "9News",
-      "pub_date": "2026-10-20T04:25:05+00:00",
-      "age_hours": 4.813091848333333,
+      "pub_date": "2026-10-20T11:53:36+00:00",
+      "age_hours": 2.8621154158333337,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Robot parking company eyes 30,000-square-foot Denver demo facility",
+      "link": "https://www.9news.com/article/money/business/robot-parking-company-volley/73-75157f62-b3ac-4fb6-9d09-bea8e7793c7c",
+      "source": "9News",
+      "pub_date": "2026-10-20T11:35:09+00:00",
+      "age_hours": 3.1696154336111113,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "The 49th Denver Film Festival shines a spotlight on Colorado filmmakers",
+      "link": "https://coloradosun.com/2026/10/20/denver-film-festival-colorado-spotlight/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-20T10:00:00+00:00",
+      "age_hours": 4.755201633611111,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "What surgeries would Proposition 135 actually ban? Colorado hospitals either don\u2019t know or won\u2019t say.",
+      "link": "https://coloradosun.com/2026/10/20/proposition-135-what-surgeries-banned/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-20T09:55:00+00:00",
+      "age_hours": 4.838535650000001,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
@@ -27,162 +108,81 @@
       "link": "https://www.9news.com/article/news/investigations/ice-flights-denver-international-airport-tripled-9news-investigation/73-fa24ae86-1c48-4f1c-b667-0727e5323d2b",
       "source": "9News",
       "pub_date": "2026-10-20T04:05:06+00:00",
-      "age_hours": 5.1461474250000006,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.670448830555557,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver judge hears 10 hours of testimony in Amendment 87 petition fraud case",
       "link": "https://kdvr.com/news/local/denver-judge-hears-10-hours-of-testimony-in-amendment-87-petition-fraud-case/",
       "source": "Fox31",
       "pub_date": "2026-10-20T02:38:39+00:00",
-      "age_hours": 6.587287373333333,
+      "age_hours": 12.111880135555555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Lawsuit: ONEflight sales agent convinced couple to spend $295,000, just before business shut its doors",
       "link": "https://www.9news.com/article/money/business/lawsuit-oneflight-sales-agent-convinces-couple-to-spend-295000-just-before-business-shut-its-doors/73-cc996afe-a44c-487f-bbad-ce8c6b92330f",
       "source": "9News",
       "pub_date": "2026-10-20T01:45:10+00:00",
-      "age_hours": 7.478369686944444,
+      "age_hours": 13.00267110638889,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
+    },
+    {
+      "title": "Mayor rejects some of Denver City Council\u2019s biggest budget requests",
+      "link": "https://www.coloradopolitics.com/2026/10/19/johnston-rejects-some-of-city-councils-biggest-budget-requests/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-20T00:41:40+00:00",
+      "age_hours": 14.062010224444444,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "One of Colorado's most congested corridors is getting its first major upgrade in 60 years",
       "link": "https://www.9news.com/article/news/community/transportation/interstate-270-improvements-expansion-road-project/73-6d8d9ea2-3dac-46af-b413-8bbc6b3e6c13",
       "source": "9News",
       "pub_date": "2026-10-19T23:41:38+00:00",
-      "age_hours": 9.5372585925,
+      "age_hours": 15.061560023611111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Air division to hold Wednesday session on Suncor refinery rules",
+      "link": "https://www.coloradopolitics.com/2026/10/19/air-division-holds-wednesday-session-on-suncor-refinery-rules/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-19T23:16:58+00:00",
+      "age_hours": 15.473676917222221,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Iconic Oscar Mayer Wienermobile coming to Denver for extremely limited time",
       "link": "https://kdvr.com/denver-guide/iconic-oscar-mayer-wienermobile-coming-to-denver-for-extremely-limited-time/",
       "source": "Fox31",
       "pub_date": "2026-10-19T21:46:44+00:00",
-      "age_hours": 11.452565254166666,
+      "age_hours": 16.9771580725,
       "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Ritz Crackers releasing gluten-free version of classic cracker, but only at 2 retailers",
-      "link": "https://www.9news.com/article/news/nation-world/ritz-gluten-free-crackers-when-is-it-available/507-3ec319a1-64dd-4621-aa8f-8a3f893ace4f",
-      "source": "9News",
-      "pub_date": "2026-10-19T21:16:33+00:00",
-      "age_hours": 11.955314180555556,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "What to buy in October | Consumer Reports",
-      "link": "https://www.9news.com/article/money/consumer/what-to-buy-october-consumer-reports/507-efa5139d-a4ff-47ca-94ce-104d1b413df7",
-      "source": "9News",
-      "pub_date": "2026-10-19T21:14:58+00:00",
-      "age_hours": 11.981703095833334,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "McVoy named EVP, CIO at Woodward",
       "link": "https://bizwest.com/2026/10/19/mcvoy-named-evp-cio-at-woodward/",
       "source": "BizWest",
       "pub_date": "2026-10-19T20:47:23+00:00",
-      "age_hours": 12.440745826666666,
+      "age_hours": 17.965127244999998,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Citizen-led petitions target Weld, Greeley actions",
       "link": "https://bizwest.com/2026/10/19/citizen-led-petitions-target-weld-greeley-actions/",
       "source": "BizWest",
       "pub_date": "2026-10-19T20:41:26+00:00",
-      "age_hours": 12.539912808055556,
+      "age_hours": 18.064293945555555,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "14 adults, 4 minors arrested in connection with organized crime in Denver area",
-      "link": "https://kdvr.com/news/local/14-adults-4-minors-arrested-in-connection-with-organized-crime-in-denver-area/",
-      "source": "Fox31",
-      "pub_date": "2026-10-19T20:17:38+00:00",
-      "age_hours": 12.937565198055555,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "France\u2019s prime minister calls for localized curfews in cities to curb rioting and looting",
-      "link": "https://sentinelcolorado.com/uncategorized/frances-prime-minister-calls-for-localized-curfews-in-cities-to-curb-rioting-and-looting/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-19T20:10:55+00:00",
-      "age_hours": 13.049825550277777,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Infleqtion seeks local incentives for Louisville expansion",
-      "link": "https://bizwest.com/2026/10/19/infleqtion-seeks-local-incentives-for-louisville-expansion/",
-      "source": "BizWest",
-      "pub_date": "2026-10-19T19:50:51+00:00",
-      "age_hours": 13.382968381944446,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Arsenal Health considering Louisville for new headquarters",
-      "link": "https://bizwest.com/2026/10/19/arsenal-health-considering-louisville-for-new-headquarters/",
-      "source": "BizWest",
-      "pub_date": "2026-10-19T19:45:50+00:00",
-      "age_hours": 13.466579496666666,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "How does Colorado State University's guaranteed admission program work?",
-      "link": "https://www.9news.com/article/news/education/colorado-state-university-guaranteed-admission-program/73-1a19879f-184a-47da-9f91-c657a5b267ae",
-      "source": "9News",
-      "pub_date": "2026-10-19T17:50:14+00:00",
-      "age_hours": 15.393925339444445,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Union Station Welcomes Maria Empanada to Great Hall",
-      "link": "https://milehighcre.com/union-station-welcomes-maria-empanada-to-great-hall/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-19T15:46:08+00:00",
-      "age_hours": 17.46190106,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "UCHealth Starts Major Hospital Expansion in Colorado Springs",
-      "link": "https://milehighcre.com/uchealth-starts-major-hospital-expansion-in-colorado-springs/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-19T15:15:17+00:00",
-      "age_hours": 17.976067745277778,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Denver\u00a0Releases\u00a0Burnham\u00a0 Yard\u00a0Small\u00a0Area\u00a0Plan\u00a0Draft",
-      "link": "https://milehighcre.com/denver-releases-burnham-yard-small-area-plan-draft/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-19T13:47:09+00:00",
-      "age_hours": 19.44495663972222,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Red House Tools files for Chapter 11 bankruptcy",
-      "link": "https://bizwest.com/2026/10/19/red-house-tools-files-for-chapter-11-bankruptcy/",
-      "source": "BizWest",
-      "pub_date": "2026-10-19T12:11:19+00:00",
-      "age_hours": 21.041857278888887,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
