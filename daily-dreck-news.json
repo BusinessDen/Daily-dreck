@@ -1,69 +1,132 @@
 {
   "fetched_date": "2026-10-21",
-  "fetched_at": "2026-10-21 13:31:59",
+  "fetched_at": "2026-10-21 18:26:57",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "Thrive\u00a0Development\u00a0Plans\u00a0Food\u00a0Hall at\u00a0Denver\u00a0Industrial\u00a0Site",
+      "link": "https://milehighcre.com/thrive-development-plans-food-hall-at-denver-industrial-site/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-21T18:15:51+00:00",
+      "age_hours": 0.17932132666666667,
+      "breaking": true,
+      "time_ago": "10 min ago"
+    },
+    {
+      "title": "TESO Life opens first Colorado department store",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/teso-life-store-first-colorado-location/73-7d9bcd0f-af23-47b1-87dd-75ddb55180a6",
+      "source": "9News",
+      "pub_date": "2026-10-21T17:30:09+00:00",
+      "age_hours": 0.9413603475,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
     {
       "title": "German-style holiday market returning in Denver",
       "link": "https://www.9news.com/article/life/holidays/holiday-guide/denver-christkindlmarket-2026/73-f1048d03-d090-4481-bad7-7bba8b24c40d",
       "source": "9News",
-      "pub_date": "2026-10-21T13:24:52+00:00",
-      "age_hours": 0.11443865888888889,
+      "pub_date": "2026-10-21T16:47:55+00:00",
+      "age_hours": 1.6452492675000001,
       "breaking": true,
-      "time_ago": "6 min ago"
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "National Developer Unveils 222 Affordable Senior Homes in Aurora",
+      "link": "https://milehighcre.com/national-developer-unveils-222-affordable-senior-homes-in-aurora/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-21T16:19:00+00:00",
+      "age_hours": 2.1268213511111114,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "More students are mixing online and in-person classes. At CU Denver, their motivations vary.",
+      "link": "https://www.cpr.org/2026/10/21/more-students-mixing-online-in-person-classes/",
+      "source": "CPR",
+      "pub_date": "2026-10-21T16:06:45+00:00",
+      "age_hours": 2.3313062375,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "BAE buys Weld County Danfoss facility for $30M",
+      "link": "https://bizwest.com/2026/10/21/bae-buys-weld-county-danfoss-facility-for-30m/",
+      "source": "BizWest",
+      "pub_date": "2026-10-21T15:05:16+00:00",
+      "age_hours": 3.355411418611111,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "New north-south boulevard opens in northern Colorado",
+      "link": "https://www.9news.com/article/news/community/transportation/high-plains-boulevard-is-officially-open/73-691d3c29-5948-4441-b196-0a5627c7db43",
+      "source": "9News",
+      "pub_date": "2026-10-21T13:48:24+00:00",
+      "age_hours": 4.637193751666667,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Northern Colorado is getting a new cat cafe",
       "link": "https://www.9news.com/article/life/pets/northern-colorado-cat-cafe/73-b4c0a8cf-0b9a-436e-9aa4-43f8e97c9202",
       "source": "9News",
       "pub_date": "2026-10-21T13:16:23+00:00",
-      "age_hours": 0.2558276030555556,
+      "age_hours": 5.1708048827777775,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "A \u2018golden age\u2019 vs. \u2018we\u2019re working on it\u2019: Trump and Vance give different pitches on the economy",
       "link": "https://sentinelcolorado.com/nation-world/nation/a-golden-age-vs-were-working-on-it-trump-and-vance-give-different-pitches-on-the-economy/",
       "source": "Sentinel",
       "pub_date": "2026-10-21T12:56:24+00:00",
-      "age_hours": 0.5893945088888889,
+      "age_hours": 5.504631649444445,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "FlexEtc plans Broomfield co-warehousing, coworking facility",
       "link": "https://bizwest.com/2026/10/21/flexetc-plans-broomfield-co-warehousing-coworking-facility/",
       "source": "BizWest",
       "pub_date": "2026-10-21T11:24:39+00:00",
-      "age_hours": 2.1174109516666664,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.032356173611111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "JetSet Pilates coming to Boulder",
       "link": "https://bizwest.com/2026/10/21/jetset-pilates-coming-to-boulder/",
       "source": "BizWest",
       "pub_date": "2026-10-21T11:05:45+00:00",
-      "age_hours": 2.4324114877777774,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.347356192777778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Ball elevates pair of regional presidents",
       "link": "https://bizwest.com/2026/10/21/ball-elevates-pair-of-regional-presidents/",
       "source": "BizWest",
       "pub_date": "2026-10-21T11:02:48+00:00",
-      "age_hours": 2.4815781644444446,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.396522863611111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado utility regulators to decide whether Xcel\u2019s data center tariff proposal protects customers",
       "link": "https://coloradosun.com/2026/10/21/xcel-data-centers-energy-colorado-puc/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-21T09:44:00+00:00",
-      "age_hours": 3.795239656944444,
+      "age_hours": 8.710265188333333,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Cannabis-friendly ghost tour shows the haunted history of Cheesman Park, Capitol Hill",
+      "link": "https://www.westword.com/news/cannabis-friendly-ghost-tour-shows-the-haunted-history-of-cheesman-park-capitol-hill-40791711/",
+      "source": "Westword",
+      "pub_date": "2026-10-21T08:30:00-06:00",
+      "age_hours": 3.944311421388889,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -72,117 +135,54 @@
       "link": "https://www.9news.com/article/news/local/broomfield-food-pantry-sees-growing-demand/73-b938f74c-ec17-4dfc-bdc2-e1ee26147059",
       "source": "9News",
       "pub_date": "2026-10-21T02:54:48+00:00",
-      "age_hours": 10.61554994111111,
+      "age_hours": 15.530527162777778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
+    },
+    {
+      "title": "Front Range passenger rail district names election official",
+      "link": "https://www.coloradopolitics.com/2026/10/20/front-range-passenger-rail-district-names-election-official/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-21T01:57:57+00:00",
+      "age_hours": 16.47871460388889,
+      "breaking": false,
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Bow Mar plans construction to gate off public roads in mid-November, despite legal threats from neighboring cities",
       "link": "https://www.9news.com/article/news/local/local-politics/bow-mar-construction-gate-public-roads-legal-threats-neighboring-cities/73-82f663ba-d192-4287-89e8-01d9915ebb36",
       "source": "9News",
       "pub_date": "2026-10-21T01:22:16+00:00",
-      "age_hours": 12.157772220277778,
+      "age_hours": 17.072749415555556,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver Human Services officers bring VA claims help to student veterans on Auraria Campus",
       "link": "https://www.9news.com/article/news/national/military-news/denver-human-services-g-va-claims-help-student-veterans-auraria-campus/73-6a8cc326-dc41-4f67-a5ff-98469809eae4",
       "source": "9News",
       "pub_date": "2026-10-21T00:53:03+00:00",
-      "age_hours": 12.644716670277777,
+      "age_hours": 17.559693862777777,
       "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Denver Water issued more than twice as many fines in 18 days of its lawn watering ban as it did in previous 5 months",
-      "link": "https://www.9news.com/article/money/consumer/denver-water-fines-watering-ban/73-917ba492-24db-4857-9025-e41dbaae4e24",
-      "source": "9News",
-      "pub_date": "2026-10-21T00:50:02+00:00",
-      "age_hours": 12.694994489444444,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Amazon hiring more than 300,000 people ahead of holiday season",
-      "link": "https://www.9news.com/article/news/nation-world/amazon-hiring-for-holidays-job-listings-how-to-apply/507-f190f03b-2492-4de1-a0e2-cfa4ab41e001",
-      "source": "9News",
-      "pub_date": "2026-10-20T22:58:01+00:00",
-      "age_hours": 14.561939008888888,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Scammers now steal up to $4,000 per robocall as Colorado still gets 27 million unwanted calls monthly",
       "link": "https://www.denver7.com/money/consumer/scammers-now-steal-up-to-4-000-per-robocall-as-colorado-still-gets-27-million-unwanted-calls-monthly",
       "source": "Denver7",
       "pub_date": "2026-10-20T22:25:04+00:00",
-      "age_hours": 15.111263720833334,
+      "age_hours": 20.026226969444444,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Poor state oversight let potentially contaminated cannabis reach Colorado consumers, audit finds",
       "link": "https://mjbizdaily.com/news/lax-oversight-and-slow-enforcement-allowed-let-colorado-cannabis-products-reach-consumers-state-audit-finds/618759/",
       "source": "MJBizDaily",
       "pub_date": "2026-10-20T22:21:54+00:00",
-      "age_hours": 15.165570481666666,
+      "age_hours": 20.081081556666668,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Non-profit program helps over 100 families avoid homelessness in its first year",
-      "link": "https://kdvr.com/news/local/non-profit-program-helps-over-100-families-avoid-homelessness-in-its-first-year/",
-      "source": "Fox31",
-      "pub_date": "2026-10-20T22:14:42+00:00",
-      "age_hours": 15.284062836666667,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Injunction denied in lawsuit over Weld justice center",
-      "link": "https://bizwest.com/2026/10/20/injunction-denied-in-lawsuit-over-weld-justice-center/",
-      "source": "BizWest",
-      "pub_date": "2026-10-20T21:59:27+00:00",
-      "age_hours": 15.537411529166667,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Arnolfo\u2019s book details what put Silver Grill on a roll",
-      "link": "https://bizwest.com/2026/10/20/arnolfos-book-details-what-put-silver-grill-on-a-roll/",
-      "source": "BizWest",
-      "pub_date": "2026-10-20T21:53:45+00:00",
-      "age_hours": 15.632411561111113,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "The Werks to open Boulder bar, bowling alley, bike shop",
-      "link": "https://bizwest.com/2026/10/20/the-werks-to-open-boulder-bar-bowling-alley-bike-shop/",
-      "source": "BizWest",
-      "pub_date": "2026-10-20T21:44:34+00:00",
-      "age_hours": 15.785467155555555,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Mile Hi Companies to pay $1.5M in consent decree with the EEOC after discrimination lawsuit",
-      "link": "https://www.cpr.org/2026/10/20/mile-hi-companies-lawsuit-settlement/",
-      "source": "CPR",
-      "pub_date": "2026-10-20T20:25:24+00:00",
-      "age_hours": 17.105397431666667,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Mile High Dine & Recline: Soda Club, RiNo",
-      "link": "https://milehighcre.com/mile-high-dine-recline-soda-club-rino/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-20T20:20:51+00:00",
-      "age_hours": 17.1810049325,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "20 hrs ago"
     }
   ]
 }
