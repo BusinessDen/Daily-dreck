@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-21",
-  "fetched_at": "2026-10-21 18:26:57",
+  "fetched_at": "2026-10-21 22:10:39",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 18,
   "articles": [
     {
-      "title": "Thrive\u00a0Development\u00a0Plans\u00a0Food\u00a0Hall at\u00a0Denver\u00a0Industrial\u00a0Site",
+      "title": "Sun Valley\u2019s big new park is finally happening",
+      "link": "https://denverite.com/2026/10/21/sun-valley-new-park-2027/",
+      "source": "Denverite",
+      "pub_date": "2026-10-21T22:08:09+00:00",
+      "age_hours": 0.033296177499999996,
+      "breaking": true,
+      "time_ago": "1 min ago"
+    },
+    {
+      "title": "Alterra was always going to leave RiNo, exec says",
+      "link": "https://denverite.com/2026/10/21/alterra-was-always-going-to-leave-rino-exec-says/",
+      "source": "Denverite",
+      "pub_date": "2026-10-21T22:05:20+00:00",
+      "age_hours": 0.08024065972222222,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "Colorado epilepsy patient plays mandolin during brain surgery",
+      "link": "https://kdvr.com/news/local/colorado-epilepsy-patient-plays-mandolin-during-brain-surgery/",
+      "source": "Fox31",
+      "pub_date": "2026-10-21T22:00:40+00:00",
+      "age_hours": 0.15847581194444443,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Denver weather: Big cool down coming, but rain chances remain scant",
+      "link": "https://kdvr.com/news/denver-weather-big-cool-down-coming-but-rain-chances-remain-scant/",
+      "source": "Fox31",
+      "pub_date": "2026-10-21T21:40:03+00:00",
+      "age_hours": 0.502086873888889,
+      "breaking": true,
+      "time_ago": "30 min ago"
+    },
+    {
+      "title": "City of Aurora will shift to self-funded healthcare plans in 2027 for some employees",
+      "link": "https://sentinelcolorado.com/metro/city-of-aurora-will-shift-to-self-funded-healthcare-plans-in-2027-for-some-employees/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-21T20:46:05+00:00",
+      "age_hours": 1.4060162308333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "APS disables Flock surveillance cameras on school properties as city decides to quit paying",
+      "link": "https://sentinelcolorado.com/metro/aps-disables-flock-surveillance-cameras-on-school-properties-as-city-decides-to-quit-paying/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-21T20:37:58+00:00",
+      "age_hours": 1.541294101388889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Banner Health to build cancer center in Windsor",
+      "link": "https://bizwest.com/2026/10/21/banner-health-to-build-cancer-center-in-windsor/",
+      "source": "BizWest",
+      "pub_date": "2026-10-21T20:14:00+00:00",
+      "age_hours": 1.9311798888888887,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "UCHealth Greeley Hospital opens expanded emergency department",
+      "link": "https://bizwest.com/2026/10/21/uchealth-greeley-hospital-opens-expanded-emergency-department/",
+      "source": "BizWest",
+      "pub_date": "2026-10-21T20:07:29+00:00",
+      "age_hours": 2.0397913291666665,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Celebrity exorcist priest to take one-year 'media fast' after meeting with Denver archbishop",
+      "link": "https://www.9news.com/article/life/faith/celebrity-exorcist-priest-to-take-one-year-media-fast-after-meeting-with-denver-archbishop/616-1c8da10d-453d-466d-9331-ed476f7bb815",
+      "source": "9News",
+      "pub_date": "2026-10-21T20:05:15+00:00",
+      "age_hours": 2.0817659408333333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Rock singer postpones tour after bus flips following Denver show",
+      "link": "https://kdvr.com/news/local/rock-singer-postpones-tour-after-bus-flips-following-denver-show/",
+      "source": "Fox31",
+      "pub_date": "2026-10-21T20:04:26+00:00",
+      "age_hours": 2.0956979294444444,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Loveland\u2019s Boozee Treats sweetens appeal with new branding",
+      "link": "https://bizwest.com/2026/10/21/lovelands-boozee-treats-sweetens-appeal-with-new-branding/",
+      "source": "BizWest",
+      "pub_date": "2026-10-21T20:03:19+00:00",
+      "age_hours": 2.109235792777778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Sundance picks new festival HQ amid Hotel Boulderado labor dispute",
+      "link": "https://bizwest.com/2026/10/21/sundance-picks-new-festival-hq-amid-hotel-boulderado-labor-dispute/",
+      "source": "BizWest",
+      "pub_date": "2026-10-21T19:45:41+00:00",
+      "age_hours": 2.4031247052777776,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Apartments Overlooking Cheesman Park Sell for $23M",
+      "link": "https://milehighcre.com/apartments-overlooking-cheesman-park-sell-for-23m/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-21T19:26:45+00:00",
+      "age_hours": 2.7189660647222222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Colorado's workforce continues shrinking to record low levels",
+      "link": "https://www.denver7.com/money/colorados-workforce-continues-shrinking-to-record-low-levels",
+      "source": "Denver7",
+      "pub_date": "2026-10-21T18:52:11+00:00",
+      "age_hours": 3.2997719425,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Thrive Development Plans Food Hall at Denver Industrial Site",
       "link": "https://milehighcre.com/thrive-development-plans-food-hall-at-denver-industrial-site/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-21T18:15:51+00:00",
-      "age_hours": 0.17932132666666667,
+      "age_hours": 3.9006327466666666,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "TESO Life opens first Colorado department store",
       "link": "https://www.9news.com/article/life/style/colorado-guide/teso-life-store-first-colorado-location/73-7d9bcd0f-af23-47b1-87dd-75ddb55180a6",
       "source": "9News",
       "pub_date": "2026-10-21T17:30:09+00:00",
-      "age_hours": 0.9413603475,
+      "age_hours": 4.66676599888889,
       "breaking": true,
-      "time_ago": "56 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "German-style holiday market returning in Denver",
       "link": "https://www.9news.com/article/life/holidays/holiday-guide/denver-christkindlmarket-2026/73-f1048d03-d090-4481-bad7-7bba8b24c40d",
       "source": "9News",
       "pub_date": "2026-10-21T16:47:55+00:00",
-      "age_hours": 1.6452492675000001,
+      "age_hours": 5.370654910555555,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "National Developer Unveils 222 Affordable Senior Homes in Aurora",
       "link": "https://milehighcre.com/national-developer-unveils-222-affordable-senior-homes-in-aurora/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-21T16:19:00+00:00",
-      "age_hours": 2.1268213511111114,
+      "age_hours": 5.848132753611112,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "More students are mixing online and in-person classes. At CU Denver, their motivations vary.",
       "link": "https://www.cpr.org/2026/10/21/more-students-mixing-online-in-person-classes/",
       "source": "CPR",
       "pub_date": "2026-10-21T16:06:45+00:00",
-      "age_hours": 2.3313062375,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 6.056658189166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "BAE buys Weld County Danfoss facility for $30M",
       "link": "https://bizwest.com/2026/10/21/bae-buys-weld-county-danfoss-facility-for-30m/",
       "source": "BizWest",
       "pub_date": "2026-10-21T15:05:16+00:00",
-      "age_hours": 3.355411418611111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "New north-south boulevard opens in northern Colorado",
-      "link": "https://www.9news.com/article/news/community/transportation/high-plains-boulevard-is-officially-open/73-691d3c29-5948-4441-b196-0a5627c7db43",
-      "source": "9News",
-      "pub_date": "2026-10-21T13:48:24+00:00",
-      "age_hours": 4.637193751666667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Northern Colorado is getting a new cat cafe",
-      "link": "https://www.9news.com/article/life/pets/northern-colorado-cat-cafe/73-b4c0a8cf-0b9a-436e-9aa4-43f8e97c9202",
-      "source": "9News",
-      "pub_date": "2026-10-21T13:16:23+00:00",
-      "age_hours": 5.1708048827777775,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "A \u2018golden age\u2019 vs. \u2018we\u2019re working on it\u2019: Trump and Vance give different pitches on the economy",
-      "link": "https://sentinelcolorado.com/nation-world/nation/a-golden-age-vs-were-working-on-it-trump-and-vance-give-different-pitches-on-the-economy/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-21T12:56:24+00:00",
-      "age_hours": 5.504631649444445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "FlexEtc plans Broomfield co-warehousing, coworking facility",
-      "link": "https://bizwest.com/2026/10/21/flexetc-plans-broomfield-co-warehousing-coworking-facility/",
-      "source": "BizWest",
-      "pub_date": "2026-10-21T11:24:39+00:00",
-      "age_hours": 7.032356173611111,
+      "age_hours": 7.076735821944444,
       "breaking": false,
       "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "JetSet Pilates coming to Boulder",
-      "link": "https://bizwest.com/2026/10/21/jetset-pilates-coming-to-boulder/",
-      "source": "BizWest",
-      "pub_date": "2026-10-21T11:05:45+00:00",
-      "age_hours": 7.347356192777778,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Ball elevates pair of regional presidents",
-      "link": "https://bizwest.com/2026/10/21/ball-elevates-pair-of-regional-presidents/",
-      "source": "BizWest",
-      "pub_date": "2026-10-21T11:02:48+00:00",
-      "age_hours": 7.396522863611111,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Colorado utility regulators to decide whether Xcel\u2019s data center tariff proposal protects customers",
-      "link": "https://coloradosun.com/2026/10/21/xcel-data-centers-energy-colorado-puc/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-21T09:44:00+00:00",
-      "age_hours": 8.710265188333333,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Cannabis-friendly ghost tour shows the haunted history of Cheesman Park, Capitol Hill",
-      "link": "https://www.westword.com/news/cannabis-friendly-ghost-tour-shows-the-haunted-history-of-cheesman-park-capitol-hill-40791711/",
-      "source": "Westword",
-      "pub_date": "2026-10-21T08:30:00-06:00",
-      "age_hours": 3.944311421388889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Broomfield food pantry sees growing demand as 17% of Coloradans say they can't afford grocery bill",
-      "link": "https://www.9news.com/article/news/local/broomfield-food-pantry-sees-growing-demand/73-b938f74c-ec17-4dfc-bdc2-e1ee26147059",
-      "source": "9News",
-      "pub_date": "2026-10-21T02:54:48+00:00",
-      "age_hours": 15.530527162777778,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Front Range passenger rail district names election official",
-      "link": "https://www.coloradopolitics.com/2026/10/20/front-range-passenger-rail-district-names-election-official/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-21T01:57:57+00:00",
-      "age_hours": 16.47871460388889,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Bow Mar plans construction to gate off public roads in mid-November, despite legal threats from neighboring cities",
-      "link": "https://www.9news.com/article/news/local/local-politics/bow-mar-construction-gate-public-roads-legal-threats-neighboring-cities/73-82f663ba-d192-4287-89e8-01d9915ebb36",
-      "source": "9News",
-      "pub_date": "2026-10-21T01:22:16+00:00",
-      "age_hours": 17.072749415555556,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Denver Human Services officers bring VA claims help to student veterans on Auraria Campus",
-      "link": "https://www.9news.com/article/news/national/military-news/denver-human-services-g-va-claims-help-student-veterans-auraria-campus/73-6a8cc326-dc41-4f67-a5ff-98469809eae4",
-      "source": "9News",
-      "pub_date": "2026-10-21T00:53:03+00:00",
-      "age_hours": 17.559693862777777,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Scammers now steal up to $4,000 per robocall as Colorado still gets 27 million unwanted calls monthly",
-      "link": "https://www.denver7.com/money/consumer/scammers-now-steal-up-to-4-000-per-robocall-as-colorado-still-gets-27-million-unwanted-calls-monthly",
-      "source": "Denver7",
-      "pub_date": "2026-10-20T22:25:04+00:00",
-      "age_hours": 20.026226969444444,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Poor state oversight let potentially contaminated cannabis reach Colorado consumers, audit finds",
-      "link": "https://mjbizdaily.com/news/lax-oversight-and-slow-enforcement-allowed-let-colorado-cannabis-products-reach-consumers-state-audit-finds/618759/",
-      "source": "MJBizDaily",
-      "pub_date": "2026-10-20T22:21:54+00:00",
-      "age_hours": 20.081081556666668,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
     }
   ]
 }
