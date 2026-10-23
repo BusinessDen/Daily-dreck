@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-23",
-  "fetched_at": "2026-10-23 13:09:05",
+  "fetched_at": "2026-10-23 18:08:39",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Fort Collins may dive back into NISP",
+      "link": "https://bizwest.com/2026/10/23/fort-collins-may-dive-back-into-nisp/",
+      "source": "BizWest",
+      "pub_date": "2026-10-23T13:31:06+00:00",
+      "age_hours": 4.616930643333333,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Loveland council to weigh data-center impacts",
+      "link": "https://bizwest.com/2026/10/23/loveland-council-to-weigh-data-center-impacts/",
+      "source": "BizWest",
+      "pub_date": "2026-10-23T13:13:24+00:00",
+      "age_hours": 4.911931284722223,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Israel says it thwarted \u2018terror attack,\u2019 and other Middle East developments",
       "link": "https://sentinelcolorado.com/nation-world/nation/israel-says-it-thwarted-terror-attack-and-other-middle-east-developments/",
       "source": "Sentinel",
       "pub_date": "2026-10-23T12:33:10+00:00",
-      "age_hours": 0.5948618513888889,
+      "age_hours": 5.587486780833333,
       "breaking": true,
-      "time_ago": "35 min ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Colorado may increase taxes on the rich. When Massachusetts did, the wealthy overwhelmingly stayed put.",
+      "link": "https://coloradosun.com/2026/10/23/colorado-amedment-87-graduated-income-tax-millionaires/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-23T10:20:00+00:00",
+      "age_hours": 7.802283898888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado has enough spare winter electricity to replace furnaces with heat pumps, report says",
       "link": "https://coloradosun.com/2026/10/23/colorado-heat-pump-growth-savings-research/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-23T10:08:00+00:00",
-      "age_hours": 3.0133911702777776,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.002283922777778,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Supersonic aircraft maker Boom will build turbines to power data centers at new factory in Centennial",
       "link": "https://coloradosun.com/2026/10/23/boom-supersonic-data-center-jobs-manufacturing-factory/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-23T10:00:00+00:00",
-      "age_hours": 3.1467245441666667,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.135617289444445,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Creepy Colorado: Some of the best ghost stories, local legends shared by CPR readers",
       "link": "https://www.cpr.org/2026/10/23/colorado-ghost-stories-legends-hauntings/",
       "source": "CPR",
       "pub_date": "2026-10-23T10:00:00+00:00",
-      "age_hours": 3.146895408611111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.135798335555556,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "The long and short of proposed Colorado Amendment 87 | GUEST COLUMN",
       "link": "https://www.coloradopolitics.com/2026/10/23/the-long-and-short-of-proposed-colorado-amendment-87-guest-column/",
       "source": "CO Politics",
       "pub_date": "2026-10-23T07:00:00+00:00",
-      "age_hours": 6.147543868888889,
+      "age_hours": 11.140234523611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver says it will begin enforcing Veo scooter and e-bike sidewalk violations",
       "link": "https://www.9news.com/article/news/community/transportation/denver-veo-scooter-sidewalk-violation-enforcement/73-bb68ed52-a6a3-432b-b2f4-a55d80f6bc57",
       "source": "9News",
       "pub_date": "2026-10-23T02:41:54+00:00",
-      "age_hours": 10.448613439722223,
+      "age_hours": 15.437524685833333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Commerce City pays for consultant help in negotiations with Kroenke over development around Dick's Sporting Goods Park",
       "link": "https://www.9news.com/article/news/local/colorado-news/commerce-city-consultant-negotiations-kroenke-development-dicks-sporting-goods-park/73-b8033098-6c98-44a1-af14-52e2a03f84bd",
       "source": "9News",
       "pub_date": "2026-10-23T01:39:49+00:00",
-      "age_hours": 11.483335711944445,
+      "age_hours": 16.472246979166666,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Denver's Archbishop lead prayer over President Donald Trump in Oval Office",
       "link": "https://kdvr.com/news/local/denvers-archbishop-lead-prayer-over-president-donald-trump-in-oval-office/",
       "source": "Fox31",
       "pub_date": "2026-10-23T00:45:50+00:00",
-      "age_hours": 12.383360322777778,
+      "age_hours": 17.372566839444445,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "ULI Panel Explores the Future of Downtown Beyond Office Conversions",
       "link": "https://milehighcre.com/uli-panel-explores-the-future-of-downtown-beyond-office-conversions/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-23T00:11:21+00:00",
-      "age_hours": 12.95746907388889,
+      "age_hours": 17.946378504722222,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Court ruling on Amendment 87 signature gathering is appealed to the Colorado Supreme Court",
       "link": "https://www.cpr.org/2026/10/22/amendment-87-supreme-court-appeal/",
       "source": "CPR",
       "pub_date": "2026-10-22T22:16:38+00:00",
-      "age_hours": 14.869673225833333,
+      "age_hours": 19.858576156666665,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Peer-led support groups at Denver high school help students focus and mature",
-      "link": "https://www.9news.com/article/news/education/denver-school-peer-lead-support-group-focus-mature/73-0e294714-6edb-45e9-88d2-f8b80c506680",
-      "source": "9News",
-      "pub_date": "2026-10-22T21:35:09+00:00",
-      "age_hours": 15.561113546944444,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Wells: Solve for the payment, not the rate",
       "link": "https://bizwest.com/2026/10/22/wells-solve-for-the-payment-not-the-rate/",
       "source": "BizWest",
       "pub_date": "2026-10-22T20:29:50+00:00",
-      "age_hours": 16.649091513055556,
+      "age_hours": 21.638042439166668,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Loveland, Estes Park receive tourism marketing grants",
       "link": "https://bizwest.com/2026/10/22/loveland-estes-park-receive-tourism-marketing-grants/",
       "source": "BizWest",
       "pub_date": "2026-10-22T20:26:17+00:00",
-      "age_hours": 16.7082585775,
+      "age_hours": 21.69720914166667,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Boulder wealth manager Quish acquired",
       "link": "https://bizwest.com/2026/10/22/boulder-wealth-manager-quish-acquired/",
       "source": "BizWest",
       "pub_date": "2026-10-22T20:21:51+00:00",
-      "age_hours": 16.78214749361111,
+      "age_hours": 21.771098064166665,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "5 area companies awarded state pollution-reduction grants",
       "link": "https://bizwest.com/2026/10/22/5-area-companies-awarded-state-pollution-reduction-grants/",
       "source": "BizWest",
       "pub_date": "2026-10-22T20:18:38+00:00",
-      "age_hours": 16.83575862777778,
+      "age_hours": 21.824709206666668,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Movers and Shakers Week Ending 10.23.26",
       "link": "https://milehighcre.com/movers-and-shakers-week-ending-10-23-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-22T19:56:57+00:00",
-      "age_hours": 17.19746909111111,
+      "age_hours": 22.1863785225,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "MGL Partners Celebrates Grand Opening of Iliff Terrace",
       "link": "https://milehighcre.com/mgl-partners-celebrates-grand-opening-of-iliff-terrace/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-22T19:40:27+00:00",
-      "age_hours": 17.472469098333335,
+      "age_hours": 22.46137853111111,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Sun Valley Riverfront Park Breaks Ground",
       "link": "https://milehighcre.com/sun-valley-riverfront-park-breaks-ground/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-22T19:27:00+00:00",
-      "age_hours": 17.69663604277778,
+      "age_hours": 22.685545489722223,
       "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Ken Salazar breaks with Democrats, opposes graduated tax measure",
-      "link": "https://www.coloradopolitics.com/2026/10/22/ken-salazar-breaks-with-democrats-opposes-graduated-tax-measure/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-22T18:28:43+00:00",
-      "age_hours": 18.668932796666667,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Denver Public Schools' $11M Centennial Hall Purchase Marks Rare Land Sale For ULC",
-      "link": "https://www.bisnow.com/news/denver/association/johnson-wales-campus-building-sale-structure-differs-from-other-ulc-deals",
-      "source": "Bisnow",
-      "pub_date": "2026-10-22T18:13:51-04:00",
-      "age_hours": 14.915604999166666,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "22 hrs ago"
     }
   ]
 }
