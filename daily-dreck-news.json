@@ -1,105 +1,168 @@
 {
-  "fetched_date": "2026-10-22",
-  "fetched_at": "2026-10-22 22:09:56",
+  "fetched_date": "2026-10-23",
+  "fetched_at": "2026-10-23 01:17:33",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 16,
   "articles": [
+    {
+      "title": "Denver's Archbishop lead prayer over President Donald Trump in Oval Office",
+      "link": "https://kdvr.com/news/local/denvers-archbishop-lead-prayer-over-president-donald-trump-in-oval-office/",
+      "source": "Fox31",
+      "pub_date": "2026-10-23T00:45:50+00:00",
+      "age_hours": 0.5241723777777778,
+      "breaking": true,
+      "time_ago": "31 min ago"
+    },
+    {
+      "title": "ULI Panel Explores the Future of Downtown Beyond Office Conversions",
+      "link": "https://milehighcre.com/uli-panel-explores-the-future-of-downtown-beyond-office-conversions/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-23T00:11:21+00:00",
+      "age_hours": 1.0982437505555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Court ruling on Amendment 87 signature gathering is appealed to the Colorado Supreme Court",
+      "link": "https://www.cpr.org/2026/10/22/amendment-87-supreme-court-appeal/",
+      "source": "CPR",
+      "pub_date": "2026-10-22T22:16:38+00:00",
+      "age_hours": 3.0104712280555557,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Denver says it will begin enforcing VEO scooter and e-bike sidewalk violations",
       "link": "https://www.9news.com/article/news/community/transportation/denver-veo-scooter-sidewalk-violation-enforcement/73-bb68ed52-a6a3-432b-b2f4-a55d80f6bc57",
       "source": "9News",
       "pub_date": "2026-10-22T21:37:02+00:00",
-      "age_hours": 0.54558692,
+      "age_hours": 3.6705090302777776,
       "breaking": true,
-      "time_ago": "32 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Peer-led support groups at Denver high school help students focus and mature",
       "link": "https://www.9news.com/article/news/education/denver-school-peer-lead-support-group-focus-mature/73-0e294714-6edb-45e9-88d2-f8b80c506680",
       "source": "9News",
       "pub_date": "2026-10-22T21:35:09+00:00",
-      "age_hours": 0.5769758577777778,
+      "age_hours": 3.7018979625,
       "breaking": true,
-      "time_ago": "34 min ago"
+      "time_ago": "3 hrs ago"
     },
     {
       "title": "Wells: Solve for the payment, not the rate",
       "link": "https://bizwest.com/2026/10/22/wells-solve-for-the-payment-not-the-rate/",
       "source": "BizWest",
       "pub_date": "2026-10-22T20:29:50+00:00",
-      "age_hours": 1.6652703466666667,
+      "age_hours": 4.789884610277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Colorado now has the authority to greenlight injecting carbon dioxide underground",
       "link": "https://www.cpr.org/2026/10/22/colorado-underground-carbon-dioxide-injections/",
       "source": "CPR",
       "pub_date": "2026-10-22T20:29:31+00:00",
-      "age_hours": 1.6708353427777778,
+      "age_hours": 4.795749065277778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Loveland, Estes Park receive tourism marketing grants",
       "link": "https://bizwest.com/2026/10/22/loveland-estes-park-receive-tourism-marketing-grants/",
       "source": "BizWest",
       "pub_date": "2026-10-22T20:26:17+00:00",
-      "age_hours": 1.724437573611111,
+      "age_hours": 4.849052207777778,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Boulder wealth manager Quish acquired",
       "link": "https://bizwest.com/2026/10/22/boulder-wealth-manager-quish-acquired/",
       "source": "BizWest",
       "pub_date": "2026-10-22T20:21:51+00:00",
-      "age_hours": 1.7983264955555556,
+      "age_hours": 4.922941159722223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "5 area companies awarded state pollution-reduction grants",
       "link": "https://bizwest.com/2026/10/22/5-area-companies-awarded-state-pollution-reduction-grants/",
       "source": "BizWest",
       "pub_date": "2026-10-22T20:18:38+00:00",
-      "age_hours": 1.851937635,
+      "age_hours": 4.976552319444445,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Movers and Shakers Week Ending 10.23.26",
+      "link": "https://milehighcre.com/movers-and-shakers-week-ending-10-23-26/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-22T19:56:57+00:00",
+      "age_hours": 5.338243767500001,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "MGL Partners Celebrates Grand Opening of Iliff Terrace",
+      "link": "https://milehighcre.com/mgl-partners-celebrates-grand-opening-of-iliff-terrace/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-22T19:40:27+00:00",
+      "age_hours": 5.613243776111111,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Football: Aurora\u2019s 2026 Week 9 schedule",
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-auroras-2026-week-9-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-10-22T19:34:56+00:00",
-      "age_hours": 2.5810637575,
+      "age_hours": 5.706170183055556,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "25-year-state-resident Rev. Edward Nalwamba, 78, freed from Aurora ICE jail after 13 months",
       "link": "https://sentinelcolorado.com/metro/25-year-state-resident-rev-edward-nalwamba-78-freed-from-aurora-ice-jail-after-13-months/",
       "source": "Sentinel",
       "pub_date": "2026-10-22T19:29:36+00:00",
-      "age_hours": 2.66995305,
+      "age_hours": 5.7950594636111115,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Sun Valley Riverfront Park Breaks Ground",
+      "link": "https://milehighcre.com/sun-valley-riverfront-park-breaks-ground/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-22T19:27:00+00:00",
+      "age_hours": 5.837410776666666,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Ken Salazar breaks with Democrats, opposes graduated tax measure",
       "link": "https://www.coloradopolitics.com/2026/10/22/ken-salazar-breaks-with-democrats-opposes-graduated-tax-measure/",
       "source": "CO Politics",
       "pub_date": "2026-10-22T18:28:43+00:00",
-      "age_hours": 3.684581828333333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 6.809757035555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Are you brave enough? Here are Denver metro's most terrifying haunted houses",
       "link": "https://kdvr.com/denver-guide/denver-haunted-houses-to-visit/",
       "source": "Fox31",
       "pub_date": "2026-10-22T18:26:39+00:00",
-      "age_hours": 3.718898442222222,
+      "age_hours": 6.843894834444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Denver Public Schools' $11M Centennial Hall Purchase Marks Rare Land Sale For ULC",
+      "link": "https://www.bisnow.com/news/denver/association/johnson-wales-campus-building-sale-structure-differs-from-other-ulc-deals",
+      "source": "Bisnow",
+      "pub_date": "2026-10-22T18:13:51-04:00",
+      "age_hours": 3.0563912055555558,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
@@ -108,81 +171,18 @@
       "link": "https://www.9news.com/article/money/business/dunkin-opening-newest-next-generation-restaurant-in-castle-rock/73-42961b42-bf90-48e8-aff7-0942b5ac4347",
       "source": "9News",
       "pub_date": "2026-10-22T17:37:01+00:00",
-      "age_hours": 4.545864834166666,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 7.670786923888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Get off the sidewalk: Denver cracking down on Veo scooters",
       "link": "https://kdvr.com/news/local/get-off-the-sidewalk-denver-cracking-down-on-veo-scooters/",
       "source": "Fox31",
       "pub_date": "2026-10-22T17:20:12+00:00",
-      "age_hours": 4.826398353055555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Listen: Bow Mar is putting up a gate to keep traffic out. Here\u2019s where Littleton, Denver may go \u2018gate for gate\u2019",
-      "link": "https://www.cpr.org/2026/10/22/bow-mar-gates-traffic/",
-      "source": "CPR",
-      "pub_date": "2026-10-22T16:24:30+00:00",
-      "age_hours": 5.754446506944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Apple's iPhone Duo launches Friday. Here's how to get one.",
-      "link": "https://www.9news.com/article/news/nation-world/apples-iphone-how-to-get-one/507-2d4be515-5186-4e5d-abbb-da42f6526888",
-      "source": "9News",
-      "pub_date": "2026-10-22T16:02:29+00:00",
-      "age_hours": 6.121420450833334,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Benihana opening first takeout restaurant in Colorado",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/benihana-express-new-colorado-restaurant/73-72857000-6113-40f5-b3d9-e4c56124e337",
-      "source": "9News",
-      "pub_date": "2026-10-22T14:31:30+00:00",
-      "age_hours": 7.637809363055555,
+      "age_hours": 7.951394673055555,
       "breaking": false,
       "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "How new neon green trucks will protect motorists, responders on Denver interstates",
-      "link": "https://www.9news.com/article/news/community/transportation/new-crash-protection-trucks/73-bf3c7643-f8a3-48c2-89a8-c4b2d72b6c4f",
-      "source": "9News",
-      "pub_date": "2026-10-22T14:26:28+00:00",
-      "age_hours": 7.721698295833333,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "What to do in Colorado this week: A blow-up art installation in downtown Denver",
-      "link": "https://coloradosun.com/2026/10/22/what-to-do-in-colorado-this-week-downtown-denver/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-22T14:00:00+00:00",
-      "age_hours": 8.162683015,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "New World screwworm found in US wildlife, raising fears of future human infection, sustained damage to the beef industry",
-      "link": "https://www.9news.com/article/news/nation-world/new-world-screwworm-us-wildlife/507-1b663e5f-990c-4f45-9550-f941a5b10602",
-      "source": "9News",
-      "pub_date": "2026-10-22T13:53:48+00:00",
-      "age_hours": 8.2661427775,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Gorilla Logic names Steve Daly as CTO",
-      "link": "https://bizwest.com/2026/10/22/gorilla-logic-names-steve-daly-as-cto/",
-      "source": "BizWest",
-      "pub_date": "2026-10-22T12:37:48+00:00",
-      "age_hours": 9.532493196666668,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
     }
   ]
 }
