@@ -1,159 +1,168 @@
 {
   "fetched_date": "2026-10-24",
-  "fetched_at": "2026-10-24 10:27:31",
+  "fetched_at": "2026-10-24 14:18:26",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Every opening and closing this week:\u00a0Broadway bar that opened after the pandemic has closed",
+      "link": "https://www.westword.com/food-drink/restaurant-openings-and-closings-denver-broadway-bar-and-pretzels-40952295/",
+      "source": "Westword",
+      "pub_date": "2026-10-24T07:00:00-06:00",
+      "age_hours": 1.3029862966666665,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "1 dead after gunfire between Denver officers and domestic violence suspect",
       "link": "https://kdvr.com/news/local/one-dead-after-gunfire-between-officers-and-domestic-violence-suspect/",
       "source": "Fox31",
       "pub_date": "2026-10-24T03:28:37+00:00",
-      "age_hours": 6.977478828333334,
+      "age_hours": 10.825823413611111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver family looking for two gargoyles stolen from yearly Halloween display",
       "link": "https://kdvr.com/news/local/denver-family-looking-for-two-gargoyles-stolen-from-yearly-halloween-display/",
       "source": "Fox31",
       "pub_date": "2026-10-24T02:58:19+00:00",
-      "age_hours": 7.482478861388889,
+      "age_hours": 11.33082347611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver man competes on iconic game show 'Wheel of Fortune'",
       "link": "https://kdvr.com/news/local/denver-man-competes-on-iconic-game-show-wheel-of-fortune/",
       "source": "Fox31",
       "pub_date": "2026-10-24T02:07:21+00:00",
-      "age_hours": 8.331923363333333,
+      "age_hours": 12.180268009444443,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Downtown Denver rebuilt 16th Street. Now it\u2019s working on its skyscrapers",
       "link": "https://www.9news.com/article/news/local/downtown-denver-rebuilt-16th-street-now-its-working-on-its-skyscrapers/73-f9279cff-66cf-4828-8035-27198c596d01",
       "source": "9News",
       "pub_date": "2026-10-24T01:41:11+00:00",
-      "age_hours": 8.767722651666666,
+      "age_hours": 12.615622574722222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Pagosa Springs begins flood recovery after San Juan River rises to 15 feet",
       "link": "https://kdvr.com/news/local/pagosa-springs-begins-flood-recovery-after-san-juan-river-rises-to-15-feet/",
       "source": "Fox31",
       "pub_date": "2026-10-24T01:14:18+00:00",
-      "age_hours": 9.216089969166665,
+      "age_hours": 13.064434581111112,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver plans to fine Veo for sidewalk riding, but did it tie its hands by going with just one scooter vendor?",
       "link": "https://www.9news.com/article/money/business/denver-plans-to-fine-veo-for-sidewalk-riding-but-did-it-tie-its-hands-by-going-with-just-one-scooter-vendor/73-d4a0340a-b6ca-4e51-ab6d-e9dc990500c2",
       "source": "9News",
       "pub_date": "2026-10-24T00:28:09+00:00",
-      "age_hours": 9.984944904166667,
+      "age_hours": 13.83284485861111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Bow Mar plans construction to gate off public roads in mid-November, despite legal threats from neighboring cities",
       "link": "https://www.9news.com/article/news/local/local-politics/bow-mar-construction-gate-public-roads-legal-threats-neighboring-cities/73-82f663ba-d192-4287-89e8-01d9915ebb36",
       "source": "9News",
       "pub_date": "2026-10-23T23:42:57+00:00",
-      "age_hours": 10.7382782675,
+      "age_hours": 14.586178245,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Supersonic jet maker unveils $150M factory expansion that could create 500 jobs in Centennial",
       "link": "https://www.9news.com/article/news/local/boom-supersonic-colorado-expansion-jobs/73-ffbd44b7-5180-48ef-9fdd-1385f4383405",
       "source": "9News",
       "pub_date": "2026-10-23T21:35:44+00:00",
-      "age_hours": 12.858556055833334,
+      "age_hours": 16.706456039722223,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Federal Boulevard bus rapid transit project secures $50M in state funding",
       "link": "https://denverite.com/2026/10/23/federal-boulevard-bus-rapid-transit-project-funding/",
       "source": "Denverite",
       "pub_date": "2026-10-23T21:31:29+00:00",
-      "age_hours": 12.929253838611112,
+      "age_hours": 16.776941924166668,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Flexibility, innovation, speed urged for affordable housing",
       "link": "https://bizwest.com/2026/10/23/flexibility-innovation-speed-urged-for-affordable-housing/",
       "source": "BizWest",
       "pub_date": "2026-10-23T21:07:17+00:00",
-      "age_hours": 13.332114325833334,
+      "age_hours": 17.179647854722223,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Bold Renewables sold to South Carolina firm",
       "link": "https://bizwest.com/2026/10/23/bold-renewables-sold-to-south-carolina-firm/",
       "source": "BizWest",
       "pub_date": "2026-10-23T20:54:10+00:00",
-      "age_hours": 13.550725730555557,
+      "age_hours": 17.3982594575,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado receives $16 million to bolster educators, special education",
       "link": "https://www.coloradopolitics.com/2026/10/23/colorado-receives-16-million-to-bolster-educators-special-education/",
       "source": "CO Politics",
       "pub_date": "2026-10-23T19:27:55+00:00",
-      "age_hours": 14.989370185833332,
+      "age_hours": 18.8379019325,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Oh my gourd. The elephants at Denver Zoo are at it again",
       "link": "https://www.cpr.org/2026/10/23/denver-zoo-squish-pumpkin-event/",
       "source": "CPR",
       "pub_date": "2026-10-23T19:23:14+00:00",
-      "age_hours": 15.066822881944445,
+      "age_hours": 18.914606185,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Escape Game, Game Show Experience Coming To RiNo: The Denver Deal Sheet",
       "link": "https://www.bisnow.com/news/denver/deal-sheet/escape-game-great-big-game-show-coming-to-rino-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-10-23T15:59:27-04:00",
-      "age_hours": 14.462773350277779,
+      "age_hours": 18.310380361388887,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Fort Collins may dive back into NISP",
       "link": "https://bizwest.com/2026/10/23/fort-collins-may-dive-back-into-nisp/",
       "source": "BizWest",
       "pub_date": "2026-10-23T13:31:06+00:00",
-      "age_hours": 20.93517018027778,
+      "age_hours": 24.782703910555554,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Loveland council to weigh data-center impacts",
       "link": "https://bizwest.com/2026/10/23/loveland-council-to-weigh-data-center-impacts/",
       "source": "BizWest",
       "pub_date": "2026-10-23T13:13:24+00:00",
-      "age_hours": 21.230170196666666,
+      "age_hours": 25.077703938333332,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado may increase taxes on the rich. When Massachusetts did, the wealthy overwhelmingly stayed put.",
       "link": "https://coloradosun.com/2026/10/23/colorado-amedment-87-graduated-income-tax-millionaires/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-23T10:20:00+00:00",
-      "age_hours": 24.1205705075,
+      "age_hours": 27.968212195555555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://coloradosun.com/2026/10/23/colorado-heat-pump-growth-savings-research/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-23T10:08:00+00:00",
-      "age_hours": 24.320570526666668,
+      "age_hours": 28.16821221861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://coloradosun.com/2026/10/23/boom-supersonic-data-center-jobs-manufacturing-factory/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-23T10:00:00+00:00",
-      "age_hours": 24.45390387861111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Creepy Colorado: Some of the best ghost stories, local legends shared by CPR readers",
-      "link": "https://www.cpr.org/2026/10/23/colorado-ghost-stories-legends-hauntings/",
-      "source": "CPR",
-      "pub_date": "2026-10-23T10:00:00+00:00",
-      "age_hours": 24.45404513805556,
+      "age_hours": 28.301545581666666,
       "breaking": false,
       "time_ago": "1 day ago"
     }
