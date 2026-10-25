@@ -1,60 +1,69 @@
 {
   "fetched_date": "2026-10-25",
-  "fetched_at": "2026-10-25 10:54:58",
+  "fetched_at": "2026-10-25 14:52:52",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 1,
   "articles": [
+    {
+      "title": "Denver Police investigating 2 fatal crashes",
+      "link": "https://www.9news.com/article/traffic/2-fatal-crashes-denver/73-90ed35c4-a6dd-4455-842c-c73934909d65",
+      "source": "9News",
+      "pub_date": "2026-10-25T14:09:08+00:00",
+      "age_hours": 0.7244476161111111,
+      "breaking": true,
+      "time_ago": "43 min ago"
+    },
     {
       "title": "Softball: 2026 Class 5A state tournament final results",
       "link": "https://sentinelcolorado.com/sports/preps/girls-softball/softball-2026-class-5a-state-tournament-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-10-25T03:24:00+00:00",
-      "age_hours": 7.512002961944445,
+      "age_hours": 11.477371215000002,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 10.24.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-10-24-26/",
       "source": "Sentinel",
       "pub_date": "2026-10-25T03:00:00+00:00",
-      "age_hours": 7.912003420833334,
+      "age_hours": 11.877371516111111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Homeless advocates question Denver's cold-weather plans after proposed shelter falls through",
       "link": "https://www.9news.com/article/news/community/homeless-advocates-question-denvers-cold-weather-plans-after-proposed-shelter-falls-through/73-56b28761-f774-4cfa-b364-ab77c1476268",
       "source": "9News",
       "pub_date": "2026-10-25T02:21:11+00:00",
-      "age_hours": 8.558672313333334,
+      "age_hours": 12.523614334722222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
       "link": "https://www.9news.com/article/news/nation-world/halloween-candy-sales-off-to-slow-start/507-62167715-9f47-47bf-b4f2-5645639f3084",
       "source": "9News",
       "pub_date": "2026-10-24T14:55:54+00:00",
-      "age_hours": 19.980061306944446,
+      "age_hours": 23.945003275,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Every opening and closing this week:\u00a0Broadway bar that opened after the pandemic has closed",
       "link": "https://www.westword.com/food-drink/restaurant-openings-and-closings-denver-broadway-bar-and-pretzels-40952295/",
       "source": "Westword",
       "pub_date": "2026-10-24T07:00:00-06:00",
-      "age_hours": 21.911866713611108,
+      "age_hours": 25.8771283775,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "1 dead after gunfire between Denver officers and domestic violence suspect",
       "link": "https://kdvr.com/news/local/one-dead-after-gunfire-between-officers-and-domestic-violence-suspect/",
       "source": "Fox31",
       "pub_date": "2026-10-24T03:28:37+00:00",
-      "age_hours": 31.434896743333333,
+      "age_hours": 35.40005965666667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +72,7 @@
       "link": "https://kdvr.com/news/local/denver-family-looking-for-two-gargoyles-stolen-from-yearly-halloween-display/",
       "source": "Fox31",
       "pub_date": "2026-10-24T02:58:19+00:00",
-      "age_hours": 31.939896830000002,
+      "age_hours": 35.90505971305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://kdvr.com/news/local/denver-man-competes-on-iconic-game-show-wheel-of-fortune/",
       "source": "Fox31",
       "pub_date": "2026-10-24T02:07:21+00:00",
-      "age_hours": 32.789341335555555,
+      "age_hours": 36.754504196388886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.9news.com/article/news/local/downtown-denver-rebuilt-16th-street-now-its-working-on-its-skyscrapers/73-f9279cff-66cf-4828-8035-27198c596d01",
       "source": "9News",
       "pub_date": "2026-10-24T01:41:11+00:00",
-      "age_hours": 33.22533912,
+      "age_hours": 37.19028107722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://kdvr.com/news/local/pagosa-springs-begins-flood-recovery-after-san-juan-river-rises-to-15-feet/",
       "source": "Fox31",
       "pub_date": "2026-10-24T01:14:18+00:00",
-      "age_hours": 33.67350790722222,
+      "age_hours": 37.63867080638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://www.9news.com/article/money/business/denver-plans-to-fine-veo-for-sidewalk-riding-but-did-it-tie-its-hands-by-going-with-just-one-scooter-vendor/73-d4a0340a-b6ca-4e51-ab6d-e9dc990500c2",
       "source": "9News",
       "pub_date": "2026-10-24T00:28:09+00:00",
-      "age_hours": 34.442561394722226,
+      "age_hours": 38.40750334055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +117,7 @@
       "link": "https://www.9news.com/article/news/local/local-politics/bow-mar-construction-gate-public-roads-legal-threats-neighboring-cities/73-82f663ba-d192-4287-89e8-01d9915ebb36",
       "source": "9News",
       "pub_date": "2026-10-23T23:42:57+00:00",
-      "age_hours": 35.195894781111114,
+      "age_hours": 39.160836715555554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +126,7 @@
       "link": "https://www.9news.com/article/news/local/boom-supersonic-colorado-expansion-jobs/73-ffbd44b7-5180-48ef-9fdd-1385f4383405",
       "source": "9News",
       "pub_date": "2026-10-23T21:35:44+00:00",
-      "age_hours": 37.31617257833334,
+      "age_hours": 41.28111450805556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://denverite.com/2026/10/23/federal-boulevard-bus-rapid-transit-project-funding/",
       "source": "Denverite",
       "pub_date": "2026-10-23T21:31:29+00:00",
-      "age_hours": 37.38690344111111,
+      "age_hours": 41.35186809444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://bizwest.com/2026/10/23/flexibility-innovation-speed-urged-for-affordable-housing/",
       "source": "BizWest",
       "pub_date": "2026-10-23T21:07:17+00:00",
-      "age_hours": 37.78979189972222,
+      "age_hours": 41.75474398611111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://bizwest.com/2026/10/23/bold-renewables-sold-to-south-carolina-firm/",
       "source": "BizWest",
       "pub_date": "2026-10-23T20:54:10+00:00",
-      "age_hours": 38.008403601388885,
+      "age_hours": 41.973355776388885,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.coloradopolitics.com/2026/10/23/colorado-receives-16-million-to-bolster-educators-special-education/",
       "source": "CO Politics",
       "pub_date": "2026-10-23T19:27:55+00:00",
-      "age_hours": 39.4467087125,
+      "age_hours": 43.412063206944445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.cpr.org/2026/10/23/denver-zoo-squish-pumpkin-event/",
       "source": "CPR",
       "pub_date": "2026-10-23T19:23:14+00:00",
-      "age_hours": 39.524451238333334,
+      "age_hours": 43.48941156694445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://www.bisnow.com/news/denver/deal-sheet/escape-game-great-big-game-show-coming-to-rino-the-denver-deal-sheet",
       "source": "Bisnow",
       "pub_date": "2026-10-23T15:59:27-04:00",
-      "age_hours": 38.920423140277784,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Fort Collins may dive back into NISP",
-      "link": "https://bizwest.com/2026/10/23/fort-collins-may-dive-back-into-nisp/",
-      "source": "BizWest",
-      "pub_date": "2026-10-23T13:31:06+00:00",
-      "age_hours": 45.392848055,
+      "age_hours": 42.885410488611114,
       "breaking": false,
       "time_ago": "1 day ago"
     }
