@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-26",
-  "fetched_at": "2026-10-26 16:35:31",
+  "fetched_at": "2026-10-26 21:25:46",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 17,
   "articles": [
+    {
+      "title": "Mendocino Farms opening new Colorado restaurant",
+      "link": "https://bizwest.com/2026/10/26/mendocino-farms-opening-new-colorado-restaurant/",
+      "source": "BizWest",
+      "pub_date": "2026-10-26T21:10:50+00:00",
+      "age_hours": 0.2442805366666667,
+      "breaking": true,
+      "time_ago": "14 min ago"
+    },
+    {
+      "title": "Which Colorado community will soon get a Trader Joe\u2019s?",
+      "link": "https://bizwest.com/2026/10/26/which-colorado-community-will-soon-get-a-trader-joes/",
+      "source": "BizWest",
+      "pub_date": "2026-10-26T21:10:20+00:00",
+      "age_hours": 0.25261426833333334,
+      "breaking": true,
+      "time_ago": "15 min ago"
+    },
+    {
+      "title": "What\u2019s a DIVA? An exhibit at the Denver Art Museum will let you know, honey!",
+      "link": "https://www.cpr.org/2026/10/26/diva-exhibit-denver-art-museum/",
+      "source": "CPR",
+      "pub_date": "2026-10-26T21:01:31+00:00",
+      "age_hours": 0.4000340627777778,
+      "breaking": true,
+      "time_ago": "24 min ago"
+    },
+    {
+      "title": "State\u2019s Medicaid program covers more services than private insurance",
+      "link": "https://www.coloradopolitics.com/2026/10/26/states-medicaid-program-covers-more-services-than-private-insurance/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-26T20:45:24+00:00",
+      "age_hours": 0.6691262886111111,
+      "breaking": true,
+      "time_ago": "40 min ago"
+    },
+    {
+      "title": "Berthoud begins planning ahead for data-center impacts",
+      "link": "https://bizwest.com/2026/10/26/berthoud-begins-planning-ahead-for-data-center-impacts/",
+      "source": "BizWest",
+      "pub_date": "2026-10-26T20:29:24+00:00",
+      "age_hours": 0.9348365216666666,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
+    {
+      "title": "Snowpack reached record lows while heat soared across Colorado in 2026",
+      "link": "https://sentinelcolorado.com/metro/snowpack-reached-record-lows-while-heat-soared-across-colorado-in-2026/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-26T20:11:36+00:00",
+      "age_hours": 1.2324771852777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Adams County disputes DOJ authority to monitor Election Day activities",
+      "link": "https://sentinelcolorado.com/0trending/962341/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-26T20:08:31+00:00",
+      "age_hours": 1.283866263888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Appeals court tosses $10M judgment against Musk\u2019s X in Boulder lease fight",
+      "link": "https://bizwest.com/2026/10/26/appeals-court-tosses-10m-judgment-against-musks-x-in-boulder-lease-fight/",
+      "source": "BizWest",
+      "pub_date": "2026-10-26T19:09:59+00:00",
+      "age_hours": 2.258447656111111,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Broomfield Town Square developer: City regs a \u2018moving target\u2019",
+      "link": "https://bizwest.com/2026/10/26/broomfield-town-square-developer-city-regs-a-moving-target/",
+      "source": "BizWest",
+      "pub_date": "2026-10-26T19:00:54+00:00",
+      "age_hours": 2.4098365505555557,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Microsoft offers voluntary buyouts to more than 25% of its workforce",
+      "link": "https://www.9news.com/article/news/nation-world/microsoft-offering-voluntary-buyouts/507-0e913a8f-b0cd-4850-b765-47315ea2c310",
+      "source": "9News",
+      "pub_date": "2026-10-26T18:46:01+00:00",
+      "age_hours": 2.6583831119444445,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Business Buzz: The data center backlash, and how Lockheed Martin is expanding in Colorado",
+      "link": "https://www.9news.com/article/money/business-brief/business-buzz-data-center-backlash-and-how-lockheed-martin-is-expanding-in-colorado/73-921a7470-0548-4cea-a3a0-287a0922394c",
+      "source": "9News",
+      "pub_date": "2026-10-26T17:58:28+00:00",
+      "age_hours": 3.4508831494444445,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "EastGroup Properties Acquires 25 Commerce Park\u00a0in Thornton",
+      "link": "https://milehighcre.com/eastgroup-properties-acquires-25-commerce-park-in-thornton/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-26T17:50:03+00:00",
+      "age_hours": 3.5910018625,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Bo Nix breaks Broncos record in reassuring game",
+      "link": "https://kdvr.com/sports/denver-broncos/bo-nix-breaks-broncos-record-in-reassuring-game/",
+      "source": "Fox31",
+      "pub_date": "2026-10-26T17:10:53+00:00",
+      "age_hours": 4.244265155833333,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "$333M Financing Arranged for 3-Property Multifamily Portfolio",
+      "link": "https://milehighcre.com/333m-financing-arranged-for-3-property-multifamily-portfolio/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-26T16:47:42+00:00",
+      "age_hours": 4.630168549722223,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Bento Box Restaurant Leaves Colfax for Cherry Creek",
+      "link": "https://milehighcre.com/bento-box-restaurant-leaves-colfax-for-cherry-creek/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-26T16:38:07+00:00",
+      "age_hours": 4.789890780555556,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Should you be concerned about the PHP vulnerabilities? Here's what the recent AI discovery means.",
       "link": "https://www.9news.com/article/news/nation-world/php-vulnerabilities-what-they-mean/507-7df449c6-024a-4b92-ab43-44c9cfadf054",
       "source": "9News",
       "pub_date": "2026-10-26T15:28:44+00:00",
-      "age_hours": 1.1084117391666666,
+      "age_hours": 5.946438754722222,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Victims self-transport to hospital following separate shootings",
       "link": "https://kdvr.com/news/local/victims-self-transport-to-hospital-following-separate-shootings/",
       "source": "Fox31",
       "pub_date": "2026-10-26T14:35:56+00:00",
-      "age_hours": 1.9886936016666665,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.826765107777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "DMC Biotechnologies raises $18M to advance commercialization",
       "link": "https://bizwest.com/2026/10/26/dmc-biotechnologies-raises-18m-to-advance-commercialization/",
       "source": "BizWest",
       "pub_date": "2026-10-26T13:07:41+00:00",
-      "age_hours": 3.458722359722222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Softball: Cherokee Trail\u2019s 5A state title hopes end with loss to defending champion Broomfield",
-      "link": "https://sentinelcolorado.com/sports/preps/girls-softball/softball-cherokee-trails-5a-state-title-hopes-end-with-loss-to-defending-champion-broomfield/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-26T12:55:08+00:00",
-      "age_hours": 3.669029746388889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.296780999722221,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Affording Colorado: Utility costs spike amid infrastructure demands",
       "link": "https://www.coloradopolitics.com/2026/10/26/affording-colorado-utility-costs-spike-amid-infrastructure-demands/",
       "source": "CO Politics",
       "pub_date": "2026-10-26T12:02:59+00:00",
-      "age_hours": 4.538045777777778,
+      "age_hours": 9.376070779444445,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
+    },
+    {
+      "title": "Cannabis calendar: Costume skate party, Halloween puff-and-paint and ghost tours in Denver",
+      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
+      "source": "Westword",
+      "pub_date": "2026-10-26T11:08:55-06:00",
+      "age_hours": 4.277067300555555,
       "breaking": true,
       "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Election officials say ICE is unlikely to visit Colorado polling places but they\u2019re preparing nonetheless",
-      "link": "https://coloradosun.com/2026/10/26/election-officials-prepare-for-ice-at-polls/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-26T10:00:00+00:00",
-      "age_hours": 6.587130820277778,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Judge rules Ridgway hotel can\u2019t house workers building Telluride\u2019s Four Seasons resort",
-      "link": "https://coloradosun.com/2026/10/26/ridgway-lawsuit-mountain-village-resort-housing/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-26T09:58:00+00:00",
-      "age_hours": 6.620464810555556,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver Police investigating 2 fatal crashes",
-      "link": "https://www.9news.com/article/traffic/2-fatal-crashes-denver/73-90ed35c4-a6dd-4455-842c-c73934909d65",
-      "source": "9News",
-      "pub_date": "2026-10-25T23:42:39+00:00",
-      "age_hours": 16.876467411666667,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Got an old Denver parking ticket? Here's how to pay half the fee",
-      "link": "https://kdvr.com/news/local/got-an-old-denver-parking-ticket-heres-how-to-pay-half-the-fee/",
-      "source": "Fox31",
-      "pub_date": "2026-10-25T17:05:37+00:00",
-      "age_hours": 23.493971464444442,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Ball Arena unveils new gameday bites for Nuggets, Avalanche",
-      "link": "https://bizwest.com/2026/10/25/ball-arena-unveils-new-gameday-bites-for-nuggets-avalanche/",
-      "source": "BizWest",
-      "pub_date": "2026-10-25T16:04:03+00:00",
-      "age_hours": 24.5192784225,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Homeless advocates question Denver's cold-weather plan after proposed shelter falls through",
-      "link": "https://www.9news.com/article/news/community/homeless-advocates-question-denvers-cold-weather-plans-after-proposed-shelter-falls-through/73-56b28761-f774-4cfa-b364-ab77c1476268",
-      "source": "9News",
-      "pub_date": "2026-10-25T02:21:11+00:00",
-      "age_hours": 38.23424525,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-      "link": "https://www.9news.com/article/news/nation-world/halloween-candy-sales-off-to-slow-start/507-62167715-9f47-47bf-b4f2-5645639f3084",
-      "source": "9News",
-      "pub_date": "2026-10-24T14:55:54+00:00",
-      "age_hours": 49.655634201388885,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Every opening and closing this week:\u00a0Broadway bar that opened after the pandemic has closed",
-      "link": "https://www.westword.com/food-drink/restaurant-openings-and-closings-denver-broadway-bar-and-pretzels-40952295/",
-      "source": "Westword",
-      "pub_date": "2026-10-24T07:00:00-06:00",
-      "age_hours": 51.58766714583333,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "1 dead after gunfire between Denver officers and domestic violence suspect",
-      "link": "https://kdvr.com/news/local/one-dead-after-gunfire-between-officers-and-domestic-violence-suspect/",
-      "source": "Fox31",
-      "pub_date": "2026-10-24T03:28:37+00:00",
-      "age_hours": 61.1106381925,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Denver family looking for two gargoyles stolen from yearly Halloween display",
-      "link": "https://kdvr.com/news/local/denver-family-looking-for-two-gargoyles-stolen-from-yearly-halloween-display/",
-      "source": "Fox31",
-      "pub_date": "2026-10-24T02:58:19+00:00",
-      "age_hours": 61.6156382375,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Pagosa Springs begins flood recovery after San Juan River rises to 15 feet",
-      "link": "https://kdvr.com/news/local/pagosa-springs-begins-flood-recovery-after-san-juan-river-rises-to-15-feet/",
-      "source": "Fox31",
-      "pub_date": "2026-10-24T01:14:18+00:00",
-      "age_hours": 63.34924933972222,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado awards $13.9M in taxpayer-funded grants for cutting pollution",
-      "link": "https://www.coloradopolitics.com/2026/10/23/colorado-awards-13-9m-in-taxpayer-funded-grants-for-cutting-pollution/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-23T22:51:27+00:00",
-      "age_hours": 65.73026815749999,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Aurora City Council to vote on indefinite data center moratorium",
-      "link": "https://www.coloradopolitics.com/2026/10/23/aurora-council-to-vote-on-indefinite-data-center-moratorium/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-23T22:14:55+00:00",
-      "age_hours": 66.33915705861112,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Federal Boulevard bus rapid transit project secures $50M in state funding",
-      "link": "https://denverite.com/2026/10/23/federal-boulevard-bus-rapid-transit-project-funding/",
-      "source": "Denverite",
-      "pub_date": "2026-10-23T21:31:29+00:00",
-      "age_hours": 67.06248073138889,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Flexibility, innovation, speed urged for affordable housing",
-      "link": "https://bizwest.com/2026/10/23/flexibility-innovation-speed-urged-for-affordable-housing/",
-      "source": "BizWest",
-      "pub_date": "2026-10-23T21:07:17+00:00",
-      "age_hours": 67.4653895425,
-      "breaking": false,
-      "time_ago": "2 days ago"
     }
   ]
 }
