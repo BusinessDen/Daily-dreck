@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-27",
-  "fetched_at": "2026-10-27 01:14:18",
+  "fetched_at": "2026-10-27 07:25:51",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Aurora lawmakers reject data center moratorium amid resident calls of \u2018shame\u2019",
+      "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-reject-data-center-moratorium-amid-resident-calls-of-shame/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-27T05:39:39+00:00",
+      "age_hours": 1.7661622902777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Pagosa Springs flooding leaves families displaced, homes damaged and business in jeopardy",
+      "link": "https://kdvr.com/news/local/pagosa-springs-flooding-leaves-families-displaced-homes-damaged-and-business-in-jeopardy/",
+      "source": "Fox31",
+      "pub_date": "2026-10-27T05:10:51+00:00",
+      "age_hours": 2.2458866391666668,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
     {
       "title": "Mendocino Farms opening new Colorado restaurant",
       "link": "https://bizwest.com/2026/10/26/mendocino-farms-opening-new-colorado-restaurant/",
       "source": "BizWest",
       "pub_date": "2026-10-26T21:10:50+00:00",
-      "age_hours": 4.052844756388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.245104679722223,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Which Colorado community will soon get a Trader Joe\u2019s?",
       "link": "https://bizwest.com/2026/10/26/which-colorado-community-will-soon-get-a-trader-joes/",
       "source": "BizWest",
       "pub_date": "2026-10-26T21:10:20+00:00",
-      "age_hours": 4.061178711666667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.25343862861111,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "What\u2019s a DIVA? An exhibit at the Denver Art Museum will let you know, honey!",
       "link": "https://www.cpr.org/2026/10/26/diva-exhibit-denver-art-museum/",
       "source": "CPR",
       "pub_date": "2026-10-26T21:01:31+00:00",
-      "age_hours": 4.208796655,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.401019818055556,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Study: Colorado\u2019s Medicaid covers more services than private insurance",
       "link": "https://www.coloradopolitics.com/2026/10/26/states-medicaid-program-covers-more-services-than-private-insurance/",
       "source": "CO Politics",
       "pub_date": "2026-10-26T20:45:24+00:00",
-      "age_hours": 4.477955629999999,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.67030001361111,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Berthoud begins planning ahead for data-center impacts",
       "link": "https://bizwest.com/2026/10/26/berthoud-begins-planning-ahead-for-data-center-impacts/",
       "source": "BizWest",
       "pub_date": "2026-10-26T20:29:24+00:00",
-      "age_hours": 4.743400973888889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.935660888333334,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Snowpack reached record lows while heat soared across Colorado in 2026",
       "link": "https://sentinelcolorado.com/metro/snowpack-reached-record-lows-while-heat-soared-across-colorado-in-2026/",
       "source": "Sentinel",
       "pub_date": "2026-10-26T20:11:36+00:00",
-      "age_hours": 5.041363008333334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.23366264861111,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Adams County disputes DOJ authority to monitor Election Day activities",
       "link": "https://sentinelcolorado.com/0trending/962341/",
       "source": "Sentinel",
       "pub_date": "2026-10-26T20:08:31+00:00",
-      "age_hours": 5.092752281944445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.285051771388888,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Appeals court tosses $10M judgment against Musk\u2019s X in Boulder lease fight",
       "link": "https://bizwest.com/2026/10/26/appeals-court-tosses-10m-judgment-against-musks-x-in-boulder-lease-fight/",
       "source": "BizWest",
       "pub_date": "2026-10-26T19:09:59+00:00",
-      "age_hours": 6.067012121666667,
+      "age_hours": 12.2592720275,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Broomfield Town Square developer: City regs a \u2018moving target\u2019",
       "link": "https://bizwest.com/2026/10/26/broomfield-town-square-developer-city-regs-a-moving-target/",
       "source": "BizWest",
       "pub_date": "2026-10-26T19:00:54+00:00",
-      "age_hours": 6.218401018333333,
+      "age_hours": 12.410660923055556,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Microsoft offers voluntary buyouts to more than 25% of its workforce",
       "link": "https://www.9news.com/article/news/nation-world/microsoft-offering-voluntary-buyouts/507-0e913a8f-b0cd-4850-b765-47315ea2c310",
       "source": "9News",
       "pub_date": "2026-10-26T18:46:01+00:00",
-      "age_hours": 6.467214662777778,
+      "age_hours": 12.659399786111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Business Buzz: The data center backlash, and how Lockheed Martin is expanding in Colorado",
       "link": "https://www.9news.com/article/money/business-brief/business-buzz-data-center-backlash-and-how-lockheed-martin-is-expanding-in-colorado/73-921a7470-0548-4cea-a3a0-287a0922394c",
       "source": "9News",
       "pub_date": "2026-10-26T17:58:28+00:00",
-      "age_hours": 7.259714726944445,
+      "age_hours": 13.45189983361111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "EastGroup Properties Acquires 25 Commerce Park\u00a0in Thornton",
       "link": "https://milehighcre.com/eastgroup-properties-acquires-25-commerce-park-in-thornton/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-26T17:50:03+00:00",
-      "age_hours": 7.3995882575,
+      "age_hours": 13.591813323611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Bo Nix breaks Broncos record in reassuring game",
       "link": "https://kdvr.com/sports/denver-broncos/bo-nix-breaks-broncos-record-in-reassuring-game/",
       "source": "Fox31",
       "pub_date": "2026-10-26T17:10:53+00:00",
-      "age_hours": 8.053071434166666,
+      "age_hours": 14.245331169722222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "$333M Financing Arranged for 3-Property Multifamily Portfolio",
       "link": "https://milehighcre.com/333m-financing-arranged-for-3-property-multifamily-portfolio/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-26T16:47:42+00:00",
-      "age_hours": 8.438754941666668,
+      "age_hours": 14.630980006388889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Bento Box Restaurant Leaves Colfax for Cherry Creek",
       "link": "https://milehighcre.com/bento-box-restaurant-leaves-colfax-for-cherry-creek/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-26T16:38:07+00:00",
-      "age_hours": 8.598477176388888,
+      "age_hours": 14.790702240277778,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Should you be concerned about the PHP vulnerabilities? Here's what the recent AI discovery means.",
-      "link": "https://www.9news.com/article/news/nation-world/php-vulnerabilities-what-they-mean/507-7df449c6-024a-4b92-ab43-44c9cfadf054",
-      "source": "9News",
-      "pub_date": "2026-10-26T15:28:44+00:00",
-      "age_hours": 9.755270350555556,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Victims self-transport to hospital following separate shootings",
       "link": "https://kdvr.com/news/local/victims-self-transport-to-hospital-following-separate-shootings/",
       "source": "Fox31",
       "pub_date": "2026-10-26T14:35:56+00:00",
-      "age_hours": 10.63557145361111,
+      "age_hours": 16.827831183333334,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "DMC Biotechnologies raises $18M to advance commercialization",
       "link": "https://bizwest.com/2026/10/26/dmc-biotechnologies-raises-18m-to-advance-commercialization/",
       "source": "BizWest",
       "pub_date": "2026-10-26T13:07:41+00:00",
-      "age_hours": 12.105345469444446,
+      "age_hours": 18.297605373055553,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Affording Colorado: Utility costs spike amid infrastructure demands",
       "link": "https://www.coloradopolitics.com/2026/10/26/affording-colorado-utility-costs-spike-amid-infrastructure-demands/",
       "source": "CO Politics",
       "pub_date": "2026-10-26T12:02:59+00:00",
-      "age_hours": 13.184900221666666,
+      "age_hours": 19.37724457694444,
       "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Election officials say ICE is unlikely to visit Colorado polling places but they\u2019re preparing nonetheless",
-      "link": "https://coloradosun.com/2026/10/26/election-officials-prepare-for-ice-at-polls/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-26T10:00:00+00:00",
-      "age_hours": 15.233879848333332,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "19 hrs ago"
     }
   ]
 }
