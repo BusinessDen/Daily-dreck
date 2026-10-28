@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-10-27",
-  "fetched_at": "2026-10-27 23:34:57",
+  "fetched_date": "2026-10-28",
+  "fetched_at": "2026-10-28 04:31:50",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 10,
   "articles": [
+    {
+      "title": "One week to Election Day, ballot returns are up, but concerns persist",
+      "link": "https://www.cpr.org/2026/10/27/returned-ballots-week-out-midterm-elections/",
+      "source": "CPR",
+      "pub_date": "2026-10-28T01:30:11+00:00",
+      "age_hours": 3.022958781944445,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "BookGive has thousands of books come through their door every year",
+      "link": "https://www.9news.com/video/news/local/bookgive-has-thousands-of-books-come-through-their-door-every-year/73-6245f70f-c179-4dd4-805e-f52a2f5caeeb",
+      "source": "9News",
+      "pub_date": "2026-10-28T01:19:45+00:00",
+      "age_hours": 3.196903091388889,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Denver councilmembers to challenge mayor's proposed 70% reduction in rental assistance",
+      "link": "https://www.9news.com/article/news/local/denver-councilmembers-challenge-reduction-in-rental-assistance/73-44726eda-fc1c-4f75-bba1-a031643824c2",
+      "source": "9News",
+      "pub_date": "2026-10-28T00:40:38+00:00",
+      "age_hours": 3.848847577222222,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Denver toy store vandalized overnight, Pok\u00e9mon cards stolen",
+      "link": "https://kdvr.com/news/local/denver-toy-store-vandalized-overnight-pokemon-cards-stolen/",
+      "source": "Fox31",
+      "pub_date": "2026-10-28T00:13:51+00:00",
+      "age_hours": 4.2955820025,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Colorado joins federal lawsuit challenging U.S. Treasury Department",
       "link": "https://www.coloradopolitics.com/2026/10/27/102726-cp-news-agpressrelease/",
       "source": "CO Politics",
       "pub_date": "2026-10-27T23:17:44+00:00",
-      "age_hours": 0.28308294694444447,
+      "age_hours": 5.231142041666667,
       "breaking": true,
-      "time_ago": "16 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver Scholarship Foundation pairs students of color with executives in paid micro-internships",
       "link": "https://www.9news.com/article/news/education/denver-scholarship-foundation-micro-internships-black-latino-students/73-eea006c4-8623-4d4a-8d5c-38b813865704",
       "source": "9News",
       "pub_date": "2026-10-27T23:10:38+00:00",
-      "age_hours": 0.3982419175,
+      "age_hours": 5.3488476,
       "breaking": true,
-      "time_ago": "23 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Mesa Quantum celebrates Boulder HQ opening",
       "link": "https://bizwest.com/2026/10/27/mesa-quantum-celebrates-boulder-hq-opening/",
       "source": "BizWest",
       "pub_date": "2026-10-27T22:57:00+00:00",
-      "age_hours": 0.6247939783333334,
+      "age_hours": 5.575348446388889,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado ranchers face rising costs as US cattle herd shrinks to decades-low levels",
       "link": "https://www.9news.com/article/news/local/colorado-news/colorado-ranchers-face-rising-costs-as-cattle-herds-shrink/73-9e5a9267-1501-472c-a565-145a822af90e",
       "source": "9News",
       "pub_date": "2026-10-27T22:51:37+00:00",
-      "age_hours": 0.715186373888889,
+      "age_hours": 5.665792049166666,
       "breaking": true,
-      "time_ago": "42 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Boulder-based grain partnership opens Texas shuttle train",
       "link": "https://bizwest.com/2026/10/27/boulder-based-grain-partnership-opens-texas-shuttle-train/",
       "source": "BizWest",
       "pub_date": "2026-10-27T22:49:00+00:00",
-      "age_hours": 0.7581273255555555,
+      "age_hours": 5.7086817977777775,
       "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Denver mayor isn\u2019t ready to spend more on eviction help",
       "link": "https://denverite.com/2026/10/27/denver-2027-budget-eviction-funding/",
       "source": "Denverite",
       "pub_date": "2026-10-27T22:36:37+00:00",
-      "age_hours": 0.9650608577777777,
+      "age_hours": 5.915658770555556,
       "breaking": true,
-      "time_ago": "57 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Alexander brothers each get 30 years in prison after women spoke of being drugged and raped by them",
       "link": "https://www.9news.com/article/news/nation-world/alexander-brothers-sentence-prison-drugged-raped-women/507-a34cea68-72da-4406-96c7-ce8d6858fd74",
       "source": "9News",
       "pub_date": "2026-10-27T21:28:29+00:00",
-      "age_hours": 2.1007419827777776,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.051347655,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "East Colfax BRT projects hold final arch party near Havana Street",
       "link": "https://sentinelcolorado.com/metro/east-colfax-brt-projects-hold-final-arch-party-near-havana-street/",
       "source": "Sentinel",
       "pub_date": "2026-10-27T21:21:39+00:00",
-      "age_hours": 2.217851223611111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.165900588333333,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Satellite company plans to test giant mirror in space for sunlight on demand",
       "link": "https://www.9news.com/article/news/nation-world/giant-space-mirror-satellite-reflect-orbital/507-7fd55f2f-ade3-41ac-bbdc-bada6e4d9c4e",
       "source": "9News",
       "pub_date": "2026-10-27T21:17:51+00:00",
-      "age_hours": 2.277964209722222,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.228569881666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Wildcraft Farmers Market opens community fund for support",
       "link": "https://bizwest.com/2026/10/27/wildcraft-farmers-market-opens-community-fund-for-support/",
       "source": "BizWest",
       "pub_date": "2026-10-27T19:55:55+00:00",
-      "age_hours": 3.6428499444444444,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 8.593404426944446,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "'Banana Hero': Woman in banana costume helps driver who crashed into Florida restaurant",
       "link": "https://www.9news.com/article/news/nation-world/woman-in-banana-costume-helps-driver-who-crashed-into-florida-restaurant/507-9c82c5c2-0458-45a9-85cf-82a75a935dbd",
       "source": "9News",
       "pub_date": "2026-10-27T19:09:15+00:00",
-      "age_hours": 4.421297599444444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.371903265833332,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Parameter Technologies to be acquired by Atlanta company",
       "link": "https://bizwest.com/2026/10/27/parameter-technologies-to-be-acquired-by-atlanta-company/",
       "source": "BizWest",
       "pub_date": "2026-10-27T18:08:49+00:00",
-      "age_hours": 5.427849965277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.378404448055555,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Capital campaign nears goal for new Fort Collins library",
       "link": "https://bizwest.com/2026/10/27/capital-campaign-nears-goal-for-new-fort-collins-library/",
       "source": "BizWest",
       "pub_date": "2026-10-27T18:04:24+00:00",
-      "age_hours": 5.501461099444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.452015582777777,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "3D Systems Opens New Industrial Technology Center in Littleton",
       "link": "https://milehighcre.com/3d-systems-opens-new-industrial-technology-center-in-littleton/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-27T16:56:20+00:00",
-      "age_hours": 6.636255581666666,
+      "age_hours": 11.586770350277778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Starbucks announces return of Red Cup Day",
-      "link": "https://www.9news.com/article/news/nation-world/starbucks-2026-red-cup-day/507-4c8c4cd0-b89b-4a83-8288-9990f8d04ef6",
-      "source": "9News",
-      "pub_date": "2026-10-27T16:20:48+00:00",
-      "age_hours": 7.228797663333333,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Namaste Solar Helps Power Anythink, CO\u2019s First Public Nature Library",
       "link": "https://milehighcre.com/namaste-solar-helps-power-anythink-cos-first-public-nature-library/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-27T16:07:23+00:00",
-      "age_hours": 7.452088929444444,
+      "age_hours": 12.402603697222222,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "First Look: Out with the \u2018Fresh,\u2019 in with the \u2018Neo\u2019",
       "link": "https://www.westword.com/food-drink/neos-latin-cuisine-denver-oaxacan-restaurant-review-40954287/",
       "source": "Westword",
       "pub_date": "2026-10-27T12:49:17-06:00",
-      "age_hours": 4.754758728611111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Prostitutes and blow: Congressional candidate has unique idea to boost Colorado economy",
-      "link": "https://www.westword.com/news/colorado-cd5-candidate-wants-legal-cocaine-prostitution-40952293/",
-      "source": "Westword",
-      "pub_date": "2026-10-27T11:30:37-06:00",
-      "age_hours": 6.065869939722222,
+      "age_hours": 9.705170772777777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "National Democrats summoned the cavalry to Colorado\u2019s 3rd Congressional District. It hasn\u2019t come.",
-      "link": "https://coloradosun.com/2026/10/27/dwayne-romero-jeff-hurd-super-pac-spending/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-27T10:05:00+00:00",
-      "age_hours": 13.491922055,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Why Denver\u2019s 4% inflation may feel much higher",
-      "link": "https://coloradosun.com/2026/10/27/denver-inflation-rate-consumer-prices-gas/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-27T10:00:00+00:00",
-      "age_hours": 13.57525607,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "9 hrs ago"
     }
   ]
 }
