@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-28",
-  "fetched_at": "2026-10-28 11:03:52",
+  "fetched_at": "2026-10-28 17:59:40",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 17,
   "articles": [
+    {
+      "title": "Photos: Indie 102.3 Walks in the Broadway Halloween Parade",
+      "link": "https://www.cpr.org/2026/10/28/photos-indie-102-3-walks-in-the-broadway-halloween-parade/",
+      "source": "CPR",
+      "pub_date": "2026-10-28T17:45:23+00:00",
+      "age_hours": 0.23290411083333332,
+      "breaking": true,
+      "time_ago": "13 min ago"
+    },
+    {
+      "title": "Worker injured after explosion at Loveland construction site",
+      "link": "https://kdvr.com/news/local/worker-injured-after-explosion-at-loveland-construction-site/",
+      "source": "Fox31",
+      "pub_date": "2026-10-28T17:37:42+00:00",
+      "age_hours": 0.3614253697222222,
+      "breaking": true,
+      "time_ago": "21 min ago"
+    },
+    {
+      "title": "Where Broncos fans can see 'NFL Today' crew in Denver this weekend",
+      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/cbs-nfl-today-denver-broncos-chiefs/73-205c02c1-f263-4d08-9119-9fd690fa6dc6",
+      "source": "9News",
+      "pub_date": "2026-10-28T17:03:12+00:00",
+      "age_hours": 0.936056435,
+      "breaking": true,
+      "time_ago": "56 min ago"
+    },
+    {
+      "title": "DMC Global stock booms in early trading",
+      "link": "https://bizwest.com/2026/10/28/dmc-global-stock-booms-in-early-trading/",
+      "source": "BizWest",
+      "pub_date": "2026-10-28T16:58:55+00:00",
+      "age_hours": 1.0067852566666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Homeless advocates question Denver's cold-weather plan after proposed shelter falls through",
+      "link": "https://www.9news.com/article/news/community/homeless-advocates-question-denvers-cold-weather-plans-after-proposed-shelter-falls-through/73-56b28761-f774-4cfa-b364-ab77c1476268",
+      "source": "9News",
+      "pub_date": "2026-10-28T16:56:41+00:00",
+      "age_hours": 1.0446675566666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Wendy's could have a new owner | Here's who's trying to buy the burger chain",
+      "link": "https://www.9news.com/article/news/nation-world/wendys-new-owner-burger-chain-investor-offer/507-d1dd4f2a-b6d7-4a25-9dcd-d033e4fa68a5",
+      "source": "9News",
+      "pub_date": "2026-10-28T16:41:25+00:00",
+      "age_hours": 1.2991120691666667,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Man in his 30s fatally shot in North Aurora apartment parking lot",
+      "link": "https://sentinelcolorado.com/metro/man-in-his-30s-fatally-shot-in-north-aurora-apartment-parking-lot/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-28T16:30:11+00:00",
+      "age_hours": 1.4869967630555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Stormwater pipe construction causes two-week closure of South Havana Street at Parker Road",
+      "link": "https://sentinelcolorado.com/metro/stormwater-pipe-construction-causes-two-week-closure-of-south-havana-street-at-parker-road/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-28T16:05:40+00:00",
+      "age_hours": 1.8956081197222223,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "How do you fix polarization in the U.S.? A new academic center at DU wants to find out.",
+      "link": "https://www.cpr.org/2026/10/28/polarization-miller-national-academy-du/",
+      "source": "CPR",
+      "pub_date": "2026-10-28T15:39:15+00:00",
+      "age_hours": 2.3351264105555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Arapahoe Basin to become first Colorado ski area to open for season",
+      "link": "https://kdvr.com/denver-guide/arapahoe-basin-to-become-first-colorado-ski-area-to-open-for-season/",
+      "source": "Fox31",
+      "pub_date": "2026-10-28T15:38:07+00:00",
+      "age_hours": 2.354480963888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "First UCHealth report on Estes hospital shows more patients, more options",
+      "link": "https://bizwest.com/2026/10/28/first-uchealth-report-on-estes-hospital-shows-more-patients-more-options/",
+      "source": "BizWest",
+      "pub_date": "2026-10-28T15:30:50+00:00",
+      "age_hours": 2.474841378333333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Draper project lives again; may get underway in 2027",
+      "link": "https://bizwest.com/2026/10/28/draper-project-lives-again-may-get-underway-in-2027/",
+      "source": "BizWest",
+      "pub_date": "2026-10-28T15:25:01+00:00",
+      "age_hours": 2.571785857777778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Larger Office Leases Support Denver Vacancy Improvement",
+      "link": "https://milehighcre.com/larger-office-leases-support-denver-vacancy-improvement/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-28T15:14:28+00:00",
+      "age_hours": 2.747932671388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "'The Wourld Tour II': The Neighbourhood announces Denver arena concert",
+      "link": "https://www.9news.com/article/entertainment/music/colorado-music/the-neighbourhood-world-tour/73-2e6af83f-0afe-4dc4-ac17-eff05be7612f",
+      "source": "9News",
+      "pub_date": "2026-10-28T15:07:58+00:00",
+      "age_hours": 2.8566120955555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Freedom Service Dogs reopens applications for veterans, service members, first responders",
+      "link": "https://www.9news.com/article/news/community/freedom-service-dogs-colorado/73-f6f7d3c1-8280-46d2-aeac-3a47b5d65cb2",
+      "source": "9News",
+      "pub_date": "2026-10-28T13:41:45+00:00",
+      "age_hours": 4.293556568055555,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "McDonald's launches winter drink menu, including cranberry flavor and caffeine for the holidays",
+      "link": "https://www.9news.com/article/news/nation-world/mcdonalds-launches-winter-drink-menu/507-dbeaca80-68f4-4aef-b6c0-8614267aa8e1",
+      "source": "9News",
+      "pub_date": "2026-10-28T13:35:49+00:00",
+      "age_hours": 4.392445493055556,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Local county clerks say they\u2019re ready to defend 2026 midterms against federal interference",
+      "link": "https://sentinelcolorado.com/metro/local-county-clerks-say-theyre-ready-to-defend-2026-midterms-against-federal-interference/",
+      "source": "Sentinel",
+      "pub_date": "2026-10-28T13:14:26+00:00",
+      "age_hours": 4.749497074444444,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "200 cruise passengers on 3-year world voyage stranded after US company ends trip over fuel costs",
+      "link": "https://www.9news.com/article/news/nation-world/cruise-passengers-stranded-3-year-cruise-fuel-costs-global-voyage/507-a5a32389-3842-49c4-8789-7a148bf02b9a",
+      "source": "9News",
+      "pub_date": "2026-10-28T11:46:50+00:00",
+      "age_hours": 6.208834460555556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Autonomous Mind | Infrastructure opportunity or risky tech race?",
       "link": "https://www.coloradopolitics.com/2026/10/28/ai-infrastructure-opportunity-risky-tech-race-autonomous-mind/",
       "source": "CO Politics",
       "pub_date": "2026-10-28T11:00:00+00:00",
-      "age_hours": 0.055616310277777775,
-      "breaking": true,
-      "time_ago": "3 min ago"
+      "age_hours": 6.990036138333334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Poudre School District votes to close or consolidate 8 schools",
       "link": "https://www.9news.com/article/news/education/poudre-school-district-votes-closes-consolidates-schools/73-a0858211-1e9c-4971-a022-65b8cfe1d049",
       "source": "9News",
       "pub_date": "2026-10-28T10:59:08+00:00",
-      "age_hours": 0.06974187416666668,
-      "breaking": true,
-      "time_ago": "4 min ago"
-    },
-    {
-      "title": "Denver Water wants to hire lawn patrol staff to enforce restrictions next summer",
-      "link": "https://coloradosun.com/2026/10/28/denver-water-rate-hikes-enforcement-drought/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-28T10:08:00+00:00",
-      "age_hours": 0.9215889544444444,
-      "breaking": true,
-      "time_ago": "55 min ago"
-    },
-    {
-      "title": "Answers to your questions about Amendment 87, Colorado\u2019s graduated income tax\u00a0ballot measure",
-      "link": "https://coloradosun.com/2026/10/28/amendment-87-faq-social-security-income-tax-ballot-table-joint-filers/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-28T10:00:00+00:00",
-      "age_hours": 1.054923053888889,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Denver named finalist to host future NCAA men's basketball Final Four",
-      "link": "https://www.9news.com/article/sports/ncaa/denver-finalist-ncaa-mens-basketball-final-four/73-0bac626f-2a90-430b-bbf9-b6b62bb55f6f",
-      "source": "9News",
-      "pub_date": "2026-10-28T04:58:10+00:00",
-      "age_hours": 6.085853080277778,
+      "age_hours": 7.003834507222222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Colorado ranchers face rising costs as US cattle herd shrinks to decades-low levels",
-      "link": "https://www.9news.com/article/news/local/colorado-news/colorado-ranchers-face-rising-costs-as-cattle-herds-shrink/73-9e5a9267-1501-472c-a565-145a822af90e",
-      "source": "9News",
-      "pub_date": "2026-10-28T04:53:17+00:00",
-      "age_hours": 6.1672419849999995,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Public Radio Music Day 2026",
-      "link": "https://www.cpr.org/2026/10/27/public-radio-music-day-2026/",
-      "source": "CPR",
-      "pub_date": "2026-10-28T04:47:00+00:00",
-      "age_hours": 6.271909504444444,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "One week to Election Day, ballot returns are up, but concerns persist",
-      "link": "https://www.cpr.org/2026/10/27/returned-ballots-week-out-midterm-elections/",
-      "source": "CPR",
-      "pub_date": "2026-10-28T01:30:11+00:00",
-      "age_hours": 9.552187353611112,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "BookGive has thousands of books come through their door every year",
-      "link": "https://www.9news.com/video/news/local/bookgive-has-thousands-of-books-come-through-their-door-every-year/73-6245f70f-c179-4dd4-805e-f52a2f5caeeb",
-      "source": "9News",
-      "pub_date": "2026-10-28T01:19:45+00:00",
-      "age_hours": 9.726130951388889,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Denver councilmembers to challenge mayor's proposed 70% reduction in rental assistance",
-      "link": "https://www.9news.com/article/news/local/denver-councilmembers-challenge-reduction-in-rental-assistance/73-44726eda-fc1c-4f75-bba1-a031643824c2",
-      "source": "9News",
-      "pub_date": "2026-10-28T00:40:38+00:00",
-      "age_hours": 10.378075451944444,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Denver toy store vandalized overnight, Pok\u00e9mon cards stolen",
-      "link": "https://kdvr.com/news/local/denver-toy-store-vandalized-overnight-pokemon-cards-stolen/",
-      "source": "Fox31",
-      "pub_date": "2026-10-28T00:13:51+00:00",
-      "age_hours": 10.82464584138889,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Colorado joins federal lawsuit challenging U.S. Treasury Department",
-      "link": "https://www.coloradopolitics.com/2026/10/27/102726-cp-news-agpressrelease/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-27T23:17:44+00:00",
-      "age_hours": 11.76006086,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver Scholarship Foundation pairs students of color with executives in paid micro-internships",
-      "link": "https://www.9news.com/article/news/education/denver-scholarship-foundation-micro-internships-black-latino-students/73-eea006c4-8623-4d4a-8d5c-38b813865704",
-      "source": "9News",
-      "pub_date": "2026-10-27T23:10:38+00:00",
-      "age_hours": 11.8780754825,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver mayor isn\u2019t ready to spend more on eviction help",
-      "link": "https://denverite.com/2026/10/27/denver-2027-budget-eviction-funding/",
-      "source": "Denverite",
-      "pub_date": "2026-10-27T22:36:37+00:00",
-      "age_hours": 12.444903178333334,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Alexander brothers each get 30 years in prison after women spoke of being drugged and raped by them",
-      "link": "https://www.9news.com/article/news/nation-world/alexander-brothers-sentence-prison-drugged-raped-women/507-a34cea68-72da-4406-96c7-ce8d6858fd74",
-      "source": "9News",
-      "pub_date": "2026-10-27T21:28:29+00:00",
-      "age_hours": 13.580575506944443,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "East Colfax BRT projects hold final arch party near Havana Street",
-      "link": "https://sentinelcolorado.com/metro/east-colfax-brt-projects-hold-final-arch-party-near-havana-street/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-27T21:21:39+00:00",
-      "age_hours": 13.694801110277778,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Satellite company plans to test giant mirror in space for sunlight on demand",
-      "link": "https://www.9news.com/article/news/nation-world/giant-space-mirror-satellite-reflect-orbital/507-7fd55f2f-ade3-41ac-bbdc-bada6e4d9c4e",
-      "source": "9News",
-      "pub_date": "2026-10-27T21:17:51+00:00",
-      "age_hours": 13.757797734722223,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "3D Systems Opens New Industrial Technology Center in Littleton",
-      "link": "https://milehighcre.com/3d-systems-opens-new-industrial-technology-center-in-littleton/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-27T16:56:20+00:00",
-      "age_hours": 18.115980566666668,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Namaste Solar Helps Power Anythink, CO\u2019s First Public Nature Library",
-      "link": "https://milehighcre.com/namaste-solar-helps-power-anythink-cos-first-public-nature-library/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-27T16:07:23+00:00",
-      "age_hours": 18.93181391583333,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "First Look: Out with the \u2018Fresh,\u2019 in with the \u2018Neo\u2019",
-      "link": "https://www.westword.com/food-drink/neos-latin-cuisine-denver-oaxacan-restaurant-review-40954287/",
-      "source": "Westword",
-      "pub_date": "2026-10-27T12:49:17-06:00",
-      "age_hours": 16.234111590555553,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "7 hrs ago"
     }
   ]
 }
