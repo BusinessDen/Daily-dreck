@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-29",
-  "fetched_at": "2026-10-29 09:30:48",
+  "fetched_at": "2026-10-29 16:41:19",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "2 people killed in late-night crash on 6th Avenue, I-25 ramp",
+      "link": "https://kdvr.com/news/local/2-people-killed-in-late-night-crash-on-6th-avenue-i-25-ramp/",
+      "source": "Fox31",
+      "pub_date": "2026-10-29T16:05:08+00:00",
+      "age_hours": 0.5988907905555556,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
+    {
+      "title": "Draper and Kramer Acquires 120-Unit Apartment Community in Golden",
+      "link": "https://milehighcre.com/draper-and-kramer-acquires-120-unit-apartment-community-in-golden/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-10-29T14:16:46+00:00",
+      "age_hours": 2.4042263311111114,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "DoorDash offers $17 billion for Instacart in what would be a big consolidation for grocery delivery",
+      "link": "https://www.9news.com/article/news/nation-world/doordash-offers-17-billion-for-instacart/507-95e35034-8f00-43cb-97d2-a81e29093b71",
+      "source": "9News",
+      "pub_date": "2026-10-29T14:04:27+00:00",
+      "age_hours": 2.6100074963888886,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "What to do in Colorado this week: A D\u00eda de los Muertos concert with the Colorado Symphony Orchestra",
+      "link": "https://coloradosun.com/2026/10/29/what-to-do-in-colorado-dia-de-los-muertos/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-29T14:00:00+00:00",
+      "age_hours": 2.6839141208333337,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver Water says monthly bills will increase in 2027",
+      "link": "https://www.9news.com/article/money/consumer/denver-water-raising-rates/73-71c7c6a9-d3c1-4e9b-9f4a-a82dbc5faa6f",
+      "source": "9News",
+      "pub_date": "2026-10-29T12:32:19+00:00",
+      "age_hours": 4.145563089166666,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Wayfair plans second brick-and-mortar store in Colorado",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/wayfair-aurora-colorado-southlands-new-stores/73-08d2ec41-ffba-4a2d-8269-428f6cbef148",
+      "source": "9News",
+      "pub_date": "2026-10-29T12:31:42+00:00",
+      "age_hours": 4.155840903888889,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Autonomous Mind | Are data centers the new AI bogeyman?",
+      "link": "https://www.coloradopolitics.com/2026/10/29/are-data-centers-the-ai-bogeyman-autonomous-mind/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-29T11:00:00+00:00",
+      "age_hours": 5.684793365277778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Autonomous Mind | Jobs are a bigger worry than extinction, a Q&A",
+      "link": "https://www.coloradopolitics.com/2026/10/29/ai-jobs-are-a-bigger-worry-than-extinction-autonomous-mind/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-29T11:00:00+00:00",
+      "age_hours": 5.68479342111111,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Black and Latino children end up in foster care in Colorado at higher rates despite overall drop",
+      "link": "https://coloradosun.com/2026/10/29/colorado-foster-care-disparity-rates/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-10-29T10:00:00+00:00",
+      "age_hours": 6.6839141572222225,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Funding approved for Blair-Caldwell renovations and two Montbello projects",
+      "link": "https://denverite.com/2026/10/29/blair-caldwell-renovations-montbello-projects-funding/",
+      "source": "Denverite",
+      "pub_date": "2026-10-29T10:00:00+00:00",
+      "age_hours": 6.6840180841666665,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Iconic El Rancho sign removed from historic Evergreen restaurant, finds new home at Buchanan Park",
       "link": "https://www.9news.com/article/news/history/el-rancho-sign-evergreen-restaurant-buchanan-park/73-3473557a-15e3-4c32-9e33-d42eabf706cf",
       "source": "9News",
       "pub_date": "2026-10-29T04:44:47+00:00",
-      "age_hours": 4.762673077222223,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "DOING 90 IN AURORA: City\u2019s advocate, Barbara Shannon-Banister, makes the mark",
-      "link": "https://sentinelcolorado.com/metro/cover-stories/doing-90-in-aurora-citys-advocate-barbara-shannon-banister-makes-the-mark/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-29T04:24:45+00:00",
-      "age_hours": 5.097192539444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.937785395833334,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "After husband deported, Venezuelan mother makes difficult journey home with 2 young children",
       "link": "https://www.9news.com/article/news/politics/immigration-news/venezuelan-mother-self-deportation/73-6143fc38-02a1-49f3-bb9e-833f0dff0a30",
       "source": "9News",
       "pub_date": "2026-10-29T03:44:47+00:00",
-      "age_hours": 5.762673121111111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 12.937785429722222,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Teacher's rare T. rex discovery revealed to public at Denver museum",
       "link": "https://www.9news.com/article/life/animals/teachers-rare-t-rex-dinosaur-denver-museum/73-d18a468a-9319-4aa2-95c6-6a413e6900ab",
       "source": "9News",
       "pub_date": "2026-10-29T03:00:14+00:00",
-      "age_hours": 6.505173155277778,
+      "age_hours": 13.680285464166667,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
-      "title": "Denver Park Rangers helping out more on the Cherry Creek Trail",
-      "link": "https://www.9news.com/video/news/local/denver-park-rangers-helping-out-more-on-the-cherry-creek-trail/73-35d7b19b-2813-417c-88af-e25ff1a8b7a0",
-      "source": "9News",
-      "pub_date": "2026-10-29T00:42:12+00:00",
-      "age_hours": 8.805728740555557,
+      "title": "High Line Canal underpass complete after year of construction",
+      "link": "https://www.coloradopolitics.com/2026/10/28/high-line-canal-underpass-complete-after-year-of-construction/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-28T21:58:41+00:00",
+      "age_hours": 18.70673793138889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver auditor says mayor\u2019s office is withholding records needed for budget audit",
-      "link": "https://www.9news.com/article/news/local/denver-auditor-says-mayors-office-withholding-records-budget-audit/73-c9f1a69c-6399-4c4c-95b9-25f3e0041b0d",
-      "source": "9News",
-      "pub_date": "2026-10-29T00:12:51+00:00",
-      "age_hours": 9.294895434166667,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Denver Police license plate searches dropped more than 90% after switch to Axon, records show",
-      "link": "https://www.9news.com/article/news/local/denver-police-license-plate-searches-drop-after-switch-to-axon/73-6ff320cd-c973-4604-ad48-9478d2032829",
-      "source": "9News",
-      "pub_date": "2026-10-29T00:07:14+00:00",
-      "age_hours": 9.38850656888889,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "New woman-owned business offers free or low-cost moves for survivors of domestic violence",
-      "link": "https://www.9news.com/article/money/business/small-business/new-woman-owned-business-offers-free-or-low-cost-moves-for-survivors-of-domestic-violence/73-b291f19c-0aaa-4cd0-bd01-3c881abedd6b",
-      "source": "9News",
-      "pub_date": "2026-10-28T23:39:10+00:00",
-      "age_hours": 9.856284383611111,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Poudre School District votes to close, consolidate schools",
-      "link": "https://www.9news.com/article/news/education/poudre-school-district-votes-closes-consolidates-schools/73-a0858211-1e9c-4971-a022-65b8cfe1d049",
-      "source": "9News",
-      "pub_date": "2026-10-28T22:58:57+00:00",
-      "age_hours": 10.526562174444445,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Suspect in multiple Denver metro Target thefts arrested",
       "link": "https://kdvr.com/news/local/suspect-in-multiple-denver-metro-target-thefts-arrested/",
       "source": "Fox31",
       "pub_date": "2026-10-28T21:26:31+00:00",
-      "age_hours": 12.067447076944445,
+      "age_hours": 19.242501980833335,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Aurora fails to reintroduce data-center moratorium",
       "link": "https://bizwest.com/2026/10/28/aurora-fails-to-reintroduce-data-center-moratorium/",
       "source": "BizWest",
       "pub_date": "2026-10-28T21:24:44+00:00",
-      "age_hours": 12.095994436944444,
+      "age_hours": 19.271157438611112,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Tupelo Honey shutters at Union Station",
       "link": "https://bizwest.com/2026/10/28/tupelo-honey-shutters-at-union-station/",
       "source": "BizWest",
       "pub_date": "2026-10-28T21:20:17+00:00",
-      "age_hours": 12.170161410555556,
+      "age_hours": 19.345324427222224,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Parsons to resign as CSU president Dec. 31",
       "link": "https://bizwest.com/2026/10/28/parsons-to-resign-as-csu-president-dec-31/",
       "source": "BizWest",
       "pub_date": "2026-10-28T20:20:45+00:00",
-      "age_hours": 13.162383651111112,
+      "age_hours": 20.33754666777778,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Real estate conference to offer 7 CE credits",
       "link": "https://bizwest.com/2026/10/28/real-estate-conference-to-offer-7-ce-credits/",
       "source": "BizWest",
       "pub_date": "2026-10-28T20:07:54+00:00",
-      "age_hours": 13.376550338888888,
+      "age_hours": 20.551713355555556,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Affordable For-Sale Homes Coming to Golden",
       "link": "https://milehighcre.com/affordable-for-sale-homes-coming-to-golden/",
       "source": "Mile High CRE",
       "pub_date": "2026-10-28T19:02:03+00:00",
-      "age_hours": 14.474367376666667,
+      "age_hours": 21.64950413027778,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Howell Construction Unveils Refreshed Brand",
-      "link": "https://milehighcre.com/howell-construction-unveils-refreshed-brand/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-10-28T19:01:32+00:00",
-      "age_hours": 14.482978506111111,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Denver water bills will cost you more next year",
-      "link": "https://kdvr.com/news/local/denver-water-bills-will-cost-you-more-next-year/",
-      "source": "Fox31",
-      "pub_date": "2026-10-28T18:01:10+00:00",
-      "age_hours": 15.489947101111111,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Photos: Indie 102.3 Walks in the Broadway Halloween Parade",
-      "link": "https://www.cpr.org/2026/10/28/photos-indie-102-3-walks-in-the-broadway-halloween-parade/",
-      "source": "CPR",
-      "pub_date": "2026-10-28T17:45:23+00:00",
-      "age_hours": 15.752601098333333,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Worker injured after explosion at Loveland construction site",
-      "link": "https://kdvr.com/news/local/worker-injured-after-explosion-at-loveland-construction-site/",
-      "source": "Fox31",
-      "pub_date": "2026-10-28T17:37:42+00:00",
-      "age_hours": 15.881058148888888,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "DMC Global stock booms in early trading",
-      "link": "https://bizwest.com/2026/10/28/dmc-global-stock-booms-in-early-trading/",
-      "source": "BizWest",
-      "pub_date": "2026-10-28T16:58:55+00:00",
-      "age_hours": 16.526272565555555,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "21 hrs ago"
     }
   ]
 }
