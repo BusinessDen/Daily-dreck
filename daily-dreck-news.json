@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-10-31",
-  "fetched_at": "2026-10-31 00:29:32",
+  "fetched_at": "2026-10-31 06:43:24",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Phil Weiser opposes proposed tiered income tax in Colorado",
+      "link": "https://www.coloradopolitics.com/2026/10/30/phil-weiser-opposes-graduated-income-tax-amendment-87/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-31T03:58:00+00:00",
+      "age_hours": 2.7529754880555553,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver ballot block party brings voter education to Five Points neighborhood",
+      "link": "https://kdvr.com/news/local/denver-ballot-block-party-brings-voter-education-to-five-points-neighborhood/",
+      "source": "Fox31",
+      "pub_date": "2026-10-31T00:47:46+00:00",
+      "age_hours": 5.923427755277777,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Thousands of Colorado children escaped poverty with a tax credit. Families now face a year without it.",
+      "link": "https://www.9news.com/article/news/local/thousands-colorado-children-escaped-poverty-with-tax-credit-families-now-face-year-without/73-9cd8d00b-804c-427c-9238-866bb2fa4c12",
+      "source": "9News",
+      "pub_date": "2026-10-31T00:38:17+00:00",
+      "age_hours": 6.0813261347222225,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Colorado Shakespeare Festival announces 2027 season",
       "link": "https://bizwest.com/2026/10/30/colorado-shakespeare-festival-announces-2027-season/",
       "source": "BizWest",
       "pub_date": "2026-10-31T00:16:10+00:00",
-      "age_hours": 0.21806516222222222,
-      "breaking": true,
-      "time_ago": "13 min ago"
+      "age_hours": 6.449509940555556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Who are the Denverites in the Yes on 2K ads? Some work for Xcel",
       "link": "https://www.9news.com/article/news/politics/elections/who-are-the-denverites-in-the-yes-on-2k-ads-some-work-for-xcel/73-374234a5-4fa2-4395-b6ba-f1d991fb10c9",
       "source": "9News",
       "pub_date": "2026-10-31T00:11:59+00:00",
-      "age_hours": 0.2885053788888889,
-      "breaking": true,
-      "time_ago": "17 min ago"
+      "age_hours": 6.519659478333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Loveland launches search to fill city manager position",
       "link": "https://bizwest.com/2026/10/30/loveland-launches-search-to-fill-city-manager-position/",
       "source": "BizWest",
       "pub_date": "2026-10-30T23:51:38+00:00",
-      "age_hours": 0.626954595,
-      "breaking": true,
-      "time_ago": "37 min ago"
+      "age_hours": 6.858399372777778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Phil Weiser announces opposition to Amendment 87, Colorado\u2019s graduated income tax ballot question",
       "link": "https://coloradosun.com/2026/10/30/weiser-amendment-87-position/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-30T23:34:32+00:00",
-      "age_hours": 0.9123945511111111,
-      "breaking": true,
-      "time_ago": "54 min ago"
+      "age_hours": 7.143732733888888,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado AG solicits public feedback on hospital combo",
       "link": "https://bizwest.com/2026/10/30/colorado-ag-solicits-public-feedback-on-hospital-combo/",
       "source": "BizWest",
       "pub_date": "2026-10-30T23:24:30+00:00",
-      "age_hours": 1.0791768474999999,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 7.310621625555555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Greeley to receive $8.6M FEMA grant for pipeline",
       "link": "https://bizwest.com/2026/10/30/greeley-to-receive-8-6m-fema-grant-for-pipeline/",
       "source": "BizWest",
       "pub_date": "2026-10-30T20:53:58+00:00",
-      "age_hours": 3.5880657744444444,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.819510542500002,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Poultry supply glut weighs on Pilgrim\u2019s Pride earnings",
       "link": "https://bizwest.com/2026/10/30/poultry-supply-glut-weighs-on-pilgrims-pride-earnings/",
       "source": "BizWest",
       "pub_date": "2026-10-30T20:49:59+00:00",
-      "age_hours": 3.654454669722222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.885899436944445,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Dickey\u2019s Barbecue returns to Longmont",
       "link": "https://bizwest.com/2026/10/30/dickeys-barbecue-returns-to-longmont/",
       "source": "BizWest",
       "pub_date": "2026-10-30T20:47:58+00:00",
-      "age_hours": 3.688065813611111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.919510579999999,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Autonomous Mind | Data center fight heads back to Colorado Capitol",
       "link": "https://www.coloradopolitics.com/2026/10/30/autonomous-mind-data-center-fight-heads-back-to-colorado-capitol/",
       "source": "CO Politics",
       "pub_date": "2026-10-30T20:46:26+00:00",
-      "age_hours": 3.71494559,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.945753328333334,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "University of Colorado: System drives $12.5B in economic impact",
       "link": "https://bizwest.com/2026/10/30/university-of-colorado-system-drives-12-5b-in-economic-impact/",
       "source": "BizWest",
       "pub_date": "2026-10-30T20:06:45+00:00",
-      "age_hours": 4.3750102872222225,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.60645505361111,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Sun Valley has a food hall now, too",
       "link": "https://denverite.com/2026/10/30/sun-valley-eats-on-the-platte-food-hall/",
       "source": "Denverite",
       "pub_date": "2026-10-30T19:38:38+00:00",
-      "age_hours": 4.844159322222222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 11.075451046388888,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
-      "title": "Colorado Democrats split on graduated income tax proposal",
+      "title": "Weiser, Polis oppose graduated income tax as Colorado Democrats split",
       "link": "https://www.coloradopolitics.com/2026/10/30/democrats-split-on-graduated-income-tax-amendment/",
       "source": "CO Politics",
       "pub_date": "2026-10-30T19:16:07+00:00",
-      "age_hours": 5.220223462222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.451031185000001,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Vail Resorts fires back at activist investor, \u2018dissident\u2019 board noms",
       "link": "https://bizwest.com/2026/10/30/vail-resorts-fires-back-at-activist-investor-dissident-board-noms/",
       "source": "BizWest",
       "pub_date": "2026-10-30T17:07:04+00:00",
-      "age_hours": 7.3697325141666665,
+      "age_hours": 13.601177280277778,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Graduated tax proposal stays on the ballot, Colorado\u2019s justices rule",
       "link": "https://www.coloradopolitics.com/2026/10/30/amendment-87-to-stay-on-the-ballot-states-highest-court-rules/",
       "source": "CO Politics",
       "pub_date": "2026-10-30T16:33:09+00:00",
-      "age_hours": 7.936334620833334,
+      "age_hours": 14.167142339444444,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Douglas County breaks ground on helitack hangar for wildfire response",
       "link": "https://www.coloradopolitics.com/2026/10/30/douglas-county-breaks-ground-on-helitack-hangar-for-wildfire-response/",
       "source": "CO Politics",
       "pub_date": "2026-10-30T15:47:28+00:00",
-      "age_hours": 8.69772352,
+      "age_hours": 14.928531236944444,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "In-N-Out could expand to 3 new states as burger chain celebrates 78th anniversary",
-      "link": "https://www.9news.com/article/news/nation-world/in-n-out-three-new-states/507-4a36ff4b-97d9-4ae3-8b04-c7188afef99e",
-      "source": "9News",
-      "pub_date": "2026-10-30T14:08:50+00:00",
-      "age_hours": 10.341005544722222,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Former Bao Brewhouse partner sues restaurant in ownership dispute",
       "link": "https://www.westword.com/food-drink/bao-brewhouse-ownership-lawsuit-40955227/",
       "source": "Westword",
       "pub_date": "2026-10-30T12:38:57-06:00",
-      "age_hours": 5.839535973611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 12.07039222361111,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Latino students explore identity and leadership at La Raza conference",
       "link": "https://www.cpr.org/2026/10/30/la-raza-leadership-students/",
       "source": "CPR",
       "pub_date": "2026-10-30T10:00:00+00:00",
-      "age_hours": 14.48815630611111,
+      "age_hours": 20.719348770555555,
       "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Pipeline to share water between Parker, Castle Rock and northeastern Colorado farms OK\u2019d in water court",
-      "link": "https://coloradosun.com/2026/10/30/sterling-pipeline-castle-rock-parker-lower-south-platte-river/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-30T09:45:00+00:00",
-      "age_hours": 14.7379509525,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "New management will pull an all-nighter to make sure Royal Gorge opens Sunday on time",
-      "link": "https://coloradosun.com/2026/10/30/royal-gorge-new-management-transition-conflict/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-30T09:44:00+00:00",
-      "age_hours": 14.75461763611111,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "20 hrs ago"
     }
   ]
 }
