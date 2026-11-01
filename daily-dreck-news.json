@@ -1,78 +1,87 @@
 {
   "fetched_date": "2026-11-01",
-  "fetched_at": "2026-11-01 15:51:30",
+  "fetched_at": "2026-11-01 20:17:34",
   "article_count": 20,
   "breaking_count": 2,
   "articles": [
+    {
+      "title": "Geo Sapiens aims to turn all jobs green",
+      "link": "https://bizwest.com/2026/11/01/geo-sapiens-aims-to-turn-all-jobs-green/",
+      "source": "BizWest",
+      "pub_date": "2026-11-01T16:32:22+00:00",
+      "age_hours": 3.7489351305555556,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Xcel Energy is spending millions of dollars to get a \u2018yes\u2019 vote on the ballot",
       "link": "https://www.cpr.org/2026/11/01/xcel-energy-campaign-millions-2026-election-denver/",
       "source": "CPR",
       "pub_date": "2026-11-01T15:13:52+00:00",
-      "age_hours": 0.6231071286111112,
+      "age_hours": 5.0577966511111105,
       "breaking": true,
-      "time_ago": "37 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Wine with a side of yoga? How Western Slope vineyards are pivoting to survive a consumption slump.",
       "link": "https://coloradosun.com/2026/11/01/colorado-western-slope-wine-wineries-vineyards-consumption-slump/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-01T10:30:00+00:00",
-      "age_hours": 5.354116614166667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.788735938333332,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Halloween brings renewed foot traffic to Colfax businesses after years of construction",
       "link": "https://kdvr.com/news/local/halloween-brings-renewed-foot-traffic-to-colfax-businesses-after-years-of-construction/",
       "source": "Fox31",
       "pub_date": "2026-11-01T01:18:48+00:00",
-      "age_hours": 14.541111298611112,
+      "age_hours": 18.975931571666667,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Alaska Airlines to lay off about 200 employees, citing 'challenging operating environment'",
       "link": "https://www.9news.com/article/money/business/alaska-airlines-lay-off-employees-fuel-costs/507-3c74955a-3fc4-4583-abc5-03de490e45ff",
       "source": "9News",
       "pub_date": "2026-10-31T23:21:53+00:00",
-      "age_hours": 16.489561983055555,
+      "age_hours": 20.92421348611111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Football: 2026 Aurora Week 10 final results",
       "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-2026-aurora-week-10-scoreboard-schedule/",
       "source": "Sentinel",
       "pub_date": "2026-10-31T21:00:00+00:00",
-      "age_hours": 18.854701939166667,
+      "age_hours": 23.28952857694444,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Human Bean raises $1,400 for Terry Farrell Firefighters Fund",
       "link": "https://bizwest.com/2026/10/31/human-bean-raises-1400-for-terry-farrell-firefighters-fund/",
       "source": "BizWest",
       "pub_date": "2026-10-31T19:01:34+00:00",
-      "age_hours": 20.82770131222222,
+      "age_hours": 25.262269030277775,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Social Venture Partners names new board members",
       "link": "https://bizwest.com/2026/10/31/social-venture-partners-names-new-board-members-2/",
       "source": "BizWest",
       "pub_date": "2026-10-31T18:47:49+00:00",
-      "age_hours": 21.05686841,
+      "age_hours": 25.491435731388886,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Four Seasons confirms plans for first standalone private residences in Colorado",
       "link": "https://www.9news.com/article/money/markets/real-estate/four-seasons-colorado-cherry-creek-homes/73-30d662b8-5799-40bb-bc9d-d884664b1721",
       "source": "9News",
       "pub_date": "2026-10-31T14:23:40+00:00",
-      "age_hours": 25.459839817777777,
+      "age_hours": 29.894491341666665,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.9news.com/article/money/business/rsm-tax-firm-downtown-denver-office-move/73-7df45a4a-6b1b-4079-9835-d01e069b8209",
       "source": "9News",
       "pub_date": "2026-10-31T14:14:54+00:00",
-      "age_hours": 25.6059509325,
+      "age_hours": 30.040602457777776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,16 +99,7 @@
       "link": "https://coloradosun.com/2026/10/31/halloween-tours-denver-cheesman-park-ethical-concerns/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-31T10:25:00+00:00",
-      "age_hours": 29.437450272777777,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "What\u2019s Working: Pikes Peak economy heads up after some challenging years",
-      "link": "https://coloradosun.com/2026/10/31/pikes-peak-economy-jobs-housing-sales-tax/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-10-31T10:00:00+00:00",
-      "age_hours": 29.854117330833333,
+      "age_hours": 33.872069716944445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://www.coloradopolitics.com/2026/10/30/phil-weiser-opposes-graduated-income-tax-amendment-87/",
       "source": "CO Politics",
       "pub_date": "2026-10-31T03:58:00+00:00",
-      "age_hours": 35.88801846611111,
+      "age_hours": 40.32285252583333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +117,7 @@
       "link": "https://kdvr.com/news/local/denver-ballot-block-party-brings-voter-education-to-five-points-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-10-31T00:47:46+00:00",
-      "age_hours": 39.05833355111111,
+      "age_hours": 43.493153820277776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +126,7 @@
       "link": "https://www.9news.com/article/news/local/thousands-colorado-children-escaped-poverty-with-tax-credit-families-now-face-year-without/73-9cd8d00b-804c-427c-9238-866bb2fa4c12",
       "source": "9News",
       "pub_date": "2026-10-31T00:38:17+00:00",
-      "age_hours": 39.2162287675,
+      "age_hours": 43.65088033138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/10/30/colorado-shakespeare-festival-announces-2027-season/",
       "source": "BizWest",
       "pub_date": "2026-10-31T00:16:10+00:00",
-      "age_hours": 39.58436844416667,
+      "age_hours": 44.018935758333335,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://www.9news.com/article/news/politics/elections/who-are-the-denverites-in-the-yes-on-2k-ads-some-work-for-xcel/73-374234a5-4fa2-4395-b6ba-f1d991fb10c9",
       "source": "9News",
       "pub_date": "2026-10-31T00:11:59+00:00",
-      "age_hours": 39.654562105277776,
+      "age_hours": 44.08921367138888,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://bizwest.com/2026/10/30/loveland-launches-search-to-fill-city-manager-position/",
       "source": "BizWest",
       "pub_date": "2026-10-30T23:51:38+00:00",
-      "age_hours": 39.99325737138889,
+      "age_hours": 44.427824675000004,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://bizwest.com/2026/10/30/colorado-ag-solicits-public-feedback-on-hospital-combo/",
       "source": "BizWest",
       "pub_date": "2026-10-30T23:24:30+00:00",
-      "age_hours": 40.445479633611114,
+      "age_hours": 44.88004692472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/10/30/greeley-to-receive-8-6m-fema-grant-for-pipeline/",
       "source": "BizWest",
       "pub_date": "2026-10-30T20:53:58+00:00",
-      "age_hours": 42.954368565555555,
+      "age_hours": 47.38893584583333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/10/30/poultry-supply-glut-weighs-on-pilgrims-pride-earnings/",
       "source": "BizWest",
       "pub_date": "2026-10-30T20:49:59+00:00",
-      "age_hours": 43.02075746166667,
+      "age_hours": 47.455324740555554,
       "breaking": false,
       "time_ago": "1 day ago"
     }
