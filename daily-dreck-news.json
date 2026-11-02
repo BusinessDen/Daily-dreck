@@ -1,69 +1,78 @@
 {
-  "fetched_date": "2026-11-01",
-  "fetched_at": "2026-11-01 20:17:34",
+  "fetched_date": "2026-11-02",
+  "fetched_at": "2026-11-02 00:21:45",
   "article_count": 20,
   "breaking_count": 2,
   "articles": [
+    {
+      "title": "9Cares Colorado Shares food drive aims to combat hunger across the state",
+      "link": "https://www.9news.com/article/news/local/outreach/9-cares-colorado-shares/9cares-colorado-shares-november-food-drive/73-5e28ca58-7ae8-4b7e-834a-5f12a9ac7f56",
+      "source": "9News",
+      "pub_date": "2026-11-01T20:24:53+00:00",
+      "age_hours": 3.9432393325,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Autonomous Mind | Congress scrambles to keep pace with AI",
+      "link": "https://www.coloradopolitics.com/2026/11/01/congress-scrambles-to-keep-pace-with-ai-autonomous-mind/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-01T20:22:50+00:00",
+      "age_hours": 3.977998423888889,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Geo Sapiens aims to turn all jobs green",
       "link": "https://bizwest.com/2026/11/01/geo-sapiens-aims-to-turn-all-jobs-green/",
       "source": "BizWest",
       "pub_date": "2026-11-01T16:32:22+00:00",
-      "age_hours": 3.7489351305555556,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.817896235,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Xcel Energy is spending millions of dollars to get a \u2018yes\u2019 vote on the ballot",
       "link": "https://www.cpr.org/2026/11/01/xcel-energy-campaign-millions-2026-election-denver/",
       "source": "CPR",
       "pub_date": "2026-11-01T15:13:52+00:00",
-      "age_hours": 5.0577966511111105,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 9.126809636666666,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Wine with a side of yoga? How Western Slope vineyards are pivoting to survive a consumption slump.",
       "link": "https://coloradosun.com/2026/11/01/colorado-western-slope-wine-wineries-vineyards-consumption-slump/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-01T10:30:00+00:00",
-      "age_hours": 9.788735938333332,
+      "age_hours": 13.85768563,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Halloween brings renewed foot traffic to Colfax businesses after years of construction",
       "link": "https://kdvr.com/news/local/halloween-brings-renewed-foot-traffic-to-colfax-businesses-after-years-of-construction/",
       "source": "Fox31",
       "pub_date": "2026-11-01T01:18:48+00:00",
-      "age_hours": 18.975931571666667,
+      "age_hours": 23.04490259611111,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Alaska Airlines to lay off about 200 employees, citing 'challenging operating environment'",
       "link": "https://www.9news.com/article/money/business/alaska-airlines-lay-off-employees-fuel-costs/507-3c74955a-3fc4-4583-abc5-03de490e45ff",
       "source": "9News",
       "pub_date": "2026-10-31T23:21:53+00:00",
-      "age_hours": 20.92421348611111,
+      "age_hours": 24.993239498055555,
       "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Football: 2026 Aurora Week 10 final results",
-      "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-2026-aurora-week-10-scoreboard-schedule/",
-      "source": "Sentinel",
-      "pub_date": "2026-10-31T21:00:00+00:00",
-      "age_hours": 23.28952857694444,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Human Bean raises $1,400 for Terry Farrell Firefighters Fund",
       "link": "https://bizwest.com/2026/10/31/human-bean-raises-1400-for-terry-farrell-firefighters-fund/",
       "source": "BizWest",
       "pub_date": "2026-10-31T19:01:34+00:00",
-      "age_hours": 25.262269030277775,
+      "age_hours": 29.33123021861111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://bizwest.com/2026/10/31/social-venture-partners-names-new-board-members-2/",
       "source": "BizWest",
       "pub_date": "2026-10-31T18:47:49+00:00",
-      "age_hours": 25.491435731388886,
+      "age_hours": 29.560396930277776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.9news.com/article/money/markets/real-estate/four-seasons-colorado-cherry-creek-homes/73-30d662b8-5799-40bb-bc9d-d884664b1721",
       "source": "9News",
       "pub_date": "2026-10-31T14:23:40+00:00",
-      "age_hours": 29.894491341666665,
+      "age_hours": 33.963517356666664,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +99,7 @@
       "link": "https://www.9news.com/article/money/business/rsm-tax-firm-downtown-denver-office-move/73-7df45a4a-6b1b-4079-9835-d01e069b8209",
       "source": "9News",
       "pub_date": "2026-10-31T14:14:54+00:00",
-      "age_hours": 30.040602457777776,
+      "age_hours": 34.10962847305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +108,7 @@
       "link": "https://coloradosun.com/2026/10/31/halloween-tours-denver-cheesman-park-ethical-concerns/",
       "source": "Colorado Sun",
       "pub_date": "2026-10-31T10:25:00+00:00",
-      "age_hours": 33.872069716944445,
+      "age_hours": 37.941019440000005,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,25 +117,7 @@
       "link": "https://www.coloradopolitics.com/2026/10/30/phil-weiser-opposes-graduated-income-tax-amendment-87/",
       "source": "CO Politics",
       "pub_date": "2026-10-31T03:58:00+00:00",
-      "age_hours": 40.32285252583333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver ballot block party brings voter education to Five Points neighborhood",
-      "link": "https://kdvr.com/news/local/denver-ballot-block-party-brings-voter-education-to-five-points-neighborhood/",
-      "source": "Fox31",
-      "pub_date": "2026-10-31T00:47:46+00:00",
-      "age_hours": 43.493153820277776,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Thousands of Colorado children escaped poverty with a tax credit. Families now face a year without it.",
-      "link": "https://www.9news.com/article/news/local/thousands-colorado-children-escaped-poverty-with-tax-credit-families-now-face-year-without/73-9cd8d00b-804c-427c-9238-866bb2fa4c12",
-      "source": "9News",
-      "pub_date": "2026-10-31T00:38:17+00:00",
-      "age_hours": 43.65088033138889,
+      "age_hours": 44.391887428333334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,54 +126,63 @@
       "link": "https://bizwest.com/2026/10/30/colorado-shakespeare-festival-announces-2027-season/",
       "source": "BizWest",
       "pub_date": "2026-10-31T00:16:10+00:00",
-      "age_hours": 44.018935758333335,
+      "age_hours": 48.087896962222224,
       "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Who are the Denverites in the Yes on 2K ads? Some work for Xcel",
-      "link": "https://www.9news.com/article/news/politics/elections/who-are-the-denverites-in-the-yes-on-2k-ads-some-work-for-xcel/73-374234a5-4fa2-4395-b6ba-f1d991fb10c9",
-      "source": "9News",
-      "pub_date": "2026-10-31T00:11:59+00:00",
-      "age_hours": 44.08921367138888,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Loveland launches search to fill city manager position",
       "link": "https://bizwest.com/2026/10/30/loveland-launches-search-to-fill-city-manager-position/",
       "source": "BizWest",
       "pub_date": "2026-10-30T23:51:38+00:00",
-      "age_hours": 44.427824675000004,
+      "age_hours": 48.49678588416667,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Colorado AG solicits public feedback on hospital combo",
       "link": "https://bizwest.com/2026/10/30/colorado-ag-solicits-public-feedback-on-hospital-combo/",
       "source": "BizWest",
       "pub_date": "2026-10-30T23:24:30+00:00",
-      "age_hours": 44.88004692472222,
+      "age_hours": 48.949008138055554,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Greeley to receive $8.6M FEMA grant for pipeline",
       "link": "https://bizwest.com/2026/10/30/greeley-to-receive-8-6m-fema-grant-for-pipeline/",
       "source": "BizWest",
       "pub_date": "2026-10-30T20:53:58+00:00",
-      "age_hours": 47.38893584583333,
+      "age_hours": 51.45789705805556,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Poultry supply glut weighs on Pilgrim\u2019s Pride earnings",
       "link": "https://bizwest.com/2026/10/30/poultry-supply-glut-weighs-on-pilgrims-pride-earnings/",
       "source": "BizWest",
       "pub_date": "2026-10-30T20:49:59+00:00",
-      "age_hours": 47.455324740555554,
+      "age_hours": 51.524285952777774,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "Dickey\u2019s Barbecue returns to Longmont",
+      "link": "https://bizwest.com/2026/10/30/dickeys-barbecue-returns-to-longmont/",
+      "source": "BizWest",
+      "pub_date": "2026-10-30T20:47:58+00:00",
+      "age_hours": 51.557897099722226,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "Autonomous Mind | Data center fight heads back to Colorado Capitol",
+      "link": "https://www.coloradopolitics.com/2026/10/30/autonomous-mind-data-center-fight-heads-back-to-colorado-capitol/",
+      "source": "CO Politics",
+      "pub_date": "2026-10-30T20:46:26+00:00",
+      "age_hours": 51.58466525055555,
+      "breaking": false,
+      "time_ago": "2 days ago"
     }
   ]
 }
