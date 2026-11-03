@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-11-02",
-  "fetched_at": "2026-11-02 17:55:55",
+  "fetched_date": "2026-11-03",
+  "fetched_at": "2026-11-03 00:42:38",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 12,
   "articles": [
+    {
+      "title": "Independent health benefit agency opens in Fort Collins",
+      "link": "https://bizwest.com/2026/11/02/independent-health-benefit-agency-opens-in-fort-collins/",
+      "source": "BizWest",
+      "pub_date": "2026-11-03T00:37:48+00:00",
+      "age_hours": 0.07487415583333333,
+      "breaking": true,
+      "time_ago": "4 min ago"
+    },
+    {
+      "title": "Colorado justices intervene in property tax, criminal cases",
+      "link": "https://www.coloradopolitics.com/2026/11/02/colorado-justices-intervene-in-property-tax-criminal-cases/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-02T23:36:13+00:00",
+      "age_hours": 1.1026380427777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "ATS Energy appoints CTO, board members",
+      "link": "https://bizwest.com/2026/11/02/ats-energy-appoints-cto-board-members/",
+      "source": "BizWest",
+      "pub_date": "2026-11-02T23:04:08+00:00",
+      "age_hours": 1.6359856555555554,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Terracon Foundation awards $50K endowment to CSU",
+      "link": "https://bizwest.com/2026/11/02/terracon-foundation-awards-50k-endowment-to-csu/",
+      "source": "BizWest",
+      "pub_date": "2026-11-02T22:54:31+00:00",
+      "age_hours": 1.7962634569444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Loveland winery wins seven medals",
+      "link": "https://bizwest.com/2026/11/02/loveland-winery-wins-seven-medals/",
+      "source": "BizWest",
+      "pub_date": "2026-11-02T22:48:54+00:00",
+      "age_hours": 1.8898745908333332,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "All 91 Colorado Opportunity Zones OK\u2019d for federal designation",
+      "link": "https://bizwest.com/2026/11/02/all-91-colorado-opportunity-zones-okd-for-federal-designation/",
+      "source": "BizWest",
+      "pub_date": "2026-11-02T22:43:29+00:00",
+      "age_hours": 1.9801523880555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Jared Polis proposes $600M in cuts to Medicaid to address state budget crunch",
+      "link": "https://coloradosun.com/2026/11/02/jared-polis-november-budget-proposal-2027-2028-medicaid-cuts/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-02T22:39:54+00:00",
+      "age_hours": 2.0402763975,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Gov. Jared Polis\u2019 initial budget proposal spends $579 million more",
+      "link": "https://www.coloradopolitics.com/2026/11/02/gov-jared-polis-unveils-outline-for-2027-28-state-budget/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-02T21:56:49+00:00",
+      "age_hours": 2.75930479,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "'Like a missile going down' | What we know about the plane that crashed nose-first into a busy Florida roadway",
+      "link": "https://www.9news.com/article/news/nation-world/plane-crash-west-palm-beach-investigation/507-ebccaf9d-e14e-48fd-9aff-1e3d3ad62cf0",
+      "source": "9News",
+      "pub_date": "2026-11-02T21:44:29+00:00",
+      "age_hours": 2.9642605497222223,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Colorado\u2019s under-35 voters look beyond party lines, feel left behind",
+      "link": "https://www.coloradopolitics.com/2026/11/02/colorados-under-35-voters-look-beyond-party-lines-feel-left-behind/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-02T20:26:16+00:00",
+      "age_hours": 4.268471468333333,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Managing Energy Demand for Businesses with Renewables",
+      "link": "https://milehighcre.com/managing-energy-demand-for-businesses-with-renewables/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-02T20:05:10+00:00",
+      "age_hours": 4.619066013888889,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Business Buzz: The affordability challenge, caregiving costs and the Fed\u2019s rate hold",
+      "link": "https://www.9news.com/article/money/business-brief/affordability-challenge-caregiving-costs-and-the-feds-rate-hold/73-632c4b08-41c8-40d9-8ed2-8859178690b3",
+      "source": "9News",
+      "pub_date": "2026-11-02T19:00:05+00:00",
+      "age_hours": 5.704260610277778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "UPS holding job fairs to hire 2,000 seasonal employees in Denver area",
+      "link": "https://www.9news.com/article/life/holidays/holiday-guide/ups-job-fairs-seasonal-employees-colorado/73-87963488-7acb-4756-accb-e6723604193d",
+      "source": "9News",
+      "pub_date": "2026-11-02T18:38:16+00:00",
+      "age_hours": 6.067871726388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Colorado state park offers limited permits for cutting Christmas trees",
+      "link": "https://www.9news.com/article/life/holidays/holiday-guide/golden-gate-canyon-tree-cut-permit-application-window/73-e5ed5d46-b6af-4b73-855c-a46f9dba46e9",
+      "source": "9News",
+      "pub_date": "2026-11-02T17:58:23+00:00",
+      "age_hours": 6.732593980277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Go to local shows, win sweet prizes: Blucifer\u2019s Rodeo launches The Buckle Game",
       "link": "https://www.cpr.org/2026/11/02/go-to-local-shows-win-sweet-prizes-blucifers-rodeo-launches-blucifer-buckle-game/",
       "source": "CPR",
       "pub_date": "2026-11-02T16:07:13+00:00",
-      "age_hours": 1.8067801930555556,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 8.585297096388889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Brinkmann Completes Aspendale Littleton Active Adult Community",
       "link": "https://milehighcre.com/brinkmann-completes-aspendale-littleton-active-adult-community/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-02T16:05:12+00:00",
-      "age_hours": 1.840073761388889,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 8.618510663333334,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Denver nonprofit giving away 150,000 free potatoes Monday",
       "link": "https://www.9news.com/article/life/style/colorado-guide/denver-nonprofit-giving-away-150000-free-potatoes-monday/73-adb4d2a3-a10a-481d-981c-9d91adbd51f0",
       "source": "9News",
       "pub_date": "2026-11-02T14:53:20+00:00",
-      "age_hours": 3.038296398888889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "'Like a missile going down' | What we know about the plane that crashed nose-first into a busy Florida roadway",
-      "link": "https://www.9news.com/article/news/nation-world/plane-crash-west-palm-beach-investigation/507-ebccaf9d-e14e-48fd-9aff-1e3d3ad62cf0",
-      "source": "9News",
-      "pub_date": "2026-11-02T14:49:03+00:00",
-      "age_hours": 3.1096853405555556,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 9.8167607075,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado methane pollution rules won\u2019t change \u2014 even if federal regulations are rolled back",
       "link": "https://coloradosun.com/2026/11/02/colorado-methane-emissions-rules-trump-epa-rollback/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-02T13:38:54+00:00",
-      "age_hours": 4.278558265277778,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 11.056943112499999,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Blazers battle Nuggets Monday night on KTVD",
       "link": "https://www.9news.com/article/sports/nba/denver-nuggets/blazers-nuggets-monday-tv-channel/73-0b4fc568-71fa-46e3-8bf6-39045506707e",
       "source": "9News",
       "pub_date": "2026-11-02T13:18:57+00:00",
-      "age_hours": 4.611352072222223,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Que chido \u2014\u00a0por dos! Aurora\u2019s Betty Benavidez bilingual school welcomes its first students",
-      "link": "https://sentinelcolorado.com/metro/education/que-chido-por-dos-auroras-betty-benavidez-bilingual-school-welcomes-its-first-students/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-02T13:02:05+00:00",
-      "age_hours": 4.893045443611111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 11.389816302777778,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Larimer County is tackling data center rules by listening to the public. Over 7,000 have responded so far.",
       "link": "https://coloradosun.com/2026/11/02/larimer-county-is-tackling-data-center-rules-by-listening-to-the-public-over-7000-have-responded-so-far/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-02T11:08:00+00:00",
-      "age_hours": 6.793558580277778,
+      "age_hours": 13.571943338333332,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "How much can you tell about a T. rex from its footprints? Quite a bite \u2026 er, bit.",
-      "link": "https://www.cpr.org/2026/11/02/t-rex-footprints-trackway-denver-museum/",
-      "source": "CPR",
-      "pub_date": "2026-11-02T11:05:00+00:00",
-      "age_hours": 6.843724716944444,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "DOJ: Up to 12 federal monitors could be deployed in Adams County for Election Day",
-      "link": "https://sentinelcolorado.com/metro/doj-up-to-12-federal-monitors-could-be-deployed-in-adams-county-for-election-day/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-02T06:06:12+00:00",
-      "age_hours": 11.8244347125,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "9Cares Colorado Shares food drive aims to combat hunger across the state",
-      "link": "https://www.9news.com/article/news/local/outreach/9-cares-colorado-shares/9cares-colorado-shares-november-food-drive/73-5e28ca58-7ae8-4b7e-834a-5f12a9ac7f56",
-      "source": "9News",
-      "pub_date": "2026-11-01T20:24:53+00:00",
-      "age_hours": 21.512463253888892,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Autonomous Mind | Congress scrambles to keep pace with AI",
-      "link": "https://www.coloradopolitics.com/2026/11/01/congress-scrambles-to-keep-pace-with-ai-autonomous-mind/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-01T20:22:50+00:00",
-      "age_hours": 21.547157806666668,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Geo Sapiens aims to turn all jobs green",
-      "link": "https://bizwest.com/2026/11/01/geo-sapiens-aims-to-turn-all-jobs-green/",
-      "source": "BizWest",
-      "pub_date": "2026-11-01T16:32:22+00:00",
-      "age_hours": 25.38696264388889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Xcel Energy is spending millions of dollars to get a \u2018yes\u2019 vote on the ballot",
-      "link": "https://www.cpr.org/2026/11/01/xcel-energy-campaign-millions-2026-election-denver/",
-      "source": "CPR",
-      "pub_date": "2026-11-01T15:13:52+00:00",
-      "age_hours": 26.69594701111111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Wine with a side of yoga? How Western Slope vineyards are pivoting to survive a consumption slump.",
-      "link": "https://coloradosun.com/2026/11/01/colorado-western-slope-wine-wineries-vineyards-consumption-slump/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-01T10:30:00+00:00",
-      "age_hours": 31.426892571666666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Human Bean raises $1,400 for Terry Farrell Firefighters Fund",
-      "link": "https://bizwest.com/2026/10/31/human-bean-raises-1400-for-terry-farrell-firefighters-fund/",
-      "source": "BizWest",
-      "pub_date": "2026-10-31T19:01:34+00:00",
-      "age_hours": 46.90029653888889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Social Venture Partners names new board members",
-      "link": "https://bizwest.com/2026/10/31/social-venture-partners-names-new-board-members-2/",
-      "source": "BizWest",
-      "pub_date": "2026-10-31T18:47:49+00:00",
-      "age_hours": 47.12946323916667,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Phil Weiser opposes proposed tiered income tax in Colorado",
-      "link": "https://www.coloradopolitics.com/2026/10/30/phil-weiser-opposes-graduated-income-tax-amendment-87/",
-      "source": "CO Politics",
-      "pub_date": "2026-10-31T03:58:00+00:00",
-      "age_hours": 61.96104682138889,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado Shakespeare Festival announces 2027 season",
-      "link": "https://bizwest.com/2026/10/30/colorado-shakespeare-festival-announces-2027-season/",
-      "source": "BizWest",
-      "pub_date": "2026-10-31T00:16:10+00:00",
-      "age_hours": 65.65696326583334,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Loveland launches search to fill city manager position",
-      "link": "https://bizwest.com/2026/10/30/loveland-launches-search-to-fill-city-manager-position/",
-      "source": "BizWest",
-      "pub_date": "2026-10-30T23:51:38+00:00",
-      "age_hours": 66.06585218777778,
-      "breaking": false,
-      "time_ago": "2 days ago"
+      "time_ago": "13 hrs ago"
     }
   ]
 }
