@@ -1,123 +1,132 @@
 {
-  "fetched_date": "2026-11-03",
-  "fetched_at": "2026-11-03 21:33:27",
+  "fetched_date": "2026-11-04",
+  "fetched_at": "2026-11-04 01:57:20",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 9,
   "articles": [
+    {
+      "title": "Elections results for Colorado\u2019s two competing tax measures \u2014 Amendment 87: Graduated Income Tax and Proposition 136: Income Tax Rate Limit",
+      "link": "https://www.cpr.org/2026/11/03/colorado-election-results-amendment-87-prop-136-graduated-income-tax/",
+      "source": "CPR",
+      "pub_date": "2026-11-04T01:30:00+00:00",
+      "age_hours": 0.45055014638888885,
+      "breaking": true,
+      "time_ago": "27 min ago"
+    },
+    {
+      "title": "Colorado college students died from climbing falls, not weather, autopsy says",
+      "link": "https://coloradosun.com/2026/11/03/climbers-fall-deaths-colorado-mountain-college-students/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-04T00:13:55+00:00",
+      "age_hours": 1.7184130197222223,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Mike O\u2019Shays\u2019 building for sale, but pub remains open",
+      "link": "https://bizwest.com/2026/11/03/mike-oshays-building-for-sale-but-pub-remains-open/",
+      "source": "BizWest",
+      "pub_date": "2026-11-03T23:15:52+00:00",
+      "age_hours": 2.685507604444444,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Gaia reports \u2018stabilized\u2019 revenue after \u2018reset\u2019",
+      "link": "https://bizwest.com/2026/11/03/gaia-reports-stabilized-revenue-after-reset/",
+      "source": "BizWest",
+      "pub_date": "2026-11-03T22:58:36+00:00",
+      "age_hours": 2.9732853983333336,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Drive-thru light display returns with new deal for nonprofits",
+      "link": "https://bizwest.com/2026/11/03/drive-thru-light-display-returns-with-new-deal-for-nonprofits/",
+      "source": "BizWest",
+      "pub_date": "2026-11-03T22:52:18+00:00",
+      "age_hours": 3.0782854072222223,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Windsor mayor named to Municipal League board",
+      "link": "https://bizwest.com/2026/11/03/windsor-mayor-named-to-municipal-league-board/",
+      "source": "BizWest",
+      "pub_date": "2026-11-03T22:47:09+00:00",
+      "age_hours": 3.1641192977777775,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Election results for Denver Initiated Ordinance 311: Ban on force-feeding birds",
+      "link": "https://denverite.com/2026/11/03/election-results-denver-initiated-ordinance-311/",
+      "source": "Denverite",
+      "pub_date": "2026-11-03T22:45:00+00:00",
+      "age_hours": 3.2004647155555555,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Aurora wins two State Awards for Transportation Planning and Design",
       "link": "https://sentinelcolorado.com/metro/aurora-wins-two-state-awards-for-transportation-planning-and-design/",
       "source": "Sentinel",
       "pub_date": "2026-11-03T21:14:59+00:00",
-      "age_hours": 0.3063702925,
+      "age_hours": 4.7015668477777774,
       "breaking": true,
-      "time_ago": "18 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Supreme Court hears challenge to Catholic preschools\u2019 exclusion from Colorado-funded program",
       "link": "https://coloradosun.com/2026/11/03/colorado-preschool-catholic-church-supreme-court/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-03T20:05:15+00:00",
-      "age_hours": 1.4679690908333332,
+      "age_hours": 5.862857954722223,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Amendment 82 election results",
       "link": "https://coloradosun.com/2026/11/03/amendment-82-results-right-to-natural-gas/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-03T18:47:55+00:00",
-      "age_hours": 2.75685807,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.1517469516666665,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Colorado governor election results",
       "link": "https://coloradosun.com/2026/11/03/colorado-governor-election-results/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-03T18:45:09+00:00",
-      "age_hours": 2.8029695913888886,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 7.197858600555556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "EEI Launches New Data Center Modernization Practice",
       "link": "https://milehighcre.com/eei-launches-new-data-center-modernization-practice/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-03T17:11:39+00:00",
-      "age_hours": 4.361257375,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Homebuyers face affordability hurdles despite election and market trends",
-      "link": "https://www.9news.com/article/money/markets/real-estate/affordability-mortgage-rates-housing-market-activity/73-3aca3b3e-5334-4818-a0e2-0d72946fd161",
-      "source": "9News",
-      "pub_date": "2026-11-03T16:17:39+00:00",
-      "age_hours": 5.261494981388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 8.75611242361111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Four Colorado Retail Properties Included in $445M Portfolio Sale",
       "link": "https://milehighcre.com/four-colorado-retail-properties-included-in-445m-portfolio-sale/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-03T15:45:01+00:00",
-      "age_hours": 5.805146291388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.200001333611112,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "DCPS Named Denver\u2019s 7th 2026 Fastest Growing Private Company",
       "link": "https://milehighcre.com/dcps-named-denvers-7th-2026-fastest-growing-private-company/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-03T14:57:24+00:00",
-      "age_hours": 6.598757410555555,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Colorado reopens tree nursery with capacity to produce 2 million seedlings annually",
-      "link": "https://www.9news.com/article/tech/science/environment/colorado-reopens-tree-nursery-seedlings/73-c0020534-8ee5-426b-bff5-cf26500be846",
-      "source": "9News",
-      "pub_date": "2026-11-03T12:55:59+00:00",
-      "age_hours": 8.622606154444444,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Colorado state park offers limited permits for cutting Christmas trees",
-      "link": "https://www.9news.com/article/life/holidays/holiday-guide/golden-gate-canyon-tree-cut-permit-application-window/73-e5ed5d46-b6af-4b73-855c-a46f9dba46e9",
-      "source": "9News",
-      "pub_date": "2026-11-03T12:41:43+00:00",
-      "age_hours": 8.860383936111111,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Coca-Cola holiday caravan is coming to Colorado",
-      "link": "https://www.9news.com/article/life/holidays/holiday-guide/coca-cola-holiday-caravan-gaylord-rockies-colorado-tour/73-408f07b9-326e-4cc5-bb81-2544c415d6c1",
-      "source": "9News",
-      "pub_date": "2026-11-03T12:39:58+00:00",
-      "age_hours": 8.889550629444445,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "New roundabout opens in Weld County",
-      "link": "https://www.9news.com/article/news/community/transportation/new-roundabout-opens-in-weld-county/73-29b7dbfe-3d5c-40a6-b67e-458d1c0fd02e",
-      "source": "9News",
-      "pub_date": "2026-11-03T12:25:59+00:00",
-      "age_hours": 9.122606208611112,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Denver office buildings go up for auction, eBay style",
-      "link": "https://www.cpr.org/2026/11/03/denver-office-building-auction/",
-      "source": "CPR",
-      "pub_date": "2026-11-03T11:00:00+00:00",
-      "age_hours": 10.555623733888888,
+      "age_hours": 10.99361245638889,
       "breaking": false,
       "time_ago": "10 hrs ago"
     },
@@ -126,63 +135,54 @@
       "link": "https://www.coloradopolitics.com/2026/11/02/denver-council-rejects-most-budget-amendments-secures-rental-aid-deal/",
       "source": "CO Politics",
       "pub_date": "2026-11-03T05:12:53+00:00",
-      "age_hours": 16.34134033638889,
+      "age_hours": 20.73653065,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Anheuser-Busch CEO Whitworth to depart",
       "link": "https://bizwest.com/2026/11/02/anheuser-busch-ceo-whitworth-to-depart/",
       "source": "BizWest",
       "pub_date": "2026-11-03T01:42:51+00:00",
-      "age_hours": 19.840953631944444,
+      "age_hours": 24.23578599861111,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Independent health benefit agency opens in Fort Collins",
       "link": "https://bizwest.com/2026/11/02/independent-health-benefit-agency-opens-in-fort-collins/",
       "source": "BizWest",
       "pub_date": "2026-11-03T00:37:48+00:00",
-      "age_hours": 20.92512067138889,
+      "age_hours": 25.319952699999998,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "High-cost diesel to persist after fraught Russian deliveries",
       "link": "https://www.coloradopolitics.com/2026/11/02/high-cost-diesel-to-persist-after-fraught-russian-deliveries/",
       "source": "CO Politics",
       "pub_date": "2026-11-03T00:04:32+00:00",
-      "age_hours": 21.48050701888889,
+      "age_hours": 25.875697335833333,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado justices intervene in property tax, criminal cases",
       "link": "https://www.coloradopolitics.com/2026/11/02/colorado-justices-intervene-in-property-tax-criminal-cases/",
       "source": "CO Politics",
       "pub_date": "2026-11-02T23:36:13+00:00",
-      "age_hours": 21.952451522500002,
+      "age_hours": 26.34764185611111,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "ATS Energy appoints CTO, board members",
       "link": "https://bizwest.com/2026/11/02/ats-energy-appoints-cto-board-members/",
       "source": "BizWest",
       "pub_date": "2026-11-02T23:04:08+00:00",
-      "age_hours": 22.486231804166664,
+      "age_hours": 26.88106383972222,
       "breaking": false,
-      "time_ago": "22 hrs ago"
-    },
-    {
-      "title": "Terracon Foundation awards $50K endowment to CSU",
-      "link": "https://bizwest.com/2026/11/02/terracon-foundation-awards-50k-endowment-to-csu/",
-      "source": "BizWest",
-      "pub_date": "2026-11-02T22:54:31+00:00",
-      "age_hours": 22.646509623611113,
-      "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     }
   ]
 }
