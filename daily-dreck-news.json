@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-04",
-  "fetched_at": "2026-11-04 01:57:20",
+  "fetched_at": "2026-11-04 08:53:00",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 11,
   "articles": [
     {
-      "title": "Elections results for Colorado\u2019s two competing tax measures \u2014 Amendment 87: Graduated Income Tax and Proposition 136: Income Tax Rate Limit",
-      "link": "https://www.cpr.org/2026/11/03/colorado-election-results-amendment-87-prop-136-graduated-income-tax/",
-      "source": "CPR",
-      "pub_date": "2026-11-04T01:30:00+00:00",
-      "age_hours": 0.45055014638888885,
-      "breaking": true,
-      "time_ago": "27 min ago"
-    },
-    {
-      "title": "Colorado college students died from climbing falls, not weather, autopsy says",
-      "link": "https://coloradosun.com/2026/11/03/climbers-fall-deaths-colorado-mountain-college-students/",
+      "title": "Amendment 82 \u201cright to natural gas\u201d appears unlikely to pass",
+      "link": "https://coloradosun.com/2026/11/04/amendment-82-results-right-to-natural-gas/",
       "source": "Colorado Sun",
-      "pub_date": "2026-11-04T00:13:55+00:00",
-      "age_hours": 1.7184130197222223,
+      "pub_date": "2026-11-04T07:10:33+00:00",
+      "age_hours": 1.7030512841666667,
       "breaking": true,
       "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Proposition 136, which would cap Colorado\u2019s income tax rate at 4.4%, is too close to call",
+      "link": "https://coloradosun.com/2026/11/04/proposition-136-results-income-tax-limit-amendment-87/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-04T07:02:38+00:00",
+      "age_hours": 1.834996453888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Colorado initiative requiring that ballot measures be written in 8th grade language is too close to call",
+      "link": "https://coloradosun.com/2026/11/04/amendment-85-results-simple-ballot-language/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-04T07:00:00+00:00",
+      "age_hours": 1.8788860558333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Proposal to redirect tax revenue to conservation narrows",
+      "link": "https://www.coloradopolitics.com/2026/11/03/redirect-tax-revenue-to-conservation-election-results/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-04T05:53:50+00:00",
+      "age_hours": 2.9821226,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Proposal to cap income tax at 4.4% in Colorado trails",
+      "link": "https://www.coloradopolitics.com/2026/11/03/colorado-income-tax-limit-4-4-percent-election-results/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-04T05:52:58+00:00",
+      "age_hours": 2.996567056388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Measure to allow Colorado to spend TABOR revenue for education leads",
+      "link": "https://www.coloradopolitics.com/2026/11/03/colorado-tabor-education-funding-proposition-nn-election-results/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-04T05:18:29+00:00",
+      "age_hours": 3.5712893880555554,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Greeley voters reject sales tax increase; Mayor still looking for options",
+      "link": "https://bizwest.com/2026/11/03/greeley-voters-reject-sales-tax-increase-mayor-still-looking-for-options/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T04:09:23+00:00",
+      "age_hours": 4.722160598888889,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Boulder voters rejecting Issue 2K\u2019s property-tax hike",
+      "link": "https://bizwest.com/2026/11/03/boulder-voters-rejecting-issue-2ks-property-tax-hike/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T03:55:36+00:00",
+      "age_hours": 4.951882835555556,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Colorado\u2019s tiered income tax proposal now too close to call",
+      "link": "https://www.coloradopolitics.com/2026/11/03/colorado-graduated-income-tax-election-results/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-04T03:32:09+00:00",
+      "age_hours": 5.343511664166667,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Voters approving tax for passenger rail extension",
+      "link": "https://bizwest.com/2026/11/03/voters-approving-tax-for-passenger-rail-extension/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T03:23:35+00:00",
+      "age_hours": 5.485494513333333,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "2026 Midterm Election: First results for Aurora, the state and the nation",
+      "link": "https://sentinelcolorado.com/metro/2026-midterm-election-first-results-for-aurora-the-state-and-the-nation/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-04T03:14:49+00:00",
+      "age_hours": 5.632418273055556,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Early results show Greeley sales-tax measure failing by wide margin",
+      "link": "https://bizwest.com/2026/11/03/early-results-show-greeley-sales-tax-measure-failing-by-wide-margin/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T02:47:04+00:00",
+      "age_hours": 6.094105632500001,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Democrat Keisha Lance Bottoms makes history by winning Georgia governor's race",
+      "link": "https://www.9news.com/article/news/politics/elections/democrat-keisha-lance-bottoms-elected-georgia-governor/507-a4017269-6f68-4884-b8e3-1462105d9f75",
+      "source": "9News",
+      "pub_date": "2026-11-04T02:32:01+00:00",
+      "age_hours": 6.34543644,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Mike O\u2019Shays\u2019 building for sale, but pub remains open",
       "link": "https://bizwest.com/2026/11/03/mike-oshays-building-for-sale-but-pub-remains-open/",
       "source": "BizWest",
       "pub_date": "2026-11-03T23:15:52+00:00",
-      "age_hours": 2.685507604444444,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 9.614105638611111,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Gaia reports \u2018stabilized\u2019 revenue after \u2018reset\u2019",
       "link": "https://bizwest.com/2026/11/03/gaia-reports-stabilized-revenue-after-reset/",
       "source": "BizWest",
       "pub_date": "2026-11-03T22:58:36+00:00",
-      "age_hours": 2.9732853983333336,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 9.901883423333333,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Drive-thru light display returns with new deal for nonprofits",
       "link": "https://bizwest.com/2026/11/03/drive-thru-light-display-returns-with-new-deal-for-nonprofits/",
       "source": "BizWest",
       "pub_date": "2026-11-03T22:52:18+00:00",
-      "age_hours": 3.0782854072222223,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.00688343,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Windsor mayor named to Municipal League board",
       "link": "https://bizwest.com/2026/11/03/windsor-mayor-named-to-municipal-league-board/",
       "source": "BizWest",
       "pub_date": "2026-11-03T22:47:09+00:00",
-      "age_hours": 3.1641192977777775,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.092716798333333,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
-      "title": "Election results for Denver Initiated Ordinance 311: Ban on force-feeding birds",
+      "title": "Denver voters appear to approve a ban on force-feeding birds",
       "link": "https://denverite.com/2026/11/03/election-results-denver-initiated-ordinance-311/",
       "source": "Denverite",
       "pub_date": "2026-11-03T22:45:00+00:00",
-      "age_hours": 3.2004647155555555,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.128934184444445,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Aurora wins two State Awards for Transportation Planning and Design",
       "link": "https://sentinelcolorado.com/metro/aurora-wins-two-state-awards-for-transportation-planning-and-design/",
       "source": "Sentinel",
       "pub_date": "2026-11-03T21:14:59+00:00",
-      "age_hours": 4.7015668477777774,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Supreme Court hears challenge to Catholic preschools\u2019 exclusion from Colorado-funded program",
-      "link": "https://coloradosun.com/2026/11/03/colorado-preschool-catholic-church-supreme-court/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-03T20:05:15+00:00",
-      "age_hours": 5.862857954722223,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Amendment 82 election results",
-      "link": "https://coloradosun.com/2026/11/03/amendment-82-results-right-to-natural-gas/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-03T18:47:55+00:00",
-      "age_hours": 7.1517469516666665,
+      "age_hours": 11.62964077,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Colorado governor election results",
-      "link": "https://coloradosun.com/2026/11/03/colorado-governor-election-results/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-03T18:45:09+00:00",
-      "age_hours": 7.197858600555556,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "EEI Launches New Data Center Modernization Practice",
       "link": "https://milehighcre.com/eei-launches-new-data-center-modernization-practice/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-03T17:11:39+00:00",
-      "age_hours": 8.75611242361111,
+      "age_hours": 15.684654276111111,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Four Colorado Retail Properties Included in $445M Portfolio Sale",
-      "link": "https://milehighcre.com/four-colorado-retail-properties-included-in-445m-portfolio-sale/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-03T15:45:01+00:00",
-      "age_hours": 10.200001333611112,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "DCPS Named Denver\u2019s 7th 2026 Fastest Growing Private Company",
-      "link": "https://milehighcre.com/dcps-named-denvers-7th-2026-fastest-growing-private-company/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-03T14:57:24+00:00",
-      "age_hours": 10.99361245638889,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Denver council rejects most budget amendments, secures rental aid deal",
-      "link": "https://www.coloradopolitics.com/2026/11/02/denver-council-rejects-most-budget-amendments-secures-rental-aid-deal/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-03T05:12:53+00:00",
-      "age_hours": 20.73653065,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Anheuser-Busch CEO Whitworth to depart",
-      "link": "https://bizwest.com/2026/11/02/anheuser-busch-ceo-whitworth-to-depart/",
-      "source": "BizWest",
-      "pub_date": "2026-11-03T01:42:51+00:00",
-      "age_hours": 24.23578599861111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Independent health benefit agency opens in Fort Collins",
-      "link": "https://bizwest.com/2026/11/02/independent-health-benefit-agency-opens-in-fort-collins/",
-      "source": "BizWest",
-      "pub_date": "2026-11-03T00:37:48+00:00",
-      "age_hours": 25.319952699999998,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "High-cost diesel to persist after fraught Russian deliveries",
-      "link": "https://www.coloradopolitics.com/2026/11/02/high-cost-diesel-to-persist-after-fraught-russian-deliveries/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-03T00:04:32+00:00",
-      "age_hours": 25.875697335833333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado justices intervene in property tax, criminal cases",
-      "link": "https://www.coloradopolitics.com/2026/11/02/colorado-justices-intervene-in-property-tax-criminal-cases/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-02T23:36:13+00:00",
-      "age_hours": 26.34764185611111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "ATS Energy appoints CTO, board members",
-      "link": "https://bizwest.com/2026/11/02/ats-energy-appoints-cto-board-members/",
-      "source": "BizWest",
-      "pub_date": "2026-11-02T23:04:08+00:00",
-      "age_hours": 26.88106383972222,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "15 hrs ago"
     }
   ]
 }
