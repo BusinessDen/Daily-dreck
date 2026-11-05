@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-11-04",
-  "fetched_at": "2026-11-04 22:28:24",
+  "fetched_date": "2026-11-05",
+  "fetched_at": "2026-11-05 03:15:54",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 17,
   "articles": [
+    {
+      "title": "Denver shut down a popular restaurant over unpaid tax penalties. Then it quickly reversed course",
+      "link": "https://denverite.com/2026/11/04/denver-shuts-down-rubys-good-shoes-reopens-taxes/",
+      "source": "Denverite",
+      "pub_date": "2026-11-05T01:05:41+00:00",
+      "age_hours": 2.1660015955555556,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Contractors cite frustrations in getting projects over finish line",
+      "link": "https://bizwest.com/2026/11/04/contractors-cite-frustrations-in-getting-projects-over-finish-line/",
+      "source": "BizWest",
+      "pub_date": "2026-11-05T00:24:03+00:00",
+      "age_hours": 2.859496256388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "After Colorado governor\u2019s race win, Weiser announces transition team",
+      "link": "https://www.coloradopolitics.com/2026/11/04/after-colorado-governors-race-win-weiser-announces-transition-team/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-05T00:05:45+00:00",
+      "age_hours": 3.1653193177777776,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Broomfield senior community trades for nearly $77M",
+      "link": "https://bizwest.com/2026/11/04/broomfield-senior-community-trades-for-nearly-77m/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T23:37:15+00:00",
+      "age_hours": 3.6394968213888887,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Trimble revenue increases 7% in third quarter",
+      "link": "https://bizwest.com/2026/11/04/trimble-revenue-increases-7-in-third-quarter/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T23:29:32+00:00",
+      "age_hours": 3.7681079619444446,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Aurora woman convicted of stealing over $2K in designer items at Park Meadows",
+      "link": "https://kdvr.com/news/local/aurora-woman-convicted-of-stealing-over-2k-in-designer-items-at-park-meadows/",
+      "source": "Fox31",
+      "pub_date": "2026-11-04T23:08:29+00:00",
+      "age_hours": 4.119590140000001,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Boulder County could rewrite data center regs",
+      "link": "https://bizwest.com/2026/11/04/boulder-county-could-rewrite-data-center-regs/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T23:07:01+00:00",
+      "age_hours": 4.143385746111111,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Catalyst developer weighs impact of voters\u2019 2F rejection",
+      "link": "https://bizwest.com/2026/11/04/catalyst-developer-weighs-impact-of-voters-2f-rejection/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T23:00:44+00:00",
+      "age_hours": 4.248107996944444,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Solid Power stock up on report of production-line progress",
+      "link": "https://bizwest.com/2026/11/04/solid-power-stock-up-on-report-of-production-line-progress/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T22:50:39+00:00",
+      "age_hours": 4.416163559722222,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "DigitalOcean stock slide continues",
+      "link": "https://bizwest.com/2026/11/04/digitalocean-stock-slide-continues/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T22:45:40+00:00",
+      "age_hours": 4.499219145,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "BizWest names 2026 40 Under Forty honorees",
+      "link": "https://bizwest.com/2026/11/04/bizwest-names-2026-40-under-forty-honorees/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T22:39:20+00:00",
+      "age_hours": 4.6047747305555555,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Ball beats earnings, revenue estimates in Q3",
+      "link": "https://bizwest.com/2026/11/04/ball-beats-earnings-revenue-estimates-in-q3/",
+      "source": "BizWest",
+      "pub_date": "2026-11-04T22:32:26+00:00",
+      "age_hours": 4.719774759444444,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections",
       "link": "https://sentinelcolorado.com/uncategorized/stocks-surge-and-the-dow-soars-1500-points-as-oil-prices-tumble-following-the-us-midterm-elections/",
       "source": "Sentinel",
       "pub_date": "2026-11-04T22:23:52+00:00",
-      "age_hours": 0.07148502388888889,
+      "age_hours": 4.863389955277778,
       "breaking": true,
-      "time_ago": "4 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Aurora city council moving to virtual meetings for 8 months during ADA chamber renovations",
       "link": "https://sentinelcolorado.com/metro/aurora-city-council-moving-to-virtual-meetings-for-8-months-during-ada-chamber-renovations/",
       "source": "Sentinel",
       "pub_date": "2026-11-04T22:21:43+00:00",
-      "age_hours": 0.10731867611111112,
+      "age_hours": 4.899223612222222,
       "breaking": true,
-      "time_ago": "6 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Trump-backed Republican redistricting sought a midterm edge. It didn\u2019t work",
       "link": "https://sentinelcolorado.com/uncategorized/trump-backed-republican-redistricting-sought-a-midterm-edge-it-didnt-work/",
       "source": "Sentinel",
       "pub_date": "2026-11-04T22:07:39+00:00",
-      "age_hours": 0.3417631538888889,
+      "age_hours": 5.133668091111112,
       "breaking": true,
-      "time_ago": "20 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "What to buy in November 2026 | Consumer Reports",
       "link": "https://www.9news.com/article/money/consumer/what-to-buy-november-2026-consumer-reports/507-d6d76b67-4b22-44b0-85dc-043008a5eaf3",
       "source": "9News",
       "pub_date": "2026-11-04T21:59:29+00:00",
-      "age_hours": 0.47712858027777777,
+      "age_hours": 5.269403725277778,
       "breaking": true,
-      "time_ago": "28 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Transwestern Awarded Management of 2.1 MSF Life Sciences Portfolio",
       "link": "https://milehighcre.com/transwestern-awarded-management-of-2-1-msf-life-sciences-portfolio/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-04T21:54:32+00:00",
-      "age_hours": 0.5592133922222222,
+      "age_hours": 5.351707361388889,
       "breaking": true,
-      "time_ago": "33 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Colorado voters reject amendment making hunting and fishing a constitutional right",
       "link": "https://coloradosun.com/2026/11/04/colorado-voters-reject-amendment-making-hunting-fishing-constitutional-right/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-04T20:36:24+00:00",
-      "age_hours": 1.8615850372222222,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.654003986388889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Colorado voters reject effort to place right to natural gas in state constitution",
       "link": "https://coloradosun.com/2026/11/04/colorado-rejection-amendment-82-natural-gas/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-04T20:32:19+00:00",
-      "age_hours": 1.9296412283333333,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.722060135833333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Workers receive around $117,000 in back pay from the former Wash Park Grille and Agave Taco Bar",
       "link": "https://denverite.com/2026/11/04/wash-park-grille-agave-taco-bar-back-pay/",
       "source": "Denverite",
       "pub_date": "2026-11-04T19:37:53+00:00",
-      "age_hours": 2.83700638,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Denver man found dead at Black Canyon of the Gunnison",
-      "link": "https://kdvr.com/news/local/denver-man-found-dead-at-black-canyon-of-the-gunnison/",
-      "source": "Fox31",
-      "pub_date": "2026-11-04T18:41:32+00:00",
-      "age_hours": 3.77659318,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Colorado mountain arena opens after $55 million renovation project",
-      "link": "https://www.9news.com/article/life/style/colorado-guide/dobson-arena-opens-renovation-project/73-165207e1-6b8a-454c-b5f3-595dafc5cb19",
-      "source": "9News",
-      "pub_date": "2026-11-04T18:00:03+00:00",
-      "age_hours": 4.467684251666666,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Prop. 137 leads in votes, would boost Colorado wildfire funding",
-      "link": "https://www.coloradopolitics.com/2026/11/04/prop-137-leads-in-votes-would-boost-wildfire-funding-statewide/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-04T17:14:09+00:00",
-      "age_hours": 5.233357479722223,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Phil Weiser\u2019s victory over Victor Marx in Colorado governor\u2019s race will be among the largest ever",
-      "link": "https://coloradosun.com/2026/11/04/phil-weiser-margin-victory-colorado-history/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-04T17:10:17+00:00",
-      "age_hours": 5.296863508333334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Colorado\u2019s tiered income tax initiative still too close to call",
-      "link": "https://www.coloradopolitics.com/2026/11/04/colorados-tiered-income-tax-initiative-still-too-close-to-call/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-04T17:06:27+00:00",
-      "age_hours": 5.361690824444445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Disney plans new round of layoffs that could affect thousands of employees, reports say",
-      "link": "https://www.9news.com/article/news/nation-world/disney-layoff-plan-to-cut-jobs/507-e95cb5ac-a13d-4982-ad4b-66f3c3ecd285",
-      "source": "9News",
-      "pub_date": "2026-11-04T16:44:38+00:00",
-      "age_hours": 5.724628728611112,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "CVS Health to split into two publicly traded companies",
-      "link": "https://www.9news.com/article/news/nation-world/cvs-health-splitting-into-two-companies/507-6332feb4-f247-4d96-8951-1fc8f04ab26b",
-      "source": "9News",
-      "pub_date": "2026-11-04T15:56:21+00:00",
-      "age_hours": 6.529351001111111,
+      "age_hours": 7.629335001944444,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Colorado new car sales plummet as cut to EV aid puts the brights on high prices",
-      "link": "https://coloradosun.com/2026/11/04/colorado-new-car-sales-dropping-ev-plummet/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-04T11:08:00+00:00",
-      "age_hours": 11.334919866388889,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Amendment 82, which would add \u201cright to natural gas\u201d to Colorado Constitution, appears unlikely to pass",
-      "link": "https://coloradosun.com/2026/11/04/amendment-82-results-right-to-natural-gas/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-04T07:10:33+00:00",
-      "age_hours": 15.292419919999999,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Proposal to redirect tax revenue to conservation narrows",
-      "link": "https://www.coloradopolitics.com/2026/11/03/redirect-tax-revenue-to-conservation-election-results/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-04T05:53:50+00:00",
-      "age_hours": 16.571968636666668,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Proposal to cap income tax at 4.4% in Colorado trails",
-      "link": "https://www.coloradopolitics.com/2026/11/03/colorado-income-tax-limit-4-4-percent-election-results/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-04T05:52:58+00:00",
-      "age_hours": 16.586413087500002,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Measure to allow Colorado to spend TABOR revenue for education leads",
-      "link": "https://www.coloradopolitics.com/2026/11/03/colorado-tabor-education-funding-proposition-nn-election-results/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-04T05:18:29+00:00",
-      "age_hours": 17.16113540888889,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "7 hrs ago"
     }
   ]
 }
