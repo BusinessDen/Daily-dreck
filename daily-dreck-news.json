@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-11-05",
-  "fetched_at": "2026-11-05 19:45:02",
+  "fetched_date": "2026-11-06",
+  "fetched_at": "2026-11-06 00:49:55",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 20,
   "articles": [
     {
-      "title": "Suspects allegedly shatter glass door, rob fast-food restaurant in Aurora",
-      "link": "https://kdvr.com/news/local/suspects-allegedly-shatter-glass-door-rob-fast-food-restaurant-in-aurora/",
-      "source": "Fox31",
-      "pub_date": "2026-11-05T19:34:47+00:00",
-      "age_hours": 0.16703030444444444,
+      "title": "Izzio bakery elevates longtime exec to co-leadership role",
+      "link": "https://bizwest.com/2026/11/05/izzio-bakery-elevates-longtime-exec-to-co-leadership-role/",
+      "source": "BizWest",
+      "pub_date": "2026-11-06T00:05:11+00:00",
+      "age_hours": 0.7412587758333333,
       "breaking": true,
-      "time_ago": "10 min ago"
+      "time_ago": "44 min ago"
     },
     {
-      "title": "Analysis: Changing voter boundary likely helped pass \u2018Coco\u2019 train tax",
-      "link": "https://www.coloradopolitics.com/2026/11/05/coco-train-new-voter-boundary-likely-helped-pass-tax/",
+      "title": "Boulder Hampton Inn trades for $10.8M",
+      "link": "https://bizwest.com/2026/11/05/boulder-hampton-inn-trades-for-10-8m/",
+      "source": "BizWest",
+      "pub_date": "2026-11-05T23:54:17+00:00",
+      "age_hours": 0.9229260138888888,
+      "breaking": true,
+      "time_ago": "55 min ago"
+    },
+    {
+      "title": "Boulder Chamber transportation arm hires leader from Lyft",
+      "link": "https://bizwest.com/2026/11/05/boulder-chamber-transportation-arm-hires-leader-from-lyft/",
+      "source": "BizWest",
+      "pub_date": "2026-11-05T23:46:13+00:00",
+      "age_hours": 1.0573704666666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Backers of graduated income tax declare victory in Colorado",
+      "link": "https://www.coloradopolitics.com/2026/11/05/amendment-87-backers-declare-victory-as-ballots-continue-to-be-counted/",
       "source": "CO Politics",
-      "pub_date": "2026-11-05T19:18:11+00:00",
-      "age_hours": 0.44383417249999996,
+      "pub_date": "2026-11-05T23:26:37+00:00",
+      "age_hours": 1.3848544497222222,
       "breaking": true,
-      "time_ago": "26 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
-      "title": "More than 3.6 million ladders recalled after reports of injuries from sudden retractions",
-      "link": "https://www.9news.com/article/news/nation-world/little-giant-ladder-recall-injuries-sudden-retraction/507-f1efd664-ddc3-4551-b00b-2af4582dae0c",
-      "source": "9News",
-      "pub_date": "2026-11-05T17:08:28+00:00",
-      "age_hours": 2.605519021111111,
+      "title": "Looking for love? Reality TV dating show casting contestants in Denver",
+      "link": "https://kdvr.com/news/local/looking-for-love-reality-tv-dating-show-casting-contestants-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-11-05T23:15:45+00:00",
+      "age_hours": 1.5658462972222222,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Widened FNL runway to reopen this weekend",
+      "link": "https://bizwest.com/2026/11/05/widened-fnl-runway-to-reopen-this-weekend/",
+      "source": "BizWest",
+      "pub_date": "2026-11-05T22:48:59+00:00",
+      "age_hours": 2.011259384722222,
       "breaking": true,
       "time_ago": "2 hrs ago"
     },
     {
-      "title": "3 Colorado congressional races are still undecided",
-      "link": "https://coloradosun.com/2026/11/05/three-colorado-congressional-races-are-still-undecided/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-05T15:57:39+00:00",
-      "age_hours": 3.7856877124999997,
+      "title": "CSP warns truck drivers to carry chains ahead of winter weather",
+      "link": "https://kdvr.com/news/local/csp-reminds-commercial-drivers-chains/",
+      "source": "Fox31",
+      "pub_date": "2026-11-05T22:42:33+00:00",
+      "age_hours": 2.1191797663888887,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Boulder-based homelessness nonprofit Bridge House shuttering",
+      "link": "https://bizwest.com/2026/11/05/boulder-based-homelessness-nonprofit-bridge-house-shuttering/",
+      "source": "BizWest",
+      "pub_date": "2026-11-05T22:42:07+00:00",
+      "age_hours": 2.125703834722222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver improves hiring process for police, firefighters following audit",
+      "link": "https://kdvr.com/news/local/denver-civil-service-hiring-audit/",
+      "source": "Fox31",
+      "pub_date": "2026-11-05T22:39:53+00:00",
+      "age_hours": 2.163624152777778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "How Land Constraints are Reshaping Mountain West Development",
+      "link": "https://milehighcre.com/how-land-constraints-are-reshaping-mountain-west-development/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-05T22:37:55+00:00",
+      "age_hours": 2.1959814183333335,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Custom Hat Store Opens in RiNo",
+      "link": "https://milehighcre.com/custom-hat-store-opens-in-rino/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-05T22:35:56+00:00",
+      "age_hours": 2.2290370072222223,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Edgewise\u2019s sevasemten sale boosted bottom line by $1.4B",
+      "link": "https://bizwest.com/2026/11/05/edgewises-sevasemten-sale-boosted-bottom-line-by-1-4b/",
+      "source": "BizWest",
+      "pub_date": "2026-11-05T22:31:18+00:00",
+      "age_hours": 2.3059816408333336,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "OnKure ups R&D spending as it gears up for FDA apps",
+      "link": "https://bizwest.com/2026/11/05/onkure-ups-rd-spending-as-it-gears-up-for-fda-apps/",
+      "source": "BizWest",
+      "pub_date": "2026-11-05T22:20:04+00:00",
+      "age_hours": 2.493203868888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Real estate conference to feature residential, commercial forecasts",
+      "link": "https://bizwest.com/2026/11/05/real-estate-conference-to-feature-residential-commercial-forecasts/",
+      "source": "BizWest",
+      "pub_date": "2026-11-05T22:15:14+00:00",
+      "age_hours": 2.573759454166667,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "OPED: Aurora has a way to protect renters and property owners from contagious blight",
+      "link": "https://sentinelcolorado.com/opinion/oped-aurora-has-a-way-to-protect-renters-and-property-owners-from-contagious-blight/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-05T22:02:38+00:00",
+      "age_hours": 2.784591412222222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Quebec Village Shopping Center Sells for $31M",
+      "link": "https://milehighcre.com/quebec-village-shopping-center-sells-for-31m/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-05T21:10:59+00:00",
+      "age_hours": 3.6448706819444445,
       "breaking": true,
       "time_ago": "3 hrs ago"
     },
     {
-      "title": "DURA names first new leader in 25 years",
-      "link": "https://www.9news.com/article/money/business/denver-urban-renewal-authority-new-leader/73-0975c79c-6dba-4237-8187-f77b1e893f9a",
-      "source": "9News",
-      "pub_date": "2026-11-05T15:50:33+00:00",
-      "age_hours": 3.9041301794444445,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "What to do in Colorado this week: Loud Women at the Fox Theatre in Boulder",
-      "link": "https://coloradosun.com/2026/11/05/what-to-do-this-weekend-colorado-music-festival-boulder/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-05T15:00:00+00:00",
-      "age_hours": 4.746521687777777,
+      "title": "Prominent developer to lead Denver Urban Renewal Authority",
+      "link": "https://denverite.com/2026/11/05/dura-director-kenneth-ho-appointed/",
+      "source": "Denverite",
+      "pub_date": "2026-11-05T20:41:06+00:00",
+      "age_hours": 4.143041898333333,
       "breaking": true,
       "time_ago": "4 hrs ago"
     },
     {
-      "title": "Colorado's tallest fresh-cut Christmas tree arrives",
-      "link": "https://www.9news.com/article/life/holidays/holiday-guide/outlets-castle-rock-christmas-tree/73-01f4e3ba-76d6-46e3-bc1e-87c203b3eecb",
-      "source": "9News",
-      "pub_date": "2026-11-05T14:42:11+00:00",
-      "age_hours": 5.0435746475,
+      "title": "Movers and Shakers Week Ending 11.06.26",
+      "link": "https://milehighcre.com/movers-and-shakers-week-ending-11-06-26/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-05T20:38:39+00:00",
+      "age_hours": 4.183759583055555,
       "breaking": true,
-      "time_ago": "5 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
-      "title": "Vail Resorts facing a proxy fight over its board, business strategy",
-      "link": "https://coloradosun.com/2026/11/05/vail-resorts-faces-fight-over-business-strategy/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-05T11:14:00+00:00",
-      "age_hours": 8.513188790277777,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Denver shut down a popular restaurant over unpaid tax penalties. Then it quickly reversed course",
-      "link": "https://denverite.com/2026/11/04/denver-shuts-down-rubys-good-shoes-reopens-taxes/",
+      "title": "Denver mayor agrees to smaller cut for housing assistance",
+      "link": "https://denverite.com/2026/11/05/denver-mayor-agrees-to-reduce-cut-to-housing-assistance/",
       "source": "Denverite",
-      "pub_date": "2026-11-05T01:05:41+00:00",
-      "age_hours": 18.651841761388887,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
+      "pub_date": "2026-11-05T20:31:00+00:00",
+      "age_hours": 4.311375276111112,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     },
     {
-      "title": "Contractors cite frustrations in getting projects over finish line",
-      "link": "https://bizwest.com/2026/11/04/contractors-cite-frustrations-in-getting-projects-over-finish-line/",
-      "source": "BizWest",
-      "pub_date": "2026-11-05T00:24:03+00:00",
-      "age_hours": 19.345394119444443,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "After Colorado governor\u2019s race win, Weiser announces transition team",
-      "link": "https://www.coloradopolitics.com/2026/11/04/after-colorado-governors-race-win-weiser-announces-transition-team/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-05T00:05:45+00:00",
-      "age_hours": 19.651056476944444,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Broomfield senior community trades for nearly $77M",
-      "link": "https://bizwest.com/2026/11/04/broomfield-senior-community-trades-for-nearly-77m/",
-      "source": "BizWest",
-      "pub_date": "2026-11-04T23:37:15+00:00",
-      "age_hours": 20.12539473611111,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Trimble revenue increases 7% in third quarter",
-      "link": "https://bizwest.com/2026/11/04/trimble-revenue-increases-7-in-third-quarter/",
-      "source": "BizWest",
-      "pub_date": "2026-11-04T23:29:32+00:00",
-      "age_hours": 20.254005877500003,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Aurora woman convicted of stealing over $2K in designer items at Park Meadows",
-      "link": "https://kdvr.com/news/local/aurora-woman-convicted-of-stealing-over-2k-in-designer-items-at-park-meadows/",
-      "source": "Fox31",
-      "pub_date": "2026-11-04T23:08:29+00:00",
-      "age_hours": 20.60536376361111,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Boulder County could rewrite data center regs",
-      "link": "https://bizwest.com/2026/11/04/boulder-county-could-rewrite-data-center-regs/",
-      "source": "BizWest",
-      "pub_date": "2026-11-04T23:07:01+00:00",
-      "age_hours": 20.62928366166667,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Catalyst developer weighs impact of voters\u2019 2F rejection",
-      "link": "https://bizwest.com/2026/11/04/catalyst-developer-weighs-impact-of-voters-2f-rejection/",
-      "source": "BizWest",
-      "pub_date": "2026-11-04T23:00:44+00:00",
-      "age_hours": 20.734005912222223,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Solid Power stock up on report of production-line progress",
-      "link": "https://bizwest.com/2026/11/04/solid-power-stock-up-on-report-of-production-line-progress/",
-      "source": "BizWest",
-      "pub_date": "2026-11-04T22:50:39+00:00",
-      "age_hours": 20.90206147472222,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "DigitalOcean stock slide continues",
-      "link": "https://bizwest.com/2026/11/04/digitalocean-stock-slide-continues/",
-      "source": "BizWest",
-      "pub_date": "2026-11-04T22:45:40+00:00",
-      "age_hours": 20.985117059444445,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "BizWest names 2026 40 Under Forty honorees",
-      "link": "https://bizwest.com/2026/11/04/bizwest-names-2026-40-under-forty-honorees/",
-      "source": "BizWest",
-      "pub_date": "2026-11-04T22:39:20+00:00",
-      "age_hours": 21.090672639722225,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Ball beats earnings, revenue estimates in Q3",
-      "link": "https://bizwest.com/2026/11/04/ball-beats-earnings-revenue-estimates-in-q3/",
-      "source": "BizWest",
-      "pub_date": "2026-11-04T22:32:26+00:00",
-      "age_hours": 21.205672667222224,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
+      "title": "Denver mayor told transportation director to resign, paid her more than $22,000 to go away",
+      "link": "https://www.9news.com/article/news/local/local-politics/denver-mayor-transportation-director-resignation/73-d5149a5a-8152-4d0c-a28a-445dcc26dfd9",
+      "source": "9News",
+      "pub_date": "2026-11-05T20:11:32+00:00",
+      "age_hours": 4.635920768611111,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
     }
   ]
 }
