@@ -1,132 +1,132 @@
 {
-  "fetched_date": "2026-11-07",
-  "fetched_at": "2026-11-07 23:33:19",
+  "fetched_date": "2026-11-08",
+  "fetched_at": "2026-11-08 04:56:01",
   "article_count": 20,
-  "breaking_count": 6,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Denver Public Schools\u2019 weapon detection K-9s undergo recertification training",
+      "link": "https://kdvr.com/news/local/denver-public-schools-weapon-detection-k-9s-undergo-recertification-training/",
+      "source": "Fox31",
+      "pub_date": "2026-11-07T23:55:56+00:00",
+      "age_hours": 4.997479198888889,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "Suspect in deadly Denver Halloween shooting arrested",
       "link": "https://kdvr.com/news/local/suspect-in-deadly-denver-halloween-shooting-arrested/",
       "source": "Fox31",
       "pub_date": "2026-11-07T23:17:21+00:00",
-      "age_hours": 0.26209417611111113,
+      "age_hours": 5.640534821111111,
       "breaking": true,
-      "time_ago": "15 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "NoCo Winter Wonderland to include nonprofit fundraiser",
       "link": "https://bizwest.com/2026/11/07/noco-winter-wonderland-to-include-nonprofit-fundraiser/",
       "source": "BizWest",
       "pub_date": "2026-11-07T19:02:36+00:00",
-      "age_hours": 4.507143728888889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.885438129722223,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Donors pledge $30K matching gift to Coal Creek Meals on Wheels",
       "link": "https://bizwest.com/2026/11/07/donors-pledge-30k-matching-gift-to-coal-creek-meals-on-wheels/",
       "source": "BizWest",
       "pub_date": "2026-11-07T18:34:12+00:00",
-      "age_hours": 4.9804776041666665,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 10.358771853611112,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Allo offers free internet to five Greeley nonprofits",
       "link": "https://bizwest.com/2026/11/07/allo-offers-free-internet-to-five-greeley-nonprofits/",
       "source": "BizWest",
       "pub_date": "2026-11-07T18:19:40+00:00",
-      "age_hours": 5.222699860277777,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.6009941025,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Social Venture Partners to celebrate nonprofits Nov. 10",
       "link": "https://bizwest.com/2026/11/07/social-venture-partners-to-celebrate-nonprofits-nov-10/",
       "source": "BizWest",
       "pub_date": "2026-11-07T17:58:36+00:00",
-      "age_hours": 5.573811000277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.952105236944444,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Human Bean raises $67K for cancer care",
       "link": "https://bizwest.com/2026/11/07/human-bean-raises-67k-for-cancer-care/",
       "source": "BizWest",
       "pub_date": "2026-11-07T17:41:54+00:00",
-      "age_hours": 5.852144360833334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.230438592777777,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "What\u2019s Working: It\u2019s been a tough year for nonprofits. Good thing Colorado Gives Day is here.",
       "link": "https://coloradosun.com/2026/11/07/colorado-nonprofits-costs-philanthropy-donations-giving-day/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-07T11:00:00+00:00",
-      "age_hours": 12.550863245833334,
+      "age_hours": 17.92921330777778,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "3 legislative races that show the breadth of the blue wave in Colorado",
       "link": "https://coloradosun.com/2026/11/07/colorado-blue-wave-analysis-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-07T10:45:00+00:00",
-      "age_hours": 12.80086327638889,
+      "age_hours": 18.179213333333333,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Every opening and closing this week: Olive & Finch adds to DIA\u2019s homegrown push",
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-olive-and-finch-40958452/",
       "source": "Westword",
       "pub_date": "2026-11-07T07:00:00-07:00",
-      "age_hours": 9.551289669722221,
+      "age_hours": 14.929836526944445,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Aurora prep sports scoreboard, 11.6.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-11-6-26/",
       "source": "Sentinel",
       "pub_date": "2026-11-07T06:09:00+00:00",
-      "age_hours": 17.40139778888889,
+      "age_hours": 22.780032730277778,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Excessive speeding in I-70 construction zone frustrating Clear Creek Sheriff's Office",
       "link": "https://kdvr.com/news/local/excessive-speeding-in-i-70-construction-zone-frustrating-clear-creek-sheriffs-office/",
       "source": "Fox31",
       "pub_date": "2026-11-07T04:29:20+00:00",
-      "age_hours": 19.062372028333336,
+      "age_hours": 24.44081263,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Celebrate EDU\u2019s fourth annual shop to feature products from 35 entrepreneurs with disabilities",
       "link": "https://www.9news.com/article/money/business/small-business/celebrate-edus-shop-entrepreneurs-disabilities/73-efb0d641-817d-45e7-a849-079b2a00eb7b",
       "source": "9News",
       "pub_date": "2026-11-07T01:40:33+00:00",
-      "age_hours": 21.875150038611114,
+      "age_hours": 27.253569514444447,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Democratic figures to host event in Denver next week",
       "link": "https://kdvr.com/news/local/democratic-figures-to-host-event-in-denver-next-week/",
       "source": "Fox31",
       "pub_date": "2026-11-06T23:42:21+00:00",
-      "age_hours": 23.84542759361111,
-      "breaking": false,
-      "time_ago": "23 hrs ago"
-    },
-    {
-      "title": "Amendment 87 to hit Bronco players harder than most",
-      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/amendment-87-broncos-players-colorado-income-tax/73-6ac0575c-68a2-461f-a8e1-ba14ac5bd427",
-      "source": "9News",
-      "pub_date": "2026-11-06T22:24:55+00:00",
-      "age_hours": 25.135705725833336,
+      "age_hours": 29.22386819222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +135,7 @@
       "link": "https://bizwest.com/2026/11/06/geo-group-earnings-report-touts-expected-income-from-hudson-ice-facility/",
       "source": "BizWest",
       "pub_date": "2026-11-06T22:06:46+00:00",
-      "age_hours": 25.43769994611111,
+      "age_hours": 30.815994172222222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +144,7 @@
       "link": "https://sentinelcolorado.com/metro/sentinel-muse-blended-dance-a-knife-in-the-back-and-more-on-tap-for-the-weekend/",
       "source": "Sentinel",
       "pub_date": "2026-11-06T21:23:24+00:00",
-      "age_hours": 26.161398125555554,
+      "age_hours": 31.540032983333333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +153,7 @@
       "link": "https://sentinelcolorado.com/uncategorized/as-congress-returns-to-democrats-one-likely-casualty-emerges-trumps-district-of-columbia-projects/",
       "source": "Sentinel",
       "pub_date": "2026-11-06T21:03:40+00:00",
-      "age_hours": 26.490287238055554,
+      "age_hours": 31.86892204888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +162,7 @@
       "link": "https://bizwest.com/2026/11/06/gogos-stock-go-goes-soaring-early-friday/",
       "source": "BizWest",
       "pub_date": "2026-11-06T19:16:24+00:00",
-      "age_hours": 28.277144424166668,
+      "age_hours": 33.65543864194444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,7 +171,7 @@
       "link": "https://bizwest.com/2026/11/06/biodesix-stock-slumps-on-dimmer-sales-outlook/",
       "source": "BizWest",
       "pub_date": "2026-11-06T19:09:24+00:00",
-      "age_hours": 28.393811122777777,
+      "age_hours": 33.77210533694445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -180,7 +180,7 @@
       "link": "https://bizwest.com/2026/11/06/cea-industries-now-operating-as-bnb-standard-corp/",
       "source": "BizWest",
       "pub_date": "2026-11-06T18:55:58+00:00",
-      "age_hours": 28.6177000175,
+      "age_hours": 33.99599423,
       "breaking": false,
       "time_ago": "1 day ago"
     }
