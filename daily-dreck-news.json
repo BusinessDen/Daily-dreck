@@ -1,78 +1,105 @@
 {
   "fetched_date": "2026-11-09",
-  "fetched_at": "2026-11-09 01:29:11",
+  "fetched_at": "2026-11-09 09:18:35",
   "article_count": 20,
   "breaking_count": 2,
   "articles": [
+    {
+      "title": "Denver community signs its name into history as City Park bandstand prepares for rebuilding",
+      "link": "https://www.9news.com/article/news/community/denver-community-signs-name-into-history-city-park-bandstand-rebuilding/73-44bc1b64-cfb2-4c51-adbc-33b275ec721c",
+      "source": "9News",
+      "pub_date": "2026-11-09T05:34:31+00:00",
+      "age_hours": 3.7308534730555554,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Electrical issue causes extensive damage in west Aurora house fire Saturday",
+      "link": "https://sentinelcolorado.com/metro/electrical-issue-causes-extensive-damage-in-west-aurora-house-fire-saturday/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-09T03:24:16+00:00",
+      "age_hours": 5.9019192825,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Aurora man convicted of second-degree murder in 2021 disappearance of his wife",
+      "link": "https://sentinelcolorado.com/orecent-headlines/aurora-man-convicted-of-second-degree-murder-in-2021-disappearance-of-his-wife/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-09T02:42:04+00:00",
+      "age_hours": 6.605252945277778,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Third Colorado police officer injured in RTD shooting released from hospital",
+      "link": "https://coloradosun.com/2026/11/08/lakewood-rtd-shooting-injured-police-officer-released/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-09T01:38:49+00:00",
+      "age_hours": 7.6591176675,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
     {
       "title": "Denver's historic City Park bandstand gets a new chapter as hundreds leave their mark",
       "link": "https://kdvr.com/news/local/denvers-historic-city-park-bandstand-gets-a-new-chapter-as-hundreds-leave-their-mark/",
       "source": "Fox31",
       "pub_date": "2026-11-09T01:05:45+00:00",
-      "age_hours": 0.3867596622222222,
-      "breaking": true,
-      "time_ago": "23 min ago"
+      "age_hours": 8.21043008611111,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Hold for your close-up: Denver International Airport gives 'Blucifer' a touch up",
       "link": "https://kdvr.com/news/local/hold-for-your-close-up-denver-international-airport-gives-blucifer-a-touch-up/",
       "source": "Fox31",
       "pub_date": "2026-11-08T20:38:25+00:00",
-      "age_hours": 4.842315153888889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 12.6659855725,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Where to dispose of fallen leaves in the Denver Metro",
       "link": "https://kdvr.com/news/local/where-to-dispose-of-fallen-leaves-in-the-denver-metro/",
       "source": "Fox31",
       "pub_date": "2026-11-08T17:23:38+00:00",
-      "age_hours": 8.088704205833332,
+      "age_hours": 15.912374579444444,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "\u2018A lot happening at once\u2019",
       "link": "https://bizwest.com/2026/11/08/a-lot-happening-at-once/",
       "source": "BizWest",
       "pub_date": "2026-11-08T16:50:15+00:00",
-      "age_hours": 8.644404335833332,
+      "age_hours": 16.468210443333334,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
       "link": "https://sentinelcolorado.com/nation-world/nation/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/",
       "source": "Sentinel",
       "pub_date": "2026-11-08T13:43:02+00:00",
-      "age_hours": 11.765540040277779,
+      "age_hours": 19.58914212166667,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Their town has been burned, flooded and nearly cut in half. But residents want you to know \u201cPagosa is here.\u201d",
       "link": "https://coloradosun.com/2026/11/08/pagosa-springs-flood-recovery/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-08T11:30:00+00:00",
-      "age_hours": 13.982256044166666,
+      "age_hours": 21.806062136111112,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "The Bookies Bookstore extends spooky season with 3 titles",
       "link": "https://coloradosun.com/2026/11/08/the-bookies-bookstore-november-recommendations-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-08T09:05:00+00:00",
-      "age_hours": 16.398923483333334,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Suspect in deadly Denver Halloween shooting arrested",
-      "link": "https://kdvr.com/news/local/suspect-in-deadly-denver-halloween-shooting-arrested/",
-      "source": "Fox31",
-      "pub_date": "2026-11-07T23:17:21+00:00",
-      "age_hours": 26.19342650666667,
+      "age_hours": 24.22272942388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +108,7 @@
       "link": "https://bizwest.com/2026/11/07/noco-winter-wonderland-to-include-nonprofit-fundraiser/",
       "source": "BizWest",
       "pub_date": "2026-11-07T19:02:36+00:00",
-      "age_hours": 30.438571018055555,
+      "age_hours": 38.26237712388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,7 +117,7 @@
       "link": "https://bizwest.com/2026/11/07/donors-pledge-30k-matching-gift-to-coal-creek-meals-on-wheels/",
       "source": "BizWest",
       "pub_date": "2026-11-07T18:34:12+00:00",
-      "age_hours": 30.911904904999997,
+      "age_hours": 38.73571085722222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +126,7 @@
       "link": "https://bizwest.com/2026/11/07/allo-offers-free-internet-to-five-greeley-nonprofits/",
       "source": "BizWest",
       "pub_date": "2026-11-07T18:19:40+00:00",
-      "age_hours": 31.154127160833333,
+      "age_hours": 38.97793310555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +135,7 @@
       "link": "https://bizwest.com/2026/11/07/social-venture-partners-to-celebrate-nonprofits-nov-10/",
       "source": "BizWest",
       "pub_date": "2026-11-07T17:58:36+00:00",
-      "age_hours": 31.50523830583333,
+      "age_hours": 39.32904423916666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +144,7 @@
       "link": "https://bizwest.com/2026/11/07/human-bean-raises-67k-for-cancer-care/",
       "source": "BizWest",
       "pub_date": "2026-11-07T17:41:54+00:00",
-      "age_hours": 31.78357166722222,
+      "age_hours": 39.60737759361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +153,7 @@
       "link": "https://coloradosun.com/2026/11/07/colorado-nonprofits-costs-philanthropy-donations-giving-day/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-07T11:00:00+00:00",
-      "age_hours": 38.48225709194445,
+      "age_hours": 46.30606297999999,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +162,7 @@
       "link": "https://coloradosun.com/2026/11/07/colorado-blue-wave-analysis-2026/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-07T10:45:00+00:00",
-      "age_hours": 38.73225711222222,
+      "age_hours": 46.55606299583334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-olive-and-finch-40958452/",
       "source": "Westword",
       "pub_date": "2026-11-07T07:00:00-07:00",
-      "age_hours": 35.48262138888889,
+      "age_hours": 43.306281382777776,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://www.9news.com/article/money/business/small-business/celebrate-edus-shop-entrepreneurs-disabilities/73-efb0d641-817d-45e7-a849-079b2a00eb7b",
       "source": "9News",
       "pub_date": "2026-11-07T01:40:33+00:00",
-      "age_hours": 47.806528334166664,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Geo Group earnings report touts expected income from Hudson ICE facility",
-      "link": "https://bizwest.com/2026/11/06/geo-group-earnings-report-touts-expected-income-from-hudson-ice-facility/",
-      "source": "BizWest",
-      "pub_date": "2026-11-06T22:06:46+00:00",
-      "age_hours": 51.3691272525,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Gogo\u2019s stock go-goes soaring early Friday",
-      "link": "https://bizwest.com/2026/11/06/gogos-stock-go-goes-soaring-early-friday/",
-      "source": "BizWest",
-      "pub_date": "2026-11-06T19:16:24+00:00",
-      "age_hours": 54.20857172833334,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Biodesix stock slumps on dimmer sales outlook",
-      "link": "https://bizwest.com/2026/11/06/biodesix-stock-slumps-on-dimmer-sales-outlook/",
-      "source": "BizWest",
-      "pub_date": "2026-11-06T19:09:24+00:00",
-      "age_hours": 54.325238425277774,
+      "age_hours": 55.630298027222224,
       "breaking": false,
       "time_ago": "2 days ago"
     }
