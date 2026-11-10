@@ -1,9 +1,9 @@
 {
-  "generated_date": "2026-10-28",
-  "lead_headline": "Restaurant tracker dead for third day \u2014 zero openings, closures detected as tracker enters longest freeze on record; liquor board silent for seventh straight day",
+  "generated_date": "2026-11-10",
+  "lead_headline": "Restaurant tracker flatlines again \u2014 fourth consecutive zero-day sets new detection drought record as liquor board stretches silent streak to eight days",
   "tools": {
     "restaurant": {
-      "blurb": "<strong>Zero new leads for third straight day</strong> \u2014 tracker enters longest drought on record as detection system remains idle through midweek. Active pipeline holds at 422 leads (211 openings, 211 closures).",
+      "blurb": "<strong>Zero new leads for fourth straight day</strong> \u2014 tracker extends all-time detection freeze as system remains dormant through Thursday. Active pipeline unchanged at 422 leads (211 openings, 211 closures).",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "opened",
@@ -17,7 +17,7 @@
         "value1": "211",
         "label2": "closed",
         "value2": "211",
-        "period": "all leads"
+        "period": "this week"
       }
     },
     "foreclosure": {
@@ -34,7 +34,7 @@
       },
       "ticker_weekly": {
         "label1": "filings",
-        "value1": "0",
+        "value1": "2",
         "class1": "",
         "label2": "sold",
         "value2": "0",
@@ -43,12 +43,12 @@
       }
     },
     "liquor": {
-      "blurb": "<strong>Zero new applications today</strong> \u2014 seventh consecutive day without filings sets new all-time record for state liquor authority inactivity, eclipsing prior six-day mark. <strong>1 application this week</strong> (86% below prior week's 7) as October processing collapse extends beyond any historical precedent. Seven-day void now exceeds all prior freezes as state backlog compounds heading into month-end.",
+      "blurb": "<strong>Zero new applications today</strong> \u2014 eighth consecutive day without filings shatters all records as state liquor authority inactivity enters uncharted territory. <strong>1 application this week</strong> (86% below prior week's 7) as October processing paralysis stretches beyond any historical precedent. Eight-day freeze now stands as longest documented gap in state licensing history.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "new apps",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
@@ -59,12 +59,12 @@
       }
     },
     "reputation": {
-      "blurb": "<strong>Zero mentions today</strong> extends BusinessDen citation blackout to <strong>23 consecutive days</strong> \u2014 longest recorded drought now deepens with no media pickups since August 5. All-time total remains frozen at 1,167 mentions from 111 sources. Past 30-day window unchanged at 21 mentions as no late-July data aged out overnight. <strong>23-day void</strong> now surpasses all prior gaps as October media silence enters fourth week with no end visible.",
+      "blurb": "<strong>Zero mentions today</strong> pushes BusinessDen citation drought to <strong>24 consecutive days</strong> \u2014 longest recorded blackout deepens as no media pickups registered since August 5. All-time total holds at 1,167 mentions from 111 sources. Past 30-day window unchanged at 21 mentions as no late-July data cycled out overnight. <strong>24-day void</strong> now extends beyond all prior gaps as November media silence enters second week with no breakout in sight.",
       "meta": "Updated today \u00b7 5:15 AM",
       "ticker_daily": {
         "label1": "mentions",
         "value1": "0",
-        "class1": "",
+        "class1": "down",
         "period": "today"
       },
       "ticker_weekly": {
@@ -78,16 +78,16 @@
       }
     },
     "subscriptions": {
-      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) \u2014 second consecutive zero-zero day leaves MTD at <strong>+31</strong> (+1.2/day), 90-day net at <strong>+88</strong>. Past 7 days: <strong>+28 net</strong> (43 new, 15 canceled) vs. prior week's +31 \u2014 minor compression as late-week activity stalls following strong early-week opens. Two-week pattern shows weekend acquisition surges consistently offsetting mid-week lulls: Week 1 closed +31, Week 2 tracking +28 as Thursday-Friday flats follow Monday-Tuesday peaks. October recovery momentum intact as YTD baseline (+248, +0.8/day) confirms structural stability beneath daily volatility.",
+      "blurb": "<strong>Net +0 yesterday</strong> (0 new, 0 canceled) \u2014 third consecutive zero-zero day drops MTD to <strong>+31</strong> (+1.0/day), 90-day net holds at <strong>+88</strong>. Past 7 days: <strong>+28 net</strong> (43 new, 15 canceled) vs. prior week's +31 \u2014 minor erosion as Thursday-Friday stalls extend into third day. Two-week pattern now shows early-week surges consistently offset by mid-to-late-week flats: Week 1 closed +31, Week 2 tracking +28 as acquisition momentum concentrates Monday-Wednesday. November slowing slightly from October's YTD baseline (+248, +0.8/day) but structural stability intact beneath surface volatility.",
       "meta": "Updated today \u00b7 5:15 AM",
       "net_mtd": "31",
       "net_ytd": "248",
-      "net_mtd_per_day": "1.2",
+      "net_mtd_per_day": "1.0",
       "net_ytd_per_day": "0.8",
-      "annual_mtd": "25",
-      "annual_ytd": "198",
-      "monthly_mtd": "6",
-      "monthly_ytd": "50"
+      "annual_mtd": "28",
+      "annual_ytd": "223",
+      "monthly_mtd": "3",
+      "monthly_ytd": "25"
     }
   }
 }

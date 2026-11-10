@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-10",
-  "fetched_at": "2026-11-10 03:15:25",
+  "fetched_at": "2026-11-10 12:14:57",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Barnes & Noble closing Aurora bookstore after 23 years",
+      "link": "https://www.9news.com/article/money/business/barnes-and-noble-closes-aurora-colorado-bookstore/73-6f260d0d-94f8-4a7f-8580-73a86e4b084e",
+      "source": "9News",
+      "pub_date": "2026-11-10T12:07:04+00:00",
+      "age_hours": 0.12694211694444446,
+      "breaking": true,
+      "time_ago": "7 min ago"
+    },
+    {
+      "title": "Santa delivers 55-foot Christmas tree to Castle Rock for lighting event",
+      "link": "https://www.9news.com/article/life/holidays/holiday-guide/outlets-castle-rock-christmas-tree/73-01f4e3ba-76d6-46e3-bc1e-87c203b3eecb",
+      "source": "9News",
+      "pub_date": "2026-11-10T11:20:19+00:00",
+      "age_hours": 0.9061088147222222,
+      "breaking": true,
+      "time_ago": "54 min ago"
+    },
+    {
+      "title": "Shooting in downtown Denver leaves 1 injured",
+      "link": "https://kdvr.com/news/local/shooting-in-downtown-denver-leaves-1-injured/",
+      "source": "Fox31",
+      "pub_date": "2026-11-10T03:40:52+00:00",
+      "age_hours": 8.56403594638889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
     {
       "title": "Denver, Littleton sue Bow Mar over proposed gate on public road",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-littleton-lawsuit-bow-mar-gates-construction/73-e49a0a72-c4a2-48e5-88af-05d20910a9bd",
       "source": "9News",
       "pub_date": "2026-11-10T02:20:23+00:00",
-      "age_hours": 0.9125300611111111,
-      "breaking": true,
-      "time_ago": "54 min ago"
+      "age_hours": 9.904997818055554,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver invests $820K in trees and shade for new Sun Valley Riverfront Park",
       "link": "https://www.9news.com/article/tech/science/environment/denver-invests-trees-shade-sun-valley-riverfront-park/73-1b72872c-92c7-4ece-a680-920fcb166932",
       "source": "9News",
       "pub_date": "2026-11-10T01:57:56+00:00",
-      "age_hours": 1.2866967725,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 10.279164524722223,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Pothole damages I-70 roadway and shuts down multiple lanes for several hours",
       "link": "https://kdvr.com/news/local/pothole-damages-i-70-roadway-and-shuts-down-multiple-lanes-for-several-hours/",
       "source": "Fox31",
       "pub_date": "2026-11-10T00:26:26+00:00",
-      "age_hours": 2.811814526388889,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 11.804591546666666,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Pagosa Springs restaurant closed for weeks due to flooding",
       "link": "https://www.9news.com/article/news/local/colorado-news/pagosa-springs-restaurant-closed-flooding/73-75d872f8-94c0-411b-a775-097ee9208353",
       "source": "9News",
       "pub_date": "2026-11-10T00:13:51+00:00",
-      "age_hours": 3.021419028611111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 12.013886779444444,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Early morning smash-and-grab caught on camera in Douglas County",
       "link": "https://kdvr.com/news/local/early-morning-smash-and-grab-caught-on-camera-in-douglas-county/",
       "source": "Fox31",
       "pub_date": "2026-11-09T22:41:00+00:00",
-      "age_hours": 4.5690366877777775,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 13.561813671111112,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Aurora lawmakers reviewing $1.5 million council chambers accessibility upgrade Monday",
       "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-reviewing-1-5-million-council-chambers-accessibility-upgrade-monday/",
       "source": "Sentinel",
       "pub_date": "2026-11-09T22:17:48+00:00",
-      "age_hours": 4.95595345,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 13.948747141666667,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Barnes & Noble closes one chapter, hopes for another in Aurora",
       "link": "https://denverite.com/2026/11/09/barnes-and-noble-aurora-city-place-closing/",
       "source": "Denverite",
       "pub_date": "2026-11-09T22:00:29+00:00",
-      "age_hours": 5.2440980675,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 14.236597828333332,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Boulder home prices continue decline, IRES says",
       "link": "https://bizwest.com/2026/11/09/boulder-home-prices-continue-decline-ires-says/",
       "source": "BizWest",
       "pub_date": "2026-11-09T21:52:56+00:00",
-      "age_hours": 5.3695072925,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 14.36196105111111,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Denver Launches New Tool to Speed up Permit Intake",
       "link": "https://milehighcre.com/denver-launches-new-tool-to-speed-up-permit-intake/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-09T21:26:53+00:00",
-      "age_hours": 5.803968889722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 14.796400503888888,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Northwest Parkway seeks names for new snowplow fleet",
       "link": "https://bizwest.com/2026/11/09/northwest-parkway-seeks-names-for-new-snowplow-fleet/",
       "source": "BizWest",
       "pub_date": "2026-11-09T21:03:50+00:00",
-      "age_hours": 6.187841193611112,
+      "age_hours": 15.180294928611112,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "The Salvation Army will lose control of one of Denver\u2019s largest shelters",
       "link": "https://denverite.com/2026/11/09/urban-alchemy-crossroads-48th-avenue-mens-shelter/",
       "source": "Denverite",
       "pub_date": "2026-11-09T21:02:52+00:00",
-      "age_hours": 6.204375896111111,
+      "age_hours": 15.196875648055554,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Resultados electorales de Colorado: Qu\u00e9 medidas se aprobaron y cu\u00e1les fueron rechazadas",
       "link": "https://coloradosun.com/2026/11/09/resultados-elecciones-colorado-todas-medidas-electorales/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-09T21:00:00+00:00",
-      "age_hours": 6.252087321388889,
+      "age_hours": 15.244527421388888,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Louisville challenges: Affordability, taxes, state cooperation",
       "link": "https://bizwest.com/2026/11/09/louisville-challenges-affordability-taxes-state-cooperation/",
       "source": "BizWest",
       "pub_date": "2026-11-09T20:58:57+00:00",
-      "age_hours": 6.269230118055556,
+      "age_hours": 15.261683855833335,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "'Looks like a bomb went off': Jeep crashes into Lakewood massage studio",
       "link": "https://kdvr.com/news/local/looks-like-a-bomb-went-off-jeep-crashes-into-lakewood-massage-studio/",
       "source": "Fox31",
       "pub_date": "2026-11-09T20:58:41+00:00",
-      "age_hours": 6.274314575277778,
+      "age_hours": 15.267091623055554,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Hollywood to Casa Bonita: South Park museum exhibit coming to Denver",
       "link": "https://kdvr.com/news/local/hollywood-to-casa-bonita-south-park-museum-exhibit-coming-to-denver/",
       "source": "Fox31",
       "pub_date": "2026-11-09T20:52:22+00:00",
-      "age_hours": 6.379592443611111,
+      "age_hours": 15.37236949111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "New state demographer to keynote Boulder Valley Real Estate Conference",
       "link": "https://bizwest.com/2026/11/09/new-state-demographer-to-keynote-boulder-valley-real-estate-conference/",
       "source": "BizWest",
       "pub_date": "2026-11-09T20:51:43+00:00",
-      "age_hours": 6.389785704444444,
+      "age_hours": 15.382239442500001,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "China dismisses as a smear campaign claims of a spy plot involving Nvidia CEO Jensen Huang",
       "link": "https://sentinelcolorado.com/uncategorized/china-dismisses-as-a-smear-campaign-claims-of-a-spy-plot-involving-nvidia-ceo-jensen-huang/",
       "source": "Sentinel",
       "pub_date": "2026-11-09T20:46:30+00:00",
-      "age_hours": 6.4776201449999995,
+      "age_hours": 15.470413843611112,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "PopUp Bagels making Colorado debut in Boulder",
-      "link": "https://bizwest.com/2026/11/09/popup-bagels-making-colorado-debut-in-boulder/",
-      "source": "BizWest",
-      "pub_date": "2026-11-09T20:38:44+00:00",
-      "age_hours": 6.606174603055555,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Loveland\u2019s HIP Streets project complete in time for holidays",
-      "link": "https://bizwest.com/2026/11/09/lovelands-hip-streets-project-complete-in-time-for-holidays/",
-      "source": "BizWest",
-      "pub_date": "2026-11-09T20:32:52+00:00",
-      "age_hours": 6.7039524083333335,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver Industrial Vacancy Rises as Demand Varies Across Submarkets",
-      "link": "https://milehighcre.com/denver-industrial-vacancy-rises-as-demand-varies-across-submarkets/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-09T19:21:37+00:00",
-      "age_hours": 7.891746963055556,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "15 hrs ago"
     }
   ]
 }
