@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-10",
-  "fetched_at": "2026-11-10 12:14:57",
+  "fetched_at": "2026-11-10 20:18:04",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 13,
   "articles": [
     {
-      "title": "Barnes & Noble closing Aurora bookstore after 23 years",
+      "title": "Gov.-elect Weiser announces budget director, water policy adviser",
+      "link": "https://www.coloradopolitics.com/2026/11/10/gov-elect-weiser-announces-budget-director-water-policy-adviser/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-10T19:32:17+00:00",
+      "age_hours": 0.7595654658333333,
+      "breaking": true,
+      "time_ago": "45 min ago"
+    },
+    {
+      "title": "Urban Villages Co-Founder Named to TIME100 Climate 2026 List",
+      "link": "https://milehighcre.com/urban-villages-co-founder-named-to-time100-climate-2026-list/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-10T18:45:49+00:00",
+      "age_hours": 1.5301061919444443,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Construction Complete on 419-Unit Luxury Development in Aurora",
+      "link": "https://milehighcre.com/construction-complete-on-419-unit-luxury-development-in-aurora/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-10T18:32:46+00:00",
+      "age_hours": 1.7476062094444444,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "7 Denver restaurants make top 100 list, but 1 mastermind is behind 4 of them",
+      "link": "https://kdvr.com/denver-guide/7-denver-restaurants-make-top-100-list-but-1-mastermind-is-behind-4-of-them/",
+      "source": "Fox31",
+      "pub_date": "2026-11-10T18:29:26+00:00",
+      "age_hours": 1.8037231594444445,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "How to watch the 9NEWS Parade of Lights",
+      "link": "https://www.9news.com/article/life/holidays/holiday-guide/9news-parade-of-lights-denver-2026/73-cb86c41b-c067-4130-992b-72e7bd279a8a",
+      "source": "9News",
+      "pub_date": "2026-11-10T18:11:35+00:00",
+      "age_hours": 2.1009542005555555,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Veterans Day 2026 deals: Big discounts for veterans at Kohl\u2019s, Target, and more",
+      "link": "https://www.9news.com/article/news/nation-world/veterans-day-2026-retail-and-grocey-deals/507-6e6f1e94-e276-4665-8eba-7470ea1bb60e",
+      "source": "9News",
+      "pub_date": "2026-11-10T17:44:39+00:00",
+      "age_hours": 2.549843128888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Amazon releases flying Ring drone camera and robot for indoor surveillance",
+      "link": "https://www.9news.com/article/news/nation-world/ring-drone-camera-rover-robot-patrol-surveillance/507-415754ff-6e0e-4e76-a0fa-091a8c3c34f8",
+      "source": "9News",
+      "pub_date": "2026-11-10T17:11:09+00:00",
+      "age_hours": 3.1081764908333334,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Starbucks launches Bearista cup blind boxes: Here's how to get one",
+      "link": "https://www.9news.com/article/news/nation-world/starbucks-launches-bearista-cup-blind-boxes/507-a5a21d75-25a5-4dbc-8c27-78d8b7efe9a1",
+      "source": "9News",
+      "pub_date": "2026-11-10T16:44:22+00:00",
+      "age_hours": 3.5545653847222223,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "'Cash Register Building' drops another 26% in value",
+      "link": "https://www.9news.com/article/money/business/wells-fargo-cash-register-building-denver/73-127644c7-3786-454f-a1d8-f998ddd88d9e",
+      "source": "9News",
+      "pub_date": "2026-11-10T15:01:54+00:00",
+      "age_hours": 5.262343197777778,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Police seek suspect in overnight stabbing near Colfax Avenue",
+      "link": "https://kdvr.com/news/local/police-seek-suspect-in-overnight-stabbing-near-colfax-avenue/",
+      "source": "Fox31",
+      "pub_date": "2026-11-10T14:46:51+00:00",
+      "age_hours": 5.513445428888889,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Updates eyed for 12-mile Speer, Leetsdale, Parker stretch of road",
+      "link": "https://www.9news.com/article/news/community/transportation/updates-speer-leetsdale-parker-stretch-road/73-a9b720d1-d217-400a-b01b-a148a7347db0",
+      "source": "9News",
+      "pub_date": "2026-11-10T14:35:45+00:00",
+      "age_hours": 5.698176554444444,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Frontier Airlines reconfiguring cabins with new first class seating",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/frontier-airlines-first-class-legroom-wifi-power-seating/73-30c35221-0e18-428e-8a92-babb6cbe3bcf",
+      "source": "9News",
+      "pub_date": "2026-11-10T14:35:00+00:00",
+      "age_hours": 5.710676577222222,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "TriSalus posts strong revenue gain in Q3",
+      "link": "https://bizwest.com/2026/11/10/trisalus-posts-strong-revenue-gain-in-q3/",
+      "source": "BizWest",
+      "pub_date": "2026-11-10T14:09:35+00:00",
+      "age_hours": 6.133749220555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "'Twilight of the Punks': Fall Out Boy, Offspring announce Colorado stadium concert",
+      "link": "https://www.9news.com/article/news/local/9news-mornings/fall-out-boy-twilight-of-the-punks-stadium-tour/73-91702311-5d57-4fe3-ac22-dfcecfc2934e",
+      "source": "9News",
+      "pub_date": "2026-11-10T13:53:41+00:00",
+      "age_hours": 6.399287710277777,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Hooters closing Colorado restaurant after 31 years",
+      "link": "https://www.9news.com/article/life/style/colorado-guide/hooters-closes-aurora-colorado-restaurant/73-d83d2fcb-410c-4ba9-8345-50eeff1cd79a",
+      "source": "9News",
+      "pub_date": "2026-11-10T12:25:50+00:00",
+      "age_hours": 7.863454393055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Barnes & Noble closing Colorado bookstore after 23 years",
       "link": "https://www.9news.com/article/money/business/barnes-and-noble-closes-aurora-colorado-bookstore/73-6f260d0d-94f8-4a7f-8580-73a86e4b084e",
       "source": "9News",
       "pub_date": "2026-11-10T12:07:04+00:00",
-      "age_hours": 0.12694211694444446,
+      "age_hours": 8.176232187777778,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Judge ends CU Regents\u2019 legal battle tied to \u2018racist\u2019 marijuana campaign",
+      "link": "https://www.westword.com/news/judge-ends-cu-regents-lawsuit-marijuana-campaign-40960183/",
+      "source": "Westword",
+      "pub_date": "2026-11-10T12:05:03-07:00",
+      "age_hours": 1.2103371833333334,
       "breaking": true,
-      "time_ago": "7 min ago"
+      "time_ago": "1 hrs ago"
     },
     {
       "title": "Santa delivers 55-foot Christmas tree to Castle Rock for lighting event",
       "link": "https://www.9news.com/article/life/holidays/holiday-guide/outlets-castle-rock-christmas-tree/73-01f4e3ba-76d6-46e3-bc1e-87c203b3eecb",
       "source": "9News",
       "pub_date": "2026-11-10T11:20:19+00:00",
-      "age_hours": 0.9061088147222222,
-      "breaking": true,
-      "time_ago": "54 min ago"
-    },
-    {
-      "title": "Shooting in downtown Denver leaves 1 injured",
-      "link": "https://kdvr.com/news/local/shooting-in-downtown-denver-leaves-1-injured/",
-      "source": "Fox31",
-      "pub_date": "2026-11-10T03:40:52+00:00",
-      "age_hours": 8.56403594638889,
+      "age_hours": 8.955398858055556,
       "breaking": false,
       "time_ago": "8 hrs ago"
     },
     {
-      "title": "Denver, Littleton sue Bow Mar over proposed gate on public road",
-      "link": "https://www.9news.com/article/news/local/local-politics/denver-littleton-lawsuit-bow-mar-gates-construction/73-e49a0a72-c4a2-48e5-88af-05d20910a9bd",
-      "source": "9News",
-      "pub_date": "2026-11-10T02:20:23+00:00",
-      "age_hours": 9.904997818055554,
+      "title": "Where to go for live-fire cooking in Denver",
+      "link": "https://www.westword.com/food-drink/wood-fire-restaurants-denver-40958161/",
+      "source": "Westword",
+      "pub_date": "2026-11-10T07:01:00-07:00",
+      "age_hours": 6.277837291388889,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "6 hrs ago"
     },
     {
-      "title": "Denver invests $820K in trees and shade for new Sun Valley Riverfront Park",
-      "link": "https://www.9news.com/article/tech/science/environment/denver-invests-trees-shade-sun-valley-riverfront-park/73-1b72872c-92c7-4ece-a680-920fcb166932",
-      "source": "9News",
-      "pub_date": "2026-11-10T01:57:56+00:00",
-      "age_hours": 10.279164524722223,
+      "title": "The chefs and restaurants fueling Denver\u2019s live-fire obsession",
+      "link": "https://www.westword.com/food-drink/the-chefs-and-restaurants-fueling-denvers-live-fire-obsession-40957859/",
+      "source": "Westword",
+      "pub_date": "2026-11-10T07:00:00-07:00",
+      "age_hours": 6.294504013333333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Pothole damages I-70 roadway and shuts down multiple lanes for several hours",
-      "link": "https://kdvr.com/news/local/pothole-damages-i-70-roadway-and-shuts-down-multiple-lanes-for-several-hours/",
-      "source": "Fox31",
-      "pub_date": "2026-11-10T00:26:26+00:00",
-      "age_hours": 11.804591546666666,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Pagosa Springs restaurant closed for weeks due to flooding",
-      "link": "https://www.9news.com/article/news/local/colorado-news/pagosa-springs-restaurant-closed-flooding/73-75d872f8-94c0-411b-a775-097ee9208353",
-      "source": "9News",
-      "pub_date": "2026-11-10T00:13:51+00:00",
-      "age_hours": 12.013886779444444,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Early morning smash-and-grab caught on camera in Douglas County",
-      "link": "https://kdvr.com/news/local/early-morning-smash-and-grab-caught-on-camera-in-douglas-county/",
-      "source": "Fox31",
-      "pub_date": "2026-11-09T22:41:00+00:00",
-      "age_hours": 13.561813671111112,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Aurora lawmakers reviewing $1.5 million council chambers accessibility upgrade Monday",
-      "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-reviewing-1-5-million-council-chambers-accessibility-upgrade-monday/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-09T22:17:48+00:00",
-      "age_hours": 13.948747141666667,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Barnes & Noble closes one chapter, hopes for another in Aurora",
-      "link": "https://denverite.com/2026/11/09/barnes-and-noble-aurora-city-place-closing/",
-      "source": "Denverite",
-      "pub_date": "2026-11-09T22:00:29+00:00",
-      "age_hours": 14.236597828333332,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Boulder home prices continue decline, IRES says",
-      "link": "https://bizwest.com/2026/11/09/boulder-home-prices-continue-decline-ires-says/",
-      "source": "BizWest",
-      "pub_date": "2026-11-09T21:52:56+00:00",
-      "age_hours": 14.36196105111111,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Denver Launches New Tool to Speed up Permit Intake",
-      "link": "https://milehighcre.com/denver-launches-new-tool-to-speed-up-permit-intake/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-09T21:26:53+00:00",
-      "age_hours": 14.796400503888888,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Northwest Parkway seeks names for new snowplow fleet",
-      "link": "https://bizwest.com/2026/11/09/northwest-parkway-seeks-names-for-new-snowplow-fleet/",
-      "source": "BizWest",
-      "pub_date": "2026-11-09T21:03:50+00:00",
-      "age_hours": 15.180294928611112,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "The Salvation Army will lose control of one of Denver\u2019s largest shelters",
-      "link": "https://denverite.com/2026/11/09/urban-alchemy-crossroads-48th-avenue-mens-shelter/",
-      "source": "Denverite",
-      "pub_date": "2026-11-09T21:02:52+00:00",
-      "age_hours": 15.196875648055554,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Resultados electorales de Colorado: Qu\u00e9 medidas se aprobaron y cu\u00e1les fueron rechazadas",
-      "link": "https://coloradosun.com/2026/11/09/resultados-elecciones-colorado-todas-medidas-electorales/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-09T21:00:00+00:00",
-      "age_hours": 15.244527421388888,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Louisville challenges: Affordability, taxes, state cooperation",
-      "link": "https://bizwest.com/2026/11/09/louisville-challenges-affordability-taxes-state-cooperation/",
-      "source": "BizWest",
-      "pub_date": "2026-11-09T20:58:57+00:00",
-      "age_hours": 15.261683855833335,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "'Looks like a bomb went off': Jeep crashes into Lakewood massage studio",
-      "link": "https://kdvr.com/news/local/looks-like-a-bomb-went-off-jeep-crashes-into-lakewood-massage-studio/",
-      "source": "Fox31",
-      "pub_date": "2026-11-09T20:58:41+00:00",
-      "age_hours": 15.267091623055554,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Hollywood to Casa Bonita: South Park museum exhibit coming to Denver",
-      "link": "https://kdvr.com/news/local/hollywood-to-casa-bonita-south-park-museum-exhibit-coming-to-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-11-09T20:52:22+00:00",
-      "age_hours": 15.37236949111111,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "New state demographer to keynote Boulder Valley Real Estate Conference",
-      "link": "https://bizwest.com/2026/11/09/new-state-demographer-to-keynote-boulder-valley-real-estate-conference/",
-      "source": "BizWest",
-      "pub_date": "2026-11-09T20:51:43+00:00",
-      "age_hours": 15.382239442500001,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "China dismisses as a smear campaign claims of a spy plot involving Nvidia CEO Jensen Huang",
-      "link": "https://sentinelcolorado.com/uncategorized/china-dismisses-as-a-smear-campaign-claims-of-a-spy-plot-involving-nvidia-ceo-jensen-huang/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-09T20:46:30+00:00",
-      "age_hours": 15.470413843611112,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "6 hrs ago"
     }
   ]
 }
