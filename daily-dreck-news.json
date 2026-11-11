@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-11",
-  "fetched_at": "2026-11-11 01:04:10",
+  "fetched_at": "2026-11-11 08:57:39",
   "article_count": 20,
-  "breaking_count": 14,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Front Range Passenger Rail passes marketing buck to taxpayers | PODIUM",
+      "link": "https://www.coloradopolitics.com/2026/11/11/front-range-passenger-rail-passes-marketing-buck-to-taxpayers-podium/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-11T08:00:00+00:00",
+      "age_hours": 0.9572997308333333,
+      "breaking": true,
+      "time_ago": "57 min ago"
+    },
+    {
+      "title": "Frontier Airlines reconfiguring cabins with new first class seating",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/frontier-airlines-first-class-legroom-wifi-power-seating/73-30c35221-0e18-428e-8a92-babb6cbe3bcf",
+      "source": "9News",
+      "pub_date": "2026-11-11T05:22:35+00:00",
+      "age_hours": 3.5805615758333333,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Alterra Mountain Co. approved to rent old Denver Post building",
+      "link": "https://kdvr.com/news/local/alterra-mountain-co-approved-to-rent-old-denver-post-building/",
+      "source": "Fox31",
+      "pub_date": "2026-11-11T02:23:37+00:00",
+      "age_hours": 6.563423239722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Denver police share new details after deadly shooting",
+      "link": "https://kdvr.com/news/local/denver-police-share-new-details-after-deadly-shooting/",
+      "source": "Fox31",
+      "pub_date": "2026-11-11T01:13:34+00:00",
+      "age_hours": 7.730923217222222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
     {
       "title": "Denver's Frontier Airlines launches first class, more leg room",
       "link": "https://kdvr.com/news/local/denvers-frontier-airlines-launches-first-class-more-leg-room/",
       "source": "Fox31",
       "pub_date": "2026-11-10T23:56:23+00:00",
-      "age_hours": 1.1260262466666666,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 9.017312002222223,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Colorado think tank worries about competition under Amendment 87\u2019s graduated income tax",
       "link": "https://www.cpr.org/2026/11/10/businesses-react-amendment-87-passes/",
       "source": "CPR",
       "pub_date": "2026-11-10T23:28:32+00:00",
-      "age_hours": 1.5898708544444444,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 9.481319138611111,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Fall Out Boy coming to Denver area on tour in 2027",
       "link": "https://kdvr.com/denver-guide/fall-out-boy-coming-to-denver-area-on-tour-in-2027/",
       "source": "Fox31",
       "pub_date": "2026-11-10T23:16:05+00:00",
-      "age_hours": 1.7976930094444443,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 9.68897875138889,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Alterra set for a new office (and free parking) near Civic Center",
       "link": "https://denverite.com/2026/11/10/alterra-offices-denver-post-building/",
       "source": "Denverite",
       "pub_date": "2026-11-10T23:08:48+00:00",
-      "age_hours": 1.9187383738888888,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 9.8101664625,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver could close the Crossroads shelter in the next year",
       "link": "https://denverite.com/2026/11/10/crossroads-homeless-shelter-future/",
       "source": "Denverite",
       "pub_date": "2026-11-10T22:48:57+00:00",
-      "age_hours": 2.2495717530555557,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.140999836111112,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Quantinuum, Japanese partners seek \u2018quantum-AI hybrid supercomputing\u2019",
       "link": "https://bizwest.com/2026/11/10/quantinuum-japanese-partners-seek-quantum-ai-hybrid-supercomputing/",
       "source": "BizWest",
       "pub_date": "2026-11-10T22:31:21+00:00",
-      "age_hours": 2.5424929733333332,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.43384772138889,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Weiser picks Arndt for rural-targeted Cabinet post",
       "link": "https://bizwest.com/2026/11/10/weiser-picks-arndt-for-rural-targeted-cabinet-post/",
       "source": "BizWest",
       "pub_date": "2026-11-10T22:27:30+00:00",
-      "age_hours": 2.606660116388889,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.498014720277778,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Greeley picks Wisconsin firm to lead MERGE project",
       "link": "https://bizwest.com/2026/11/10/greeley-picks-wisconsin-firm-to-lead-merge-project/",
       "source": "BizWest",
       "pub_date": "2026-11-10T22:22:52+00:00",
-      "age_hours": 2.6838823725,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.575236963888889,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Local franchisee opens Westminster Pak Mail location",
       "link": "https://bizwest.com/2026/11/10/local-franchisee-opens-westminster-pak-mail-location/",
       "source": "BizWest",
       "pub_date": "2026-11-10T22:18:47+00:00",
-      "age_hours": 2.7519379630555556,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.643292538055555,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Aurora prep sports schedule, 11.10.26",
       "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-11-10-26/",
       "source": "Sentinel",
       "pub_date": "2026-11-10T21:46:27+00:00",
-      "age_hours": 3.291760774166667,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 11.183177139444446,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Amazon releases flying Ring drone camera and robot for indoor surveillance",
       "link": "https://www.9news.com/article/news/nation-world/ring-drone-camera-rover-robot-patrol-surveillance/507-415754ff-6e0e-4e76-a0fa-091a8c3c34f8",
       "source": "9News",
       "pub_date": "2026-11-10T21:29:54+00:00",
-      "age_hours": 3.5671286572222223,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 11.4586172275,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "CSU Veterinary Hospital\u00a0Celebrates Grand Opening",
       "link": "https://milehighcre.com/csu-veterinary-hospital-celebrates-grand-opening/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-10T20:53:00+00:00",
-      "age_hours": 4.181937926944444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 12.073324607222222,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Colorado federal judges slam ICE for ignoring court orders linked to arrests, Aurora detention",
       "link": "https://sentinelcolorado.com/metro/colorado-federal-judges-slam-ice-for-ignoring-court-orders-linked-to-arrests-aurora-detention/",
       "source": "Sentinel",
       "pub_date": "2026-11-10T20:20:52+00:00",
-      "age_hours": 4.718150009722223,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 12.609566476944444,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Gov.-elect Weiser announces budget director, water policy adviser",
       "link": "https://www.coloradopolitics.com/2026/11/10/gov-elect-weiser-announces-budget-director-water-policy-adviser/",
       "source": "CO Politics",
       "pub_date": "2026-11-10T19:32:17+00:00",
-      "age_hours": 5.527845021944445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 13.419244225,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Urban Villages Co-Founder Named to TIME100 Climate 2026 List",
       "link": "https://milehighcre.com/urban-villages-co-founder-named-to-time100-climate-2026-list/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-10T18:45:49+00:00",
-      "age_hours": 6.301660180555555,
+      "age_hours": 14.19304684777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Construction Complete on 419-Unit Luxury Development in Aurora",
       "link": "https://milehighcre.com/construction-complete-on-419-unit-luxury-development-in-aurora/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-10T18:32:46+00:00",
-      "age_hours": 6.519160191388889,
+      "age_hours": 14.410546855277778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "7 Denver restaurants make top 100 list, but 1 mastermind is behind 4 of them",
-      "link": "https://kdvr.com/denver-guide/7-denver-restaurants-make-top-100-list-but-1-mastermind-is-behind-4-of-them/",
-      "source": "Fox31",
-      "pub_date": "2026-11-10T18:29:26+00:00",
-      "age_hours": 6.575192865,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "How to watch the 9NEWS Parade of Lights",
-      "link": "https://www.9news.com/article/life/holidays/holiday-guide/9news-parade-of-lights-denver-2026/73-cb86c41b-c067-4130-992b-72e7bd279a8a",
-      "source": "9News",
-      "pub_date": "2026-11-10T18:11:35+00:00",
-      "age_hours": 6.8724064613888896,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Veterans Day 2026 deals: Big discounts for veterans at Kohl\u2019s, Target, and more",
-      "link": "https://www.9news.com/article/news/nation-world/veterans-day-2026-retail-and-grocey-deals/507-6e6f1e94-e276-4665-8eba-7470ea1bb60e",
-      "source": "9News",
-      "pub_date": "2026-11-10T17:44:39+00:00",
-      "age_hours": 7.321295395000001,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Starbucks launches Bearista cup blind boxes: Here's how to get one",
-      "link": "https://www.9news.com/article/news/nation-world/starbucks-launches-bearista-cup-blind-boxes/507-a5a21d75-25a5-4dbc-8c27-78d8b7efe9a1",
-      "source": "9News",
-      "pub_date": "2026-11-10T16:44:22+00:00",
-      "age_hours": 8.326017671388888,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "14 hrs ago"
     }
   ]
 }
