@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-11",
-  "fetched_at": "2026-11-11 08:57:39",
+  "fetched_at": "2026-11-11 17:00:32",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 8,
   "articles": [
+    {
+      "title": "Victim taken to hospital following overnight shooting in Denver",
+      "link": "https://kdvr.com/news/local/victim-taken-to-hospital-following-overnight-shooting-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-11-11T14:44:55+00:00",
+      "age_hours": 2.2565517033333333,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Aurora city offices, state and federal buildings close for Veterans Day; schools are open",
+      "link": "https://sentinelcolorado.com/metro/aurora-city-offices-state-and-federal-buildings-close-for-veterans-day-schools-are-open/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-11T14:30:50+00:00",
+      "age_hours": 2.4914141577777777,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Boulder County OKs new data-center regs",
+      "link": "https://bizwest.com/2026/11/11/boulder-county-oks-new-data-center-regs/",
+      "source": "BizWest",
+      "pub_date": "2026-11-11T14:25:17+00:00",
+      "age_hours": 2.583058206111111,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Sonoma Pharma posts first EBITDA-positive quarter",
+      "link": "https://bizwest.com/2026/11/11/sonoma-pharma-posts-first-ebitda-positive-quarter/",
+      "source": "BizWest",
+      "pub_date": "2026-11-11T14:22:03+00:00",
+      "age_hours": 2.6369476516666666,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Thought-leader group to target effective mindfulness",
+      "link": "https://bizwest.com/2026/11/11/thought-leader-group-to-target-effective-mindfulness/",
+      "source": "BizWest",
+      "pub_date": "2026-11-11T14:18:39+00:00",
+      "age_hours": 2.6936143508333332,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec",
+      "link": "https://sentinelcolorado.com/nation-world/nation/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-11T13:50:23+00:00",
+      "age_hours": 3.1655811119444444,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "What's open and closed on Veterans Day in Colorado",
+      "link": "https://www.9news.com/article/money/business/open-closed-stores-veterans-day-king-soopers-walmart-safeway/73-4f63d2ed-f995-48cf-b0da-9b9dbb01b121",
+      "source": "9News",
+      "pub_date": "2026-11-11T13:39:28+00:00",
+      "age_hours": 3.347185277222222,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "How Nederland\u2019s troubled Eldora deal could lead to drastic budget measures",
+      "link": "https://coloradosun.com/2026/11/11/eldora-mountain-acquisition-investigation/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-11T11:20:00+00:00",
+      "age_hours": 5.6714782744444445,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Why a journalist kicked off Denver\u2019s DenAI summit",
+      "link": "https://coloradosun.com/2026/11/11/denver-ai-artificial-intelligence-denai-kevin-roose/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-11T11:00:00+00:00",
+      "age_hours": 6.004811653888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "A citywide upzoning is back on the menu in Denver",
+      "link": "https://denverite.com/2026/11/11/denver-upzoning-unlocking-housing-choices-back/",
+      "source": "Denverite",
+      "pub_date": "2026-11-11T11:00:00+00:00",
+      "age_hours": 6.004858773888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Front Range Passenger Rail passes marketing buck to taxpayers | PODIUM",
       "link": "https://www.coloradopolitics.com/2026/11/11/front-range-passenger-rail-passes-marketing-buck-to-taxpayers-podium/",
       "source": "CO Politics",
       "pub_date": "2026-11-11T08:00:00+00:00",
-      "age_hours": 0.9572997308333333,
-      "breaking": true,
-      "time_ago": "57 min ago"
+      "age_hours": 9.00529204,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Frontier Airlines reconfiguring cabins with new first class seating",
       "link": "https://www.9news.com/article/travel/denver-international-airport/frontier-airlines-first-class-legroom-wifi-power-seating/73-30c35221-0e18-428e-8a92-babb6cbe3bcf",
       "source": "9News",
       "pub_date": "2026-11-11T05:22:35+00:00",
-      "age_hours": 3.5805615758333333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Alterra Mountain Co. approved to rent old Denver Post building",
-      "link": "https://kdvr.com/news/local/alterra-mountain-co-approved-to-rent-old-denver-post-building/",
-      "source": "Fox31",
-      "pub_date": "2026-11-11T02:23:37+00:00",
-      "age_hours": 6.563423239722222,
+      "age_hours": 11.628574271388889,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver police share new details after deadly shooting",
       "link": "https://kdvr.com/news/local/denver-police-share-new-details-after-deadly-shooting/",
       "source": "Fox31",
       "pub_date": "2026-11-11T01:13:34+00:00",
-      "age_hours": 7.730923217222222,
+      "age_hours": 15.779051953611113,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver's Frontier Airlines launches first class, more leg room",
       "link": "https://kdvr.com/news/local/denvers-frontier-airlines-launches-first-class-more-leg-room/",
       "source": "Fox31",
       "pub_date": "2026-11-10T23:56:23+00:00",
-      "age_hours": 9.017312002222223,
+      "age_hours": 17.065440700555556,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Colorado think tank worries about competition under Amendment 87\u2019s graduated income tax",
       "link": "https://www.cpr.org/2026/11/10/businesses-react-amendment-87-passes/",
       "source": "CPR",
       "pub_date": "2026-11-10T23:28:32+00:00",
-      "age_hours": 9.481319138611111,
+      "age_hours": 17.529350155,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Fall Out Boy coming to Denver area on tour in 2027",
       "link": "https://kdvr.com/denver-guide/fall-out-boy-coming-to-denver-area-on-tour-in-2027/",
       "source": "Fox31",
       "pub_date": "2026-11-10T23:16:05+00:00",
-      "age_hours": 9.68897875138889,
+      "age_hours": 17.737107475,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Alterra set for a new office (and free parking) near Civic Center",
       "link": "https://denverite.com/2026/11/10/alterra-offices-denver-post-building/",
       "source": "Denverite",
       "pub_date": "2026-11-10T23:08:48+00:00",
-      "age_hours": 9.8101664625,
+      "age_hours": 17.858192146388888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Denver could close the Crossroads shelter in the next year",
       "link": "https://denverite.com/2026/11/10/crossroads-homeless-shelter-future/",
       "source": "Denverite",
       "pub_date": "2026-11-10T22:48:57+00:00",
-      "age_hours": 10.140999836111112,
+      "age_hours": 18.189025523333335,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Quantinuum, Japanese partners seek \u2018quantum-AI hybrid supercomputing\u2019",
       "link": "https://bizwest.com/2026/11/10/quantinuum-japanese-partners-seek-quantum-ai-hybrid-supercomputing/",
       "source": "BizWest",
       "pub_date": "2026-11-10T22:31:21+00:00",
-      "age_hours": 10.43384772138889,
+      "age_hours": 18.481947713333334,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "18 hrs ago"
     },
     {
       "title": "Weiser picks Arndt for rural-targeted Cabinet post",
       "link": "https://bizwest.com/2026/11/10/weiser-picks-arndt-for-rural-targeted-cabinet-post/",
       "source": "BizWest",
       "pub_date": "2026-11-10T22:27:30+00:00",
-      "age_hours": 10.498014720277778,
+      "age_hours": 18.54611441611111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Greeley picks Wisconsin firm to lead MERGE project",
-      "link": "https://bizwest.com/2026/11/10/greeley-picks-wisconsin-firm-to-lead-merge-project/",
-      "source": "BizWest",
-      "pub_date": "2026-11-10T22:22:52+00:00",
-      "age_hours": 10.575236963888889,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Local franchisee opens Westminster Pak Mail location",
-      "link": "https://bizwest.com/2026/11/10/local-franchisee-opens-westminster-pak-mail-location/",
-      "source": "BizWest",
-      "pub_date": "2026-11-10T22:18:47+00:00",
-      "age_hours": 10.643292538055555,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Aurora prep sports schedule, 11.10.26",
-      "link": "https://sentinelcolorado.com/sports/preps/prep-schedule/aurora-prep-sports-schedule-11-10-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-10T21:46:27+00:00",
-      "age_hours": 11.183177139444446,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Amazon releases flying Ring drone camera and robot for indoor surveillance",
-      "link": "https://www.9news.com/article/news/nation-world/ring-drone-camera-rover-robot-patrol-surveillance/507-415754ff-6e0e-4e76-a0fa-091a8c3c34f8",
-      "source": "9News",
-      "pub_date": "2026-11-10T21:29:54+00:00",
-      "age_hours": 11.4586172275,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "CSU Veterinary Hospital\u00a0Celebrates Grand Opening",
-      "link": "https://milehighcre.com/csu-veterinary-hospital-celebrates-grand-opening/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-10T20:53:00+00:00",
-      "age_hours": 12.073324607222222,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Colorado federal judges slam ICE for ignoring court orders linked to arrests, Aurora detention",
-      "link": "https://sentinelcolorado.com/metro/colorado-federal-judges-slam-ice-for-ignoring-court-orders-linked-to-arrests-aurora-detention/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-10T20:20:52+00:00",
-      "age_hours": 12.609566476944444,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Gov.-elect Weiser announces budget director, water policy adviser",
-      "link": "https://www.coloradopolitics.com/2026/11/10/gov-elect-weiser-announces-budget-director-water-policy-adviser/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-10T19:32:17+00:00",
-      "age_hours": 13.419244225,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Urban Villages Co-Founder Named to TIME100 Climate 2026 List",
-      "link": "https://milehighcre.com/urban-villages-co-founder-named-to-time100-climate-2026-list/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-10T18:45:49+00:00",
-      "age_hours": 14.19304684777778,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
-    },
-    {
-      "title": "Construction Complete on 419-Unit Luxury Development in Aurora",
-      "link": "https://milehighcre.com/construction-complete-on-419-unit-luxury-development-in-aurora/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-10T18:32:46+00:00",
-      "age_hours": 14.410546855277778,
-      "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "18 hrs ago"
     }
   ]
 }
