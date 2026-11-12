@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-12",
-  "fetched_at": "2026-11-12 00:10:10",
+  "fetched_at": "2026-11-12 07:59:46",
   "article_count": 20,
-  "breaking_count": 17,
+  "breaking_count": 3,
   "articles": [
     {
-      "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
-      "link": "https://kdvr.com/news/politics/ap-mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/",
-      "source": "Fox31",
-      "pub_date": "2026-11-11T23:56:00+00:00",
-      "age_hours": 0.2315911311111111,
+      "title": "Lung scans save lives: Denver man's early screening underscores dire need for more testing",
+      "link": "https://www.9news.com/article/news/health/lung-scans-save-lives-denver-mans-early-screening-underscores-dire-need-for-more-testing/73-8903685d-0598-4b5e-a8fe-734b6368da73",
+      "source": "9News",
+      "pub_date": "2026-11-12T05:37:32+00:00",
+      "age_hours": 2.3662646033333337,
       "breaking": true,
-      "time_ago": "13 min ago"
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Mississippi elects Democrat Scott Colom as state\u2019s first Black US senator since Reconstruction",
+      "link": "https://sentinelcolorado.com/nation-world/nation/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-12T05:18:59+00:00",
+      "age_hours": 2.676085589722222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver Health and MSU Denver partner to expand EMT training opportunities",
+      "link": "https://kdvr.com/news/local/denver-health-msu-partner-to-expand-emt-training-opportunities/",
+      "source": "Fox31",
+      "pub_date": "2026-11-12T04:30:28+00:00",
+      "age_hours": 3.4842887194444443,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Multiple taken to hospital after crash near 6th Avenue, I-25",
+      "link": "https://kdvr.com/news/local/multiple-taken-to-hospital-after-crash-near-6th-avenue-i-25/",
+      "source": "Fox31",
+      "pub_date": "2026-11-12T01:46:59+00:00",
+      "age_hours": 6.209010866944444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Veterans join Denver artist to refresh 'Love This City' mural on Veterans Day",
+      "link": "https://www.9news.com/article/news/community/veterans-join-denver-artist-to-refresh-mural-veterans-day/73-09965b97-bf03-405c-88c9-16987595a2ae",
+      "source": "9News",
+      "pub_date": "2026-11-12T01:46:41+00:00",
+      "age_hours": 6.213764744722222,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Colorado Speaker-elect Bacon picks Brown, Garcia for budget panel",
+      "link": "https://www.coloradopolitics.com/2026/11/11/colorado-speaker-elect-bacon-picks-brown-garcia-for-budget-panel/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-12T01:40:27+00:00",
+      "age_hours": 6.318271460555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Plan for 200 Megawatt plant, with similar functions to a data center, has first public hearing Thursday",
+      "link": "https://www.cpr.org/2026/11/11/project-vineyard-public-hearing-colorado-springs/",
+      "source": "CPR",
+      "pub_date": "2026-11-12T00:53:30+00:00",
+      "age_hours": 7.100092631111111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Dead cats, squirrels raise concerns about possible poison in Capitol Hill neighborhood",
       "link": "https://kdvr.com/news/local/dead-cats-squirrels-raise-concerns-about-possible-poison-in-capitol-hill-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-11-11T23:49:05+00:00",
-      "age_hours": 0.3468689177777778,
-      "breaking": true,
-      "time_ago": "20 min ago"
+      "age_hours": 8.174010999444445,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Savina\u2019s Mexican Kitchen to open Friday in Loveland",
       "link": "https://bizwest.com/2026/11/11/savinas-mexican-kitchen-to-open-friday-in-loveland/",
       "source": "BizWest",
       "pub_date": "2026-11-11T21:50:21+00:00",
-      "age_hours": 2.324744238055555,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.152121495555557,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Gartrell Road over E-470 will close for bridge beam installation next week",
       "link": "https://sentinelcolorado.com/metro/gartrell-road-over-e-470-will-close-for-bridge-beam-installation-next-week/",
       "source": "Sentinel",
       "pub_date": "2026-11-11T21:20:50+00:00",
-      "age_hours": 2.818069483055556,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
-      "link": "https://sentinelcolorado.com/uncategorized/as-higher-prices-seep-into-broader-economy-fed-officials-consider-faster-hikes/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-11T21:09:38+00:00",
-      "age_hours": 3.004736305833333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.64525229138889,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Historic downtown Longmont building sells, to house coffeehouse",
       "link": "https://bizwest.com/2026/11/11/historic-downtown-longmont-building-sells-to-house-coffeehouse/",
       "source": "BizWest",
       "pub_date": "2026-11-11T21:03:24+00:00",
-      "age_hours": 3.10724473,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.934622479166666,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Larimer, Greeley warn permit, land-use applicants about scams",
       "link": "https://bizwest.com/2026/11/11/larimer-greeley-warn-permit-land-use-applicants-about-scams/",
       "source": "BizWest",
       "pub_date": "2026-11-11T20:56:15+00:00",
-      "age_hours": 3.2264114302777775,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 11.053789209444444,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "When will the first measurable snow fall in Denver?",
       "link": "https://kdvr.com/weather/wx-news/when-will-the-first-measurable-snow-fall-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-11-11T20:55:06+00:00",
-      "age_hours": 3.2465910422222226,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 11.073732993333333,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "New Mom School Opens Two Denver-Area Studios",
       "link": "https://milehighcre.com/new-mom-school-opens-two-denver-area-studios/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-11T20:27:21+00:00",
-      "age_hours": 3.7084248172222223,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 11.535743993055556,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Fort Collins affordable-housing community refinanced for $17.2M",
       "link": "https://bizwest.com/2026/11/11/fort-collins-affordable-housing-community-refinanced-for-17-2m/",
       "source": "BizWest",
       "pub_date": "2026-11-11T20:18:57+00:00",
-      "age_hours": 3.848078126388889,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Denver Salvation Army hosting free community Thanksgiving meals",
-      "link": "https://kdvr.com/news/local/denver-salvation-army-hosting-free-community-thanksgiving-meals/",
-      "source": "Fox31",
-      "pub_date": "2026-11-11T19:21:15+00:00",
-      "age_hours": 4.810757868055555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 11.675455940277779,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Updates eyed for 12-mile Speer, Leetsdale, Parker stretch of road",
       "link": "https://www.9news.com/article/news/community/transportation/updates-speer-leetsdale-parker-stretch-road/73-a9b720d1-d217-400a-b01b-a148a7347db0",
       "source": "9News",
       "pub_date": "2026-11-11T18:51:00+00:00",
-      "age_hours": 5.3146316491666665,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 13.141820475555555,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Private equities trade Boulder Scientific",
       "link": "https://bizwest.com/2026/11/11/private-equities-trade-boulder-scientific/",
       "source": "BizWest",
       "pub_date": "2026-11-11T18:46:44+00:00",
-      "age_hours": 5.385022576666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 13.212400396111112,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Nederland digging budget hole with quest for Eldora",
       "link": "https://bizwest.com/2026/11/11/nederland-digging-budget-hole-with-quest-for-eldora/",
       "source": "BizWest",
       "pub_date": "2026-11-11T18:44:00+00:00",
-      "age_hours": 5.430578137777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 13.257955962777778,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Listen: How a pop-up skating event found its $10M home",
       "link": "https://www.cpr.org/2026/11/11/rainbow-dome-opening-preview/",
       "source": "CPR",
       "pub_date": "2026-11-11T18:39:22+00:00",
-      "age_hours": 5.508433409444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 13.335648285833335,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Boulder Star to be illuminated on Flagstaff Mountain in honor of Veterans Day",
       "link": "https://bizwest.com/2026/11/11/boulder-star-to-be-illuminated-on-flagstaff-mountain-in-honor-of-veterans-day/",
       "source": "BizWest",
       "pub_date": "2026-11-11T18:38:54+00:00",
-      "age_hours": 5.5155781425,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Veterans Day 2026 deals: Big discounts for veterans at Kohl\u2019s, Target and more",
-      "link": "https://www.9news.com/article/news/nation-world/veterans-day-2026-retail-and-grocey-deals/507-6e6f1e94-e276-4665-8eba-7470ea1bb60e",
-      "source": "9News",
-      "pub_date": "2026-11-11T18:10:41+00:00",
-      "age_hours": 5.986576143611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "The Fort Now Home to New Tequila Bar & Whiskey Library",
-      "link": "https://milehighcre.com/the-fort-now-home-to-new-tequila-bar-whiskey-library/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-11T17:32:42+00:00",
-      "age_hours": 6.619258168888889,
+      "age_hours": 13.342955972777778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Victim taken to hospital following overnight shooting in Denver",
-      "link": "https://kdvr.com/news/local/victim-taken-to-hospital-following-overnight-shooting-in-denver/",
-      "source": "Fox31",
-      "pub_date": "2026-11-11T14:44:55+00:00",
-      "age_hours": 9.416313383611111,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Boulder County OKs new data-center regs",
-      "link": "https://bizwest.com/2026/11/11/boulder-county-oks-new-data-center-regs/",
-      "source": "BizWest",
-      "pub_date": "2026-11-11T14:25:17+00:00",
-      "age_hours": 9.742522618055554,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     }
   ]
 }
