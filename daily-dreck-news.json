@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-13",
-  "fetched_at": "2026-11-13 03:13:15",
+  "fetched_at": "2026-11-13 11:55:48",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver banned foie gras. Restaurants are already adapting",
+      "link": "https://denverite.com/2026/11/13/denver-foie-gras-ban-restaurant-changes/",
+      "source": "Denverite",
+      "pub_date": "2026-11-13T11:10:00+00:00",
+      "age_hours": 0.758706081111111,
+      "breaking": true,
+      "time_ago": "45 min ago"
+    },
+    {
+      "title": "In go the coffee grounds, out comes the fertilizer at popular Denver eatery Snooze. Here\u2019s the science behind the \u201cmagic.\u201d",
+      "link": "https://coloradosun.com/2026/11/13/denver-snooze-food-waste-composting-fertilizer-solutions/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-13T11:08:00+00:00",
+      "age_hours": 0.7919550258333333,
+      "breaking": true,
+      "time_ago": "47 min ago"
+    },
+    {
+      "title": "Colfax construction wasn\u2019t fun for business. Can Denver do better next time?",
+      "link": "https://denverite.com/2026/11/13/denver-infrastructure-projects-business-support/",
+      "source": "Denverite",
+      "pub_date": "2026-11-13T11:05:00+00:00",
+      "age_hours": 0.8420394680555556,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
+    {
+      "title": "Democrats flock to Denver for a post-midterms introspection-turned-celebration",
+      "link": "https://kdvr.com/news/politics/ap-democrats-flock-to-denver-for-a-post-midterms-introspection-turned-celebration/",
+      "source": "Fox31",
+      "pub_date": "2026-11-13T04:46:21+00:00",
+      "age_hours": 7.153252311944444,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Aurora announces three finalists for new police and fire accountability position",
+      "link": "https://sentinelcolorado.com/metro/aurora-announces-three-finalists-for-new-police-and-fire-accountability-position/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-13T04:45:11+00:00",
+      "age_hours": 7.172983988055555,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Former Aurora Mayor Bob LeGare announces bid for Ward 6 City Council seat",
+      "link": "https://sentinelcolorado.com/metro/former-aurora-mayor-bob-legare-announces-bid-for-ward-6-city-council-seat/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-13T03:52:37+00:00",
+      "age_hours": 8.049095346388889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
     {
       "title": "Medicaid will consume all Amendment 87 funds by 2030, Polis tells JBC",
       "link": "https://www.coloradopolitics.com/2026/11/12/medicaid-will-consume-all-amendment-87-funds-by-2030-polis-tells-jbc/",
       "source": "CO Politics",
-      "pub_date": "2026-11-13T02:33:48+00:00",
-      "age_hours": 0.653038553888889,
-      "breaking": true,
-      "time_ago": "39 min ago"
+      "pub_date": "2026-11-13T03:20:28+00:00",
+      "age_hours": 8.584889413333334,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Body-cam video shows Denver police trying to question a driverless Waymo after chain-reaction crash",
       "link": "https://www.9news.com/article/news/investigations/driverless-waymo-chain-reaction-crash/73-614350ee-4984-4676-80e3-1d0feb3bada5",
       "source": "9News",
       "pub_date": "2026-11-13T02:26:10+00:00",
-      "age_hours": 0.7794470269444445,
-      "breaking": true,
-      "time_ago": "46 min ago"
+      "age_hours": 9.489354428055556,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Proposed Denver law requires large construction projects to set aside money for impacted businesses",
       "link": "https://www.9news.com/article/money/business/proposed-denver-law-construction-projects-money-impacted-businesses/73-f9a46861-3a85-4b2e-b71b-625c3caf13bf",
       "source": "9News",
       "pub_date": "2026-11-13T02:20:40+00:00",
-      "age_hours": 0.8711137222222222,
-      "breaking": true,
-      "time_ago": "52 min ago"
-    },
-    {
-      "title": "Democrats flock to Denver for a post-midterms introspection-turned-celebration",
-      "link": "https://kdvr.com/news/politics/ap-democrats-flock-to-denver-for-a-post-midterms-introspection-turned-celebration/",
-      "source": "Fox31",
-      "pub_date": "2026-11-13T01:14:46+00:00",
-      "age_hours": 1.9698751397222223,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 9.581021158055556,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver makes its case for 2028 DNC as national Democrats gather in the city",
       "link": "https://kdvr.com/news/local/denver-makes-its-case-for-2028-dnc-as-national-democrats-gather-in-the-city/",
       "source": "Fox31",
       "pub_date": "2026-11-13T00:21:53+00:00",
-      "age_hours": 2.851263930555555,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 11.561029921944444,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "New Sundance exec to \u2018spearhead\u2019 fundraising for Boulder debut",
       "link": "https://bizwest.com/2026/11/12/new-sundance-exec-to-spearhead-fundraising-for-boulder-debut/",
       "source": "BizWest",
       "pub_date": "2026-11-12T21:31:58+00:00",
-      "age_hours": 5.682101457222222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 14.392075306111112,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Charlotte\u2019s Web spins lowest loss since 2019",
       "link": "https://bizwest.com/2026/11/12/charlottes-web-spins-lowest-loss-since-2019/",
       "source": "BizWest",
       "pub_date": "2026-11-12T21:28:40+00:00",
-      "age_hours": 5.737101470277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 14.447075324999998,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Colfax group gets $2.8M grant to switch Aurora luxury home project into affordable housing",
       "link": "https://sentinelcolorado.com/metro/colfax-group-gets-2-8m-grant-to-switch-aurora-luxury-home-project-into-affordable-housing/",
       "source": "Sentinel",
       "pub_date": "2026-11-12T21:16:37+00:00",
-      "age_hours": 5.939505871944445,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 14.649095717222222,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Mile High Transactions Report Week Ending 11.13.26",
       "link": "https://milehighcre.com/mile-high-transactions-report-week-ending-11-13-26/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-12T20:51:01+00:00",
-      "age_hours": 6.364927686666666,
+      "age_hours": 15.074915473055555,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Fallen Lakewood police officer Nick Graham remembered as kind, brave and more than the badge",
       "link": "https://coloradosun.com/2026/11/12/lakewood-police-officer-funeral-nick-graham-rtd-shooting/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-12T20:33:51+00:00",
-      "age_hours": 6.651159305555556,
+      "age_hours": 15.361122274166666,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Who is Colette Kress, Nvidia\u2019s interim CEO? Longtime exec takes top spot after Jensen Huang resigns",
       "link": "https://sentinelcolorado.com/uncategorized/who-is-colette-kress-nvidias-interim-ceo-longtime-exec-takes-top-spot-after-jensen-huang-resigns/",
       "source": "Sentinel",
       "pub_date": "2026-11-12T20:22:50+00:00",
-      "age_hours": 6.835894948611111,
+      "age_hours": 15.545484917777777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Longmont Montessori School Opens its Forever Home",
       "link": "https://milehighcre.com/longmont-montessori-school-opens-its-forever-home/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-12T19:57:24+00:00",
-      "age_hours": 7.258538813055556,
+      "age_hours": 15.9685266,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "The Bascom Group Completes $62.5M Refinancing of Viceroy Observatory Park",
       "link": "https://milehighcre.com/the-bascom-group-completes-62-5m-refinancing-of-viceroy-observatory-park/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-12T19:35:56+00:00",
-      "age_hours": 7.616316747777778,
+      "age_hours": 16.326304659166667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "The hidden tool Colorado business owners didn't know they needed",
       "link": "https://kdvr.com/news/local/the-hidden-tool-colorado-business-owners-didnt-know-they-needed/",
       "source": "Fox31",
       "pub_date": "2026-11-12T18:54:01+00:00",
-      "age_hours": 8.315708520000001,
+      "age_hours": 17.025474632222224,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Alliance Residential Acquires Former Southglenn Macy\u2019s",
       "link": "https://milehighcre.com/alliance-residential-acquires-former-southglenn-macys/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-12T18:38:25+00:00",
-      "age_hours": 8.574927864166668,
+      "age_hours": 17.284915779166667,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Rockefeller Group Sells Golden Triangle Apartment High-Rise For Nearly $91M",
-      "link": "https://www.bisnow.com/news/denver/multifamily/golden-triangle-apartment-high-rise-sells-for-nearly-91m",
-      "source": "Bisnow",
-      "pub_date": "2026-11-12T17:51:41-05:00",
-      "age_hours": 4.353609096388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "What to do in Colorado this week: A photographer showdown in Durango",
-      "link": "https://coloradosun.com/2026/11/12/what-to-do-in-colorado-this-week-durango-photographers/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-12T15:00:00+00:00",
-      "age_hours": 12.2153263075,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Denver Water customers save 1.57 billion gallons in October amid unusual watering restrictions",
-      "link": "https://kdvr.com/news/local/denver-water-customers-save-1-57-billion-gallons-in-october-amid-unusual-watering-restrictions/",
-      "source": "Fox31",
-      "pub_date": "2026-11-12T14:30:44+00:00",
-      "age_hours": 12.703764080277779,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Weed-It USA opens U.S. headquarters in Wellington",
-      "link": "https://bizwest.com/2026/11/12/weed-it-usa-opens-u-s-headquarters-in-wellington/",
-      "source": "BizWest",
-      "pub_date": "2026-11-12T14:12:08+00:00",
-      "age_hours": 13.012657341666666,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Winner at Berthoud\u2019s TPC Colorado named Korn Ferry\u2019s best",
-      "link": "https://bizwest.com/2026/11/12/winner-at-berthouds-tpc-colorado-named-korn-ferrys-best/",
-      "source": "BizWest",
-      "pub_date": "2026-11-12T14:02:31+00:00",
-      "age_hours": 13.17293512472222,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
