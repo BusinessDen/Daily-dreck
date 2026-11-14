@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-11-13",
-  "fetched_at": "2026-11-13 19:21:07",
+  "fetched_date": "2026-11-14",
+  "fetched_at": "2026-11-14 00:43:51",
   "article_count": 20,
-  "breaking_count": 10,
+  "breaking_count": 19,
   "articles": [
+    {
+      "title": "Hundreds of flights delayed, canceled at Denver airport due to nationwide ground stop",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-flight-delay-cancel-faa-nationwide-ground-stop/73-e4b79d0e-a253-4da4-9650-fedb79876b51",
+      "source": "9News",
+      "pub_date": "2026-11-14T00:08:52+00:00",
+      "age_hours": 0.5786486008333334,
+      "breaking": true,
+      "time_ago": "34 min ago"
+    },
+    {
+      "title": "Medical examiner rules Denver man\u2019s death a homicide after police encounter",
+      "link": "https://kdvr.com/news/local/medical-examiner-rules-denver-mans-death-a-homicide-after-police-encounter/",
+      "source": "Fox31",
+      "pub_date": "2026-11-13T22:24:15+00:00",
+      "age_hours": 2.3224119416666666,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "How many flights out of Denver have been impacted by nationwide FAA ground stop?",
+      "link": "https://kdvr.com/news/local/how-many-flights-out-of-denver-have-been-impacted-by-nationwide-faa-ground-stop/",
+      "source": "Fox31",
+      "pub_date": "2026-11-13T22:00:17+00:00",
+      "age_hours": 2.7218562569444447,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Rep. Lauren Boebert loses 4th CD House seat to Democrat Eileen Laubacher",
+      "link": "https://sentinelcolorado.com/metro/rep-lauren-boebert-loses-4th-cd-house-seat-to-democrat-eileen-laubacher/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-13T21:58:32+00:00",
+      "age_hours": 2.75125131,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Greeley holds out hope despite ending Catalyst pact",
+      "link": "https://bizwest.com/2026/11/13/greeley-holds-out-hope-despite-ending-catalyst-pact/",
+      "source": "BizWest",
+      "pub_date": "2026-11-13T21:49:22+00:00",
+      "age_hours": 2.9031297866666668,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "FAA grounds all US flights due to \u2018extraordinary circumstances\u2019",
+      "link": "https://www.coloradopolitics.com/2026/11/13/faa-grounds-us-flights/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-13T21:48:43+00:00",
+      "age_hours": 2.914837201388889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Pearl Arts District wins zoning change needed for venue-centered vision",
+      "link": "https://bizwest.com/2026/11/13/pearl-arts-district-wins-zoning-change-needed-for-venue-centered-vision/",
+      "source": "BizWest",
+      "pub_date": "2026-11-13T21:35:54+00:00",
+      "age_hours": 3.127574625555556,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Hundreds of Denver flights delayed amid national ground stop",
+      "link": "https://www.cpr.org/2026/11/13/flights-ground-stop-faa-dia/",
+      "source": "CPR",
+      "pub_date": "2026-11-13T21:30:17+00:00",
+      "age_hours": 3.22164484,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Flights halted at airports across US due to air traffic control communications problems",
+      "link": "https://coloradosun.com/2026/11/13/faa-halts-flights-across-us/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-13T21:28:06+00:00",
+      "age_hours": 3.257931471388889,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "AdventHealth\u2019s Broomfield plan hits speedbump over roadway infrastructure",
+      "link": "https://bizwest.com/2026/11/13/adventhealths-broomfield-plan-hits-speedbump-over-roadway-infrastructure/",
+      "source": "BizWest",
+      "pub_date": "2026-11-13T21:19:49+00:00",
+      "age_hours": 3.395630207777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Amendment 87 could stop Medicaid cuts or launch new programs. It can\u2019t do both.",
+      "link": "https://coloradosun.com/2026/11/13/amendment-87-medicaid-cuts-polis-state-budget/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-13T21:11:25+00:00",
+      "age_hours": 3.535987578333333,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Father-son equipment rental business opens in Eaton",
+      "link": "https://bizwest.com/2026/11/13/father-son-equipment-rental-business-opens-in-eaton/",
+      "source": "BizWest",
+      "pub_date": "2026-11-13T21:11:16+00:00",
+      "age_hours": 3.5381302352777775,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Noodles cuts losses on lower revenue",
+      "link": "https://bizwest.com/2026/11/13/noodles-cuts-losses-on-lower-revenue/",
+      "source": "BizWest",
+      "pub_date": "2026-11-13T21:05:55+00:00",
+      "age_hours": 3.627296925,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Laird Superfood acquisitions boosted third-quarter revenue",
+      "link": "https://bizwest.com/2026/11/13/laird-superfood-acquisitions-boosted-third-quarter-revenue/",
+      "source": "BizWest",
+      "pub_date": "2026-11-13T21:03:54+00:00",
+      "age_hours": 3.6609080408333337,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Erickson named chief growth officer at High Country Bank",
+      "link": "https://bizwest.com/2026/11/13/erickson-named-chief-growth-officer-at-high-country-bank/",
+      "source": "BizWest",
+      "pub_date": "2026-11-13T20:59:52+00:00",
+      "age_hours": 3.7281302669444445,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Weld County companies shine at Coolest Thing event",
+      "link": "https://bizwest.com/2026/11/13/weld-county-companies-shine-at-coolest-thing-event/",
+      "source": "BizWest",
+      "pub_date": "2026-11-13T20:55:45+00:00",
+      "age_hours": 3.7967413997222224,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Colorado reaches settlements with Family Dollar, financing company",
+      "link": "https://www.coloradopolitics.com/2026/11/13/state-reaches-settlements-with-family-dollar-financing-company/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-13T20:28:36+00:00",
+      "age_hours": 4.2501150602777775,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "\u2018No money left\u2019: Colorado faces $1.6 billion budget deficit",
+      "link": "https://www.coloradopolitics.com/2026/11/13/no-money-left-colorado-faces-1-6-billion-budget-deficit/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-13T19:35:12+00:00",
+      "age_hours": 5.140115080555556,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
     {
       "title": "Barry Morphew pleads guilty in Denver hit-and-run case",
       "link": "https://www.9news.com/article/news/crime/barry-morphew-guilty-plea-denver-hit-and-run/73-5c87bbde-6494-40e0-8e44-0e91ab021355",
       "source": "9News",
       "pub_date": "2026-11-13T18:58:03+00:00",
-      "age_hours": 0.38059491777777776,
+      "age_hours": 5.758926472222223,
       "breaking": true,
-      "time_ago": "22 min ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Sen. Scott calls on Lutnick and Huang to testify on national security",
       "link": "https://www.coloradopolitics.com/2026/11/13/sen-scott-calls-on-lutnick-and-huang-to-testify-on-national-security/",
       "source": "CO Politics",
       "pub_date": "2026-11-13T17:42:34+00:00",
-      "age_hours": 1.6391069488888887,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
-    },
-    {
-      "title": "Arvada announces lineup of holiday events, markets and festivities",
-      "link": "https://kdvr.com/denver-guide/arvada-announces-lineup-of-holiday-events-markets-and-festivities/",
-      "source": "Fox31",
-      "pub_date": "2026-11-13T17:17:49+00:00",
-      "age_hours": 2.051253253611111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Democrats flock to Denver for a post-midterms introspection-turned-celebration",
-      "link": "https://coloradosun.com/2026/11/13/democrats-denver-whats-next-after-midterms-james-talarico/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-13T16:49:28+00:00",
-      "age_hours": 2.523422311111111,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "MSU identifies pedestrian killed in crosswalk crash as freshman student",
-      "link": "https://kdvr.com/news/local/msu-identifies-pedestrian-killed-in-crosswalk-as-freshman-student/",
-      "source": "Fox31",
-      "pub_date": "2026-11-13T15:01:30+00:00",
-      "age_hours": 4.323197626944444,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Movers and Shakers Week Ending 11.13.26",
-      "link": "https://milehighcre.com/movers-and-shakers-week-ending-11-13-26/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-13T14:21:08+00:00",
-      "age_hours": 4.995555314722223,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Aurora convict among 27 people pardoned by Gov. Jared Polis this week",
-      "link": "https://sentinelcolorado.com/metro/aurora-convict-among-27-people-pardoned-by-gov-jared-polis-this-week/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-13T14:20:05+00:00",
-      "age_hours": 5.013854216944444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "\u2018No money left\u2019: Colorado faces $1.6 billion budget deficit",
-      "link": "https://www.coloradopolitics.com/2026/11/13/no-money-left-colorado-faces-1-6-billion-budget-deficit/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-13T13:34:52+00:00",
-      "age_hours": 5.767440343611111,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Ursa Major secures $10.9M through Air Force contract",
-      "link": "https://bizwest.com/2026/11/13/ursa-major-secures-10-9m-through-air-force-contract/",
-      "source": "BizWest",
-      "pub_date": "2026-11-13T13:21:30+00:00",
-      "age_hours": 5.989112461666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "EverMetal acquires U.K. metals-recycling company",
-      "link": "https://bizwest.com/2026/11/13/evermetal-acquires-u-k-metals-recycling-company/",
-      "source": "BizWest",
-      "pub_date": "2026-11-13T13:05:02+00:00",
-      "age_hours": 6.263556918333333,
+      "age_hours": 7.017337316111111,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Denver banned foie gras. Restaurants are already adapting",
-      "link": "https://denverite.com/2026/11/13/denver-foie-gras-ban-restaurant-changes/",
-      "source": "Denverite",
-      "pub_date": "2026-11-13T11:10:00+00:00",
-      "age_hours": 8.181288832222222,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "In go the coffee grounds, out comes the fertilizer at popular Denver eatery Snooze. Here\u2019s the science behind the \u201cmagic.\u201d",
-      "link": "https://coloradosun.com/2026/11/13/denver-snooze-food-waste-composting-fertilizer-solutions/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-13T11:08:00+00:00",
-      "age_hours": 8.214533730555555,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Colfax construction wasn\u2019t fun for business. Can Denver do better next time?",
-      "link": "https://denverite.com/2026/11/13/denver-infrastructure-projects-business-support/",
-      "source": "Denverite",
-      "pub_date": "2026-11-13T11:05:00+00:00",
-      "age_hours": 8.264622192777777,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Chef and wine shop owner team up for new West Highland restaurant",
-      "link": "https://www.westword.com/food-drink/west-highland-restaurant-denver-opening-40961622/",
-      "source": "Westword",
-      "pub_date": "2026-11-13T07:00:00-07:00",
-      "age_hours": 5.348399087777778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Medicaid will consume all Amendment 87 funds by 2030, Polis tells JBC",
-      "link": "https://www.coloradopolitics.com/2026/11/12/medicaid-will-consume-all-amendment-87-funds-by-2030-polis-tells-jbc/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-13T03:20:28+00:00",
-      "age_hours": 16.007440347777777,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Body-cam video shows Denver police trying to question a driverless Waymo after chain-reaction crash",
-      "link": "https://www.9news.com/article/news/investigations/driverless-waymo-chain-reaction-crash/73-614350ee-4984-4676-80e3-1d0feb3bada5",
-      "source": "9News",
-      "pub_date": "2026-11-13T02:26:10+00:00",
-      "age_hours": 16.911983886944444,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Proposed Denver law requires large construction projects to set aside money for impacted businesses",
-      "link": "https://www.9news.com/article/money/business/proposed-denver-law-construction-projects-money-impacted-businesses/73-f9a46861-3a85-4b2e-b71b-625c3caf13bf",
-      "source": "9News",
-      "pub_date": "2026-11-13T02:20:40+00:00",
-      "age_hours": 17.00365058638889,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Village of tiny homes for teachers breaks ground in Colorado Springs",
-      "link": "https://www.coloradopolitics.com/2026/11/12/village-of-tiny-homes-for-teachers-breaks-ground-in-colorado-springs/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-13T01:04:20+00:00",
-      "age_hours": 18.2763292425,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Denver makes its case for 2028 DNC as national Democrats gather in the city",
-      "link": "https://kdvr.com/news/local/denver-makes-its-case-for-2028-dnc-as-national-democrats-gather-in-the-city/",
-      "source": "Fox31",
-      "pub_date": "2026-11-13T00:21:53+00:00",
-      "age_hours": 18.983475518888888,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "New Sundance exec to \u2018spearhead\u2019 fundraising for Boulder debut",
-      "link": "https://bizwest.com/2026/11/12/new-sundance-exec-to-spearhead-fundraising-for-boulder-debut/",
-      "source": "BizWest",
-      "pub_date": "2026-11-12T21:31:58+00:00",
-      "age_hours": 21.814668329722224,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "7 hrs ago"
     }
   ]
 }
