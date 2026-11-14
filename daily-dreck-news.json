@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-14",
-  "fetched_at": "2026-11-14 07:25:52",
+  "fetched_at": "2026-11-14 14:50:29",
   "article_count": 20,
-  "breaking_count": 7,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Flight delays and cancellations continue at Denver airport Saturday after nationwide ground stop",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-flight-delay-cancel-faa-nationwide-ground-stop/73-e4b79d0e-a253-4da4-9650-fedb79876b51",
+      "source": "9News",
+      "pub_date": "2026-11-14T13:38:19+00:00",
+      "age_hours": 1.1982734325000002,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Democrats try out a strange new emotion at What\u2019s Next conference in Denver \u2014 hope",
+      "link": "https://sentinelcolorado.com/metro/democrats-try-out-a-strange-new-emotion-at-whats-next-denver-conference-hope/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-14T13:31:27+00:00",
+      "age_hours": 1.3134715188888888,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Airlines work to recover after nationwide ground stop cancels more than 2,000 flights",
+      "link": "https://sentinelcolorado.com/nation-world/nation/airlines-work-to-recover-after-nationwide-ground-stop-cancels-more-than-2000-flights/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-14T13:20:32+00:00",
+      "age_hours": 1.495416217777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Some welcome good news in the aftermath | SONDERMANN",
+      "link": "https://www.coloradopolitics.com/2026/11/14/some-welcome-good-news-in-the-aftermath-sondermann/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-14T12:00:00+00:00",
+      "age_hours": 2.837606112222222,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "What\u2019s Working: What happens when AI bots take over landscaping? An Aspen company finds out",
+      "link": "https://coloradosun.com/2026/11/14/ai-bots-landscaping-work-aspen-small-business-artificial-intelligence/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-14T11:00:00+00:00",
+      "age_hours": 3.836688902777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Every opening and closing this week: Cherry Creek gets more sushi",
+      "link": "https://www.westword.com/food-drink/denver-restaurant-openings-cherry-creek-sushi-40961830/",
+      "source": "Westword",
+      "pub_date": "2026-11-14T07:00:00-07:00",
+      "age_hours": 0.837417415,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
     {
       "title": "FAA lifts nationwide ground stop; outdated systems blamed for flight chaos",
       "link": "https://www.9news.com/article/travel/nationwide-ground-stop-lifted-resounding-warnings-of-long-lasting-issues/73-eecc11ef-db41-422a-96fa-0af8ae316eb7",
       "source": "9News",
       "pub_date": "2026-11-14T06:31:53+00:00",
-      "age_hours": 0.8955699747222222,
-      "breaking": true,
-      "time_ago": "53 min ago"
+      "age_hours": 8.305495711111112,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Passengers react as flights out of Denver International hang in limbo",
       "link": "https://kdvr.com/news/local/passengers-react-as-flights-out-of-denver-international-hang-in-limbo/",
       "source": "Fox31",
       "pub_date": "2026-11-14T04:53:54+00:00",
-      "age_hours": 2.528919637777778,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "More than a thousand flights delayed or canceled at Denver airport due to nationwide ground stop",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-flight-delay-cancel-faa-nationwide-ground-stop/73-e4b79d0e-a253-4da4-9650-fedb79876b51",
-      "source": "9News",
-      "pub_date": "2026-11-14T04:46:17+00:00",
-      "age_hours": 2.6555700269444444,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 9.938868854444445,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Travelers stranded at Denver airport wait out nationwide ground stop, many rebook or cancel trip",
       "link": "https://www.9news.com/article/travel/denver-international-airport/dia-travelers-stranded-nationwide-ground-stop/73-d407a4f4-4338-4217-acb7-60e679b48f4c",
       "source": "9News",
       "pub_date": "2026-11-14T04:40:27+00:00",
-      "age_hours": 2.752792280277778,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.162717972777777,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Denver hosts Democrats from across the country while city pitches for 2028 DNC",
       "link": "https://www.9news.com/article/news/local/local-politics/denver-hosts-democrats-while-city-pitches-for-2028-dnc/73-9f1a1648-db9f-4030-9222-f0c7dc95c617",
       "source": "9News",
       "pub_date": "2026-11-14T03:47:41+00:00",
-      "age_hours": 3.6322367641666666,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 11.042162457222222,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Video: What the radar looked like at Denver International Airport during FAA ground stop",
       "link": "https://kdvr.com/news/local/video-what-the-radar-looked-like-at-denver-international-airport-during-faa-ground-stop/",
       "source": "Fox31",
       "pub_date": "2026-11-14T02:27:32+00:00",
-      "age_hours": 4.968364065833334,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 12.378313276388889,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Ground stop lifted, but canceled flights leave DEN travelers seeking refunds, alternatives",
       "link": "https://kdvr.com/news/local/ground-stop-lifted-but-canceled-flights-leave-den-travelers-seeking-refunds-alternatives/",
       "source": "Fox31",
       "pub_date": "2026-11-14T01:42:53+00:00",
-      "age_hours": 5.712530776666667,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 13.122480002222224,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Medical examiner rules Denver man\u2019s death a homicide after police encounter",
       "link": "https://kdvr.com/news/local/medical-examiner-rules-denver-mans-death-a-homicide-after-police-encounter/",
       "source": "Fox31",
       "pub_date": "2026-11-13T22:24:15+00:00",
-      "age_hours": 9.023086401944443,
+      "age_hours": 16.4330356625,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "How many flights out of Denver were impacted by nationwide FAA ground stop?",
       "link": "https://kdvr.com/news/local/how-many-flights-out-of-denver-have-been-impacted-by-nationwide-faa-ground-stop/",
       "source": "Fox31",
       "pub_date": "2026-11-13T22:00:17+00:00",
-      "age_hours": 9.422530693611112,
+      "age_hours": 16.832479899444444,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Rep. Lauren Boebert loses 4th CD House seat to Democrat Eileen Laubacher",
       "link": "https://sentinelcolorado.com/metro/rep-lauren-boebert-loses-4th-cd-house-seat-to-democrat-eileen-laubacher/",
       "source": "Sentinel",
       "pub_date": "2026-11-13T21:58:32+00:00",
-      "age_hours": 9.451981861944445,
+      "age_hours": 16.862083134444443,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Greeley holds out hope despite ending Catalyst pact",
       "link": "https://bizwest.com/2026/11/13/greeley-holds-out-hope-despite-ending-catalyst-pact/",
       "source": "BizWest",
       "pub_date": "2026-11-13T21:49:22+00:00",
-      "age_hours": 9.603465793055555,
+      "age_hours": 17.01350043861111,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "FAA grounds all US flights due to \u2018extraordinary circumstances\u2019",
       "link": "https://www.coloradopolitics.com/2026/11/13/faa-grounds-us-flights/",
       "source": "CO Politics",
       "pub_date": "2026-11-13T21:48:43+00:00",
-      "age_hours": 9.615522030277779,
+      "age_hours": 17.025661781944443,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Pearl Arts District wins zoning change needed for venue-centered vision",
       "link": "https://bizwest.com/2026/11/13/pearl-arts-district-wins-zoning-change-needed-for-venue-centered-vision/",
       "source": "BizWest",
       "pub_date": "2026-11-13T21:35:54+00:00",
-      "age_hours": 9.827910586944444,
+      "age_hours": 17.237945303055554,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "UPDATE: National ground stop lifted after more than 4 hours and hundreds of flight delays, cancellations",
       "link": "https://www.cpr.org/2026/11/13/flights-ground-stop-faa-dia/",
       "source": "CPR",
       "pub_date": "2026-11-13T21:30:17+00:00",
-      "age_hours": 9.922189604722222,
+      "age_hours": 17.332092635833334,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "Federal Aviation Administration says airplane departures can resume following nationwide ground stop",
       "link": "https://coloradosun.com/2026/11/13/faa-halts-flights-across-us/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-13T21:28:06+00:00",
-      "age_hours": 9.958433003888889,
+      "age_hours": 17.368355634444445,
       "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "AdventHealth\u2019s Broomfield plan hits speedbump over roadway infrastructure",
-      "link": "https://bizwest.com/2026/11/13/adventhealths-broomfield-plan-hits-speedbump-over-roadway-infrastructure/",
-      "source": "BizWest",
-      "pub_date": "2026-11-13T21:19:49+00:00",
-      "age_hours": 10.09596617,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Amendment 87 could stop Medicaid cuts or launch new programs. It can\u2019t do both.",
-      "link": "https://coloradosun.com/2026/11/13/amendment-87-medicaid-cuts-polis-state-budget/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-13T21:11:25+00:00",
-      "age_hours": 10.236488898055555,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Father-son equipment rental business opens in Eaton",
-      "link": "https://bizwest.com/2026/11/13/father-son-equipment-rental-business-opens-in-eaton/",
-      "source": "BizWest",
-      "pub_date": "2026-11-13T21:11:16+00:00",
-      "age_hours": 10.238466192777778,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Noodles cuts losses on lower revenue",
-      "link": "https://bizwest.com/2026/11/13/noodles-cuts-losses-on-lower-revenue/",
-      "source": "BizWest",
-      "pub_date": "2026-11-13T21:05:55+00:00",
-      "age_hours": 10.327632877777779,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Laird Superfood acquisitions boosted third-quarter revenue",
-      "link": "https://bizwest.com/2026/11/13/laird-superfood-acquisitions-boosted-third-quarter-revenue/",
-      "source": "BizWest",
-      "pub_date": "2026-11-13T21:03:54+00:00",
-      "age_hours": 10.361243993055556,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
