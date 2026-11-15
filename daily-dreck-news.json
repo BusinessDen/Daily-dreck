@@ -1,123 +1,132 @@
 {
   "fetched_date": "2026-11-15",
-  "fetched_at": "2026-11-15 19:36:17",
+  "fetched_at": "2026-11-15 23:49:01",
   "article_count": 20,
   "breaking_count": 3,
   "articles": [
+    {
+      "title": "New CU fundraising effort focused on women\u2019s, Olympic sports",
+      "link": "https://bizwest.com/2026/11/15/new-cu-fundraising-effort-focused-on-womens-olympic-sports/",
+      "source": "BizWest",
+      "pub_date": "2026-11-15T22:28:00+00:00",
+      "age_hours": 1.345395478611111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "Woman wounded in Aurora condo parking lot shooting during possible failed carjacking",
       "link": "https://sentinelcolorado.com/metro/woman-wounded-in-aurora-condo-parking-lot-shooting-during-possible-failed-carjacking/",
       "source": "Sentinel",
       "pub_date": "2026-11-15T18:51:01+00:00",
-      "age_hours": 0.7509384933333334,
+      "age_hours": 4.9628850036111105,
       "breaking": true,
-      "time_ago": "45 min ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Denver weather: Gorgeous finish to the weekend ahead of mild, dry week",
       "link": "https://kdvr.com/news/denver-weather-gorgeous-finish-to-the-weekend-ahead-of-mild-dry-week/",
       "source": "Fox31",
       "pub_date": "2026-11-15T17:52:26+00:00",
-      "age_hours": 1.7270925891666666,
+      "age_hours": 5.9390764675000005,
       "breaking": true,
-      "time_ago": "1 hrs ago"
+      "time_ago": "5 hrs ago"
     },
     {
       "title": "Musicians to rock the Boulder Theater in support of The Merc",
       "link": "https://bizwest.com/2026/11/15/musicians-to-rock-the-boulder-theater-in-support-of-the-merc/",
       "source": "BizWest",
       "pub_date": "2026-11-15T16:14:46+00:00",
-      "age_hours": 3.353940166666667,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 7.565951841666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Facing devastating dry-up, Lower Arkansas farmers hope striking visuals can help tell their stories",
       "link": "https://coloradosun.com/2026/11/15/lower-arkansas-river-colorado-farmers-water-wars-economics/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-15T10:07:00+00:00",
-      "age_hours": 9.483808868888888,
+      "age_hours": 13.695770728888888,
       "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Federal Boulevard will vastly improve with a BRT, but take notes from Colfax",
       "link": "https://www.westword.com/opinion/brt-will-improve-federal-blvd-take-notes-from-colfax-40960491/",
       "source": "Westword",
       "pub_date": "2026-11-15T06:30:00-07:00",
-      "age_hours": 6.101113294444445,
+      "age_hours": 10.313000655277778,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Travelers moving through Denver Int\u2019l Airport facing delays, baggage mess one day after nationwide ground stop",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-intl-airport-delays-baggage-mess-day-after-nationwide-ground-stop/73-8e33c405-5bc2-4adc-887f-ddf5558b03f6",
       "source": "9News",
       "pub_date": "2026-11-15T06:06:52+00:00",
-      "age_hours": 13.486245791388889,
+      "age_hours": 17.698242643333334,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "17 hrs ago"
     },
     {
       "title": "US air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says",
       "link": "https://sentinelcolorado.com/nation-world/nation/airlines-work-to-recover-after-nationwide-ground-stop-cancels-more-than-2000-flights/",
       "source": "Sentinel",
       "pub_date": "2026-11-15T03:58:14+00:00",
-      "age_hours": 15.630660897777778,
+      "age_hours": 19.842607462777778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Colorado woman among 27 pardoned by Gov. Polis shares what second chance means for her",
       "link": "https://www.9news.com/article/news/local/colorado-woman-among-27-pardoned-by-gov-polis-shares-what-second-chance-means-for-her/73-e1a36b8a-a7de-4baf-becd-04d70fd3fa94",
       "source": "9News",
       "pub_date": "2026-11-15T02:18:47+00:00",
-      "age_hours": 17.287634741944444,
+      "age_hours": 21.49963160472222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Denver airport travelers rebook, rent cars and wait out delays after ground stop",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-travelers-rebook-rent-cars-and-wait-out-delays-after-ground-stop/73-fa37866b-6751-42fc-a342-78dd319c1018",
       "source": "9News",
       "pub_date": "2026-11-15T01:21:28+00:00",
-      "age_hours": 18.242912565555553,
+      "age_hours": 22.454909451111114,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Ground stop impacts seep into weekend travel plans at Denver International",
       "link": "https://kdvr.com/news/local/ground-stop-impacts-seep-into-weekend-travel-plans-at-denver-international/",
       "source": "Fox31",
       "pub_date": "2026-11-15T00:35:15+00:00",
-      "age_hours": 19.01348155277778,
+      "age_hours": 23.225465449999998,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Workday restores service after outage disrupted HR platform for thousands of organizations",
       "link": "https://www.9news.com/article/news/nation-world/workday-restores-service-after-outage/507-57fa2abd-b7f8-4f6b-b3c2-64d7f4adb1d6",
       "source": "9News",
       "pub_date": "2026-11-14T20:16:45+00:00",
-      "age_hours": 23.32152371333333,
+      "age_hours": 27.533520611111108,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Flight delays and cancellations continue at Denver airport Saturday after nationwide ground stop",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-flight-delay-cancel-faa-nationwide-ground-stop/73-e4b79d0e-a253-4da4-9650-fedb79876b51",
       "source": "9News",
       "pub_date": "2026-11-14T19:57:43+00:00",
-      "age_hours": 23.63874596888889,
+      "age_hours": 27.850742870833333,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Police: Pedestrian in Aurora crossing outside of crosswalk on East Colfax fatally hit by car",
       "link": "https://sentinelcolorado.com/metro/police-pedestrian-in-aurora-crossing-outside-of-crosswalk-on-east-colfax-fatally-hit-by-car/",
       "source": "Sentinel",
       "pub_date": "2026-11-14T17:02:08+00:00",
-      "age_hours": 26.56566109527778,
+      "age_hours": 30.777607721666666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +135,7 @@
       "link": "https://sentinelcolorado.com/metro/democrats-try-out-a-strange-new-emotion-at-whats-next-denver-conference-hope/",
       "source": "Sentinel",
       "pub_date": "2026-11-14T13:31:27+00:00",
-      "age_hours": 30.077050080555555,
+      "age_hours": 34.28899673111111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://www.coloradopolitics.com/2026/11/14/some-welcome-good-news-in-the-aftermath-sondermann/",
       "source": "CO Politics",
       "pub_date": "2026-11-14T12:00:00+00:00",
-      "age_hours": 31.60118103222222,
+      "age_hours": 35.81313218305556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://coloradosun.com/2026/11/14/ai-bots-landscaping-work-aspen-small-business-artificial-intelligence/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-14T11:00:00+00:00",
-      "age_hours": 32.6004760725,
+      "age_hours": 36.81243806055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://www.westword.com/food-drink/denver-restaurant-openings-cherry-creek-sushi-40961830/",
       "source": "Westword",
       "pub_date": "2026-11-14T07:00:00-07:00",
-      "age_hours": 29.601113308888888,
+      "age_hours": 33.813000673055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://www.9news.com/article/travel/nationwide-ground-stop-lifted-resounding-warnings-of-long-lasting-issues/73-eecc11ef-db41-422a-96fa-0af8ae316eb7",
       "source": "9News",
       "pub_date": "2026-11-14T06:31:53+00:00",
-      "age_hours": 37.06930157,
+      "age_hours": 41.28129848333334,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://www.9news.com/article/travel/denver-international-airport/dia-travelers-stranded-nationwide-ground-stop/73-d407a4f4-4338-4217-acb7-60e679b48f4c",
       "source": "9News",
       "pub_date": "2026-11-14T04:40:27+00:00",
-      "age_hours": 38.92652382694444,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver hosts Democrats from across the country while city pitches for 2028 DNC",
-      "link": "https://www.9news.com/article/news/local/local-politics/denver-hosts-democrats-while-city-pitches-for-2028-dnc/73-9f1a1648-db9f-4030-9222-f0c7dc95c617",
-      "source": "9News",
-      "pub_date": "2026-11-14T03:47:41+00:00",
-      "age_hours": 39.80596830888889,
+      "age_hours": 43.13852074888889,
       "breaking": false,
       "time_ago": "1 day ago"
     }
