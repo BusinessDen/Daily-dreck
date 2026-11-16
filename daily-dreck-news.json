@@ -1,114 +1,159 @@
 {
-  "fetched_date": "2026-11-15",
-  "fetched_at": "2026-11-15 23:49:01",
+  "fetched_date": "2026-11-16",
+  "fetched_at": "2026-11-16 05:16:53",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 6,
   "articles": [
+    {
+      "title": "Denver City Council considers new protections for renters as health complaints more than double",
+      "link": "https://www.9news.com/article/news/local/local-politics/denver-city-council-considers-new-protections-for-renters-as-health-complaints-more-than-double/73-ffe5279e-4600-4f94-bd0f-9c9a80e8be47",
+      "source": "9News",
+      "pub_date": "2026-11-16T04:34:21+00:00",
+      "age_hours": 0.704566091111111,
+      "breaking": true,
+      "time_ago": "42 min ago"
+    },
+    {
+      "title": "'Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense",
+      "link": "https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8",
+      "source": "9News",
+      "pub_date": "2026-11-16T04:31:00+00:00",
+      "age_hours": 0.7603994772222222,
+      "breaking": true,
+      "time_ago": "45 min ago"
+    },
+    {
+      "title": "Denver restaurant owner says city shut down business over $5,000 in penalties, late fees",
+      "link": "https://kdvr.com/news/local/denver-restaurant-owner-says-city-shut-down-business-over-5000-in-penalties-late-fees/",
+      "source": "Fox31",
+      "pub_date": "2026-11-16T04:27:29+00:00",
+      "age_hours": 0.8192702072222222,
+      "breaking": true,
+      "time_ago": "49 min ago"
+    },
+    {
+      "title": "Rep. Jason Crow files discharge petition to protect Afghan immigrants who were war allies",
+      "link": "https://sentinelcolorado.com/metro/rep-jason-crow-files-discharge-petition-to-protect-afghan-immigrants-who-were-war-allies/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-16T03:43:14+00:00",
+      "age_hours": 1.5569895,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Retailers claim Denver's flavored tobacco ban is confusing, leading to unfair fines",
+      "link": "https://kdvr.com/news/local/retailers-claim-denvers-flavored-tobacco-ban-is-confusing-leading-to-unfair-fines/",
+      "source": "Fox31",
+      "pub_date": "2026-11-16T02:50:34+00:00",
+      "age_hours": 2.4345479244444443,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver flight delays linger Sunday as ground stop sends some travelers on the road",
+      "link": "https://www.9news.com/article/news/community/transportation/denver-flight-delays-linger-sunday-as-ground-stop-sends-some-travelers-on-the-road/73-eb580533-0620-4d31-8eca-0441fc7c8770",
+      "source": "9News",
+      "pub_date": "2026-11-16T01:14:30+00:00",
+      "age_hours": 4.035399486388889,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "New CU fundraising effort focused on women\u2019s, Olympic sports",
       "link": "https://bizwest.com/2026/11/15/new-cu-fundraising-effort-focused-on-womens-olympic-sports/",
       "source": "BizWest",
       "pub_date": "2026-11-15T22:28:00+00:00",
-      "age_hours": 1.345395478611111,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.809866695555556,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "Woman wounded in Aurora condo parking lot shooting during possible failed carjacking",
       "link": "https://sentinelcolorado.com/metro/woman-wounded-in-aurora-condo-parking-lot-shooting-during-possible-failed-carjacking/",
       "source": "Sentinel",
       "pub_date": "2026-11-15T18:51:01+00:00",
-      "age_hours": 4.9628850036111105,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Denver weather: Gorgeous finish to the weekend ahead of mild, dry week",
-      "link": "https://kdvr.com/news/denver-weather-gorgeous-finish-to-the-weekend-ahead-of-mild-dry-week/",
-      "source": "Fox31",
-      "pub_date": "2026-11-15T17:52:26+00:00",
-      "age_hours": 5.9390764675000005,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 10.427267602222223,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Musicians to rock the Boulder Theater in support of The Merc",
       "link": "https://bizwest.com/2026/11/15/musicians-to-rock-the-boulder-theater-in-support-of-the-merc/",
       "source": "BizWest",
       "pub_date": "2026-11-15T16:14:46+00:00",
-      "age_hours": 7.565951841666667,
+      "age_hours": 13.030422761111112,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Facing devastating dry-up, Lower Arkansas farmers hope striking visuals can help tell their stories",
       "link": "https://coloradosun.com/2026/11/15/lower-arkansas-river-colorado-farmers-water-wars-economics/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-15T10:07:00+00:00",
-      "age_hours": 13.695770728888888,
+      "age_hours": 19.16024465888889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Federal Boulevard will vastly improve with a BRT, but take notes from Colfax",
       "link": "https://www.westword.com/opinion/brt-will-improve-federal-blvd-take-notes-from-colfax-40960491/",
       "source": "Westword",
       "pub_date": "2026-11-15T06:30:00-07:00",
-      "age_hours": 10.313000655277778,
+      "age_hours": 15.777360538611111,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Travelers moving through Denver Int\u2019l Airport facing delays, baggage mess one day after nationwide ground stop",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-intl-airport-delays-baggage-mess-day-after-nationwide-ground-stop/73-8e33c405-5bc2-4adc-887f-ddf5558b03f6",
       "source": "9News",
       "pub_date": "2026-11-15T06:06:52+00:00",
-      "age_hours": 17.698242643333334,
+      "age_hours": 23.162621799722224,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "US air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says",
       "link": "https://sentinelcolorado.com/nation-world/nation/airlines-work-to-recover-after-nationwide-ground-stop-cancels-more-than-2000-flights/",
       "source": "Sentinel",
       "pub_date": "2026-11-15T03:58:14+00:00",
-      "age_hours": 19.842607462777778,
+      "age_hours": 25.306990066666668,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado woman among 27 pardoned by Gov. Polis shares what second chance means for her",
       "link": "https://www.9news.com/article/news/local/colorado-woman-among-27-pardoned-by-gov-polis-shares-what-second-chance-means-for-her/73-e1a36b8a-a7de-4baf-becd-04d70fd3fa94",
       "source": "9News",
       "pub_date": "2026-11-15T02:18:47+00:00",
-      "age_hours": 21.49963160472222,
+      "age_hours": 26.964010750555556,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver airport travelers rebook, rent cars and wait out delays after ground stop",
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-travelers-rebook-rent-cars-and-wait-out-delays-after-ground-stop/73-fa37866b-6751-42fc-a342-78dd319c1018",
       "source": "9News",
       "pub_date": "2026-11-15T01:21:28+00:00",
-      "age_hours": 22.454909451111114,
+      "age_hours": 27.919288583611113,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Ground stop impacts seep into weekend travel plans at Denver International",
       "link": "https://kdvr.com/news/local/ground-stop-impacts-seep-into-weekend-travel-plans-at-denver-international/",
       "source": "Fox31",
       "pub_date": "2026-11-15T00:35:15+00:00",
-      "age_hours": 23.225465449999998,
+      "age_hours": 28.689825804722222,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Workday restores service after outage disrupted HR platform for thousands of organizations",
       "link": "https://www.9news.com/article/news/nation-world/workday-restores-service-after-outage/507-57fa2abd-b7f8-4f6b-b3c2-64d7f4adb1d6",
       "source": "9News",
       "pub_date": "2026-11-14T20:16:45+00:00",
-      "age_hours": 27.533520611111108,
+      "age_hours": 32.99789973972222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,25 +162,7 @@
       "link": "https://www.9news.com/article/travel/denver-international-airport/denver-airport-flight-delay-cancel-faa-nationwide-ground-stop/73-e4b79d0e-a253-4da4-9650-fedb79876b51",
       "source": "9News",
       "pub_date": "2026-11-14T19:57:43+00:00",
-      "age_hours": 27.850742870833333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Police: Pedestrian in Aurora crossing outside of crosswalk on East Colfax fatally hit by car",
-      "link": "https://sentinelcolorado.com/metro/police-pedestrian-in-aurora-crossing-outside-of-crosswalk-on-east-colfax-fatally-hit-by-car/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-14T17:02:08+00:00",
-      "age_hours": 30.777607721666666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Democrats try out a strange new emotion at What\u2019s Next conference in Denver \u2014 hope",
-      "link": "https://sentinelcolorado.com/metro/democrats-try-out-a-strange-new-emotion-at-whats-next-denver-conference-hope/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-14T13:31:27+00:00",
-      "age_hours": 34.28899673111111,
+      "age_hours": 33.31512199888889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://www.coloradopolitics.com/2026/11/14/some-welcome-good-news-in-the-aftermath-sondermann/",
       "source": "CO Politics",
       "pub_date": "2026-11-14T12:00:00+00:00",
-      "age_hours": 35.81313218305556,
+      "age_hours": 41.27752016361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://coloradosun.com/2026/11/14/ai-bots-landscaping-work-aspen-small-business-artificial-intelligence/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-14T11:00:00+00:00",
-      "age_hours": 36.81243806055556,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Every opening and closing this week: Cherry Creek gets more sushi",
-      "link": "https://www.westword.com/food-drink/denver-restaurant-openings-cherry-creek-sushi-40961830/",
-      "source": "Westword",
-      "pub_date": "2026-11-14T07:00:00-07:00",
-      "age_hours": 33.813000673055555,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "FAA lifts nationwide ground stop; outdated systems blamed for flight chaos",
-      "link": "https://www.9news.com/article/travel/nationwide-ground-stop-lifted-resounding-warnings-of-long-lasting-issues/73-eecc11ef-db41-422a-96fa-0af8ae316eb7",
-      "source": "9News",
-      "pub_date": "2026-11-14T06:31:53+00:00",
-      "age_hours": 41.28129848333334,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Travelers stranded at Denver airport wait out nationwide ground stop, many rebook or cancel trip",
-      "link": "https://www.9news.com/article/travel/denver-international-airport/dia-travelers-stranded-nationwide-ground-stop/73-d407a4f4-4338-4217-acb7-60e679b48f4c",
-      "source": "9News",
-      "pub_date": "2026-11-14T04:40:27+00:00",
-      "age_hours": 43.13852074888889,
+      "age_hours": 42.27691201472222,
       "breaking": false,
       "time_ago": "1 day ago"
     }
