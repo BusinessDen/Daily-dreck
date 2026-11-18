@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-11-17",
-  "fetched_at": "2026-11-17 18:14:12",
+  "fetched_date": "2026-11-18",
+  "fetched_at": "2026-11-18 01:30:02",
   "article_count": 20,
-  "breaking_count": 12,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Broomfield Town Square developer drops lawsuit",
+      "link": "https://bizwest.com/2026/11/17/broomfield-town-square-developer-drops-lawsuit/",
+      "source": "BizWest",
+      "pub_date": "2026-11-18T00:42:57+00:00",
+      "age_hours": 0.7802019891666666,
+      "breaking": true,
+      "time_ago": "46 min ago"
+    },
+    {
+      "title": "Kyndryl inks $630M pact with Argentum for Boulder data center",
+      "link": "https://bizwest.com/2026/11/17/kyndryl-inks-630m-pact-with-argentum-for-boulder-data-center/",
+      "source": "BizWest",
+      "pub_date": "2026-11-18T00:15:46+00:00",
+      "age_hours": 1.2332575583333334,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver can vote on how to spend $2m in infrastructure funding",
+      "link": "https://kdvr.com/news/local/denver-can-vote-on-how-to-spend-2m-in-infrastructure-funding/",
+      "source": "Fox31",
+      "pub_date": "2026-11-17T23:50:46+00:00",
+      "age_hours": 1.6507051330555556,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "This Five Points pool closed three years ago. Construction is finally starting",
+      "link": "https://denverite.com/2026/11/17/mestizo-curtis-park-construction-starts/",
+      "source": "Denverite",
+      "pub_date": "2026-11-17T23:02:39+00:00",
+      "age_hours": 2.4523023419444447,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "3 finalists outline vision for Aurora\u2019s new police oversight agency as part of consent decree",
+      "link": "https://sentinelcolorado.com/metro/3-finalists-outline-vision-for-auroras-new-police-oversight-agency-as-part-of-consent-decree/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-17T22:48:53+00:00",
+      "age_hours": 2.682316441666667,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Woodward announces executive leadership succession",
+      "link": "https://bizwest.com/2026/11/17/woodward-announces-executive-leadership-succession/",
+      "source": "BizWest",
+      "pub_date": "2026-11-17T22:45:08+00:00",
+      "age_hours": 2.7438131208333334,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Rare-earth firm Tusaar to move from Broomfield to Louisville",
+      "link": "https://bizwest.com/2026/11/17/rare-earth-firm-tusaar-to-move-from-broomfield-to-louisville/",
+      "source": "BizWest",
+      "pub_date": "2026-11-17T22:42:22+00:00",
+      "age_hours": 2.7899248233333336,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Infleqtion boosts sales but misses Wall Street projections",
+      "link": "https://bizwest.com/2026/11/17/infleqtion-boosts-sales-but-misses-wall-street-projections/",
+      "source": "BizWest",
+      "pub_date": "2026-11-17T22:39:04+00:00",
+      "age_hours": 2.8449248563888885,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver City and County Clerk and Recorder does ballot audit two weeks post election day",
+      "link": "https://kdvr.com/news/politics/election/denver-city-and-county-clerk-and-recorder-does-ballot-audit-two-weeks-post-election-day/",
+      "source": "Fox31",
+      "pub_date": "2026-11-17T22:00:55+00:00",
+      "age_hours": 3.4815384952777775,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Final ULI Report Outlines Recommendations for Denver Pavilions",
+      "link": "https://milehighcre.com/final-uli-report-outlines-recommendations-for-denver-pavilions/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-17T21:55:24+00:00",
+      "age_hours": 3.5729858991666665,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Jhen\u00e9 Aiko, H.E.R. bringing R&B tour to Denver's Ball Arena",
+      "link": "https://kdvr.com/news/entertainment/jhene-aiko-h-e-r-bringing-rb-tour-to-denvers-ball-arena/",
+      "source": "Fox31",
+      "pub_date": "2026-11-17T21:38:54+00:00",
+      "age_hours": 3.8484829994444443,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Spending growth slowed at retail stores in October as high prices give shoppers pause",
+      "link": "https://sentinelcolorado.com/uncategorized/spending-growth-slowed-at-retail-stores-in-october-as-high-prices-give-shoppers-pause/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-17T21:09:10+00:00",
+      "age_hours": 4.3442613041666664,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Aurora Housing Authority Awarded Tax Credits for Stanley 98",
+      "link": "https://milehighcre.com/aurora-housing-authority-awarded-tax-credits-for-stanley-98/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-17T20:28:04+00:00",
+      "age_hours": 5.0285414797222225,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Colorado residents get FEMA test alert as blackout rumors spread",
+      "link": "https://www.coloradopolitics.com/2026/11/17/colorado-residents-get-fema-test-alert-as-blackout-rumors-spread/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-17T20:11:14+00:00",
+      "age_hours": 5.309778794722222,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Tear down this mall, Mr. Johnston-chev? $100K study calls for demolishing most of Denver Pavilions",
+      "link": "https://denverite.com/2026/11/17/denver-pavilions-report-demolition/",
+      "source": "Denverite",
+      "pub_date": "2026-11-17T20:02:10+00:00",
+      "age_hours": 5.460357913333333,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Why are the San Francisco 49ers playing in Colorado Springs?",
+      "link": "https://kdvr.com/sports/why-are-the-san-francisco-49ers-playing-in-colorado-springs/",
+      "source": "Fox31",
+      "pub_date": "2026-11-17T18:13:22+00:00",
+      "age_hours": 7.274038417777779,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
     {
       "title": "Colorado is composting and recycling more, but still lags behind national average",
       "link": "https://www.cpr.org/2026/11/17/colorado-composting-recycling-rates-report/",
       "source": "CPR",
       "pub_date": "2026-11-17T17:48:40+00:00",
-      "age_hours": 0.4208721022222222,
-      "breaking": true,
-      "time_ago": "25 min ago"
+      "age_hours": 7.685393433888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Mile High Dine and Recline: Summit Steak Bar, Littleton",
       "link": "https://milehighcre.com/mile-high-dine-and-recline-summit-steak-bar-littleton/",
       "source": "Mile High CRE",
       "pub_date": "2026-11-17T17:47:03+00:00",
-      "age_hours": 0.4475528975,
-      "breaking": true,
-      "time_ago": "26 min ago"
+      "age_hours": 7.712152604722222,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "9Cares Colorado Shares food drive aims to combat hunger across the state",
       "link": "https://www.9news.com/article/news/local/outreach/9-cares-colorado-shares/9cares-colorado-shares-november-food-drive/73-5e28ca58-7ae8-4b7e-834a-5f12a9ac7f56",
       "source": "9News",
       "pub_date": "2026-11-17T15:58:42+00:00",
-      "age_hours": 2.2537100430555554,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 9.518203598333335,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Part of I-25 shut down following police pursuit overnight",
       "link": "https://kdvr.com/news/local/part-of-i-25-shut-down-following-police-pursuit-overnight/",
       "source": "Fox31",
       "pub_date": "2026-11-17T15:54:38+00:00",
-      "age_hours": 2.321815405277778,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Jhen\u00e9 Aiko, H.E.R. announce Denver arena concert",
-      "link": "https://www.9news.com/article/entertainment/music/colorado-music/jhene-aiko-her-ark-to-agartha-concert-tour-dates/73-02b78fe7-794d-4c11-9a93-660221f4092e",
-      "source": "9News",
-      "pub_date": "2026-11-17T15:42:51+00:00",
-      "age_hours": 2.517876747222222,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Volunteer gives hundreds of hours to Food Bank of the Rockies in honor of his parents",
-      "link": "https://www.9news.com/article/news/local/outreach/9-cares-colorado-shares/volunteer-food-bank-of-the-rockies/73-8878e419-2dc8-4ae3-938f-857209f36794",
-      "source": "9News",
-      "pub_date": "2026-11-17T14:59:11+00:00",
-      "age_hours": 3.2456545472222222,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "\u2018Missing middle\u2019 apartments to open in Fort Collins",
-      "link": "https://bizwest.com/2026/11/17/missing-middle-apartments-to-open-in-fort-collins/",
-      "source": "BizWest",
-      "pub_date": "2026-11-17T14:31:34+00:00",
-      "age_hours": 3.705333107777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Greeley-Evans buses get $1M CDOT grant",
-      "link": "https://bizwest.com/2026/11/17/greeley-evans-buses-get-1m-cdot-grant/",
-      "source": "BizWest",
-      "pub_date": "2026-11-17T14:29:20+00:00",
-      "age_hours": 3.742555688611111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Younger voters drive engagement in high-turnout Colorado midterm election",
-      "link": "https://sentinelcolorado.com/metro/younger-voters-drive-engagement-in-high-turnout-colorado-midterm-election/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-17T13:28:18+00:00",
-      "age_hours": 4.761112016666667,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "I-70 median barrier project begins east of Aurora Thursday, lasting through March",
-      "link": "https://sentinelcolorado.com/metro/i-70-median-barrier-project-begins-east-of-aurora-thursday-lasting-through-march/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-17T13:06:26+00:00",
-      "age_hours": 5.1255565525,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Why driving over Vail Pass should be a little easier this winter",
-      "link": "https://www.9news.com/article/news/community/transportation/vail-pass-interstate-70-construction-road-project/73-91c02dc5-d9df-43d9-965a-098a1ab5f3dd",
-      "source": "9News",
-      "pub_date": "2026-11-17T12:47:11+00:00",
-      "age_hours": 5.445654598888889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Wolf Creek Ski Area snowcat drivers traded slope grooming for flood cleanup on Wolf Creek Pass",
-      "link": "https://coloradosun.com/2026/11/17/wolf-creek-ski-area-snow-cats-flooding-pass-160-closed/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-17T11:10:00+00:00",
-      "age_hours": 7.065143728333333,
+      "age_hours": 9.586260783333334,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "With an \u2018uptick\u2019 in youth firearm cases in Denver, is it time to rethink youth sentencing laws?",
-      "link": "https://www.cpr.org/2026/11/17/youth-gun-violence-denver-sentencing-laws/",
-      "source": "CPR",
-      "pub_date": "2026-11-17T11:00:00+00:00",
-      "age_hours": 7.231983259722222,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Cannabis calendar: Holiday pop-ups",
-      "link": "https://www.westword.com/news/marijuana-events-and-things-to-do-colorado-10482572/",
-      "source": "Westword",
-      "pub_date": "2026-11-17T10:50:04-07:00",
-      "age_hours": 0.3981229813888889,
-      "breaking": true,
-      "time_ago": "23 min ago"
-    },
-    {
-      "title": "Will a modern-day Harry Truman please stand up? | Hal Bidlack",
-      "link": "https://www.coloradopolitics.com/2026/11/17/will-a-modern-day-harry-truman-please-stand-up-hal-bidlack/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-17T07:45:00+00:00",
-      "age_hours": 10.482738520555557,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Bow Mar trustees hold closed session since Denver and Littleton lawsuit",
-      "link": "https://www.9news.com/article/news/politics/bow-mar-trustees-denver-littleton-lawsuit/73-3871fe09-ff7a-4660-8f46-214a10c2a33d",
-      "source": "9News",
-      "pub_date": "2026-11-17T05:50:45+00:00",
-      "age_hours": 12.386210205833335,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "Denver man says thousands stolen from storage unit, including sentimental guitar",
-      "link": "https://kdvr.com/news/local/denver-man-says-thousands-stolen-from-storage-unit-including-sentimental-guitar/",
-      "source": "Fox31",
-      "pub_date": "2026-11-17T01:27:03+00:00",
-      "age_hours": 16.781537716666666,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Son arrested after mother found stabbed to death in Denver home",
-      "link": "https://kdvr.com/news/local/son-arrested-after-mother-found-stabbed-to-death-in-denver-home/",
-      "source": "Fox31",
-      "pub_date": "2026-11-17T00:42:03+00:00",
-      "age_hours": 17.531537663055555,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Court weighs lawsuit over  Colorado\u2019s transgender pronouns law",
-      "link": "https://www.coloradopolitics.com/2026/11/16/court-weighs-lawsuit-over-colorados-transgender-pronouns-law/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-17T00:10:55+00:00",
-      "age_hours": 18.050794088333333,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
-    },
-    {
-      "title": "Colorado directs $400,000 settlement to food programs",
-      "link": "https://www.coloradopolitics.com/2026/11/16/colorado-directs-400000-settlement-to-food-programs/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-16T23:35:51+00:00",
-      "age_hours": 18.635238591666667,
-      "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "9 hrs ago"
     }
   ]
 }
