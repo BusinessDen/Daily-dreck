@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-19",
-  "fetched_at": "2026-11-19 08:37:36",
+  "fetched_at": "2026-11-19 17:59:56",
   "article_count": 20,
-  "breaking_count": 5,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Early Prop 123 Equity Project Opens in Fort Collins",
+      "link": "https://milehighcre.com/early-prop-123-equity-project-opens-in-fort-collins/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-19T17:50:33+00:00",
+      "age_hours": 0.15153051444444446,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Despite Northern Colorado airport runway expansion, pilot concerns continue",
+      "link": "https://bizwest.com/2026/11/19/despite-northern-colorado-airport-runway-expansion-pilot-concerns-continue/",
+      "source": "BizWest",
+      "pub_date": "2026-11-19T17:49:47+00:00",
+      "age_hours": 0.16399720472222223,
+      "breaking": true,
+      "time_ago": "9 min ago"
+    },
+    {
+      "title": "Greeley to host public info session on data centers",
+      "link": "https://bizwest.com/2026/11/19/greeley-to-host-public-info-session-on-data-centers/",
+      "source": "BizWest",
+      "pub_date": "2026-11-19T17:47:57+00:00",
+      "age_hours": 0.19455341305555557,
+      "breaking": true,
+      "time_ago": "11 min ago"
+    },
+    {
+      "title": "Broncos secure cornerback Moss with 4-year, $67 million contract",
+      "link": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/broncos-moss-contract/73-724cd8a6-45d2-45c4-994a-f812539d38d9",
+      "source": "9News",
+      "pub_date": "2026-11-19T17:30:56+00:00",
+      "age_hours": 0.4787422322222222,
+      "breaking": true,
+      "time_ago": "28 min ago"
+    },
+    {
+      "title": "AI, labor and Medicaid will likely shape the 2027 legislative session",
+      "link": "https://www.coloradopolitics.com/2026/11/19/ai-labor-and-medicaid-will-likely-shape-the-2027-legislative-session/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-19T17:24:16+00:00",
+      "age_hours": 0.5904843455555556,
+      "breaking": true,
+      "time_ago": "35 min ago"
+    },
+    {
+      "title": "How one frustrated Denverite took on energy giant Xcel Energy \u2014 and may just win",
+      "link": "https://www.cpr.org/2026/11/19/xcel-energy-outage-lawsuit-denver/",
+      "source": "CPR",
+      "pub_date": "2026-11-19T17:22:01+00:00",
+      "age_hours": 0.6273121280555555,
+      "breaking": true,
+      "time_ago": "37 min ago"
+    },
+    {
+      "title": "Denver judge holds ICE officials in contempt for re-detaining immigrants at Aurora detention center",
+      "link": "https://sentinelcolorado.com/metro/denver-judge-holds-ice-officials-in-contempt-for-re-detaining-immigrants-at-aurora-detention-center/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-19T16:59:19+00:00",
+      "age_hours": 1.0063608261111112,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Softball: 2026 All-Centennial League teams",
+      "link": "https://sentinelcolorado.com/sports/preps/girls-softball/softball-2026-all-centennial-league-teams/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-19T16:32:11+00:00",
+      "age_hours": 1.4585833083333333,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "New Interstate 25 interchange opens after decades of planning",
+      "link": "https://www.9news.com/article/news/community/transportation/crystal-valley-interchange-castle-rock-interstate-25/73-3ad4281f-8716-4a18-898a-8dc580568d88",
+      "source": "9News",
+      "pub_date": "2026-11-19T16:10:04+00:00",
+      "age_hours": 1.8265200391666667,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Scarpaletto Returns to Larimer Square",
+      "link": "https://milehighcre.com/scarpaletto-returns-to-larimer-square/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-19T15:52:27+00:00",
+      "age_hours": 2.1198638819444446,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "What to do in Colorado this week: MacArthur \u201cGenius\u201d Chip Thomas stops by the San Luis Valley",
+      "link": "https://coloradosun.com/2026/11/19/what-to-do-in-colorado-this-week-macarthur-genius-chip-thomas/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-19T15:00:00+00:00",
+      "age_hours": 2.994110323888889,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Softball: 2026 Class 3A/4A All-City League teams",
+      "link": "https://sentinelcolorado.com/sports/preps/girls-softball/softball-2026-class-3a-4a-all-city-league-teams/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-19T14:17:36+00:00",
+      "age_hours": 3.701639147222222,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "How to watch the 9NEWS Parade of Lights",
+      "link": "https://www.9news.com/article/life/holidays/holiday-guide/9news-parade-of-lights-denver-2026/73-cb86c41b-c067-4130-992b-72e7bd279a8a",
+      "source": "9News",
+      "pub_date": "2026-11-19T14:15:00+00:00",
+      "age_hours": 3.7442978491666663,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Central Aurora house fire deemed accidental kills one resident and causes major damage",
+      "link": "https://sentinelcolorado.com/metro/central-aurora-house-fire-deemed-accidental-kills-one-resident-and-causes-major-damage/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-19T13:54:00+00:00",
+      "age_hours": 4.094973074166666,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Sustainable cooking in Colorado doesn\u2019t have to be hard. Try these low-water recipes.",
+      "link": "https://coloradosun.com/2026/11/19/low-water-recipe-book/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-19T11:00:00+00:00",
+      "age_hours": 6.994110855,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "This Colorado suburb has a celebrity cow",
+      "link": "https://www.cpr.org/2026/11/19/sterling-ranch-cattle-drive/",
+      "source": "CPR",
+      "pub_date": "2026-11-19T11:00:00+00:00",
+      "age_hours": 6.994256635833334,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "The number of unaffiliated county clerks in Colorado is on the rise",
+      "link": "https://coloradosun.com/2026/11/19/unaffiliated-county-clerks-on-rise-in-colorado-overseeing-elections/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-19T10:30:00+00:00",
+      "age_hours": 7.494111038055556,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Growth of US outdoor recreation economy slowed in 2025, but still hit a record $1.3T",
+      "link": "https://coloradosun.com/2026/11/19/colorado-outdoor-recreation-economy-keeps-growing/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-19T10:29:00+00:00",
+      "age_hours": 7.51077815888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Colorado Coalition for the Homeless workers protest mold, bedbugs and low pay",
+      "link": "https://www.westword.com/news/denver-homeless-housing-workers-protest-poor-condtiions-40964162/",
+      "source": "Westword",
+      "pub_date": "2026-11-19T06:54:15-07:00",
+      "age_hours": 4.090557199722222,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "City puts northeast Denver shelter back in its cold-weather plan after promising not to use it again",
       "link": "https://www.9news.com/article/news/local/local-politics/city-puts-northeast-denver-shelter-back-in-its-cold-weather-plan-after-promising-not-to-use-it-again/73-cb8ed2f7-b892-418b-86b6-adaf91cc8a4e",
       "source": "9News",
       "pub_date": "2026-11-19T05:40:36+00:00",
-      "age_hours": 2.9484180724999995,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "GTA 6 mania hits Colorado businesses including record shops",
-      "link": "https://kdvr.com/news/local/gta-6-mania-hits-colorado-businesses-including-record-shops/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T04:57:17+00:00",
-      "age_hours": 3.670580506111111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Denver Fire receives 5 times amount of applicants as initially sought",
-      "link": "https://kdvr.com/news/local/denver-fire-receives-5-times-amount-of-applicants-as-initially-sought/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T03:53:07+00:00",
-      "age_hours": 4.740025103333333,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "'I\u2019m very frustrated:' Denver leaders want the state to let them regulate Waymo, other self-driving cars",
-      "link": "https://kdvr.com/news/local/im-very-frustrated-denver-leaders-want-the-state-to-let-them-regulate-waymo-other-self-driving-cars/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T03:38:22+00:00",
-      "age_hours": 4.9858583536111105,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Student accused of shooting classmate with BB gun in middle school classroom",
-      "link": "https://kdvr.com/news/local/student-accused-of-shooting-classmate-with-bb-gun-in-middle-school-classroom/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T02:56:09+00:00",
-      "age_hours": 5.689469433055556,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Arapahoe County businesses face fire protection uncertainty after massive mailing mistake",
-      "link": "https://www.9news.com/article/news/community/arapahoe-county-businesses-fire-protection-uncertainty/73-ded5c316-b434-467f-b3b1-156f1f7f2536",
-      "source": "9News",
-      "pub_date": "2026-11-19T01:52:29+00:00",
-      "age_hours": 6.750362607777778,
+      "age_hours": 12.317631243333334,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Aurora business owner sentenced to prison for sexual assault of customer",
-      "link": "https://kdvr.com/news/local/aurora-business-owner-sentenced-to-prison-for-sexual-assault-of-customer/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T01:30:26+00:00",
-      "age_hours": 7.118080688055556,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Mpox case reported in the Denver metro area",
-      "link": "https://kdvr.com/news/health/mpox-case-reported-in-the-denver-metro-area/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T01:06:22+00:00",
-      "age_hours": 7.519191804444445,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Looks like Colorado could be in for another bad flu season, and 3 out of 4 people aren\u2019t vaccinated",
-      "link": "https://www.cpr.org/2026/11/18/colorado-bad-flu-season-low-vaccination-rate/",
-      "source": "CPR",
-      "pub_date": "2026-11-19T01:04:59+00:00",
-      "age_hours": 7.542009562222222,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Charges against former Denver police officer to be dismissed",
-      "link": "https://kdvr.com/news/local/charges-against-former-denver-police-officer-to-be-dismissed/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T00:48:12+00:00",
-      "age_hours": 7.821969518055555,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "VitriVax raises $87M Series C to advance Lyme disease vaccine",
-      "link": "https://bizwest.com/2026/11/18/vitrivax-raises-87m-series-c-to-advance-lyme-disease-vaccine/",
-      "source": "BizWest",
-      "pub_date": "2026-11-19T00:36:41+00:00",
-      "age_hours": 8.013291782777777,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "People Magazine spotlights Garden City pizzeria",
-      "link": "https://bizwest.com/2026/11/18/people-magazine-spotlights-garden-city-pizzeria/",
-      "source": "BizWest",
-      "pub_date": "2026-11-19T00:20:27+00:00",
-      "age_hours": 8.283847350555556,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Hurd\u2019s tribal regulatory reform bill clears committee",
-      "link": "https://www.coloradopolitics.com/2026/11/18/hurds-tribal-regulatory-reform-bill-clears-committee/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-19T00:07:28+00:00",
-      "age_hours": 8.501052833333333,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "Aurora urine testing operator gets 4 years to life for attacking woman court ordered for testing",
-      "link": "https://sentinelcolorado.com/metro/aurora-urine-testing-operator-gets-4-years-to-life-for-attacking-woman-court-ordered-for-testing/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-18T22:26:23+00:00",
-      "age_hours": 10.18578402361111,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "KFC franchisee files for Chapter 11 bankruptcy: See list of stores at risk of closing",
-      "link": "https://www.9news.com/article/news/nation-world/kfc-franchisee-bankruptcy-stores-at-risk-of-closing/507-d9d20c01-dbc1-49d7-a5a6-dac685390689",
-      "source": "9News",
-      "pub_date": "2026-11-18T22:24:33+00:00",
-      "age_hours": 10.215918233055556,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Bedbugs, mold, asbestos: Denver homelessness advocates sound alarm",
-      "link": "https://denverite.com/2026/11/18/colorado-coalition-for-the-homeless-union-protest/",
-      "source": "Denverite",
-      "pub_date": "2026-11-18T22:20:54+00:00",
-      "age_hours": 10.276716841944445,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Student fired BB gun inside classroom, struck fellow student with pellet, school says",
-      "link": "https://www.9news.com/article/news/local/bb-discharged-denver-classroom/73-d1d5d878-541f-4462-bf59-f16a01ee4eef",
-      "source": "9News",
-      "pub_date": "2026-11-18T22:12:49+00:00",
-      "age_hours": 10.411473791666667,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Fathima Dickerson fights to keep Welton Street Cafe alive in Five Points",
-      "link": "https://sentinelcolorado.com/metro/fathima-dickerson-fights-to-keep-welton-street-cafe-alive-in-five-points/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-18T21:59:18+00:00",
-      "age_hours": 10.637173114722223,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Another proposed Aurora data center moratorium and Trident relocation rule face vote",
-      "link": "https://sentinelcolorado.com/metro/another-proposed-aurora-data-center-moratorium-and-trident-relocation-rule-face-vote/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-18T21:56:58+00:00",
-      "age_hours": 10.67606201611111,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
-    },
-    {
-      "title": "Westbound & Down to open Longmont brewpub Friday",
-      "link": "https://bizwest.com/2026/11/18/westbound-down-to-open-longmont-brewpub-friday/",
-      "source": "BizWest",
-      "pub_date": "2026-11-18T21:56:48+00:00",
-      "age_hours": 10.678014363611112,
-      "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "12 hrs ago"
     }
   ]
 }
