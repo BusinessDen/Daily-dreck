@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-20",
-  "fetched_at": "2026-11-20 00:32:50",
+  "fetched_at": "2026-11-20 08:09:41",
   "article_count": 20,
-  "breaking_count": 13,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "9Cares Colorado Shares telethon gives boost to local food banks",
+      "link": "https://www.9news.com/article/news/local/outreach/9-cares-colorado-shares/9cares-colorado-shares-telethon-november-19/73-b526ba8c-ec44-4f7d-9210-3c7979c54371",
+      "source": "9News",
+      "pub_date": "2026-11-20T05:03:21+00:00",
+      "age_hours": 3.101018000277778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Denver man in hospital after food truck fire flames burn upper body",
+      "link": "https://kdvr.com/news/local/denver-man-in-hospital-after-food-truck-fire-flames-burn-upper-body/",
+      "source": "Fox31",
+      "pub_date": "2026-11-20T03:59:28+00:00",
+      "age_hours": 4.166081483055556,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Denver Mayor Mike Johnston's appointees may receive up to 60% raises in 2027",
+      "link": "https://www.9news.com/article/news/local/local-politics/denver-mayor-mike-johnstons-appointees-raise-2027/73-fdb3b360-d24e-4d48-8f19-9ddc368def9f",
+      "source": "9News",
+      "pub_date": "2026-11-20T02:00:50+00:00",
+      "age_hours": 6.1429625055555555,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Group challenges constitutionality of Colorado\u2019s graduated income tax",
+      "link": "https://www.coloradopolitics.com/2026/11/19/amendment-87-advance-colorado-lawsuit/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-20T01:52:16+00:00",
+      "age_hours": 6.286321836944445,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Long-awaited Skyland grocery store opens, seeking to address food desert in north Denver",
+      "link": "https://www.9news.com/article/news/local/long-awaited-skyland-grocery-store-opens-address-food-desert-north-denver/73-806f0eef-b12e-46df-a8c8-a6461f52a59e",
+      "source": "9News",
+      "pub_date": "2026-11-20T01:32:59+00:00",
+      "age_hours": 6.607129204166666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "1 injured after Thursday night shooting in Denver's East Colfax neighborhood",
+      "link": "https://kdvr.com/news/local/1-injured-after-thursday-night-shooting-in-denvers-east-colfax-neighborhood/",
+      "source": "Fox31",
+      "pub_date": "2026-11-20T01:15:55+00:00",
+      "age_hours": 6.891914758888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Aurora discusses limit on number of food trucks allowed in 1 area",
+      "link": "https://kdvr.com/news/local/aurora-discusses-limit-on-number-of-food-trucks-allowed-in-1-area/",
+      "source": "Fox31",
+      "pub_date": "2026-11-20T01:10:45+00:00",
+      "age_hours": 6.9780260513888885,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Local shelter closes as Denver officials push long-term housing plans",
+      "link": "https://kdvr.com/news/local/local-shelter-closes-as-denver-officials-push-long-term-housing-plans/",
+      "source": "Fox31",
+      "pub_date": "2026-11-20T00:53:45+00:00",
+      "age_hours": 7.261359348888889,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "The 'Big Boy' arrives in Colorado with 2nd historic train for holiday tour this weekend",
+      "link": "https://kdvr.com/news/local/the-big-boy-arrives-in-colorado-with-2nd-historic-train-for-holiday-tour-this-weekend/",
+      "source": "Fox31",
+      "pub_date": "2026-11-20T00:52:20+00:00",
+      "age_hours": 7.284970504722223,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Boulder Valley ReCon: Developers see new comp plan as positive first step",
+      "link": "https://bizwest.com/2026/11/19/boulder-valley-recon-developers-see-new-comp-plan-as-positive-first-step/",
+      "source": "BizWest",
+      "pub_date": "2026-11-20T00:49:06+00:00",
+      "age_hours": 7.337943766944444,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Auddia plans reverse split to stave off Nasdaq delisting",
+      "link": "https://bizwest.com/2026/11/19/auddia-plans-reverse-split-to-stave-off-nasdaq-delisting/",
+      "source": "BizWest",
+      "pub_date": "2026-11-20T00:38:48+00:00",
+      "age_hours": 7.509610456666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "From MAGA stardom to a U-Haul: Lauren Boebert considers her own and GOP\u2019s losses",
+      "link": "https://sentinelcolorado.com/metro/from-maga-stardom-to-a-u-haul-lauren-boebert-considers-her-own-and-gops-losses/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-20T00:36:04+00:00",
+      "age_hours": 7.556359767777778,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
     {
       "title": "Man convicted of tampering in death of Denver hairstylist",
       "link": "https://kdvr.com/news/local/man-convicted-of-tampering-in-death-of-denver-hairstylist/",
       "source": "Fox31",
       "pub_date": "2026-11-20T00:10:03+00:00",
-      "age_hours": 0.3752970927777778,
-      "breaking": true,
-      "time_ago": "22 min ago"
+      "age_hours": 7.989692601111111,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Broncos secure cornerback Moss with 4-year, $67 million contract",
       "link": "https://www.9news.com/article/sports/nfl/denver-broncos/mike-klis/broncos-moss-contract/73-724cd8a6-45d2-45c4-994a-f812539d38d9",
       "source": "9News",
       "pub_date": "2026-11-20T00:07:12+00:00",
-      "age_hours": 0.4225303033333333,
-      "breaking": true,
-      "time_ago": "25 min ago"
+      "age_hours": 8.03685147138889,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado Republicans sue to block Amendment 87 tax hikes",
       "link": "https://coloradosun.com/2026/11/19/amendment-87-lawsuit-advance-colorado-barbara-kirkmeyer-income-tax/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-19T23:37:46+00:00",
-      "age_hours": 0.9129334408333333,
-      "breaking": true,
-      "time_ago": "54 min ago"
+      "age_hours": 8.527208765,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Colorado Chase customers weigh trust, security after third-party cyberattack Thursday",
       "link": "https://www.denver7.com/money/business-news/colorado-chase-customers-weigh-trust-security-after-third-party-cyberattack-thursday",
       "source": "Denver7",
       "pub_date": "2026-11-19T23:18:02+00:00",
-      "age_hours": 1.2420960472222222,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 8.856446379444446,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Why go to Wayfair.com when you can go to Northfield?",
       "link": "https://denverite.com/2026/11/19/wayfair-denver-northfield-opens/",
       "source": "Denverite",
       "pub_date": "2026-11-19T22:20:38+00:00",
-      "age_hours": 2.1985680575,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
-    },
-    {
-      "title": "Denver Preschool Program celebrates 2 decades, expands early childhood tuition",
-      "link": "https://kdvr.com/news/local/denver-preschool-program-celebrates-2-decades-expands-early-childhood-tuition/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T22:08:23+00:00",
-      "age_hours": 2.40307501,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 9.81290272361111,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver will close its first hotel homeless shelter",
       "link": "https://denverite.com/2026/11/19/denver-will-close-its-first-hotel-homeless-shelter/",
       "source": "Denverite",
       "pub_date": "2026-11-19T21:48:13+00:00",
-      "age_hours": 2.7388458808333334,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.353180541666667,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Study: DIA has best food, drink among U.S. airports",
       "link": "https://kdvr.com/news/local/study-dia-has-best-food-drink-among-u-s-airports/",
       "source": "Fox31",
       "pub_date": "2026-11-19T21:29:35+00:00",
-      "age_hours": 3.0497416383333333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Boulder Valley ReCon: Local relationships trump consolidation for agents",
-      "link": "https://bizwest.com/2026/11/19/boulder-valley-recon-local-relationships-trump-consolidation-for-agents/",
-      "source": "BizWest",
-      "pub_date": "2026-11-19T20:12:28+00:00",
-      "age_hours": 4.3341384977777775,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Woodward expects revenue growth in 2027",
-      "link": "https://bizwest.com/2026/11/19/woodward-expects-revenue-growth-in-2027/",
-      "source": "BizWest",
-      "pub_date": "2026-11-19T20:00:46+00:00",
-      "age_hours": 4.5291385150000005,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "Minerals company offered millions in incentives",
-      "link": "https://bizwest.com/2026/11/19/minerals-company-offered-millions-in-incentives/",
-      "source": "BizWest",
-      "pub_date": "2026-11-19T19:51:50+00:00",
-      "age_hours": 4.678027411111111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
-    },
-    {
-      "title": "German-style holiday markets return to Denver and Colorado Springs for festive season",
-      "link": "https://www.9news.com/article/life/holidays/holiday-guide/christkindlmarkets-return-holiday-season-denver-colorado-springs/73-a711a072-4801-4479-9d41-8662fb647f0b",
-      "source": "9News",
-      "pub_date": "2026-11-19T19:26:15+00:00",
-      "age_hours": 5.105030380277778,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Elbert County considers rezoning for 5,600 acres intended for AI data center",
-      "link": "https://www.9news.com/article/news/local/local-politics/elbert-county-r-ai-data-center/73-8d359341-b89e-471c-be4a-80a35bcea38e",
-      "source": "9News",
-      "pub_date": "2026-11-19T19:05:24+00:00",
-      "age_hours": 5.452530419444444,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
-    },
-    {
-      "title": "Here are Black Friday plans in Colorado where you do not need to spend money",
-      "link": "https://kdvr.com/news/local/here-are-black-friday-plans-in-colorado-where-you-do-not-need-to-spend-money/",
-      "source": "Fox31",
-      "pub_date": "2026-11-19T18:26:19+00:00",
-      "age_hours": 6.104186163333334,
+      "age_hours": 10.664137212222222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
-      "title": "Early Prop 123 Equity Project Opens in Fort Collins",
-      "link": "https://milehighcre.com/early-prop-123-equity-project-opens-in-fort-collins/",
-      "source": "Mile High CRE",
-      "pub_date": "2026-11-19T17:50:33+00:00",
-      "age_hours": 6.699765536388889,
+      "title": "State submits bid to host new U.S. Space Academy in Colorado Springs",
+      "link": "https://coloradosun.com/2026/11/19/colorado-submits-us-space-academy-bid/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-19T20:19:31+00:00",
+      "age_hours": 11.831375465277777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Despite Northern Colorado airport runway expansion, pilot concerns continue",
-      "link": "https://bizwest.com/2026/11/19/despite-northern-colorado-airport-runway-expansion-pilot-concerns-continue/",
-      "source": "BizWest",
-      "pub_date": "2026-11-19T17:49:47+00:00",
-      "age_hours": 6.7121940930555555,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "Greeley to host public info session on data centers",
-      "link": "https://bizwest.com/2026/11/19/greeley-to-host-public-info-session-on-data-centers/",
-      "source": "BizWest",
-      "pub_date": "2026-11-19T17:47:57+00:00",
-      "age_hours": 6.742750183055556,
-      "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "AI, labor and Medicaid will likely shape the 2027 legislative session",
-      "link": "https://www.coloradopolitics.com/2026/11/19/ai-labor-and-medicaid-will-likely-shape-the-2027-legislative-session/",
-      "source": "CO Politics",
-      "pub_date": "2026-11-19T17:24:16+00:00",
-      "age_hours": 7.138669389722223,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "How one frustrated Denverite took on energy giant Xcel Energy \u2014 and may just win",
-      "link": "https://www.cpr.org/2026/11/19/xcel-energy-outage-lawsuit-denver/",
-      "source": "CPR",
-      "pub_date": "2026-11-19T17:22:01+00:00",
-      "age_hours": 7.1755485511111115,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "New Interstate 25 interchange opens after decades of planning",
-      "link": "https://www.9news.com/article/news/community/transportation/crystal-valley-interchange-castle-rock-interstate-25/73-3ad4281f-8716-4a18-898a-8dc580568d88",
-      "source": "9News",
-      "pub_date": "2026-11-19T16:10:04+00:00",
-      "age_hours": 8.374752685277778,
-      "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "11 hrs ago"
     }
   ]
 }
