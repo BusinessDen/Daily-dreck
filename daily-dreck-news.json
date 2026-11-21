@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-21",
-  "fetched_at": "2026-11-21 05:59:04",
+  "fetched_at": "2026-11-21 14:31:09",
   "article_count": 20,
-  "breaking_count": 9,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "How will cash payments be rounded without pennies? What to know about the new law",
+      "link": "https://www.9news.com/article/news/nation-world/how-will-cash-payments-be-rounded-without-pennies/507-e0d715c2-12f7-46c7-951a-70cfcfd8f94b",
+      "source": "9News",
+      "pub_date": "2026-11-21T13:31:30+00:00",
+      "age_hours": 0.9897416772222222,
+      "breaking": true,
+      "time_ago": "59 min ago"
+    },
+    {
+      "title": "What\u2019s Working: Why a Thanksgiving meal costs less in Colorado than the rest of the nation this year",
+      "link": "https://coloradosun.com/2026/11/21/thanksgiving-meal-inflation-turkey-sales-prices-colorado/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-21T11:00:00+00:00",
+      "age_hours": 3.514589515,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Aurora prep sports scoreboard, 11.20.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-11-20-26/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-21T06:03:49+00:00",
+      "age_hours": 8.4514697725,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
     {
       "title": "Denver Christkindlmarket officially opens for season",
       "link": "https://www.9news.com/article/life/holidays/christkindlmarket-opens-for-season/73-7441e0ad-ea1a-4de2-b033-15424703c447",
       "source": "9News",
       "pub_date": "2026-11-21T05:51:56+00:00",
-      "age_hours": 0.11482219388888888,
-      "breaking": true,
-      "time_ago": "6 min ago"
+      "age_hours": 8.649186184444446,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
       "title": "Parking garage under Denver Pavilions could help pay to tear down the mall",
       "link": "https://www.9news.com/article/money/business/parking-garage-denver-pavilions-demolition/73-e6396db5-c913-4bf9-a897-3596e160230a",
       "source": "9News",
       "pub_date": "2026-11-21T01:53:01+00:00",
-      "age_hours": 4.096766738611111,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 12.631130700277778,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Waymo\u2019s map crosses the city line for cliff divers and sopapillas",
       "link": "https://www.9news.com/article/news/community/transportation/waymos-map-casa-bonita/73-7a5574b7-5535-4dcc-9eb1-df3c8017126d",
       "source": "9News",
       "pub_date": "2026-11-21T01:42:16+00:00",
-      "age_hours": 4.275933468055555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 12.810297413055556,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Trump signs 'Common Cents Act' into law, halting penny production",
       "link": "https://www.9news.com/article/news/nation-world/trump-signs-common-cents-act-halting-penny-production/507-8582004e-9fe1-4dab-ac3f-99e4470efae5",
       "source": "9News",
       "pub_date": "2026-11-21T01:36:38+00:00",
-      "age_hours": 4.369822411388889,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 12.90418634,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver artists feared losing their studios to the Broncos' new stadium. A year later, the art hub is still open",
       "link": "https://www.9news.com/article/news/community/denver-artists-feared-losing-their-studios-to-the-broncos-new-stadium-a-year-later-the-art-hub-is-still-open/73-a3e59efc-194d-495d-9978-1e5545039c2b",
       "source": "9News",
       "pub_date": "2026-11-21T01:34:35+00:00",
-      "age_hours": 4.403989124722222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 12.93835303388889,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "Denver artist community could be displaced after Broncos' new stadium site spurs property sale",
       "link": "https://www.9news.com/article/news/local/denver-artist-community-displaced-broncos-stadium-burnham-yard/73-32e0da83-42b3-4f2b-84a1-ac389814cebb",
       "source": "9News",
       "pub_date": "2026-11-21T01:27:25+00:00",
-      "age_hours": 4.523433574444445,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 13.057797481666668,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Woman sues Denver Police officers for wrongful arrest over package theft",
       "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/woman-sues-denver-police-officers-for-wrongful-arrest-over-package-theft/73-19f55360-5c4a-42e7-9dd8-e0fb51cd002b",
       "source": "9News",
       "pub_date": "2026-11-21T01:08:38+00:00",
-      "age_hours": 4.8364891355555555,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 13.370853041388889,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Denver's first-ever escort license application takes an unexpected turn",
       "link": "https://www.9news.com/article/money/business/small-business/denvers-first-ever-escort-license-application-takes-an-unexpected-turn/73-391d1274-8fbf-486d-b276-c3360617655e",
       "source": "9News",
       "pub_date": "2026-11-21T00:41:01+00:00",
-      "age_hours": 5.29676695,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 13.831130849444445,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Colorado PERA board approves new limits on investment staff bonuses",
       "link": "https://coloradosun.com/2026/11/20/colorado-pera-board-limits-bonus-pay-investment-staff/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-21T00:25:59+00:00",
-      "age_hours": 5.547226529722222,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 14.081534278888888,
+      "breaking": false,
+      "time_ago": "14 hrs ago"
     },
     {
       "title": "Commercial use of gas-powered lawn equipment will now be limited on the Front Range in the summer",
       "link": "https://www.cpr.org/2026/11/20/gas-lawn-mowers-limited-ozone-front-range/",
       "source": "CPR",
       "pub_date": "2026-11-20T22:56:38+00:00",
-      "age_hours": 7.036439281944444,
+      "age_hours": 15.570795715277777,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Brokers see bright spots in residential, commercial pictures",
       "link": "https://bizwest.com/2026/11/20/brokers-see-bright-spots-in-residential-commercial-pictures/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:25:49+00:00",
-      "age_hours": 7.5495405799999995,
+      "age_hours": 16.083955741666667,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Boulder businesses ready to welcome Sundance during slow hospitality season",
       "link": "https://bizwest.com/2026/11/20/boulder-businesses-ready-to-welcome-sundance-during-slow-hospitality-season/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:22:01+00:00",
-      "age_hours": 7.612873930555556,
+      "age_hours": 16.14728909,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "ReCon panel explores ways to support arriving, expanding innovators",
       "link": "https://bizwest.com/2026/11/20/recon-panel-explores-ways-to-support-arriving-expanding-innovators/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:20:10+00:00",
-      "age_hours": 7.643707271666667,
+      "age_hours": 16.178122429444446,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "CSU\u2019s Parsons to receive $1.1M in resignation settlement",
       "link": "https://bizwest.com/2026/11/20/csus-parsons-to-receive-1m-in-resignation-settlement/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:15:11+00:00",
-      "age_hours": 7.7267633955555555,
+      "age_hours": 16.26117841611111,
       "breaking": false,
-      "time_ago": "7 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Hendrick named sole finalist for new UNC president",
       "link": "https://bizwest.com/2026/11/20/hendrick-named-sole-finalist-for-new-unc-president/",
       "source": "BizWest",
       "pub_date": "2026-11-20T21:48:02+00:00",
-      "age_hours": 8.179263433611112,
+      "age_hours": 16.713678449166668,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Health-tech company could establish new Colorado HQ",
       "link": "https://bizwest.com/2026/11/20/health-tech-company-could-establish-new-colorado-hq/",
       "source": "BizWest",
       "pub_date": "2026-11-20T21:39:58+00:00",
-      "age_hours": 8.31370791,
+      "age_hours": 16.848122919722222,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Downtown Littleton set to celebrate holidays with festive events",
       "link": "https://kdvr.com/denver-guide/downtown-littleton-set-to-celebrate-holidays-with-festive-events/",
       "source": "Fox31",
       "pub_date": "2026-11-20T21:28:27+00:00",
-      "age_hours": 8.506310836111112,
+      "age_hours": 17.040722821666666,
       "breaking": false,
-      "time_ago": "8 hrs ago"
-    },
-    {
-      "title": "\u2018Grand Theft Auto VI\u2019 sets record with $3.79B in first-day retail sales, Rockstar Games reports",
-      "link": "https://www.9news.com/article/news/nation-world/gta6-game-playstation-ps5-grand-theft-auto-vi-sales-skyrocket/507-38fe1e00-ba5c-4adb-971f-e9202569a7e0",
-      "source": "9News",
-      "pub_date": "2026-11-20T20:12:19+00:00",
-      "age_hours": 9.775100354166668,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "McCloughan to transition from CEO to CFO at Loveland-Johnstown chamber",
-      "link": "https://bizwest.com/2026/11/20/mccloughan-to-transition-from-ceo-to-cfo-at-loveland-johnstown-chamber/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T20:07:29+00:00",
-      "age_hours": 9.855096804444445,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
-    },
-    {
-      "title": "Northern Colorado Regional Airport charging for parking at terminal",
-      "link": "https://bizwest.com/2026/11/20/northern-colorado-regional-airport-charging-for-parking-at-terminal/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T20:03:17+00:00",
-      "age_hours": 9.925096835833333,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "17 hrs ago"
     }
   ]
 }
