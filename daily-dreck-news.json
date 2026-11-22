@@ -1,42 +1,87 @@
 {
   "fetched_date": "2026-11-22",
-  "fetched_at": "2026-11-22 16:01:32",
+  "fetched_at": "2026-11-22 22:19:41",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 4,
   "articles": [
+    {
+      "title": "69-year-old water main bursts, shuts down Denver street for days",
+      "link": "https://kdvr.com/news/local/69-year-old-water-main-bursts-shuts-down-denver-street-for-days/",
+      "source": "Fox31",
+      "pub_date": "2026-11-22T21:27:48+00:00",
+      "age_hours": 0.8604283563888888,
+      "breaking": true,
+      "time_ago": "51 min ago"
+    },
+    {
+      "title": "Road expected to reopen overnight after water main break",
+      "link": "https://www.9news.com/article/traffic/road-closed-water-main-break-holly-street-denver/73-6f23b854-4f0f-4433-8915-211d8bb42613",
+      "source": "9News",
+      "pub_date": "2026-11-22T20:56:46+00:00",
+      "age_hours": 1.3773949466666666,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "BORED MEETINGS: Lonely adults meeting other humans in person for game play",
+      "link": "https://sentinelcolorado.com/0trending/bored-meetings-lonely-older-adults-meeting-humans-in-person-for-game-play/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-22T17:49:46+00:00",
+      "age_hours": 4.49450499,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Nonprofit Spotlight: Garden to Table",
+      "link": "https://bizwest.com/2026/11/22/nonprofit-spotlight-garden-to-table/",
+      "source": "BizWest",
+      "pub_date": "2026-11-22T16:26:45+00:00",
+      "age_hours": 5.877122558333334,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "\u2018A really disruptive year\u2019",
+      "link": "https://bizwest.com/2026/11/22/a-really-disruptive-year/",
+      "source": "BizWest",
+      "pub_date": "2026-11-22T16:08:15+00:00",
+      "age_hours": 6.185456448333333,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
     {
       "title": "Denver opens additional cold weather shelters as temperatures drop into the 20s",
       "link": "https://kdvr.com/news/local/denver-opens-additional-cold-weather-shelters-as-temperatures-drop-into-the-20s/",
       "source": "Fox31",
       "pub_date": "2026-11-22T02:09:35+00:00",
-      "age_hours": 13.862213596388889,
+      "age_hours": 20.16403966111111,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Thousands of Denver families get free Thanksgiving meals from local non-profits",
       "link": "https://kdvr.com/news/local/thousands-of-denver-families-get-free-thanksgiving-meals-from-local-non-profits/",
       "source": "Fox31",
       "pub_date": "2026-11-21T21:35:02+00:00",
-      "age_hours": 18.43804704277778,
+      "age_hours": 24.73987294666667,
       "breaking": false,
-      "time_ago": "18 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Fire damages 5 condo units in Denver\u2019s City Park West neighborhood",
       "link": "https://kdvr.com/news/local/fire-damages-5-condo-units-in-denvers-city-park-west-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-11-21T19:03:33+00:00",
-      "age_hours": 20.962769202500002,
+      "age_hours": 27.264595065555554,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "How will cash payments be rounded without pennies? What to know about the new law",
       "link": "https://www.9news.com/article/news/nation-world/how-will-cash-payments-be-rounded-without-pennies/507-e0d715c2-12f7-46c7-951a-70cfcfd8f94b",
       "source": "9News",
       "pub_date": "2026-11-21T13:31:30+00:00",
-      "age_hours": 26.496683703333332,
+      "age_hours": 32.79850619916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -45,7 +90,7 @@
       "link": "https://coloradosun.com/2026/11/21/thanksgiving-meal-inflation-turkey-sales-prices-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-21T11:00:00+00:00",
-      "age_hours": 29.021532293055554,
+      "age_hours": 35.32337355388889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -54,7 +99,7 @@
       "link": "https://sentinelcolorado.com/sports/preps/aurora-prep-sports-scoreboard-11-20-26/",
       "source": "Sentinel",
       "pub_date": "2026-11-21T06:03:49+00:00",
-      "age_hours": 33.95844974805556,
+      "age_hours": 40.260338633055554,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -63,7 +108,7 @@
       "link": "https://www.9news.com/article/life/holidays/christkindlmarket-opens-for-season/73-7441e0ad-ea1a-4de2-b033-15424703c447",
       "source": "9News",
       "pub_date": "2026-11-21T05:51:56+00:00",
-      "age_hours": 34.15612820305556,
+      "age_hours": 40.45795068444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +117,7 @@
       "link": "https://www.9news.com/article/money/business/parking-garage-denver-pavilions-demolition/73-e6396db5-c913-4bf9-a897-3596e160230a",
       "source": "9News",
       "pub_date": "2026-11-21T01:53:01+00:00",
-      "age_hours": 38.13807271,
+      "age_hours": 44.43989518638889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +126,7 @@
       "link": "https://www.9news.com/article/news/community/transportation/waymos-map-casa-bonita/73-7a5574b7-5535-4dcc-9eb1-df3c8017126d",
       "source": "9News",
       "pub_date": "2026-11-21T01:42:16+00:00",
-      "age_hours": 38.317239434444446,
+      "age_hours": 44.61906190777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,43 +135,7 @@
       "link": "https://www.9news.com/article/news/nation-world/trump-signs-common-cents-act-halting-penny-production/507-8582004e-9fe1-4dab-ac3f-99e4470efae5",
       "source": "9News",
       "pub_date": "2026-11-21T01:36:38+00:00",
-      "age_hours": 38.411128374166665,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver artists feared losing their studios to the Broncos' new stadium. A year later, the art hub is still open",
-      "link": "https://www.9news.com/article/news/community/denver-artists-feared-losing-their-studios-to-the-broncos-new-stadium-a-year-later-the-art-hub-is-still-open/73-a3e59efc-194d-495d-9978-1e5545039c2b",
-      "source": "9News",
-      "pub_date": "2026-11-21T01:34:35+00:00",
-      "age_hours": 38.4452950775,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver artist community could be displaced after Broncos' new stadium site spurs property sale",
-      "link": "https://www.9news.com/article/news/local/denver-artist-community-displaced-broncos-stadium-burnham-yard/73-32e0da83-42b3-4f2b-84a1-ac389814cebb",
-      "source": "9News",
-      "pub_date": "2026-11-21T01:27:25+00:00",
-      "age_hours": 38.56473952666666,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Woman sues Denver Police officers for wrongful arrest over package theft",
-      "link": "https://www.9news.com/article/money/consumer/steve-on-your-side/woman-sues-denver-police-officers-for-wrongful-arrest-over-package-theft/73-19f55360-5c4a-42e7-9dd8-e0fb51cd002b",
-      "source": "9News",
-      "pub_date": "2026-11-21T01:08:38+00:00",
-      "age_hours": 38.87779508777778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver's first-ever escort license application takes an unexpected turn",
-      "link": "https://www.9news.com/article/money/business/small-business/denvers-first-ever-escort-license-application-takes-an-unexpected-turn/73-391d1274-8fbf-486d-b276-c3360617655e",
-      "source": "9News",
-      "pub_date": "2026-11-21T00:41:01+00:00",
-      "age_hours": 39.338072902777775,
+      "age_hours": 44.71295085444444,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +144,7 @@
       "link": "https://coloradosun.com/2026/11/20/colorado-pera-board-limits-bonus-pay-investment-staff/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-21T00:25:59+00:00",
-      "age_hours": 39.58847714583334,
+      "age_hours": 45.89031839027778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +153,7 @@
       "link": "https://www.cpr.org/2026/11/20/gas-lawn-mowers-limited-ozone-front-range/",
       "source": "CPR",
       "pub_date": "2026-11-20T22:56:38+00:00",
-      "age_hours": 41.077731243611105,
+      "age_hours": 47.37956878777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,7 +162,7 @@
       "link": "https://bizwest.com/2026/11/20/brokers-see-bright-spots-in-residential-commercial-pictures/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:25:49+00:00",
-      "age_hours": 41.59093171333333,
+      "age_hours": 47.89267870444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -162,7 +171,7 @@
       "link": "https://bizwest.com/2026/11/20/boulder-businesses-ready-to-welcome-sundance-during-slow-hospitality-season/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:22:01+00:00",
-      "age_hours": 41.654265061388884,
+      "age_hours": 47.95601204527778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -171,16 +180,7 @@
       "link": "https://bizwest.com/2026/11/20/recon-panel-explores-ways-to-support-arriving-expanding-innovators/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:20:10+00:00",
-      "age_hours": 41.685098402222216,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "CSU\u2019s Parsons to receive $1.1M in resignation settlement",
-      "link": "https://bizwest.com/2026/11/20/csus-parsons-to-receive-1m-in-resignation-settlement/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T22:15:11+00:00",
-      "age_hours": 41.768154501666665,
+      "age_hours": 47.98684538444444,
       "breaking": false,
       "time_ago": "1 day ago"
     }
