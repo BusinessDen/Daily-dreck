@@ -1,69 +1,96 @@
 {
   "fetched_date": "2026-11-23",
-  "fetched_at": "2026-11-23 03:33:22",
+  "fetched_at": "2026-11-23 14:07:39",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 4,
   "articles": [
     {
-      "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-      "link": "https://sentinelcolorado.com/metro/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992/",
+      "title": "Aurora City Council moves toward stricter rules linked to public comment, virtual attendance",
+      "link": "https://sentinelcolorado.com/metro/aurora-city-council-moves-toward-stricter-rules-linked-to-public-comment-virtual-attendance/",
       "source": "Sentinel",
-      "pub_date": "2026-11-23T02:42:56+00:00",
-      "age_hours": 0.8371588144444445,
+      "pub_date": "2026-11-23T13:19:44+00:00",
+      "age_hours": 0.7947858286111111,
       "breaking": true,
-      "time_ago": "50 min ago"
+      "time_ago": "47 min ago"
+    },
+    {
+      "title": "When Colorado\u2019s celebrity \u201cNinjadoc\u201d burned out on the ER, he turned to tackling healthcare obstacles",
+      "link": "https://coloradosun.com/2026/11/23/ninjadoc-noah-kaufman-direct-pay-healthcare/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-23T11:05:00+00:00",
+      "age_hours": 3.039352897777778,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Tiny Eastern Plains district becomes a landlord in order to recruit music teacher",
+      "link": "https://www.cpr.org/2026/11/23/eastern-plains-district-hugo-landlord-recruit-teacher-shortage/",
+      "source": "CPR",
+      "pub_date": "2026-11-23T11:00:00+00:00",
+      "age_hours": 3.1228815627777777,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Stranded \u201con an island\u201d: How southwestern Colorado\u2019s floods impacted the hunting industry",
+      "link": "https://coloradosun.com/2026/11/23/how-southwestern-colorado-floods-impacted-hunting-industry/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-23T10:48:00+00:00",
+      "age_hours": 3.322686256111111,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "New-to-country student enrollment at Denver Public Schools drops 84% from 2023",
+      "link": "https://www.9news.com/article/news/education/new-to-country-student-enrollment-denver-public-schools/73-02a90b39-5a49-41a0-aa6b-e7449877f087",
+      "source": "9News",
+      "pub_date": "2026-11-23T04:36:11+00:00",
+      "age_hours": 9.5199404875,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Denver road expected to reopen overnight after water main break",
       "link": "https://www.9news.com/article/traffic/road-closed-water-main-break-holly-street-denver/73-6f23b854-4f0f-4433-8915-211d8bb42613",
       "source": "9News",
       "pub_date": "2026-11-23T01:50:08+00:00",
-      "age_hours": 1.7160837577777779,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 12.287440524722221,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
       "title": "69-year-old water main bursts, shuts down Denver street for days",
       "link": "https://kdvr.com/news/local/69-year-old-water-main-bursts-shuts-down-denver-street-for-days/",
       "source": "Fox31",
       "pub_date": "2026-11-22T21:27:48+00:00",
-      "age_hours": 6.089007818888889,
+      "age_hours": 16.659924547777777,
       "breaking": false,
-      "time_ago": "6 hrs ago"
-    },
-    {
-      "title": "BORED MEETINGS: Lonely adults meeting other humans in person for game play",
-      "link": "https://sentinelcolorado.com/0trending/bored-meetings-lonely-older-adults-meeting-humans-in-person-for-game-play/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-22T17:49:46+00:00",
-      "age_hours": 9.723270202499998,
-      "breaking": false,
-      "time_ago": "9 hrs ago"
+      "time_ago": "16 hrs ago"
     },
     {
       "title": "Nonprofit Spotlight: Garden to Table",
       "link": "https://bizwest.com/2026/11/22/nonprofit-spotlight-garden-to-table/",
       "source": "BizWest",
       "pub_date": "2026-11-22T16:26:45+00:00",
-      "age_hours": 11.105084163333334,
+      "age_hours": 21.67643170972222,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "\u2018A really disruptive year\u2019",
       "link": "https://bizwest.com/2026/11/22/a-really-disruptive-year/",
       "source": "BizWest",
       "pub_date": "2026-11-22T16:08:15+00:00",
-      "age_hours": 11.413418524999999,
+      "age_hours": 21.984765387777777,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Denver opens additional cold weather shelters as temperatures drop into the 20s",
       "link": "https://kdvr.com/news/local/denver-opens-additional-cold-weather-shelters-as-temperatures-drop-into-the-20s/",
       "source": "Fox31",
       "pub_date": "2026-11-22T02:09:35+00:00",
-      "age_hours": 25.392619168611112,
+      "age_hours": 35.96353582333333,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +99,7 @@
       "link": "https://kdvr.com/news/local/thousands-of-denver-families-get-free-thanksgiving-meals-from-local-non-profits/",
       "source": "Fox31",
       "pub_date": "2026-11-21T21:35:02+00:00",
-      "age_hours": 29.968452454166666,
+      "age_hours": 40.53936912916667,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,61 +108,16 @@
       "link": "https://kdvr.com/news/local/fire-damages-5-condo-units-in-denvers-city-park-west-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-11-21T19:03:33+00:00",
-      "age_hours": 32.49317456138889,
+      "age_hours": 43.06409127361111,
       "breaking": false,
       "time_ago": "1 day ago"
-    },
-    {
-      "title": "How will cash payments be rounded without pennies? What to know about the new law",
-      "link": "https://www.9news.com/article/news/nation-world/how-will-cash-payments-be-rounded-without-pennies/507-e0d715c2-12f7-46c7-951a-70cfcfd8f94b",
-      "source": "9News",
-      "pub_date": "2026-11-21T13:31:30+00:00",
-      "age_hours": 38.026639438888886,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "What\u2019s Working: Why a Thanksgiving meal costs less in Colorado than the rest of the nation this year",
-      "link": "https://coloradosun.com/2026/11/21/thanksgiving-meal-inflation-turkey-sales-prices-colorado/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-21T11:00:00+00:00",
-      "age_hours": 40.55138804361111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Denver Christkindlmarket officially opens for season",
-      "link": "https://www.9news.com/article/life/holidays/christkindlmarket-opens-for-season/73-7441e0ad-ea1a-4de2-b033-15424703c447",
-      "source": "9News",
-      "pub_date": "2026-11-21T05:51:56+00:00",
-      "age_hours": 45.686083933333336,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Parking garage under Denver Pavilions could help pay to tear down the mall",
-      "link": "https://www.9news.com/article/money/business/parking-garage-denver-pavilions-demolition/73-e6396db5-c913-4bf9-a897-3596e160230a",
-      "source": "9News",
-      "pub_date": "2026-11-21T01:53:01+00:00",
-      "age_hours": 49.6680284375,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado PERA board approves new limits on investment staff bonuses",
-      "link": "https://coloradosun.com/2026/11/20/colorado-pera-board-limits-bonus-pay-investment-staff/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-21T00:25:59+00:00",
-      "age_hours": 51.11833287666666,
-      "breaking": false,
-      "time_ago": "2 days ago"
     },
     {
       "title": "Commercial use of gas-powered lawn equipment will now be limited on the Front Range in the summer",
       "link": "https://www.cpr.org/2026/11/20/gas-lawn-mowers-limited-ozone-front-range/",
       "source": "CPR",
       "pub_date": "2026-11-20T22:56:38+00:00",
-      "age_hours": 52.60765534111111,
+      "age_hours": 63.178992729166666,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -144,7 +126,7 @@
       "link": "https://bizwest.com/2026/11/20/brokers-see-bright-spots-in-residential-commercial-pictures/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:25:49+00:00",
-      "age_hours": 53.12064081138889,
+      "age_hours": 63.69198763361111,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -153,7 +135,7 @@
       "link": "https://bizwest.com/2026/11/20/boulder-businesses-ready-to-welcome-sundance-during-slow-hospitality-season/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:22:01+00:00",
-      "age_hours": 53.183974158055555,
+      "age_hours": 63.75532097222222,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -162,7 +144,7 @@
       "link": "https://bizwest.com/2026/11/20/recon-panel-explores-ways-to-support-arriving-expanding-innovators/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:20:10+00:00",
-      "age_hours": 53.214807502777774,
+      "age_hours": 63.78615430916667,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -171,7 +153,7 @@
       "link": "https://bizwest.com/2026/11/20/csus-parsons-to-receive-1m-in-resignation-settlement/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:15:11+00:00",
-      "age_hours": 53.29786312472223,
+      "age_hours": 63.86920988333333,
       "breaking": false,
       "time_ago": "2 days ago"
     },
@@ -180,7 +162,25 @@
       "link": "https://bizwest.com/2026/11/20/hendrick-named-sole-finalist-for-new-unc-president/",
       "source": "BizWest",
       "pub_date": "2026-11-20T21:48:02+00:00",
-      "age_hours": 53.75036319722223,
+      "age_hours": 64.32170990527779,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "Health-tech company could establish new Colorado HQ",
+      "link": "https://bizwest.com/2026/11/20/health-tech-company-could-establish-new-colorado-hq/",
+      "source": "BizWest",
+      "pub_date": "2026-11-20T21:39:58+00:00",
+      "age_hours": 64.45615436972223,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "McCloughan to transition from CEO to CFO at Loveland-Johnstown chamber",
+      "link": "https://bizwest.com/2026/11/20/mccloughan-to-transition-from-ceo-to-cfo-at-loveland-johnstown-chamber/",
+      "source": "BizWest",
+      "pub_date": "2026-11-20T20:07:29+00:00",
+      "age_hours": 65.99754326083334,
       "breaking": false,
       "time_ago": "2 days ago"
     }
