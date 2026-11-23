@@ -1,69 +1,78 @@
 {
-  "fetched_date": "2026-11-22",
-  "fetched_at": "2026-11-22 22:19:41",
+  "fetched_date": "2026-11-23",
+  "fetched_at": "2026-11-23 03:33:22",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 2,
   "articles": [
+    {
+      "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+      "link": "https://sentinelcolorado.com/metro/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-23T02:42:56+00:00",
+      "age_hours": 0.8371588144444445,
+      "breaking": true,
+      "time_ago": "50 min ago"
+    },
+    {
+      "title": "Denver road expected to reopen overnight after water main break",
+      "link": "https://www.9news.com/article/traffic/road-closed-water-main-break-holly-street-denver/73-6f23b854-4f0f-4433-8915-211d8bb42613",
+      "source": "9News",
+      "pub_date": "2026-11-23T01:50:08+00:00",
+      "age_hours": 1.7160837577777779,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
     {
       "title": "69-year-old water main bursts, shuts down Denver street for days",
       "link": "https://kdvr.com/news/local/69-year-old-water-main-bursts-shuts-down-denver-street-for-days/",
       "source": "Fox31",
       "pub_date": "2026-11-22T21:27:48+00:00",
-      "age_hours": 0.8604283563888888,
-      "breaking": true,
-      "time_ago": "51 min ago"
-    },
-    {
-      "title": "Road expected to reopen overnight after water main break",
-      "link": "https://www.9news.com/article/traffic/road-closed-water-main-break-holly-street-denver/73-6f23b854-4f0f-4433-8915-211d8bb42613",
-      "source": "9News",
-      "pub_date": "2026-11-22T20:56:46+00:00",
-      "age_hours": 1.3773949466666666,
-      "breaking": true,
-      "time_ago": "1 hrs ago"
+      "age_hours": 6.089007818888889,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
     },
     {
       "title": "BORED MEETINGS: Lonely adults meeting other humans in person for game play",
       "link": "https://sentinelcolorado.com/0trending/bored-meetings-lonely-older-adults-meeting-humans-in-person-for-game-play/",
       "source": "Sentinel",
       "pub_date": "2026-11-22T17:49:46+00:00",
-      "age_hours": 4.49450499,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 9.723270202499998,
+      "breaking": false,
+      "time_ago": "9 hrs ago"
     },
     {
       "title": "Nonprofit Spotlight: Garden to Table",
       "link": "https://bizwest.com/2026/11/22/nonprofit-spotlight-garden-to-table/",
       "source": "BizWest",
       "pub_date": "2026-11-22T16:26:45+00:00",
-      "age_hours": 5.877122558333334,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 11.105084163333334,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "\u2018A really disruptive year\u2019",
       "link": "https://bizwest.com/2026/11/22/a-really-disruptive-year/",
       "source": "BizWest",
       "pub_date": "2026-11-22T16:08:15+00:00",
-      "age_hours": 6.185456448333333,
+      "age_hours": 11.413418524999999,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Denver opens additional cold weather shelters as temperatures drop into the 20s",
       "link": "https://kdvr.com/news/local/denver-opens-additional-cold-weather-shelters-as-temperatures-drop-into-the-20s/",
       "source": "Fox31",
       "pub_date": "2026-11-22T02:09:35+00:00",
-      "age_hours": 20.16403966111111,
+      "age_hours": 25.392619168611112,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Thousands of Denver families get free Thanksgiving meals from local non-profits",
       "link": "https://kdvr.com/news/local/thousands-of-denver-families-get-free-thanksgiving-meals-from-local-non-profits/",
       "source": "Fox31",
       "pub_date": "2026-11-21T21:35:02+00:00",
-      "age_hours": 24.73987294666667,
+      "age_hours": 29.968452454166666,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -72,7 +81,7 @@
       "link": "https://kdvr.com/news/local/fire-damages-5-condo-units-in-denvers-city-park-west-neighborhood/",
       "source": "Fox31",
       "pub_date": "2026-11-21T19:03:33+00:00",
-      "age_hours": 27.264595065555554,
+      "age_hours": 32.49317456138889,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -81,7 +90,7 @@
       "link": "https://www.9news.com/article/news/nation-world/how-will-cash-payments-be-rounded-without-pennies/507-e0d715c2-12f7-46c7-951a-70cfcfd8f94b",
       "source": "9News",
       "pub_date": "2026-11-21T13:31:30+00:00",
-      "age_hours": 32.79850619916667,
+      "age_hours": 38.026639438888886,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -90,16 +99,7 @@
       "link": "https://coloradosun.com/2026/11/21/thanksgiving-meal-inflation-turkey-sales-prices-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-21T11:00:00+00:00",
-      "age_hours": 35.32337355388889,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Aurora prep sports scoreboard, 11.20.26",
-      "link": "https://sentinelcolorado.com/sports/preps/aurora-prep-sports-scoreboard-11-20-26/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-21T06:03:49+00:00",
-      "age_hours": 40.260338633055554,
+      "age_hours": 40.55138804361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +108,7 @@
       "link": "https://www.9news.com/article/life/holidays/christkindlmarket-opens-for-season/73-7441e0ad-ea1a-4de2-b033-15424703c447",
       "source": "9News",
       "pub_date": "2026-11-21T05:51:56+00:00",
-      "age_hours": 40.45795068444444,
+      "age_hours": 45.686083933333336,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,72 +117,72 @@
       "link": "https://www.9news.com/article/money/business/parking-garage-denver-pavilions-demolition/73-e6396db5-c913-4bf9-a897-3596e160230a",
       "source": "9News",
       "pub_date": "2026-11-21T01:53:01+00:00",
-      "age_hours": 44.43989518638889,
+      "age_hours": 49.6680284375,
       "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Waymo\u2019s map crosses the city line for cliff divers and sopapillas",
-      "link": "https://www.9news.com/article/news/community/transportation/waymos-map-casa-bonita/73-7a5574b7-5535-4dcc-9eb1-df3c8017126d",
-      "source": "9News",
-      "pub_date": "2026-11-21T01:42:16+00:00",
-      "age_hours": 44.61906190777778,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Trump signs 'Common Cents Act' into law, halting penny production",
-      "link": "https://www.9news.com/article/news/nation-world/trump-signs-common-cents-act-halting-penny-production/507-8582004e-9fe1-4dab-ac3f-99e4470efae5",
-      "source": "9News",
-      "pub_date": "2026-11-21T01:36:38+00:00",
-      "age_hours": 44.71295085444444,
-      "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Colorado PERA board approves new limits on investment staff bonuses",
       "link": "https://coloradosun.com/2026/11/20/colorado-pera-board-limits-bonus-pay-investment-staff/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-21T00:25:59+00:00",
-      "age_hours": 45.89031839027778,
+      "age_hours": 51.11833287666666,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Commercial use of gas-powered lawn equipment will now be limited on the Front Range in the summer",
       "link": "https://www.cpr.org/2026/11/20/gas-lawn-mowers-limited-ozone-front-range/",
       "source": "CPR",
       "pub_date": "2026-11-20T22:56:38+00:00",
-      "age_hours": 47.37956878777778,
+      "age_hours": 52.60765534111111,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Brokers see bright spots in residential, commercial pictures",
       "link": "https://bizwest.com/2026/11/20/brokers-see-bright-spots-in-residential-commercial-pictures/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:25:49+00:00",
-      "age_hours": 47.89267870444445,
+      "age_hours": 53.12064081138889,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "Boulder businesses ready to welcome Sundance during slow hospitality season",
       "link": "https://bizwest.com/2026/11/20/boulder-businesses-ready-to-welcome-sundance-during-slow-hospitality-season/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:22:01+00:00",
-      "age_hours": 47.95601204527778,
+      "age_hours": 53.183974158055555,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "ReCon panel explores ways to support arriving, expanding innovators",
       "link": "https://bizwest.com/2026/11/20/recon-panel-explores-ways-to-support-arriving-expanding-innovators/",
       "source": "BizWest",
       "pub_date": "2026-11-20T22:20:10+00:00",
-      "age_hours": 47.98684538444444,
+      "age_hours": 53.214807502777774,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "CSU\u2019s Parsons to receive $1.1M in resignation settlement",
+      "link": "https://bizwest.com/2026/11/20/csus-parsons-to-receive-1m-in-resignation-settlement/",
+      "source": "BizWest",
+      "pub_date": "2026-11-20T22:15:11+00:00",
+      "age_hours": 53.29786312472223,
+      "breaking": false,
+      "time_ago": "2 days ago"
+    },
+    {
+      "title": "Hendrick named sole finalist for new UNC president",
+      "link": "https://bizwest.com/2026/11/20/hendrick-named-sole-finalist-for-new-unc-president/",
+      "source": "BizWest",
+      "pub_date": "2026-11-20T21:48:02+00:00",
+      "age_hours": 53.75036319722223,
+      "breaking": false,
+      "time_ago": "2 days ago"
     }
   ]
 }
