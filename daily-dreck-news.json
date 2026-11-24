@@ -1,188 +1,188 @@
 {
-  "fetched_date": "2026-11-23",
-  "fetched_at": "2026-11-23 14:07:39",
+  "fetched_date": "2026-11-24",
+  "fetched_at": "2026-11-24 02:01:30",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 11,
   "articles": [
     {
-      "title": "Aurora City Council moves toward stricter rules linked to public comment, virtual attendance",
-      "link": "https://sentinelcolorado.com/metro/aurora-city-council-moves-toward-stricter-rules-linked-to-public-comment-virtual-attendance/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-23T13:19:44+00:00",
-      "age_hours": 0.7947858286111111,
+      "title": "Boulder nonprofit's housing to close days before Thanksgiving",
+      "link": "https://kdvr.com/news/local/boulder-nonprofits-housing-to-close-days-before-thanksgiving/",
+      "source": "Fox31",
+      "pub_date": "2026-11-24T01:58:40+00:00",
+      "age_hours": 0.04326366805555555,
       "breaking": true,
-      "time_ago": "47 min ago"
+      "time_ago": "2 min ago"
     },
     {
-      "title": "When Colorado\u2019s celebrity \u201cNinjadoc\u201d burned out on the ER, he turned to tackling healthcare obstacles",
-      "link": "https://coloradosun.com/2026/11/23/ninjadoc-noah-kaufman-direct-pay-healthcare/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-23T11:05:00+00:00",
-      "age_hours": 3.039352897777778,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Tiny Eastern Plains district becomes a landlord in order to recruit music teacher",
-      "link": "https://www.cpr.org/2026/11/23/eastern-plains-district-hugo-landlord-recruit-teacher-shortage/",
-      "source": "CPR",
-      "pub_date": "2026-11-23T11:00:00+00:00",
-      "age_hours": 3.1228815627777777,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Stranded \u201con an island\u201d: How southwestern Colorado\u2019s floods impacted the hunting industry",
-      "link": "https://coloradosun.com/2026/11/23/how-southwestern-colorado-floods-impacted-hunting-industry/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-23T10:48:00+00:00",
-      "age_hours": 3.322686256111111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "New-to-country student enrollment at Denver Public Schools drops 84% from 2023",
-      "link": "https://www.9news.com/article/news/education/new-to-country-student-enrollment-denver-public-schools/73-02a90b39-5a49-41a0-aa6b-e7449877f087",
+      "title": "Denver street remains closed after 2nd water main break",
+      "link": "https://www.9news.com/article/traffic/road-closed-water-main-break-holly-street-denver/73-6f23b854-4f0f-4433-8915-211d8bb42613",
       "source": "9News",
-      "pub_date": "2026-11-23T04:36:11+00:00",
-      "age_hours": 9.5199404875,
+      "pub_date": "2026-11-24T00:32:02+00:00",
+      "age_hours": 1.4869907441666665,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Flying with food for Thanksgiving? Here's a list of TSA-approved dishes",
+      "link": "https://kdvr.com/denver-guide/flying-with-food-for-thanksgiving-tsa-approved/",
+      "source": "Fox31",
+      "pub_date": "2026-11-23T23:36:49+00:00",
+      "age_hours": 2.4074303727777777,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver study finds crashes down more than 50% after controversial safety changes to Sloans Lake road",
+      "link": "https://www.9news.com/article/news/local/denver-west-29th-avenue-traffic-study/73-845ee23a-5582-4209-bd24-3805cf4df925",
+      "source": "9News",
+      "pub_date": "2026-11-23T23:30:37+00:00",
+      "age_hours": 2.5106018961111114,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver officer being sued over wrongful package theft detention was previously suspended in domestic violence case",
+      "link": "https://www.9news.com/article/news/investigations/denver-officer-lawsuit-package-theft-wrongful-arrest/73-8857484d-2219-404a-977e-0a1fb520a73a",
+      "source": "9News",
+      "pub_date": "2026-11-23T23:17:11+00:00",
+      "age_hours": 2.7344908105555557,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "1 seriously injured after rollover crash on I-25 in Denver",
+      "link": "https://kdvr.com/news/local/1-seriously-injured-after-rollover-crash-on-i-25-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-11-23T22:48:47+00:00",
+      "age_hours": 3.2079858475000003,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Colorado, 21 other states sue HUD to block immigrant housing rule",
+      "link": "https://kdvr.com/news/local/colorado-21-other-states-sue-hud-to-block-immigrant-housing-rule/",
+      "source": "Fox31",
+      "pub_date": "2026-11-23T22:41:18+00:00",
+      "age_hours": 3.3327081930555558,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Wellington adopts policy for economic incentives",
+      "link": "https://bizwest.com/2026/11/23/wellington-adopts-policy-for-economic-incentives/",
+      "source": "BizWest",
+      "pub_date": "2026-11-23T22:38:04+00:00",
+      "age_hours": 3.382660766944445,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Deadline nears for discounted tickets to Boulder Economic Forecast",
+      "link": "https://bizwest.com/2026/11/23/deadline-nears-for-discounted-tickets-to-boulder-economic-forecast/",
+      "source": "BizWest",
+      "pub_date": "2026-11-23T22:30:53+00:00",
+      "age_hours": 3.5023830030555554,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Transgender student faces losing sports access after Colorado Prop 134 passes",
+      "link": "https://sentinelcolorado.com/metro/transgender-student-faces-losing-sports-access-after-colorado-prop-134-passes/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-23T21:10:16+00:00",
+      "age_hours": 4.850189917777778,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Colorado jobless rate up again, outpacing nation",
+      "link": "https://bizwest.com/2026/11/23/colorado-jobless-rate-up-again-outpacing-nation/",
+      "source": "BizWest",
+      "pub_date": "2026-11-23T19:50:57+00:00",
+      "age_hours": 6.167938946666666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "State demographer: How will slowing growth affect Boulder Valley business?",
+      "link": "https://bizwest.com/2026/11/23/state-demographer-how-will-slowing-growth-affect-boulder-valley-business/",
+      "source": "BizWest",
+      "pub_date": "2026-11-23T19:44:27+00:00",
+      "age_hours": 6.276272304444444,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Bixby, Friends schools to combine in Boulder",
+      "link": "https://bizwest.com/2026/11/23/bixby-friends-schools-to-combine-in-boulder/",
+      "source": "BizWest",
+      "pub_date": "2026-11-23T19:30:23+00:00",
+      "age_hours": 6.510716753611111,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "$305M Gaylord Rockies Expansion Moves Forward",
+      "link": "https://milehighcre.com/305m-gaylord-rockies-expansion-moves-forward/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-23T18:15:18+00:00",
+      "age_hours": 7.762499751666667,
+      "breaking": false,
+      "time_ago": "7 hrs ago"
+    },
+    {
+      "title": "Denver Multifamily Rents Expected To Remain Below National Average In 2027",
+      "link": "https://www.bisnow.com/news/denver/multifamily/denver-multifamily-rents-expected-to-remain-below-national-average-in-2027",
+      "source": "Bisnow",
+      "pub_date": "2026-11-23T17:54:27-05:00",
+      "age_hours": 3.1097399816666664,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Cherry Creek Office Building Sells for $29.15M",
+      "link": "https://milehighcre.com/cherry-creek-office-building-sells-for-29-15m/",
+      "source": "Mile High CRE",
+      "pub_date": "2026-11-23T17:28:48+00:00",
+      "age_hours": 8.537499766944444,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Denver home builders offer rates below 4% as market cools",
+      "link": "https://www.9news.com/article/money/markets/real-estate/holiday-house-hunters-incentives-new-homes/73-aacf2aca-ef39-4a9c-9eda-2480a9c970cb",
+      "source": "9News",
+      "pub_date": "2026-11-23T17:01:44+00:00",
+      "age_hours": 8.991990890277778,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
+    {
+      "title": "Excavation starts on $1.8B Cherry Creek project",
+      "link": "https://www.9news.com/article/money/business/cherry-creek-west-mall-project/73-4ee72278-9341-49c0-9bec-7d40295db8d2",
+      "source": "9News",
+      "pub_date": "2026-11-23T16:52:13+00:00",
+      "age_hours": 9.150602008055555,
       "breaking": false,
       "time_ago": "9 hrs ago"
     },
     {
-      "title": "Denver road expected to reopen overnight after water main break",
-      "link": "https://www.9news.com/article/traffic/road-closed-water-main-break-holly-street-denver/73-6f23b854-4f0f-4433-8915-211d8bb42613",
+      "title": "Smashburger closes Denver metro restaurant",
+      "link": "https://www.9news.com/article/money/business/smashburger-closes-restaurant-aurora-parker-road/73-e566365b-b0c7-40ef-a2ff-c2e19dda91ba",
       "source": "9News",
-      "pub_date": "2026-11-23T01:50:08+00:00",
-      "age_hours": 12.287440524722221,
+      "pub_date": "2026-11-23T15:36:29+00:00",
+      "age_hours": 10.412824265,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "10 hrs ago"
     },
     {
-      "title": "69-year-old water main bursts, shuts down Denver street for days",
-      "link": "https://kdvr.com/news/local/69-year-old-water-main-bursts-shuts-down-denver-street-for-days/",
-      "source": "Fox31",
-      "pub_date": "2026-11-22T21:27:48+00:00",
-      "age_hours": 16.659924547777777,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Nonprofit Spotlight: Garden to Table",
-      "link": "https://bizwest.com/2026/11/22/nonprofit-spotlight-garden-to-table/",
+      "title": "After Berthoud opening, Santiago\u2019s Longmont restaurant to close",
+      "link": "https://bizwest.com/2026/11/23/after-berthoud-opening-santiagos-closing-longmont-restaurant/",
       "source": "BizWest",
-      "pub_date": "2026-11-22T16:26:45+00:00",
-      "age_hours": 21.67643170972222,
+      "pub_date": "2026-11-23T15:08:33+00:00",
+      "age_hours": 10.874605665833332,
       "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "\u2018A really disruptive year\u2019",
-      "link": "https://bizwest.com/2026/11/22/a-really-disruptive-year/",
-      "source": "BizWest",
-      "pub_date": "2026-11-22T16:08:15+00:00",
-      "age_hours": 21.984765387777777,
-      "breaking": false,
-      "time_ago": "21 hrs ago"
-    },
-    {
-      "title": "Denver opens additional cold weather shelters as temperatures drop into the 20s",
-      "link": "https://kdvr.com/news/local/denver-opens-additional-cold-weather-shelters-as-temperatures-drop-into-the-20s/",
-      "source": "Fox31",
-      "pub_date": "2026-11-22T02:09:35+00:00",
-      "age_hours": 35.96353582333333,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Thousands of Denver families get free Thanksgiving meals from local non-profits",
-      "link": "https://kdvr.com/news/local/thousands-of-denver-families-get-free-thanksgiving-meals-from-local-non-profits/",
-      "source": "Fox31",
-      "pub_date": "2026-11-21T21:35:02+00:00",
-      "age_hours": 40.53936912916667,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Fire damages 5 condo units in Denver\u2019s City Park West neighborhood",
-      "link": "https://kdvr.com/news/local/fire-damages-5-condo-units-in-denvers-city-park-west-neighborhood/",
-      "source": "Fox31",
-      "pub_date": "2026-11-21T19:03:33+00:00",
-      "age_hours": 43.06409127361111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Commercial use of gas-powered lawn equipment will now be limited on the Front Range in the summer",
-      "link": "https://www.cpr.org/2026/11/20/gas-lawn-mowers-limited-ozone-front-range/",
-      "source": "CPR",
-      "pub_date": "2026-11-20T22:56:38+00:00",
-      "age_hours": 63.178992729166666,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Brokers see bright spots in residential, commercial pictures",
-      "link": "https://bizwest.com/2026/11/20/brokers-see-bright-spots-in-residential-commercial-pictures/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T22:25:49+00:00",
-      "age_hours": 63.69198763361111,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Boulder businesses ready to welcome Sundance during slow hospitality season",
-      "link": "https://bizwest.com/2026/11/20/boulder-businesses-ready-to-welcome-sundance-during-slow-hospitality-season/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T22:22:01+00:00",
-      "age_hours": 63.75532097222222,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "ReCon panel explores ways to support arriving, expanding innovators",
-      "link": "https://bizwest.com/2026/11/20/recon-panel-explores-ways-to-support-arriving-expanding-innovators/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T22:20:10+00:00",
-      "age_hours": 63.78615430916667,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "CSU\u2019s Parsons to receive $1.1M in resignation settlement",
-      "link": "https://bizwest.com/2026/11/20/csus-parsons-to-receive-1m-in-resignation-settlement/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T22:15:11+00:00",
-      "age_hours": 63.86920988333333,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Hendrick named sole finalist for new UNC president",
-      "link": "https://bizwest.com/2026/11/20/hendrick-named-sole-finalist-for-new-unc-president/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T21:48:02+00:00",
-      "age_hours": 64.32170990527779,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Health-tech company could establish new Colorado HQ",
-      "link": "https://bizwest.com/2026/11/20/health-tech-company-could-establish-new-colorado-hq/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T21:39:58+00:00",
-      "age_hours": 64.45615436972223,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "McCloughan to transition from CEO to CFO at Loveland-Johnstown chamber",
-      "link": "https://bizwest.com/2026/11/20/mccloughan-to-transition-from-ceo-to-cfo-at-loveland-johnstown-chamber/",
-      "source": "BizWest",
-      "pub_date": "2026-11-20T20:07:29+00:00",
-      "age_hours": 65.99754326083334,
-      "breaking": false,
-      "time_ago": "2 days ago"
+      "time_ago": "10 hrs ago"
     }
   ]
 }
