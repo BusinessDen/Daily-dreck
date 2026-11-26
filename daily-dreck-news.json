@@ -1,69 +1,177 @@
 {
-  "fetched_date": "2026-11-25",
-  "fetched_at": "2026-11-25 18:29:25",
+  "fetched_date": "2026-11-26",
+  "fetched_at": "2026-11-26 02:04:02",
   "article_count": 20,
-  "breaking_count": 8,
+  "breaking_count": 15,
   "articles": [
+    {
+      "title": "Broncos seek OK to exceed mountain view limit at Burnham Yard",
+      "link": "https://www.9news.com/article/news/local/colorado-news/broncos-look-to-exceed-mountain-view-limit-burnham-yard/73-6babb4ef-7a98-41c9-91bf-08afbba30815",
+      "source": "9News",
+      "pub_date": "2026-11-26T01:45:29+00:00",
+      "age_hours": 0.30532751583333334,
+      "breaking": true,
+      "time_ago": "18 min ago"
+    },
+    {
+      "title": "Why drivers are being limited through Denver's Cheesman Park",
+      "link": "https://kdvr.com/news/local/why-drivers-are-being-limited-through-denvers-cheesman-park/",
+      "source": "Fox31",
+      "pub_date": "2026-11-26T00:44:23+00:00",
+      "age_hours": 1.3237661027777778,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Boulder-based biotech company raises $87 million amid shift to vaccine development",
+      "link": "https://www.9news.com/article/news/local/boulder-based-biotech-company-vitrivax-funding/73-fce9ea38-c509-40b5-a30e-1d11b9c3d0a0",
+      "source": "9News",
+      "pub_date": "2026-11-25T23:47:42+00:00",
+      "age_hours": 2.268383102777778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Construction progresses on former VA campus in Denver starting with historic renovation",
+      "link": "https://www.9news.com/article/news/local/denver-former-va-property-latest/73-a423184c-37ba-4274-8d78-60b463b69afa",
+      "source": "9News",
+      "pub_date": "2026-11-25T23:37:51+00:00",
+      "age_hours": 2.432549779444445,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "'No wrong way to Opt Outside': Outdoor retailer to leave its doors closed on Black Friday",
+      "link": "https://www.9news.com/article/life/holidays/black-friday/rei-closed-on-black-friday/73-9601d846-f3ff-4de8-838f-737b9f70fdde",
+      "source": "9News",
+      "pub_date": "2026-11-25T22:43:03+00:00",
+      "age_hours": 3.3458831183333335,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "A Mexican Christmas, a Colorado story: Mario Rivas and Nita Gonzales share holiday memories",
+      "link": "https://www.cpr.org/2026/11/25/a-mexican-christmas-a-colorado-story-mario-rivas-and-nita-gonzales-share-holiday-memories/",
+      "source": "CPR",
+      "pub_date": "2026-11-25T22:27:49+00:00",
+      "age_hours": 3.5997404605555556,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Two Denver-based social enterprises hope customers shop with them for Small Business Saturday",
+      "link": "https://www.denver7.com/news/front-range/denver/two-denver-based-social-enterprises-hope-customers-shop-with-them-for-small-business-saturday",
+      "source": "Denver7",
+      "pub_date": "2026-11-25T22:06:10+00:00",
+      "age_hours": 3.9606280644444447,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Colorado\u2019s Advanced Industries Accelerator program doles dozens of grants",
+      "link": "https://bizwest.com/2026/11/25/colorados-advanced-industries-accelerator-program-doles-dozens-of-grants/",
+      "source": "BizWest",
+      "pub_date": "2026-11-25T21:32:09+00:00",
+      "age_hours": 4.527209771666667,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Ex-US Ski & Snowboard exec to lead X Games nonprofit",
+      "link": "https://bizwest.com/2026/11/25/ex-us-ski-snowboard-exec-to-lead-x-games-nonprofit/",
+      "source": "BizWest",
+      "pub_date": "2026-11-25T21:23:51+00:00",
+      "age_hours": 4.66554347,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "National Western Center is losing relationship with neighbors, auditor finds",
+      "link": "https://denverite.com/2026/11/25/national-western-center-audit-globeville-elyria-swansea/",
+      "source": "Denverite",
+      "pub_date": "2026-11-25T21:18:34+00:00",
+      "age_hours": 4.75388753,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Pair indicted in elaborate trading-card, vehicle-theft scheme",
+      "link": "https://bizwest.com/2026/11/25/pair-indicted-in-elaborate-trading-card-vehicle-theft-scheme/",
+      "source": "BizWest",
+      "pub_date": "2026-11-25T21:12:12+00:00",
+      "age_hours": 4.8597101616666665,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Aurora implements $10.2 million in city budget cuts and approves 2027 water, sewer hikes",
+      "link": "https://sentinelcolorado.com/metro/aurora-implements-10-2-million-in-city-budget-cuts-and-approves-2027-water-sewer-hikes/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-25T20:30:20+00:00",
+      "age_hours": 5.558109371111112,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
+    {
+      "title": "Denver Rescue Mission hosts Thanksgiving feast",
+      "link": "https://kdvr.com/news/local/denver-rescue-mission-hosts-thanksgiving-feast/",
+      "source": "Fox31",
+      "pub_date": "2026-11-25T20:05:36+00:00",
+      "age_hours": 5.970155021666666,
+      "breaking": true,
+      "time_ago": "5 hrs ago"
+    },
     {
       "title": "Help combat hunger: Donate to 9Cares Colorado Shares to support local food banks",
       "link": "https://www.9news.com/article/news/local/outreach/9-cares-colorado-shares/9cares-colorado-shares-november-food-drive/73-5e28ca58-7ae8-4b7e-834a-5f12a9ac7f56",
       "source": "9News",
       "pub_date": "2026-11-25T18:03:02+00:00",
-      "age_hours": 0.4354466011111111,
-      "breaking": true,
-      "time_ago": "26 min ago"
+      "age_hours": 8.012827639722222,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
     },
     {
-      "title": "Boys Soccer: 2026 All-Colorado League teams",
-      "link": "https://sentinelcolorado.com/sports/preps/boys-soccer/boys-soccer-2026-all-colorado-league-teams/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-25T15:47:13+00:00",
-      "age_hours": 2.6995538080555557,
+      "title": "Denver Multifamily Investors Blame Colorado Regulations For Capital Flight",
+      "link": "https://www.bisnow.com/news/denver/multifamily/legislation-negatively-impacts-denver-s-multifamily-market",
+      "source": "Bisnow",
+      "pub_date": "2026-11-25T16:58:40-05:00",
+      "age_hours": 4.085369437777778,
       "breaking": true,
-      "time_ago": "2 hrs ago"
+      "time_ago": "4 hrs ago"
     },
     {
       "title": "Boulder offers more help for residents to buy mobile-home park",
       "link": "https://bizwest.com/2026/11/25/boulder-offers-more-help-for-residents-to-buy-mobile-home-park/",
       "source": "BizWest",
       "pub_date": "2026-11-25T15:35:28+00:00",
-      "age_hours": 2.8942126858333332,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.471932406666665,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Cogent Biosciences wins OK for gastrointestinal drug",
       "link": "https://bizwest.com/2026/11/25/cogent-biosciences-wins-ok-for-gastrointestinal-drug/",
       "source": "BizWest",
       "pub_date": "2026-11-25T15:30:29+00:00",
-      "age_hours": 2.9772682536111112,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 10.554987966111112,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Visit Loveland joins state\u2019s Accessible Travel Program",
       "link": "https://bizwest.com/2026/11/25/visit-loveland-joins-states-accessible-travel-program/",
       "source": "BizWest",
       "pub_date": "2026-11-25T15:25:48+00:00",
-      "age_hours": 3.055324208333333,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 10.633043540000001,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
-      "title": "'No wrong way to Opt Outside': Outdoor retailer to leave its doors closed on Black Friday",
-      "link": "https://www.9news.com/article/life/holidays/black-friday/rei-closed-on-black-friday/73-9601d846-f3ff-4de8-838f-737b9f70fdde",
-      "source": "9News",
-      "pub_date": "2026-11-25T14:58:25+00:00",
-      "age_hours": 3.5123911433333332,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "Thanksgiving store closures | King Soopers, Safeway, Walmart, Target: What's open and closed?",
-      "link": "https://www.9news.com/article/money/business/king-soopers-safeway-open-closed-thanksgiving-hours/73-8d185ad5-afbb-44c5-8d8c-68b0652324e6",
-      "source": "9News",
-      "pub_date": "2026-11-25T12:52:45+00:00",
-      "age_hours": 5.606835650555555,
+      "title": "These cannabis goodies might help you win Thanksgiving and Black Friday",
+      "link": "https://www.westword.com/news/colorado-dispensary-goodies-thanksgiving-black-friday-40948934/",
+      "source": "Westword",
+      "pub_date": "2026-11-25T13:24:43-07:00",
+      "age_hours": 5.651570071944444,
       "breaking": true,
       "time_ago": "5 hrs ago"
     },
@@ -72,117 +180,9 @@
       "link": "https://coloradosun.com/2026/11/25/grouse-malt-house-gluten-free-beer-holidaily-golden-prairie-colorado/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-25T11:25:00+00:00",
-      "age_hours": 7.069111451111111,
+      "age_hours": 14.646596113611112,
       "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "New data centers in Aurora? Not for now, as City Council passes temporary moratorium.",
-      "link": "https://coloradosun.com/2026/11/25/aurora-data-center-moratorium-vantage-data-trident/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-25T11:15:00+00:00",
-      "age_hours": 7.235778139722222,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Colorado throwing less away as recycling and composting programs expand",
-      "link": "https://coloradosun.com/2026/11/25/colorado-recycling-diversion-improves-2025/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-25T11:08:00+00:00",
-      "age_hours": 7.352445330555555,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "The Broadmoor wins (again). And a new cafe for the old Nosh in downtown Colorado Springs",
-      "link": "https://www.cpr.org/2026/11/25/side-dish-hospys-broadmoor-new-cafe-nosh/",
-      "source": "CPR",
-      "pub_date": "2026-11-25T11:00:00+00:00",
-      "age_hours": 7.485932266666667,
-      "breaking": false,
-      "time_ago": "7 hrs ago"
-    },
-    {
-      "title": "Where to eat at Denver International Airport",
-      "link": "https://www.westword.com/food-drink/best-restaurants-denver-international-airport-21764169/",
-      "source": "Westword",
-      "pub_date": "2026-11-25T07:52:54-07:00",
-      "age_hours": 3.604713723611111,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
-    },
-    {
-      "title": "1 man egging Waymo's robot rideshares around metro, police report says",
-      "link": "https://www.9news.com/article/news/local/man-traps-eggs-waymo-vehicles-denver/73-170f60cf-942f-4501-a26d-f2582cfcfdd9",
-      "source": "9News",
-      "pub_date": "2026-11-25T06:40:34+00:00",
-      "age_hours": 11.809891264166666,
-      "breaking": false,
-      "time_ago": "11 hrs ago"
-    },
-    {
-      "title": "Denver Police officer fired over response to burglary alarm at home where fatal fire took place",
-      "link": "https://www.9news.com/article/news/latest-news-ott/denver-police-officer-fired-over-response-to-burglary-alarm-at-home-where-fatal-fire-took-place/73-d1fcae3a-1c3a-432f-ba86-bcfc49f3b23d",
-      "source": "9News",
-      "pub_date": "2026-11-25T06:25:16+00:00",
-      "age_hours": 12.064891297500001,
-      "breaking": false,
-      "time_ago": "12 hrs ago"
-    },
-    {
-      "title": "New Denver music venue cuts out major ticketing companies to support local artists",
-      "link": "https://kdvr.com/news/local/new-denver-music-venue-cuts-out-major-ticketing-companies-to-support-local-artists/",
-      "source": "Fox31",
-      "pub_date": "2026-11-25T04:44:28+00:00",
-      "age_hours": 13.745139105555555,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
-    },
-    {
-      "title": "Family mourns man killed while crossing South Sheridan Boulevard",
-      "link": "https://kdvr.com/news/local/family-mourns-man-killed-while-crossing-south-sheridan-boulevard/",
-      "source": "Fox31",
-      "pub_date": "2026-11-25T03:12:56+00:00",
-      "age_hours": 15.270694616666667,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Missing hiker in Custer County found dead",
-      "link": "https://kdvr.com/news/local/missing-hiker-in-custer-county-found-dead/",
-      "source": "Fox31",
-      "pub_date": "2026-11-24T23:24:55+00:00",
-      "age_hours": 19.070972617499997,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Meet the \u2018furry little superheroes\u2019 providing comfort during the holiday travel rush",
-      "link": "https://www.cpr.org/2026/11/24/therapy-dogs-comfort-holiday-travel-dia/",
-      "source": "CPR",
-      "pub_date": "2026-11-24T23:21:27+00:00",
-      "age_hours": 19.128432316388892,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "MyColorado app down after cybersecurity breach, data of up to 150,000 users possibly exposed",
-      "link": "https://www.denver7.com/news/local-news/mycolorado-app-down-during-thanksgiving-travel-rush-at-dia-after-cybersecurity-breach-data-of-up-to-150-000-users-possibly-exposed",
-      "source": "Denver7",
-      "pub_date": "2026-11-24T23:09:08+00:00",
-      "age_hours": 19.33387355638889,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
-    },
-    {
-      "title": "Barbecue buddies tap into plumbing biz",
-      "link": "https://bizwest.com/2026/11/24/barbecue-buddies-tap-into-plumbing-biz/",
-      "source": "BizWest",
-      "pub_date": "2026-11-24T22:48:34+00:00",
-      "age_hours": 19.67587979361111,
-      "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "14 hrs ago"
     }
   ]
 }
