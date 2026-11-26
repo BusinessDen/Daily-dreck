@@ -1,188 +1,188 @@
 {
   "fetched_date": "2026-11-26",
-  "fetched_at": "2026-11-26 11:58:51",
+  "fetched_at": "2026-11-26 21:22:31",
   "article_count": 20,
-  "breaking_count": 4,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Denver I-70 crash sends 3 people to the hospital Thanksgiving morning",
+      "link": "https://www.9news.com/article/traffic/i-70-crash-denver/73-5179da56-0190-44a5-859a-c5157fffccc1",
+      "source": "9News",
+      "pub_date": "2026-11-26T17:11:31+00:00",
+      "age_hours": 4.1792699636111115,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "As shop owners face new challenges, they hope Small Business Saturday will boost local support",
+      "link": "https://www.cpr.org/2026/11/26/small-business-saturday-colorado-local-stores/",
+      "source": "CPR",
+      "pub_date": "2026-11-26T17:00:00+00:00",
+      "age_hours": 4.371127465833333,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Salvation Army, others offer food, fun and company for free on Thanksgiving Day",
+      "link": "https://sentinelcolorado.com/metro/salvation-army-others-offer-food-fun-and-company-for-free-on-thanksgiving-day/",
+      "source": "Sentinel",
+      "pub_date": "2026-11-26T16:51:27+00:00",
+      "age_hours": 4.5142049930555554,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
     {
       "title": "A Chinese restaurant owner was feeding homeless people. Then the customers joined in",
       "link": "https://denverite.com/2026/11/26/jade-cafe-denver-pay-it-forward/",
       "source": "Denverite",
       "pub_date": "2026-11-26T11:05:00+00:00",
-      "age_hours": 0.8933192958333334,
-      "breaking": true,
-      "time_ago": "53 min ago"
+      "age_hours": 10.287761102777777,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "As costs climb, how can Denver restaurants keep customers coming back?",
       "link": "https://denverite.com/2026/11/26/denver-eating-out-costs-trends/",
       "source": "Denverite",
       "pub_date": "2026-11-26T11:00:00+00:00",
-      "age_hours": 0.9766526427777777,
-      "breaking": true,
-      "time_ago": "58 min ago"
+      "age_hours": 10.371094452777777,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
-      "title": "Dress for Success offers women rentering the workforce free business attire",
+      "title": "Dress for Success offers women re-entering the workforce free business attire",
       "link": "https://www.cpr.org/2026/11/26/dress-for-success-donated-womens-work-clothes/",
       "source": "CPR",
       "pub_date": "2026-11-26T11:00:00+00:00",
-      "age_hours": 0.9766747338888889,
-      "breaking": true,
-      "time_ago": "58 min ago"
+      "age_hours": 10.371127493888888,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Colorado has more than 70 holiday markets this year. Here\u2019s where to find them.",
       "link": "https://coloradosun.com/2026/11/26/2026-colorado-holiday-markets-where-and-when/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-26T10:59:00+00:00",
-      "age_hours": 0.9932700919444445,
-      "breaking": true,
-      "time_ago": "59 min ago"
+      "age_hours": 10.38772623138889,
+      "breaking": false,
+      "time_ago": "10 hrs ago"
     },
     {
       "title": "Wax Trax owner: 'It could have gone a different way,' car smashes into Denver record store",
       "link": "https://www.9news.com/article/money/business/small-business/wax-trax-car-smashes-record-store/73-6f835970-6a7a-4483-bbb2-1acb8da9500c",
       "source": "9News",
       "pub_date": "2026-11-26T05:47:06+00:00",
-      "age_hours": 6.1917523588888885,
+      "age_hours": 15.586214474722222,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Broncos seek OK to exceed mountain view limit at Burnham Yard",
       "link": "https://www.9news.com/article/news/local/colorado-news/broncos-look-to-exceed-mountain-view-limit-burnham-yard/73-6babb4ef-7a98-41c9-91bf-08afbba30815",
       "source": "9News",
       "pub_date": "2026-11-26T01:45:29+00:00",
-      "age_hours": 10.218696821944445,
+      "age_hours": 19.613158935833333,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "19 hrs ago"
     },
     {
       "title": "Why drivers are being limited through Denver's Cheesman Park",
       "link": "https://kdvr.com/news/local/why-drivers-are-being-limited-through-denvers-cheesman-park/",
       "source": "Fox31",
       "pub_date": "2026-11-26T00:44:23+00:00",
-      "age_hours": 11.237302185277777,
+      "age_hours": 20.631762041666665,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Boulder-based biotech company raises $87 million amid shift to vaccine development",
       "link": "https://www.9news.com/article/news/local/boulder-based-biotech-company-vitrivax-funding/73-fce9ea38-c509-40b5-a30e-1d11b9c3d0a0",
       "source": "9News",
       "pub_date": "2026-11-25T23:47:42+00:00",
-      "age_hours": 12.181752405000001,
+      "age_hours": 21.576214520833332,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "Construction progresses on former VA campus in Denver starting with historic renovation",
       "link": "https://www.9news.com/article/news/local/denver-former-va-property-latest/73-a423184c-37ba-4274-8d78-60b463b69afa",
       "source": "9News",
       "pub_date": "2026-11-25T23:37:51+00:00",
-      "age_hours": 12.345919083333333,
+      "age_hours": 21.740381200833333,
       "breaking": false,
-      "time_ago": "12 hrs ago"
+      "time_ago": "21 hrs ago"
     },
     {
       "title": "'No wrong way to Opt Outside': Outdoor retailer to leave its doors closed on Black Friday",
       "link": "https://www.9news.com/article/life/holidays/black-friday/rei-closed-on-black-friday/73-9601d846-f3ff-4de8-838f-737b9f70fdde",
       "source": "9News",
       "pub_date": "2026-11-25T22:43:03+00:00",
-      "age_hours": 13.259252424166668,
+      "age_hours": 22.6537145425,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "A Mexican Christmas, a Colorado story: Mario Rivas and Nita Gonzales share holiday memories",
       "link": "https://www.cpr.org/2026/11/25/a-mexican-christmas-a-colorado-story-mario-rivas-and-nita-gonzales-share-holiday-memories/",
       "source": "CPR",
       "pub_date": "2026-11-25T22:27:49+00:00",
-      "age_hours": 13.513063685277777,
+      "age_hours": 22.90751644388889,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Two Denver-based social enterprises hope customers shop with them for Small Business Saturday",
       "link": "https://www.denver7.com/news/front-range/denver/two-denver-based-social-enterprises-hope-customers-shop-with-them-for-small-business-saturday",
       "source": "Denver7",
       "pub_date": "2026-11-25T22:06:10+00:00",
-      "age_hours": 13.874141708333335,
+      "age_hours": 23.268574685,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Colorado\u2019s Advanced Industries Accelerator program doles dozens of grants",
       "link": "https://bizwest.com/2026/11/25/colorados-advanced-industries-accelerator-program-doles-dozens-of-grants/",
       "source": "BizWest",
       "pub_date": "2026-11-25T21:32:09+00:00",
-      "age_hours": 14.440422664444444,
+      "age_hours": 23.8348993175,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Ex-US Ski & Snowboard exec to lead X Games nonprofit",
       "link": "https://bizwest.com/2026/11/25/ex-us-ski-snowboard-exec-to-lead-x-games-nonprofit/",
       "source": "BizWest",
       "pub_date": "2026-11-25T21:23:51+00:00",
-      "age_hours": 14.578756489166667,
+      "age_hours": 23.973233253055554,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "National Western Center is losing relationship with neighbors, auditor finds",
       "link": "https://denverite.com/2026/11/25/national-western-center-audit-globeville-elyria-swansea/",
       "source": "Denverite",
       "pub_date": "2026-11-25T21:18:34+00:00",
-      "age_hours": 14.667208228055555,
+      "age_hours": 24.061650046666667,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Pair indicted in elaborate trading-card, vehicle-theft scheme",
       "link": "https://bizwest.com/2026/11/25/pair-indicted-in-elaborate-trading-card-vehicle-theft-scheme/",
       "source": "BizWest",
       "pub_date": "2026-11-25T21:12:12+00:00",
-      "age_hours": 14.772923189166665,
+      "age_hours": 24.167399955833332,
       "breaking": false,
-      "time_ago": "14 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Aurora implements $10.2 million in city budget cuts and approves 2027 water, sewer hikes",
       "link": "https://sentinelcolorado.com/metro/aurora-implements-10-2-million-in-city-budget-cuts-and-approves-2027-water-sewer-hikes/",
       "source": "Sentinel",
       "pub_date": "2026-11-25T20:30:20+00:00",
-      "age_hours": 15.471729979166666,
+      "age_hours": 24.866149695833332,
       "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Denver Rescue Mission hosts Thanksgiving feast",
-      "link": "https://kdvr.com/news/local/denver-rescue-mission-hosts-thanksgiving-feast/",
-      "source": "Fox31",
-      "pub_date": "2026-11-25T20:05:36+00:00",
-      "age_hours": 15.883691203333333,
-      "breaking": false,
-      "time_ago": "15 hrs ago"
-    },
-    {
-      "title": "Help combat hunger: Donate to 9Cares Colorado Shares to support local food banks",
-      "link": "https://www.9news.com/article/news/local/outreach/9-cares-colorado-shares/9cares-colorado-shares-november-food-drive/73-5e28ca58-7ae8-4b7e-834a-5f12a9ac7f56",
-      "source": "9News",
-      "pub_date": "2026-11-25T18:03:02+00:00",
-      "age_hours": 17.92619696222222,
-      "breaking": false,
-      "time_ago": "17 hrs ago"
-    },
-    {
-      "title": "Denver Multifamily Investors Blame Colorado Regulations For Capital Flight",
-      "link": "https://www.bisnow.com/news/denver/multifamily/legislation-negatively-impacts-denver-s-multifamily-market",
-      "source": "Bisnow",
-      "pub_date": "2026-11-25T16:58:40-05:00",
-      "age_hours": 13.998537846666666,
-      "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "1 day ago"
     }
   ]
 }
