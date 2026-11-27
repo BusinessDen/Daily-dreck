@@ -1,105 +1,168 @@
 {
   "fetched_date": "2026-11-27",
-  "fetched_at": "2026-11-27 13:41:41",
+  "fetched_at": "2026-11-27 22:31:09",
   "article_count": 20,
-  "breaking_count": 3,
+  "breaking_count": 6,
   "articles": [
     {
-      "title": "How local Colorado merchants are competing with AI this holiday: They\u2019re not.",
+      "title": "Couple picks up restaurant tab for hundreds of families celebrating Thanksgiving in Texas",
+      "link": "https://www.9news.com/article/news/nation-world/texas-couple-picks-up-tab-hundreds-of-families-thanksgiving/507-b9b8eafd-0644-436f-ac28-2edaaf4cba23",
+      "source": "9News",
+      "pub_date": "2026-11-27T21:54:39+00:00",
+      "age_hours": 0.6042366916666666,
+      "breaking": true,
+      "time_ago": "36 min ago"
+    },
+    {
+      "title": "Thousands of speeding ticket refunds issued after Pueblo construction zone error discovered",
+      "link": "https://kdvr.com/news/local/thousands-of-speeding-ticket-refunds-issued-after-pueblo-construction-zone-error-discovered/",
+      "source": "Fox31",
+      "pub_date": "2026-11-27T21:26:19+00:00",
+      "age_hours": 1.076736281111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "1 seriously injured after broad daylight hit-and-run in Denver",
+      "link": "https://kdvr.com/news/local/1-seriously-injured-after-broad-daylight-hit-and-run-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-11-27T20:57:17+00:00",
+      "age_hours": 1.5606250088888889,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver firefighters respond to 2 Thanksgiving Day fires in Montbello",
+      "link": "https://kdvr.com/news/local/denver-firefighters-respond-to-2-thanksgiving-day-fires-in-montbello/",
+      "source": "Fox31",
+      "pub_date": "2026-11-27T20:51:25+00:00",
+      "age_hours": 1.6584028252777776,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Pizza Hut cofounder Dan Carney dies, nearly 7 decades after first launching the business",
+      "link": "https://www.9news.com/article/news/nation-world/pizza-hut-cofounder-dan-carney-dies/507-df5651f2-81c8-41ea-8c97-b123775759f4",
+      "source": "9News",
+      "pub_date": "2026-11-27T20:17:18+00:00",
+      "age_hours": 2.226736744166667,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Denver airport expecting extra busy weekend and increased passenger traffic to end month",
+      "link": "https://www.9news.com/article/travel/denver-international-airport/dia-expecting-busy-weekend-increased-traffic-to-end-month/73-d611429e-1e7f-40dc-9f2f-78dab1b2b51c",
+      "source": "9News",
+      "pub_date": "2026-11-27T18:17:08+00:00",
+      "age_hours": 4.229514566111111,
+      "breaking": true,
+      "time_ago": "4 hrs ago"
+    },
+    {
+      "title": "Before sunrise at Macy\u2019s, a familiar Black Friday ritual returns despite weeks of online deals",
+      "link": "https://www.9news.com/article/news/nation-world/black-friday-2026/507-e6564dab-8fdd-4da9-a6fd-b31b37c0b780",
+      "source": "9News",
+      "pub_date": "2026-11-27T16:07:16+00:00",
+      "age_hours": 6.393959059166667,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "Celebrating Home Tour\u2019s 50th year | NONPROFIT REGISTER",
+      "link": "https://www.coloradopolitics.com/2026/11/27/celebrating-home-tours-50th-year-nonprofit-register/",
+      "source": "CO Politics",
+      "pub_date": "2026-11-27T16:00:00+00:00",
+      "age_hours": 6.515486044166666,
+      "breaking": false,
+      "time_ago": "6 hrs ago"
+    },
+    {
+      "title": "How are local Colorado merchants are competing with AI this holiday? They\u2019re not.",
       "link": "https://coloradosun.com/2026/11/27/black-friday-retail-ai-sales-saturday/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-27T11:00:00+00:00",
-      "age_hours": 2.6897053394444446,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 11.5149134575,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "The 2026 Denverite gift guide",
       "link": "https://denverite.com/2026/11/27/denverite-gift-guide-2026/",
       "source": "Denverite",
       "pub_date": "2026-11-27T11:00:00+00:00",
-      "age_hours": 2.689788487777778,
-      "breaking": true,
-      "time_ago": "2 hrs ago"
+      "age_hours": 11.514969489999999,
+      "breaking": false,
+      "time_ago": "11 hrs ago"
     },
     {
       "title": "Diana DeGette reflects on her loss, legacy and next chapter",
       "link": "https://coloradosun.com/2026/11/27/diana-degette-reflects-on-loss-legacy/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-27T10:15:00+00:00",
-      "age_hours": 3.439705948055556,
-      "breaking": true,
-      "time_ago": "3 hrs ago"
+      "age_hours": 12.26491409277778,
+      "breaking": false,
+      "time_ago": "12 hrs ago"
     },
     {
-      "title": "Coloradans travel on Thanksgiving Day in the mountains and at DIA",
-      "link": "https://kdvr.com/news/coloradans-travel-on-thanksgiving-day-in-the-mountains-and-at-dia/",
-      "source": "Fox31",
-      "pub_date": "2026-11-27T05:06:37+00:00",
-      "age_hours": 8.579966862777777,
+      "title": "Where to shop local on Small Business Saturday around Denver",
+      "link": "https://www.westword.com/arts-culture/things-to-do-on-small-business-saturday-around-denver-40964917/",
+      "source": "Westword",
+      "pub_date": "2026-11-27T07:45:00-07:00",
+      "age_hours": 7.765376268888889,
       "breaking": false,
-      "time_ago": "8 hrs ago"
+      "time_ago": "7 hrs ago"
     },
     {
       "title": "Black woman sues Denver Police after being accused of stealing a package that wasn\u2019t stolen",
       "link": "https://www.cpr.org/2026/11/26/ebony-watson-sues-denver-police-stolen-package/",
       "source": "CPR",
       "pub_date": "2026-11-26T23:46:39+00:00",
-      "age_hours": 13.912334545833334,
+      "age_hours": 22.737529229166668,
       "breaking": false,
-      "time_ago": "13 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Signs of another high-stakes legislative showdown brewing over statewide tobacco rules",
       "link": "https://www.cpr.org/2026/11/26/possible-state-tobacco-nicotine-sales-legislation/",
       "source": "CPR",
       "pub_date": "2026-11-26T22:00:00+00:00",
-      "age_hours": 15.689834604722222,
+      "age_hours": 24.515029270833335,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "New fund targets housing barrier for transplant patients",
       "link": "https://kdvr.com/news/local/new-fund-targets-housing-barrier-for-transplant-patients/",
       "source": "Fox31",
       "pub_date": "2026-11-26T21:49:57+00:00",
-      "age_hours": 15.857744586666668,
+      "age_hours": 24.68284733277778,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver I-70 crash sends 3 people to the hospital Thanksgiving morning",
       "link": "https://www.9news.com/article/traffic/i-70-crash-denver/73-5179da56-0190-44a5-859a-c5157fffccc1",
       "source": "9News",
       "pub_date": "2026-11-26T17:11:31+00:00",
-      "age_hours": 20.498018109722224,
+      "age_hours": 29.3231258,
       "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "As shop owners face new challenges, they hope Small Business Saturday will boost local support",
       "link": "https://www.cpr.org/2026/11/26/small-business-saturday-colorado-local-stores/",
       "source": "CPR",
       "pub_date": "2026-11-26T17:00:00+00:00",
-      "age_hours": 20.68983462027778,
+      "age_hours": 29.515029287222223,
       "breaking": false,
-      "time_ago": "20 hrs ago"
-    },
-    {
-      "title": "Salvation Army, others offer food, fun and company for free on Thanksgiving Day",
-      "link": "https://sentinelcolorado.com/metro/salvation-army-others-offer-food-fun-and-company-for-free-on-thanksgiving-day/",
-      "source": "Sentinel",
-      "pub_date": "2026-11-26T16:51:27+00:00",
-      "age_hours": 20.833111068055555,
-      "breaking": false,
-      "time_ago": "20 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "A Chinese restaurant owner was feeding homeless people. Then the customers joined in",
       "link": "https://denverite.com/2026/11/26/jade-cafe-denver-pay-it-forward/",
       "source": "Denverite",
       "pub_date": "2026-11-26T11:05:00+00:00",
-      "age_hours": 26.606455188055556,
+      "age_hours": 35.431636187222225,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +171,7 @@
       "link": "https://denverite.com/2026/11/26/denver-eating-out-costs-trends/",
       "source": "Denverite",
       "pub_date": "2026-11-26T11:00:00+00:00",
-      "age_hours": 26.689788526388888,
+      "age_hours": 35.51496952694445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,70 +180,7 @@
       "link": "https://coloradosun.com/2026/11/26/2026-colorado-holiday-markets-where-and-when/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-26T10:59:00+00:00",
-      "age_hours": 26.70637329361111,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Wax Trax owner: 'It could have gone a different way,' car smashes into Denver record store",
-      "link": "https://www.9news.com/article/money/business/small-business/wax-trax-car-smashes-record-store/73-6f835970-6a7a-4483-bbb2-1acb8da9500c",
-      "source": "9News",
-      "pub_date": "2026-11-26T05:47:06+00:00",
-      "age_hours": 31.904962610555554,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Broncos seek OK to exceed mountain view limit at Burnham Yard",
-      "link": "https://www.9news.com/article/news/local/colorado-news/broncos-look-to-exceed-mountain-view-limit-burnham-yard/73-6babb4ef-7a98-41c9-91bf-08afbba30815",
-      "source": "9News",
-      "pub_date": "2026-11-26T01:45:29+00:00",
-      "age_hours": 35.93190707472222,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Boulder-based biotech company raises $87 million amid shift to vaccine development",
-      "link": "https://www.9news.com/article/news/local/boulder-based-biotech-company-vitrivax-funding/73-fce9ea38-c509-40b5-a30e-1d11b9c3d0a0",
-      "source": "9News",
-      "pub_date": "2026-11-25T23:47:42+00:00",
-      "age_hours": 37.894962659444445,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Construction progresses on former VA campus in Denver starting with historic renovation",
-      "link": "https://www.9news.com/article/news/local/denver-former-va-property-latest/73-a423184c-37ba-4274-8d78-60b463b69afa",
-      "source": "9News",
-      "pub_date": "2026-11-25T23:37:51+00:00",
-      "age_hours": 38.059129339444446,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "'No wrong way to Opt Outside': Outdoor retailer to leave its doors closed on Black Friday",
-      "link": "https://www.9news.com/article/life/holidays/black-friday/rei-closed-on-black-friday/73-9601d846-f3ff-4de8-838f-737b9f70fdde",
-      "source": "9News",
-      "pub_date": "2026-11-25T22:43:03+00:00",
-      "age_hours": 38.97246268055555,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Two Denver-based social enterprises hope customers shop with them for Small Business Saturday",
-      "link": "https://www.denver7.com/news/front-range/denver/two-denver-based-social-enterprises-hope-customers-shop-with-them-for-small-business-saturday",
-      "source": "Denver7",
-      "pub_date": "2026-11-25T22:06:10+00:00",
-      "age_hours": 39.58733097555556,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Colorado\u2019s Advanced Industries Accelerator program doles dozens of grants",
-      "link": "https://bizwest.com/2026/11/25/colorados-advanced-industries-accelerator-program-doles-dozens-of-grants/",
-      "source": "BizWest",
-      "pub_date": "2026-11-25T21:32:09+00:00",
-      "age_hours": 40.15343363527778,
+      "age_hours": 35.53158143416667,
       "breaking": false,
       "time_ago": "1 day ago"
     }
