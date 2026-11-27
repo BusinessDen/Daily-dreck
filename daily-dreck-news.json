@@ -1,114 +1,141 @@
 {
   "fetched_date": "2026-11-27",
-  "fetched_at": "2026-11-27 03:57:54",
+  "fetched_at": "2026-11-27 13:41:41",
   "article_count": 20,
-  "breaking_count": 2,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "How local Colorado merchants are competing with AI this holiday: They\u2019re not.",
+      "link": "https://coloradosun.com/2026/11/27/black-friday-retail-ai-sales-saturday/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-27T11:00:00+00:00",
+      "age_hours": 2.6897053394444446,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "The 2026 Denverite gift guide",
+      "link": "https://denverite.com/2026/11/27/denverite-gift-guide-2026/",
+      "source": "Denverite",
+      "pub_date": "2026-11-27T11:00:00+00:00",
+      "age_hours": 2.689788487777778,
+      "breaking": true,
+      "time_ago": "2 hrs ago"
+    },
+    {
+      "title": "Diana DeGette reflects on her loss, legacy and next chapter",
+      "link": "https://coloradosun.com/2026/11/27/diana-degette-reflects-on-loss-legacy/",
+      "source": "Colorado Sun",
+      "pub_date": "2026-11-27T10:15:00+00:00",
+      "age_hours": 3.439705948055556,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
+    {
+      "title": "Coloradans travel on Thanksgiving Day in the mountains and at DIA",
+      "link": "https://kdvr.com/news/coloradans-travel-on-thanksgiving-day-in-the-mountains-and-at-dia/",
+      "source": "Fox31",
+      "pub_date": "2026-11-27T05:06:37+00:00",
+      "age_hours": 8.579966862777777,
+      "breaking": false,
+      "time_ago": "8 hrs ago"
+    },
     {
       "title": "Black woman sues Denver Police after being accused of stealing a package that wasn\u2019t stolen",
       "link": "https://www.cpr.org/2026/11/26/ebony-watson-sues-denver-police-stolen-package/",
       "source": "CPR",
       "pub_date": "2026-11-26T23:46:39+00:00",
-      "age_hours": 4.182737244722222,
-      "breaking": true,
-      "time_ago": "4 hrs ago"
+      "age_hours": 13.912334545833334,
+      "breaking": false,
+      "time_ago": "13 hrs ago"
     },
     {
       "title": "Signs of another high-stakes legislative showdown brewing over statewide tobacco rules",
       "link": "https://www.cpr.org/2026/11/26/possible-state-tobacco-nicotine-sales-legislation/",
       "source": "CPR",
       "pub_date": "2026-11-26T22:00:00+00:00",
-      "age_hours": 5.960237296388889,
-      "breaking": true,
-      "time_ago": "5 hrs ago"
+      "age_hours": 15.689834604722222,
+      "breaking": false,
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "New fund targets housing barrier for transplant patients",
       "link": "https://kdvr.com/news/local/new-fund-targets-housing-barrier-for-transplant-patients/",
       "source": "Fox31",
       "pub_date": "2026-11-26T21:49:57+00:00",
-      "age_hours": 6.128088566388889,
+      "age_hours": 15.857744586666668,
       "breaking": false,
-      "time_ago": "6 hrs ago"
+      "time_ago": "15 hrs ago"
     },
     {
       "title": "Denver I-70 crash sends 3 people to the hospital Thanksgiving morning",
       "link": "https://www.9news.com/article/traffic/i-70-crash-denver/73-5179da56-0190-44a5-859a-c5157fffccc1",
       "source": "9News",
       "pub_date": "2026-11-26T17:11:31+00:00",
-      "age_hours": 10.768336049166667,
+      "age_hours": 20.498018109722224,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "As shop owners face new challenges, they hope Small Business Saturday will boost local support",
       "link": "https://www.cpr.org/2026/11/26/small-business-saturday-colorado-local-stores/",
       "source": "CPR",
       "pub_date": "2026-11-26T17:00:00+00:00",
-      "age_hours": 10.96023731611111,
+      "age_hours": 20.68983462027778,
       "breaking": false,
-      "time_ago": "10 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "Salvation Army, others offer food, fun and company for free on Thanksgiving Day",
       "link": "https://sentinelcolorado.com/metro/salvation-army-others-offer-food-fun-and-company-for-free-on-thanksgiving-day/",
       "source": "Sentinel",
       "pub_date": "2026-11-26T16:51:27+00:00",
-      "age_hours": 11.10329569472222,
+      "age_hours": 20.833111068055555,
       "breaking": false,
-      "time_ago": "11 hrs ago"
+      "time_ago": "20 hrs ago"
     },
     {
       "title": "A Chinese restaurant owner was feeding homeless people. Then the customers joined in",
       "link": "https://denverite.com/2026/11/26/jade-cafe-denver-pay-it-forward/",
       "source": "Denverite",
       "pub_date": "2026-11-26T11:05:00+00:00",
-      "age_hours": 16.876883423055556,
+      "age_hours": 26.606455188055556,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "As costs climb, how can Denver restaurants keep customers coming back?",
       "link": "https://denverite.com/2026/11/26/denver-eating-out-costs-trends/",
       "source": "Denverite",
       "pub_date": "2026-11-26T11:00:00+00:00",
-      "age_hours": 16.96021678027778,
+      "age_hours": 26.689788526388888,
       "breaking": false,
-      "time_ago": "16 hrs ago"
-    },
-    {
-      "title": "Dress for Success offers women re-entering the workforce free business attire",
-      "link": "https://www.cpr.org/2026/11/26/dress-for-success-donated-womens-work-clothes/",
-      "source": "CPR",
-      "pub_date": "2026-11-26T11:00:00+00:00",
-      "age_hours": 16.96023734222222,
-      "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Colorado has more than 70 holiday markets this year. Here\u2019s where to find them.",
       "link": "https://coloradosun.com/2026/11/26/2026-colorado-holiday-markets-where-and-when/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-26T10:59:00+00:00",
-      "age_hours": 16.9766684125,
+      "age_hours": 26.70637329361111,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Wax Trax owner: 'It could have gone a different way,' car smashes into Denver record store",
       "link": "https://www.9news.com/article/money/business/small-business/wax-trax-car-smashes-record-store/73-6f835970-6a7a-4483-bbb2-1acb8da9500c",
       "source": "9News",
       "pub_date": "2026-11-26T05:47:06+00:00",
-      "age_hours": 22.17528056388889,
+      "age_hours": 31.904962610555554,
       "breaking": false,
-      "time_ago": "22 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Broncos seek OK to exceed mountain view limit at Burnham Yard",
       "link": "https://www.9news.com/article/news/local/colorado-news/broncos-look-to-exceed-mountain-view-limit-burnham-yard/73-6babb4ef-7a98-41c9-91bf-08afbba30815",
       "source": "9News",
       "pub_date": "2026-11-26T01:45:29+00:00",
-      "age_hours": 26.202225028333334,
+      "age_hours": 35.93190707472222,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,7 +144,7 @@
       "link": "https://www.9news.com/article/news/local/boulder-based-biotech-company-vitrivax-funding/73-fce9ea38-c509-40b5-a30e-1d11b9c3d0a0",
       "source": "9News",
       "pub_date": "2026-11-25T23:47:42+00:00",
-      "age_hours": 28.165280620833332,
+      "age_hours": 37.894962659444445,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -126,7 +153,7 @@
       "link": "https://www.9news.com/article/news/local/denver-former-va-property-latest/73-a423184c-37ba-4274-8d78-60b463b69afa",
       "source": "9News",
       "pub_date": "2026-11-25T23:37:51+00:00",
-      "age_hours": 28.329447304444443,
+      "age_hours": 38.059129339444446,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -135,7 +162,7 @@
       "link": "https://www.9news.com/article/life/holidays/black-friday/rei-closed-on-black-friday/73-9601d846-f3ff-4de8-838f-737b9f70fdde",
       "source": "9News",
       "pub_date": "2026-11-25T22:43:03+00:00",
-      "age_hours": 29.242780647777778,
+      "age_hours": 38.97246268055555,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +171,7 @@
       "link": "https://www.denver7.com/news/front-range/denver/two-denver-based-social-enterprises-hope-customers-shop-with-them-for-small-business-saturday",
       "source": "Denver7",
       "pub_date": "2026-11-25T22:06:10+00:00",
-      "age_hours": 29.857675489444446,
+      "age_hours": 39.58733097555556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +180,7 @@
       "link": "https://bizwest.com/2026/11/25/colorados-advanced-industries-accelerator-program-doles-dozens-of-grants/",
       "source": "BizWest",
       "pub_date": "2026-11-25T21:32:09+00:00",
-      "age_hours": 30.423722345555554,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Ex-US Ski & Snowboard exec to lead X Games nonprofit",
-      "link": "https://bizwest.com/2026/11/25/ex-us-ski-snowboard-exec-to-lead-x-games-nonprofit/",
-      "source": "BizWest",
-      "pub_date": "2026-11-25T21:23:51+00:00",
-      "age_hours": 30.562056538333334,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "National Western Center is losing relationship with neighbors, auditor finds",
-      "link": "https://denverite.com/2026/11/25/national-western-center-audit-globeville-elyria-swansea/",
-      "source": "Denverite",
-      "pub_date": "2026-11-25T21:18:34+00:00",
-      "age_hours": 30.650772373055556,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Pair indicted in elaborate trading-card, vehicle-theft scheme",
-      "link": "https://bizwest.com/2026/11/25/pair-indicted-in-elaborate-trading-card-vehicle-theft-scheme/",
-      "source": "BizWest",
-      "pub_date": "2026-11-25T21:12:12+00:00",
-      "age_hours": 30.756223260833334,
+      "age_hours": 40.15343363527778,
       "breaking": false,
       "time_ago": "1 day ago"
     }
