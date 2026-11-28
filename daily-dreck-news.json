@@ -1,96 +1,123 @@
 {
   "fetched_date": "2026-11-28",
-  "fetched_at": "2026-11-28 13:56:41",
+  "fetched_at": "2026-11-28 21:37:54",
   "article_count": 20,
-  "breaking_count": 0,
+  "breaking_count": 3,
   "articles": [
+    {
+      "title": "Suspect hospitalized following officer-involved shooting in Denver",
+      "link": "https://kdvr.com/news/local/suspect-hospitalized-following-officer-involved-shooting-in-denver/",
+      "source": "Fox31",
+      "pub_date": "2026-11-28T21:05:23+00:00",
+      "age_hours": 0.5376877511111111,
+      "breaking": true,
+      "time_ago": "32 min ago"
+    },
+    {
+      "title": "Mortgage rates have put Colorado\u2019s homebuyers and sellers on the side lines",
+      "link": "https://www.cpr.org/2026/11/28/colorado-home-sales-down-high-mortgage-rates/",
+      "source": "CPR",
+      "pub_date": "2026-11-28T20:00:00+00:00",
+      "age_hours": 1.627037296111111,
+      "breaking": true,
+      "time_ago": "1 hrs ago"
+    },
+    {
+      "title": "Denver weather: Flakes fly today with rapidly falling temperatures",
+      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-flakes-fly-today-with-rapidly-falling-temperatures/",
+      "source": "Fox31",
+      "pub_date": "2026-11-28T17:52:14+00:00",
+      "age_hours": 3.756854361111111,
+      "breaking": true,
+      "time_ago": "3 hrs ago"
+    },
     {
       "title": "Watercourse Foods, Denver\u2019s pioneering plant-based eatery, is closing its doors",
       "link": "https://denverite.com/2026/11/27/watercourse-foods-closing-denver/",
       "source": "Denverite",
       "pub_date": "2026-11-27T22:54:27+00:00",
-      "age_hours": 15.033997464444445,
+      "age_hours": 22.719512995555558,
       "breaking": false,
-      "time_ago": "15 hrs ago"
+      "time_ago": "22 hrs ago"
     },
     {
       "title": "Couple picks up restaurant tab for hundreds of families celebrating Thanksgiving in Texas",
       "link": "https://www.9news.com/article/news/nation-world/texas-couple-picks-up-tab-hundreds-of-families-thanksgiving/507-b9b8eafd-0644-436f-ac28-2edaaf4cba23",
       "source": "9News",
       "pub_date": "2026-11-27T21:54:39+00:00",
-      "age_hours": 16.0307472725,
+      "age_hours": 23.71628404388889,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "23 hrs ago"
     },
     {
       "title": "Thousands of speeding ticket refunds issued after Pueblo construction zone error discovered",
       "link": "https://kdvr.com/news/local/thousands-of-speeding-ticket-refunds-issued-after-pueblo-construction-zone-error-discovered/",
       "source": "Fox31",
       "pub_date": "2026-11-27T21:26:19+00:00",
-      "age_hours": 16.503205573055556,
+      "age_hours": 24.188799050555556,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Medina Alert issued after pedestrian killed in broad daylight hit-and-run",
       "link": "https://kdvr.com/news/local/1-seriously-injured-after-broad-daylight-hit-and-run-in-denver/",
       "source": "Fox31",
       "pub_date": "2026-11-27T20:57:17+00:00",
-      "age_hours": 16.987094306944446,
+      "age_hours": 24.672687799722222,
       "breaking": false,
-      "time_ago": "16 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver firefighters respond to 2 Thanksgiving Day fires in Montbello",
       "link": "https://kdvr.com/news/local/denver-firefighters-respond-to-2-thanksgiving-day-fires-in-montbello/",
       "source": "Fox31",
       "pub_date": "2026-11-27T20:51:25+00:00",
-      "age_hours": 17.084872156944446,
+      "age_hours": 24.77046563472222,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Pizza Hut cofounder Dan Carney dies, nearly 7 decades after first launching the business",
       "link": "https://www.9news.com/article/news/nation-world/pizza-hut-cofounder-dan-carney-dies/507-df5651f2-81c8-41ea-8c97-b123775759f4",
       "source": "9News",
       "pub_date": "2026-11-27T20:17:18+00:00",
-      "age_hours": 17.653247333611112,
+      "age_hours": 25.338784098888887,
       "breaking": false,
-      "time_ago": "17 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Denver airport expecting extra busy weekend and increased passenger traffic to end month",
       "link": "https://www.9news.com/article/travel/denver-international-airport/dia-expecting-busy-weekend-increased-traffic-to-end-month/73-d611429e-1e7f-40dc-9f2f-78dab1b2b51c",
       "source": "9News",
       "pub_date": "2026-11-27T18:17:08+00:00",
-      "age_hours": 19.656025162777777,
+      "age_hours": 27.341561922500002,
       "breaking": false,
-      "time_ago": "19 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Before sunrise at Macy\u2019s, a familiar Black Friday ritual returns despite weeks of online deals",
       "link": "https://www.9news.com/article/news/nation-world/black-friday-2026/507-e6564dab-8fdd-4da9-a6fd-b31b37c0b780",
       "source": "9News",
       "pub_date": "2026-11-27T16:07:16+00:00",
-      "age_hours": 21.820469661666667,
+      "age_hours": 29.50600640638889,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Celebrating Home Tour\u2019s 50th year | NONPROFIT REGISTER",
       "link": "https://www.coloradopolitics.com/2026/11/27/celebrating-home-tours-50th-year-nonprofit-register/",
       "source": "CO Politics",
       "pub_date": "2026-11-27T16:00:00+00:00",
-      "age_hours": 21.94195872138889,
+      "age_hours": 29.627679860277777,
       "breaking": false,
-      "time_ago": "21 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "How are local Colorado merchants are competing with AI this holiday? They\u2019re not.",
       "link": "https://coloradosun.com/2026/11/27/black-friday-retail-ai-sales-saturday/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-27T11:00:00+00:00",
-      "age_hours": 26.941383856666665,
+      "age_hours": 34.62693169777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -99,7 +126,7 @@
       "link": "https://denverite.com/2026/11/27/denverite-gift-guide-2026/",
       "source": "Denverite",
       "pub_date": "2026-11-27T11:00:00+00:00",
-      "age_hours": 26.941497525000003,
+      "age_hours": 34.627013053055556,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -108,7 +135,7 @@
       "link": "https://coloradosun.com/2026/11/27/diana-degette-reflects-on-loss-legacy/",
       "source": "Colorado Sun",
       "pub_date": "2026-11-27T10:15:00+00:00",
-      "age_hours": 27.6913850725,
+      "age_hours": 35.376932378333336,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -117,25 +144,16 @@
       "link": "https://www.westword.com/arts-culture/things-to-do-on-small-business-saturday-around-denver-40964917/",
       "source": "Westword",
       "pub_date": "2026-11-27T07:45:00-07:00",
-      "age_hours": 23.191850736666666,
+      "age_hours": 30.87751131138889,
       "breaking": false,
-      "time_ago": "23 hrs ago"
+      "time_ago": "1 day ago"
     },
     {
       "title": "Black woman sues Denver Police after being accused of stealing a package that wasn\u2019t stolen",
       "link": "https://www.cpr.org/2026/11/26/ebony-watson-sues-denver-police-stolen-package/",
       "source": "CPR",
       "pub_date": "2026-11-26T23:46:39+00:00",
-      "age_hours": 38.16404961833334,
-      "breaking": false,
-      "time_ago": "1 day ago"
-    },
-    {
-      "title": "Signs of another high-stakes legislative showdown brewing over statewide tobacco rules",
-      "link": "https://www.cpr.org/2026/11/26/possible-state-tobacco-nicotine-sales-legislation/",
-      "source": "CPR",
-      "pub_date": "2026-11-26T22:00:00+00:00",
-      "age_hours": 39.94154966972223,
+      "age_hours": 45.84953740361111,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -144,7 +162,7 @@
       "link": "https://kdvr.com/news/local/new-fund-targets-housing-barrier-for-transplant-patients/",
       "source": "Fox31",
       "pub_date": "2026-11-26T21:49:57+00:00",
-      "age_hours": 40.10931668944444,
+      "age_hours": 47.79491016777778,
       "breaking": false,
       "time_ago": "1 day ago"
     },
@@ -153,34 +171,16 @@
       "link": "https://www.9news.com/article/traffic/i-70-crash-denver/73-5179da56-0190-44a5-859a-c5157fffccc1",
       "source": "9News",
       "pub_date": "2026-11-26T17:11:31+00:00",
-      "age_hours": 44.74963639944444,
+      "age_hours": 52.43517314388889,
       "breaking": false,
-      "time_ago": "1 day ago"
+      "time_ago": "2 days ago"
     },
     {
       "title": "A Chinese restaurant owner was feeding homeless people. Then the customers joined in",
       "link": "https://denverite.com/2026/11/26/jade-cafe-denver-pay-it-forward/",
       "source": "Denverite",
       "pub_date": "2026-11-26T11:05:00+00:00",
-      "age_hours": 50.85816421916666,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "As costs climb, how can Denver restaurants keep customers coming back?",
-      "link": "https://denverite.com/2026/11/26/denver-eating-out-costs-trends/",
-      "source": "Denverite",
-      "pub_date": "2026-11-26T11:00:00+00:00",
-      "age_hours": 50.94149756444444,
-      "breaking": false,
-      "time_ago": "2 days ago"
-    },
-    {
-      "title": "Colorado has more than 70 holiday markets this year. Here\u2019s where to find them.",
-      "link": "https://coloradosun.com/2026/11/26/2026-colorado-holiday-markets-where-and-when/",
-      "source": "Colorado Sun",
-      "pub_date": "2026-11-26T10:59:00+00:00",
-      "age_hours": 50.958052853888894,
+      "age_hours": 58.54367974611111,
       "breaking": false,
       "time_ago": "2 days ago"
     }
